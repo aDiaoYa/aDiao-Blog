@@ -1,0 +1,36 @@
+<div class="page-shell">
+  <header class="site-header">
+    <a class="brand" href="<%- url_for('/') %>" aria-label="<%= config.title %>">
+      <span class="brand-icon" aria-hidden="true">&#x1F98B;</span>
+      <span>
+        <strong><%= config.title %></strong>
+        <small><%= config.subtitle || '' %></small>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="主导航">
+      <a href="<%- url_for('/') %>">关于</a>
+      <a href="<%- url_for('/home/') %>">文章</a>
+      <a href="<%- url_for('/archives/') %>">归档</a>
+    </nav>
+  </header>
+
+  <main class="layout-grid">
+    <section class="content-panel not-found">
+      <div class="nf-code">404</div>
+      <h2>页面未找到</h2>
+      <p>你访问的页面可能已被删除、移动，或者从未存在过。</p>
+      <div class="nf-links">
+        <a class="nf-home" href="<%- url_for('/') %>">返回首页</a>
+        <a href="<%- url_for('/home/') %>">浏览文章</a>
+        <a href="<%- url_for('/archives/') %>">归档</a>
+      </div>
+    </section>
+    <aside class="side-panel" aria-label="博客信息">
+      <section class="profile-card">
+        <div class="profile-avatar"><span class="avatar-text">?</span></div>
+        <h2>迷路了？</h2>
+        <p class="profile-bio">试试上面的链接，或搜索你想找的内容。</p>
+      </section>
+    </aside>
+  </main>
+</div>

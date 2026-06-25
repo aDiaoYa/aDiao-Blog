@@ -1,0 +1,46 @@
+menu:
+  intro: /
+  home: /home/
+  archives: /archives/
+  friends: /friends/
+
+profile:
+  name: aDiaoYa
+  title: 啊叼一只鱼 · 代码与智能的边界
+  bio: 探索前端工程与 AI Agent 的交汇点，写代码，也写思考。
+
+# 社交链接
+social:
+  github: https://github.com/aDiaoYa
+  email: mailto:your@email.com
+  # twitter: https://twitter.com/你的id
+  # zhihu: https://www.zhihu.com/people/你的id
+
+# 文章分类（预设的分类列表，用于侧边栏显示）
+# 不设置则自动从已有文章中提取所有分类
+categories_list:
+  - 前端技术
+  - AI Agent
+  - 工具分享
+  - 生活随笔
+  - 读书笔记
+
+# Giscus 评论（去 https://giscus.app 生成你自己的配置）
+giscus:
+  enable: false
+  repo: 你的用户名/你的仓库名
+  repo_id: ''
+  category: Announcements
+  category_id: ''
+  mapping: pathname
+  lang: zh-CN
+
+# 站内搜索
+search:
+  enable: true
+
+# 版权信息
+copyright:
+  since: 2026
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/

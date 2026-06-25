@@ -1,0 +1,260 @@
+<%
+// 构建日历热力图数据 - 按年份独立生成
+const allPosts = site.posts ? site.posts.toArray().filter(function(p) { return !p.visibility || p.visibility !== 'private'; }) : [];
+const postCountByDate = {};
+allPosts.forEach(function(post) {
+  const key = date(post.date, 'YYYY-MM-DD');
+  postCountByDate[key] = (postCountByDate[key] || 0) + 1;
+});
+
+const now = new Date();
+const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+const currentYear = today.getFullYear();
+
+// 收集有文章的年份（始终包含当年和下一年）
+const yearsSet = {};
+Object.keys(postCountByDate).forEach(function(d) { yearsSet[parseInt(d.substring(0, 4))] = true; });
+yearsSet[currentYear] = true;
+yearsSet[currentYear + 1] = true;
+const calendarYears = Object.keys(yearsSet).sort().map(Number);
+
+// 为指定年份生成热力图数据
+function buildYearHeatmap(year) {
+  var yearStart = new Date(year, 0, 1);
+  var yearEnd = new Date(year, 11, 31);
+  // 向前补齐到周一
+  var s = new Date(yearStart);
+  while (s.getDay() !== 1) s.setDate(s.getDate() - 1);
+  // 向后补齐到周日
+  var e = new Date(yearEnd);
+  while (e.getDay() !== 0) e.setDate(e.getDate() + 1);
+
+  var days = [];
+  var cur = new Date(s);
+  while (cur <= e) {
+    var key = [cur.getFullYear(), String(cur.getMonth() + 1).padStart(2, '0'), String(cur.getDate()).padStart(2, '0')].join('-');
+    var count = postCountByDate[key] || 0;
+    var level = count === 0 ? 0 : count === 1 ? 1 : count === 2 ? 2 : count === 3 ? 3 : 4;
+    days.push({ date: key, count: count, level: level, day: cur.getDay(), month: cur.getMonth(), year: cur.getFullYear() });
+    cur.setDate(cur.getDate() + 1);
+  }
+
+  // 按周分组
+  var weeks = [];
+  var week = [];
+  days.forEach(function(d) {
+    week.push(d);
+    if (d.day === 0) { weeks.push(week); week = []; }
+  });
+  if (week.length) weeks.push(week);
+
+  // 月份标签（仅记录目标年份的月份，忽略上周/下年溢出的日期）
+  var monthLabels = [];
+  var monthWeeks = [];
+  var lastMonth = -1;
+  days.forEach(function(d, idx) {
+    if (d.month !== lastMonth) {
+      var wi = Math.floor(idx / 7);
+      if (d.year === year && (monthLabels.length === 0 || wi !== monthLabels[monthLabels.length - 1].weekIdx)) {
+        monthLabels.push({ weekIdx: wi, label: (d.month + 1) + '月' });
+        monthWeeks.push(wi);
+      }
+      lastMonth = d.month;
+    }
+  });
+
+  return { weeks: weeks, monthLabels: monthLabels, monthWeeks: monthWeeks };
+}
+
+var yearData = {};
+calendarYears.forEach(function(y) { yearData[y] = buildYearHeatmap(y); });
+%>
+<section class="archive-head">
+  <p class="eyebrow">Archive</p>
+  <h1>文章归档</h1>
+  <p>共 <%= allPosts.length %> 篇</p>
+</section>
+
+<section class="almanac-card">
+  <div class="almanac-header">
+    <svg class="almanac-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+    </svg>
+    <h3 class="almanac-title">今日黄历</h3>
+  </div>
+  <div class="almanac-body">
+    <div class="almanac-solar">
+      <span class="almanac-date-big"><%= date(new Date(), 'YYYY · MM · DD') %></span>
+      <span class="almanac-weekday" id="almanac-weekday"></span>
+    </div>
+    <div class="almanac-lunar" id="almanac-lunar">
+      <span class="almanac-lunar-date">加载中…</span>
+      <span class="almanac-ganzhi"></span>
+    </div>
+    <div class="almanac-meta" id="almanac-meta"></div>
+    <div class="almanac-advice" id="almanac-advice"></div>
+  </div>
+</section>
+
+<% if (Object.keys(yearData).length) { %>
+<section class="calendar-heatmap">
+  <div class="heatmap-header">
+    <h3 class="heatmap-title">发布日历</h3>
+    <% if (calendarYears.length > 1) { %>
+    <div class="heatmap-year-badges">
+      <% calendarYears.forEach(function(y) { %>
+        <button class="year-badge<%= y === currentYear ? ' current' : '' %>" data-year="<%= y %>" aria-pressed="<%= y === currentYear %>"><%= y %></button>
+      <% }) %>
+    </div>
+    <% } %>
+  </div>
+
+  <% calendarYears.forEach(function(y) {
+    var data = yearData[y];
+    if (!data || !data.weeks.length) return;
+    var isCurrent = y === currentYear;
+  %>
+  <div class="heatmap-wrapper" data-year="<%= y %>"<%= isCurrent ? '' : ' hidden' %>>
+    <div class="heatmap-months">
+      <% data.monthLabels.forEach(function(m, mi) { %>
+        <span class="month-label" style="grid-column: <%= m.weekIdx + 1 %>; margin-left: <%= mi * 6 %>px;"><%= m.label %></span>
+      <% }) %>
+    </div>
+    <div class="heatmap-grid">
+      <div class="heatmap-weekdays">
+        <span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span>
+      </div>
+      <div class="heatmap-cells">
+        <% data.weeks.forEach(function(w, wi) {
+          var isMonthStart = data.monthWeeks.indexOf(wi) >= 0;
+        %>
+          <div class="heatmap-week<%= isMonthStart ? ' month-start' : '' %>">
+            <% w.forEach(function(day) { %>
+              <div
+                class="heatmap-cell level-<%= day.level %>"
+                title="<%= day.date %> · <%= day.count %> 篇"
+                data-count="<%= day.count %>"
+              ></div>
+            <% }) %>
+          </div>
+        <% }) %>
+      </div>
+    </div>
+  </div>
+  <% }) %>
+
+  <div class="heatmap-legend">
+    <span>少</span>
+    <span class="legend-cell level-0"></span>
+    <span class="legend-cell level-1"></span>
+    <span class="legend-cell level-2"></span>
+    <span class="legend-cell level-3"></span>
+    <span class="legend-cell level-4"></span>
+    <span>多</span>
+  </div>
+</section>
+<% } %>
+
+<section class="archive-list">
+  <% page.posts.sort('date', -1).filter(function(p){ return !p.visibility || p.visibility !== 'private'; }).each(function(post) { %>
+    <a class="archive-item" href="<%- url_for(post.path) %>">
+      <time datetime="<%= date_xml(post.date) %>"><%= date(post.date, 'YYYY · MM · DD') %></time>
+      <span><%= post.title || '未命名文章' %></span>
+      <span class="archive-arrow">→</span>
+    </a>
+  <% }) %>
+</section>
+
+<%- partial('partial/paginator') %>
+
+<script src="https://cdn.jsdelivr.net/npm/lunar-javascript@1.6.13/lunar.min.js"></script>
+<script>
+(function() {
+  // === 黄历 ===
+  (function initAlmanac() {
+    var lunarEl = document.getElementById('almanac-lunar');
+    var metaEl = document.getElementById('almanac-meta');
+    var adviceEl = document.getElementById('almanac-advice');
+    var weekdayEl = document.getElementById('almanac-weekday');
+    if (!lunarEl) return;
+
+    var weekNames = ['日', '一', '二', '三', '四', '五', '六'];
+    var today = new Date();
+    weekdayEl.textContent = '星期' + weekNames[today.getDay()];
+
+    if (typeof Lunar === 'undefined') {
+      lunarEl.innerHTML = '<span class="almanac-lunar-date">农历加载失败</span>';
+      return;
+    }
+
+    try {
+      var lunar = Lunar.fromDate(today);
+      var yearCn = lunar.getYearInChinese();
+      var monthCn = lunar.getMonthInChinese();
+      var dayCn = lunar.getDayInChinese();
+      var ganzhiYear = lunar.getYearInGanZhi();
+      var ganzhiMonth = lunar.getMonthInGanZhi();
+      var ganzhiDay = lunar.getDayInGanZhi();
+      var shengxiao = lunar.getYearShengXiao();
+      var jieQi = lunar.getJieQi();
+
+      // 农历日期
+      lunarEl.innerHTML =
+        '<span class="almanac-lunar-date">农历 ' + yearCn + '年 ' + monthCn + '月' + dayCn + '</span>' +
+        '<span class="almanac-ganzhi">' + ganzhiYear + '年 ' + ganzhiMonth + '月 ' + ganzhiDay + '日</span>';
+
+      // 生肖 & 节气
+      var metaParts = ['<span class="almanac-shengxiao">生肖 ' + shengxiao + '</span>'];
+      if (jieQi) metaParts.push('<span class="almanac-jieqi">节气 ' + jieQi + '</span>');
+      metaEl.innerHTML = metaParts.join('');
+
+      // 宜忌
+      var yi = lunar.getDayYi();
+      var ji = lunar.getDayJi();
+      if ((yi && yi.length) || (ji && ji.length)) {
+        var html = '';
+        if (yi && yi.length) {
+          html += '<div class="almanac-yi"><span class="almanac-label yi-label">宜</span><span>' + yi.slice(0, 8).join(' ') + '</span></div>';
+        }
+        if (ji && ji.length) {
+          html += '<div class="almanac-ji"><span class="almanac-label ji-label">忌</span><span>' + ji.slice(0, 8).join(' ') + '</span></div>';
+        }
+        adviceEl.innerHTML = html;
+      }
+    } catch (e) {
+      lunarEl.innerHTML = '<span class="almanac-lunar-date">农历加载失败</span>';
+    }
+  })();
+
+  // === 年份切换 ===
+  badges.forEach(function(badge) {
+    badge.addEventListener('click', function() {
+      var year = this.dataset.year;
+      badges.forEach(function(b) {
+        b.classList.remove('current');
+        b.setAttribute('aria-pressed', 'false');
+      });
+      this.classList.add('current');
+      this.setAttribute('aria-pressed', 'true');
+
+      wrappers.forEach(function(w) {
+        if (w.dataset.year === year) {
+          w.hidden = false;
+        } else {
+          w.hidden = true;
+        }
+      });
+    });
+  });
+
+  // 页面加载时，当前年份直接定位到最近几周（无滚动动画）
+  var currentWrapper = document.querySelector('.heatmap-wrapper[data-year="<%= currentYear %>"]');
+  if (currentWrapper && !currentWrapper.hidden) {
+    var weeks = currentWrapper.querySelectorAll('.heatmap-week');
+    if (weeks.length > 8) {
+      var targetWeek = weeks[weeks.length - 8];
+      currentWrapper.scrollTo({ left: targetWeek.offsetLeft - 24, behavior: 'instant' });
+    }
+  }
+})();
+</script>

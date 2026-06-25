@@ -1,0 +1,164 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: aDiaoYa
+subtitle: '啊叼一只鱼 · 代码与智能的边界'
+description: '前端工程与 AI Agent 技术探索，记录构建智能应用的思考与实践。'
+keywords:
+author: aDiaoYa
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL（部署后改为你的真实域名）
+url: https://adiaoYa.github.io
+root: /aDiao-Blog/
+permalink: posts/:abbrlink.html
+permalink_defaults:
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
+
+# abbrlink 永久链接
+abbrlink:
+  alg: crc32      # 算法：crc16 或 crc32
+  rep: hex        # 进制：dec 或 hex
+  drafts: false   # 是否为草稿生成
+  auto_category: false
+  auto_title: false
+  auto_toc: false
+  auto_date: false
+  auto_tags: false
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+  - '404.html'
+
+# Writing
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
+# Home page setting
+index_generator:
+  path: home
+  per_page: 10
+  order_by: -date
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Metadata elements
+meta_generator: true
+
+# Date / Time format
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination
+per_page: 10
+pagination_dir: page
+
+# Search
+search:
+  path: search.json
+  field: all
+  content: true
+  format: striptags
+
+# Include / Exclude file(s)
+include:
+exclude:
+ignore:
+
+# Extensions
+theme: Quiet
+
+# nofollow 外部链接
+nofollow:
+  enable: true
+  field: site
+  exclude:
+    - 'adiaoYa.github.io'
+    - 'github.com/adiaoYa'
+
+# neat 资源压缩
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:
+neat_css:
+  enable: true
+  exclude:
+    - '*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+# Sitemap
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  rel: true
+  tags: true
+  categories: true
+
+# RSS Feed
+feed:
+  enable: true
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  content: true
+  content_limit:
+  order_by: -date
+  icon: /favicon.svg
+  autodiscovery: true
+  template:
+
+# Deployment（改为你的 GitHub 仓库地址）
+deploy:
+  type: git
+  repo: git@github.com:aDiaoYa/aDiao-Blog.git
+  branch: gh-pages
+  message: 'Site updated: {{ now("YYYY-MM-DD HH:mm:ss") }}'
