@@ -9,10 +9,34 @@ profile:
   title: 啊叼一只鱼 · 代码与智能的边界
   bio: 探索前端工程与 AI Agent 的交汇点，写代码，也写思考。
 
+# 技能数据（首页展示）
+skills:
+  - name: React / Next.js
+    level: 92
+  - name: TypeScript
+    level: 88
+  - name: AI Agent / LLM
+    level: 80
+
+# 侧边栏标签
+sidebar_tags:
+  - React
+  - TypeScript
+  - AI Agent
+  - Next.js
+  - MCP
+  - Node.js
+
+# 专注领域
+focus_areas:
+  - 前端工程化与性能优化
+  - AI Agent 工具链开发
+  - MCP 协议与工具集成
+
 # 社交链接
 social:
   github: https://github.com/aDiaoYa
-  email: mailto:your@email.com
+# email: mailto:your@email.com
   # twitter: https://twitter.com/你的id
   # zhihu: https://www.zhihu.com/people/你的id
 
@@ -28,7 +52,7 @@ categories_list:
 # Giscus 评论（去 https://giscus.app 生成你自己的配置）
 giscus:
   enable: false
-  repo: 你的用户名/你的仓库名
+  repo: aDiaoYa/aDiao-Blog
   repo_id: ''
   category: Announcements
   category_id: ''

@@ -175,8 +175,9 @@ const isPrivate = isPost && page.visibility === 'private';
               <h2><%= profile.name || config.title %></h2>
               <p class="profile-bio"><%= profile.bio %></p>
               <div class="profile-tags">
-                <span>React</span><span>TypeScript</span><span>AI Agent</span>
-                <span>Next.js</span><span>MCP</span><span>Node.js</span>
+                <% (theme.profile.sidebar_tags || []).forEach(function(t) { %>
+                <span><%= t %></span>
+                <% }) %>
               </div>
             </section>
 
@@ -300,7 +301,9 @@ const isPrivate = isPost && page.visibility === 'private';
     if (saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
       html.classList.add('dark');
     }
-    document.getElementById('theme-toggle').addEventListener('click', function() {
+    var toggleBtn = document.getElementById('theme-toggle');
+    if (!toggleBtn) return;
+    toggleBtn.addEventListener('click', function() {
       html.classList.toggle('dark');
       localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
     });

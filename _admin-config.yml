@@ -1,0 +1,6 @@
+# hexo-admin 配置
+admin:
+  deployCommand: hexo generate ; hexo deploy
+  publishCommand: hexo generate ; hexo deploy
+  imagePath: /images/
+  postPath: /source/_posts

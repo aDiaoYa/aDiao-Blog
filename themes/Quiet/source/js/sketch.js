@@ -152,4 +152,10 @@ function windowResized() {
     const x = cloudX + (i - dropCount / 2) * 14 + random(-6, 6);
     raindrops.push(new Raindrop(x, cloudY + random(40, 70), random(80, 200)));
   }
+  // 重建蝴蝶
+  butterflies = [];
+  const bflyCount = min(floor(width / 200), 4);
+  for (let i = 0; i < bflyCount; i++) {
+    butterflies.push(new Butterfly());
+  }
 }

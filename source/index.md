@@ -1,4 +1,4 @@
 ---
 layout: landing
-title: Adiao · Frontend & Agent Engineer
+title: aDiaoYa
 ---

@@ -227,6 +227,8 @@ calendarYears.forEach(function(y) { yearData[y] = buildYearHeatmap(y); });
   })();
 
   // === 年份切换 ===
+  var badges = document.querySelectorAll('.year-badge');
+  var wrappers = document.querySelectorAll('.heatmap-wrapper');
   badges.forEach(function(badge) {
     badge.addEventListener('click', function() {
       var year = this.dataset.year;

@@ -279,13 +279,14 @@ img {
   height: 100%;
   overflow: hidden;
 }
+.hero-section .p5Canvas,
 #hero-canvas canvas {
   display: block;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100% !important;
-  height: 100% !important;
+  width: 100%;
+  height: 100%;
   z-index: 1;
 }
 
@@ -1531,21 +1532,11 @@ html.dark .private-badge-sm {
 }
 
 /* 热力图五级色彩 */
-.heatmap-cell.level-0 {
-  background: #f1f5f9;
-}
-.heatmap-cell.level-1 {
-  background: #bfdbfe;
-}
-.heatmap-cell.level-2 {
-  background: #60a5fa;
-}
-.heatmap-cell.level-3 {
-  background: #3b82f6;
-}
-.heatmap-cell.level-4 {
-  background: #1d4ed8;
-}
+.heatmap-cell.level-0, .legend-cell.level-0 { background: #f1f5f9; }
+.heatmap-cell.level-1, .legend-cell.level-1 { background: #bfdbfe; }
+.heatmap-cell.level-2, .legend-cell.level-2 { background: #60a5fa; }
+.heatmap-cell.level-3, .legend-cell.level-3 { background: #3b82f6; }
+.heatmap-cell.level-4, .legend-cell.level-4 { background: #1d4ed8; }
 
 .heatmap-legend {
   display: flex;
@@ -1562,22 +1553,6 @@ html.dark .private-badge-sm {
   height: 12px;
   border-radius: 3px;
   display: inline-block;
-}
-
-.legend-cell.level-0 {
-  background: #f1f5f9;
-}
-.legend-cell.level-1 {
-  background: #bfdbfe;
-}
-.legend-cell.level-2 {
-  background: #60a5fa;
-}
-.legend-cell.level-3 {
-  background: #3b82f6;
-}
-.legend-cell.level-4 {
-  background: #1d4ed8;
 }
 
 /* Archive List */
@@ -1654,10 +1629,6 @@ html.dark .private-badge-sm {
 /* =============================================
    Responsive
    ============================================= */
-@media (max-width: 1200px) {
-  /* 瀑布流已用 auto-fill 自适应，不再需要覆盖列数 */
-}
-
 @media (max-width: 900px) {
   .layout-grid {
     grid-template-columns: 1fr;

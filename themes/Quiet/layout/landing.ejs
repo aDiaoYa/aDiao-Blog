@@ -13,27 +13,21 @@ const profile = theme.profile || {};
       <div class="hero-section">
         <h2>技术栈</h2>
         <div class="skill-list">
+          <% (theme.profile.skills || []).forEach(function(sk) { %>
           <div class="skill-item">
-            <span class="skill-name">React / Next.js</span>
-            <span class="skill-bar"><i style="width:92%"></i></span>
+            <span class="skill-name"><%= sk.name %></span>
+            <span class="skill-bar"><i style="width:<%= sk.level %>%"></i></span>
           </div>
-          <div class="skill-item">
-            <span class="skill-name">TypeScript</span>
-            <span class="skill-bar"><i style="width:88%"></i></span>
-          </div>
-          <div class="skill-item">
-            <span class="skill-name">AI Agent / LLM</span>
-            <span class="skill-bar"><i style="width:80%"></i></span>
-          </div>
+          <% }) %>
         </div>
       </div>
 
       <div class="hero-section">
         <h2>专注领域</h2>
         <ul class="focus-list">
-          <li>前端工程化与性能优化</li>
-          <li>AI Agent 工具链开发</li>
-          <li>MCP 协议与工具集成</li>
+          <% (theme.profile.focus_areas || []).forEach(function(fa) { %>
+          <li><%= fa %></li>
+          <% }) %>
         </ul>
       </div>
     </div>
