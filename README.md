@@ -1,8 +1,8 @@
 <p align="center">
   <img width="80" src="./source/favicon.svg" alt="aDiaoYa">
 </p>
-<h1 align="center">aDiaoYa</h1>
-<p align="center"><em>啊叼一只鱼 · 代码与智能的边界</em></p>
+<h1 align="center">啊叼一只鱼 · aDiaoYa🐟</h1>
+<p align="center">“坚冰还盖着北海的时候，我看见了怒放的梅花。”</p>
 <p align="center">
   <a href="https://adiaoYa.github.io/aDiao-Blog/"><img src="https://img.shields.io/badge/预览-在线-blue?style=flat-square" alt="在线预览"></a>
   <a href="https://hexo.io/"><img src="https://img.shields.io/badge/Hexo-7.3-0e83cd?style=flat-square&logo=hexo" alt="Hexo"></a>
@@ -10,12 +10,6 @@
 </p>
 
 ---
-
-## 🐟 关于
-
-基于 [Hexo](https://hexo.io/) 的个人技术博客，主题 **Quiet** 为自研简洁风格。
-
-记录前端工程、AI Agent 与智能应用开发中的探索与实践。
 
 ## ✨ 特性
 
@@ -29,12 +23,12 @@
 
 ## 🛠️ 技术栈
 
-| 层面 | 技术 |
-|------|------|
-| 框架 | Hexo 7.3 |
-| 模板 | EJS |
-| 样式 | CSS（自定义变量 + 暗色模式） |
-| 部署 | GitHub Pages（gh-pages） |
+| 层面 | 技术                                      |
+| ---- | ----------------------------------------- |
+| 框架 | Hexo 7.3                                  |
+| 模板 | EJS                                       |
+| 样式 | CSS（自定义变量 + 暗色模式）              |
+| 部署 | GitHub Pages（gh-pages）                  |
 | 插件 | abbrlink / feed / search / sitemap / neat |
 
 ## 🚀 本地运行
@@ -79,9 +73,6 @@ aDiao-Blog
 ```bash
 # 新建文章
 npx hexo new "我的文章标题"
-
-# 后台管理面板
-npm run admin
 ```
 
 ## 📄 License
