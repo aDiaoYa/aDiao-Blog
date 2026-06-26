@@ -67,14 +67,14 @@ class Drop {
   draw(cloudX, cloudY, cloudR, boyY) {
     // 计算实际位置
     let x = cloudX + this.xOffset * cloudR;
-    let y = lerp(cloudY + cloudR * 0.35, boyY, this.progress);
+    let y = lerp(cloudY + cloudR * 0.30, boyY, this.progress);
 
     // 轻微水平摆动（手绘感）
     let sway = sin(this.progress * PI * 3 + this.swayPhase + time * 0.5) * 2;
     x += sway;
 
     // 线条起点（云朵底部）
-    let lineStartY = cloudY + cloudR * 0.35;
+    let lineStartY = cloudY + cloudR * 0.30;
 
     // ── 细线 ──
     push();
@@ -166,7 +166,7 @@ function calcPositions(w, h) {
   // 云朵：屏幕顶部居中
   cloud.x = w * 0.5;
   cloud.y = h * 0.08;
-  cloud.radius = min(w * 0.20, 180);
+  cloud.radius = min(w * 0.26, 240);
 }
 
 // ============================================
@@ -196,7 +196,7 @@ function setup() {
   }
 
   // 计算线长度
-  let lineLen = boyPos.cy - (cloud.y + cloud.radius * 0.35);
+  let lineLen = boyPos.cy - (cloud.y + cloud.radius * 0.30);
   for (let d of drops) {
     d.lineLength = lineLen;
   }
@@ -235,7 +235,7 @@ function windowResized() {
   calcPositions(width, height);
 
   // 重新计算线长度
-  let lineLen = boyPos.cy - (cloud.y + cloud.radius * 0.35);
+  let lineLen = boyPos.cy - (cloud.y + cloud.radius * 0.30);
   for (let d of drops) {
     d.lineLength = lineLen;
   }

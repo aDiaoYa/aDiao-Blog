@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>aDiaoYa</name>
+    <name>aDiaoYa · 啊叼一只鱼</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <icon>https://adiaoya.github.io/favicon.svg</icon>
   <id>https://adiaoya.github.io/</id>
   <link href="https://adiaoya.github.io/" rel="alternate"/>
   <link href="https://adiaoya.github.io/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, aDiaoYa</rights>
-  <subtitle>啊叼一只鱼 · 代码与智能的边界</subtitle>
-  <title>aDiaoYa</title>
+  <rights>All rights reserved 2026, aDiaoYa · 啊叼一只鱼</rights>
+  <subtitle>啊叼一只鱼 · 越努力越幸运的美少女</subtitle>
+  <title>aDiaoYa · 啊叼一只鱼</title>
   <updated>2026-06-25T05:08:40.700Z</updated>
   <entry>
     <author>
-      <name>aDiaoYa</name>
+      <name>aDiaoYa · 啊叼一只鱼</name>
     </author>
     <category term="生活随笔" scheme="https://adiaoya.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     <category term="随笔" scheme="https://adiaoya.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
@@ -37,7 +37,7 @@
   </entry>
   <entry>
     <author>
-      <name>aDiaoYa</name>
+      <name>aDiaoYa · 啊叼一只鱼</name>
     </author>
     <category term="AI Agent" scheme="https://adiaoya.github.io/categories/AI-Agent/"/>
     <category term="Agent" scheme="https://adiaoya.github.io/tags/Agent/"/>
