@@ -4,9 +4,9 @@ const profile = theme.profile || {};
 <section class="landing-hero">
   <!-- 左侧：文字内容 -->
   <div class="hero-content">
-    <div class="hero-badge">Frontend × Agent</div>
-    <h1 class="hero-name"><%= profile.name || 'aDiaoYa' %></h1>
-    <p class="hero-title">Frontend Engineer · AI Agent Builder</p>
+    <div class="hero-badge">Frontend × AI Agent</div>
+    <h1 class="hero-name"><%= profile.name || 'aDiaoYa · 啊叼一只鱼' %></h1>
+    <p class="hero-title">“坚冰还盖着北海的时候，我看见了怒放的梅花。”</p>
     <p class="hero-bio"><%= profile.bio %></p>
 
     <div class="hero-sections">
@@ -38,8 +38,8 @@ const profile = theme.profile || {};
     </div>
   </div>
 
-  <!-- 右侧：p5.js 画布 + 抱星星的男孩 -->
-  <div class="hero-visual" id="hero-canvas" aria-hidden="true">
-    <img class="star-boy-img" src="<%- url_for('/images/star-boy.png') %>" alt="爱做梦的小孩" />
-  </div>
+  <!-- 右侧：p5.js 画布 -->
+  <div class="hero-visual" id="hero-canvas" aria-hidden="true"></div>
+  <!-- 男孩图层在最上面 -->
+  <img class="star-boy-img" src="<%- url_for('/images/star-boy.png') %>" alt="爱做梦的小孩" />
 </section>

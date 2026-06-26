@@ -298,7 +298,7 @@ img {
   width: 300px;
   max-width: 28vw;
   height: auto;
-  z-index: 5;
+  z-index: 20;
   pointer-events: none;
   user-select: none;
   -webkit-user-drag: none;
@@ -1532,11 +1532,26 @@ html.dark .private-badge-sm {
 }
 
 /* 热力图五级色彩 */
-.heatmap-cell.level-0, .legend-cell.level-0 { background: #f1f5f9; }
-.heatmap-cell.level-1, .legend-cell.level-1 { background: #bfdbfe; }
-.heatmap-cell.level-2, .legend-cell.level-2 { background: #60a5fa; }
-.heatmap-cell.level-3, .legend-cell.level-3 { background: #3b82f6; }
-.heatmap-cell.level-4, .legend-cell.level-4 { background: #1d4ed8; }
+.heatmap-cell.level-0,
+.legend-cell.level-0 {
+  background: #f1f5f9;
+}
+.heatmap-cell.level-1,
+.legend-cell.level-1 {
+  background: #bfdbfe;
+}
+.heatmap-cell.level-2,
+.legend-cell.level-2 {
+  background: #60a5fa;
+}
+.heatmap-cell.level-3,
+.legend-cell.level-3 {
+  background: #3b82f6;
+}
+.heatmap-cell.level-4,
+.legend-cell.level-4 {
+  background: #1d4ed8;
+}
 
 .heatmap-legend {
   display: flex;

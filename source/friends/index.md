@@ -44,5 +44,5 @@ comments: false
 
 - **名称**：aDiaoYa
 - **地址**：`https://adiaoYa.github.io`
-- **描述**：啊叼一只鱼 · 前端工程与 AI Agent 技术探索
+- **描述**：啊叼一只鱼 · 越努力越幸运的美少女
 - **头像**：`https://adiaoYa.github.io/favicon.svg`

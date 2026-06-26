@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: aDiaoYa
-subtitle: '啊叼一只鱼 · 代码与智能的边界'
+title: aDiaoYa · 啊叼一只鱼
+subtitle: '啊叼一只鱼 · 越努力越幸运的美少女'
 description: '前端工程与 AI Agent 技术探索，记录构建智能应用的思考与实践。'
 keywords:
-author: aDiaoYa
+author: aDiaoYa · 啊叼一只鱼
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -22,9 +22,9 @@ pretty_urls:
 
 # abbrlink 永久链接
 abbrlink:
-  alg: crc32      # 算法：crc16 或 crc32
-  rep: hex        # 进制：dec 或 hex
-  drafts: false   # 是否为草稿生成
+  alg: crc32 # 算法：crc16 或 crc32
+  rep: hex # 进制：dec 或 hex
+  drafts: false # 是否为草稿生成
   auto_category: false
   auto_title: false
   auto_toc: false

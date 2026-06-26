@@ -5,9 +5,9 @@ menu:
   friends: /friends/
 
 profile:
-  name: aDiaoYa
-  title: 啊叼一只鱼 · 代码与智能的边界
-  bio: 探索前端工程与 AI Agent 的交汇点，写代码，也写思考。
+  name: aDiaoYa · 啊叼一只鱼
+  title: 越努力越幸运的美少女
+  bio: 对于可控的事情保持谨慎，对于不可控的事情保持乐观。
 
 # 技能数据（首页展示）
 skills:
@@ -37,8 +37,8 @@ focus_areas:
 social:
   github: https://github.com/aDiaoYa
 # email: mailto:your@email.com
-  # twitter: https://twitter.com/你的id
-  # zhihu: https://www.zhihu.com/people/你的id
+# twitter: https://twitter.com/你的id
+# zhihu: https://www.zhihu.com/people/你的id
 
 # 文章分类（预设的分类列表，用于侧边栏显示）
 # 不设置则自动从已有文章中提取所有分类
