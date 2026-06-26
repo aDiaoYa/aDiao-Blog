@@ -6,31 +6,8 @@ const profile = theme.profile || {};
   <div class="hero-content">
     <div class="hero-badge">Frontend × AI Agent</div>
     <h1 class="hero-name"><%= profile.name || 'aDiaoYa · 啊叼一只鱼' %></h1>
-    <p class="hero-title">“坚冰还盖着北海的时候，我看见了怒放的梅花。”</p>
+    <p class="hero-title">对于可控的事情保持谨慎，对于不可控的事情保持乐观。</p>
     <p class="hero-bio"><%= profile.bio %></p>
-
-    <div class="hero-sections">
-      <div class="hero-section">
-        <h2>技术栈</h2>
-        <div class="skill-list">
-          <% (theme.profile.skills || []).forEach(function(sk) { %>
-          <div class="skill-item">
-            <span class="skill-name"><%= sk.name %></span>
-            <span class="skill-bar"><i style="width:<%= sk.level %>%"></i></span>
-          </div>
-          <% }) %>
-        </div>
-      </div>
-
-      <div class="hero-section">
-        <h2>专注领域</h2>
-        <ul class="focus-list">
-          <% (theme.profile.focus_areas || []).forEach(function(fa) { %>
-          <li><%= fa %></li>
-          <% }) %>
-        </ul>
-      </div>
-    </div>
 
     <div class="hero-actions">
       <a class="btn-primary" href="<%- url_for('/home/') %>">阅读文章</a>
