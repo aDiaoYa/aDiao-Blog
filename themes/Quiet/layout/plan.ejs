@@ -1,0 +1,361 @@
+<div class="plan-page">
+  <div class="plan-header">
+    <h1>📋 每日计划</h1>
+    <p class="plan-date" id="plan-date"></p>
+  </div>
+
+  <!-- 统计卡片 -->
+  <div class="plan-stats" id="plan-stats">
+    <div class="ps-item">
+      <span class="ps-num" id="stat-total">0</span>
+      <span class="ps-label">总任务</span>
+    </div>
+    <div class="ps-item">
+      <span class="ps-num" id="stat-done">0</span>
+      <span class="ps-label">已完成</span>
+    </div>
+    <div class="ps-item">
+      <span class="ps-num" id="stat-pending">0</span>
+      <span class="ps-label">待完成</span>
+    </div>
+    <div class="ps-item">
+      <span class="ps-num" id="stat-progress">0%</span>
+      <span class="ps-label">完成率</span>
+    </div>
+  </div>
+
+  <!-- 进度条 -->
+  <div class="plan-progress-bar">
+    <div class="plan-progress-fill" id="progress-fill" style="width:0%"></div>
+  </div>
+
+  <!-- 添加任务 -->
+  <div class="plan-add-section">
+    <h3>✏️ 添加行程</h3>
+    <div class="plan-form" id="plan-form">
+      <div class="pf-row">
+        <input type="text" id="plan-title" placeholder="任务标题..." maxlength="80" class="pf-title">
+        <input type="text" id="plan-time" placeholder="时间（如 09:00 或 上午）" maxlength="20" class="pf-time">
+      </div>
+      <div class="pf-row pf-row-bottom">
+        <select id="plan-category" class="pf-category">
+          <option value="work">💼 工作</option>
+          <option value="study">📚 学习</option>
+          <option value="life">🏠 生活</option>
+          <option value="sport">🏃 运动</option>
+          <option value="other">📌 其他</option>
+        </select>
+        <input type="text" id="plan-note" placeholder="备注（可选）" maxlength="120" class="pf-note">
+        <button id="plan-add-btn" class="pf-add-btn">添加</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 分类筛选 -->
+  <div class="plan-filter-bar" id="plan-filter-bar">
+    <button class="pfilt-btn active" data-cat="all">全部</button>
+    <button class="pfilt-btn" data-cat="work">💼 工作</button>
+    <button class="pfilt-btn" data-cat="study">📚 学习</button>
+    <button class="pfilt-btn" data-cat="life">🏠 生活</button>
+    <button class="pfilt-btn" data-cat="sport">🏃 运动</button>
+    <button class="pfilt-btn" data-cat="other">📌 其他</button>
+  </div>
+
+  <!-- 任务列表 -->
+  <div class="plan-list" id="plan-list">
+    <p class="plan-empty" id="plan-empty">📭 今天还没有计划，添加第一个任务吧～</p>
+  </div>
+
+  <!-- 每日总结 -->
+  <div class="plan-summary-section">
+    <h3>📝 每日总结</h3>
+    <textarea id="plan-summary" class="plan-summary-input" placeholder="记录今天的收获、感悟、待改进的地方..." maxlength="1000" rows="4"></textarea>
+    <div class="ps-actions">
+      <span class="ps-save-hint" id="summary-save-hint"></span>
+      <button id="plan-summary-save" class="pf-add-btn ps-save-btn">保存总结</button>
+    </div>
+  </div>
+
+  <!-- 操作区 -->
+  <div class="plan-actions">
+    <button id="plan-clear-done" class="plan-action-btn">🗑️ 清除已完成</button>
+    <button id="plan-reset" class="plan-action-btn plan-action-danger">⚠️ 重置今日</button>
+  </div>
+</div>
+
+<script>
+(function() {
+  // ── 数据存储 ──
+  var STORAGE_KEY = 'adiao_plan_data';
+
+  function getToday() {
+    var d = new Date();
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  }
+
+  function loadData() {
+    try {
+      var raw = localStorage.getItem(STORAGE_KEY);
+      var data = raw ? JSON.parse(raw) : {};
+      var today = getToday();
+      if (!data[today]) {
+        data[today] = { items: [], summary: '' };
+      }
+      return data;
+    } catch(e) {
+      return {};
+    }
+  }
+
+  function saveData(data) {
+    // 只保留最近 7 天数据
+    var keys = Object.keys(data).sort().slice(-7);
+    var trimmed = {};
+    keys.forEach(function(k) { trimmed[k] = data[k]; });
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(trimmed));
+  }
+
+  function getTodayData() {
+    var data = loadData();
+    var today = getToday();
+    return data[today] || { items: [], summary: '' };
+  }
+
+  function setTodayData(todayData) {
+    var data = loadData();
+    data[getToday()] = todayData;
+    saveData(data);
+  }
+
+  // 生成唯一 ID
+  var idCounter = 0;
+  function genId() { return 'p' + Date.now() + '_' + (idCounter++); }
+
+  // ── 类别映射 ──
+  var catLabels = {
+    work: '💼 工作',
+    study: '📚 学习',
+    life: '🏠 生活',
+    sport: '🏃 运动',
+    other: '📌 其他'
+  };
+
+  // ── 渲染 ──
+  function updateStats(todayData) {
+    var total = todayData.items.length;
+    var done = todayData.items.filter(function(i) { return i.done; }).length;
+    var pending = total - done;
+    var progress = total > 0 ? Math.round((done / total) * 100) : 0;
+
+    document.getElementById('stat-total').textContent = total;
+    document.getElementById('stat-done').textContent = done;
+    document.getElementById('stat-pending').textContent = pending;
+    document.getElementById('stat-progress').textContent = progress + '%';
+    document.getElementById('progress-fill').style.width = progress + '%';
+  }
+
+  function renderItems(items, filterCat) {
+    var listEl = document.getElementById('plan-list');
+    var emptyEl = document.getElementById('plan-empty');
+
+    var filtered = items;
+    if (filterCat && filterCat !== 'all') {
+      filtered = items.filter(function(i) { return i.category === filterCat; });
+    }
+
+    if (filtered.length === 0) {
+      listEl.innerHTML = '';
+      listEl.appendChild(emptyEl);
+      emptyEl.style.display = 'block';
+      return;
+    }
+
+    emptyEl.style.display = 'none';
+    var html = '';
+    filtered.forEach(function(item) {
+      var doneClass = item.done ? ' plan-item-done' : '';
+      var catLabel = catLabels[item.category] || item.category;
+      html += '<div class="plan-item' + doneClass + '" data-id="' + item.id + '" data-cat="' + item.category + '">';
+      html += '  <button class="pi-check" title="' + (item.done ? '标记未完成' : '标记完成') + '">' + (item.done ? '✅' : '⬜') + '</button>';
+      html += '  <div class="pi-body">';
+      html += '    <div class="pi-top">';
+      html += '      <span class="pi-title">' + escapeHtml(item.title) + '</span>';
+      html += '      <span class="pi-cat pi-cat-' + item.category + '">' + catLabel + '</span>';
+      if (item.time) {
+        html += '      <span class="pi-time">🕐 ' + escapeHtml(item.time) + '</span>';
+      }
+      html += '    </div>';
+      if (item.note) {
+        html += '    <div class="pi-note">' + escapeHtml(item.note) + '</div>';
+      }
+      html += '  </div>';
+      html += '  <button class="pi-delete" title="删除">✕</button>';
+      html += '</div>';
+    });
+
+    listEl.innerHTML = html;
+    bindItemEvents();
+  }
+
+  function escapeHtml(str) {
+    var div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  var currentFilter = 'all';
+
+  function refreshAll() {
+    var todayData = getTodayData();
+    updateStats(todayData);
+    renderItems(todayData.items, currentFilter);
+    document.getElementById('plan-summary').value = todayData.summary || '';
+    document.getElementById('summary-save-hint').textContent = '';
+  }
+
+  // ── 事件绑定 ──
+  function bindItemEvents() {
+    document.querySelectorAll('.pi-check').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var itemEl = this.closest('.plan-item');
+        var id = itemEl.dataset.id;
+        var todayData = getTodayData();
+        var item = todayData.items.find(function(i) { return i.id === id; });
+        if (item) {
+          item.done = !item.done;
+          setTodayData(todayData);
+          refreshAll();
+        }
+      });
+    });
+
+    document.querySelectorAll('.pi-delete').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        if (!confirm('确定删除这条行程吗？')) return;
+        var itemEl = this.closest('.plan-item');
+        var id = itemEl.dataset.id;
+        var todayData = getTodayData();
+        todayData.items = todayData.items.filter(function(i) { return i.id !== id; });
+        setTodayData(todayData);
+        refreshAll();
+      });
+    });
+  }
+
+  // ── 添加任务 ──
+  document.getElementById('plan-add-btn').addEventListener('click', function() {
+    var titleEl = document.getElementById('plan-title');
+    var timeEl = document.getElementById('plan-time');
+    var catEl = document.getElementById('plan-category');
+    var noteEl = document.getElementById('plan-note');
+
+    var title = titleEl.value.trim();
+    if (!title) {
+      titleEl.focus();
+      titleEl.style.borderColor = '#ef4444';
+      setTimeout(function() { titleEl.style.borderColor = ''; }, 1500);
+      return;
+    }
+
+    var todayData = getTodayData();
+    todayData.items.push({
+      id: genId(),
+      title: title,
+      time: timeEl.value.trim(),
+      category: catEl.value,
+      note: noteEl.value.trim(),
+      done: false,
+      createdAt: Date.now()
+    });
+    setTodayData(todayData);
+
+    // 清空表单
+    titleEl.value = '';
+    timeEl.value = '';
+    noteEl.value = '';
+    catEl.value = 'work';
+    titleEl.focus();
+
+    refreshAll();
+  });
+
+  // 回车键提交
+  document.getElementById('plan-title').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      document.getElementById('plan-add-btn').click();
+    }
+  });
+
+  // ── 分类筛选 ──
+  document.querySelectorAll('.pfilt-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.pfilt-btn').forEach(function(b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      currentFilter = this.dataset.cat;
+      var todayData = getTodayData();
+      renderItems(todayData.items, currentFilter);
+    });
+  });
+
+  // ── 每日总结 ──
+  var summaryTimer = null;
+  document.getElementById('plan-summary').addEventListener('input', function() {
+    clearTimeout(summaryTimer);
+    var self = this;
+    summaryTimer = setTimeout(function() {
+      var todayData = getTodayData();
+      todayData.summary = self.value;
+      setTodayData(todayData);
+      document.getElementById('summary-save-hint').textContent = '✓ 已自动保存';
+      setTimeout(function() {
+        var hint = document.getElementById('summary-save-hint');
+        if (hint) hint.textContent = '';
+      }, 2000);
+    }, 500);
+  });
+
+  document.getElementById('plan-summary-save').addEventListener('click', function() {
+    var todayData = getTodayData();
+    todayData.summary = document.getElementById('plan-summary').value;
+    setTodayData(todayData);
+    document.getElementById('summary-save-hint').textContent = '✓ 已保存';
+    setTimeout(function() {
+      var hint = document.getElementById('summary-save-hint');
+      if (hint) hint.textContent = '';
+    }, 2000);
+  });
+
+  // ── 清除已完成 ──
+  document.getElementById('plan-clear-done').addEventListener('click', function() {
+    var todayData = getTodayData();
+    var doneCount = todayData.items.filter(function(i) { return i.done; }).length;
+    if (doneCount === 0) {
+      alert('没有已完成的行程');
+      return;
+    }
+    if (!confirm('确定清除 ' + doneCount + ' 条已完成的行程吗？')) return;
+    todayData.items = todayData.items.filter(function(i) { return !i.done; });
+    setTodayData(todayData);
+    refreshAll();
+  });
+
+  // ── 重置今日 ──
+  document.getElementById('plan-reset').addEventListener('click', function() {
+    if (!confirm('确定要清空今天所有计划和总结吗？此操作不可恢复！')) return;
+    setTodayData({ items: [], summary: '' });
+    refreshAll();
+  });
+
+  // ── 日期显示 ──
+  function updateDate() {
+    var now = new Date();
+    var weekdays = ['日', '一', '二', '三', '四', '五', '六'];
+    var str = now.getFullYear() + '年' + (now.getMonth() + 1) + '月' + now.getDate() + '日 · 星期' + weekdays[now.getDay()];
+    document.getElementById('plan-date').textContent = str;
+  }
+
+  // ── 初始化 ──
+  updateDate();
+  refreshAll();
+})();
+</script>

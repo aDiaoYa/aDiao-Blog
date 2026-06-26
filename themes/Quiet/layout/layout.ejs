@@ -65,6 +65,7 @@ const isArchive = page.layout === 'archive' || page.path === 'archives/index.htm
 const isHome = page.layout === 'index' || page.path === 'home/index.html';
 const isFriends = page.layout === 'friends' || page.path === 'friends/index.html';
 const isNews = page.path === 'news/index.html';
+const isPlan = page.path === 'plan/index.html';
 
 // SEO meta
 const pageTitle = page.title ? page.title + ' | ' + config.title : config.title;
@@ -147,6 +148,7 @@ const isPrivate = isPost && page.visibility === 'private';
           <a href="<%- url_for('/home/') %>" class="<%= isHome ? 'active' : '' %>">文章</a>
           <a href="<%- url_for('/archives/') %>" class="<%= isArchive ? 'active' : '' %>">归档</a>
           <a href="<%- url_for('/news/') %>" class="<%= isNews ? 'active' : '' %>">资讯</a>
+          <a href="<%- url_for('/plan/') %>" class="<%= isPlan ? 'active' : '' %>">计划</a>
           <% if (searchEnabled) { %>
           <button class="search-btn" id="search-trigger" title="搜索" aria-label="搜索文章">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
@@ -256,6 +258,7 @@ const isPrivate = isPost && page.visibility === 'private';
         <a href="<%- url_for('/home/') %>">文章</a>
         <a href="<%- url_for('/archives/') %>">归档</a>
         <a href="<%- url_for('/news/') %>">资讯</a>
+        <a href="<%- url_for('/plan/') %>">计划</a>
         <a href="<%- url_for('/atom.xml') %>">RSS</a>
       </div>
       <div class="footer-social">
