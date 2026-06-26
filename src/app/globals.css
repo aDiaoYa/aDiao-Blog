@@ -60,8 +60,11 @@ html.dark {
   color-scheme: dark;
 }
 html.dark body {
-  background: var(--bg);
+  background: transparent;
   color: var(--ink);
+}
+html.dark {
+  background: #0f172a;
 }
 html.dark .site-header,
 html.dark .content-panel,
@@ -83,10 +86,13 @@ html.dark .article-body h3 {
   color: #f1f5f9;
 }
 html.dark .brand small {
-  color: var(--muted);
+  color: #94a3b8;
+}
+html.dark .eyebrow {
+  color: var(--accent-light);
 }
 html.dark .article-body {
-  color: #cbd5e1;
+  color: #e2e8f0;
 }
 html.dark .article-body :not(pre) > code {
   background: #334155;
@@ -144,7 +150,13 @@ html.dark .heatmap-week.year-start::before {
 html.dark .heatmap-title,
 html.dark .mini-list h3,
 html.dark .profile-card h2 {
-  color: var(--ink);
+  color: #f1f5f9;
+}
+html.dark .almanac-title {
+  color: #e2e8f0;
+}
+html.dark .archive-item time {
+  color: #94a3b8;
 }
 html.dark .archive-item:hover {
   background: rgba(51, 65, 85, 0.5);
@@ -167,6 +179,9 @@ html.dark .search-modal {
 }
 html.dark .search-header input {
   color: var(--ink);
+}
+html.dark .search-item span {
+  color: #94a3b8;
 }
 html.dark .search-btn:hover {
   background: #334155;
@@ -229,13 +244,14 @@ html.dark .theme-toggle .icon-moon {
 html {
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
+  background: #f0f4f8;
 }
 
 body {
   font-family:
     'Inter', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', system-ui, sans-serif;
   color: var(--ink);
-  background: var(--bg);
+  background: transparent;
   line-height: 1.7;
   position: relative;
   overflow-x: hidden;
@@ -350,8 +366,8 @@ img {
 
 .brand small {
   display: block;
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 12px;
+  color: var(--slate-500);
   font-weight: 500;
   letter-spacing: 0.02em;
 }
@@ -498,8 +514,8 @@ img {
 }
 
 .stat-label {
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 12px;
+  color: var(--slate-500);
   font-weight: 500;
   margin-top: 2px;
 }
@@ -533,7 +549,7 @@ img {
 }
 
 .mini-list time {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
@@ -543,7 +559,7 @@ img {
 .sidebar-categories a {
   justify-content: flex-start;
 }
-.cat-count {
+.sidebar-categories .cat-count {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -553,7 +569,7 @@ img {
   border-radius: 10px;
   background: var(--accent-soft);
   color: var(--accent);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   margin-left: auto;
 }
@@ -561,11 +577,11 @@ img {
 /* 私密文章标记 */
 .private-badge {
   display: inline-block;
-  padding: 1px 10px;
+  padding: 2px 12px;
   border-radius: 10px;
   background: rgba(251, 191, 36, 0.15);
   color: #b45309;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   vertical-align: middle;
   margin-left: 8px;
@@ -577,11 +593,11 @@ html.dark .private-badge {
 }
 .private-badge-sm {
   display: inline-block;
-  padding: 0 6px;
+  padding: 1px 8px;
   border-radius: 8px;
   background: rgba(251, 191, 36, 0.12);
   color: #b45309;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 600;
   vertical-align: middle;
   margin-left: 4px;
@@ -716,7 +732,7 @@ html.dark .private-badge-sm {
 }
 
 .eyebrow {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -727,10 +743,10 @@ html.dark .private-badge-sm {
 .hero h1,
 .article-header h1,
 .archive-head h1 {
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 800;
   letter-spacing: -0.02em;
-  line-height: 1.15;
+  line-height: 1.2;
   margin-bottom: 8px;
 }
 
@@ -776,8 +792,8 @@ html.dark .private-badge-sm {
 }
 
 .cat-count {
-  font-size: 11px;
-  opacity: 0.7;
+  font-size: 12px;
+  opacity: 0.8;
 }
 
 /* =============================================
@@ -831,11 +847,11 @@ html.dark .private-badge-sm {
 }
 
 .post-tag {
-  padding: 2px 8px;
+  padding: 2px 10px;
   border-radius: 10px;
   background: var(--slate-100);
   color: var(--slate-500);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 500;
 }
 
@@ -871,18 +887,18 @@ html.dark .private-badge-sm {
 }
 
 .post-meta time {
-  font-size: 12px;
-  color: var(--muted);
+  font-size: 13px;
+  color: var(--slate-500);
   font-weight: 500;
   font-variant-numeric: tabular-nums;
 }
 
 .post-category {
-  padding: 2px 8px;
+  padding: 2px 10px;
   border-radius: 10px;
   background: var(--accent-soft);
   color: var(--accent);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
 }
 
@@ -925,8 +941,8 @@ html.dark .private-badge-sm {
 }
 
 .article-meta time {
-  font-size: 13px;
-  color: var(--muted);
+  font-size: 14px;
+  color: var(--slate-500);
   font-variant-numeric: tabular-nums;
 }
 
@@ -937,17 +953,17 @@ html.dark .private-badge-sm {
 }
 
 .tag {
-  padding: 2px 10px;
+  padding: 3px 12px;
   border-radius: 10px;
   background: var(--slate-100);
   color: var(--slate-600);
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
 }
 
 .article-body {
   overflow-wrap: anywhere;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.85;
   color: var(--slate-700);
 }
@@ -1133,15 +1149,15 @@ html.dark .private-badge-sm {
   font-weight: 300;
 }
 .article-meta .meta-stat {
-  font-size: 12px;
-  color: var(--muted);
+  font-size: 13px;
+  color: var(--slate-500);
   font-weight: 400;
 }
 
 /* 文章列表卡片中的阅读时长 */
 .post-meta .meta-stat {
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 12px;
+  color: var(--slate-500);
   margin-left: 6px;
 }
 
@@ -1171,9 +1187,9 @@ html.dark .private-badge-sm {
 }
 
 .article-toc h3 {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
-  color: var(--muted);
+  color: var(--slate-500);
   margin-bottom: 10px;
   letter-spacing: 0.02em;
   text-transform: uppercase;
@@ -1191,14 +1207,14 @@ html.dark .private-badge-sm {
 }
 
 .article-toc a {
-  color: var(--muted);
+  color: var(--slate-600);
   text-decoration: none;
   transition: color var(--transition);
   display: block;
   padding: 2px 6px;
   border-radius: 4px;
   border-left: 2px solid transparent;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.5;
 }
 
@@ -1213,7 +1229,7 @@ html.dark .private-badge-sm {
 }
 
 .article-toc .toc-child a {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 /* 标签云 */
@@ -1222,9 +1238,9 @@ html.dark .private-badge-sm {
 }
 
 .tag-cloud-card h3 {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
-  color: var(--muted);
+  color: var(--slate-500);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-bottom: 12px;
@@ -1288,9 +1304,9 @@ html.dark .private-badge-sm {
 
 .post-nav-label {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
-  color: var(--muted);
+  color: var(--slate-500);
   margin-bottom: 4px;
   letter-spacing: 0.03em;
 }
@@ -1670,8 +1686,8 @@ html.dark .footer-brand {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 12px;
-  color: var(--muted);
+  font-size: 13px;
+  color: var(--slate-500);
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -1696,10 +1712,10 @@ html.dark .footer-brand {
   border-bottom: 1px solid var(--border);
 }
 .friends-hero h1 {
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 800;
   letter-spacing: -0.02em;
-  line-height: 1.15;
+  line-height: 1.2;
   margin-bottom: 8px;
 }
 .friends-hero p {
@@ -1850,9 +1866,10 @@ html.dark .friends-apply pre {
   border-bottom: 1px solid var(--border);
 }
 .news-header h1 {
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 800;
   letter-spacing: -0.02em;
+  line-height: 1.2;
   margin-bottom: 8px;
 }
 .news-subtitle {
@@ -1940,24 +1957,24 @@ html.dark .friends-apply pre {
   flex-wrap: wrap;
 }
 .nc-source {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   color: var(--accent);
   background: var(--accent-soft);
-  padding: 2px 8px;
+  padding: 3px 10px;
   border-radius: 10px;
 }
 .nc-score {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   color: #f59e0b;
   background: rgba(245, 158, 11, 0.1);
-  padding: 2px 8px;
+  padding: 3px 10px;
   border-radius: 10px;
 }
 .nc-date {
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 12px;
+  color: var(--slate-500);
 }
 .nc-translate-btn {
   margin-left: auto;
@@ -1993,8 +2010,8 @@ html.dark .friends-apply pre {
 }
 
 .nc-summary {
-  font-size: 13px;
-  color: var(--muted);
+  font-size: 14px;
+  color: var(--slate-500);
   line-height: 1.6;
   margin-bottom: 8px;
 }
@@ -2005,10 +2022,10 @@ html.dark .friends-apply pre {
   flex-wrap: wrap;
 }
 .nc-tag {
-  font-size: 10px;
+  font-size: 11px;
   color: var(--slate-500);
   background: var(--slate-100);
-  padding: 1px 8px;
+  padding: 2px 10px;
   border-radius: 8px;
 }
 
@@ -2070,9 +2087,10 @@ html.dark .nc-source {
   border-bottom: 1px solid var(--border);
 }
 .plan-header h1 {
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 800;
   letter-spacing: -0.02em;
+  line-height: 1.2;
   margin-bottom: 6px;
 }
 .plan-date {
@@ -2102,8 +2120,8 @@ html.dark .nc-source {
   color: var(--accent);
 }
 .ps-label {
-  font-size: 12px;
-  color: var(--muted);
+  font-size: 13px;
+  color: var(--slate-500);
   margin-top: 2px;
 }
 
@@ -2293,8 +2311,8 @@ html.dark .nc-source {
   word-break: break-word;
 }
 .pi-cat {
-  font-size: 10px;
-  padding: 2px 8px;
+  font-size: 11px;
+  padding: 2px 10px;
   border-radius: 8px;
   font-weight: 600;
   white-space: nowrap;
@@ -2320,11 +2338,11 @@ html.dark .nc-source {
   color: #475569;
 }
 .pi-time {
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 12px;
+  color: var(--slate-500);
 }
 .pi-note {
-  font-size: 12px;
+  font-size: 13px;
   color: var(--slate-500);
   margin-top: 4px;
   line-height: 1.4;
@@ -2649,7 +2667,7 @@ html.dark .plan-action-danger:hover {
 }
 
 .heatmap-title {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   color: var(--slate-700);
   letter-spacing: -0.01em;
@@ -2733,8 +2751,8 @@ html.dark .plan-action-danger:hover {
 }
 
 .month-label {
-  font-size: 10px;
-  color: var(--muted);
+  font-size: 11px;
+  color: var(--slate-500);
   font-weight: 600;
   white-space: nowrap;
   text-transform: uppercase;
@@ -2752,8 +2770,8 @@ html.dark .plan-action-danger:hover {
   grid-template-rows: repeat(7, 14px);
   gap: 3px;
   margin-right: 4px;
-  font-size: 9px;
-  color: var(--muted);
+  font-size: 10px;
+  color: var(--slate-400);
   font-weight: 600;
   text-align: right;
   padding-right: 4px;
@@ -2815,8 +2833,8 @@ html.dark .plan-action-danger:hover {
   align-items: center;
   gap: 4px;
   margin-top: 12px;
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 12px;
+  color: var(--slate-500);
   justify-content: flex-end;
 }
 
@@ -2880,8 +2898,8 @@ html.dark .plan-action-danger:hover {
 }
 
 .almanac-weekday {
-  font-size: 12px;
-  color: var(--muted);
+  font-size: 13px;
+  color: var(--slate-500);
   font-weight: 500;
 }
 
@@ -3003,12 +3021,13 @@ html.dark .plan-action-danger:hover {
 .archive-arrow {
   color: var(--slate-300);
   font-size: 16px;
+  margin-left: auto;
   transition: all var(--transition);
 }
 
 .archive-item:hover .archive-arrow {
   color: var(--accent);
-  transform: translateX(4px);
+  transform: translateX(6px);
 }
 
 /* ---------- Paginator ---------- */
@@ -3094,6 +3113,9 @@ html.dark .plan-action-danger:hover {
   .hero-name {
     font-size: 32px;
   }
+  .friends-hero h1 {
+    font-size: 26px;
+  }
 }
 
 @media (max-width: 660px) {
@@ -3141,7 +3163,19 @@ html.dark .plan-action-danger:hover {
   .hero h1,
   .article-header h1,
   .archive-head h1 {
-    font-size: 28px;
+    font-size: 26px;
+  }
+
+  .news-header h1 {
+    font-size: 24px;
+  }
+
+  .plan-header h1 {
+    font-size: 24px;
+  }
+
+  .friends-hero h1 {
+    font-size: 26px;
   }
 
   .calendar-heatmap {

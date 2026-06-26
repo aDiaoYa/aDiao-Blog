@@ -7,6 +7,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ReadingProgress from "@/components/ReadingProgress";
 import MarkdownRenderer from "@/components/MarkdownRenderer";
+import { SITE, SOCIAL } from "@/lib/constants";
+import { formatDate, daysSince, slugify } from "@/lib/utils";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -37,8 +39,7 @@ export default async function PostPage({ params }: Props) {
   const prev = idx > 0 ? allPosts[idx - 1] : null;
   const next = idx < allPosts.length - 1 ? allPosts[idx + 1] : null;
 
-  const date = new Date(post.date);
-  const postAgeDays = Math.floor((Date.now() - date.getTime()) / (1000 * 60 * 60 * 24));
+  const postAgeDays = daysSince(post.date);
   const isOutdated = postAgeDays > 180;
   const isPrivate = post.visibility === "private";
   const category = post.categories[0];
@@ -51,10 +52,7 @@ export default async function PostPage({ params }: Props) {
   while ((match = headingRegex.exec(content)) !== null) {
     const level = match[1].length;
     const text = match[2].trim();
-    const id = text
-      .toLowerCase()
-      .replace(/[^\w\u4e00-\u9fff]+/g, "-")
-      .replace(/(^-|-$)/g, "");
+    const id = slugify(text);
     headings.push({ level, text, id });
   }
 
@@ -83,11 +81,7 @@ export default async function PostPage({ params }: Props) {
                   {isPrivate && <span className="private-badge">私密</span>}
                 </h1>
                 <div className="article-meta">
-                  <time dateTime={post.date}>
-                    {date.getFullYear()} ·{" "}
-                    {String(date.getMonth() + 1).padStart(2, "0")} ·{" "}
-                    {String(date.getDate()).padStart(2, "0")}
-                  </time>
+                  <time dateTime={post.date}>{formatDate(post.date)}</time>
                   <span className="meta-dot">·</span>
                   <span className="meta-stat">{(content || "").length} 字</span>
                   {post.tags.length > 0 && (
@@ -147,12 +141,12 @@ export default async function PostPage({ params }: Props) {
               <div className="article-copyright">
                 <div className="copyright-row">
                   <strong>本文作者：</strong>
-                  <span>aDiaoYa · 啊叼一只鱼</span>
+                  <span>{SITE.title}</span>
                 </div>
                 <div className="copyright-row">
                   <strong>本文链接：</strong>
-                  <a href={`https://adiaoYa.github.io/aDiao-Blog/posts/${slug}`}>
-                    https://adiaoYa.github.io/aDiao-Blog/posts/{slug}
+                  <a href={`${SOCIAL.github}${SITE.basePath}/posts/${slug}`}>
+                    {SOCIAL.github}{SITE.basePath}/posts/{slug}
                   </a>
                 </div>
                 <div className="copyright-row">

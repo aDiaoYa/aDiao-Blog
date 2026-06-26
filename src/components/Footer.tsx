@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SITE, NAV_ITEMS, SOCIAL, FOOTER } from "@/lib/constants";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -7,19 +8,17 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="footer-inner">
         <div className="footer-brand">
-          <span className="brand-icon">🐟</span>
-          <strong>aDiaoYa · 啊叼一只鱼</strong>
+          <span className="brand-icon">{SITE.icon}</span>
+          <strong>{SITE.title}</strong>
         </div>
         <div className="footer-links">
-          <Link href="/">关于</Link>
-          <Link href="/home">文章</Link>
-          <Link href="/archives">归档</Link>
-          <Link href="/plan">计划</Link>
-          <Link href="/news">资讯</Link>
+          {NAV_ITEMS.map(({ href, label }) => (
+            <Link key={href} href={href}>{label}</Link>
+          ))}
         </div>
         <div className="footer-social">
           <a
-            href="https://github.com/aDiaoYa"
+            href={SOCIAL.github}
             target="_blank"
             rel="noopener"
             title="GitHub"
@@ -31,20 +30,16 @@ export default function Footer() {
           </a>
         </div>
         <div className="footer-info">
-          <span>&copy; 2026{year > 2026 ? `-${year}` : ""} aDiaoYa · 啊叼一只鱼</span>
+          <span>&copy; {FOOTER.copyrightYear}{year > FOOTER.copyrightYear ? `-${year}` : ""} {SITE.title}</span>
           <span className="footer-dot">·</span>
-          <a
-            href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-            target="_blank"
-            rel="noopener"
-          >
-            CC BY-NC-SA 4.0
+          <a href={FOOTER.licenseUrl} target="_blank" rel="noopener">
+            {FOOTER.license}
           </a>
           <span className="footer-dot">·</span>
           <span>
             Powered by{" "}
-            <a href="https://nextjs.org" target="_blank" rel="noopener">
-              Next.js
+            <a href={FOOTER.poweredByUrl} target="_blank" rel="noopener">
+              {FOOTER.poweredBy}
             </a>
           </span>
         </div>

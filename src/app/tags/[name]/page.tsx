@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import { getPostsByTag, getTags } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ReadingProgress from "@/components/ReadingProgress";
+import ArticleList from "@/components/ArticleList";
 
 interface Props {
   params: Promise<{ name: string }>;
@@ -39,20 +39,7 @@ export default async function TagPage({ params }: Props) {
               <p>共 {posts.length} 篇</p>
             </section>
 
-            <section className="archive-list">
-              {posts.map((post) => {
-                const d = new Date(post.date);
-                return (
-                  <Link key={post.slug} className="archive-item" href={`/posts/${post.slug}`}>
-                    <time dateTime={post.date}>
-                      {d.getFullYear()} · {String(d.getMonth() + 1).padStart(2, "0")} · {String(d.getDate()).padStart(2, "0")}
-                    </time>
-                    <span>{post.title}</span>
-                    <span className="archive-arrow">→</span>
-                  </Link>
-                );
-              })}
-            </section>
+            <ArticleList posts={posts} />
           </section>
 
           <Sidebar />

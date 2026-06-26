@@ -1,8 +1,8 @@
 import Link from "next/link";
-import type { PostMeta } from "@/lib/types";
+import type { PostMeta } from "@/types";
+import { formatDate } from "@/lib/utils";
 
 export default function PostCard({ post }: { post: PostMeta }) {
-  const date = new Date(post.date);
   const category = post.categories[0];
 
   return (
@@ -11,10 +11,7 @@ export default function PostCard({ post }: { post: PostMeta }) {
         <h2>{post.title}</h2>
         <p>{post.excerpt}</p>
         <div className="post-meta">
-          <time dateTime={post.date}>
-            {date.getFullYear()} · {String(date.getMonth() + 1).padStart(2, "0")} ·{" "}
-            {String(date.getDate()).padStart(2, "0")}
-          </time>
+          <time dateTime={post.date}>{formatDate(post.date)}</time>
           {category && <span className="post-category">{category}</span>}
         </div>
         {post.tags.length > 0 && (

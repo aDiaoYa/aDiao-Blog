@@ -53,7 +53,7 @@ export default function ImageZoom() {
 
   return (
     <div ref={overlayRef} className="img-zoom-overlay">
-      <img ref={imgRef} src="" alt="" />
+      <img ref={imgRef} alt="" />
       <button className="img-zoom-close" aria-label="关闭">
         ×
       </button>

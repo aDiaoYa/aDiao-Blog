@@ -4,21 +4,8 @@ import { useEffect, useState, useCallback } from "react";
 import ReadingProgress from "@/components/ReadingProgress";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
-
-interface PlanItem {
-  id: string;
-  title: string;
-  time: string;
-  category: string;
-  note: string;
-  done: boolean;
-  createdAt: number;
-}
-
-interface PlanDayData {
-  items: PlanItem[];
-  summary: string;
-}
+import { formatDateWithWeekday, getTodayKey, pad } from "@/lib/utils";
+import type { PlanItem, PlanDayData } from "@/types";
 
 const STORAGE_KEY = "adiao_plan_data";
 
@@ -30,16 +17,11 @@ const CAT_LABELS: Record<string, string> = {
   other: "📌 其他",
 };
 
-function getToday(): string {
-  const d = new Date();
-  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-}
-
 function loadData(): Record<string, PlanDayData> {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     const data = raw ? JSON.parse(raw) : {};
-    const today = getToday();
+    const today = getTodayKey();
     if (!data[today]) data[today] = { items: [], summary: "" };
     return data;
   } catch {
@@ -63,9 +45,18 @@ export default function PlanPage() {
   const [todayData, setTodayData] = useState<PlanDayData>({ items: [], summary: "" });
   const [filter, setFilter] = useState<string>("all");
 
+  // 表单受控状态
+  const [formTitle, setFormTitle] = useState("");
+  const [formTime, setFormTime] = useState("");
+  const [formCategory, setFormCategory] = useState("work");
+  const [formNote, setFormNote] = useState("");
+  const [summaryText, setSummaryText] = useState("");
+
   const refresh = useCallback(() => {
     const data = loadData();
-    setTodayData(data[getToday()] || { items: [], summary: "" });
+    const today = data[getTodayKey()] || { items: [], summary: "" };
+    setTodayData(today);
+    setSummaryText(today.summary || "");
   }, []);
 
   useEffect(() => {
@@ -74,33 +65,28 @@ export default function PlanPage() {
 
   function updateToday(newData: PlanDayData) {
     const data = loadData();
-    data[getToday()] = newData;
+    data[getTodayKey()] = newData;
     saveData(data);
     setTodayData(newData);
   }
 
   function addItem() {
-    const title = (document.getElementById("plan-title") as HTMLInputElement).value.trim();
+    const title = formTitle.trim();
     if (!title) return;
-    const time = (document.getElementById("plan-time") as HTMLInputElement).value.trim();
-    const category = (document.getElementById("plan-category") as HTMLSelectElement).value;
-    const note = (document.getElementById("plan-note") as HTMLInputElement).value.trim();
-
     const newData = { ...todayData };
     newData.items.push({
       id: genId(),
       title,
-      time,
-      category,
-      note,
+      time: formTime.trim(),
+      category: formCategory,
+      note: formNote.trim(),
       done: false,
       createdAt: Date.now(),
     });
     updateToday(newData);
-
-    (document.getElementById("plan-title") as HTMLInputElement).value = "";
-    (document.getElementById("plan-time") as HTMLInputElement).value = "";
-    (document.getElementById("plan-note") as HTMLInputElement).value = "";
+    setFormTitle("");
+    setFormTime("");
+    setFormNote("");
   }
 
   function toggleItem(id: string) {
@@ -129,12 +115,11 @@ export default function PlanPage() {
   function resetToday() {
     if (!confirm("确定要清空今天所有计划和总结吗？此操作不可恢复！")) return;
     updateToday({ items: [], summary: "" });
+    setSummaryText("");
   }
 
   function saveSummary() {
-    const summary = (document.getElementById("plan-summary") as HTMLTextAreaElement).value;
-    const newData = { ...todayData, summary };
-    updateToday(newData);
+    updateToday({ ...todayData, summary: summaryText });
   }
 
   const filtered = filter === "all" ? todayData.items : todayData.items.filter((i) => i.category === filter);
@@ -142,9 +127,7 @@ export default function PlanPage() {
   const total = todayData.items.length;
   const progress = total > 0 ? Math.round((done / total) * 100) : 0;
 
-  const now = new Date();
-  const weekdays = ["日", "一", "二", "三", "四", "五", "六"];
-  const dateStr = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日 · 星期${weekdays[now.getDay()]}`;
+  const dateStr = formatDateWithWeekday(new Date());
 
   return (
     <>
@@ -187,18 +170,44 @@ export default function PlanPage() {
                 <h3>✏️ 添加行程</h3>
                 <div className="plan-form">
                   <div className="pf-row">
-                    <input type="text" id="plan-title" placeholder="任务标题..." maxLength={80} className="pf-title" onKeyDown={(e) => e.key === "Enter" && addItem()} />
-                    <input type="text" id="plan-time" placeholder="时间（如 09:00）" maxLength={20} className="pf-time" />
+                    <input
+                      type="text"
+                      value={formTitle}
+                      onChange={(e) => setFormTitle(e.target.value)}
+                      placeholder="任务标题..."
+                      maxLength={80}
+                      className="pf-title"
+                      onKeyDown={(e) => e.key === "Enter" && addItem()}
+                    />
+                    <input
+                      type="text"
+                      value={formTime}
+                      onChange={(e) => setFormTime(e.target.value)}
+                      placeholder="时间（如 09:00）"
+                      maxLength={20}
+                      className="pf-time"
+                    />
                   </div>
                   <div className="pf-row pf-row-bottom">
-                    <select id="plan-category" className="pf-category">
+                    <select
+                      value={formCategory}
+                      onChange={(e) => setFormCategory(e.target.value)}
+                      className="pf-category"
+                    >
                       <option value="work">💼 工作</option>
                       <option value="study">📚 学习</option>
                       <option value="life">🏠 生活</option>
                       <option value="sport">🏃 运动</option>
                       <option value="other">📌 其他</option>
                     </select>
-                    <input type="text" id="plan-note" placeholder="备注（可选）" maxLength={120} className="pf-note" />
+                    <input
+                      type="text"
+                      value={formNote}
+                      onChange={(e) => setFormNote(e.target.value)}
+                      placeholder="备注（可选）"
+                      maxLength={120}
+                      className="pf-note"
+                    />
                     <button className="pf-add-btn" onClick={addItem}>添加</button>
                   </div>
                 </div>
@@ -242,12 +251,12 @@ export default function PlanPage() {
               <div className="plan-summary-section">
                 <h3>📝 每日总结</h3>
                 <textarea
-                  id="plan-summary"
                   className="plan-summary-input"
                   placeholder="记录今天的收获、感悟、待改进的地方..."
                   maxLength={1000}
                   rows={4}
-                  defaultValue={todayData.summary}
+                  value={summaryText}
+                  onChange={(e) => setSummaryText(e.target.value)}
                 />
                 <div className="ps-actions">
                   <span className="ps-save-hint" />

@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
-import type { Post, PostMeta, CategoryInfo, TagInfo, SearchItem } from "./types";
+import type { Post, PostMeta, CategoryInfo, TagInfo, SearchItem } from "@/types";
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 

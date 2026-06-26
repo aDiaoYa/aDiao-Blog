@@ -1,6 +1,8 @@
 "use client";
 
 import { useState, useEffect, useRef, useCallback } from "react";
+import { SITE } from "@/lib/constants";
+import { useSearch } from "@/contexts/SearchContext";
 
 interface SearchItem {
   title: string;
@@ -10,7 +12,7 @@ interface SearchItem {
 }
 
 export default function SearchOverlay() {
-  const [open, setOpen] = useState(false);
+  const { isOpen, closeSearch } = useSearch();
   const [query, setQuery] = useState("");
   const [data, setData] = useState<SearchItem[] | null>(null);
   const [loading, setLoading] = useState(false);
@@ -21,7 +23,7 @@ export default function SearchOverlay() {
     if (loadedRef.current || loading) return;
     setLoading(true);
     try {
-      const res = await fetch("/aDiao-Blog/search.json");
+      const res = await fetch(`${SITE.basePath}/search.json`);
       const json = await res.json();
       setData(json);
       loadedRef.current = true;
@@ -32,33 +34,22 @@ export default function SearchOverlay() {
     }
   }, [loading]);
 
-  function openSearch() {
-    setOpen(true);
-    setTimeout(() => inputRef.current?.focus(), 150);
-    loadData();
-  }
-
-  function closeSearch() {
-    setOpen(false);
-    setQuery("");
-  }
+  useEffect(() => {
+    if (isOpen) {
+      setTimeout(() => inputRef.current?.focus(), 150);
+      loadData();
+    } else {
+      setQuery("");
+    }
+  }, [isOpen, loadData]);
 
   useEffect(() => {
     function handleKey(e: KeyboardEvent) {
       if (e.key === "Escape") closeSearch();
-      if ((e.ctrlKey || e.metaKey) && e.key === "k") {
-        e.preventDefault();
-        openSearch();
-      }
     }
     window.addEventListener("keydown", handleKey);
-    // 暴露 openSearch 给 Navbar
-    (window as unknown as Record<string, unknown>).__openSearch = openSearch;
-    return () => {
-      window.removeEventListener("keydown", handleKey);
-      delete (window as unknown as Record<string, unknown>).__openSearch;
-    };
-  }, []);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [closeSearch]);
 
   const filtered =
     data && query.trim()
@@ -74,7 +65,7 @@ export default function SearchOverlay() {
 
   return (
     <div
-      className={`search-overlay${open ? " active" : ""}`}
+      className={`search-overlay${isOpen ? " active" : ""}`}
       onClick={(e) => {
         if (e.target === e.currentTarget) closeSearch();
       }}
@@ -136,7 +127,7 @@ export default function SearchOverlay() {
                 <a
                   key={i}
                   className="search-item"
-                  href={`/aDiao-Blog${item.url}`}
+                  href={`${SITE.basePath}${item.url}`}
                   onClick={closeSearch}
                 >
                   <strong>{item.title}</strong>

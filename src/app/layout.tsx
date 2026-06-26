@@ -5,30 +5,36 @@ import ImageZoom from "@/components/ImageZoom";
 import SearchOverlay from "@/components/SearchOverlay";
 import ThemeInit from "@/components/ThemeInit";
 import P5Canvas from "@/components/P5Canvas";
+import KeyboardShortcuts from "@/components/KeyboardShortcuts";
+import { SearchProvider } from "@/contexts/SearchContext";
+import { SITE } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: {
-    default: "aDiaoYa · 啊叼一只鱼",
-    template: "%s | aDiaoYa · 啊叼一只鱼",
+    default: SITE.title,
+    template: `%s | ${SITE.title}`,
   },
-  description: "前端工程与 AI Agent 技术探索，记录构建智能应用的思考与实践。",
-  keywords: ["前端", "AI Agent", "React", "TypeScript", "Next.js", "MCP"],
-  authors: [{ name: "aDiaoYa" }],
+  description: SITE.description,
+  keywords: [...SITE.keywords],
+  authors: [{ name: SITE.author }],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="zh-CN" suppressHydrationWarning>
       <head>
-        <link rel="icon" type="image/svg+xml" href="/aDiao-Blog/favicon.svg" />
+        <link rel="icon" type="image/svg+xml" href={`${SITE.basePath}/favicon.svg`} />
       </head>
       <body>
         <ThemeInit />
-        <P5Canvas />
-        <SearchOverlay />
-        {children}
-        <BackToTop />
-        <ImageZoom />
+        <SearchProvider>
+          <P5Canvas />
+          <SearchOverlay />
+          <KeyboardShortcuts />
+          {children}
+          <BackToTop />
+          <ImageZoom />
+        </SearchProvider>
       </body>
     </html>
   );

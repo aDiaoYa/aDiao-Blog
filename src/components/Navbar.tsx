@@ -3,35 +3,25 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import ThemeToggle from "./ThemeToggle";
-
-const NAV_ITEMS = [
-  { href: "/", label: "关于" },
-  { href: "/home", label: "文章" },
-  { href: "/archives", label: "归档" },
-  { href: "/plan", label: "计划" },
-  { href: "/news", label: "资讯" },
-];
+import { SITE, NAV_ITEMS } from "@/lib/constants";
+import { useSearch } from "@/contexts/SearchContext";
 
 export default function Navbar() {
   const pathname = usePathname();
   const isLanding = pathname === "/";
+  const { openSearch } = useSearch();
 
   if (isLanding) return null;
 
-  function openSearch() {
-    const fn = (window as unknown as Record<string, () => void>).__openSearch;
-    fn?.();
-  }
-
   return (
     <header className="site-header">
-      <Link className="brand" href="/" aria-label="aDiaoYa">
+      <Link className="brand" href="/" aria-label={SITE.shortName}>
         <span className="brand-icon" aria-hidden="true">
-          🐟
+          {SITE.icon}
         </span>
         <span>
-          <strong>aDiaoYa · 啊叼一只鱼</strong>
-          <small>越努力越幸运的美少女</small>
+          <strong>{SITE.title}</strong>
+          <small>{SITE.tagline}</small>
         </span>
       </Link>
 
@@ -47,8 +37,8 @@ export default function Navbar() {
         })}
         <button
           className="search-btn"
-          onClick={openSearch}
-          title="搜索"
+          onClick={() => openSearch()}
+          title="搜索 (Ctrl+K)"
           aria-label="搜索文章"
         >
           <svg

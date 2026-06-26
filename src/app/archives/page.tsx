@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getPublicPosts } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ReadingProgress from "@/components/ReadingProgress";
+import ArticleList from "@/components/ArticleList";
 import CalendarHeatmap from "./CalendarHeatmap";
 import AlmanacCard from "@/components/AlmanacCard";
 
@@ -31,24 +31,7 @@ export default function ArchivesPage() {
 
             <AlmanacCard />
             <CalendarHeatmap posts={posts} />
-
-            <section className="archive-list">
-              {[...posts]
-                .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-                .map((post) => {
-                  const d = new Date(post.date);
-                  return (
-                    <Link key={post.slug} className="archive-item" href={`/posts/${post.slug}`}>
-                      <time dateTime={post.date}>
-                        {d.getFullYear()} · {String(d.getMonth() + 1).padStart(2, "0")} ·{" "}
-                        {String(d.getDate()).padStart(2, "0")}
-                      </time>
-                      <span>{post.title}</span>
-                      <span className="archive-arrow">→</span>
-                    </Link>
-                  );
-                })}
-            </section>
+            <ArticleList posts={posts} />
           </section>
 
           <Sidebar />

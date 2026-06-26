@@ -4,7 +4,8 @@ import { useEffect, useState } from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ReadingProgress from "@/components/ReadingProgress";
-import type { NewsData, NewsItem } from "@/lib/types";
+import type { NewsData, NewsItem } from "@/types";
+import { SITE, SOCIAL } from "@/lib/constants";
 
 export default function NewsPage() {
   const [news, setNews] = useState<NewsData | null>(null);
@@ -12,7 +13,7 @@ export default function NewsPage() {
   const [filter, setFilter] = useState("全部");
 
   useEffect(() => {
-    fetch("/aDiao-Blog/data/news.json")
+    fetch(`${SITE.basePath}/data/news.json`)
       .then((r) => r.json())
       .then((d) => setNews(d))
       .catch(() => setNews(null));
@@ -143,7 +144,7 @@ export default function NewsPage() {
                   <p>
                     请稍后刷新页面，或检查{" "}
                     <a
-                      href="https://github.com/aDiaoYa/aDiao-Blog/actions/workflows/daily-news.yml"
+                      href={`${SOCIAL.github}/aDiao-Blog/actions/workflows/daily-news.yml`}
                       target="_blank"
                       rel="noopener"
                     >

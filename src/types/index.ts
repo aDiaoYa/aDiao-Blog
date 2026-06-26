@@ -1,3 +1,4 @@
+/** 文章数据 */
 export interface Post {
   slug: string;
   title: string;
@@ -10,6 +11,7 @@ export interface Post {
   visibility?: string;
 }
 
+/** 文章元数据（不含正文） */
 export interface PostMeta {
   slug: string;
   title: string;
@@ -21,6 +23,7 @@ export interface PostMeta {
   visibility?: string;
 }
 
+/** 新闻条目 */
 export interface NewsItem {
   title: string;
   titleZh: string;
@@ -32,6 +35,7 @@ export interface NewsItem {
   score: number;
 }
 
+/** 新闻数据容器 */
 export interface NewsData {
   updated: string;
   date: string;
@@ -41,6 +45,7 @@ export interface NewsData {
   items: NewsItem[];
 }
 
+/** 每日计划条目 */
 export interface PlanItem {
   id: string;
   title: string;
@@ -51,25 +56,30 @@ export interface PlanItem {
   createdAt: number;
 }
 
+/** 每日计划数据 */
 export interface PlanDayData {
   items: PlanItem[];
   summary: string;
 }
 
+/** 计划存储结构 */
 export interface PlanStorage {
   [date: string]: PlanDayData;
 }
 
+/** 分类 */
 export interface CategoryInfo {
   name: string;
   count: number;
 }
 
+/** 标签 */
 export interface TagInfo {
   name: string;
   count: number;
 }
 
+/** 搜索条目 */
 export interface SearchItem {
   title: string;
   url: string;

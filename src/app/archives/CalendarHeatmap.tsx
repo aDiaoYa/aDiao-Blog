@@ -1,7 +1,8 @@
 "use client";
 
-import { useEffect, useRef } from "react";
-import type { Post } from "@/lib/types";
+import { useEffect, useRef, useState } from "react";
+import type { Post } from "@/types";
+import { getDateKey } from "@/lib/utils";
 
 type DayData = {
   date: string;
@@ -90,15 +91,14 @@ function buildYearHeatmap(
 }
 
 export default function CalendarHeatmap({ posts }: { posts: Post[] }) {
-  const wrapperRefs = useRef<Record<string, HTMLDivElement | null>>({});
-
+  const wrapperRef = useRef<HTMLDivElement>(null);
   const currentYear = new Date().getFullYear();
+  const [selectedYear, setSelectedYear] = useState(currentYear);
 
   // 构建每日文章计数
   const countByDate: Record<string, number> = {};
   posts.forEach((post) => {
-    const d = new Date(post.date);
-    const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+    const key = getDateKey(new Date(post.date));
     countByDate[key] = (countByDate[key] || 0) + 1;
   });
 
@@ -115,36 +115,14 @@ export default function CalendarHeatmap({ posts }: { posts: Post[] }) {
     yearData[y] = buildYearHeatmap(y, countByDate);
   });
 
-  const getMaxWeeks = () => {
-    let maxW = 0;
-    calendarYears.forEach((y) => {
-      if (yearData[y] && yearData[y].weeks.length > maxW) maxW = yearData[y].weeks.length;
-    });
-    return maxW;
-  };
-  const maxWeeks = getMaxWeeks();
+  const maxWeeks = Math.max(...calendarYears.map((y) => yearData[y]?.weeks.length || 0));
   const gridTemplateColumns = `repeat(${maxWeeks}, 14px)`;
 
-  // 切换年份
-  function switchYear(year: number) {
-    // 更新徽章
-    document.querySelectorAll(".year-badge").forEach((b) => {
-      const el = b as HTMLButtonElement;
-      el.classList.toggle("current", el.dataset.year === String(year));
-      el.setAttribute("aria-pressed", el.dataset.year === String(year) ? "true" : "false");
-    });
-    // 显示/隐藏
-    Object.entries(yearData).forEach(([y]) => {
-      const w = wrapperRefs.current[y];
-      if (w) w.hidden = y !== String(year);
-    });
-  }
-
-  // 页面加载后滚动到当前年份最近几周
+  // 切换年份后滚动到最近几周
   useEffect(() => {
     const timer = setTimeout(() => {
-      const w = wrapperRefs.current[currentYear];
-      if (w && !w.hidden) {
+      const w = wrapperRef.current;
+      if (w) {
         const weeks = w.querySelectorAll(".heatmap-week");
         if (weeks.length > 8) {
           const targetWeek = weeks[weeks.length - 8] as HTMLElement;
@@ -153,11 +131,10 @@ export default function CalendarHeatmap({ posts }: { posts: Post[] }) {
       }
     }, 100);
     return () => clearTimeout(timer);
-  }, [currentYear, yearData]);
+  }, [selectedYear]);
 
   return (
     <>
-      {/* 发布日历 */}
       {Object.keys(yearData).length > 0 && (
         <section className="calendar-heatmap">
           <div className="heatmap-header">
@@ -167,10 +144,9 @@ export default function CalendarHeatmap({ posts }: { posts: Post[] }) {
                 {calendarYears.map((y) => (
                   <button
                     key={y}
-                    className={`year-badge${y === currentYear ? " current" : ""}`}
-                    data-year={y}
-                    aria-pressed={y === currentYear ? "true" : "false"}
-                    onClick={() => switchYear(y)}
+                    className={`year-badge${y === selectedYear ? " current" : ""}`}
+                    aria-pressed={y === selectedYear ? "true" : "false"}
+                    onClick={() => setSelectedYear(y)}
                   >
                     {y}
                   </button>
@@ -179,20 +155,11 @@ export default function CalendarHeatmap({ posts }: { posts: Post[] }) {
             )}
           </div>
 
-          {calendarYears.map((y) => {
-            const data = yearData[y];
+          {(() => {
+            const data = yearData[selectedYear];
             if (!data || !data.weeks.length) return null;
-            const isCurrent = y === currentYear;
             return (
-              <div
-                key={y}
-                className="heatmap-wrapper"
-                data-year={y}
-                hidden={!isCurrent || undefined}
-                ref={(el) => {
-                  wrapperRefs.current[y] = el;
-                }}
-              >
+              <div className="heatmap-wrapper" ref={wrapperRef}>
                 <div
                   className="heatmap-months"
                   style={{ gridTemplateColumns }}
@@ -243,7 +210,7 @@ export default function CalendarHeatmap({ posts }: { posts: Post[] }) {
                 </div>
               </div>
             );
-          })}
+          })()}
 
           <div className="heatmap-legend">
             <span>少</span>
