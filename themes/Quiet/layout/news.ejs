@@ -27,7 +27,6 @@
       <% news.items.forEach(function(item, idx) { %>
         <article class="news-card" data-tags="<%= (item.tags || []).join(',') %>">
           <div class="nc-meta">
-            <span class="nc-rank">#<%= idx + 1 %></span>
             <span class="nc-source"><%= item.source %></span>
             <% if (item.score) { %>
               <span class="nc-score" title="热度分数">🔥 <%= item.score %></span>

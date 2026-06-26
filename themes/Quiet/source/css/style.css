@@ -2646,12 +2646,6 @@ html.dark .friends-apply pre {
   margin-bottom: 6px;
   flex-wrap: wrap;
 }
-.nc-rank {
-  font-size: 12px;
-  font-weight: 700;
-  color: var(--accent);
-  min-width: 22px;
-}
 .nc-source {
   font-size: 11px;
   font-weight: 600;
