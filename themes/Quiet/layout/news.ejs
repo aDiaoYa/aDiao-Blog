@@ -5,7 +5,7 @@
     <h1>AI & 前端 · 每日资讯</h1>
     <p class="news-subtitle">
       <% if (news && news.updated) { %>
-        更新时间：<%= new Date(news.updated).toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'}) %> · 🤖 AI <strong><%= news.aiCount || 0 %></strong> 条 + 🎨 前端 <strong><%= news.feCount || 0 %></strong> 条 · 按热度排名
+        更新时间：<%= new Date(news.updated).toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'}) %> · 共 <strong><%= news.count %></strong> 条 · 按热度排名
       <% } else { %>
         资讯抓取中，请稍后再来...
       <% } %>
@@ -23,35 +23,11 @@
       <button class="nf-translate-all" id="translate-all-btn">🌐 切换中文</button>
     </div>
 
-    <% var aiIdx = 0; var feIdx = 0; %>
     <div class="news-list">
-      <!-- AI 区标题 -->
-      <div class="news-section-header" data-section="AI">
-        <span class="ns-emoji">🤖</span>
-        <span>AI 资讯 Top 10</span>
-        <span class="ns-count"><%= news.aiCount || 0 %> 条</span>
-      </div>
-
-      <% news.items.forEach(function(item, idx) {
-        var isAI = (item.tags || []).indexOf('AI') !== -1;
-        if (isAI) aiIdx++;
-        else feIdx++;
-      %>
-        <!-- 前端区标题（当前端第一条出现时） -->
-        <% if (!isAI && feIdx === 1) { %>
-          </div>
-          <div class="news-section-sep"></div>
-          <div class="news-list">
-          <div class="news-section-header" data-section="前端">
-            <span class="ns-emoji">🎨</span>
-            <span>前端技术 Top 10</span>
-            <span class="ns-count"><%= news.feCount || 0 %> 条</span>
-          </div>
-        <% } %>
-
+      <% news.items.forEach(function(item, idx) { %>
         <article class="news-card" data-tags="<%= (item.tags || []).join(',') %>">
           <div class="nc-meta">
-            <span class="nc-rank">#<%= isAI ? aiIdx : feIdx %></span>
+            <span class="nc-rank">#<%= idx + 1 %></span>
             <span class="nc-source"><%= item.source %></span>
             <% if (item.score) { %>
               <span class="nc-score" title="热度分数">🔥 <%= item.score %></span>
@@ -63,6 +39,9 @@
             <a href="<%= item.link %>" target="_blank" rel="noopener" class="nc-title-orig"><%= item.title %></a>
             <a href="<%= item.link %>" target="_blank" rel="noopener" class="nc-title-zh" style="display:none"><%= item.titleZh || item.title %></a>
           </h2>
+          <div class="nc-tags">
+            <% (item.tags || []).forEach(function(t) { %><span class="nc-tag"><%= t %></span><% }) %>
+          </div>
         </article>
       <% }) %>
     </div>

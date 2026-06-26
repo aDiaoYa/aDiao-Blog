@@ -2622,31 +2622,6 @@ html.dark .friends-apply pre {
   color: #fff;
 }
 
-/* 分区标题 */
-.news-section-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 0 0 8px;
-  font-size: 16px;
-  font-weight: 700;
-  color: var(--slate-700);
-  border-bottom: 2px solid var(--accent);
-  margin-bottom: 6px;
-}
-.ns-emoji {
-  font-size: 20px;
-}
-.ns-count {
-  margin-left: auto;
-  font-size: 12px;
-  color: var(--muted);
-  font-weight: 500;
-}
-.news-section-sep {
-  height: 32px;
-}
-
 /* 新闻卡片 */
 .news-list {
   display: grid;
@@ -2751,9 +2726,6 @@ html.dark .friends-apply pre {
 }
 
 /* 暗色模式 */
-html.dark .news-section-header {
-  color: #f1f5f9;
-}
 html.dark .news-card {
   background: rgba(30, 41, 59, 0.5);
 }
