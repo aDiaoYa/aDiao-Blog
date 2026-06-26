@@ -1,7 +1,8 @@
 /**
  * 每日 AI/前端 新闻抓取脚本
- * 从多个权威源抓取最新资讯，按热度排序
- * 用法: node scripts/fetch-news.js
+ * AI: OpenAI / Anthropic / Google AI / 机器之心 / HN / Reddit ML / ArXiv / HuggingFace
+ * 前端: Dev.to / CSS-Tricks / Smashing / Reddit / HN
+ * 输出: 10条AI + 10条前端，按热度排名
  */
 const RssParser = require("rss-parser");
 const fs = require("fs");
@@ -12,92 +13,105 @@ const parser = new RssParser({
   headers: { "User-Agent": "aDiaoYa-Blog-NewsBot/1.0" },
 });
 
-// ── RSS 资讯源 ──
-const FEEDS = [
-  { url: "https://hnrss.org/frontpage?count=10", name: "Hacker News", tags: ["综合"] },
-  { url: "https://www.reddit.com/r/programming/.rss", name: "Reddit · Programming", tags: ["前端"] },
-  { url: "https://www.reddit.com/r/MachineLearning/.rss", name: "Reddit · ML", tags: ["AI"] },
-  { url: "https://dev.to/feed/tag/ai", name: "Dev.to · AI", tags: ["AI"] },
-  { url: "https://dev.to/feed/tag/llm", name: "Dev.to · LLM", tags: ["AI"] },
-  { url: "https://dev.to/feed/tag/javascript", name: "Dev.to · JS", tags: ["前端"] },
-  { url: "https://dev.to/feed/tag/typescript", name: "Dev.to · TS", tags: ["前端"] },
-  { url: "https://dev.to/feed/tag/react", name: "Dev.to · React", tags: ["前端"] },
-  { url: "https://dev.to/feed/tag/nextjs", name: "Dev.to · Next.js", tags: ["前端"] },
-  { url: "https://hnrss.org/frontpage?count=5&q=AI+OR+LLM+OR+GPT+OR+Claude+OR+OpenAI", name: "HN · AI", tags: ["AI"] },
+// ══════════════════════════════════════
+// AI 资讯源
+// ══════════════════════════════════════
+const AI_FEEDS = [
+  // 顶级大模型官方
+  { url: "https://openai.com/blog/rss.xml",                     name: "OpenAI",        tags: ["AI"] },
+  { url: "https://www.anthropic.com/blog/rss.xml",              name: "Anthropic",     tags: ["AI"] },
+  { url: "https://blog.google/technology/ai/rss/",              name: "Google AI",     tags: ["AI"] },
+  // 中文权威 AI 媒体
+  { url: "https://jiqizhixin.com/rss",                          name: "机器之心",      tags: ["AI"] },
+  // 技术社区 AI
+  { url: "https://www.reddit.com/r/MachineLearning/.rss",       name: "Reddit ML",     tags: ["AI"] },
+  { url: "https://www.reddit.com/r/artificial/.rss",            name: "Reddit AI",     tags: ["AI"] },
+  { url: "https://www.reddit.com/r/LocalLLaMA/.rss",            name: "Reddit LLaMA",  tags: ["AI"] },
+  { url: "https://hnrss.org/frontpage?count=10&q=AI+OR+LLM+OR+GPT+OR+Claude+OR+OpenAI+OR+Gemini+OR+deepseek", name: "HN·AI", tags: ["AI"] },
+  // 学术 / 开源
+  { url: "http://export.arxiv.org/rss/cs.AI",                   name: "ArXiv AI",     tags: ["AI"] },
+  { url: "https://huggingface.co/blog/feed.xml",                name: "HuggingFace",  tags: ["AI"] },
+  // 科技媒体 AI 频道
+  { url: "https://venturebeat.com/category/ai/feed/",           name: "VentureBeat",  tags: ["AI"] },
 ];
 
-// ── 从描述中提取热度分数 ──
-function extractScore(item, sourceName) {
-  if (sourceName.startsWith("Hacker News") || sourceName.startsWith("HN")) {
-    // hnrss.org 格式: "Points: 123"
-    const desc = item.contentSnippet || item.content || "";
-    const ptsMatch = desc.match(/Points:\s*(\d+)/i);
-    if (ptsMatch) return parseInt(ptsMatch[1], 10);
-    // hnrss 也在 description 里放点数
-    const desc2 = item.content || item.contentSnippet || "";
-    const ptsMatch2 = desc2.match(/Points:\s*(\d+)/i);
-    if (ptsMatch2) return parseInt(ptsMatch2[1], 10);
-  }
-  if (sourceName.startsWith("Reddit")) {
-    // Reddit RSS 可能没有直接分数，给默认中等分
-    return 50;
-  }
-  if (sourceName.startsWith("Dev.to")) {
-    // Dev.to 没有分数，根据来源给默认分
-    return 20;
-  }
-  return 10;
+// ══════════════════════════════════════
+// 前端技术源
+// ══════════════════════════════════════
+const FE_FEEDS = [
+  { url: "https://www.reddit.com/r/programming/.rss",           name: "Reddit Prog",     tags: ["前端"] },
+  { url: "https://www.reddit.com/r/javascript/.rss",            name: "Reddit JS",       tags: ["前端"] },
+  { url: "https://www.reddit.com/r/webdev/.rss",                name: "Reddit WebDev",   tags: ["前端"] },
+  { url: "https://www.reddit.com/r/typescript/.rss",            name: "Reddit TS",       tags: ["前端"] },
+  { url: "https://dev.to/feed/tag/javascript",                  name: "Dev.to JS",       tags: ["前端"] },
+  { url: "https://dev.to/feed/tag/typescript",                  name: "Dev.to TS",       tags: ["前端"] },
+  { url: "https://dev.to/feed/tag/react",                       name: "Dev.to React",    tags: ["前端"] },
+  { url: "https://dev.to/feed/tag/nextjs",                      name: "Dev.to Next.js",  tags: ["前端"] },
+  { url: "https://dev.to/feed/tag/webdev",                      name: "Dev.to WebDev",   tags: ["前端"] },
+  { url: "https://css-tricks.com/feed/",                        name: "CSS-Tricks",      tags: ["前端"] },
+  { url: "https://www.smashingmagazine.com/feed/",              name: "Smashing Mag",    tags: ["前端"] },
+  { url: "https://hnrss.org/frontpage?count=10&q=javascript+OR+typescript+OR+react+OR+vue+OR+CSS+OR+web+OR+frontend", name: "HN·前端", tags: ["前端"] },
+];
+
+// ── 提取 HN 热度分数 ──
+function extractHNScore(item) {
+  const text = (item.contentSnippet || item.content || "");
+  const m = text.match(/Points:\s*(\d+)/i);
+  return m ? parseInt(m[1], 10) : 5;
+}
+
+// ── 默认热度 ──
+function getDefaultScore(sourceName) {
+  if (sourceName.includes("Reddit")) return 40;
+  if (sourceName.includes("Dev.to")) return 15;
+  if (sourceName.includes("HN")) return 20;
+  if (sourceName.includes("ArXiv")) return 25;
+  if (sourceName === "OpenAI" || sourceName === "Anthropic" || sourceName === "Google AI") return 80;
+  if (sourceName === "HuggingFace") return 55;
+  if (sourceName === "机器之心") return 60;
+  if (sourceName === "CSS-Tricks" || sourceName === "Smashing Mag") return 30;
+  if (sourceName === "VentureBeat") return 45;
+  return 20;
 }
 
 // ── 清理摘要 ──
 function cleanSummary(item, sourceName) {
   let raw = item.contentSnippet || item.content || "";
-  raw = raw.replace(/\s+/g, " ").trim();
-  // 去掉 HN 的 "Points: X # Comments: Y" 后缀，保留真正摘要
-  if (sourceName.startsWith("Hacker News") || sourceName.startsWith("HN")) {
-    // 尝试提取 Article URL 之前的描述
-    const parts = raw.split(/Article URL:|Comments URL:/);
-    if (parts.length > 1) {
-      raw = parts[0].trim();
-    }
-    // 去掉 Points / Comments 行
-    raw = raw.replace(/\s*Points:\s*\d+/, "").replace(/\s*# Comments:\s*\d+/, "").trim();
+  raw = raw.replace(/\s+/g, " ").replace(/&#?[a-z0-9]+;/gi, "").trim();
+  if (sourceName.includes("HN")) {
+    raw = raw.replace(/Points:\s*\d+/, "").replace(/# Comments:\s*\d+/, "").trim();
   }
-  if (raw.length > 250) raw = raw.slice(0, 250);
+  if (raw.length > 200) raw = raw.slice(0, 200);
   return raw;
 }
 
-// ── Google Translate（仅翻译标题，GitHub Actions 服务器可访问）──
+// ── Google 翻译 ──
 async function translateText(text) {
   if (!text || text.length < 2) return text;
   try {
     const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=" + encodeURIComponent(text);
-    const resp = await fetch(url, { timeout: 8000 });
+    const resp = await fetch(url, { signal: AbortSignal.timeout(8000) });
     const data = await resp.json();
-    if (data && data[0]) {
-      return data[0].map((seg) => seg[0]).join("");
-    }
+    if (data && data[0]) return data[0].map((seg) => seg[0]).join("");
     return text;
   } catch {
-    // 翻译失败回退到原文
     return text;
   }
 }
 
-// ── 获取 Reddit JSON 热度数据（用于补充分数） ──
-async function fetchRedditScores(subreddit, limit = 8) {
+// ── 拉取 Reddit JSON 热度 ──
+async function getRedditScores(subreddit, limit = 12) {
   try {
     const resp = await fetch(
       `https://www.reddit.com/r/${subreddit}/hot.json?limit=${limit}`,
-      { headers: { "User-Agent": "aDiaoYa-Blog-NewsBot/1.0" } }
+      { headers: { "User-Agent": "aDiaoYa-Blog-NewsBot/1.0" }, signal: AbortSignal.timeout(8000) }
     );
     const json = await resp.json();
     const map = new Map();
     for (const child of json.data.children) {
       const d = child.data;
       map.set(d.title, { score: d.score || 0, comments: d.num_comments || 0 });
-      // 也存 permalink
-      if (d.permalink) map.set("https://www.reddit.com" + d.permalink, { score: d.score || 0, comments: d.num_comments || 0 });
+      map.set("https://www.reddit.com" + d.permalink, { score: d.score || 0, comments: d.num_comments || 0 });
     }
     return map;
   } catch {
@@ -105,28 +119,20 @@ async function fetchRedditScores(subreddit, limit = 8) {
   }
 }
 
-// ── 主函数 ──
-async function fetchAll() {
-  const allItems = [];
-  const fetchDate = new Date().toISOString().split("T")[0];
-
-  // 先获取 Reddit 热度数据
-  const [progScores, mlScores] = await Promise.all([
-    fetchRedditScores("programming", 8),
-    fetchRedditScores("MachineLearning", 8),
-  ]);
-  const redditScoreMap = new Map([...progScores, ...mlScores]);
-
-  for (const feed of FEEDS) {
+// ── 抓取一组 feed → 返回文章数组 ──
+async function fetchFeeds(feedList, redditScoreMap) {
+  const items = [];
+  for (const feed of feedList) {
     try {
-      console.log(`📡 抓取 ${feed.name} ...`);
+      console.log(`  📡 ${feed.name} ...`);
       const result = await parser.parseURL(feed.url);
-      const items = (result.items || []).slice(0, 6).map((item) => {
-        let score = extractScore(item, feed.name);
-        // 用 Reddit JSON 数据补充分数
-        if (feed.name.startsWith("Reddit") && redditScoreMap.has(item.title)) {
-          score = redditScoreMap.get(item.title).score;
+      const batch = (result.items || []).slice(0, 8).map((item) => {
+        let score = extractHNScore(item);
+        // Reddit 用 JSON 分数覆盖 RSS 默认分
+        if (feed.name.startsWith("Reddit")) {
+          score = redditScoreMap.get(item.title)?.score || getDefaultScore(feed.name);
         }
+        if (score <= 0) score = getDefaultScore(feed.name);
         return {
           title: (item.title || "").trim(),
           link: item.link || "",
@@ -137,54 +143,86 @@ async function fetchAll() {
           score: score,
         };
       });
-      console.log(`   ✅ 获取 ${items.length} 条`);
-      allItems.push(...items);
+      console.log(`     ✅ ${batch.length} 条`);
+      items.push(...batch);
     } catch (err) {
-      console.log(`   ❌ 失败: ${err.message}`);
+      console.log(`     ❌ 失败: ${err.message}`);
     }
   }
+  return items;
+}
 
-  // 去重（按 link）
+// ── 去重 + 排序 + 截断 ──
+function dedupeAndSort(items, limit) {
   const seen = new Set();
-  const deduped = allItems.filter((item) => {
-    if (seen.has(item.link)) return false;
+  const deduped = [];
+  for (const item of items) {
+    if (seen.has(item.link) || seen.has(item.title)) continue;
     seen.add(item.link);
-    return true;
-  });
+    seen.add(item.title);
+    deduped.push(item);
+  }
+  deduped.sort((a, b) => b.score - a.score || new Date(b.date) - new Date(a.date));
+  return deduped.slice(0, limit);
+}
 
-  // ── 预翻译标题（服务器端，GitHub Actions 可访问 Google）──
+// ── 主函数 ──
+async function main() {
+  console.log("🚀 开始抓取 AI + 前端资讯\n");
+
+  // 1) 获取所有 Reddit 子版块热度（JSON API 更准确）
+  const redditSubs = ["programming", "javascript", "webdev", "typescript", "MachineLearning", "artificial", "LocalLLaMA"];
+  const redditScoreMaps = await Promise.all(redditSubs.map((s) => getRedditScores(s, 12)));
+  const redditScoreMap = new Map();
+  redditScoreMaps.forEach((m) => { m.forEach((v, k) => redditScoreMap.set(k, v)); });
+  console.log(`📊 Reddit 热度数据已加载 (${redditScoreMap.size} 条)\n`);
+
+  // 2) 并行抓取 AI + 前端
+  console.log("🤖 ── AI 资讯源 ──");
+  const aiItems = await fetchFeeds(AI_FEEDS, redditScoreMap);
+  console.log(`\n🎨 ── 前端资讯源 ──`);
+  const feItems = await fetchFeeds(FE_FEEDS, redditScoreMap);
+
+  // 3) 去重排序，各取 10 条
+  const topAI = dedupeAndSort(aiItems, 10);
+  const topFE = dedupeAndSort(feItems, 10);
+
+  console.log(`\n📊 AI: ${aiItems.length} 条原始 → Top ${topAI.length} 条`);
+  console.log(`📊 前端: ${feItems.length} 条原始 → Top ${topFE.length} 条`);
+
+  // 4) 合并最终列表（AI在前，前端在后，各自按热度排）
+  const finalItems = [...topAI, ...topFE];
+
+  // 5) 翻译标题
   console.log("\n🌐 翻译标题到中文 ...");
-  for (const item of deduped) {
+  for (const item of finalItems) {
     item.titleZh = await translateText(item.title);
   }
   console.log("   翻译完成！");
 
-  // 按热度分数降序排序（同分按日期降序）
-  deduped.sort((a, b) => {
-    if (b.score !== a.score) return b.score - a.score;
-    return new Date(b.date) - new Date(a.date);
-  });
-
+  // 6) 写入 JSON
   const data = {
     updated: new Date().toISOString(),
-    date: fetchDate,
-    count: deduped.length,
-    items: deduped,
+    date: new Date().toISOString().split("T")[0],
+    count: finalItems.length,
+    aiCount: topAI.length,
+    feCount: topFE.length,
+    items: finalItems,
   };
 
   const outDir = path.join(__dirname, "..", "source", "_data");
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
-
   const outPath = path.join(outDir, "news.json");
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), "utf-8");
-  console.log(`\n🎉 完成！${deduped.length} 条新闻 → ${outPath}`);
-  console.log(`🔥 热度排名前5:`);
-  deduped.slice(0, 5).forEach((item, i) => {
-    console.log(`  ${i + 1}. [${item.score}🔥] ${item.title.slice(0, 60)}`);
-  });
+
+  console.log(`\n🎉 完成！共 ${finalItems.length} 条 → ${outPath}`);
+  console.log(`\n🤖 AI Top 5:`);
+  topAI.forEach((item, i) => console.log(`  ${i + 1}. [${item.score}🔥 ${item.source}] ${item.title.slice(0, 55)}`));
+  console.log(`\n🎨 前端 Top 5:`);
+  topFE.forEach((item, i) => console.log(`  ${i + 1}. [${item.score}🔥 ${item.source}] ${item.title.slice(0, 55)}`));
 }
 
-fetchAll().catch((err) => {
+main().catch((err) => {
   console.error("抓取失败:", err);
   process.exit(1);
 });
