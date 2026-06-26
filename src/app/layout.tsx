@@ -25,7 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <link rel="icon" type="image/svg+xml" href={`${SITE.basePath}/favicon.svg`} />
       </head>
-      <body>
+      <body suppressHydrationWarning>
         <ThemeInit />
         <SearchProvider>
           <P5Canvas />
