@@ -3211,9 +3211,9 @@ html.dark .plan-action-danger:hover {
   --admin-card: #ffffff;
   --admin-border: #e5e6eb;
   --admin-border-light: #f2f3f5;
-  --admin-text: #252933;
+  --admin-text: #1a1a1a;
   --admin-text-secondary: #5a6375;
-  --admin-heading: #1d2129;
+  --admin-heading: #000000;
   --admin-danger: #f53f3f;
   --admin-danger-hover: #e03131;
   --admin-danger-bg: #fff2f0;
@@ -3483,11 +3483,11 @@ html.dark .plan-action-danger:hover {
   gap: 6px;
   padding: 9px 20px;
   background: var(--admin-surface);
-  color: var(--admin-text);
+  color: var(--admin-heading);
   border: 1px solid var(--admin-border);
   border-radius: var(--admin-radius-sm);
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 500;
   cursor: pointer;
   text-decoration: none;
   transition: all 0.18s ease;
@@ -3506,15 +3506,17 @@ html.dark .plan-action-danger:hover {
   gap: 5px;
   padding: 6px 14px;
   background: var(--admin-surface);
-  color: var(--admin-text);
+  color: var(--admin-heading);
   border: 1px solid var(--admin-border);
   border-radius: var(--admin-radius-sm);
   font-size: 13px;
-  font-weight: 400;
+  font-weight: 500;
   cursor: pointer;
   text-decoration: none;
   transition: all 0.18s ease;
   line-height: 1.4;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 .admin-btn-sm:hover {
   border-color: var(--admin-primary);
@@ -3658,7 +3660,7 @@ html.dark .plan-action-danger:hover {
   padding: 14px 20px;
   font-size: 13px;
   font-weight: 600;
-  color: var(--admin-text);
+  color: var(--admin-heading);
   text-transform: uppercase;
   letter-spacing: 0.04em;
   border-bottom: 1px solid var(--admin-border);
@@ -3695,6 +3697,7 @@ html.dark .plan-action-danger:hover {
 .admin-actions {
   display: flex;
   gap: 8px;
+  flex-wrap: nowrap;
 }
 
 /* =============================================
@@ -3783,7 +3786,7 @@ html.dark .plan-action-danger:hover {
 .admin-editor-wrapper .wmde-markdown {
   font-size: 15px;
   background: #fff;
-  color: #252933;
+  color: #1a1a1a;
   padding: 24px 32px;
 }
 .admin-editor-wrapper .wmde-markdown h1,
@@ -3978,7 +3981,7 @@ html.dark .plan-action-danger:hover {
 .admin-token-help summary {
   cursor: pointer;
   font-weight: 500;
-  color: var(--admin-text);
+  color: var(--admin-heading);
   display: flex;
   align-items: center;
   gap: 6px;
