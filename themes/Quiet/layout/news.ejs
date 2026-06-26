@@ -1,0 +1,77 @@
+<% const news = site.data && site.data.news; %>
+
+<div class="news-page">
+  <div class="news-header">
+    <h1>AI & 前端 · 每日资讯</h1>
+    <p class="news-subtitle">
+      <% if (news && news.updated) { %>
+        更新时间：<%= new Date(news.updated).toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'}) %> · 共 <strong><%= news.count %></strong> 条
+      <% } else { %>
+        资讯抓取中，请稍后再来...
+      <% } %>
+    </p>
+  </div>
+
+  <% if (news && news.items && news.items.length) { %>
+    <div class="news-filter-bar">
+      <button class="nf-btn active" data-tag="全部">全部</button>
+      <button class="nf-btn" data-tag="AI">🤖 AI</button>
+      <button class="nf-btn" data-tag="前端">🎨 前端</button>
+      <button class="nf-btn" data-tag="综合">📡 综合</button>
+    </div>
+
+    <div class="news-list">
+      <% news.items.forEach(function(item, idx) { %>
+        <article class="news-card" data-tags="<%= (item.tags || []).join(',') %>">
+          <div class="nc-meta">
+            <span class="nc-source"><%= item.source %></span>
+            <span class="nc-date"><%= new Date(item.date).toLocaleDateString('zh-CN') %></span>
+          </div>
+          <h2 class="nc-title">
+            <a href="<%= item.link %>" target="_blank" rel="noopener"><%= item.title %></a>
+          </h2>
+          <% if (item.summary) { %>
+            <p class="nc-summary"><%= item.summary.slice(0, 180) %></p>
+          <% } %>
+          <div class="nc-tags">
+            <% (item.tags || []).forEach(function(t) { %><span class="nc-tag"><%= t %></span><% }) %>
+          </div>
+        </article>
+      <% }) %>
+    </div>
+
+    <p class="news-footer-note">
+      数据来源：Hacker News、Dev.to 等公开 RSS 源 · 每天 8:00 / 18:00 自动更新
+    </p>
+  <% } else { %>
+    <div class="news-empty">
+      <p>📡 正在从各大平台抓取最新 AI / 前端资讯…</p>
+      <p>请稍后刷新页面，或检查 <a href="https://github.com/aDiaoYa/aDiao-Blog/actions/workflows/daily-news.yml" target="_blank">GitHub Actions</a> 抓取状态。</p>
+    </div>
+  <% } %>
+</div>
+
+<script>
+(function() {
+  var btns = document.querySelectorAll('.nf-btn');
+  var cards = document.querySelectorAll('.news-card');
+  if (!btns.length || !cards.length) return;
+
+  btns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var tag = this.dataset.tag;
+      btns.forEach(function(b) { b.classList.remove('active'); });
+      this.classList.add('active');
+
+      cards.forEach(function(card) {
+        if (tag === '全部') {
+          card.style.display = '';
+        } else {
+          var cardTags = card.dataset.tags || '';
+          card.style.display = cardTags.indexOf(tag) !== -1 ? '' : 'none';
+        }
+      });
+    });
+  });
+})();
+</script>
