@@ -1,0 +1,19 @@
+{
+  "Blog Post": {
+    "prefix": "blog-post",
+    "description": "新建博客文章",
+    "body": [
+      "---",
+      "title: ${1:文章标题}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:00",
+      "tags:",
+      "  - ${2:标签}",
+      "categories: ${3:分类}",
+      "---",
+      "",
+      "> ${4:导语}",
+      "",
+      "${5}"
+    ]
+  }
+}

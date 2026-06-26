@@ -1629,7 +1629,6 @@ html.dark .private-badge-sm {
   .hero-name {
     font-size: 32px;
   }
-
 }
 
 @media (max-width: 660px) {
@@ -2867,7 +2866,10 @@ html.dark .nc-source {
   flex: 1;
   min-width: 0;
 }
-.pf-title, .pf-time, .pf-note, .pf-category {
+.pf-title,
+.pf-time,
+.pf-note,
+.pf-category {
   padding: 9px 12px;
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -2878,7 +2880,10 @@ html.dark .nc-source {
   transition: border-color var(--transition);
   outline: none;
 }
-.pf-title:focus, .pf-time:focus, .pf-note:focus, .pf-category:focus {
+.pf-title:focus,
+.pf-time:focus,
+.pf-note:focus,
+.pf-category:focus {
   border-color: var(--accent);
   background: var(--surface);
 }
@@ -3165,11 +3170,26 @@ html.dark .pf-category:focus,
 html.dark .plan-summary-input:focus {
   background: rgba(30, 41, 59, 0.8);
 }
-html.dark .pi-cat-work { background: rgba(37, 99, 235, 0.2); color: #93c5fd; }
-html.dark .pi-cat-study { background: rgba(180, 83, 9, 0.2); color: #fcd34d; }
-html.dark .pi-cat-life { background: rgba(6, 95, 70, 0.2); color: #6ee7b7; }
-html.dark .pi-cat-sport { background: rgba(157, 23, 77, 0.2); color: #f472b6; }
-html.dark .pi-cat-other { background: rgba(71, 85, 105, 0.3); color: #cbd5e1; }
+html.dark .pi-cat-work {
+  background: rgba(37, 99, 235, 0.2);
+  color: #93c5fd;
+}
+html.dark .pi-cat-study {
+  background: rgba(180, 83, 9, 0.2);
+  color: #fcd34d;
+}
+html.dark .pi-cat-life {
+  background: rgba(6, 95, 70, 0.2);
+  color: #6ee7b7;
+}
+html.dark .pi-cat-sport {
+  background: rgba(157, 23, 77, 0.2);
+  color: #f472b6;
+}
+html.dark .pi-cat-other {
+  background: rgba(71, 85, 105, 0.3);
+  color: #cbd5e1;
+}
 html.dark .pi-delete:hover {
   background: rgba(239, 68, 68, 0.15);
 }

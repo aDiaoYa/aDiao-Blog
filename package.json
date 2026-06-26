@@ -11,6 +11,7 @@
     "generate": "node scripts/generate-data.js"
   },
   "dependencies": {
+    "@uiw/react-md-editor": "^4.0.4",
     "gray-matter": "^4.0.3",
     "lunar-javascript": "^1.6.13",
     "next": "^15.1.0",

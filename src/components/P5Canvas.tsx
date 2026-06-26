@@ -3,9 +3,9 @@
 import { useEffect, useRef, useCallback } from "react";
 import {
   PI, TWO_PI, rand, lerp, rgba, rgbaArr,
-  COLOR, rainLineColor, rainDropColor, dpr,
-  LANDING_CLOUD_ELLIPSES, DEFAULT_CLOUD_LAYERS,
-  LANDING_DROP_COUNT, DEFAULT_CLOUD_MIN, DEFAULT_RAIN_MIN,
+  COLOR, dpr,
+  LANDING_CLOUD_ELLIPSES,
+  LANDING_DROP_COUNT,
   DEFAULT_BUTTERFLY_COUNT, RESIZE_DEBOUNCE,
 } from "./P5Canvas.constants";
 
@@ -92,69 +92,6 @@ function drawLandingCloud(ctx: CanvasRenderingContext2D, cx: number, cy: number,
 }
 
 // ============================================================
-// DEFAULT 模式 — DefaultRaindrop 类
-// ============================================================
-class DefaultRaindrop {
-  len: number;
-  alpha: number;
-  weight: number;
-  swayPhase: number;
-  swaySpeed: number;
-  swayAmp: number;
-  lineColor: string;
-  dropColor: string;
-
-  constructor(public readonly x: number, public readonly startY: number, maxLen: number) {
-    this.len = rand(28, maxLen);
-    this.alpha = rand(50, 90);
-    this.weight = rand(0.8, 2.0);
-    this.swayPhase = rand(0, TWO_PI);
-    this.swaySpeed = rand(0.003, 0.01);
-    this.swayAmp = rand(1.5, 5);
-    this.lineColor = rainLineColor(this.alpha);
-    this.dropColor = rainDropColor(this.alpha);
-  }
-
-  update() {
-    this.swayPhase += this.swaySpeed;
-  }
-
-  draw(ctx: CanvasRenderingContext2D) {
-    const sway = Math.sin(this.swayPhase) * this.swayAmp;
-    const x1 = this.x;
-    const x2 = x1 + sway;
-    const y1 = this.startY;
-    const y2 = y1 + this.len;
-    const dropY = y2 + 4;
-
-    ctx.beginPath();
-    ctx.strokeStyle = this.lineColor;
-    ctx.lineWidth = this.weight * 0.25;
-    ctx.moveTo(x1, y1);
-    ctx.quadraticCurveTo((x1 + x2) / 2 + sway * 0.3, (y1 + y2) / 2, x2, y2);
-    ctx.stroke();
-
-    // 水滴
-    const s = 6 + this.weight * 3.5;
-    const dx = x2;
-    const dy = dropY;
-    ctx.fillStyle = this.dropColor;
-    ctx.beginPath();
-    ctx.moveTo(dx, dy - s * 0.7);
-    ctx.bezierCurveTo(dx - s * 0.47, dy - s * 0.25, dx - s * 0.47, dy + s * 0.35, dx, dy + s * 0.35);
-    ctx.bezierCurveTo(dx + s * 0.47, dy + s * 0.35, dx + s * 0.47, dy - s * 0.25, dx, dy - s * 0.7);
-    ctx.closePath();
-    ctx.fill();
-
-    // 高光
-    ctx.fillStyle = "rgba(255,255,255,0.216)";
-    ctx.beginPath();
-    ctx.ellipse(dx - s * 0.13, dy, s * 0.09, s * 0.06, 0, 0, TWO_PI);
-    ctx.fill();
-  }
-}
-
-// ============================================================
 // DEFAULT 模式 — DefaultButterfly 类 + drawWing
 // ============================================================
 
@@ -235,20 +172,6 @@ class DefaultButterfly {
 }
 
 // ============================================================
-// DEFAULT 云朵绘制
-// ============================================================
-function drawDefaultCloud(ctx: CanvasRenderingContext2D, cx: number, cy: number, scale = 1) {
-  const w = 210 * scale;
-  const h = 70 * scale;
-  for (const [dx, dy, rx, ry, color] of DEFAULT_CLOUD_LAYERS) {
-    ctx.fillStyle = color;
-    ctx.beginPath();
-    ctx.ellipse(cx + w * dx, cy + h * dy, w * rx, h * ry, 0, 0, TWO_PI);
-    ctx.fill();
-  }
-}
-
-// ============================================================
 // 主组件
 // ============================================================
 const CANVAS_STYLE: Record<string, React.CSSProperties> = {
@@ -276,8 +199,6 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
       let boyPos = { cx: 0, cy: 0 };
       let time = 0;
       let lastTime = 0;
-      let clouds: { x: number; y: number; scale: number }[] = [];
-      let raindrops: DefaultRaindrop[] = [];
       let butterflies: DefaultButterfly[] = [];
       let gradient: CanvasGradient | null = null;
 
@@ -325,34 +246,12 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
         gradient.addColorStop(0, "rgb(239,246,255)");
         gradient.addColorStop(1, "rgb(240,244,248)");
 
-        const numClouds = Math.max(DEFAULT_CLOUD_MIN, Math.floor(w / 350));
-        const spacing = w / (numClouds + 1);
-        const zoneH = h * 0.2;
-        clouds = Array.from({ length: numClouds }, (_, i) => ({
-          x: spacing * (i + 1) + rand(-30, 30),
-          y: rand(zoneH * 0.08, zoneH * 0.92),
-          scale: rand(0.85, 1.3),
-        }));
-
-        const zoneTop = h * 0.2;
-        const zoneBottom = h * 0.6;
-        const zoneStartRange = h * 0.06;
-        const rainCount = Math.max(DEFAULT_RAIN_MIN, Math.floor(w / 32));
-        raindrops = Array.from({ length: rainCount }, (_, i) => {
-          const x = ((i + rand(-0.15, 0.15)) / rainCount) * w;
-          const startY = rand(zoneTop, zoneTop + zoneStartRange);
-          const maxLen = zoneBottom - startY - rand(-15, 30);
-          return new DefaultRaindrop(x, startY, Math.max(25, maxLen));
-        });
-
         butterflies = Array.from({ length: DEFAULT_BUTTERFLY_COUNT }, () => new DefaultButterfly(w, h));
       }
 
       function drawDefault() {
         ctx.fillStyle = gradient!;
         ctx.fillRect(0, 0, canvas.width, canvas.height);
-        for (const c of clouds) drawDefaultCloud(ctx, c.x, c.y, c.scale);
-        for (const d of raindrops) { d.update(); d.draw(ctx); }
         for (const b of butterflies) { b.update(); b.draw(ctx); }
       }
 
