@@ -1,6 +1,6 @@
 /**
  * 每日 AI/前端 新闻抓取脚本
- * AI: OpenAI / Anthropic / Google AI / 机器之心 / HN / Reddit ML / ArXiv / HuggingFace
+ * AI: OpenAI / Google AI / 机器之心 / 51CTO AI / AI News / HN / Reddit / ArXiv / HuggingFace / VentureBeat
  * 前端: Dev.to / CSS-Tricks / Smashing / Reddit / HN
  * 输出: 10条AI + 10条前端，按热度排名
  */
@@ -19,10 +19,11 @@ const parser = new RssParser({
 const AI_FEEDS = [
   // 顶级大模型官方
   { url: "https://openai.com/blog/rss.xml",                     name: "OpenAI",        tags: ["AI"] },
-  { url: "https://www.anthropic.com/blog/rss.xml",              name: "Anthropic",     tags: ["AI"] },
+  // Anthropic 无 RSS，用 HN/Reddit 覆盖 Claude 相关
   { url: "https://blog.google/technology/ai/rss/",              name: "Google AI",     tags: ["AI"] },
   // 中文权威 AI 媒体
   { url: "https://jiqizhixin.com/rss",                          name: "机器之心",      tags: ["AI"] },
+  { url: "https://aiera.51cto.com/feed",                        name: "51CTO AI",      tags: ["AI"] },
   // 技术社区 AI
   { url: "https://www.reddit.com/r/MachineLearning/.rss",       name: "Reddit ML",     tags: ["AI"] },
   { url: "https://www.reddit.com/r/artificial/.rss",            name: "Reddit AI",     tags: ["AI"] },
@@ -33,6 +34,7 @@ const AI_FEEDS = [
   { url: "https://huggingface.co/blog/feed.xml",                name: "HuggingFace",  tags: ["AI"] },
   // 科技媒体 AI 频道
   { url: "https://venturebeat.com/category/ai/feed/",           name: "VentureBeat",  tags: ["AI"] },
+  { url: "https://www.artificialintelligence-news.com/feed/",   name: "AI News",      tags: ["AI"] },
 ];
 
 // ══════════════════════════════════════
@@ -66,9 +68,10 @@ function getDefaultScore(sourceName) {
   if (sourceName.includes("Dev.to")) return 15;
   if (sourceName.includes("HN")) return 20;
   if (sourceName.includes("ArXiv")) return 25;
-  if (sourceName === "OpenAI" || sourceName === "Anthropic" || sourceName === "Google AI") return 80;
+  if (sourceName === "OpenAI" || sourceName === "Google AI") return 80;
   if (sourceName === "HuggingFace") return 55;
-  if (sourceName === "机器之心") return 60;
+  if (sourceName === "机器之心" || sourceName === "AI News") return 60;
+  if (sourceName === "51CTO AI") return 50;
   if (sourceName === "CSS-Tricks" || sourceName === "Smashing Mag") return 30;
   if (sourceName === "VentureBeat") return 45;
   return 20;
@@ -99,13 +102,20 @@ async function translateText(text) {
   }
 }
 
-// ── 拉取 Reddit JSON 热度 ──
+// ── 拉取 Reddit JSON 热度（不可用时降级为 RSS 默认分）──
 async function getRedditScores(subreddit, limit = 12) {
   try {
     const resp = await fetch(
       `https://www.reddit.com/r/${subreddit}/hot.json?limit=${limit}`,
-      { headers: { "User-Agent": "aDiaoYa-Blog-NewsBot/1.0" }, signal: AbortSignal.timeout(8000) }
+      {
+        headers: {
+          "User-Agent": "Mozilla/5.0 (compatible; aDiaoYa-Blog-NewsBot/1.0)",
+          "Accept": "application/json",
+        },
+        signal: AbortSignal.timeout(10000),
+      }
     );
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const json = await resp.json();
     const map = new Map();
     for (const child of json.data.children) {
@@ -114,7 +124,8 @@ async function getRedditScores(subreddit, limit = 12) {
       map.set("https://www.reddit.com" + d.permalink, { score: d.score || 0, comments: d.num_comments || 0 });
     }
     return map;
-  } catch {
+  } catch (err) {
+    console.log(`     ⚠️ Reddit r/${subreddit} 热度获取失败 (${err.message})，使用 RSS 默认分`);
     return new Map();
   }
 }
