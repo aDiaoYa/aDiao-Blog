@@ -13,7 +13,7 @@
   </div>
 
   <% if (news && news.items && news.items.length) { %>
-    <!-- 全局翻译按钮 -->
+    <!-- 工具栏 -->
     <div class="news-toolbar">
       <div class="news-filter-bar">
         <button class="nf-btn active" data-tag="全部">全部</button>
@@ -21,7 +21,7 @@
         <button class="nf-btn" data-tag="前端">🎨 前端</button>
         <button class="nf-btn" data-tag="综合">📡 综合</button>
       </div>
-      <button class="nf-translate-all" id="translate-all-btn">🌐 一键翻译</button>
+      <button class="nf-translate-all" id="translate-all-btn">🌐 切换中文</button>
     </div>
 
     <div class="news-list">
@@ -34,16 +34,12 @@
               <span class="nc-score" title="热度分数">🔥 <%= item.score %></span>
             <% } %>
             <span class="nc-date"><%= new Date(item.date).toLocaleDateString('zh-CN') %></span>
-            <button class="nc-translate-btn" data-idx="<%= idx %>" title="翻译标题和摘要">🌐</button>
+            <button class="nc-translate-btn" title="切换中/英文">🌐</button>
           </div>
           <h2 class="nc-title">
             <a href="<%= item.link %>" target="_blank" rel="noopener" class="nc-title-orig"><%= item.title %></a>
-            <span class="nc-title-zh" style="display:none"></span>
+            <a href="<%= item.link %>" target="_blank" rel="noopener" class="nc-title-zh" style="display:none"><%= item.titleZh || item.title %></a>
           </h2>
-          <% if (item.summary) { %>
-            <p class="nc-summary nc-summary-orig"><%= item.summary.slice(0, 200) %></p>
-            <p class="nc-summary nc-summary-zh" style="display:none"></p>
-          <% } %>
           <div class="nc-tags">
             <% (item.tags || []).forEach(function(t) { %><span class="nc-tag"><%= t %></span><% }) %>
           </div>
@@ -52,7 +48,7 @@
     </div>
 
     <p class="news-footer-note">
-      数据来源：Hacker News、Reddit、Dev.to 等权威平台 · 每天 8:00 / 18:00 自动更新
+      数据来源：Hacker News、Reddit、Dev.to 等权威平台 · 每天 8:00 / 18:00 自动更新 · 标题已预翻译
     </p>
   <% } else { %>
     <div class="news-empty">
@@ -85,127 +81,43 @@
     });
   }
 
-  // ── 翻译功能 ──
+  // ── 中英文切换（纯显示切换，翻译数据已预存在 HTML 中）──
   var translateBtn = document.getElementById('translate-all-btn');
-  var translated = false;
+  var zhVisible = false;
 
-  // 翻译单个卡片
-  function translateCard(card) {
-    var titleLink = card.querySelector('.nc-title-orig');
-    var titleZh = card.querySelector('.nc-title-zh');
-    var summaryOrig = card.querySelector('.nc-summary-orig');
-    var summaryZh = card.querySelector('.nc-summary-zh');
-    var btn = card.querySelector('.nc-translate-btn');
-
-    if (!titleLink || !titleZh) return;
-
-    // 已经翻译过了，切换显示
-    if (titleZh.textContent) {
-      var showingZh = titleZh.style.display !== 'none';
-      titleLink.style.display = showingZh ? '' : 'none';
-      titleZh.style.display = showingZh ? 'none' : '';
-      if (summaryOrig && summaryZh) {
-        summaryOrig.style.display = showingZh ? '' : 'none';
-        summaryZh.style.display = showingZh ? 'none' : '';
-      }
-      if (btn) btn.textContent = showingZh ? '🌐' : '↩️';
-      return;
-    }
-
-    // 首次翻译：调用 Google Translate API
-    var titleText = titleLink.textContent.trim();
-    var summaryText = summaryOrig ? summaryOrig.textContent.trim() : '';
-
-    translateText(titleText, function(zhTitle) {
-      titleZh.textContent = zhTitle || titleText;
-      titleLink.style.display = 'none';
-      titleZh.style.display = '';
-      if (btn) btn.textContent = '↩️';
+  function setLangShow(showZh) {
+    zhVisible = showZh;
+    translateBtn.textContent = showZh ? '↩️ 恢复英文' : '🌐 切换中文';
+    document.querySelectorAll('.news-card').forEach(function(card) {
+      var origEls = card.querySelectorAll('.nc-title-orig');
+      var zhEls = card.querySelectorAll('.nc-title-zh');
+      origEls.forEach(function(el) { el.style.display = showZh ? 'none' : ''; });
+      zhEls.forEach(function(el) { el.style.display = showZh ? '' : 'none'; });
+      var btn = card.querySelector('.nc-translate-btn');
+      if (btn) btn.textContent = showZh ? '↩️' : '🌐';
     });
-
-    if (summaryText && summaryZh) {
-      translateText(summaryText, function(zhSummary) {
-        summaryZh.textContent = zhSummary || summaryText;
-        if (summaryOrig) summaryOrig.style.display = 'none';
-        summaryZh.style.display = '';
-      });
-    }
   }
 
-  // 调用 Google Translate API
-  function translateText(text, callback) {
-    if (!text || text.length < 3) {
-      callback(text);
-      return;
-    }
-    var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=' + encodeURIComponent(text);
-    try {
-      fetch(url)
-        .then(function(r) { return r.json(); })
-        .then(function(data) {
-          if (data && data[0]) {
-            var translated = data[0].map(function(seg) { return seg[0]; }).join('');
-            callback(translated);
-          } else {
-            callback(text);
-          }
-        })
-        .catch(function() {
-          // Google Translate 不可用时，提示
-          callback(text + ' [翻译失败]');
-        });
-    } catch(e) {
-      callback(text);
-    }
-  }
-
-  // 单个卡片翻译按钮
+  // 单个卡片按钮
   document.querySelectorAll('.nc-translate-btn').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.stopPropagation();
       var card = this.closest('.news-card');
-      if (card) translateCard(card);
+      if (!card) return;
+      var origEl = card.querySelector('.nc-title-orig');
+      var zhEl = card.querySelector('.nc-title-zh');
+      if (!origEl || !zhEl) return;
+      var curZh = zhEl.style.display !== 'none';
+      origEl.style.display = curZh ? '' : 'none';
+      zhEl.style.display = curZh ? 'none' : '';
+      this.textContent = curZh ? '🌐' : '↩️';
     });
   });
 
-  // 一键翻译全部
+  // 一键切换
   if (translateBtn) {
     translateBtn.addEventListener('click', function() {
-      translated = !translated;
-      if (translated) {
-        translateBtn.textContent = '↩️ 恢复原文';
-        document.querySelectorAll('.news-card').forEach(function(card) {
-          var titleZh = card.querySelector('.nc-title-zh');
-          // 如果还没翻译过，触发翻译
-          if (!titleZh || !titleZh.textContent) {
-            translateCard(card);
-          } else {
-            var titleLink = card.querySelector('.nc-title-orig');
-            var summaryOrig = card.querySelector('.nc-summary-orig');
-            var summaryZh = card.querySelector('.nc-summary-zh');
-            titleLink.style.display = 'none';
-            titleZh.style.display = '';
-            if (summaryOrig) summaryOrig.style.display = 'none';
-            if (summaryZh) summaryZh.style.display = '';
-          }
-          var btn = card.querySelector('.nc-translate-btn');
-          if (btn) btn.textContent = '↩️';
-        });
-      } else {
-        translateBtn.textContent = '🌐 一键翻译';
-        document.querySelectorAll('.news-card').forEach(function(card) {
-          var titleLink = card.querySelector('.nc-title-orig');
-          var titleZh = card.querySelector('.nc-title-zh');
-          var summaryOrig = card.querySelector('.nc-summary-orig');
-          var summaryZh = card.querySelector('.nc-summary-zh');
-          if (titleLink) titleLink.style.display = '';
-          if (titleZh) titleZh.style.display = 'none';
-          if (summaryOrig) summaryOrig.style.display = '';
-          if (summaryZh) summaryZh.style.display = 'none';
-          var btn = card.querySelector('.nc-translate-btn');
-          if (btn) btn.textContent = '🌐';
-        });
-      }
+      setLangShow(!zhVisible);
     });
   }
 })();

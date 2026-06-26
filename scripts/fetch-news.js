@@ -67,6 +67,23 @@ function cleanSummary(item, sourceName) {
   return raw;
 }
 
+// ── Google Translate（仅翻译标题，GitHub Actions 服务器可访问）──
+async function translateText(text) {
+  if (!text || text.length < 2) return text;
+  try {
+    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=" + encodeURIComponent(text);
+    const resp = await fetch(url, { timeout: 8000 });
+    const data = await resp.json();
+    if (data && data[0]) {
+      return data[0].map((seg) => seg[0]).join("");
+    }
+    return text;
+  } catch {
+    // 翻译失败回退到原文
+    return text;
+  }
+}
+
 // ── 获取 Reddit JSON 热度数据（用于补充分数） ──
 async function fetchRedditScores(subreddit, limit = 8) {
   try {
@@ -134,6 +151,13 @@ async function fetchAll() {
     seen.add(item.link);
     return true;
   });
+
+  // ── 预翻译标题（服务器端，GitHub Actions 可访问 Google）──
+  console.log("\n🌐 翻译标题到中文 ...");
+  for (const item of deduped) {
+    item.titleZh = await translateText(item.title);
+  }
+  console.log("   翻译完成！");
 
   // 按热度分数降序排序（同分按日期降序）
   deduped.sort((a, b) => {
