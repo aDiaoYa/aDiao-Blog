@@ -1,38 +1,8 @@
 {
-  "updated": "2026-06-26T07:32:46.080Z",
+  "updated": "2026-06-26T08:22:41.226Z",
   "date": "2026-06-26",
-  "count": 5,
+  "count": 12,
   "items": [
-    {
-      "title": "US Govt to individually approve who gets GPT 5.6",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
-      "source": "Hacker News",
-      "tags": [
-        "综合"
-      ],
-      "date": "Fri, 26 Jun 2026 06:24:39 +0000",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombinator.com/item?id=48683021 Points: 22 # Comments: 13"
-    },
-    {
-      "title": "We All Depend on Open Source. We Will Defend It Together",
-      "link": "https://akrites.org/letter/",
-      "source": "Hacker News",
-      "tags": [
-        "综合"
-      ],
-      "date": "Fri, 26 Jun 2026 05:40:36 +0000",
-      "summary": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 19 # Comments: 9"
-    },
-    {
-      "title": "Why are we so obsessed with lawns?",
-      "link": "https://www.gardensillustrated.com/features/the-history-of-lawns",
-      "source": "Hacker News",
-      "tags": [
-        "综合"
-      ],
-      "date": "Fri, 26 Jun 2026 03:35:49 +0000",
-      "summary": "Article URL: https://www.gardensillustrated.com/features/the-history-of-lawns Comments URL: https://news.ycombinator.com/item?id=48682066 Points: 13 # Comments: 15"
-    },
     {
       "title": "Libre Barcode Project",
       "link": "https://graphicore.github.io/librebarcode/",
@@ -41,7 +11,8 @@
         "综合"
       ],
       "date": "Fri, 26 Jun 2026 03:12:42 +0000",
-      "summary": "Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 98 # Comments: 6"
+      "summary": "",
+      "score": 121
     },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
@@ -51,7 +22,118 @@
         "综合"
       ],
       "date": "Fri, 26 Jun 2026 02:29:23 +0000",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 100 # Comments: 36"
+      "summary": "",
+      "score": 121
+    },
+    {
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "link": "https://akrites.org/letter/",
+      "source": "Hacker News",
+      "tags": [
+        "综合"
+      ],
+      "date": "Fri, 26 Jun 2026 05:40:36 +0000",
+      "summary": "",
+      "score": 42
+    },
+    {
+      "title": "Micron locks in historically high memory prices for five years",
+      "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+      "source": "Hacker News",
+      "tags": [
+        "综合"
+      ],
+      "date": "Fri, 26 Jun 2026 06:27:25 +0000",
+      "summary": "",
+      "score": 33
+    },
+    {
+      "title": "Why are we so obsessed with lawns?",
+      "link": "https://www.gardensillustrated.com/features/the-history-of-lawns",
+      "source": "Hacker News",
+      "tags": [
+        "综合"
+      ],
+      "date": "Fri, 26 Jun 2026 03:35:49 +0000",
+      "summary": "",
+      "score": 23
+    },
+    {
+      "title": "How I set up sanity scheduled publishing with Next.js ISR revalidation",
+      "link": "https://dev.to/nayankyada/how-i-set-up-sanity-scheduled-publishing-with-nextjs-isr-revalidation-33pi",
+      "source": "Dev.to · Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 26 Jun 2026 08:06:52 +0000",
+      "summary": "Sanity scheduled publishing lets editors set a future publish date on any document. The problem is that Next.js has no idea a schedule just fired — the cached page keeps serving stale content until something tells the router to revalidate. This post ",
+      "score": 20
+    },
+    {
+      "title": "Why AI builds the plausible feature, not yours",
+      "link": "https://dev.to/adrianszablowski/why-ai-builds-the-plausible-feature-not-yours-2mk8",
+      "source": "Dev.to · Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 26 Jun 2026 07:38:16 +0000",
+      "summary": "Ask an AI to build a feature and it gives you the most plausible version of that feature, not the correct one for your app. Those are not the same thing, and the distance between them is where your day goes. You have seen the symptom. A rule in your ",
+      "score": 20
+    },
+    {
+      "title": "React vs Next.js: Which One Should You Learn First? My Honest Experience",
+      "link": "https://dev.to/abhavya28/react-vs-nextjs-which-one-should-you-learn-first-my-honest-experience-2i7g",
+      "source": "Dev.to · Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 26 Jun 2026 07:29:37 +0000",
+      "summary": "A few months ago, I was exactly where most beginners are today. I had finally learned HTML, CSS, and JavaScript. Feeling confident, I searched on YouTube, \"What should I learn next?\" And that's where the confusion started. Half the creators were sayi",
+      "score": 20
+    },
+    {
+      "title": "Building a Free Online PDF Converter with Next.js: What I Learned",
+      "link": "https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c",
+      "source": "Dev.to · Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 26 Jun 2026 07:28:13 +0000",
+      "summary": "PDF files are everywhere. Developers, students, businesses, and creators use them every day for documents, reports, invoices, and forms. However, working with PDFs on the web is not always simple. Many users still need to download software just to co",
+      "score": 20
+    },
+    {
+      "title": "I built a free online toolbox with 260+ tools — here's the tech stack and what I learned",
+      "link": "https://dev.to/anirudha_sonwane_ca3fc720/i-built-a-free-online-toolbox-with-260-tools-heres-the-tech-stack-and-what-i-learned-2o44",
+      "source": "Dev.to · Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 26 Jun 2026 06:45:15 +0000",
+      "summary": "Every small task used to mean a new tab. JSON formatter on one site, GST calculator on another, PDF merger somewhere that wanted my email before it would merge two pages. Ads everywhere, slow UIs, and that low-grade worry about uploading a payslip or",
+      "score": 20
+    },
+    {
+      "title": "How to Integrate Sanity CMS with Next.js 16 App Router (2026 Guide)",
+      "link": "https://dev.to/muhammadalisma/how-to-integrate-sanity-cms-with-nextjs-16-app-router-2026-guide-pdh",
+      "source": "Dev.to · Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 26 Jun 2026 05:57:55 +0000",
+      "summary": "Managing content as a developer used to mean one of two things: hardcoding everything into your codebase or wrestling with a clunky WordPress dashboard. Neither feels great when your client wants to update a blog post at 10pm on a Friday without touc",
+      "score": 20
+    },
+    {
+      "title": "Why current LLM costs are not sustainable",
+      "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "source": "Hacker News",
+      "tags": [
+        "综合"
+      ],
+      "date": "Fri, 26 Jun 2026 07:44:11 +0000",
+      "summary": "",
+      "score": 3
     }
   ]
 }

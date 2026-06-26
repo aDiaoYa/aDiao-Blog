@@ -2562,11 +2562,20 @@ html.dark .friends-apply pre {
   color: var(--muted);
 }
 
+/* 工具栏（筛选 + 翻译） */
+.news-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
 /* 筛选按钮 */
 .news-filter-bar {
   display: flex;
   gap: 8px;
-  margin-bottom: 24px;
   flex-wrap: wrap;
 }
 .nf-btn {
@@ -2588,6 +2597,24 @@ html.dark .friends-apply pre {
   background: var(--accent);
   color: #fff;
   border-color: var(--accent);
+}
+
+/* 一键翻译按钮 */
+.nf-translate-all {
+  padding: 6px 18px;
+  border-radius: 18px;
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all var(--transition);
+  font-family: inherit;
+  white-space: nowrap;
+}
+.nf-translate-all:hover {
+  background: var(--accent);
+  color: #fff;
 }
 
 /* 新闻卡片 */
@@ -2612,6 +2639,13 @@ html.dark .friends-apply pre {
   align-items: center;
   gap: 10px;
   margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+.nc-rank {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  min-width: 22px;
 }
 .nc-source {
   font-size: 11px;
@@ -2621,9 +2655,34 @@ html.dark .friends-apply pre {
   padding: 2px 8px;
   border-radius: 10px;
 }
+.nc-score {
+  font-size: 11px;
+  font-weight: 600;
+  color: #f59e0b;
+  background: rgba(245, 158, 11, 0.1);
+  padding: 2px 8px;
+  border-radius: 10px;
+}
 .nc-date {
   font-size: 11px;
   color: var(--muted);
+}
+.nc-translate-btn {
+  margin-left: auto;
+  width: 28px;
+  height: 24px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  font-size: 12px;
+  cursor: pointer;
+  transition: all var(--transition);
+  line-height: 1;
+}
+.nc-translate-btn:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
 }
 
 .nc-title {
