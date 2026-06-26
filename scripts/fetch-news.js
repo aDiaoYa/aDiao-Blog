@@ -233,7 +233,10 @@ async function main() {
   topFE.forEach((item, i) => console.log(`  ${i + 1}. [${item.score}🔥 ${item.source}] ${item.title.slice(0, 55)}`));
 }
 
-main().catch((err) => {
-  console.error("抓取失败:", err);
-  process.exit(1);
-});
+// 仅直接运行时执行，不被 Hexo 自动加载触发
+if (require.main === module) {
+  main().catch((err) => {
+    console.error("抓取失败:", err);
+    process.exit(1);
+  });
+}
