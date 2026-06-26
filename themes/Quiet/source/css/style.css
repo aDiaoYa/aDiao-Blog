@@ -384,6 +384,11 @@ img {
   color: var(--accent);
 }
 
+.site-nav a.active {
+  background: var(--accent);
+  color: #fff;
+}
+
 /* ---------- Layout Grid ---------- */
 .layout-grid {
   display: grid;
