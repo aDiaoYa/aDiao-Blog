@@ -5,7 +5,6 @@ import { getPostsByTag, getTags } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import P5Canvas from "@/components/P5Canvas";
 import ReadingProgress from "@/components/ReadingProgress";
 
 interface Props {
@@ -28,7 +27,6 @@ export default async function TagPage({ params }: Props) {
 
   return (
     <>
-      <P5Canvas />
       <ReadingProgress />
       <div className="page-shell">
         <Navbar />

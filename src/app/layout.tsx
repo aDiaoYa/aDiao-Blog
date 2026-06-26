@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 import BackToTop from "@/components/BackToTop";
 import ImageZoom from "@/components/ImageZoom";
 import SearchOverlay from "@/components/SearchOverlay";
 import ThemeInit from "@/components/ThemeInit";
+import P5Canvas from "@/components/P5Canvas";
 
 export const metadata: Metadata = {
   title: {
@@ -25,6 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body>
         <ThemeInit />
+        <P5Canvas />
         <SearchOverlay />
         {children}
         <BackToTop />

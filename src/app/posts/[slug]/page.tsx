@@ -5,7 +5,6 @@ import { getPostBySlug, getPublicPosts } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import P5Canvas from "@/components/P5Canvas";
 import ReadingProgress from "@/components/ReadingProgress";
 import MarkdownRenderer from "@/components/MarkdownRenderer";
 
@@ -44,9 +43,32 @@ export default async function PostPage({ params }: Props) {
   const isPrivate = post.visibility === "private";
   const category = post.categories[0];
 
+  // Extract headings for TOC
+  const content = post.content || "";
+  const headingRegex = /^(#{1,3})\s+(.+)$/gm;
+  const headings: { level: number; text: string; id: string }[] = [];
+  let match: RegExpExecArray | null;
+  while ((match = headingRegex.exec(content)) !== null) {
+    const level = match[1].length;
+    const text = match[2].trim();
+    const id = text
+      .toLowerCase()
+      .replace(/[^\w\u4e00-\u9fff]+/g, "-")
+      .replace(/(^-|-$)/g, "");
+    headings.push({ level, text, id });
+  }
+
+  // Also inject IDs into content
+  let contentWithIds = content;
+  headings.forEach((h) => {
+    contentWithIds = contentWithIds.replace(
+      new RegExp(`^(#{1,3})\\s+${h.text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}$`, "m"),
+      `$1 <span id="${h.id}"></span>${h.text}`
+    );
+  });
+
   return (
     <>
-      <P5Canvas />
       <ReadingProgress />
       <div className="page-shell">
         <Navbar />
@@ -55,7 +77,7 @@ export default async function PostPage({ params }: Props) {
           <section className="content-panel">
             <article className="article">
               <header className="article-header">
-                <p className="eyebrow">{category || "Article"}</p>
+                {category && <p className="eyebrow">{category}</p>}
                 <h1>
                   {post.title}
                   {isPrivate && <span className="private-badge">私密</span>}
@@ -67,7 +89,7 @@ export default async function PostPage({ params }: Props) {
                     {String(date.getDate()).padStart(2, "0")}
                   </time>
                   <span className="meta-dot">·</span>
-                  <span className="meta-stat">{(post.content || "").length} 字</span>
+                  <span className="meta-stat">{(content || "").length} 字</span>
                   {post.tags.length > 0 && (
                     <span className="article-tags">
                       {post.tags.map((tag) => (
@@ -80,7 +102,27 @@ export default async function PostPage({ params }: Props) {
                 </div>
               </header>
 
-              <MarkdownRenderer content={post.content} />
+              <div className={`article-wrapper${headings.length > 0 ? " has-toc" : ""}`}>
+                {headings.length > 0 && (
+                  <nav className="article-toc" aria-label="目录">
+                    <h3>目录</h3>
+                    <ol>
+                      {headings.map((h) => (
+                        <li
+                          key={h.id}
+                          className={h.level === 3 ? "toc-child" : ""}
+                          style={{ paddingLeft: h.level === 2 ? "0" : undefined }}
+                        >
+                          <a href={`#${h.id}`}>{h.text}</a>
+                        </li>
+                      ))}
+                    </ol>
+                  </nav>
+                )}
+                <div className="article-body">
+                  <MarkdownRenderer content={contentWithIds} />
+                </div>
+              </div>
 
               {isOutdated && (
                 <div className="outdated-notice">
@@ -131,7 +173,7 @@ export default async function PostPage({ params }: Props) {
 
               <nav className="post-nav" aria-label="文章导航">
                 {prev ? (
-                  <Link href={`/posts/${prev.slug}`}>
+                  <Link className="post-nav-prev" href={`/posts/${prev.slug}`}>
                     <span className="post-nav-label">← 上一篇</span>
                     <span className="post-nav-title">{prev.title}</span>
                   </Link>
@@ -139,7 +181,7 @@ export default async function PostPage({ params }: Props) {
                   <span className="post-nav-empty" />
                 )}
                 {next ? (
-                  <Link href={`/posts/${next.slug}`}>
+                  <Link className="post-nav-next" href={`/posts/${next.slug}`}>
                     <span className="post-nav-label">下一篇 →</span>
                     <span className="post-nav-title">{next.title}</span>
                   </Link>
@@ -147,6 +189,37 @@ export default async function PostPage({ params }: Props) {
                   <span className="post-nav-empty" />
                 )}
               </nav>
+
+              {/* Giscus 评论区 */}
+              <section
+                className="article-comments"
+                id="giscus-container"
+                suppressHydrationWarning
+              />
+              <script
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    (function() {
+                      var script = document.createElement('script');
+                      script.src = 'https://giscus.app/client.js';
+                      script.setAttribute('data-repo', 'aDiaoYa/aDiao-Blog');
+                      script.setAttribute('data-repo-id', '');
+                      script.setAttribute('data-category', 'Announcements');
+                      script.setAttribute('data-category-id', '');
+                      script.setAttribute('data-mapping', 'pathname');
+                      script.setAttribute('data-strict', '0');
+                      script.setAttribute('data-reactions-enabled', '1');
+                      script.setAttribute('data-emit-metadata', '0');
+                      script.setAttribute('data-input-position', 'bottom');
+                      script.setAttribute('data-theme', document.documentElement.classList.contains('dark') ? 'dark_dimmed' : 'light');
+                      script.setAttribute('data-lang', 'zh-CN');
+                      script.setAttribute('crossorigin', 'anonymous');
+                      script.async = true;
+                      document.getElementById('giscus-container').appendChild(script);
+                    })();
+                  `,
+                }}
+              />
             </article>
           </section>
 

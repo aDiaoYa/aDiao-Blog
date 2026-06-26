@@ -27,7 +27,7 @@ export default function Navbar() {
     <header className="site-header">
       <Link className="brand" href="/" aria-label="aDiaoYa">
         <span className="brand-icon" aria-hidden="true">
-          🦋
+          🐟
         </span>
         <span>
           <strong>aDiaoYa · 啊叼一只鱼</strong>
@@ -46,10 +46,10 @@ export default function Navbar() {
           );
         })}
         <button
+          className="search-btn"
           onClick={openSearch}
           title="搜索"
           aria-label="搜索文章"
-          style={{ padding: "7px 10px" }}
         >
           <svg
             width="18"

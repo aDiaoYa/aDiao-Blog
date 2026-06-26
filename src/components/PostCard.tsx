@@ -6,8 +6,10 @@ export default function PostCard({ post }: { post: PostMeta }) {
   const category = post.categories[0];
 
   return (
-    <article className="post-card" data-category={category || ""}>
+    <article className="waterfall-card" data-category={category || ""}>
       <Link className="post-card-link" href={`/posts/${post.slug}`}>
+        <h2>{post.title}</h2>
+        <p>{post.excerpt}</p>
         <div className="post-meta">
           <time dateTime={post.date}>
             {date.getFullYear()} · {String(date.getMonth() + 1).padStart(2, "0")} ·{" "}
@@ -15,8 +17,6 @@ export default function PostCard({ post }: { post: PostMeta }) {
           </time>
           {category && <span className="post-category">{category}</span>}
         </div>
-        <h2>{post.title}</h2>
-        <p>{post.excerpt}</p>
         {post.tags.length > 0 && (
           <div className="post-tags">
             {post.tags.map((tag) => (
@@ -26,7 +26,6 @@ export default function PostCard({ post }: { post: PostMeta }) {
             ))}
           </div>
         )}
-        <span className="read-more">阅读全文 →</span>
       </Link>
     </article>
   );

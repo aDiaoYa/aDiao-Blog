@@ -1,10 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import P5Canvas from "@/components/P5Canvas";
 import ReadingProgress from "@/components/ReadingProgress";
 import type { NewsData, NewsItem } from "@/lib/types";
 
@@ -28,13 +26,12 @@ export default function NewsPage() {
 
   return (
     <>
-      <P5Canvas />
       <ReadingProgress />
       <div className="page-shell">
         <Navbar />
 
-        <main className="layout-grid">
-          <section className="content-panel">
+        <main className="home-main">
+          <section className="content-panel content-full">
             <div className="news-page">
               <div className="news-header">
                 <h1>AI & 前端 · 每日资讯</h1>
@@ -158,8 +155,6 @@ export default function NewsPage() {
               )}
             </div>
           </section>
-
-          <Sidebar />
         </main>
 
         <Footer />

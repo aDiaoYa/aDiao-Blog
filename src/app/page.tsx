@@ -7,13 +7,19 @@ import P5Canvas from "@/components/P5Canvas";
 export default function LandingPage() {
   useEffect(() => {
     document.documentElement.classList.add("no-dark");
-    return () => document.documentElement.classList.remove("no-dark");
+    document.body.classList.add("landing-page");
+    return () => {
+      document.documentElement.classList.remove("no-dark");
+      document.body.classList.remove("landing-page");
+    };
   }, []);
 
   return (
     <>
-      <P5Canvas mode="landing" />
-      <div className="page-shell landing-page">
+      <div className="hero-visual" id="hero-canvas" aria-hidden="true">
+        <P5Canvas mode="landing" />
+      </div>
+      <div className="page-shell">
         <section className="landing-hero">
           <div className="hero-content">
             <div className="hero-badge">Frontend × AI Agent</div>
@@ -35,7 +41,6 @@ export default function LandingPage() {
             </div>
           </div>
 
-          <div className="hero-visual" id="hero-canvas" aria-hidden="true" />
           <img
             className="star-boy-img"
             src="/aDiao-Blog/images/star-boy.png"

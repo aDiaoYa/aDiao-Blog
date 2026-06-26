@@ -51,7 +51,7 @@ export default function Sidebar() {
         <h2>aDiaoYa · 啊叼一只鱼</h2>
         <p className="profile-bio">
           你好，我是啊叼一只鱼(aDiaoYa)，一名努力升级进化的前端开发工程师，目前专注于前端与AI
-          Agent相关技术探索和实践。
+          Agent相关技术探索和实践，奉行&ldquo;人有多大胆，地有多大产&rdquo;的理念。对了，我的麦子快熟了，你要陪我一起静候再静候嘛？
         </p>
         <div className="profile-tags">
           {sidebarTags.map((t) => (

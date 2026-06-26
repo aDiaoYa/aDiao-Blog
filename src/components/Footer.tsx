@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="footer-inner">
         <div className="footer-brand">
-          <span className="brand-icon">🦋</span>
+          <span className="brand-icon">🐟</span>
           <strong>aDiaoYa · 啊叼一只鱼</strong>
         </div>
         <div className="footer-links">
@@ -33,7 +33,13 @@ export default function Footer() {
         <div className="footer-info">
           <span>&copy; 2026{year > 2026 ? `-${year}` : ""} aDiaoYa · 啊叼一只鱼</span>
           <span className="footer-dot">·</span>
-          <span>CC BY-NC-SA 4.0</span>
+          <a
+            href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            target="_blank"
+            rel="noopener"
+          >
+            CC BY-NC-SA 4.0
+          </a>
           <span className="footer-dot">·</span>
           <span>
             Powered by{" "}

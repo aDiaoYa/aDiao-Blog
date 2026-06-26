@@ -1,10 +1,8 @@
 "use client";
 
 import { useEffect, useState, useCallback } from "react";
-import P5Canvas from "@/components/P5Canvas";
 import ReadingProgress from "@/components/ReadingProgress";
 import Footer from "@/components/Footer";
-import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 
 interface PlanItem {
@@ -150,13 +148,12 @@ export default function PlanPage() {
 
   return (
     <>
-      <P5Canvas />
       <ReadingProgress />
       <div className="page-shell">
         <Navbar />
 
-        <main className="layout-grid">
-          <section className="content-panel">
+        <main className="home-main">
+          <section className="content-panel content-full">
             <div className="plan-page">
               <div className="plan-header">
                 <h1>📋 每日计划</h1>
@@ -264,8 +261,6 @@ export default function PlanPage() {
               </div>
             </div>
           </section>
-
-          <Sidebar />
         </main>
 
         <Footer />

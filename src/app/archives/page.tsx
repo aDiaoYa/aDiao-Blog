@@ -4,9 +4,9 @@ import { getPublicPosts } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import P5Canvas from "@/components/P5Canvas";
 import ReadingProgress from "@/components/ReadingProgress";
 import CalendarHeatmap from "./CalendarHeatmap";
+import AlmanacCard from "@/components/AlmanacCard";
 
 export const metadata: Metadata = {
   title: "文章归档",
@@ -17,7 +17,6 @@ export default function ArchivesPage() {
 
   return (
     <>
-      <P5Canvas />
       <ReadingProgress />
       <div className="page-shell">
         <Navbar />
@@ -30,6 +29,7 @@ export default function ArchivesPage() {
               <p>共 {posts.length} 篇</p>
             </section>
 
+            <AlmanacCard />
             <CalendarHeatmap posts={posts} />
 
             <section className="archive-list">
