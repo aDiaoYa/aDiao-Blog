@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adiaoYa.github.io/aDiao-Blog/sitemap.xml

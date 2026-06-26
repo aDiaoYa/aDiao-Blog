@@ -1,37 +1,39 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "adiao-blog",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server",
-    "admin": "hexo server --open",
-    "news": "node scripts/fetch-news.js"
-  },
-  "hexo": {
-    "version": "7.3.0"
+    "dev": "node scripts/generate-data.js && next dev",
+    "build": "node scripts/generate-data.js && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "news": "node scripts/fetch-news.js",
+    "generate": "node scripts/generate-data.js"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
-    "hexo-abbrlink": "^2.2.1",
-    "hexo-admin": "^2.3.0",
-    "hexo-deployer-git": "^4.0.0",
-    "hexo-filter-nofollow": "^2.0.2",
-    "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
-    "hexo-generator-feed": "^4.0.0",
-    "hexo-generator-index": "^3.0.0",
-    "hexo-generator-searchdb": "^1.5.0",
-    "hexo-generator-sitemap": "^3.0.1",
-    "hexo-generator-tag": "^2.0.0",
-    "hexo-neat": "^1.0.9",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.0.0",
-    "hexo-renderer-stylus": "^3.0.0",
-    "hexo-server": "^3.0.0",
-    "hexo-wordcount": "^6.0.1",
+    "gray-matter": "^4.0.3",
+    "lunar-javascript": "^1.6.13",
+    "next": "^15.1.0",
+    "p5": "^2.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "^9.0.1",
+    "react-syntax-highlighter": "^15.6.1",
+    "rehype-raw": "^7.0.0",
+    "rehype-slug": "^6.0.0",
+    "remark-gfm": "^4.0.0",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.22.4",
+    "typescript": "^5.7.0"
   }
 }

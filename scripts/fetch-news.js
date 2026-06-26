@@ -221,7 +221,7 @@ async function main() {
     items: finalItems,
   };
 
-  const outDir = path.join(__dirname, "..", "source", "_data");
+  const outDir = path.join(__dirname, "..", "public", "data");
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, "news.json");
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), "utf-8");

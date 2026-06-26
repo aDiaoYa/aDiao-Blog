@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>aDiaoYa · 啊叼一只鱼</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://adiaoya.github.io/favicon.svg</icon>
+  <id>https://adiaoya.github.io/</id>
+  <link href="https://adiaoya.github.io/" rel="alternate"/>
+  <link href="https://adiaoya.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, aDiaoYa · 啊叼一只鱼</rights>
+  <subtitle>啊叼一只鱼 · 越努力越幸运的美少女</subtitle>
+  <title>aDiaoYa · 啊叼一只鱼</title>
+  <updated>2026-06-25T05:08:40.700Z</updated>
+  <entry>
+    <author>
+      <name>aDiaoYa · 啊叼一只鱼</name>
+    </author>
+    <category term="生活随笔" scheme="https://adiaoya.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://adiaoya.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="夏日" scheme="https://adiaoya.github.io/tags/%E5%A4%8F%E6%97%A5/"/>
+    <category term="城市漫步" scheme="https://adiaoya.github.io/tags/%E5%9F%8E%E5%B8%82%E6%BC%AB%E6%AD%A5/"/>
+    <content>
+      <![CDATA[<blockquote><p>晚上十点下楼买西瓜，结果绕着小区走了五公里。有时候最好的灵感，就藏在那些没有目的地的路上。</p></blockquote><h2 id="风里有烧烤味"><a href="#风里有烧烤味" class="headerlink" title="风里有烧烤味"></a>风里有烧烤味</h2><p>走出单元门，一股孜然辣椒混着炭火的味道扑面而来。隔壁老王又在天台上搞露天烧烤了，隐约能听到玻璃杯碰撞的清脆声响。夏天的夜晚就是这样，空气里永远飘着人间烟火，让人忍不住想加入任何一个亮着暖黄灯光的阳台。</p><p>我本来只想走到小区门口的水果店，但那股风推着我多走了两个街区。</p><h2 id="城市夜行者的默契"><a href="#城市夜行者的默契" class="headerlink" title="城市夜行者的默契"></a>城市夜行者的默契</h2><p>十点半的街道上，人都慢下来了。遛狗的大爷、夜跑的青年、推着婴儿车还在哄孩子的年轻父母——大家心照不宣地保持着某种温柔的节奏。没有白天的匆忙，每个人都像被按下了 0.75 倍速。</p><p>路过便利店时，一个穿格子衫的男生坐在门口的台阶上喝汽水，膝盖上摊着一本《雪国》。这个画面让我想起大学时代，那时候我们也这样——一瓶北冰洋，一本闲书，一个无所事事的夏夜，就能消磨到凌晨。</p><h2 id="走到河边"><a href="#走到河边" class="headerlink" title="走到河边"></a>走到河边</h2><p>不知不觉走到了护城河边。水面上倒映着远处的写字楼灯光，被晚风吹皱成一河碎金。有人在夜钓，荧光浮标在黑暗里发出幽幽的绿光。</p><p>坐在河边的长椅上，我想起白天的调试——一个 Bug 折腾了四个小时，最后发现是多了一个分号。现在想起来觉得好笑，但当时真是崩溃到想砸键盘。也许这就是为什么我们需要这样的夜晚：让白天的焦虑在风中稀释，然后重新觉得一切都还好。</p><h2 id="掉头回家"><a href="#掉头回家" class="headerlink" title="掉头回家"></a>掉头回家</h2><p>快十一点的时候终于想起来此行的目的。在小区门口的水果店挑了个最圆的西瓜，老板说这是他今天切的第一个”保甜”的瓜。</p><p>拎着西瓜上楼的时候，我突然觉得今晚的散步是一笔划算的交易——五公里，换了一个可以安心入睡的平静心情。下次如果 Bug 再找上门，我知道该去哪了。</p><hr><p><em>写完这篇的时候西瓜已经吃了一半。夏天真好。</em></p>]]>
+    </content>
+    <id>https://adiaoya.github.io/posts/3a7f2b1c</id>
+    <link href="https://adiaoya.github.io/posts/3a7f2b1c"/>
+    <published>2026-06-20T13:30:00.000Z</published>
+    <summary>
+      <![CDATA[<blockquote>
+<p>晚上十点下楼买西瓜，结果绕着小区走了五公里。有时候最好的灵感，就藏在那些没有目的地的路上。</p>
+</blockquote>
+<h2 id="风里有烧烤味"><a href="#风里有烧烤味" class="headerlink" title="]]>
+    </summary>
+    <title>仲夏夜的散步随想</title>
+    <updated>2026-06-25T05:08:40.700Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>aDiaoYa · 啊叼一只鱼</name>
+    </author>
+    <category term="AI Agent" scheme="https://adiaoya.github.io/categories/AI-Agent/"/>
+    <category term="Agent" scheme="https://adiaoya.github.io/tags/Agent/"/>
+    <category term="Tool Use" scheme="https://adiaoya.github.io/tags/Tool-Use/"/>
+    <category term="MCP" scheme="https://adiaoya.github.io/tags/MCP/"/>
+    <content>
+      <![CDATA[<blockquote><p>2026 年，AI Agent 已经从前沿实验变成了工程实践。这篇文章记录我搭建个人 Agent 开发环境的完整过程。</p></blockquote><h2 id="为什么我们需要-Agent"><a href="#为什么我们需要-Agent" class="headerlink" title="为什么我们需要 Agent"></a>为什么我们需要 Agent</h2><p>传统 LLM 应用是”一问一答”的对话模式，但真正的智能体需要能够：</p><ul><li><strong>自主决策</strong>：根据上下文选择下一步行动</li><li><strong>工具调用</strong>：读写文件、查询数据库、调用 API</li><li><strong>多步推理</strong>：将复杂任务拆解为可执行的子任务链</li></ul><p>这正是 Function Calling → Tool Use → Agent 这条演进路线的核心逻辑。</p><h2 id="技术选型"><a href="#技术选型" class="headerlink" title="技术选型"></a>技术选型</h2><p>当前主流的 Agent 框架各有侧重：</p><table><thead><tr><th>框架</th><th>特点</th><th>适用场景</th></tr></thead><tbody><tr><td>LangChain</td><td>生态完善，抽象层多</td><td>快速原型</td></tr><tr><td>CrewAI</td><td>多 Agent 协作</td><td>复杂工作流</td></tr><tr><td>自研轻量 Agent</td><td>可控性高，依赖少</td><td>生产环境</td></tr></tbody></table><p>我选择了<strong>自研轻量 Agent</strong> 路线，核心依赖仅三个：LLM 接口、Tool 注册表、消息循环。</p><h2 id="核心架构"><a href="#核心架构" class="headerlink" title="核心架构"></a>核心架构</h2><figure class="highlight typescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">interface</span> <span class="title class_">AgentConfig</span> &#123;</span><br><span class="line">  <span class="attr">model</span>: <span class="built_in">string</span>;</span><br><span class="line">  <span class="attr">tools</span>: <span class="title class_">Tool</span>[];</span><br><span class="line">  <span class="attr">systemPrompt</span>: <span class="built_in">string</span>;</span><br><span class="line">  <span class="attr">maxSteps</span>: <span class="built_in">number</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">Agent</span> &#123;</span><br><span class="line">  <span class="keyword">private</span> <span class="attr">messages</span>: <span class="title class_">Message</span>[] = [];</span><br><span class="line">  <span class="keyword">private</span> <span class="attr">toolRegistry</span>: <span class="title class_">Map</span>&lt;<span class="built_in">string</span>, <span class="title class_">Tool</span>&gt;;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">async</span> <span class="title function_">run</span>(<span class="attr">userInput</span>: <span class="built_in">string</span>): <span class="title class_">Promise</span>&lt;<span class="built_in">string</span>&gt; &#123;</span><br><span class="line">    <span class="variable language_">this</span>.<span class="property">messages</span>.<span class="title function_">push</span>(&#123; <span class="attr">role</span>: <span class="string">&#x27;user&#x27;</span>, <span class="attr">content</span>: userInput &#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> step = <span class="number">0</span>; step &lt; <span class="variable language_">this</span>.<span class="property">maxSteps</span>; step++) &#123;</span><br><span class="line">      <span class="keyword">const</span> response = <span class="keyword">await</span> <span class="variable language_">this</span>.<span class="property">llm</span>.<span class="title function_">chat</span>(<span class="variable language_">this</span>.<span class="property">messages</span>);</span><br><span class="line"></span><br><span class="line">      <span class="keyword">if</span> (response.<span class="property">toolCalls</span>?.<span class="property">length</span>) &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">const</span> call <span class="keyword">of</span> response.<span class="property">toolCalls</span>) &#123;</span><br><span class="line">          <span class="keyword">const</span> result = <span class="keyword">await</span> <span class="variable language_">this</span>.<span class="title function_">executeTool</span>(call);</span><br><span class="line">          <span class="variable language_">this</span>.<span class="property">messages</span>.<span class="title function_">push</span>(&#123;</span><br><span class="line">            <span class="attr">role</span>: <span class="string">&#x27;tool&#x27;</span>,</span><br><span class="line">            <span class="attr">content</span>: <span class="title class_">JSON</span>.<span class="title function_">stringify</span>(result),</span><br><span class="line">            <span class="attr">toolCallId</span>: call.<span class="property">id</span></span><br><span class="line">          &#125;);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">continue</span>;</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">      <span class="keyword">return</span> response.<span class="property">content</span>;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="MCP-协议的价值"><a href="#MCP-协议的价值" class="headerlink" title="MCP 协议的价值"></a>MCP 协议的价值</h2><p>Model Context Protocol（MCP）解决了 Agent 与外部工具之间的<strong>标准化通信问题</strong>。就像 USB-C 统一了硬件接口，MCP 让任何实现了该协议的工具都能被 Agent 无缝调用。</p><p>一个典型的 MCP Server 实现只需要暴露 <code>tools/list</code> 和 <code>tools/call</code> 两个端点，配合 JSON Schema 描述工具参数。</p><h2 id="踩过的坑"><a href="#踩过的坑" class="headerlink" title="踩过的坑"></a>踩过的坑</h2><ol><li><strong>Token 消耗失控</strong>：Tool 调用结果直接塞进上下文，10 步推理轻松超 8K tokens。解决方案是压缩工具返回，只保留关键字段。</li><li><strong>无限循环</strong>：Agent 有时会在两个工具之间反复横跳。加入 <code>maxSteps</code> 硬限制 + 重复检测机制。</li><li><strong>Prompt 工程</strong>：System Prompt 的质量直接决定 Agent 的稳定性。建议用结构化的 Markdown 格式，明确列出工具使用规则和边界条件。</li></ol><h2 id="下一步"><a href="#下一步" class="headerlink" title="下一步"></a>下一步</h2><p>计划实现：</p><ul><li>流式工具调用（streaming tool use）</li><li>人机协同确认机制（human-in-the-loop）</li><li>Agent 执行日志的可视化面板</li></ul><p>Stay tuned，下一篇会聊聊如何用 Next.js 搭建 Agent 对话界面。</p>]]>
+    </content>
+    <id>https://adiaoya.github.io/posts/de05965d</id>
+    <link href="https://adiaoya.github.io/posts/de05965d"/>
+    <published>2026-06-01T08:14:00.000Z</published>
+    <summary>
+      <![CDATA[<blockquote>
+<p>2026 年，AI Agent 已经从前沿实验变成了工程实践。这篇文章记录我搭建个人 Agent 开发环境的完整过程。</p>
+</blockquote>
+<h2 id="为什么我们需要-Agent"><a href="#为什么我们需要-Agent]]>
+    </summary>
+    <title>从零构建一个 AI Agent 开发环境</title>
+    <updated>2026-06-25T02:56:40.634Z</updated>
+  </entry>
+</feed>
