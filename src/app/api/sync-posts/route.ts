@@ -7,6 +7,9 @@ import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// 静态导出兼容：生产构建时返回占位数据
+export const dynamic = "force-static";
+
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 const REPO_OWNER = "aDiaoYa";
 const REPO_NAME = "aDiao-Blog";

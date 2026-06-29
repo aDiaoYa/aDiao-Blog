@@ -7,7 +7,15 @@ import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// 静态导出兼容：生产构建时返回占位数据
+export const dynamic = "force-static";
+
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
+
+// GET 用于静态导出构建
+export async function GET() {
+  return NextResponse.json({ ok: true, static: true });
+}
 
 export async function POST(request: NextRequest) {
   if (process.env.NODE_ENV !== "development") {
