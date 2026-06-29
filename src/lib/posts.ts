@@ -3,7 +3,23 @@ import path from "path";
 import matter from "gray-matter";
 import type { Post, PostMeta, CategoryInfo, TagInfo, SearchItem } from "@/types";
 
-const POSTS_DIR = path.join(process.cwd(), "content", "posts");
+// 优先读取 content/posts/，为空时回退到 source/_posts/（Legacy Hexo 文章）
+const CANDIDATE_DIRS = [
+  path.join(process.cwd(), "content", "posts"),
+  path.join(process.cwd(), "source", "_posts"),
+];
+
+function resolvePostsDir(): string {
+  for (const dir of CANDIDATE_DIRS) {
+    if (fs.existsSync(dir) && fs.readdirSync(dir).some((f) => f.endsWith(".md"))) {
+      return dir;
+    }
+  }
+  // 都为空时返回主目录（让后续代码返回空数组，避免崩溃）
+  return CANDIDATE_DIRS[0];
+}
+
+const POSTS_DIR = resolvePostsDir();
 
 export function getAllPosts(): Post[] {
   if (!fs.existsSync(POSTS_DIR)) return [];
