@@ -6,7 +6,22 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
-const POSTS_DIR = path.join(process.cwd(), "content", "posts");
+// 优先读取 content/posts/，为空时回退到 source/_posts/（Legacy Hexo 文章）
+const CANDIDATE_DIRS = [
+  path.join(process.cwd(), "content", "posts"),
+  path.join(process.cwd(), "source", "_posts"),
+];
+
+function resolvePostsDir(): string | null {
+  for (const dir of CANDIDATE_DIRS) {
+    if (fs.existsSync(dir) && fs.readdirSync(dir).some((f) => f.endsWith(".md"))) {
+      return dir;
+    }
+  }
+  return null;
+}
+
+const POSTS_DIR = resolvePostsDir();
 const OUT_DIR = path.join(process.cwd(), "public");
 
 interface SearchItem {
@@ -32,8 +47,11 @@ function stripMarkdown(md: string): string {
 }
 
 function main() {
-  if (!fs.existsSync(POSTS_DIR)) {
-    console.log("No posts directory found, skipping search.json generation");
+  if (!POSTS_DIR) {
+    console.log("No posts directory found, generating empty data files");
+    fs.writeFileSync(path.join(OUT_DIR, "search.json"), JSON.stringify([]), "utf-8");
+    fs.writeFileSync(path.join(OUT_DIR, "sidebar-data.json"), JSON.stringify({ postCount: 0, categories: [], tags: [], recent: [] }), "utf-8");
+    console.log("✅ Empty data files generated");
     return;
   }
 

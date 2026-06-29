@@ -12,7 +12,8 @@ interface Props {
 }
 
 export function generateStaticParams() {
-  return getCategories().map((c) => ({ name: c.name }));
+  const cats = getCategories().map((c) => ({ name: c.name }));
+  return cats.length > 0 ? cats : [{ name: "null" }];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

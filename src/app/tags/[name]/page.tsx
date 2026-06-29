@@ -12,7 +12,8 @@ interface Props {
 }
 
 export function generateStaticParams() {
-  return getTags().map((t) => ({ name: t.name }));
+  const tags = getTags().map((t) => ({ name: t.name }));
+  return tags.length > 0 ? tags : [{ name: "null" }];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
