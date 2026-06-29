@@ -1,14 +1,22 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { listPosts, deletePost, getPostContent } from "@/lib/github";
 import type { PostMeta } from "@/types";
 
-function parseFrontmatterTitle(content: string): { title: string; date: string; categories: string; tags: string[] } {
+interface PostWithMeta {
+  slug: string;
+  title: string;
+  date: string;
+  categories: string;
+  tags: string[];
+}
+
+function parseFrontmatterTitle(content: string): PostWithMeta {
   const match = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!match) return { title: "", date: "", categories: "", tags: [] };
-  const result = { title: "", date: "", categories: "", tags: [] as string[] };
+  if (!match) return { slug: "", title: "", date: "", categories: "", tags: [] };
+  const result: PostWithMeta = { slug: "", title: "", date: "", categories: "", tags: [] };
   let inTags = false;
   for (const line of match[1].split("\n")) {
     if (line.startsWith("title:")) {
@@ -28,10 +36,15 @@ function parseFrontmatterTitle(content: string): { title: string; date: string; 
   return result;
 }
 
+type TabKey = "all" | string;
+
 export default function PostsPage() {
-  const [posts, setPosts] = useState<{ slug: string; title: string; date: string; categories: string; tags: string[] }[]>([]);
+  const [posts, setPosts] = useState<PostWithMeta[]>([]);
   const [loading, setLoading] = useState(true);
+  const [syncing, setSyncing] = useState(false);
   const [error, setError] = useState("");
+  const [activeTab, setActiveTab] = useState<TabKey>("all");
+  const [selectedFilter, setSelectedFilter] = useState<string>("");
 
   useEffect(() => { loadPosts(); }, []);
 
@@ -39,20 +52,38 @@ export default function PostsPage() {
     setLoading(true);
     setError("");
     try {
-      const files = await listPosts();
+      // 开发环境：优先从本地文件读取（确保刚保存的文章立即可见）
+      let files: { name: string; content: string }[];
+      try {
+        const res = await fetch("/aDiao-Blog/api/local-list");
+        if (res.ok) {
+          files = await res.json();
+        } else {
+          throw new Error("本地列表不可用");
+        }
+      } catch {
+        // 回退到 GitHub
+        const githubFiles = await listPosts();
+        const enriched = await Promise.all(
+          githubFiles.filter((f) => f.name.endsWith(".md")).map(async (f) => {
+            const slug = f.name.replace(/\.md$/, "");
+            try {
+              const { content } = await getPostContent(slug);
+              return { name: f.name, content };
+            } catch {
+              return { name: f.name, content: "" };
+            }
+          })
+        );
+        files = enriched;
+      }
+
       const mdFiles = files.filter((f) => f.name.endsWith(".md"));
-      const enriched = await Promise.all(
-        mdFiles.map(async (f) => {
-          const slug = f.name.replace(/\.md$/, "");
-          try {
-            const { content } = await getPostContent(slug);
-            const meta = parseFrontmatterTitle(content);
-            return { slug, ...meta };
-          } catch {
-            return { slug, title: slug, date: "", categories: "", tags: [] };
-          }
-        })
-      );
+      const enriched = mdFiles.map((f) => {
+        const slug = f.name.replace(/\.md$/, "");
+        const frontmatter = parseFrontmatterTitle(f.content);
+        return { ...frontmatter, slug };
+      });
       enriched.sort((a, b) => b.date.localeCompare(a.date));
       setPosts(enriched);
     } catch (e) {
@@ -65,34 +96,175 @@ export default function PostsPage() {
   async function handleDelete(slug: string) {
     if (!confirm(`确定要删除「${slug}」吗？此操作不可撤销。`)) return;
     try {
-      const { sha } = await getPostContent(slug);
-      await deletePost(slug, sha);
+      // 开发环境：同时删除本地文件
+      fetch(`/aDiao-Blog/api/local-posts?slug=${encodeURIComponent(slug)}`, { method: "DELETE" }).catch(() => {});
+      // GitHub 删除
+      try {
+        const { sha } = await getPostContent(slug);
+        await deletePost(slug, sha);
+      } catch { /* GitHub 删除失败不阻塞 */ }
       setPosts((prev) => prev.filter((p) => p.slug !== slug));
     } catch (e) {
       alert("删除失败：" + (e as Error).message);
     }
   }
 
+  // 同步文章到本地后跳转前台
+  async function syncAndView(slug: string) {
+    try {
+      await fetch(`/aDiao-Blog/api/sync-posts?slug=${encodeURIComponent(slug)}`);
+    } catch {
+      // 同步失败也不影响跳转
+    }
+    window.open(`/aDiao-Blog/posts/${encodeURIComponent(slug)}`, "_blank");
+  }
+
+  // 同步所有文章到本地
+  async function syncAll() {
+    setSyncing(true);
+    try {
+      const res = await fetch("/aDiao-Blog/api/sync-posts", { method: "POST" });
+      const data = await res.json();
+      alert(data.message || "同步完成");
+    } catch (e) {
+      alert("同步失败：" + (e as Error).message);
+    } finally {
+      setSyncing(false);
+    }
+  }
+
+  // 分类和标签统计
+  const catMap = useMemo(() => {
+    const map = new Map<string, PostWithMeta[]>();
+    for (const post of posts) {
+      const cat = post.categories || "未分类";
+      if (!map.has(cat)) map.set(cat, []);
+      map.get(cat)!.push(post);
+    }
+    return map;
+  }, [posts]);
+
+  const tagMap = useMemo(() => {
+    const map = new Map<string, PostWithMeta[]>();
+    for (const post of posts) {
+      const tags = post.tags.length > 0 ? post.tags : ["未分类"];
+      for (const tag of tags) {
+        if (!map.has(tag)) map.set(tag, []);
+        map.get(tag)!.push(post);
+      }
+    }
+    return map;
+  }, [posts]);
+
+  const categories = Array.from(catMap.keys());
+  const allTags = Array.from(tagMap.keys());
+
+  // 筛选后的文章列表
+  const displayPosts = useMemo(() => {
+    if (activeTab === "all") return posts;
+    if (activeTab === "category" && selectedFilter) return catMap.get(selectedFilter) || [];
+    if (activeTab === "tag" && selectedFilter) return tagMap.get(selectedFilter) || [];
+    return posts;
+  }, [activeTab, selectedFilter, posts, catMap, tagMap]);
+
+  // 修改筛选器
+  function switchTab(tab: TabKey) {
+    setActiveTab(tab);
+    setSelectedFilter("");
+  }
+
   return (
     <div className="admin-posts-page">
       <div className="admin-page-header">
         <h2>文章管理</h2>
-        <Link href="/admin/posts/new" className="admin-btn-primary">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <line x1="12" y1="5" x2="12" y2="19" />
-            <line x1="5" y1="12" x2="19" y2="12" />
-          </svg>
-          写新文章
-        </Link>
+        <div style={{ display: "flex", gap: 8 }}>
+          <button className="admin-btn-secondary" onClick={syncAll} disabled={syncing}>
+            {syncing ? "同步中…" : "从 GitHub 同步到本地"}
+          </button>
+          <Link href="/admin/posts/new" className="admin-btn-primary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="12" y1="5" x2="12" y2="19" />
+              <line x1="5" y1="12" x2="19" y2="12" />
+            </svg>
+            写新文章
+          </Link>
+        </div>
       </div>
 
       {error && <div className="admin-error">{error}</div>}
 
+      {/* 标签页 */}
+      <div className="admin-tabs">
+        <button
+          className={`admin-tab${activeTab === "all" ? " active" : ""}`}
+          onClick={() => switchTab("all")}
+        >
+          全部文章
+          <span className="admin-tab-count">{posts.length}</span>
+        </button>
+        <button
+          className={`admin-tab${activeTab === "category" ? " active" : ""}`}
+          onClick={() => switchTab("category")}
+        >
+          按分类
+          <span className="admin-tab-count">{categories.length}</span>
+        </button>
+        <button
+          className={`admin-tab${activeTab === "tag" ? " active" : ""}`}
+          onClick={() => switchTab("tag")}
+        >
+          按标签
+          <span className="admin-tab-count">{allTags.length}</span>
+        </button>
+      </div>
+
+      {/* 分类/标签筛选下拉 */}
+      {activeTab === "category" && (
+        <div style={{ marginBottom: 20, display: "flex", gap: 8, flexWrap: "wrap" }}>
+          {categories.map((cat) => (
+            <button
+              key={cat}
+              className={`admin-btn-sm${selectedFilter === cat ? "" : ""}`}
+              onClick={() => setSelectedFilter(selectedFilter === cat ? "" : cat)}
+              style={{
+                borderColor: selectedFilter === cat ? "var(--admin-primary)" : undefined,
+                color: selectedFilter === cat ? "var(--admin-primary)" : undefined,
+                background: selectedFilter === cat ? "var(--admin-primary-light)" : undefined,
+              }}
+            >
+              {cat} ({catMap.get(cat)?.length || 0})
+            </button>
+          ))}
+        </div>
+      )}
+      {activeTab === "tag" && (
+        <div style={{ marginBottom: 20, display: "flex", gap: 8, flexWrap: "wrap" }}>
+          {allTags.sort().map((tag) => (
+            <button
+              key={tag}
+              className="admin-btn-sm"
+              onClick={() => setSelectedFilter(selectedFilter === tag ? "" : tag)}
+              style={{
+                borderColor: selectedFilter === tag ? "var(--admin-primary)" : undefined,
+                color: selectedFilter === tag ? "var(--admin-primary)" : undefined,
+                background: selectedFilter === tag ? "var(--admin-primary-light)" : undefined,
+              }}
+            >
+              {tag} ({tagMap.get(tag)?.length || 0})
+            </button>
+          ))}
+        </div>
+      )}
+
       {loading ? (
         <div className="admin-loading">加载中…</div>
-      ) : posts.length === 0 ? (
+      ) : displayPosts.length === 0 ? (
         <div className="admin-empty">
-          <p>还没有文章，快去写第一篇吧</p>
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ color: "var(--admin-border)", marginBottom: 16 }}>
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+            <polyline points="14 2 14 8 20 8" />
+          </svg>
+          <p>{activeTab !== "all" ? "该分类下还没有文章" : "还没有文章，快去写第一篇吧"}</p>
           <Link href="/admin/posts/new" className="admin-btn-primary">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <line x1="12" y1="5" x2="12" y2="19" />
@@ -110,12 +282,16 @@ export default function PostsPage() {
                 <th>分类</th>
                 <th>标签</th>
                 <th>日期</th>
-                <th style={{ width: 140 }}>操作</th>
+                <th style={{ width: 120 }}>操作</th>
               </tr>
             </thead>
             <tbody>
-              {posts.map((post) => (
-                <tr key={post.slug}>
+              {displayPosts.map((post) => (
+                <tr
+                  key={post.slug}
+                  className="admin-post-row"
+                  onClick={() => syncAndView(post.slug)}
+                >
                   <td>
                     <span className="post-title">{post.title || post.slug}</span>
                     <br />
@@ -131,7 +307,7 @@ export default function PostsPage() {
                   </td>
                   <td style={{ whiteSpace: "nowrap" }}>{post.date || "—"}</td>
                   <td>
-                    <div className="admin-actions">
+                    <div className="admin-actions" onClick={(e) => e.stopPropagation()}>
                       <Link href={`/admin/posts/edit?slug=${post.slug}`} className="admin-btn-sm">
                         编辑
                       </Link>

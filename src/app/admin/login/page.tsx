@@ -18,7 +18,7 @@ export default function LoginPage() {
     try {
       await validateToken(token.trim());
       saveToken(token.trim());
-      router.push("/admin/posts");
+      router.push("/admin/dashboard");
     } catch {
       setError("Token 无效，请检查后重试");
     } finally {

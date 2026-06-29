@@ -11,7 +11,7 @@ export default function AdminPage() {
     if (!isLoggedIn()) {
       router.push("/admin/login");
     } else {
-      router.push("/admin/posts");
+      router.push("/admin/dashboard");
     }
   }, [router]);
 

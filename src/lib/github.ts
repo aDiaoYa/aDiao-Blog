@@ -92,16 +92,38 @@ function toBase64(str: string): string {
 
 /** 创建新文章 */
 export async function createPost(slug: string, content: string): Promise<CommitResult> {
-  return api<CommitResult>(
-    `${API_BASE}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${POSTS_PATH}/${slug}.md`,
-    {
-      method: "PUT",
-      body: JSON.stringify({
-        message: `post: 新增文章 ${slug}`,
-        content: toBase64(content),
-      }),
+  const isDev = process.env.NODE_ENV === "development";
+
+  // 开发环境：优先保存到本地 content/posts/
+  if (isDev) {
+    const res = await fetch("/aDiao-Blog/api/local-posts", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ slug, content }),
+    });
+    const result = await res.json().catch(() => ({ ok: false }));
+    if (!result.ok) throw new Error("本地保存失败: " + result.message);
+  }
+
+  try {
+    return await api<CommitResult>(
+      `${API_BASE}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${POSTS_PATH}/${slug}.md`,
+      {
+        method: "PUT",
+        body: JSON.stringify({
+          message: `post: 新增文章 ${slug}`,
+          content: toBase64(content),
+        }),
+      }
+    );
+  } catch (e) {
+    // 开发环境：本地已保存成功，GitHub 失败不阻塞
+    if (isDev) {
+      console.warn("[GitHub 推送] 失败，文章已保存到本地:", (e as Error).message);
+      return { sha: "", url: "" };
     }
-  );
+    throw e;
+  }
 }
 
 /** 更新已有文章 */
@@ -110,17 +132,39 @@ export async function updatePost(
   content: string,
   sha: string
 ): Promise<CommitResult> {
-  return api<CommitResult>(
-    `${API_BASE}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${POSTS_PATH}/${slug}.md`,
-    {
-      method: "PUT",
-      body: JSON.stringify({
-        message: `post: 更新文章 ${slug}`,
-        content: toBase64(content),
-        sha,
-      }),
+  const isDev = process.env.NODE_ENV === "development";
+
+  // 开发环境：优先保存到本地 content/posts/
+  if (isDev) {
+    const res = await fetch("/aDiao-Blog/api/local-posts", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ slug, content }),
+    });
+    const result = await res.json().catch(() => ({ ok: false }));
+    if (!result.ok) throw new Error("本地保存失败: " + result.message);
+  }
+
+  try {
+    return await api<CommitResult>(
+      `${API_BASE}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${POSTS_PATH}/${slug}.md`,
+      {
+        method: "PUT",
+        body: JSON.stringify({
+          message: `post: 更新文章 ${slug}`,
+          content: toBase64(content),
+          sha,
+        }),
+      }
+    );
+  } catch (e) {
+    // 开发环境：本地已保存成功，GitHub 失败不阻塞
+    if (isDev) {
+      console.warn("[GitHub 推送] 失败，文章已保存到本地:", (e as Error).message);
+      return { sha: "", url: "" };
     }
-  );
+    throw e;
+  }
 }
 
 /** 删除文章 */
