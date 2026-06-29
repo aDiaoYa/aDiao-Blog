@@ -482,6 +482,27 @@ function EditPostContent() {
     setLoading(true);
     setError("");
     try {
+      // 1. 优先从静态 posts-metadata.json 加载（前后台同一数据源，零 API 依赖）
+      const metaRes = await fetch("/aDiao-Blog/posts-metadata.json");
+      if (metaRes.ok) {
+        const allPosts: { slug: string; content: string }[] = await metaRes.json();
+        const found = allPosts.find((p) => p.slug === slug);
+        if (found && found.content) {
+          const { fm, body: postBody } = parseFrontmatter(found.content);
+          setTitle(fm.title);
+          setDate(fm.date);
+          setCategory(fm.categories || "__none__");
+          setSelectedTags(fm.tags);
+          setBody(postBody);
+          setSha(""); // SHA 保存时再获取
+          setLoading(false);
+          // 后台静默获取 SHA，用于后续保存
+          fetchShaInBackground();
+          return;
+        }
+      }
+
+      // 2. 回退到 GitHub API（获取内容 + SHA）
       const { content, sha: fileSha } = await getPostContent(slug);
       setSha(fileSha);
       const { fm, body: postBody } = parseFrontmatter(content);
@@ -495,6 +516,22 @@ function EditPostContent() {
     } finally {
       setLoading(false);
     }
+  }
+
+  async function fetchShaInBackground() {
+    try {
+      const { sha: fileSha } = await getPostContent(slug);
+      setSha(fileSha);
+    } catch {
+      // 静默失败，保存时会再尝试
+    }
+  }
+
+  async function getShaForSave(): Promise<string> {
+    if (sha) return sha;
+    const { sha: fileSha } = await getPostContent(slug);
+    setSha(fileSha);
+    return fileSha;
   }
 
   async function handleImageUpload(e: React.ChangeEvent<HTMLInputElement>) {
@@ -573,8 +610,9 @@ function EditPostContent() {
     setSaving(true);
     setError("");
     try {
+      const currentSha = await getShaForSave();
       const fullContent = buildFrontmatter() + "\n\n" + body;
-      await updatePost(slug, fullContent, sha);
+      await updatePost(slug, fullContent, currentSha);
       router.push("/admin/posts");
     } catch (e) {
       setError((e as Error).message);

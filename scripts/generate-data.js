@@ -56,9 +56,14 @@ function main() {
   /** @type {Array<{title:string, slug:string, date:string}>} */
   const postMetas = [];
 
+  function extractExcerpt(content) {
+    const cleaned = stripMarkdown(content).trim();
+    return cleaned.slice(0, 200) + (cleaned.length > 200 ? "..." : "");
+  }
+
   for (const file of files) {
     const raw = fs.readFileSync(path.join(POSTS_DIR, file), "utf-8");
-    const { data } = matter(raw);
+    const { data, content: bodyContent } = matter(raw);
     const slug = file.replace(/\.md$/, "");
     searchItems.push({
       title: data.title || "未命名",
@@ -76,6 +81,8 @@ function main() {
           : [data.categories]
         : [],
       tags: data.tags || [],
+      content: raw,           // 完整文章原文（含 frontmatter），供后台编辑
+      excerpt: extractExcerpt(raw), // 摘要
     });
   }
 
@@ -115,15 +122,17 @@ function main() {
   fs.writeFileSync(path.join(OUT_DIR, "sidebar-data.json"), JSON.stringify(sidebarData), "utf-8");
   console.log(`✅ sidebar-data.json (${postCount} posts, ${categories.length} cats, ${tags.length} tags)`);
 
-  // ── posts-metadata.json（全量文章元数据，供后台管理页使用）──
+  // ── posts-metadata.json（全量文章数据，前后台唯一数据源）──
   const allPosts = postMetas
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-    .map(({ title, slug, date, categories, tags }) => ({
+    .map(({ title, slug, date, categories, tags, content, excerpt }) => ({
       title,
       slug,
       date: date instanceof Date ? date.toISOString() : date,
       categories,
       tags,
+      content,   // 完整 Markdown 原文（含 frontmatter）
+      excerpt,   // 纯文本摘要
     }));
   fs.writeFileSync(path.join(OUT_DIR, "posts-metadata.json"), JSON.stringify(allPosts), "utf-8");
   console.log(`✅ posts-metadata.json (${allPosts.length} posts)`);
