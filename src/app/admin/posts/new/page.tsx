@@ -405,6 +405,23 @@ export default function NewPostPage() {
   useEffect(() => {
     (async () => {
       try {
+        // 1. 优先从静态 JSON 加载分类/标签列表
+        const metaRes = await fetch("/aDiao-Blog/posts-metadata.json");
+        if (metaRes.ok) {
+          const allPosts: { categories: string | string[]; tags: string[] }[] = await metaRes.json();
+          const allCats = new Set<string>();
+          const allTgs = new Set<string>();
+          allPosts.forEach((p) => {
+            const cats = Array.isArray(p.categories) ? p.categories : (p.categories ? [p.categories] : []);
+            cats.forEach((c) => allCats.add(c));
+            (p.tags || []).forEach((t) => allTgs.add(t));
+          });
+          setExistingCategories(getCategories(Array.from(allCats)));
+          setExistingTags(getTags(Array.from(allTgs)));
+          return;
+        }
+
+        // 2. 回退到 GitHub API
         const files = await listPosts();
         const mdFiles = files.filter((f) => f.name.endsWith(".md"));
         const enriched = await Promise.all(

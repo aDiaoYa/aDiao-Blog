@@ -75,7 +75,22 @@ export default function PostsPage() {
     setError("");
     setFromCache(false);
     try {
-      // 开发环境：优先从本地文件读取（确保刚保存的文章立即可见）
+      // 1. 优先从静态 posts-metadata.json 加载（生产环境零依赖）
+      const metaRes = await fetch("/aDiao-Blog/posts-metadata.json");
+      if (metaRes.ok) {
+        const rawPosts: { title: string; slug: string; date: string; categories: string | string[]; tags: string[] }[] = await metaRes.json();
+        const allPosts = rawPosts.map((p) => ({
+          ...p,
+          categories: Array.isArray(p.categories) ? p.categories.join(", ") : (p.categories || ""),
+        }));
+        allPosts.sort((a, b) => b.date.localeCompare(a.date));
+        setPosts(allPosts);
+        savePostsCache(allPosts);
+        setLoading(false);
+        return;
+      }
+
+      // 2. 开发环境：从本地文件读取（确保刚保存的文章立即可见）
       let files: { name: string; content: string }[];
       try {
         const res = await fetch("/aDiao-Blog/api/local-list");
@@ -85,7 +100,7 @@ export default function PostsPage() {
           throw new Error("本地列表不可用");
         }
       } catch {
-        // 回退到 GitHub
+        // 3. 回退到 GitHub API
         const githubFiles = await listPosts();
         const enriched = await Promise.all(
           githubFiles.filter((f) => f.name.endsWith(".md")).map(async (f) => {
@@ -111,7 +126,7 @@ export default function PostsPage() {
       setPosts(enriched);
       savePostsCache(enriched);
     } catch (e) {
-      // API 失败时，降级使用 localStorage 缓存
+      // API 全部失败时，降级使用 localStorage 缓存
       const cached = loadPostsCache();
       if (cached.length > 0) {
         setPosts(cached);

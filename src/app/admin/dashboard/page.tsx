@@ -69,7 +69,25 @@ export default function DashboardPage() {
     setError("");
     setFromCache(false);
     try {
-      // 开发环境：优先从本地文件读取
+      // 1. 优先从静态 posts-metadata.json 加载（生产环境零依赖）
+      const metaRes = await fetch("/aDiao-Blog/posts-metadata.json");
+      if (metaRes.ok) {
+        const allPosts: PostInfo[] = await metaRes.json();
+        // 统一 categories 格式：可能是数组（新格式）或字符串（旧格式）
+        const normalized = allPosts.map((p) => ({
+          ...p,
+          categories: Array.isArray(p.categories)
+            ? p.categories.join(", ")
+            : (p.categories || ""),
+        }));
+        normalized.sort((a, b) => b.date.localeCompare(a.date));
+        setPosts(normalized);
+        saveDashboardCache(normalized);
+        setLoading(false);
+        return;
+      }
+
+      // 2. 开发环境：从本地文件读取
       let files: { name: string; content: string }[];
       try {
         const res = await fetch("/aDiao-Blog/api/local-list");

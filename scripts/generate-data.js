@@ -94,6 +94,19 @@ function main() {
   const sidebarData = { postCount, categories, tags, recent };
   fs.writeFileSync(path.join(OUT_DIR, "sidebar-data.json"), JSON.stringify(sidebarData), "utf-8");
   console.log(`✅ sidebar-data.json (${postCount} posts, ${categories.length} cats, ${tags.length} tags)`);
+
+  // ── posts-metadata.json（全量文章元数据，供后台管理页使用）──
+  const allPosts = postMetas
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .map(({ title, slug, date, categories, tags }) => ({
+      title,
+      slug,
+      date: date instanceof Date ? date.toISOString() : date,
+      categories,
+      tags,
+    }));
+  fs.writeFileSync(path.join(OUT_DIR, "posts-metadata.json"), JSON.stringify(allPosts), "utf-8");
+  console.log(`✅ posts-metadata.json (${allPosts.length} posts)`);
 }
 
 main();
