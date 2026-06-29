@@ -24,6 +24,21 @@ function resolvePostsDir() {
 const POSTS_DIR = resolvePostsDir();
 const OUT_DIR = path.join(process.cwd(), "public");
 
+/**
+ * 生成 URL-safe 的 ASCII slug
+ * - 纯 ASCII 文件名直接使用
+ * - 包含非 ASCII 字符（如中文）时，使用 DJB2 hash 生成短标识
+ */
+function toUrlSafeSlug(filename) {
+  const name = filename.replace(/\.md$/, "");
+  if (/^[a-zA-Z0-9\-_]+$/.test(name)) return name;
+  let hash = 5381;
+  for (let i = 0; i < name.length; i++) {
+    hash = ((hash << 5) + hash) + name.charCodeAt(i);
+  }
+  return "p" + ((hash >>> 0).toString(16));
+}
+
 function stripMarkdown(md) {
   return md
     .replace(/^#{1,6}\s+/gm, "")
@@ -64,7 +79,15 @@ function main() {
   for (const file of files) {
     const raw = fs.readFileSync(path.join(POSTS_DIR, file), "utf-8");
     const { data, content: bodyContent } = matter(raw);
-    const slug = file.replace(/\.md$/, "");
+    const slug = toUrlSafeSlug(file);
+    // 如果 slug 与文件名不一致，重命名文件（避免 GitHub Pages 中文文件名 404）
+    if (slug !== file.replace(/\.md$/, "")) {
+      const newPath = path.join(POSTS_DIR, slug + ".md");
+      if (!fs.existsSync(newPath)) {
+        fs.renameSync(path.join(POSTS_DIR, file), newPath);
+        console.log(`  🔄 重命名: ${file} → ${slug}.md`);
+      }
+    }
     searchItems.push({
       title: data.title || "未命名",
       url: `/posts/${slug}`,

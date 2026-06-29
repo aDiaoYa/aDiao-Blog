@@ -21,17 +21,46 @@ function resolvePostsDir(): string {
 
 const POSTS_DIR = resolvePostsDir();
 
-export function getAllPosts(): Post[] {
-  if (!fs.existsSync(POSTS_DIR)) return [];
-  const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md"));
-  return files
-    .map((file) => getPostBySlug(file.replace(/\.md$/, "")))
-    .filter((p): p is Post => p !== null)
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+/**
+ * 生成 URL-safe ASCII slug（与 scripts/generate-data.js 的 toUrlSafeSlug 保持一致）
+ * 纯 ASCII 文件名直接使用，含中文等非 ASCII 字符时用 DJB2 hash 生成短标识
+ */
+function toUrlSafeSlug(filename: string): string {
+  const name = filename.replace(/\.md$/, "");
+  if (/^[a-zA-Z0-9\-_]+$/.test(name)) return name;
+  let hash = 5381;
+  for (let i = 0; i < name.length; i++) {
+    hash = ((hash << 5) + hash) + name.charCodeAt(i);
+  }
+  return "p" + ((hash >>> 0).toString(16));
 }
 
-export function getPostBySlug(slug: string): Post | null {
-  const filePath = path.join(POSTS_DIR, `${slug}.md`);
+/** 缓存 slug → 真实文件名的映射（处理非 ASCII 文件名） */
+let _slugFileMap: Map<string, string> | null = null;
+function getSlugFileMap(): Map<string, string> {
+  if (_slugFileMap) return _slugFileMap;
+  _slugFileMap = new Map();
+  if (!fs.existsSync(POSTS_DIR)) return _slugFileMap;
+  const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md"));
+  for (const file of files) {
+    const slug = toUrlSafeSlug(file);
+    _slugFileMap.set(slug, file);
+  }
+  return _slugFileMap;
+}
+
+export function getAllPosts(): Post[] {
+  const map = getSlugFileMap();
+  const posts: Post[] = [];
+  for (const [slug, file] of map.entries()) {
+    const post = readPostFile(file, slug);
+    if (post) posts.push(post);
+  }
+  return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+}
+
+function readPostFile(file: string, slug: string): Post | null {
+  const filePath = path.join(POSTS_DIR, file);
   if (!fs.existsSync(filePath)) return null;
   const raw = fs.readFileSync(filePath, "utf-8");
   const { data, content } = matter(raw);
@@ -50,6 +79,13 @@ export function getPostBySlug(slug: string): Post | null {
     abbrlink: data.abbrlink,
     visibility: data.visibility,
   };
+}
+
+export function getPostBySlug(slug: string): Post | null {
+  const map = getSlugFileMap();
+  const file = map.get(slug);
+  if (!file) return null;
+  return readPostFile(file, slug);
 }
 
 export function getPublicPosts(): Post[] {
