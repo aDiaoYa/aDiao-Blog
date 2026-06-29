@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getPostBySlug, getPublicPosts } from "@/lib/posts";
+import { getPostBySlug, getPublicPosts, getCategories, getTags } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ReadingProgress from "@/components/ReadingProgress";
 import MarkdownRenderer from "@/components/MarkdownRenderer";
-import { SITE, SOCIAL } from "@/lib/constants";
+import { SITE, SOCIAL, GISCUS } from "@/lib/constants";
 import { formatDate, daysSince, slugify } from "@/lib/utils";
 
 interface Props {
@@ -27,6 +27,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: post.title,
     description: post.excerpt,
     keywords: post.tags,
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      type: "article",
+      publishedTime: post.date,
+      tags: post.tags,
+    },
   };
 }
 
@@ -39,6 +46,21 @@ export default async function PostPage({ params }: Props) {
   const idx = allPosts.findIndex((p) => p.slug === slug);
   const prev = idx > 0 ? allPosts[idx - 1] : null;
   const next = idx < allPosts.length - 1 ? allPosts[idx + 1] : null;
+
+  // 预构建 Sidebar 数据
+  const categories = getCategories();
+  const tags = getTags().slice(0, 15);
+  const recent = allPosts.slice(0, 5).map((p) => ({
+    title: p.title,
+    slug: p.slug,
+    date: p.date,
+  }));
+  const sidebarData = {
+    postCount: allPosts.length,
+    categories,
+    tags,
+    recent,
+  };
 
   const postAgeDays = daysSince(post.date);
   const isOutdated = postAgeDays > 180;
@@ -56,15 +78,6 @@ export default async function PostPage({ params }: Props) {
     const id = slugify(text);
     headings.push({ level, text, id });
   }
-
-  // Also inject IDs into content
-  let contentWithIds = content;
-  headings.forEach((h) => {
-    contentWithIds = contentWithIds.replace(
-      new RegExp(`^(#{1,3})\\s+${h.text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}$`, "m"),
-      `$1 <span id="${h.id}"></span>${h.text}`
-    );
-  });
 
   return (
     <>
@@ -115,7 +128,7 @@ export default async function PostPage({ params }: Props) {
                   </nav>
                 )}
                 <div className="article-body">
-                  <MarkdownRenderer content={contentWithIds} />
+                  <MarkdownRenderer content={content} />
                 </div>
               </div>
 
@@ -197,17 +210,17 @@ export default async function PostPage({ params }: Props) {
                     (function() {
                       var script = document.createElement('script');
                       script.src = 'https://giscus.app/client.js';
-                      script.setAttribute('data-repo', 'aDiaoYa/aDiao-Blog');
-                      script.setAttribute('data-repo-id', '');
-                      script.setAttribute('data-category', 'Announcements');
-                      script.setAttribute('data-category-id', '');
-                      script.setAttribute('data-mapping', 'pathname');
+                      script.setAttribute('data-repo', '${GISCUS.repo}');
+                      script.setAttribute('data-repo-id', '${GISCUS.repoId}');
+                      script.setAttribute('data-category', '${GISCUS.category}');
+                      script.setAttribute('data-category-id', '${GISCUS.categoryId}');
+                      script.setAttribute('data-mapping', '${GISCUS.mapping}');
                       script.setAttribute('data-strict', '0');
                       script.setAttribute('data-reactions-enabled', '1');
                       script.setAttribute('data-emit-metadata', '0');
                       script.setAttribute('data-input-position', 'bottom');
                       script.setAttribute('data-theme', document.documentElement.classList.contains('dark') ? 'dark_dimmed' : 'light');
-                      script.setAttribute('data-lang', 'zh-CN');
+                      script.setAttribute('data-lang', '${GISCUS.lang}');
                       script.setAttribute('crossorigin', 'anonymous');
                       script.async = true;
                       document.getElementById('giscus-container').appendChild(script);
@@ -218,7 +231,7 @@ export default async function PostPage({ params }: Props) {
             </article>
           </section>
 
-          <Sidebar />
+          <Sidebar data={sidebarData} />
         </main>
 
         <Footer />

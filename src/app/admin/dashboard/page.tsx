@@ -36,6 +36,23 @@ function parseFrontmatter(content: string): PostInfo {
 }
 
 const DASHBOARD_CACHE_KEY = "admin_dashboard_cache";
+const DELETED_SLUGS_KEY = "admin_deleted_slugs";
+
+function getDeletedSlugs(): Set<string> {
+  if (typeof window === "undefined") return new Set();
+  try {
+    const raw = localStorage.getItem(DELETED_SLUGS_KEY);
+    return raw ? new Set(JSON.parse(raw)) : new Set();
+  } catch {
+    return new Set();
+  }
+}
+
+function filterDeleted<T extends { slug: string }>(list: T[]): T[] {
+  const deleted = getDeletedSlugs();
+  if (deleted.size === 0) return list;
+  return list.filter((p) => !deleted.has(p.slug));
+}
 
 function loadDashboardCache(): PostInfo[] {
   if (typeof window === "undefined") return [];
@@ -72,7 +89,9 @@ export default function DashboardPage() {
       // 1. 优先从静态 posts-metadata.json 加载（生产环境零依赖）
       const metaRes = await fetch("/aDiao-Blog/posts-metadata.json");
       if (metaRes.ok) {
-        const allPosts: PostInfo[] = await metaRes.json();
+        let allPosts: PostInfo[] = await metaRes.json();
+        // 过滤已删除文章
+        allPosts = filterDeleted(allPosts);
         // 统一 categories 格式：可能是数组（新格式）或字符串（旧格式）
         const normalized = allPosts.map((p) => ({
           ...p,
@@ -113,17 +132,19 @@ export default function DashboardPage() {
       }
 
       const mdFiles = files.filter((f) => f.name.endsWith(".md"));
-      const enriched = mdFiles.map((f) => {
+      let enriched = mdFiles.map((f) => {
         const slug = f.name.replace(/\.md$/, "");
         const frontmatter = parseFrontmatter(f.content);
         return { ...frontmatter, slug };
       });
+      enriched = filterDeleted(enriched);
       enriched.sort((a, b) => b.date.localeCompare(a.date));
       setPosts(enriched);
       saveDashboardCache(enriched);
     } catch (e) {
       // API 失败时，降级使用 localStorage 缓存
-      const cached = loadDashboardCache();
+      let cached = loadDashboardCache();
+      cached = filterDeleted(cached);
       if (cached.length > 0) {
         setPosts(cached);
         setFromCache(true);

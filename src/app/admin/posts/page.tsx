@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useCallback } from "react";
 import Link from "next/link";
 import { listPosts, deletePost, getPostContent } from "@/lib/github";
 import type { PostMeta } from "@/types";
@@ -39,6 +39,27 @@ function parseFrontmatterTitle(content: string): PostWithMeta {
 type TabKey = "all" | string;
 
 const POSTS_CACHE_KEY = "admin_posts_cache";
+const DELETED_SLUGS_KEY = "admin_deleted_slugs";
+
+// ── 已删除文章标记（防止静态 JSON 缓存导致已删文章重新出现）──
+function getDeletedSlugs(): Set<string> {
+  if (typeof window === "undefined") return new Set();
+  try {
+    const raw = localStorage.getItem(DELETED_SLUGS_KEY);
+    return raw ? new Set(JSON.parse(raw)) : new Set();
+  } catch {
+    return new Set();
+  }
+}
+
+function markAsDeleted(slug: string): void {
+  if (typeof window === "undefined") return;
+  const deleted = getDeletedSlugs();
+  deleted.add(slug);
+  // 只保留最近 200 条删除记录
+  const arr = Array.from(deleted).slice(-200);
+  localStorage.setItem(DELETED_SLUGS_KEY, JSON.stringify(arr));
+}
 
 function loadPostsCache(): PostWithMeta[] {
   if (typeof window === "undefined") return [];
@@ -68,6 +89,12 @@ export default function PostsPage() {
   const [activeTab, setActiveTab] = useState<TabKey>("all");
   const [selectedFilter, setSelectedFilter] = useState<string>("");
 
+  const filterDeleted = useCallback((list: PostWithMeta[]): PostWithMeta[] => {
+    const deleted = getDeletedSlugs();
+    if (deleted.size === 0) return list;
+    return list.filter((p) => !deleted.has(p.slug));
+  }, []);
+
   useEffect(() => { loadPosts(); }, []);
 
   async function loadPosts() {
@@ -79,10 +106,12 @@ export default function PostsPage() {
       const metaRes = await fetch("/aDiao-Blog/posts-metadata.json");
       if (metaRes.ok) {
         const rawPosts: { title: string; slug: string; date: string; categories: string | string[]; tags: string[] }[] = await metaRes.json();
-        const allPosts = rawPosts.map((p) => ({
+        let allPosts = rawPosts.map((p) => ({
           ...p,
           categories: Array.isArray(p.categories) ? p.categories.join(", ") : (p.categories || ""),
         }));
+        // 过滤已删除文章
+        allPosts = filterDeleted(allPosts);
         allPosts.sort((a, b) => b.date.localeCompare(a.date));
         setPosts(allPosts);
         savePostsCache(allPosts);
@@ -117,17 +146,19 @@ export default function PostsPage() {
       }
 
       const mdFiles = files.filter((f) => f.name.endsWith(".md"));
-      const enriched = mdFiles.map((f) => {
+      let enriched = mdFiles.map((f) => {
         const slug = f.name.replace(/\.md$/, "");
         const frontmatter = parseFrontmatterTitle(f.content);
         return { ...frontmatter, slug };
       });
+      enriched = filterDeleted(enriched);
       enriched.sort((a, b) => b.date.localeCompare(a.date));
       setPosts(enriched);
       savePostsCache(enriched);
     } catch (e) {
       // API 全部失败时，降级使用 localStorage 缓存
-      const cached = loadPostsCache();
+      let cached = loadPostsCache();
+      cached = filterDeleted(cached);
       if (cached.length > 0) {
         setPosts(cached);
         setFromCache(true);
@@ -141,18 +172,38 @@ export default function PostsPage() {
 
   async function handleDelete(slug: string) {
     if (!confirm(`确定要删除「${slug}」吗？此操作不可撤销。`)) return;
+    let deleted = false;
+
     try {
       // 开发环境：同时删除本地文件
-      fetch(`/aDiao-Blog/api/local-posts?slug=${encodeURIComponent(slug)}`, { method: "DELETE" }).catch(() => {});
-      // GitHub 删除
-      try {
-        const { sha } = await getPostContent(slug);
-        await deletePost(slug, sha);
-      } catch { /* GitHub 删除失败不阻塞 */ }
-      setPosts((prev) => prev.filter((p) => p.slug !== slug));
-    } catch (e) {
-      alert("删除失败：" + (e as Error).message);
+      const localRes = await fetch(`/aDiao-Blog/api/local-posts?slug=${encodeURIComponent(slug)}`, { method: "DELETE" });
+      if (localRes.ok) deleted = true;
+    } catch {
+      // 本地删除失败不影响 GitHub 操作
     }
+
+    try {
+      // GitHub 删除
+      const { sha } = await getPostContent(slug);
+      await deletePost(slug, sha);
+      deleted = true;
+    } catch (e) {
+      if (!deleted) {
+        alert("删除失败：" + (e as Error).message);
+        return;
+      }
+      // 本地已删除但 GitHub 失败，提示用户
+      alert("本地已删除，但 GitHub 同步失败：" + (e as Error).message);
+    }
+
+    // 标记为已删除（防止静态 JSON 缓存中重新出现）
+    markAsDeleted(slug);
+    // 从状态和缓存中移除
+    setPosts((prev) => {
+      const updated = prev.filter((p) => p.slug !== slug);
+      savePostsCache(updated);
+      return updated;
+    });
   }
 
   // 同步文章到本地后跳转前台

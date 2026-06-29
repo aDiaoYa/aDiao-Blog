@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import type { Post, PostMeta, CategoryInfo, TagInfo, SearchItem } from "@/types";
+import { stripMarkdown, extractExcerpt, toUrlSafeSlug } from "@/lib/markdown";
 
 // 优先读取 content/posts/，为空时回退到 source/_posts/（Legacy Hexo 文章）
 const CANDIDATE_DIRS = [
@@ -20,20 +21,6 @@ function resolvePostsDir(): string {
 }
 
 const POSTS_DIR = resolvePostsDir();
-
-/**
- * 生成 URL-safe ASCII slug（与 scripts/generate-data.js 的 toUrlSafeSlug 保持一致）
- * 纯 ASCII 文件名直接使用，含中文等非 ASCII 字符时用 DJB2 hash 生成短标识
- */
-function toUrlSafeSlug(filename: string): string {
-  const name = filename.replace(/\.md$/, "");
-  if (/^[a-zA-Z0-9\-_]+$/.test(name)) return name;
-  let hash = 5381;
-  for (let i = 0; i < name.length; i++) {
-    hash = ((hash << 5) + hash) + name.charCodeAt(i);
-  }
-  return "p" + ((hash >>> 0).toString(16));
-}
 
 /** 缓存 slug → 真实文件名的映射（处理非 ASCII 文件名） */
 let _slugFileMap: Map<string, string> | null = null;
@@ -135,24 +122,4 @@ export function getSearchData(): SearchItem[] {
     text: stripMarkdown(p.content),
     tags: p.tags,
   }));
-}
-
-function extractExcerpt(content: string): string {
-  const cleaned = stripMarkdown(content).trim();
-  return cleaned.slice(0, 200) + (cleaned.length > 200 ? "..." : "");
-}
-
-function stripMarkdown(md: string): string {
-  return md
-    .replace(/^#{1,6}\s+/gm, "")
-    .replace(/\*\*([^*]+)\*\*/g, "$1")
-    .replace(/\*([^*]+)\*/g, "$1")
-    .replace(/`([^`]+)`/g, "$1")
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-    .replace(/!\[.*?\]\(.*?\)/g, "")
-    .replace(/>\s/g, "")
-    .replace(/[-*+]\s/g, "")
-    .replace(/\|\s/g, "")
-    .replace(/\n{2,}/g, "\n")
-    .replace(/[#*`|>\-\[\]()!]/g, "");
 }

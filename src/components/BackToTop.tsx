@@ -1,10 +1,12 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 
 export default function BackToTop() {
+  const btnRef = useRef<HTMLButtonElement>(null);
+
   useEffect(() => {
-    const btn = document.getElementById("back-to-top");
+    const btn = btnRef.current;
     if (!btn) return;
 
     function handleScroll() {
@@ -17,7 +19,7 @@ export default function BackToTop() {
   return (
     <button
       className="back-to-top"
-      id="back-to-top"
+      ref={btnRef}
       title="回到顶部"
       aria-label="回到顶部"
       onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}

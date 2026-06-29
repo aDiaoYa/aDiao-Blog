@@ -17,6 +17,22 @@ export const metadata: Metadata = {
   description: SITE.description,
   keywords: [...SITE.keywords],
   authors: [{ name: SITE.author }],
+  openGraph: {
+    title: SITE.title,
+    description: SITE.description,
+    type: "website",
+    locale: "zh_CN",
+    siteName: SITE.title,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE.title,
+    description: SITE.description,
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

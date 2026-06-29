@@ -49,3 +49,15 @@ export const FOOTER = {
   poweredBy: 'Next.js',
   poweredByUrl: 'https://nextjs.org',
 } as const;
+
+// ── Giscus 评论配置 ──
+// 在 GitHub 仓库 Settings > Discussions 中启用后，填写以下 ID
+// data-repo-id 和 data-category-id 可从 https://giscus.app 获取
+export const GISCUS = {
+  repo: 'aDiaoYa/aDiao-Blog' as `${string}/${string}`,
+  repoId: '',
+  category: 'Announcements',
+  categoryId: '',
+  mapping: 'pathname' as const,
+  lang: 'zh-CN',
+} as const;

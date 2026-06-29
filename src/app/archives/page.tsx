@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getPublicPosts } from "@/lib/posts";
+import { getPublicPosts, getCategories, getTags } from "@/lib/posts";
 import Sidebar from "@/components/Sidebar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -14,6 +14,21 @@ export const metadata: Metadata = {
 
 export default function ArchivesPage() {
   const posts = getPublicPosts();
+  const categories = getCategories();
+  const tags = getTags().slice(0, 15);
+  const recent = posts.slice(0, 5).map((p) => ({
+    title: p.title,
+    slug: p.slug,
+    date: p.date,
+  }));
+
+  // 预构建 Sidebar 数据，避免客户端额外 fetch
+  const sidebarData = {
+    postCount: posts.length,
+    categories,
+    tags,
+    recent,
+  };
 
   return (
     <>
@@ -34,7 +49,7 @@ export default function ArchivesPage() {
             <ArticleList posts={posts} />
           </section>
 
-          <Sidebar />
+          <Sidebar data={sidebarData} />
         </main>
 
         <Footer />

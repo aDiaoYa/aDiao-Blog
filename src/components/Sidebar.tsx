@@ -27,15 +27,22 @@ interface SidebarData {
   recent: RecentPost[];
 }
 
-export default function Sidebar() {
-  const [data, setData] = useState<SidebarData | null>(null);
+interface SidebarProps {
+  /** 服务端预加载数据（可选，有则跳过客户端 fetch） */
+  data?: SidebarData;
+}
+
+export default function Sidebar({ data: serverData }: SidebarProps) {
+  const [data, setData] = useState<SidebarData | null>(serverData || null);
 
   useEffect(() => {
+    // 如果服务端已传入数据，不再请求
+    if (serverData) return;
     fetch(`${SITE.basePath}/sidebar-data.json`)
       .then((r) => r.json())
       .then(setData)
       .catch(() => {});
-  }, []);
+  }, [serverData]);
 
   return (
     <aside className="side-panel" aria-label="博客信息">
