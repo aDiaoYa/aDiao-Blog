@@ -432,7 +432,11 @@ export default function NewPostPage() {
         enriched.forEach(({ cat, tgs }) => { if (cat) allCats.add(cat); tgs.forEach((t) => allTgs.add(t)); });
         setExistingCategories(getCategories(Array.from(allCats)));
         setExistingTags(getTags(Array.from(allTgs)));
-      } catch { /* ignore */ }
+      } catch {
+        // GitHub API 失败时，至少加载 localStorage 中的自定义分类
+        setExistingCategories(getCategories([]));
+        setExistingTags(getTags([]));
+      }
     })();
   }, []);
 
