@@ -3685,6 +3685,18 @@ html.dark .plan-action-danger:hover {
   align-items: center;
   gap: 10px;
 }
+.admin-warning {
+  background: #fff8e1;
+  color: #b45309;
+  padding: 12px 18px;
+  border-radius: var(--admin-radius-sm);
+  font-size: 13px;
+  margin-bottom: 20px;
+  border: 1px solid #fcd34d;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 .admin-loading {
   text-align: center;
   padding: 100px 20px;

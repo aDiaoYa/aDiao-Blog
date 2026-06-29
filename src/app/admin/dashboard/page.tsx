@@ -35,10 +35,30 @@ function parseFrontmatter(content: string): PostInfo {
   return result;
 }
 
+const DASHBOARD_CACHE_KEY = "admin_dashboard_cache";
+
+function loadDashboardCache(): PostInfo[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const raw = localStorage.getItem(DASHBOARD_CACHE_KEY);
+    return raw ? JSON.parse(raw) : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveDashboardCache(posts: PostInfo[]): void {
+  if (typeof window === "undefined") return;
+  try {
+    localStorage.setItem(DASHBOARD_CACHE_KEY, JSON.stringify(posts));
+  } catch { /* ignore */ }
+}
+
 export default function DashboardPage() {
   const [posts, setPosts] = useState<PostInfo[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [fromCache, setFromCache] = useState(false);
 
   useEffect(() => {
     loadData();
@@ -47,6 +67,7 @@ export default function DashboardPage() {
   async function loadData() {
     setLoading(true);
     setError("");
+    setFromCache(false);
     try {
       // 开发环境：优先从本地文件读取
       let files: { name: string; content: string }[];
@@ -81,8 +102,16 @@ export default function DashboardPage() {
       });
       enriched.sort((a, b) => b.date.localeCompare(a.date));
       setPosts(enriched);
+      saveDashboardCache(enriched);
     } catch (e) {
-      setError((e as Error).message);
+      // API 失败时，降级使用 localStorage 缓存
+      const cached = loadDashboardCache();
+      if (cached.length > 0) {
+        setPosts(cached);
+        setFromCache(true);
+      } else {
+        setError((e as Error).message);
+      }
     } finally {
       setLoading(false);
     }
@@ -120,6 +149,15 @@ export default function DashboardPage() {
             <line x1="9" y1="9" x2="15" y2="15" />
           </svg>
           {error}
+        </div>
+      )}
+      {fromCache && (
+        <div className="admin-warning" style={{ marginBottom: 16 }}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{ flexShrink: 0 }}>
+            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+            <line x1="12" y1="9" x2="12" y2="13" /><line x1="12" y1="17" x2="12.01" y2="17" />
+          </svg>
+          GitHub API 暂时不可用，显示的是本地缓存数据。请检查网络或重新登录。
         </div>
       )}
 
