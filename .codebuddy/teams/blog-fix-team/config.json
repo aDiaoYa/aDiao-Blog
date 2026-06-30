@@ -1,0 +1,18 @@
+{
+  "name": "blog-fix-team",
+  "leadAgentId": "0f402f05f5a74800b3d3b0c1b7b07cd5",
+  "workspacePath": "e:/CodeProject/adiao-blog",
+  "createdAt": "2026-06-29T12:46:47.586Z",
+  "options": {
+    "workspacePath": "e:/CodeProject/adiao-blog",
+    "isAutoTeam": false
+  },
+  "members": [
+    {
+      "memberId": "team-lead@blog-fix-team",
+      "name": "team-lead",
+      "role": "Team Lead - coordinates the team and interacts with the user"
+    }
+  ],
+  "isAutoTeam": false
+}

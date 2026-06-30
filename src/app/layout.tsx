@@ -4,7 +4,7 @@ import BackToTop from "@/components/BackToTop";
 import ImageZoom from "@/components/ImageZoom";
 import SearchOverlay from "@/components/SearchOverlay";
 import ThemeInit from "@/components/ThemeInit";
-import P5Canvas from "@/components/P5Canvas";
+import P5CanvasWrapper from "@/components/P5CanvasWrapper";
 import KeyboardShortcuts from "@/components/KeyboardShortcuts";
 import { SearchProvider } from "@/contexts/SearchContext";
 import { SITE } from "@/lib/constants";
@@ -44,7 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body suppressHydrationWarning>
         <ThemeInit />
         <SearchProvider>
-          <P5Canvas />
+          <P5CanvasWrapper />
           <SearchOverlay />
           <KeyboardShortcuts />
           {children}
