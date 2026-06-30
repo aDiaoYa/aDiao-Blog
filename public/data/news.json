@@ -1,249 +1,249 @@
 {
-  "updated": "2026-06-27T02:55:56.304Z",
-  "date": "2026-06-27",
+  "updated": "2026-06-30T12:08:16.628Z",
+  "date": "2026-06-30",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 26 Jun 2026 17:06:55 +0000",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028",
-      "score": 868,
-      "titleZh": "预览 GPT‑5.6 Sol：下一代模型"
-    },
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 26 Jun 2026 18:23:14 +0000",
-      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101",
-      "score": 859,
-      "titleZh": "美国政府将决定谁可以使用 GPT-5.6"
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "link": "https://github.com/workweave/router",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 26 Jun 2026 16:40:11 +0000",
-      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locall",
-      "score": 152,
-      "titleZh": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由"
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "link": "https://spectrum.ieee.org/ai-in-mathematics",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 26 Jun 2026 22:36:51 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883",
-      "score": 56,
-      "titleZh": "数学领域的人工智能正在提出重大问题"
-    },
-    {
-      "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
+      "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-26T15:34:28.000Z",
-      "summary": "While experimenting with GRPO training, I kept running this shit that when reward increases, it becomes difficult to tell whether the policy is genuinely improving or simply exploiting the reward func",
+      "date": "2026-06-30T11:55:44.000Z",
+      "summary": "I have building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free ",
       "score": 40,
-      "titleZh": "RL 奖励函数的调试器，可在训练期间检测奖励黑客行为 [P]"
+      "titleZh": "按语义相似度和时间切片划分的最新 1100 万篇论文图谱 [P]"
     },
     {
-      "title": "Live Continual Learning in Machine Learning [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ug7vxs/live_continual_learning_in_machine_learning_d/",
+      "title": "Update on CVIL: the free CV interview prep checklist after landing my internship... just added Segmentation, OCR, and VLM sections [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujlmy2/update_on_cvil_the_free_cv_interview_prep/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-26T14:08:21.000Z",
-      "summary": "My question on live continual learning use cases was removed by moderators here because they think i asked basic level question about live continual learning which i thought is a frontier level resear",
+      "date": "2026-06-30T10:40:59.000Z",
+      "summary": "Hi everyone, Posted this a while back... a checklist I made while prepping for a CV internship (landed it, hence sharing). It's not a textbook, just a phase-by-phase map of what to actually study for ",
       "score": 40,
-      "titleZh": "机器学习中的实时持续学习 [D]"
+      "titleZh": "CVIL 更新：实习后的免费简历面试准备清单...刚刚添加了分段、OCR 和 VLM 部分 [D]"
     },
     {
-      "title": "How're you deploying LLMs in production now-a-days? What's the best and most affordable way? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ufyuph/howre_you_deploying_llms_in_production_nowadays/",
+      "title": "EACL 2027: Author response and author-reviewer discussion are now two separate stages and allow more time [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujj63g/eacl_2027_author_response_and_authorreviewer/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-26T06:29:59.000Z",
-      "summary": "I've been developing an AI product using LLM APIs (from OpenRouter) but want to deploy an open-source LLM in my own Prod env. which I can control. Few reasons behind this are: - I wanna own the comple",
+      "date": "2026-06-30T08:16:03.000Z",
+      "summary": "EACL 2027 just published their CFP which contains an important change to the common ARR process: For this cycle, author response and author-reviewer discussion are two separate stages Looking at the d",
       "score": 40,
-      "titleZh": "您现在如何在生产中部署法学硕士？最好、最实惠的方法是什么？ [D]"
+      "titleZh": "EACL 2027：作者回复和作者-审稿人讨论现在是两个独立的阶段，并留出更多时间 [D]"
     },
     {
-      "title": "Showcase: geolocating a dashcam video without GPS, only from the footage [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
+      "title": "Loss functions in Instance Representation Learning [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uj8nse/loss_functions_in_instance_representation/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-26T05:03:04.000Z",
-      "summary": "Sharing a project I have been working on called Third Eye. It does visual geolocation. Given a video, it figures out where it was filmed using only the image content, and draws the route on a map. Pip",
+      "date": "2026-06-29T23:34:34.000Z",
+      "summary": "In Wu et. al, the MLE objective is computationally infeasible due to the high number of images in the dataset. Non-parametric Softmax Negative Log-Likelihood With large n, the denominator in (2) is ha",
       "score": 40,
-      "titleZh": "展示：仅根据镜头对行车记录仪视频进行地理定位，无需 GPS [P]"
+      "titleZh": "实例表示学习中的损失函数 [R]"
     },
     {
-      "title": "For ECCV, Springer Metor. How are we supposed to upload the files? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ufpwmh/for_eccv_springer_metor_how_are_we_supposed_to/",
+      "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-25T23:21:32.000Z",
-      "summary": "source files + final paper pdf. ZIP containing the source files and final paper.pdf. Where does the supplemental materiel get uploaded? Because in that email it says include it in a \"supplementary_mat",
+      "date": "2026-06-29T12:00:06.000Z",
+      "summary": "I’m pretty annoyed. We’re a small AI startup building a real-time coding agent. Our p95 latency requirements are tight (and self imposed, but thats the product). We need sustained high-throughput infe",
       "score": 40,
-      "titleZh": "对于 ECCV，Springer Metor。我们应该如何上传文件？ [D]"
+      "titleZh": "Cerebras OpenAI 交易能力实际上已经消除了其他所有人的候补名单 [D]"
     },
     {
-      "title": "ECCV 2026 camera-ready deadline: June 27 or June 30? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ufgwhd/eccv_2026_cameraready_deadline_june_27_or_june_30/",
+      "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-25T17:38:26.000Z",
-      "summary": "In the recent Springer/Meteor email, it says: The deadline for the upload of the camera-ready manuscripts and source files is 30 June. This is a hard deadline and will not be extended. However, in the",
+      "date": "2026-06-29T10:05:50.000Z",
+      "summary": "Google deployed an agentic AI peer-reviewer at two top CS conferences — reviewing ~10,000 papers with 30-minute turnaround — and the new formal research paper shows it catches 34% more mathematical er",
       "score": 40,
-      "titleZh": "ECCV 2026 相机就绪截止日期：6 月 27 日还是 6 月 30 日？ [D]"
+      "titleZh": "Google 的代理同行评审员在 ICML/STOC 处理了约 10,000 篇论文 — 正式研究论文现已发布 [R]"
     },
     {
-      "title": "Three Months with Java 26: My Thoughts After Using the Latest Release",
-      "link": "https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c",
-      "source": "Dev.to WebDev",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tudeio/d_selfpromotion_thread/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Sat, 27 Jun 2026 02:53:28 +0000",
-      "summary": "Java 26 was officially released in March 2026, and after spending the past three months exploring its new features, experimenting with preview APIs, and using it in personal projects, I think it's a g",
-      "score": 5,
-      "titleZh": "使用 Java 26 三个月：使用最新版本后我的想法"
+      "date": "2026-06-02T02:15:14.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "How smart spending is reshaping retail value in India for 2027/28 &#8211;",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/how-smart-spending-is-reshaping-retail-value-in-india-for-202728-8211-2df0",
-      "source": "Dev.to WebDev",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tsipvv/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Sat, 27 Jun 2026 02:53:15 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores How smart spending is reshaping retail value in India for 2027/28 - WGSN for founders, oper",
-      "score": 5,
-      "titleZh": "2027/28 年明智支出如何重塑印度零售价值 –"
+      "date": "2026-05-31T02:30:27.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Enterprise vs Startup AI API: My Cost-First Comparison",
-      "link": "https://dev.to/purecast/enterprise-vs-startup-ai-api-my-cost-first-comparison-2f41",
-      "source": "Dev.to WebDev",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Sat, 27 Jun 2026 02:35:29 +0000",
-      "summary": "Enterprise vs Startup AI API: My Cost-First Comparison I spend a ridiculous amount of time staring at API bills. Not because I have to, but because I genuinely enjoy finding where companies are burnin",
+      "date": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "score": 5,
-      "titleZh": "企业与初创公司 AI API：我的成本优先比较"
+      "titleZh": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家"
     },
     {
-      "title": "the ai paradox: speeding up while pumping the brakes",
-      "link": "https://dev.to/monkgs/the-ai-paradox-speeding-up-while-pumping-the-brakes-32i7",
-      "source": "Dev.to WebDev",
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "link": "https://arxiv.org/abs/2606.28374",
+      "source": "ArXiv AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Sat, 27 Jun 2026 02:30:31 +0000",
-      "summary": "This post was originally published on Genesis Park. this week in tech felt like watching a race car driver floor the accelerator while frantically pumping the brakes. we saw openai drop a surprise gpt",
+      "date": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "summary": "arXiv:2606.28374v1 Announce Type: new Abstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatshe",
       "score": 5,
-      "titleZh": "人工智能悖论：一边加速一边踩刹车"
+      "titleZh": "通过保留选择的递归自我进化代理"
     },
     {
-      "title": "Building a High-Performance E-Commerce Store for Niche Fashion (A Developer's Guide)",
-      "link": "https://dev.to/z_p_14a197931d3be5e3b954f/building-a-high-performance-e-commerce-store-for-niche-fashion-a-developers-guide-38ah",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 27 Jun 2026 02:11:48 +0000",
-      "summary": "Why Niche Fashion E-Commerce Needs Technical Excellence Niche fashion retailers—vintage robes, rare vintage garments, curated collections—compete on specificity and discovery, not price. That makes yo",
-      "score": 5,
-      "titleZh": "为利基时尚构建高性能电子商务商店（开发人员指南）"
-    },
-    {
-      "title": "Building a High-Converting Wine & Beer E-Commerce Store: A Developer's Guide",
-      "link": "https://dev.to/card_maniak_d8f4e0a4c92b5/building-a-high-converting-wine-beer-e-commerce-store-a-developers-guide-2bj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 27 Jun 2026 02:10:38 +0000",
-      "summary": "Introduction Building an e-commerce store for wine and beer is deceptively complex. Beyond standard product listings and checkout flows, you're navigating age verification, regional compliance, invent",
-      "score": 5,
-      "titleZh": "建立高转化率的葡萄酒和啤酒电子商务商店：开发人员指南"
-    },
-    {
-      "title": "2026年版・ReactエージェントへのCLAUDE.md実践ガイド",
-      "link": "https://dev.to/_7fb6011b57d383122b5a/2026nian-ban-reactezientohenoclaudemdshi-jian-gaido-55n0",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 27 Jun 2026 02:06:13 +0000",
-      "summary": "なぜルールファイルがAIエージェントに効くのか AIエージェント(Claude Code / Cursor / OpenAI Codex CLI など)はプロジェクトルートの設定ファイルを毎セッション読み込む。指示が無い状態では、エージェントは汎用的なコーディング規約を適用するため、React + TypeScript(Vite)特有の慣習——たとえば src/features/ 単位のコロケーシ",
-      "score": 5,
-      "titleZh": "2026年版・ReactエージェントへのCLAUDE.md実践ガイド"
-    },
-    {
-      "title": "Extreme Heat and Its Implicati…",
-      "link": "https://dev.to/norviktech/extreme-heat-and-its-implicati-247o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 27 Jun 2026 02:05:58 +0000",
-      "summary": "Originally published at norvik.tech Explore the implications of extreme heat on governance and technology. A detailed analysis for businesses and developers. Extreme heat refers to prolonged periods o",
-      "score": 5,
-      "titleZh": "极热及其影响…"
-    },
-    {
-      "title": "【2026】Notion 代替の開発者向けドキュメントツール：料金・移行コストで選ぶ",
-      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-notion-dai-ti-nokai-fa-zhe-xiang-kedokiyumentoturuliao-jin-yi-xing-kosutodexuan-bu-3g93",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 27 Jun 2026 02:04:13 +0000",
-      "summary": "結論（おすすめ1つ） 乗り換え先は Outline 一択です。 Markdownネイティブ・セルフホスト対応・REST API標準装備の三拍子が揃っており、Notionで感じる「読み込みが重い」「データを外に出したくない」「Git連携できない」という不満をまとめて解消できます。GitHub/GitLab OAuth でのSSO、Slack通知、Webhook連携が無設定に近い状態で動くため、既存の",
-      "score": 5,
-      "titleZh": "【2026】Notion代替の开発者向けドキュメントツール：料金・移行コsutoで选ぶ"
-    },
-    {
-      "title": "Looking for contributors for GetBlocked!, a small Chrome tracker-blocking extension",
-      "link": "https://dev.to/alexwdeveloper/looking-for-contributors-for-getblocked-a-small-chrome-tracker-blocking-extension-791",
+      "title": "Building a Latency-Aware Crypto Signal Bus in Node.js",
+      "link": "https://dev.to/cvchelles/building-a-latency-aware-crypto-signal-bus-in-nodejs-4ppb",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 27 Jun 2026 01:47:50 +0000",
-      "summary": "Hi everyone, I am currently a high schooler working on summer projects before I go to school and get busy. I'm working on GetBlocked!, a local-only Chrome extension that helps block common web tracker",
+      "date": "Tue, 30 Jun 2026 12:04:39 +0000",
+      "summary": "Building a Latency-Aware Crypto Signal Bus in Node.js Most crypto trading bots start as a single loop: fetch candles, calculate indicators, decide, place an order, sleep, repeat. That model is fine fo",
       "score": 5,
-      "titleZh": "正在寻找 GetBlocked! 的贡献者，这是一个小型 Chrome 跟踪器阻止扩展程序"
+      "titleZh": "在 Node.js 中构建延迟感知的加密信号总线"
+    },
+    {
+      "title": "We let AI coding agents into our codebase. The modular monolith won.",
+      "link": "https://dev.to/thien_nguyen/we-let-ai-coding-agents-into-our-codebase-the-modular-monolith-won-50je",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:58:48 +0000",
+      "summary": "For a decade, \"microservices vs monolith\" was an argument about human teams: Conway's Law, independent deploys, blast radius. In 2026 a new participant walked into the codebase and quietly changed the",
+      "score": 5,
+      "titleZh": "我们让人工智能编码代理进入我们的代码库。模块化整体系统获胜。"
+    },
+    {
+      "title": "Why Developers Are Becoming the New IT Procurement Team Without Realizing It",
+      "link": "https://dev.to/mittal_technologies/why-developers-are-becoming-the-new-it-procurement-team-without-realizing-it-54ko",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:53:12 +0000",
+      "summary": "npm install this morning and added a package. Maybe a date utility. Maybe a logging library. Maybe something for handling webhooks. You evaluated it, decided it looked good, checked the GitHub stars a",
+      "score": 5,
+      "titleZh": "为什么开发人员在没有意识到的情况下成为新的 IT 采购团队"
+    },
+    {
+      "title": "Data Lake vs Data Warehouse in 2025: Choosing the Right Data Architecture for Modern Analytics and AI",
+      "link": "https://dev.to/dipti26810/data-lake-vs-data-warehouse-in-2025-choosing-the-right-data-architecture-for-modern-analytics-and-1nbl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:52:17 +0000",
+      "summary": "Introduction This is where Data Lakes and Data Warehouses play a critical role. Although both are designed to manage data, they serve different purposes and solve different business problems. As organ",
+      "score": 5,
+      "titleZh": "2025 年数据湖与数据仓库：为现代分析和人工智能选择正确的数据架构"
+    },
+    {
+      "title": "I Stopped Using 5 Paid APIs — Here Are the Free Alternatives That Actually Work Better",
+      "link": "https://dev.to/the_aiproducer_5ec354687/i-stopped-using-5-paid-apis-here-are-the-free-alternatives-that-actually-work-better-2fod",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:52:11 +0000",
+      "summary": "Every month, my API bills were climbing. Twilio for SMS, SendGrid for email, Mapbox for geocoding, Cloudinary for images, Algolia for search. Together, they ate $300+/month from my side projects. Then",
+      "score": 5,
+      "titleZh": "我停止使用 5 个付费 API — 以下是实际上效果更好的免费替代方案"
+    },
+    {
+      "title": "Top 10 Free APIs to Build Profitable Side Projects",
+      "link": "https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-1gj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:48:25 +0000",
+      "summary": "Top 10 Free APIs to Build Profitable Side Projects As a developer, you're constantly looking for ways to build innovative projects that can generate revenue. One of the most effective ways to do this ",
+      "score": 5,
+      "titleZh": "用于构建可盈利副业项目的十大免费 API"
+    },
+    {
+      "title": "NoteBurner Line Music Converter 1.4.2 for macOS – Audio Format Conversion for Personal Music Libraries",
+      "link": "https://dev.to/fn_alein_13728e717f3/noteburner-line-music-converter-142-for-macos-audio-format-conversion-for-personal-music-3njb",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:48:09 +0000",
+      "summary": "NoteBurner Line Music Converter 1.4.2 for macOS NoteBurner Line Music Converter 1.4.2 for macOS is an audio conversion application designed to help users convert audio they have legitimate access to i",
+      "score": 5,
+      "titleZh": "NoteBurner Line Music Converter 1.4.2 for macOS – 个人音乐库的音频格式转换"
+    },
+    {
+      "title": "How to Compress Images Online for Free — No Upload, No Signup",
+      "link": "https://dev.to/pari_tool/how-to-compress-images-online-for-free-no-upload-no-signup-44oa",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:46:41 +0000",
+      "summary": "Large image files slow down websites, take up storage, and are hard to share. Here's a complete guide to compressing images online — free, without uploading your files anywhere. Faster website loading",
+      "score": 5,
+      "titleZh": "如何免费在线压缩图像 - 无需上传，无需注册"
+    },
+    {
+      "title": "From $500 to $12.50: How I Migrated Off OpenAI as a Freelance Dev",
+      "link": "https://dev.to/truelane/from-500-to-1250-how-i-migrated-off-openai-as-a-freelance-dev-1b24",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:42:17 +0000",
+      "summary": "Honestly, from $500 to $12.50: How I Migrated Off OpenAI as a Freelance Dev I stared at my OpenAI dashboard last month and nearly spit out my cold brew. Five hundred bucks. Gone. Into one client's cha",
+      "score": 5,
+      "titleZh": "从 500 美元到 12.50 美元：我如何从 OpenAI 转型为自由开发者"
+    },
+    {
+      "title": "Core Web Vitals & INP Optimization for React Apps (2026)",
+      "link": "https://dev.to/stacknotice/core-web-vitals-inp-optimization-for-react-apps-2026-2m12",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 30 Jun 2026 11:41:08 +0000",
+      "summary": "In March 2024, Google replaced FID (First Input Delay) with INP (Interaction to Next Paint) as a Core Web Vital. INP is harder to pass than FID — it measures all interactions throughout the page's lif",
+      "score": 5,
+      "titleZh": "React 应用程序的核心 Web Vitals 和 INP 优化 (2026)"
     }
   ]
 }
