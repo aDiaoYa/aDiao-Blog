@@ -216,11 +216,11 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
       const calcLandingPositions = (w: number, h: number) => {
         const cssW = window.innerWidth;
         const scale = w / cssW; // canvas像素 / CSS像素 比例（近似 dpr）
-        // 人物图片宽度（CSS像素，匹配 CSS clamp 逻辑：宽屏 36vw，窄屏 60vw）
+        // 人物图片宽度（CSS像素，匹配 CSS clamp 逻辑：桌面30vw/平板26vw/窄屏50vw）
         const isNarrow = cssW <= 700;
         const cssBoyImgW = isNarrow
-          ? Math.min(Math.max(cssW * 0.6, 240), 340)
-          : Math.min(Math.max(cssW * 0.36, 260), 440);
+          ? Math.min(Math.max(cssW * 0.50, 200), 280)
+          : Math.min(Math.max(cssW * 0.30, 200), 340);
         const boyImgW = cssBoyImgW * scale; // → canvas 像素
         // 人物图片左边缘（宽屏图片靠右，窄屏居中）
         const boyLeftEdge = isNarrow
@@ -232,7 +232,7 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
         // 云朵：宽屏时一半在人物外一半重叠，窄屏时在人物上方偏左
         cloud.x = isNarrow ? boyLeftEdge + boyImgW * 0.35 : boyLeftEdge;
         cloud.y = h * 0.08;
-        cloud.radius = Math.min(w * 0.30, 320);
+        cloud.radius = 260; // 固定大小，不随屏幕缩放
       };
 
       function initLanding() {

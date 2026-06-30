@@ -615,7 +615,7 @@ html.dark .private-badge-sm {
   pointer-events: none;
   margin: 0;
   line-height: 0;
-  width: clamp(260px, 36vw, 440px);
+  width: clamp(200px, 30vw, 340px);
   display: block;
   height: auto;
   filter: drop-shadow(0 6px 16px rgba(0, 0, 0, 0.08));
@@ -3065,7 +3065,7 @@ html.dark .plan-action-danger:hover {
     font-size: 32px;
   }
   .star-boy-img {
-    width: clamp(220px, 34vw, 360px);
+    width: clamp(180px, 26vw, 280px);
   }
 }
 
@@ -3093,7 +3093,7 @@ html.dark .plan-action-danger:hover {
     right: auto;
     bottom: 0;
     transform: translateX(-50%);
-    width: clamp(240px, 60vw, 340px);
+    width: clamp(200px, 50vw, 280px);
   }
 
   /* 文案液态玻璃浮层 */
