@@ -198,15 +198,17 @@ export default async function PostPage({ params }: Props) {
                 )}
               </nav>
 
-              {/* Giscus 评论区 */}
-              <section
-                className="article-comments"
-                id="giscus-container"
-                suppressHydrationWarning
-              />
-              <script
-                dangerouslySetInnerHTML={{
-                  __html: `
+              {/* Giscus 评论区（仅在已配置 repoId 时启用） */}
+              {GISCUS.repoId && GISCUS.categoryId && (
+                <>
+                  <section
+                    className="article-comments"
+                    id="giscus-container"
+                    suppressHydrationWarning
+                  />
+                  <script
+                    dangerouslySetInnerHTML={{
+                      __html: `
                     (function() {
                       var script = document.createElement('script');
                       script.src = 'https://giscus.app/client.js';
@@ -226,8 +228,10 @@ export default async function PostPage({ params }: Props) {
                       document.getElementById('giscus-container').appendChild(script);
                     })();
                   `,
-                }}
-              />
+                    }}
+                  />
+                </>
+              )}
             </article>
           </section>
 

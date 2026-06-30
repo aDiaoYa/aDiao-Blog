@@ -1,12 +1,31 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, Component } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { oneLight } from "react-syntax-highlighter/dist/esm/styles/prism";
+// 使用 CJS 路径避免 Next.js 静态导出时 ESM 解析失败
+import { oneLight } from "react-syntax-highlighter/dist/cjs/styles/prism";
 import { slugify } from "@/lib/utils";
+
+// 语法高亮容错包装：渲染失败时回退到纯 <pre><code>
+class HighlightErrorBoundary extends Component<
+  { fallback: React.ReactNode; children: React.ReactNode },
+  { hasError: boolean }
+> {
+  constructor(props: { fallback: React.ReactNode; children: React.ReactNode }) {
+    super(props);
+    this.state = { hasError: false };
+  }
+  static getDerivedStateFromError() {
+    return { hasError: true };
+  }
+  render() {
+    if (this.state.hasError) return this.props.fallback;
+    return this.props.children;
+  }
+}
 
 // 简单的 tree walker，替代 unist-util-visit 避免额外的类型依赖
 function walkElements(node: unknown, test: (n: Record<string, unknown>) => boolean, fn: (n: Record<string, unknown>) => void) {
@@ -19,6 +38,17 @@ function walkElements(node: unknown, test: (n: Record<string, unknown>) => boole
       walkElements(child, test, fn);
     }
   }
+}
+
+/** 将 React children 安全转为纯文本字符串 */
+function arrayToString(children: React.ReactNode): string {
+  if (typeof children === "string") return children;
+  if (typeof children === "number") return String(children);
+  if (Array.isArray(children)) return children.map(arrayToString).join("");
+  if (children && typeof children === "object" && "props" in children) {
+    return arrayToString((children as { props: { children?: React.ReactNode } }).props.children);
+  }
+  return "";
 }
 
 /**
@@ -84,17 +114,25 @@ export default function MarkdownRenderer({ content }: { content: string }) {
         components={{
           code({ className, children, ...props }) {
             const match = /language-(\w+)/.exec(className || "");
-            const codeStr = String(children).replace(/\n$/, "");
+            // 安全提取代码文本：react-markdown 的 code children 可能是 string 或 React 元素数组
+            const codeStr = (typeof children === "string" ? children : arrayToString(children)).replace(/\n$/, "");
             const isBlock = match || codeStr.includes("\n");
             if (isBlock && match) {
+              const fallback = (
+                <pre className={className}>
+                  <code {...props}>{codeStr}</code>
+                </pre>
+              );
               return (
-                <SyntaxHighlighter
-                  style={oneLight}
-                  language={match[1]}
-                  PreTag="div"
-                >
-                  {codeStr}
-                </SyntaxHighlighter>
+                <HighlightErrorBoundary fallback={fallback}>
+                  <SyntaxHighlighter
+                    style={oneLight}
+                    language={match[1]}
+                    PreTag="div"
+                  >
+                    {codeStr}
+                  </SyntaxHighlighter>
+                </HighlightErrorBoundary>
               );
             }
             return (

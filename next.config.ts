@@ -13,6 +13,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  // 确保 react-syntax-highlighter 在静态导出时正确转译
+  transpilePackages: ["react-syntax-highlighter"],
 };
 
 export default nextConfig;
