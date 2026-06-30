@@ -37,11 +37,15 @@ export default function LandingPage() {
             </div>
           </div>
 
-          <img
-            className="star-boy-img"
-            src={`${SITE.basePath}/images/star-boy.png`}
-            alt="爱做梦的小孩"
-          />
+          <picture>
+            <source srcSet={`${SITE.basePath}/images/star-boy.webp`} type="image/webp" />
+            <img
+              className="star-boy-img"
+              src={`${SITE.basePath}/images/star-boy.png`}
+              alt="爱做梦的小孩"
+              fetchPriority="high"
+            />
+          </picture>
         </section>
       </div>
     </>

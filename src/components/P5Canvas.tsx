@@ -202,6 +202,16 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
       let butterflies: DefaultButterfly[] = [];
       let gradient: CanvasGradient | null = null;
 
+      // ── 工具：根据屏幕尺寸计算合理的画布分辨率（限制最大值以提升性能）──
+      function canvasSize() {
+        const ratio = dpr();
+        // 宽高限制：最大 1600×900，防止 4K 屏幕绘制过慢
+        const maxW = 1600, maxH = 900;
+        const w = Math.min(window.innerWidth * ratio, maxW);
+        const h = Math.min(window.innerHeight * ratio, maxH);
+        return { w, h };
+      }
+
       // ── Landing init/draw ──
       const calcLandingPositions = (w: number, h: number) => {
         const iw = Math.min(w * 0.28, 320);
@@ -213,8 +223,7 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
       };
 
       function initLanding() {
-        const w = window.innerWidth * dpr();
-        const h = window.innerHeight * dpr();
+        const { w, h } = canvasSize();
         canvas.width = w;
         canvas.height = h;
         calcLandingPositions(w, h);
@@ -238,8 +247,7 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
 
       // ── Default init/draw ──
       function initDefault() {
-        const w = window.innerWidth * dpr();
-        const h = window.innerHeight * dpr();
+        const { w, h } = canvasSize();
         canvas.width = w;
         canvas.height = h;
         gradient = ctx.createLinearGradient(0, 0, 0, h);
@@ -255,7 +263,7 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
         for (const b of butterflies) { b.update(); b.draw(ctx); }
       }
 
-      // ── 启动 ──
+      // ── 启动（延迟 100ms 让首屏先渲染完毕再启动动画）─
       if (isLanding) {
         initLanding();
         lastTime = 0;
@@ -267,7 +275,11 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
         isLanding ? drawLanding(now) : drawDefault();
         rafRef.current = requestAnimationFrame(loop);
       }
-      rafRef.current = requestAnimationFrame(loop);
+
+      // 延迟启动动画，避免阻塞首屏渲染
+      const startTimer = setTimeout(() => {
+        rafRef.current = requestAnimationFrame(loop);
+      }, 100);
 
       // ── Resize ──
       let resizeTimer: ReturnType<typeof setTimeout>;
@@ -280,6 +292,7 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
       window.addEventListener("resize", handleResize);
 
       return () => {
+        clearTimeout(startTimer);
         cancelAnimationFrame(rafRef.current);
         window.removeEventListener("resize", handleResize);
         clearTimeout(resizeTimer);
