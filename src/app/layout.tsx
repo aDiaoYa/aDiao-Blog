@@ -40,7 +40,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="zh-CN" suppressHydrationWarning>
       <head>
         <link rel="icon" type="image/svg+xml" href={`${SITE.basePath}/favicon.svg`} />
-        <link rel="preload" as="image" href={`${SITE.basePath}/images/star-boy.webp`} type="image/webp" />
+        <link rel="preload" as="image" href={`${SITE.basePath}/images/star-boy.png`} type="image/png" />
       </head>
       <body suppressHydrationWarning>
         <ThemeInit />

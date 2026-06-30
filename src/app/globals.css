@@ -294,31 +294,7 @@ img {
   height: 100%;
 }
 
-/* ── 抱星星的男孩 — 右下角 ── */
-.star-boy-img {
-  position: fixed;
-  right: 5%;
-  bottom: 3%;
-  width: 300px;
-  max-width: 28vw;
-  height: auto;
-  z-index: 20;
-  pointer-events: none;
-  user-select: none;
-  -webkit-user-drag: none;
-  opacity: 0.9;
-  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.08));
-  transition: opacity 0.3s;
-}
-@media (max-width: 900px) {
-  .star-boy-img {
-    right: 2%;
-    bottom: 2%;
-    width: 180px;
-    max-width: 32vw;
-    opacity: 0.7;
-  }
-}
+/* ── 抱星星的男孩 — 旧版 fixed 规则已删除，由下方 grid 布局接管 ── */
 
 /* ---------- Shell ---------- */
 .page-shell {
@@ -608,44 +584,62 @@ html.dark .private-badge-sm {
 }
 
 /* =============================================
-   Landing Page (首页 — 纯白背景，画布全屏，文字叠加)
+   Landing Page (首页 — 纯白背景)
+   桌面：人物图片居左，文案居右，云朵雨滴固定在右侧
+   移动：文案液态玻璃浮层盖在图片+动画之上
    ============================================= */
 .landing-page {
   background: #ffffff;
   height: 100vh;
   overflow: hidden;
-}
-
-.landing-hero {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  height: 100vh;
-  align-items: center;
-  position: relative;
-  z-index: 1;
-  padding: 0 20px;
-}
-
-/* 左侧文字内容 — 悬浮在画布上方 */
-.hero-content {
-  padding: 0 40px 0 0;
-  max-width: 480px;
-  justify-self: center;
-  order: 1;
-  z-index: 10;
   position: relative;
 }
 
-/* 右侧视觉区 — canvas 全屏 + 男孩右下角 */
+/* 右侧云朵雨滴背景层 — 全屏，雨滴落到人物左半身 */
 .hero-visual {
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 0;
+  z-index: 1;
   pointer-events: none;
-  order: 2;
+}
+
+/* 人物图片 — 右下角 */
+.star-boy-img {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  pointer-events: none;
+  margin: 0;
+  line-height: 0;
+  width: clamp(260px, 36vw, 440px);
+  display: block;
+  height: auto;
+  filter: drop-shadow(0 6px 16px rgba(0, 0, 0, 0.08));
+}
+
+/* 文案区 — 左侧（高 z-index 保证压在图片之上） */
+.landing-hero {
+  position: relative;
+  z-index: 10;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 8vw;
+  pointer-events: none; /* 容器不挡事件，子元素再开启 */
+}
+
+/* 文字内容 — 桌面端纯文本，无玻璃态背景 */
+.hero-content {
+  max-width: 480px;
+  text-align: left;
+  position: relative;
+  pointer-events: auto;
+  padding: 28px 0;
 }
 
 .hero-badge {
@@ -3055,9 +3049,27 @@ html.dark .plan-action-danger:hover {
 }
 
 /* =============================================
-   Responsive
+   Responsive — 桌面端断点
    ============================================= */
-@media (max-width: 900px) {
+
+/* 小桌面/平板：保持左右分栏布局，缩小各元素 */
+@media (max-width: 1100px) and (min-width: 701px) {
+  .landing-hero {
+    padding: 0 5vw;
+  }
+  .hero-content {
+    max-width: 380px;
+    padding: 20px 0;
+  }
+  .hero-name {
+    font-size: 32px;
+  }
+  .star-boy-img {
+    width: clamp(220px, 34vw, 360px);
+  }
+}
+
+@media (max-width: 700px) {
   .layout-grid {
     grid-template-columns: 1fr;
   }
@@ -3065,39 +3077,47 @@ html.dark .plan-action-danger:hover {
   .landing-page {
     height: auto;
     min-height: 100vh;
-    overflow: auto;
+    overflow-x: hidden;
   }
 
-  .landing-hero {
-    grid-template-columns: 1fr;
-    height: auto;
-    min-height: 100vh;
-    padding: 0;
-  }
-
+  /* 移动端：图片+动画铺满全屏作为背景层 */
   .hero-visual {
-    grid-row: 1;
-    grid-column: 1;
+    width: 100vw;
+    left: 0;
+    right: auto;
+  }
+
+  .star-boy-img {
+    position: fixed;
+    left: 50%;
+    right: auto;
+    bottom: 0;
+    transform: translateX(-50%);
+    width: clamp(240px, 60vw, 340px);
+  }
+
+  /* 文案液态玻璃浮层 */
+  .landing-hero {
+    height: 100vh;
     min-height: 100vh;
-    order: 1;
-    z-index: 0;
+    padding: 24px;
+    justify-content: center;
+    align-items: center;
   }
 
   .hero-content {
-    grid-row: 1;
-    grid-column: 1;
-    order: 2;
-    z-index: 2;
-    justify-self: center;
-    align-self: center;
-    padding: 40px 24px;
-    max-width: 440px;
+    position: relative;
+    z-index: 5;
     text-align: center;
-    pointer-events: auto;
-    background: rgba(255, 255, 255, 0.78);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    border-radius: 16px;
+    padding: 32px 24px;
+    max-width: 440px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(22px) saturate(180%);
+    -webkit-backdrop-filter: blur(22px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 22px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.10);
   }
 
   .hero-bio {
@@ -3125,7 +3145,7 @@ html.dark .plan-action-danger:hover {
   }
 
   .landing-hero {
-    padding: 0;
+    padding: 16px;
   }
 
   .hero-visual {
@@ -3133,7 +3153,7 @@ html.dark .plan-action-danger:hover {
   }
 
   .hero-content {
-    padding: 32px 20px;
+    padding: 28px 18px;
   }
 
   .hero-name {

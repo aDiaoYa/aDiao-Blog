@@ -22,7 +22,7 @@ class LandingDrop {
 
   constructor(idx: number, total: number) {
     const t = (idx + 0.5) / total;
-    this.xOffset = (t - 0.5) * 1.4 + rand(-0.08, 0.08);
+    this.xOffset = (t - 0.5) * 1.5 + rand(-0.08, 0.08);
     const r = Math.random();
     this.color = r < 0.5 ? COLOR.SKY_BLUE : r < 0.9 ? COLOR.NAVY : COLOR.VINTAGE_RED;
     this.size = rand(8, 16);
@@ -36,7 +36,7 @@ class LandingDrop {
   }
 
   draw(ctx: CanvasRenderingContext2D, cx: number, cy: number, cr: number, bY: number, time: number) {
-    const lineStartY = cy + cr * 0.3;
+    const lineStartY = cy + cr * 0.28;
     let x = cx + this.xOffset * cr;
     const y = lerp(lineStartY, bY, this.progress);
     x += Math.sin(this.progress * PI * 3 + this.swayPhase + time * 0.5) * 2;
@@ -214,12 +214,25 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
 
       // ── Landing init/draw ──
       const calcLandingPositions = (w: number, h: number) => {
-        const iw = Math.min(w * 0.28, 320);
-        boyPos.cx = w - w * 0.05 - iw * 0.5;
-        boyPos.cy = h - h * 0.03 - iw * 1.2 * 0.5;
-        cloud.x = w * 0.72;
+        const cssW = window.innerWidth;
+        const scale = w / cssW; // canvas像素 / CSS像素 比例（近似 dpr）
+        // 人物图片宽度（CSS像素，匹配 CSS clamp 逻辑：宽屏 36vw，窄屏 60vw）
+        const isNarrow = cssW <= 700;
+        const cssBoyImgW = isNarrow
+          ? Math.min(Math.max(cssW * 0.6, 240), 340)
+          : Math.min(Math.max(cssW * 0.36, 260), 440);
+        const boyImgW = cssBoyImgW * scale; // → canvas 像素
+        // 人物图片左边缘（宽屏图片靠右，窄屏居中）
+        const boyLeftEdge = isNarrow
+          ? (w - boyImgW) / 2
+          : w - boyImgW;
+        // 雨滴落点：人物左肩/上半身区域
+        boyPos.cx = boyLeftEdge + boyImgW * 0.30;
+        boyPos.cy = h * 0.88;
+        // 云朵：宽屏时一半在人物外一半重叠，窄屏时在人物上方偏左
+        cloud.x = isNarrow ? boyLeftEdge + boyImgW * 0.35 : boyLeftEdge;
         cloud.y = h * 0.08;
-        cloud.radius = Math.min(w * 0.26, 200);
+        cloud.radius = Math.min(w * 0.30, 320);
       };
 
       function initLanding() {
@@ -236,8 +249,7 @@ export default function P5Canvas({ mode = "default" }: { mode?: "landing" | "def
         const dt = lastTime ? Math.min(now - lastTime, 50) : 16;
         lastTime = now;
         time += dt * 0.001;
-        ctx.fillStyle = "#fff";
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
         drawLandingCloud(ctx, cloud.x, cloud.y, cloud.radius);
         for (const d of drops) {
           d.update();
