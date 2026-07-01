@@ -1,10 +1,58 @@
 {
-  "updated": "2026-06-30T12:08:16.628Z",
-  "date": "2026-06-30",
+  "updated": "2026-07-01T03:40:56.048Z",
+  "date": "2026-07-01",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uka1r6/anyone_looking_into_the_new_mars2/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T03:15:16.000Z",
+      "summary": "I recently came across the announcement for the MARS2 Workshop (Multimodal Reasoning Competition) at ECCV 2026. From what I understand, it focuses on multimodal reasoning and test-time reasoning (“slo",
+      "score": 40,
+      "titleZh": "有人在关注 ECCV 2026 新的 MARS2 研讨会/竞赛吗？我看到 Tec-do 发帖了。 [D]"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "REAP: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk713d/reap_automatic_curation_of_coding_agent/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T00:50:50.000Z",
+      "summary": "submitted by /u/julian88888888 [link] [comments]",
+      "score": 40,
+      "titleZh": "REAP：根据交互式生产使用自动管理编码代理基准 [R]"
+    },
+    {
+      "title": "How to improve a 5-class Diabetic Retinopathy model (APTOS 2019) – Mixed predictions across classes[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujztdd/how_to_improve_a_5class_diabetic_retinopathy/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-06-30T19:58:49.000Z",
+      "summary": "Hi everyone, I'm a final-year Computer Engineering student building a Flask-based AI Diabetic Retinopathy Detection system. The web application itself is complete with patient management, authenticati",
+      "score": 40,
+      "titleZh": "如何改进 5 级糖尿病视网膜病变模型 (APTOS 2019) – 跨类别的混合预测[P]"
+    },
     {
       "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
@@ -13,7 +61,7 @@
         "AI"
       ],
       "date": "2026-06-30T11:55:44.000Z",
-      "summary": "I have building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free ",
+      "summary": "I am building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free to",
       "score": 40,
       "titleZh": "按语义相似度和时间切片划分的最新 1100 万篇论文图谱 [P]"
     },
@@ -30,30 +78,6 @@
       "titleZh": "CVIL 更新：实习后的免费简历面试准备清单...刚刚添加了分段、OCR 和 VLM 部分 [D]"
     },
     {
-      "title": "EACL 2027: Author response and author-reviewer discussion are now two separate stages and allow more time [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujj63g/eacl_2027_author_response_and_authorreviewer/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-30T08:16:03.000Z",
-      "summary": "EACL 2027 just published their CFP which contains an important change to the common ARR process: For this cycle, author response and author-reviewer discussion are two separate stages Looking at the d",
-      "score": 40,
-      "titleZh": "EACL 2027：作者回复和作者-审稿人讨论现在是两个独立的阶段，并留出更多时间 [D]"
-    },
-    {
-      "title": "Loss functions in Instance Representation Learning [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uj8nse/loss_functions_in_instance_representation/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-29T23:34:34.000Z",
-      "summary": "In Wu et. al, the MLE objective is computationally infeasible due to the high number of images in the dataset. Non-parametric Softmax Negative Log-Likelihood With large n, the denominator in (2) is ha",
-      "score": 40,
-      "titleZh": "实例表示学习中的损失函数 [R]"
-    },
-    {
       "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
       "source": "Reddit ML",
@@ -64,18 +88,6 @@
       "summary": "I’m pretty annoyed. We’re a small AI startup building a real-time coding agent. Our p95 latency requirements are tight (and self imposed, but thats the product). We need sustained high-throughput infe",
       "score": 40,
       "titleZh": "Cerebras OpenAI 交易能力实际上已经消除了其他所有人的候补名单 [D]"
-    },
-    {
-      "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-29T10:05:50.000Z",
-      "summary": "Google deployed an agentic AI peer-reviewer at two top CS conferences — reviewing ~10,000 papers with 30-minute turnaround — and the new formal research paper shows it catches 34% more mathematical er",
-      "score": 40,
-      "titleZh": "Google 的代理同行评审员在 ICML/STOC 处理了约 10,000 篇论文 — 正式研究论文现已发布 [R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -90,160 +102,148 @@
       "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1tsipvv/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "2026-05-31T02:30:27.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+      "date": "Tue, 30 Jun 2026 18:32:50 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试"
     },
     {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google AI",
+      "title": "Why Specialization Is Inevitable",
+      "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "date": "Tue, 30 Jun 2026 14:39:11 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家"
+      "titleZh": "为什么专业化是不可避免的"
     },
     {
-      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
-      "link": "https://arxiv.org/abs/2606.28374",
-      "source": "ArXiv AI",
+      "title": "the ai trust gap: why 'what you return' matters more than tech",
+      "link": "https://dev.to/monkgs/the-ai-trust-gap-why-what-you-return-matters-more-than-tech-334e",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Tue, 30 Jun 2026 00:00:00 -0400",
-      "summary": "arXiv:2606.28374v1 Announce Type: new Abstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatshe",
+      "date": "Wed, 01 Jul 2026 03:40:42 +0000",
+      "summary": "This post was originally published on Genesis Park. as the ai hype cycle saturates the developer ecosystem, a fatigue is setting in. the community is no longer debating technical specs, but rather the",
       "score": 5,
-      "titleZh": "通过保留选择的递归自我进化代理"
+      "titleZh": "人工智能信任差距：为什么“你返回的东西”比技术更重要"
     },
     {
-      "title": "Building a Latency-Aware Crypto Signal Bus in Node.js",
-      "link": "https://dev.to/cvchelles/building-a-latency-aware-crypto-signal-bus-in-nodejs-4ppb",
+      "title": "AI SEO Strategy: Boost Your Rankings Now",
+      "link": "https://dev.to/shivatechdigitalnoid/ai-seo-strategy-boost-your-rankings-now-3ncf",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:34:19 +0000",
+      "summary": "Originally published at shivatechdigital.com Click here to read the complete article on our website About ShivaTechDigital: Visit our website | Our Services | Contact Us",
+      "score": 5,
+      "titleZh": "AI SEO 策略：立即提升您的排名"
+    },
+    {
+      "title": "Next.js 16 Routing Explained: A Complete Beginner's Guide (2026)",
+      "link": "https://dev.to/muhammadalisma/nextjs-16-routing-explained-a-complete-beginners-guide-2026-22kh",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:32:44 +0000",
+      "summary": "If you've ever opened a Next.js project and wondered why a folder named (marketing) doesn't show up in the URL, or what on earth @modal means in a file path — you're not alone. Routing is one of the f",
+      "score": 5,
+      "titleZh": "Next.js 16 路由解释：完整的初学者指南 (2026)"
+    },
+    {
+      "title": "The Benchmarks Are Lying to You. Here's How to Actually Evaluate LLMs.",
+      "link": "https://dev.to/aibughunter/the-benchmarks-are-lying-to-you-heres-how-to-actually-evaluate-llms-4j0a",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:31:33 +0000",
+      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "score": 5,
+      "titleZh": "基准在骗你。以下是如何实际评估法学硕士。"
+    },
+    {
+      "title": "What Nobody Tells You About Deploying LLMs at Scale",
+      "link": "https://dev.to/aibughunter/what-nobody-tells-you-about-deploying-llms-at-scale-1j1m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:31:19 +0000",
+      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "score": 5,
+      "titleZh": "没有人告诉您有关大规模部署法学硕士的信息"
+    },
+    {
+      "title": "How to Deploy Llama 2 on DigitalOcean for $5/Month: Complete Self-Hosting Guide",
+      "link": "https://dev.to/ramosai/how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide-d36",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:21:44 +0000",
+      "summary": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) Stop overpaying for AI APIs. I'm running Llama 2 inference on a $5/month Digital",
+      "score": 5,
+      "titleZh": "如何以每月 5 美元的价格在 DigitalOcean 上部署 Llama 2：完整的自托管指南"
+    },
+    {
+      "title": "The Token Bucket Algorithm: Build Server-Side API Rate Limiting in ~40 Lines",
+      "link": "https://dev.to/apikumo/the-token-bucket-algorithm-build-server-side-api-rate-limiting-in-40-lines-25f6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:18:35 +0000",
+      "summary": "The Token Bucket Algorithm: Server-Side API Rate Limiting in ~40 Lines Plenty of tutorials teach you how to survive someone else's rate limit with retries and backoff. Far fewer show you how to build ",
+      "score": 5,
+      "titleZh": "令牌桶算法：在约 40 行内构建服务器端 API 速率限制"
+    },
+    {
+      "title": "AI Workflow Automation with OpenAI & Anthropic",
+      "link": "https://dev.to/gateofai/ai-workflow-automation-with-openai-anthropic-ea7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:18:24 +0000",
+      "summary": "🚀 Technical Briefing: This tutorial is part of our deep-dive series on Agentic Workflows at Gate of AI. For the full technical breakdown, interactive code sandbox, and the native Arabic translation, ",
+      "score": 5,
+      "titleZh": "使用 OpenAI 和 Anthropic 实现 AI 工作流程自动化"
+    },
+    {
+      "title": "Why Germany no longer first-class team is this the end for Nagelsmann? Matters for Sports Data Engineers",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/why-germany-no-longer-first-class-team-is-this-the-end-for-nagelsmann-matters-for-sports-data-o3k",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 01 Jul 2026 03:08:26 +0000",
+      "summary": "Why Germany no longer first-class team is this the end for Nagelsmann? Matters for Sports Data Engineers TL;DR: Ive written and saved the article to /root/germany-paraguay-nagelsmann.html. Heres the a",
+      "score": 5,
+      "titleZh": "为什么德国队不再是一流球队，纳格尔斯曼就这样结束了吗？体育数据工程师的注意事项"
+    },
+    {
+      "title": "I Scraped 100 Sports Matches — Here Is What I Found: Germany fans in need of hope as prospect of Klopp looms",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-germany-fans-in-need-of-hope-as-prospect-of-4g74",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 30 Jun 2026 12:04:39 +0000",
-      "summary": "Building a Latency-Aware Crypto Signal Bus in Node.js Most crypto trading bots start as a single loop: fetch candles, calculate indicators, decide, place an order, sleep, repeat. That model is fine fo",
+      "date": "Wed, 01 Jul 2026 03:08:00 +0000",
+      "summary": "I Scraped 100 Sports Matches — Here Is What I Found: Germany fans in need of hope as prospect of Klopp looms TL;DR: Article written and saved to /root/germany-klopp-looms.html (~720 words). Here is th",
       "score": 5,
-      "titleZh": "在 Node.js 中构建延迟感知的加密信号总线"
-    },
-    {
-      "title": "We let AI coding agents into our codebase. The modular monolith won.",
-      "link": "https://dev.to/thien_nguyen/we-let-ai-coding-agents-into-our-codebase-the-modular-monolith-won-50je",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:58:48 +0000",
-      "summary": "For a decade, \"microservices vs monolith\" was an argument about human teams: Conway's Law, independent deploys, blast radius. In 2026 a new participant walked into the codebase and quietly changed the",
-      "score": 5,
-      "titleZh": "我们让人工智能编码代理进入我们的代码库。模块化整体系统获胜。"
-    },
-    {
-      "title": "Why Developers Are Becoming the New IT Procurement Team Without Realizing It",
-      "link": "https://dev.to/mittal_technologies/why-developers-are-becoming-the-new-it-procurement-team-without-realizing-it-54ko",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:53:12 +0000",
-      "summary": "npm install this morning and added a package. Maybe a date utility. Maybe a logging library. Maybe something for handling webhooks. You evaluated it, decided it looked good, checked the GitHub stars a",
-      "score": 5,
-      "titleZh": "为什么开发人员在没有意识到的情况下成为新的 IT 采购团队"
-    },
-    {
-      "title": "Data Lake vs Data Warehouse in 2025: Choosing the Right Data Architecture for Modern Analytics and AI",
-      "link": "https://dev.to/dipti26810/data-lake-vs-data-warehouse-in-2025-choosing-the-right-data-architecture-for-modern-analytics-and-1nbl",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:52:17 +0000",
-      "summary": "Introduction This is where Data Lakes and Data Warehouses play a critical role. Although both are designed to manage data, they serve different purposes and solve different business problems. As organ",
-      "score": 5,
-      "titleZh": "2025 年数据湖与数据仓库：为现代分析和人工智能选择正确的数据架构"
-    },
-    {
-      "title": "I Stopped Using 5 Paid APIs — Here Are the Free Alternatives That Actually Work Better",
-      "link": "https://dev.to/the_aiproducer_5ec354687/i-stopped-using-5-paid-apis-here-are-the-free-alternatives-that-actually-work-better-2fod",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:52:11 +0000",
-      "summary": "Every month, my API bills were climbing. Twilio for SMS, SendGrid for email, Mapbox for geocoding, Cloudinary for images, Algolia for search. Together, they ate $300+/month from my side projects. Then",
-      "score": 5,
-      "titleZh": "我停止使用 5 个付费 API — 以下是实际上效果更好的免费替代方案"
-    },
-    {
-      "title": "Top 10 Free APIs to Build Profitable Side Projects",
-      "link": "https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-1gj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:48:25 +0000",
-      "summary": "Top 10 Free APIs to Build Profitable Side Projects As a developer, you're constantly looking for ways to build innovative projects that can generate revenue. One of the most effective ways to do this ",
-      "score": 5,
-      "titleZh": "用于构建可盈利副业项目的十大免费 API"
-    },
-    {
-      "title": "NoteBurner Line Music Converter 1.4.2 for macOS – Audio Format Conversion for Personal Music Libraries",
-      "link": "https://dev.to/fn_alein_13728e717f3/noteburner-line-music-converter-142-for-macos-audio-format-conversion-for-personal-music-3njb",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:48:09 +0000",
-      "summary": "NoteBurner Line Music Converter 1.4.2 for macOS NoteBurner Line Music Converter 1.4.2 for macOS is an audio conversion application designed to help users convert audio they have legitimate access to i",
-      "score": 5,
-      "titleZh": "NoteBurner Line Music Converter 1.4.2 for macOS – 个人音乐库的音频格式转换"
-    },
-    {
-      "title": "How to Compress Images Online for Free — No Upload, No Signup",
-      "link": "https://dev.to/pari_tool/how-to-compress-images-online-for-free-no-upload-no-signup-44oa",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:46:41 +0000",
-      "summary": "Large image files slow down websites, take up storage, and are hard to share. Here's a complete guide to compressing images online — free, without uploading your files anywhere. Faster website loading",
-      "score": 5,
-      "titleZh": "如何免费在线压缩图像 - 无需上传，无需注册"
-    },
-    {
-      "title": "From $500 to $12.50: How I Migrated Off OpenAI as a Freelance Dev",
-      "link": "https://dev.to/truelane/from-500-to-1250-how-i-migrated-off-openai-as-a-freelance-dev-1b24",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:42:17 +0000",
-      "summary": "Honestly, from $500 to $12.50: How I Migrated Off OpenAI as a Freelance Dev I stared at my OpenAI dashboard last month and nearly spit out my cold brew. Five hundred bucks. Gone. Into one client's cha",
-      "score": 5,
-      "titleZh": "从 500 美元到 12.50 美元：我如何从 OpenAI 转型为自由开发者"
-    },
-    {
-      "title": "Core Web Vitals & INP Optimization for React Apps (2026)",
-      "link": "https://dev.to/stacknotice/core-web-vitals-inp-optimization-for-react-apps-2026-2m12",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 30 Jun 2026 11:41:08 +0000",
-      "summary": "In March 2024, Google replaced FID (First Input Delay) with INP (Interaction to Next Paint) as a Core Web Vital. INP is harder to pass than FID — it measures all interactions throughout the page's lif",
-      "score": 5,
-      "titleZh": "React 应用程序的核心 Web Vitals 和 INP 优化 (2026)"
+      "titleZh": "我抓取了 100 场体育比赛——这是我发现的：随着克洛普前景的临近，德国球迷需要希望"
     }
   ]
 }
