@@ -1,21 +1,93 @@
 {
-  "updated": "2026-07-01T03:40:56.048Z",
-  "date": "2026-07-01",
+  "updated": "2026-07-02T03:29:39.312Z",
+  "date": "2026-07-02",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uka1r6/anyone_looking_into_the_new_mars2/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-01T03:15:16.000Z",
-      "summary": "I recently came across the announcement for the MARS2 Workshop (Multimodal Reasoning Competition) at ECCV 2026. From what I understand, it focuses on multimodal reasoning and test-time reasoning (“slo",
+      "date": "2026-07-02T02:15:27.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "有人在关注 ECCV 2026 新的 MARS2 研讨会/竞赛吗？我看到 Tec-do 发帖了。 [D]"
+      "titleZh": "[D] 自我推销帖子"
+    },
+    {
+      "title": "Making Optimization Work When Labels Are Scarce [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-02T00:59:15.000Z",
+      "summary": "https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse for conventional opt",
+      "score": 40,
+      "titleZh": "当标签稀缺时进行优化 [R]"
+    },
+    {
+      "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T21:55:58.000Z",
+      "summary": "This is a write-up on our company blog that I wrote, sharing our perspective into Hamiltonian Neural Networks (Greydanus et al., 2019) from a differential-geometry angle rather than the usual \"here's ",
+      "score": 40,
+      "titleZh": "微分几何视角下的哈密顿神经网络 [D]"
+    },
+    {
+      "title": "New PyMuPDF release, supports Markdown [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T21:15:56.000Z",
+      "summary": "https://pymupdf.io/blog/markdown-in-pymupdf-1-28 PyMuPDF 1.28 release, introduces Markdown as a first class document in PyMuPDF. Seems useful for a variety of workflows. You can create PDFs from Markd",
+      "score": 40,
+      "titleZh": "PyMuPDF 新版本，支持 Markdown [N]"
+    },
+    {
+      "title": "ACL ARR May 2026[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukud96/acl_arr_may_2026d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T18:48:58.000Z",
+      "summary": "Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? How much does one need to get into Main or Findings? I am a bit new to this. Thanks a lot folks. su",
+      "score": 40,
+      "titleZh": "ACL ARR 2026 年 5 月[D]"
+    },
+    {
+      "title": "P Moth-Retrieval: Graph-Free Multi-Hop Retrieval via Query-Time Orchestration (Beating Graph-Based Systems on HotpotQA) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T15:26:53.000Z",
+      "summary": "We just open-sourced MOTHRAG, a multi-hop RAG framework that skips the knowledge graph entirely. We kept hitting the same wall building multi-hop RAG: the systems with the best accuracy (GraphRAG, Hip",
+      "score": 40,
+      "titleZh": "P Moth-Retrieval：通过查询时间编排进行无图多跳检索（在 HotpotQA 上击败基于图的系统）[P]"
+    },
+    {
+      "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T12:07:43.000Z",
+      "summary": "arXiv’s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ submitted by /u/Nunki08 [link] [comments]",
+      "score": 40,
+      "titleZh": "2026 年 7 月 1 日，arXiv 将从过去 25 年的所在地康奈尔大学分拆出来，成为一家独立的非营利组织。主要资金支持来自西蒙斯基金会和施密特科学公司。放弃他们网站的红色。 [N]"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -30,220 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "REAP: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk713d/reap_automatic_curation_of_coding_agent/",
-      "source": "Reddit ML",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-01T00:50:50.000Z",
-      "summary": "submitted by /u/julian88888888 [link] [comments]",
-      "score": 40,
-      "titleZh": "REAP：根据交互式生产使用自动管理编码代理基准 [R]"
+      "date": "Fri, 26 Jun 2026 17:00:43 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead Comments URL: https://news.ycombinator.com/item?id=48688961",
+      "score": 20,
+      "titleZh": "Liva AI (YC S25) 正在招聘"
     },
     {
-      "title": "How to improve a 5-class Diabetic Retinopathy model (APTOS 2019) – Mixed predictions across classes[P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujztdd/how_to_improve_a_5class_diabetic_retinopathy/",
-      "source": "Reddit ML",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-06-30T19:58:49.000Z",
-      "summary": "Hi everyone, I'm a final-year Computer Engineering student building a Flask-based AI Diabetic Retinopathy Detection system. The web application itself is complete with patient management, authenticati",
-      "score": 40,
-      "titleZh": "如何改进 5 级糖尿病视网膜病变模型 (APTOS 2019) – 跨类别的混合预测[P]"
+      "date": "Thu, 25 Jun 2026 17:00:00 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data Comments URL: https://news.ycombinator.com/item?id=48676256",
+      "score": 20,
+      "titleZh": "Besimple AI (YC P25) 正在招聘"
     },
     {
-      "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-30T11:55:44.000Z",
-      "summary": "I am building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free to",
-      "score": 40,
-      "titleZh": "按语义相似度和时间切片划分的最新 1100 万篇论文图谱 [P]"
-    },
-    {
-      "title": "Update on CVIL: the free CV interview prep checklist after landing my internship... just added Segmentation, OCR, and VLM sections [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujlmy2/update_on_cvil_the_free_cv_interview_prep/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-30T10:40:59.000Z",
-      "summary": "Hi everyone, Posted this a while back... a checklist I made while prepping for a CV internship (landed it, hence sharing). It's not a textbook, just a phase-by-phase map of what to actually study for ",
-      "score": 40,
-      "titleZh": "CVIL 更新：实习后的免费简历面试准备清单...刚刚添加了分段、OCR 和 VLM 部分 [D]"
-    },
-    {
-      "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-29T12:00:06.000Z",
-      "summary": "I’m pretty annoyed. We’re a small AI startup building a real-time coding agent. Our p95 latency requirements are tight (and self imposed, but thats the product). We need sustained high-throughput infe",
-      "score": 40,
-      "titleZh": "Cerebras OpenAI 交易能力实际上已经消除了其他所有人的候补名单 [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1tudeio/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-06-02T02:15:14.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] 自我推销帖子"
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 30 Jun 2026 18:32:50 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试"
-    },
-    {
-      "title": "Why Specialization Is Inevitable",
-      "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 30 Jun 2026 14:39:11 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "为什么专业化是不可避免的"
-    },
-    {
-      "title": "the ai trust gap: why 'what you return' matters more than tech",
-      "link": "https://dev.to/monkgs/the-ai-trust-gap-why-what-you-return-matters-more-than-tech-334e",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:40:42 +0000",
-      "summary": "This post was originally published on Genesis Park. as the ai hype cycle saturates the developer ecosystem, a fatigue is setting in. the community is no longer debating technical specs, but rather the",
-      "score": 5,
-      "titleZh": "人工智能信任差距：为什么“你返回的东西”比技术更重要"
-    },
-    {
-      "title": "AI SEO Strategy: Boost Your Rankings Now",
-      "link": "https://dev.to/shivatechdigitalnoid/ai-seo-strategy-boost-your-rankings-now-3ncf",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:34:19 +0000",
-      "summary": "Originally published at shivatechdigital.com Click here to read the complete article on our website About ShivaTechDigital: Visit our website | Our Services | Contact Us",
-      "score": 5,
-      "titleZh": "AI SEO 策略：立即提升您的排名"
-    },
-    {
-      "title": "Next.js 16 Routing Explained: A Complete Beginner's Guide (2026)",
-      "link": "https://dev.to/muhammadalisma/nextjs-16-routing-explained-a-complete-beginners-guide-2026-22kh",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:32:44 +0000",
-      "summary": "If you've ever opened a Next.js project and wondered why a folder named (marketing) doesn't show up in the URL, or what on earth @modal means in a file path — you're not alone. Routing is one of the f",
-      "score": 5,
-      "titleZh": "Next.js 16 路由解释：完整的初学者指南 (2026)"
-    },
-    {
-      "title": "The Benchmarks Are Lying to You. Here's How to Actually Evaluate LLMs.",
-      "link": "https://dev.to/aibughunter/the-benchmarks-are-lying-to-you-heres-how-to-actually-evaluate-llms-4j0a",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:31:33 +0000",
-      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
-      "score": 5,
-      "titleZh": "基准在骗你。以下是如何实际评估法学硕士。"
-    },
-    {
-      "title": "What Nobody Tells You About Deploying LLMs at Scale",
-      "link": "https://dev.to/aibughunter/what-nobody-tells-you-about-deploying-llms-at-scale-1j1m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:31:19 +0000",
-      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
-      "score": 5,
-      "titleZh": "没有人告诉您有关大规模部署法学硕士的信息"
-    },
-    {
-      "title": "How to Deploy Llama 2 on DigitalOcean for $5/Month: Complete Self-Hosting Guide",
-      "link": "https://dev.to/ramosai/how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide-d36",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:21:44 +0000",
-      "summary": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) Stop overpaying for AI APIs. I'm running Llama 2 inference on a $5/month Digital",
-      "score": 5,
-      "titleZh": "如何以每月 5 美元的价格在 DigitalOcean 上部署 Llama 2：完整的自托管指南"
-    },
-    {
-      "title": "The Token Bucket Algorithm: Build Server-Side API Rate Limiting in ~40 Lines",
-      "link": "https://dev.to/apikumo/the-token-bucket-algorithm-build-server-side-api-rate-limiting-in-40-lines-25f6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:18:35 +0000",
-      "summary": "The Token Bucket Algorithm: Server-Side API Rate Limiting in ~40 Lines Plenty of tutorials teach you how to survive someone else's rate limit with retries and backoff. Far fewer show you how to build ",
-      "score": 5,
-      "titleZh": "令牌桶算法：在约 40 行内构建服务器端 API 速率限制"
-    },
-    {
-      "title": "AI Workflow Automation with OpenAI & Anthropic",
-      "link": "https://dev.to/gateofai/ai-workflow-automation-with-openai-anthropic-ea7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:18:24 +0000",
-      "summary": "🚀 Technical Briefing: This tutorial is part of our deep-dive series on Agentic Workflows at Gate of AI. For the full technical breakdown, interactive code sandbox, and the native Arabic translation, ",
-      "score": 5,
-      "titleZh": "使用 OpenAI 和 Anthropic 实现 AI 工作流程自动化"
-    },
-    {
-      "title": "Why Germany no longer first-class team is this the end for Nagelsmann? Matters for Sports Data Engineers",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/why-germany-no-longer-first-class-team-is-this-the-end-for-nagelsmann-matters-for-sports-data-o3k",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 01 Jul 2026 03:08:26 +0000",
-      "summary": "Why Germany no longer first-class team is this the end for Nagelsmann? Matters for Sports Data Engineers TL;DR: Ive written and saved the article to /root/germany-paraguay-nagelsmann.html. Heres the a",
-      "score": 5,
-      "titleZh": "为什么德国队不再是一流球队，纳格尔斯曼就这样结束了吗？体育数据工程师的注意事项"
-    },
-    {
-      "title": "I Scraped 100 Sports Matches — Here Is What I Found: Germany fans in need of hope as prospect of Klopp looms",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-germany-fans-in-need-of-hope-as-prospect-of-4g74",
+      "title": "Building a 100% Client-Side PDF Invoice Generator with jsPDF (No Backend, No Sign-Up)",
+      "link": "https://dev.to/jack_green_7b74cb2cdf9e23/building-a-100-client-side-pdf-invoice-generator-with-jspdf-no-backend-no-sign-up-4lo1",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 01 Jul 2026 03:08:00 +0000",
-      "summary": "I Scraped 100 Sports Matches — Here Is What I Found: Germany fans in need of hope as prospect of Klopp looms TL;DR: Article written and saved to /root/germany-klopp-looms.html (~720 words). Here is th",
+      "date": "Thu, 02 Jul 2026 03:28:02 +0000",
+      "summary": "Freelancers send a handful of invoices a month, yet most invoicing tools charge a monthly subscription. I wanted the opposite: a tool you open in a browser, fill in, and get a professional PDF — no ac",
       "score": 5,
-      "titleZh": "我抓取了 100 场体育比赛——这是我发现的：随着克洛普前景的临近，德国球迷需要希望"
+      "titleZh": "使用 jsPDF 构建 100% 客户端 PDF 发票生成器（无后端，无需注册）"
+    },
+    {
+      "title": "n8n Kafka Node: Produce, Consume, and Stream Events in Your Workflows (Free JSON)",
+      "link": "https://dev.to/pirateprentice/n8n-kafka-node-produce-consume-and-stream-events-in-your-workflows-free-json-1gge",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:25:44 +0000",
+      "summary": "Apache Kafka is the backbone of event-driven architectures at scale. Whether you're streaming clickstream data, syncing microservices, or building real-time pipelines, the n8n Kafka node lets you prod",
+      "score": 5,
+      "titleZh": "n8n Kafka 节点：在工作流中生成、使用和流式传输事件（免费 JSON）"
+    },
+    {
+      "title": "glasp v0.3.0 & v0.4.0 — PKCE Support, Timeouts, and Retries",
+      "link": "https://dev.to/takihito/glasp-v030-v040-pkce-support-timeouts-and-retries-op6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:22:51 +0000",
+      "summary": "Last time I wrote about using glasp, a Go-based, npm-free CLI for Google Apps Script (GAS), in GitHub Actions. Previous post: Lean, Fast, Simple — npm-free GAS Deployment on GitHub Actions with glasp ",
+      "score": 5,
+      "titleZh": "glasp v0.3.0 和 v0.4.0 — PKCE 支持、超时和重试"
+    },
+    {
+      "title": "How to Deploy Llama 2 on DigitalOcean for $5/month: Complete Self-Hosting Guide",
+      "link": "https://dev.to/ramosai/how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide-4p47",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:22:40 +0000",
+      "summary": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) Stop overpaying for AI APIs. Most teams don't realize they're burning $500-2000/",
+      "score": 5,
+      "titleZh": "如何以每月 5 美元的价格在 DigitalOcean 上部署 Llama 2：完整的自托管指南"
+    },
+    {
+      "title": "How I Built a Zero-Friction Browser Gaming Platform (Zero Sign-Ups, Zero Downloads)",
+      "link": "https://dev.to/m_walter_5364106f0844aa5e/how-i-built-a-zero-friction-browser-gaming-platform-zero-sign-ups-zero-downloads-34nm",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:21:14 +0000",
+      "summary": "I built GameDeck — a gaming platform where you pick a badge, type a name, Here's how I built it and what I learned. Frontend: Pure browser-based, vanilla JS Deployment: Google Cloud Run i18n: 3 langua",
+      "score": 5,
+      "titleZh": "我如何构建零摩擦浏览器游戏平台（零注册、零下载）"
+    },
+    {
+      "title": "How I Optimized My Portfolio Website: Fast Loading, SEO-Friendly, and Easy to Maintain published: true tags: webdev, portfolio, seo, performance",
+      "link": "https://dev.to/nayeem-miah/how-i-optimized-my-portfolio-website-fast-loading-seo-friendly-and-easy-to-maintain-published-1h0b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:12:44 +0000",
+      "summary": "Your portfolio is often the first impression a recruiter, client, or fellow developer gets of you. If it loads slowly, ranks nowhere on Google, or is a pain to update, it's working against you instead",
+      "score": 5,
+      "titleZh": "我如何优化我的投资组合网站：快速加载、SEO 友好且易于维护已发布：真实标签：webdev、投资组合、搜索引擎优化、性能"
+    },
+    {
+      "title": "The Silent Sitemap Bug That Blocked Google From Indexing My Sites",
+      "link": "https://dev.to/gavinbuilds/the-silent-sitemap-bug-that-blocked-google-from-indexing-my-sites-3lhi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:10:16 +0000",
+      "summary": "When I checked Google Search Console after a month, only 2 of my 8 sites were indexed. The other 6 had zero pages in Google's eyes. No penalty, no error banner. Just silence. My build script generated",
+      "score": 5,
+      "titleZh": "阻止 Google 为我的网站编制索引的无声站点地图错误"
+    },
+    {
+      "title": "Why Direct Plans Are Cheaper Than Regular Plans in Mutual Funds",
+      "link": "https://dev.to/chrisholroyd01/why-direct-plans-are-cheaper-than-regular-plans-in-mutual-funds-5hcb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:10:02 +0000",
+      "summary": "When investing in mutual funds, many investors come across two options—Direct Plans and Regular Plans. At first glance, both may seem identical because they invest in the same portfolio and are manage",
+      "score": 5,
+      "titleZh": "为什么共同基金的直接计划比普通计划便宜"
+    },
+    {
+      "title": "Building a Sports Data Pipeline: Lessons from Mexico rampant at fortress Azteca and England could be next",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-mexico-rampant-at-fortress-azteca-and-england-could-inh",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:06:52 +0000",
+      "summary": "Building a Sports Data Pipeline: Lessons from Mexico rampant at fortress Azteca and England could be next TL;DR: Article written and saved to /root/mexico-azteca-fortress-england.html (~690 words). He",
+      "score": 5,
+      "titleZh": "建立体育数据管道：下一步可能是从墨西哥阿兹特克要塞和英格兰的经验教训"
+    },
+    {
+      "title": "Building a Sports Data Pipeline: Lessons from United, free and brilliant can anyone stop France masterclass?",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-united-free-and-brilliant-can-anyone-stop-france-46hk",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 02 Jul 2026 03:06:38 +0000",
+      "summary": "Building a Sports Data Pipeline: Lessons from United, free and brilliant can anyone stop France masterclass? TL;DR: France arrived at the 2026 World Cup carrying the familiar weight of expectation. Th",
+      "score": 5,
+      "titleZh": "建立体育数据管道：来自曼联的教训，自由而精彩，有人能阻止法国大师班吗？"
     }
   ]
 }
