@@ -1,10 +1,94 @@
 {
-  "updated": "2026-07-02T03:29:39.312Z",
-  "date": "2026-07-02",
+  "updated": "2026-07-05T02:55:37.632Z",
+  "date": "2026-07-05",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "link": "https://github.com/openai/codex/issues/30364",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 04 Jul 2026 21:51:09 +0000",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428",
+      "score": 162,
+      "titleZh": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降"
+    },
+    {
+      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-04T21:56:48.000Z",
+      "summary": "I spent the last few months building a new sparse fine-tuning method for MoE models called **USAF**. The goal was simple: if your GPU can run inference on an MoE model, it should also be able to fine-",
+      "score": 40,
+      "titleZh": "如果您的 GPU 可以运行推理，它也应该能够进行微调。 [P]"
+    },
+    {
+      "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ungvxu/well_benchmark_an_open_weights_llm_on_any_gpu_you/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-04T18:51:07.000Z",
+      "summary": "We run HexGrid Cloud, a platform for deploying open-source models on GPUs, and we're heads-down optimizing our serving/deployment layer. To pressure-test it we're benchmarking real models under real c",
+      "score": 40,
+      "titleZh": "我们将在您选择的任何 GPU 上对开放权重 LLM 进行基准测试 - 放弃您的模型 + 硬件，我们将运行它。 [D]"
+    },
+    {
+      "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-04T10:56:40.000Z",
+      "summary": "I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it go",
+      "score": 40,
+      "titleZh": "提案：使用语义压缩作为输入扩散来读取大于上下文窗口的会话 [R]"
+    },
+    {
+      "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-04T08:24:42.000Z",
+      "summary": "Instead of node --edge--> node, every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get \"MetaBary\" triads that surface str",
+      "score": 40,
+      "titleZh": "BaryGraph - 知识图，其中每个关系都是其自己的嵌入文档（而不是边缘）[R]"
+    },
+    {
+      "title": "H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-03T21:18:10.000Z",
+      "summary": "Hi everyone, I built H64LM, a research project to better understand modern LLMs by implementing one from scratch in PyTorch. Instead of relying on high-level training frameworks, I implemented the cor",
+      "score": 40,
+      "titleZh": "H64LM：在 PyTorch 中从头开始构建的 249M 参数混合专家变压器 [P]"
+    },
+    {
+      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-03T19:01:48.000Z",
+      "summary": "We built a model diffing method that recovers verbatim content from narrowly finetuned LLMs using only grey-box logit access (no weights, no activations, no probe corpus). Recent work (Minder, Dumas e",
+      "score": 40,
+      "titleZh": "对比解码 Diffing (CDD)：仅从 logits 恢复逐字微调数据，无需访问权重[R]"
+    },
     {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
@@ -15,79 +99,7 @@
       "date": "2026-07-02T02:15:27.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销帖子"
-    },
-    {
-      "title": "Making Optimization Work When Labels Are Scarce [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-02T00:59:15.000Z",
-      "summary": "https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse for conventional opt",
-      "score": 40,
-      "titleZh": "当标签稀缺时进行优化 [R]"
-    },
-    {
-      "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T21:55:58.000Z",
-      "summary": "This is a write-up on our company blog that I wrote, sharing our perspective into Hamiltonian Neural Networks (Greydanus et al., 2019) from a differential-geometry angle rather than the usual \"here's ",
-      "score": 40,
-      "titleZh": "微分几何视角下的哈密顿神经网络 [D]"
-    },
-    {
-      "title": "New PyMuPDF release, supports Markdown [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T21:15:56.000Z",
-      "summary": "https://pymupdf.io/blog/markdown-in-pymupdf-1-28 PyMuPDF 1.28 release, introduces Markdown as a first class document in PyMuPDF. Seems useful for a variety of workflows. You can create PDFs from Markd",
-      "score": 40,
-      "titleZh": "PyMuPDF 新版本，支持 Markdown [N]"
-    },
-    {
-      "title": "ACL ARR May 2026[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukud96/acl_arr_may_2026d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T18:48:58.000Z",
-      "summary": "Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? How much does one need to get into Main or Findings? I am a bit new to this. Thanks a lot folks. su",
-      "score": 40,
-      "titleZh": "ACL ARR 2026 年 5 月[D]"
-    },
-    {
-      "title": "P Moth-Retrieval: Graph-Free Multi-Hop Retrieval via Query-Time Orchestration (Beating Graph-Based Systems on HotpotQA) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T15:26:53.000Z",
-      "summary": "We just open-sourced MOTHRAG, a multi-hop RAG framework that skips the knowledge graph entirely. We kept hitting the same wall building multi-hop RAG: the systems with the best accuracy (GraphRAG, Hip",
-      "score": 40,
-      "titleZh": "P Moth-Retrieval：通过查询时间编排进行无图多跳检索（在 HotpotQA 上击败基于图的系统）[P]"
-    },
-    {
-      "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T12:07:43.000Z",
-      "summary": "arXiv’s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ submitted by /u/Nunki08 [link] [comments]",
-      "score": 40,
-      "titleZh": "2026 年 7 月 1 日，arXiv 将从过去 25 年的所在地康奈尔大学分拆出来，成为一家独立的非营利组织。主要资金支持来自西蒙斯基金会和施密特科学公司。放弃他们网站的红色。 [N]"
+      "titleZh": "[D] 自我推销主题"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -102,148 +114,136 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Liva AI (YC S25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "link": "https://ridgetext.com/blog/mapbox-llm-composition",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 26 Jun 2026 17:00:43 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead Comments URL: https://news.ycombinator.com/item?id=48688961",
-      "score": 20,
-      "titleZh": "Liva AI (YC S25) 正在招聘"
+      "date": "Sat, 04 Jul 2026 23:25:53 +0000",
+      "summary": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986",
+      "score": 10,
+      "titleZh": "与内存层映射以减少 LLM 过载"
     },
     {
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 25 Jun 2026 17:00:00 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data Comments URL: https://news.ycombinator.com/item?id=48676256",
-      "score": 20,
-      "titleZh": "Besimple AI (YC P25) 正在招聘"
-    },
-    {
-      "title": "Building a 100% Client-Side PDF Invoice Generator with jsPDF (No Backend, No Sign-Up)",
-      "link": "https://dev.to/jack_green_7b74cb2cdf9e23/building-a-100-client-side-pdf-invoice-generator-with-jspdf-no-backend-no-sign-up-4lo1",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 02 Jul 2026 03:28:02 +0000",
-      "summary": "Freelancers send a handful of invoices a month, yet most invoicing tools charge a monthly subscription. I wanted the opposite: a tool you open in a browser, fill in, and get a professional PDF — no ac",
-      "score": 5,
-      "titleZh": "使用 jsPDF 构建 100% 客户端 PDF 发票生成器（无后端，无需注册）"
-    },
-    {
-      "title": "n8n Kafka Node: Produce, Consume, and Stream Events in Your Workflows (Free JSON)",
-      "link": "https://dev.to/pirateprentice/n8n-kafka-node-produce-consume-and-stream-events-in-your-workflows-free-json-1gge",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 02 Jul 2026 03:25:44 +0000",
-      "summary": "Apache Kafka is the backbone of event-driven architectures at scale. Whether you're streaming clickstream data, syncing microservices, or building real-time pipelines, the n8n Kafka node lets you prod",
-      "score": 5,
-      "titleZh": "n8n Kafka 节点：在工作流中生成、使用和流式传输事件（免费 JSON）"
-    },
-    {
-      "title": "glasp v0.3.0 & v0.4.0 — PKCE Support, Timeouts, and Retries",
-      "link": "https://dev.to/takihito/glasp-v030-v040-pkce-support-timeouts-and-retries-op6",
+      "title": "16 Days of Building in Public — What Actually Moves the Needle",
+      "link": "https://dev.to/leozhang8285/16-days-of-building-in-public-what-actually-moves-the-needle-hj1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:22:51 +0000",
-      "summary": "Last time I wrote about using glasp, a Go-based, npm-free CLI for Google Apps Script (GAS), in GitHub Actions. Previous post: Lean, Fast, Simple — npm-free GAS Deployment on GitHub Actions with glasp ",
+      "date": "Sun, 05 Jul 2026 02:38:38 +0000",
+      "summary": "Disclosure: I work on Opennomos. After 16 days of consistently posting on X/Twitter about my developer tools project, I have real data on what works and what doesn't for indie dev growth. Here's the u",
       "score": 5,
-      "titleZh": "glasp v0.3.0 和 v0.4.0 — PKCE 支持、超时和重试"
+      "titleZh": "16 天的公开建设 — 真正起到推动作用的是什么"
     },
     {
-      "title": "How to Deploy Llama 2 on DigitalOcean for $5/month: Complete Self-Hosting Guide",
-      "link": "https://dev.to/ramosai/how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide-4p47",
+      "title": "The Online Interest Around Ella Mae: What You Need to Know",
+      "link": "https://dev.to/devblmember_085c86ca/the-online-interest-around-ella-mae-what-you-need-to-know-4g41",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:22:40 +0000",
-      "summary": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) Stop overpaying for AI APIs. Most teams don't realize they're burning $500-2000/",
+      "date": "Sun, 05 Jul 2026 02:33:42 +0000",
+      "summary": "→ Explore the full collection at hakuoki-ssl-stage.com The name \"Ella Mae\" has been generating growing interest across online platforms, with people searching for content related to this persona. Whet",
       "score": 5,
-      "titleZh": "如何以每月 5 美元的价格在 DigitalOcean 上部署 Llama 2：完整的自托管指南"
+      "titleZh": "围绕 Ella Mae 的在线兴趣：您需要了解的内容"
     },
     {
-      "title": "How I Built a Zero-Friction Browser Gaming Platform (Zero Sign-Ups, Zero Downloads)",
-      "link": "https://dev.to/m_walter_5364106f0844aa5e/how-i-built-a-zero-friction-browser-gaming-platform-zero-sign-ups-zero-downloads-34nm",
+      "title": "What building a contrast checker taught me about WCAG that I had wrong",
+      "link": "https://dev.to/aniket_saini_7/what-building-a-contrast-checker-taught-me-about-wcag-that-i-had-wrong-4947",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:21:14 +0000",
-      "summary": "I built GameDeck — a gaming platform where you pick a badge, type a name, Here's how I built it and what I learned. Frontend: Pure browser-based, vanilla JS Deployment: Google Cloud Run i18n: 3 langua",
+      "date": "Sun, 05 Jul 2026 02:30:23 +0000",
+      "summary": "I assumed the WCAG contrast checker for Quietbench would be the simplest tool in the suite — compute a ratio, compare it to a threshold, done. A few things surprised me enough to change how I think ab",
       "score": 5,
-      "titleZh": "我如何构建零摩擦浏览器游戏平台（零注册、零下载）"
+      "titleZh": "关于 WCAG，构建对比检查器让我学到了哪些我错误的知识"
     },
     {
-      "title": "How I Optimized My Portfolio Website: Fast Loading, SEO-Friendly, and Easy to Maintain published: true tags: webdev, portfolio, seo, performance",
-      "link": "https://dev.to/nayeem-miah/how-i-optimized-my-portfolio-website-fast-loading-seo-friendly-and-easy-to-maintain-published-1h0b",
+      "title": "How to Track MRR on Lemon Squeezy (Accurately) in 2026",
+      "link": "https://dev.to/devsnack/how-to-track-mrr-on-lemon-squeezy-accurately-in-2026-246",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:12:44 +0000",
-      "summary": "Your portfolio is often the first impression a recruiter, client, or fellow developer gets of you. If it loads slowly, ranks nowhere on Google, or is a pain to update, it's working against you instead",
+      "date": "Sun, 05 Jul 2026 02:29:47 +0000",
+      "summary": "Originally published on the Throughlines blog. Lemon Squeezy is a great place to start selling — it's a merchant of record, so tax and compliance are handled for you. But once subscriptions start roll",
       "score": 5,
-      "titleZh": "我如何优化我的投资组合网站：快速加载、SEO 友好且易于维护已发布：真实标签：webdev、投资组合、搜索引擎优化、性能"
+      "titleZh": "2026 年如何（准确）追踪 Lemon Squeezy 上的 MRR"
     },
     {
-      "title": "The Silent Sitemap Bug That Blocked Google From Indexing My Sites",
-      "link": "https://dev.to/gavinbuilds/the-silent-sitemap-bug-that-blocked-google-from-indexing-my-sites-3lhi",
+      "title": "Privacy Review for Magic-Link Email Flows",
+      "link": "https://dev.to/sophiax99/privacy-review-for-magic-link-email-flows-5ce3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:10:16 +0000",
-      "summary": "When I checked Google Search Console after a month, only 2 of my 8 sites were indexed. The other 6 had zero pages in Google's eyes. No penalty, no error banner. Just silence. My build script generated",
+      "date": "Sun, 05 Jul 2026 02:24:21 +0000",
+      "summary": "Magic-link sign-in can feel simpler than passwords, but the privacy review is often harder. The token travels through an inbox, mail client, browser, analytics stack, and finally your app session. If ",
       "score": 5,
-      "titleZh": "阻止 Google 为我的网站编制索引的无声站点地图错误"
+      "titleZh": "Magic-Link 电子邮件流的隐私审查"
     },
     {
-      "title": "Why Direct Plans Are Cheaper Than Regular Plans in Mutual Funds",
-      "link": "https://dev.to/chrisholroyd01/why-direct-plans-are-cheaper-than-regular-plans-in-mutual-funds-5hcb",
+      "title": "llms.txt in 2026: how to write one that actually scores",
+      "link": "https://dev.to/virt92/llmstxt-in-2026-how-to-write-one-that-actually-scores-72e",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:10:02 +0000",
-      "summary": "When investing in mutual funds, many investors come across two options—Direct Plans and Regular Plans. At first glance, both may seem identical because they invest in the same portfolio and are manage",
+      "date": "Sun, 05 Jul 2026 02:15:22 +0000",
+      "summary": "Every scanner in the AI-readiness space checks for llms.txt. Half the sites that fail the check fail it by having the wrong file, not a missing one. A 200 OK response with an llms.txt full of hand-wav",
       "score": 5,
-      "titleZh": "为什么共同基金的直接计划比普通计划便宜"
+      "titleZh": "2026 年的 llms.txt：如何编写一个真正能得分的文件"
     },
     {
-      "title": "Building a Sports Data Pipeline: Lessons from Mexico rampant at fortress Azteca and England could be next",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-mexico-rampant-at-fortress-azteca-and-england-could-inh",
+      "title": "Together AI's $800M Series C a…",
+      "link": "https://dev.to/norviktech/together-ais-800m-series-c-a-3in3",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 05 Jul 2026 02:05:52 +0000",
+      "summary": "Originally published at norvik.tech Explore the implications of Together AI's $800M Series C funding round, analyzing its impact on technology and development. The recent $800 million Series C funding",
+      "score": 5,
+      "titleZh": "Together AI 的 8 亿美元 C 轮融资……"
+    },
+    {
+      "title": "【2026】Datadog 代替の低価格監視SaaS：料金・移行コストで選ぶ",
+      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-datadog-dai-ti-nodi-jia-ge-jian-shi-saasliao-jin-yi-xing-kosutodexuan-bu-20mo",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 05 Jul 2026 02:03:43 +0000",
+      "summary": "結論（おすすめ1つ） Grafana Cloud に乗り換えるべき。 Prometheus/Loki/Tempoのエコシステムをそのまま使えるため、既存のインフラ資産を捨てずに済む。無料枠が実用範囲に収まっており、小〜中規模サービスならコストゼロで本番運用できる。エージェント互換性が高く、Datadogエージェントのドロップイン代替として機能するため移行コストが低い。 ツール 料金体系 無料枠 移",
+      "score": 5,
+      "titleZh": "【2026】Datadog代替の低価格监视SaaS：料金・移行コsutoで选ぶ"
+    },
+    {
+      "title": "n8n Question and Answer Chain Node: Build Retrieval-Augmented Workflows with Any Document [Free Workflow JSON]",
+      "link": "https://dev.to/pirateprentice/n8n-question-and-answer-chain-node-build-retrieval-augmented-workflows-with-any-document-free-3h0k",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:06:52 +0000",
-      "summary": "Building a Sports Data Pipeline: Lessons from Mexico rampant at fortress Azteca and England could be next TL;DR: Article written and saved to /root/mexico-azteca-fortress-england.html (~690 words). He",
+      "date": "Sun, 05 Jul 2026 01:28:15 +0000",
+      "summary": "The Question and Answer Chain node is n8n's built-in RAG (Retrieval-Augmented Generation) node. You connect it to a vector store, give it a user question, and it retrieves relevant document chunks, pa",
       "score": 5,
-      "titleZh": "建立体育数据管道：下一步可能是从墨西哥阿兹特克要塞和英格兰的经验教训"
+      "titleZh": "n8n 问答链节点：使用任何文档构建检索增强工作流程 [免费工作流程 JSON]"
     },
     {
-      "title": "Building a Sports Data Pipeline: Lessons from United, free and brilliant can anyone stop France masterclass?",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-united-free-and-brilliant-can-anyone-stop-france-46hk",
+      "title": "Drop-in travel widgets — add visa rules, budgets & passport scores to any page with one line",
+      "link": "https://dev.to/mathis_higuinen_6db9b244c/drop-in-travel-widgets-add-visa-rules-budgets-passport-scores-to-any-page-with-one-line-5eje",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 02 Jul 2026 03:06:38 +0000",
-      "summary": "Building a Sports Data Pipeline: Lessons from United, free and brilliant can anyone stop France masterclass? TL;DR: France arrived at the 2026 World Cup carrying the familiar weight of expectation. Th",
+      "date": "Sat, 04 Jul 2026 23:56:01 +0000",
+      "summary": "A suite of embeddable widgets that pull live visa requirements, travel budgets, passport scores and country comparisons — no API wiring, no keys, one script tag. With a built-in affiliate parameter so",
       "score": 5,
-      "titleZh": "建立体育数据管道：来自曼联的教训，自由而精彩，有人能阻止法国大师班吗？"
+      "titleZh": "插入式旅行小部件 — 只需一行即可将签证规则、预算和护照分数添加到任何页面"
     }
   ]
 }
