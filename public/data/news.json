@@ -1,93 +1,81 @@
 {
-  "updated": "2026-07-05T02:55:37.632Z",
-  "date": "2026-07-05",
+  "updated": "2026-07-06T13:43:29.969Z",
+  "date": "2026-07-06",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "link": "https://github.com/openai/codex/issues/30364",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 04 Jul 2026 21:51:09 +0000",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428",
-      "score": 162,
-      "titleZh": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降"
-    },
-    {
-      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/",
+      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-04T21:56:48.000Z",
-      "summary": "I spent the last few months building a new sparse fine-tuning method for MoE models called **USAF**. The goal was simple: if your GPU can run inference on an MoE model, it should also be able to fine-",
+      "date": "2026-07-06T11:57:00.000Z",
+      "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am h",
       "score": 40,
-      "titleZh": "如果您的 GPU 可以运行推理，它也应该能够进行微调。 [P]"
+      "titleZh": "机器学习行业的工作要求曾经是短视的，但现在感觉不可能。还有其他人看到这个吗？ [D]"
     },
     {
-      "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ungvxu/well_benchmark_an_open_weights_llm_on_any_gpu_you/",
+      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-04T18:51:07.000Z",
-      "summary": "We run HexGrid Cloud, a platform for deploying open-source models on GPUs, and we're heads-down optimizing our serving/deployment layer. To pressure-test it we're benchmarking real models under real c",
+      "date": "2026-07-05T21:49:16.000Z",
+      "summary": "Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while. Most red-teaming frameworks rely on an LLM to",
       "score": 40,
-      "titleZh": "我们将在您选择的任何 GPU 上对开放权重 LLM 进行基准测试 - 放弃您的模型 + 硬件，我们将运行它。 [D]"
+      "titleZh": "生成红队攻击的最佳模型？也在寻找公共数据集 [R]"
     },
     {
-      "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
+      "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo92vz/i_built_an_open_fromscratch_mt_pipeline_parallel/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-04T10:56:40.000Z",
-      "summary": "I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it go",
+      "date": "2026-07-05T18:08:49.000Z",
+      "summary": "I'm an 18-year-old independent student from Tunisia. I built and I'm leading an open, from-scratch machine-translation pipeline and parallel corpus for Tunisian Darija. Sharing it for feedback. Why: T",
       "score": 40,
-      "titleZh": "提案：使用语义压缩作为输入扩散来读取大于上下文窗口的会话 [R]"
+      "titleZh": "我为突尼斯 Darija (Arabizi) 早期基线构建了一个开放的、从头开始的 MT 管道 + 并行语料库，并将其发展为一个精心策划的社区语料库 [P]"
     },
     {
-      "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+      "title": "Is Intrinsic Motivation a Viable PhD Topic in 2026? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo5kg6/is_intrinsic_motivation_a_viable_phd_topic_in/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-04T08:24:42.000Z",
-      "summary": "Instead of node --edge--> node, every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get \"MetaBary\" triads that surface str",
+      "date": "2026-07-05T15:50:02.000Z",
+      "summary": "I started a PhD in CS about a year an a half ago. Generally speaking my topic is on intrinsic motivation (more commonly people refer to it as unsupervised RL). Intrinsic motivation (IM) is a niche fie",
       "score": 40,
-      "titleZh": "BaryGraph - 知识图，其中每个关系都是其自己的嵌入文档（而不是边缘）[R]"
+      "titleZh": "内在动机是 2026 年可行的博士课题吗？ [D]"
     },
     {
-      "title": "H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
+      "title": "Is machine learning research worth it for now? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-03T21:18:10.000Z",
-      "summary": "Hi everyone, I built H64LM, a research project to better understand modern LLMs by implementing one from scratch in PyTorch. Instead of relying on high-level training frameworks, I implemented the cor",
+      "date": "2026-07-05T11:58:49.000Z",
+      "summary": "I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up. Fro",
       "score": 40,
-      "titleZh": "H64LM：在 PyTorch 中从头开始构建的 249M 参数混合专家变压器 [P]"
+      "titleZh": "现在机器学习研究值得吗？ [D]"
     },
     {
-      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
+      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-03T19:01:48.000Z",
-      "summary": "We built a model diffing method that recovers verbatim content from narrowly finetuned LLMs using only grey-box logit access (no weights, no activations, no probe corpus). Recent work (Minder, Dumas e",
+      "date": "2026-07-05T04:54:28.000Z",
+      "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professor",
       "score": 40,
-      "titleZh": "对比解码 Diffing (CDD)：仅从 logits 恢复逐字微调数据，无需访问权重[R]"
+      "titleZh": "如果 DeepMind 或 Anthropic 正在做你的研究课题，你还会继续吗？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -114,136 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
-      "link": "https://ridgetext.com/blog/mapbox-llm-composition",
-      "source": "HN·AI",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Sat, 04 Jul 2026 23:25:53 +0000",
-      "summary": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986",
-      "score": 10,
-      "titleZh": "与内存层映射以减少 LLM 过载"
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "乐机器人v0.6.0：想象、评估、改进"
     },
     {
-      "title": "16 Days of Building in Public — What Actually Moves the Needle",
-      "link": "https://dev.to/leozhang8285/16-days-of-building-in-public-what-actually-moves-the-needle-hj1",
+      "title": "China’s AI companion rules: what Beijing is really going after",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 06 Jul 2026 11:00:00 +0000",
+      "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustai",
+      "score": 5,
+      "titleZh": "中国的人工智能伴侣规则：北京真正追求的是什么"
+    },
+    {
+      "title": "Your model returns a file. Production needs an asset.",
+      "link": "https://dev.to/cloudinary/your-model-returns-a-file-production-needs-an-asset-17ac",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 05 Jul 2026 02:38:38 +0000",
-      "summary": "Disclosure: I work on Opennomos. After 16 days of consistently posting on X/Twitter about my developer tools project, I have real data on what works and what doesn't for indie dev growth. Here's the u",
+      "date": "Mon, 06 Jul 2026 13:40:43 +0000",
+      "summary": "Your agent calls an AI image or video model (OpenAI, Google, Runway, fal) and, a few seconds later, gets back a URL or a blob of base64. Feels like the job is done. It isn't. That raw output will prob",
       "score": 5,
-      "titleZh": "16 天的公开建设 — 真正起到推动作用的是什么"
+      "titleZh": "您的模型返回一个文件。生产需要资产。"
     },
     {
-      "title": "The Online Interest Around Ella Mae: What You Need to Know",
-      "link": "https://dev.to/devblmember_085c86ca/the-online-interest-around-ella-mae-what-you-need-to-know-4g41",
+      "title": "hitclub1jjpnet",
+      "link": "https://dev.to/hitclub1jjpnet/hitclub1jjpnet-4bop",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 05 Jul 2026 02:33:42 +0000",
-      "summary": "→ Explore the full collection at hakuoki-ssl-stage.com The name \"Ella Mae\" has been generating growing interest across online platforms, with people searching for content related to this persona. Whet",
+      "date": "Mon, 06 Jul 2026 13:40:08 +0000",
+      "summary": "Tải hitclub là lựa chọn phù hợp cho những ai đang tìm kiếm một nền tảng giải trí trực tuyến có trải nghiệm hiện đại và dễ sử dụng. Ngay từ lần truy cập đầu tiên, người dùng có thể cảm nhận được sự tối",
       "score": 5,
-      "titleZh": "围绕 Ella Mae 的在线兴趣：您需要了解的内容"
+      "titleZh": "hitclub1jjpnet"
     },
     {
-      "title": "What building a contrast checker taught me about WCAG that I had wrong",
-      "link": "https://dev.to/aniket_saini_7/what-building-a-contrast-checker-taught-me-about-wcag-that-i-had-wrong-4947",
+      "title": "sentiment AI trading: Guía de trading IA",
+      "link": "https://dev.to/meridiantrade/sentiment-ai-trading-guia-de-trading-ia-349c",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 06 Jul 2026 13:39:23 +0000",
+      "summary": "sentiment AI trading: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/sentiment-analysis-trading/ — canonical URL for SEO. Guía sobre trading automatizado con IA. News a",
+      "score": 5,
+      "titleZh": "情绪人工智能交易：Guía de Trading IA"
+    },
+    {
+      "title": "sentiment AI trading: AI Trading Guide for 2026",
+      "link": "https://dev.to/meridiantrade/sentiment-ai-trading-ai-trading-guide-for-2026-136c",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 06 Jul 2026 13:39:22 +0000",
+      "summary": "sentiment AI trading: AI Trading Guide for 2026 Originally published at https://meridiantradeai.com/en/blog/sentiment-analysis-trading/ — canonical URL for SEO. News and sentiment NLP in trading: head",
+      "score": 5,
+      "titleZh": "情绪AI交易：2026年AI交易指南"
+    },
+    {
+      "title": "Top Platforms to Fast Track Your $550 Crypto Loan Application",
+      "link": "https://dev.to/yolanthe_nelson_3bd8824c9/top-platforms-to-fast-track-your-550-crypto-loan-application-1k5g",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 06 Jul 2026 13:25:51 +0000",
+      "summary": "A $550 crypto loan is one of the fastest ways to unlock liquidity without selling your Bitcoin or Ethereum. Instead of cashing out your assets, you use them as collateral and borrow stablecoins or fia",
+      "score": 5,
+      "titleZh": "快速跟踪 550 美元加密货币贷款申请的顶级平台"
+    },
+    {
+      "title": "Why Active Investors Choose an $800 Crypto Loan for Margin Needs",
+      "link": "https://dev.to/yolanthe_nelson_3bd8824c9/why-active-investors-choose-an-800-crypto-loan-for-margin-needs-6ln",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 05 Jul 2026 02:30:23 +0000",
-      "summary": "I assumed the WCAG contrast checker for Quietbench would be the simplest tool in the suite — compute a ratio, compare it to a threshold, done. A few things surprised me enough to change how I think ab",
+      "date": "Mon, 06 Jul 2026 13:24:56 +0000",
+      "summary": "A $600 Bitcoin backed loan is one of the fastest ways for active traders to unlock instant trading capital without selling their BTC. Instead of liquidating your Bitcoin holdings, you use them as coll",
       "score": 5,
-      "titleZh": "关于 WCAG，构建对比检查器让我学到了哪些我错误的知识"
+      "titleZh": "为什么活跃投资者选择 800 美元的加密货币贷款来满足保证金需求"
     },
     {
-      "title": "How to Track MRR on Lemon Squeezy (Accurately) in 2026",
-      "link": "https://dev.to/devsnack/how-to-track-mrr-on-lemon-squeezy-accurately-in-2026-246",
+      "title": "How to Find Which Plugin Is Slowing WordPress",
+      "link": "https://dev.to/wpmultitool/how-to-find-which-plugin-is-slowing-wordpress-80l",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 05 Jul 2026 02:29:47 +0000",
-      "summary": "Originally published on the Throughlines blog. Lemon Squeezy is a great place to start selling — it's a merchant of record, so tax and compliance are handled for you. But once subscriptions start roll",
+      "date": "Mon, 06 Jul 2026 13:24:44 +0000",
+      "summary": "Your site got slow. You installed a caching plugin. It didn't help. That's usually because the problem isn't the front end. It's a plugin running expensive code on every request, before the cache even",
       "score": 5,
-      "titleZh": "2026 年如何（准确）追踪 Lemon Squeezy 上的 MRR"
+      "titleZh": "如何查找哪个插件正在减慢 WordPress"
     },
     {
-      "title": "Privacy Review for Magic-Link Email Flows",
-      "link": "https://dev.to/sophiax99/privacy-review-for-magic-link-email-flows-5ce3",
+      "title": "What Service-as-Software Means for Engineering Teams: A Technical Primer",
+      "link": "https://dev.to/xcceleraai/what-service-as-software-means-for-engineering-teams-a-technical-primer-3865",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 05 Jul 2026 02:24:21 +0000",
-      "summary": "Magic-link sign-in can feel simpler than passwords, but the privacy review is often harder. The token travels through an inbox, mail client, browser, analytics stack, and finally your app session. If ",
+      "date": "Mon, 06 Jul 2026 13:23:37 +0000",
+      "summary": "Engineering organizations run on subscriptions, seats, and tickets, yet none of these were built for systems that act on their own. Service-as-Software replaces the per-seat SaaS model with software t",
       "score": 5,
-      "titleZh": "Magic-Link 电子邮件流的隐私审查"
+      "titleZh": "服务即软件对工程团队意味着什么：技术入门"
     },
     {
-      "title": "llms.txt in 2026: how to write one that actually scores",
-      "link": "https://dev.to/virt92/llmstxt-in-2026-how-to-write-one-that-actually-scores-72e",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 05 Jul 2026 02:15:22 +0000",
-      "summary": "Every scanner in the AI-readiness space checks for llms.txt. Half the sites that fail the check fail it by having the wrong file, not a missing one. A 200 OK response with an llms.txt full of hand-wav",
-      "score": 5,
-      "titleZh": "2026 年的 llms.txt：如何编写一个真正能得分的文件"
-    },
-    {
-      "title": "Together AI's $800M Series C a…",
-      "link": "https://dev.to/norviktech/together-ais-800m-series-c-a-3in3",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 05 Jul 2026 02:05:52 +0000",
-      "summary": "Originally published at norvik.tech Explore the implications of Together AI's $800M Series C funding round, analyzing its impact on technology and development. The recent $800 million Series C funding",
-      "score": 5,
-      "titleZh": "Together AI 的 8 亿美元 C 轮融资……"
-    },
-    {
-      "title": "【2026】Datadog 代替の低価格監視SaaS：料金・移行コストで選ぶ",
-      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-datadog-dai-ti-nodi-jia-ge-jian-shi-saasliao-jin-yi-xing-kosutodexuan-bu-20mo",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 05 Jul 2026 02:03:43 +0000",
-      "summary": "結論（おすすめ1つ） Grafana Cloud に乗り換えるべき。 Prometheus/Loki/Tempoのエコシステムをそのまま使えるため、既存のインフラ資産を捨てずに済む。無料枠が実用範囲に収まっており、小〜中規模サービスならコストゼロで本番運用できる。エージェント互換性が高く、Datadogエージェントのドロップイン代替として機能するため移行コストが低い。 ツール 料金体系 無料枠 移",
-      "score": 5,
-      "titleZh": "【2026】Datadog代替の低価格监视SaaS：料金・移行コsutoで选ぶ"
-    },
-    {
-      "title": "n8n Question and Answer Chain Node: Build Retrieval-Augmented Workflows with Any Document [Free Workflow JSON]",
-      "link": "https://dev.to/pirateprentice/n8n-question-and-answer-chain-node-build-retrieval-augmented-workflows-with-any-document-free-3h0k",
+      "title": "Playing HLS through Managed Media Source on iPhone with hls.js",
+      "link": "https://dev.to/masonwritescode/playing-hls-through-managed-media-source-on-iphone-with-hlsjs-3cn8",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 05 Jul 2026 01:28:15 +0000",
-      "summary": "The Question and Answer Chain node is n8n's built-in RAG (Retrieval-Augmented Generation) node. You connect it to a vector store, give it a user question, and it retrieves relevant document chunks, pa",
+      "date": "Mon, 06 Jul 2026 13:21:27 +0000",
+      "summary": "TL;DR iPhone Safari never supported Media Source Extensions, so JS-driven players fell back to native HLS. Since iOS 17.1, Apple ships Managed Media Source (MMS), an MSE variant where the browser cont",
       "score": 5,
-      "titleZh": "n8n 问答链节点：使用任何文档构建检索增强工作流程 [免费工作流程 JSON]"
+      "titleZh": "使用 hls.js 在 iPhone 上通过托管媒体源播放 HLS"
     },
     {
-      "title": "Drop-in travel widgets — add visa rules, budgets & passport scores to any page with one line",
-      "link": "https://dev.to/mathis_higuinen_6db9b244c/drop-in-travel-widgets-add-visa-rules-budgets-passport-scores-to-any-page-with-one-line-5eje",
+      "title": "JavaScript Operators",
+      "link": "https://dev.to/muthukumarasamy_thangavel/javascript-operators-11in",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 04 Jul 2026 23:56:01 +0000",
-      "summary": "A suite of embeddable widgets that pull live visa requirements, travel budgets, passport scores and country comparisons — no API wiring, no keys, one script tag. With a built-in affiliate parameter so",
+      "date": "Mon, 06 Jul 2026 13:21:18 +0000",
+      "summary": "Today we have discuss the operators and also some example task Different types of Operators Arithmetic operators: Assignment Operator: = In javascript any number add into the string, the number is aut",
       "score": 5,
-      "titleZh": "插入式旅行小部件 — 只需一行即可将签证规则、预算和护照分数添加到任何页面"
+      "titleZh": "JavaScript 运算符"
     }
   ]
 }
