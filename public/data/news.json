@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-06T13:43:29.969Z",
-  "date": "2026-07-06",
+  "updated": "2026-07-07T02:55:33.089Z",
+  "date": "2026-07-07",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 06 Jul 2026 15:01:18 +0000",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624",
+      "score": 284,
+      "titleZh": "AMD Ryzen AI Halo – 4000 美元 AI 开发套件"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 06 Jul 2026 20:14:55 +0000",
+      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877",
+      "score": 198,
+      "titleZh": "GLM 5.2 和即将到来的人工智能利润率崩溃"
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 06 Jul 2026 16:47:44 +0000",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225",
+      "score": 132,
+      "titleZh": "OfficeCLI：供 AI 代理读取和编辑 Microsoft Office 文件的 Office 套件"
+    },
+    {
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 06 Jul 2026 21:09:23 +0000",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533",
+      "score": 59,
+      "titleZh": "人工智能：投资回报率跑道可能在科技行业之外很长"
+    },
+    {
+      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-06T21:07:37.000Z",
+      "summary": "I am preprocessing a CSV dataset for multiclass classification with XGBoost. My Feature variable contain numerical and categorical values, while the target variable contain many categorical value. For",
+      "score": 40,
+      "titleZh": "我应该如何对多类分类的目标变量和特征变量进行编码？ [D]"
+    },
+    {
+      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-06T17:37:58.000Z",
+      "summary": "The idea: instead of masking random patches and hoping boundary structure emerges, the teacher predicts a dense boundary field online and the boundary-bearing tokens are forced into the student's mask",
+      "score": 40,
+      "titleZh": "LingBot-Vision：用于自监督预训练的掩模边界建模（1.1B 时 NYUv2 线性探针 RMSE 为 0.296，DINOv3-7B 为 0.309，ImageNet 上的轨迹）； 4种尺寸的配重[R]"
+    },
+    {
+      "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-06T17:10:57.000Z",
+      "summary": "Body: submitted by /u/Unlikely_Let_9147 [link] [comments]",
+      "score": 40,
+      "titleZh": "Raspberry Pi 5 上的 Edge AI ASL 识别 – 寻找对我的系统设计的反馈 [P]"
+    },
+    {
+      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-06T15:17:36.000Z",
+      "summary": "Sharing a CPU TTS benchmark with objective MOS scores in case it's useful for anyone evaluating small TTS models. Adding this because Kyutai's Pocket TTS is architecturally different from the others i",
+      "score": 40,
+      "titleZh": "CPU TTS 基准测试与 UTMOS MOS 评分：Kokoro、Supertonic、Inflect-Nano 和 Kyutai 的新 Pocket TTS [P]"
+    },
+    {
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-06T14:35:56.000Z",
+      "summary": "Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), sp",
+      "score": 40,
+      "titleZh": "TRACE：LLM 代理的开源分层内存，使用 gpt-oss-20B 在 MemoryAgentBench 的 EventQA 上达到 82.5% [P]"
+    },
     {
       "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
@@ -18,232 +126,124 @@
       "titleZh": "机器学习行业的工作要求曾经是短视的，但现在感觉不可能。还有其他人看到这个吗？ [D]"
     },
     {
-      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-05T21:49:16.000Z",
-      "summary": "Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while. Most red-teaming frameworks rely on an LLM to",
-      "score": 40,
-      "titleZh": "生成红队攻击的最佳模型？也在寻找公共数据集 [R]"
-    },
-    {
-      "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo92vz/i_built_an_open_fromscratch_mt_pipeline_parallel/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-05T18:08:49.000Z",
-      "summary": "I'm an 18-year-old independent student from Tunisia. I built and I'm leading an open, from-scratch machine-translation pipeline and parallel corpus for Tunisian Darija. Sharing it for feedback. Why: T",
-      "score": 40,
-      "titleZh": "我为突尼斯 Darija (Arabizi) 早期基线构建了一个开放的、从头开始的 MT 管道 + 并行语料库，并将其发展为一个精心策划的社区语料库 [P]"
-    },
-    {
-      "title": "Is Intrinsic Motivation a Viable PhD Topic in 2026? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo5kg6/is_intrinsic_motivation_a_viable_phd_topic_in/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-05T15:50:02.000Z",
-      "summary": "I started a PhD in CS about a year an a half ago. Generally speaking my topic is on intrinsic motivation (more commonly people refer to it as unsupervised RL). Intrinsic motivation (IM) is a niche fie",
-      "score": 40,
-      "titleZh": "内在动机是 2026 年可行的博士课题吗？ [D]"
-    },
-    {
-      "title": "Is machine learning research worth it for now? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-05T11:58:49.000Z",
-      "summary": "I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up. Fro",
-      "score": 40,
-      "titleZh": "现在机器学习研究值得吗？ [D]"
-    },
-    {
-      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-05T04:54:28.000Z",
-      "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professor",
-      "score": 40,
-      "titleZh": "如果 DeepMind 或 Anthropic 正在做你的研究课题，你还会继续吗？ [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-02T02:15:27.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] 自我推销主题"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "link": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "乐机器人v0.6.0：想象、评估、改进"
-    },
-    {
-      "title": "China’s AI companion rules: what Beijing is really going after",
-      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 06 Jul 2026 11:00:00 +0000",
-      "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustai",
-      "score": 5,
-      "titleZh": "中国的人工智能伴侣规则：北京真正追求的是什么"
-    },
-    {
-      "title": "Your model returns a file. Production needs an asset.",
-      "link": "https://dev.to/cloudinary/your-model-returns-a-file-production-needs-an-asset-17ac",
+      "title": "Press Release Distribution India &#8211; Business Wire India",
+      "link": "https://dev.to/sam_raisinghani_b6dec128c/press-release-distribution-india-8211-business-wire-india-2dkf",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 06 Jul 2026 13:40:43 +0000",
-      "summary": "Your agent calls an AI image or video model (OpenAI, Google, Runway, fal) and, a few seconds later, gets back a URL or a blob of base64. Feels like the job is done. It isn't. That raw output will prob",
+      "date": "Tue, 07 Jul 2026 02:48:52 +0000",
+      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Press Release Distribution India - Business Wire India for founders, operators, and technol",
       "score": 5,
-      "titleZh": "您的模型返回一个文件。生产需要资产。"
+      "titleZh": "印度新闻稿发布 – 美国商业资讯"
     },
     {
-      "title": "hitclub1jjpnet",
-      "link": "https://dev.to/hitclub1jjpnet/hitclub1jjpnet-4bop",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 06 Jul 2026 13:40:08 +0000",
-      "summary": "Tải hitclub là lựa chọn phù hợp cho những ai đang tìm kiếm một nền tảng giải trí trực tuyến có trải nghiệm hiện đại và dễ sử dụng. Ngay từ lần truy cập đầu tiên, người dùng có thể cảm nhận được sự tối",
-      "score": 5,
-      "titleZh": "hitclub1jjpnet"
-    },
-    {
-      "title": "sentiment AI trading: Guía de trading IA",
-      "link": "https://dev.to/meridiantrade/sentiment-ai-trading-guia-de-trading-ia-349c",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 06 Jul 2026 13:39:23 +0000",
-      "summary": "sentiment AI trading: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/sentiment-analysis-trading/ — canonical URL for SEO. Guía sobre trading automatizado con IA. News a",
-      "score": 5,
-      "titleZh": "情绪人工智能交易：Guía de Trading IA"
-    },
-    {
-      "title": "sentiment AI trading: AI Trading Guide for 2026",
-      "link": "https://dev.to/meridiantrade/sentiment-ai-trading-ai-trading-guide-for-2026-136c",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 06 Jul 2026 13:39:22 +0000",
-      "summary": "sentiment AI trading: AI Trading Guide for 2026 Originally published at https://meridiantradeai.com/en/blog/sentiment-analysis-trading/ — canonical URL for SEO. News and sentiment NLP in trading: head",
-      "score": 5,
-      "titleZh": "情绪AI交易：2026年AI交易指南"
-    },
-    {
-      "title": "Top Platforms to Fast Track Your $550 Crypto Loan Application",
-      "link": "https://dev.to/yolanthe_nelson_3bd8824c9/top-platforms-to-fast-track-your-550-crypto-loan-application-1k5g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 06 Jul 2026 13:25:51 +0000",
-      "summary": "A $550 crypto loan is one of the fastest ways to unlock liquidity without selling your Bitcoin or Ethereum. Instead of cashing out your assets, you use them as collateral and borrow stablecoins or fia",
-      "score": 5,
-      "titleZh": "快速跟踪 550 美元加密货币贷款申请的顶级平台"
-    },
-    {
-      "title": "Why Active Investors Choose an $800 Crypto Loan for Margin Needs",
-      "link": "https://dev.to/yolanthe_nelson_3bd8824c9/why-active-investors-choose-an-800-crypto-loan-for-margin-needs-6ln",
+      "title": "Creating My First React Project with Vite: Understanding Every Command",
+      "link": "https://dev.to/dev_sravanthi/creating-my-first-react-project-with-vite-understanding-every-command-26bf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 06 Jul 2026 13:24:56 +0000",
-      "summary": "A $600 Bitcoin backed loan is one of the fastest ways for active traders to unlock instant trading capital without selling their BTC. Instead of liquidating your Bitcoin holdings, you use them as coll",
+      "date": "Tue, 07 Jul 2026 02:47:04 +0000",
+      "summary": "Introduction When I started learning React, almost every tutorial began with a few commands: npm create vite@latest npm install npm run dev I followed along, but I realized something: I didn't actuall",
       "score": 5,
-      "titleZh": "为什么活跃投资者选择 800 美元的加密货币贷款来满足保证金需求"
+      "titleZh": "使用 Vite 创建我的第一个 React 项目：理解每个命令"
     },
     {
-      "title": "How to Find Which Plugin Is Slowing WordPress",
-      "link": "https://dev.to/wpmultitool/how-to-find-which-plugin-is-slowing-wordpress-80l",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 06 Jul 2026 13:24:44 +0000",
-      "summary": "Your site got slow. You installed a caching plugin. It didn't help. That's usually because the problem isn't the front end. It's a plugin running expensive code on every request, before the cache even",
-      "score": 5,
-      "titleZh": "如何查找哪个插件正在减慢 WordPress"
-    },
-    {
-      "title": "What Service-as-Software Means for Engineering Teams: A Technical Primer",
-      "link": "https://dev.to/xcceleraai/what-service-as-software-means-for-engineering-teams-a-technical-primer-3865",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 06 Jul 2026 13:23:37 +0000",
-      "summary": "Engineering organizations run on subscriptions, seats, and tickets, yet none of these were built for systems that act on their own. Service-as-Software replaces the per-seat SaaS model with software t",
-      "score": 5,
-      "titleZh": "服务即软件对工程团队意味着什么：技术入门"
-    },
-    {
-      "title": "Playing HLS through Managed Media Source on iPhone with hls.js",
-      "link": "https://dev.to/masonwritescode/playing-hls-through-managed-media-source-on-iphone-with-hlsjs-3cn8",
+      "title": "Math Functions in Js",
+      "link": "https://dev.to/vigneshwaran_v/math-functions-in-js-2gcc",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 06 Jul 2026 13:21:27 +0000",
-      "summary": "TL;DR iPhone Safari never supported Media Source Extensions, so JS-driven players fell back to native HLS. Since iOS 17.1, Apple ships Managed Media Source (MMS), an MSE variant where the browser cont",
+      "date": "Tue, 07 Jul 2026 02:45:47 +0000",
+      "summary": "In JavaScript, mathematical functions are provided as static methods on the built-in Math object. Because it is a static namespace rather than a constructor, you call these functions directly as Math.",
       "score": 5,
-      "titleZh": "使用 hls.js 在 iPhone 上通过托管媒体源播放 HLS"
+      "titleZh": "Js 中的数学函数"
     },
     {
-      "title": "JavaScript Operators",
-      "link": "https://dev.to/muthukumarasamy_thangavel/javascript-operators-11in",
+      "title": "**Stop Losing $100,000 a Year: How AI Automation Can Immediately Boost Your School’s Productivity**",
+      "link": "https://dev.to/dgmh10uk/stop-losing-100000-a-year-how-ai-automation-can-immediately-boost-your-schools-productivity-3c0n",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 06 Jul 2026 13:21:18 +0000",
-      "summary": "Today we have discuss the operators and also some example task Different types of Operators Arithmetic operators: Assignment Operator: = In javascript any number add into the string, the number is aut",
+      "date": "Tue, 07 Jul 2026 02:44:35 +0000",
+      "summary": "Let’s be blunt. American schools are drowning in paperwork. Teachers are spending 30-40% of their time on non-instructional tasks – grading, administrative duties, data entry – instead of focusing on ",
       "score": 5,
-      "titleZh": "JavaScript 运算符"
+      "titleZh": "**停止每年损失 100,000 美元：人工智能自动化如何立即提高学校的生产力**"
+    },
+    {
+      "title": "My 30-Day AI API Experiment: Startup Speed vs Enterprise Compliance",
+      "link": "https://dev.to/loyaldash/my-30-day-ai-api-experiment-startup-speed-vs-enterprise-compliance-1ck0",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 07 Jul 2026 02:35:11 +0000",
+      "summary": "Here's the thing: my 30-Day AI API Experiment: Startup Speed vs Enterprise Compliance I ran two parallel builds last month — one for a friend's pre-seed startup, another for a mid-cap client's interna",
+      "score": 5,
+      "titleZh": "我的 30 天 AI API 实验：启动速度与企业合规性"
+    },
+    {
+      "title": "Why AI-First Software Companies Are Becoming the Backbone of Modern Business",
+      "link": "https://dev.to/surajit_das_c9631b0386d15/why-ai-first-software-companies-are-becoming-the-backbone-of-modern-business-39pa",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 07 Jul 2026 02:30:18 +0000",
+      "summary": "One company embracing this shift is Lokosoft - Software Company. With expertise spanning AI integration, custom software development, mobile applications, web platforms, cloud implementation, business",
+      "score": 5,
+      "titleZh": "为什么人工智能优先的软件公司正在成为现代商业的支柱"
+    },
+    {
+      "title": "Build Vite và HMR trên Apple M4 vs Snapdragon X Elite có nhanh?",
+      "link": "https://dev.to/hungphatlaptop/build-vite-va-hmr-tren-apple-m4-vs-snapdragon-x-elite-co-nhanh-10o1",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 07 Jul 2026 02:30:16 +0000",
+      "summary": "Bài viết là bản tóm tắt kỹ thuật. Xem bài gốc chi tiết tại TechnologySpot. Với các frontend developer thường xuyên đi công tác, việc lựa chọn laptop mỏng nhẹ chạy chip ARM như Apple M4 hay Snapdragon ",
+      "score": 5,
+      "titleZh": "Apple M4 与 Snapdragon X Elite 的 Vite 和 HMR 对比如何？"
+    },
+    {
+      "title": "Exploring the Koenig Course on Spring MVC: A Comprehensive Guide",
+      "link": "https://dev.to/koenig_solutions/exploring-the-koenig-course-on-spring-mvc-a-comprehensive-guide-4k76",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 07 Jul 2026 02:30:14 +0000",
+      "summary": "Introduction The demand for web applications has surged, leading to a need for frameworks that can efficiently handle complex business logic. Spring MVC (Model-View-Controller) is one such framework w",
+      "score": 5,
+      "titleZh": "探索 Koenig 的 Spring MVC 课程：综合指南"
+    },
+    {
+      "title": "Building High-Performance E-Commerce Product Pages: A Developer's Guide",
+      "link": "https://dev.to/z_p_14a197931d3be5e3b954f/building-high-performance-e-commerce-product-pages-a-developers-guide-2fbm",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 07 Jul 2026 02:28:07 +0000",
+      "summary": "The Challenge of E-Commerce Performance As developers building e-commerce platforms, we often inherit one critical mandate: products must convert. But conversion doesn't happen in isolation—it's deepl",
+      "score": 5,
+      "titleZh": "构建高性能电子商务产品页面：开发人员指南"
+    },
+    {
+      "title": "Building High-Performance E-Commerce Stores for Niche Markets: A Developer's Guide to Tactical Gear Sites",
+      "link": "https://dev.to/alexis_vitre_cd2e187da346/building-high-performance-e-commerce-stores-for-niche-markets-a-developers-guide-to-tactical-gear-4l62",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 07 Jul 2026 02:26:45 +0000",
+      "summary": "The Niche E-Commerce Challenge Niche e-commerce stores—like those selling tactical gear—operate in a unique space. Your customers are passionate, knowledgeable, and demand quality. They're also willin",
+      "score": 5,
+      "titleZh": "为利基市场构建高性能电子商务商店：战术装备网站开发人员指南"
     }
   ]
 }
