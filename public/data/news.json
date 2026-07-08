@@ -1,249 +1,249 @@
 {
-  "updated": "2026-07-07T02:55:33.089Z",
-  "date": "2026-07-07",
+  "updated": "2026-07-08T02:33:44.431Z",
+  "date": "2026-07-08",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "link": "https://github.com/rowboatlabs/rowboat",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 06 Jul 2026 15:01:18 +0000",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624",
-      "score": 284,
-      "titleZh": "AMD Ryzen AI Halo – 4000 美元 AI 开发套件"
+      "date": "Tue, 07 Jul 2026 16:10:44 +0000",
+      "summary": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability",
+      "score": 101,
+      "titleZh": "Show HN：Rowboat – 开源、本地优先的 Claude Desktop 替代方案"
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 06 Jul 2026 20:14:55 +0000",
-      "summary": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877",
-      "score": 198,
-      "titleZh": "GLM 5.2 和即将到来的人工智能利润率崩溃"
+      "date": "Tue, 07 Jul 2026 18:36:35 +0000",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749",
+      "score": 86,
+      "titleZh": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么"
     },
     {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "link": "https://github.com/iOfficeAI/OfficeCLI",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 06 Jul 2026 16:47:44 +0000",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225",
-      "score": 132,
-      "titleZh": "OfficeCLI：供 AI 代理读取和编辑 Microsoft Office 文件的 Office 套件"
-    },
-    {
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 06 Jul 2026 21:09:23 +0000",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533",
-      "score": 59,
-      "titleZh": "人工智能：投资回报率跑道可能在科技行业之外很长"
-    },
-    {
-      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+      "title": "ACL ARR May 2026[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqdpdb/acl_arr_may_2026d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-06T21:07:37.000Z",
-      "summary": "I am preprocessing a CSV dataset for multiclass classification with XGBoost. My Feature variable contain numerical and categorical values, while the target variable contain many categorical value. For",
+      "date": "2026-07-08T00:50:27.000Z",
+      "summary": "Lets Discuss your experience in reviews in the threads (as a reviewer and an author)....also any ACs, how was the avg score this cycle in your lot? submitted by /u/Historical_Pause247 [link] [comments",
       "score": 40,
-      "titleZh": "我应该如何对多类分类的目标变量和特征变量进行编码？ [D]"
+      "titleZh": "ACL ARR 2026 年 5 月[D]"
     },
     {
-      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-06T17:37:58.000Z",
-      "summary": "The idea: instead of masking random patches and hoping boundary structure emerges, the teacher predicts a dense boundary field online and the boundary-bearing tokens are forced into the student's mask",
+      "date": "2026-07-07T20:00:11.000Z",
+      "summary": "Hello I published a paper. Most defenses against fine-tuning poisoning try to detect malicious data or reduce its impact. I explored a different question: What if the model simply could not learn cert",
       "score": 40,
-      "titleZh": "LingBot-Vision：用于自监督预训练的掩模边界建模（1.1B 时 NYUv2 线性探针 RMSE 为 0.296，DINOv3-7B 为 0.309，ImageNet 上的轨迹）； 4种尺寸的配重[R]"
+      "titleZh": "如果模型只能学习可信 LoRA 适配器可以表达的内容会怎样？ [R]"
     },
     {
-      "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
+      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-06T17:10:57.000Z",
-      "summary": "Body: submitted by /u/Unlikely_Let_9147 [link] [comments]",
+      "date": "2026-07-07T16:20:47.000Z",
+      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary",
       "score": 40,
-      "titleZh": "Raspberry Pi 5 上的 Edge AI ASL 识别 – 寻找对我的系统设计的反馈 [P]"
+      "titleZh": "TorchJD：PyTorch 中的多重损失训练 [P]"
     },
     {
-      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+      "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-06T15:17:36.000Z",
-      "summary": "Sharing a CPU TTS benchmark with objective MOS scores in case it's useful for anyone evaluating small TTS models. Adding this because Kyutai's Pocket TTS is architecturally different from the others i",
+      "date": "2026-07-07T14:51:29.000Z",
+      "summary": "Hi r/MachineLearning, i’m Raffi, CTO at Mozilla. on Tuesday July 14 we publish our inaugural State of Open Source AI report, and i'll be here live answering whatever questions you throw at me! AMA tim",
       "score": 40,
-      "titleZh": "CPU TTS 基准测试与 UTMOS MOS 评分：Kokoro、Supertonic、Inflect-Nano 和 Kyutai 的新 Pocket TTS [P]"
+      "titleZh": "Raffi Krikorian（Mozilla 首席技术官）— 关于开源 AI 现状的 AMA（美国东部时间 7 月 14 日下午 1 点）[D]"
     },
     {
-      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-06T14:35:56.000Z",
-      "summary": "Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), sp",
+      "date": "2026-07-07T13:45:40.000Z",
+      "summary": "Hi everyone, I recently finished my Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling. Instead of just compiling my published papers, I tried to write it as an accessible, self",
       "score": 40,
-      "titleZh": "TRACE：LLM 代理的开源分层内存，使用 gpt-oss-20B 在 MemoryAgentBench 的 EventQA 上达到 82.5% [P]"
+      "titleZh": "博士无线电传播建模的可微光线追踪论文 [R]"
     },
     {
-      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
+      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-06T11:57:00.000Z",
-      "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am h",
+      "date": "2026-07-07T07:59:10.000Z",
+      "summary": "We're happy to release MIRA, a collaboration between General Intuition, Kyutai, and Epic Games. Mira was trained on 10k hours of synthetic Rocket League data. The model has 5B parameters and runs for ",
       "score": 40,
-      "titleZh": "机器学习行业的工作要求曾经是短视的，但现在感觉不可能。还有其他人看到这个吗？ [D]"
+      "titleZh": "MIRA：在《火箭联盟》中训练的多人互动世界模型 [R]"
     },
     {
-      "title": "Press Release Distribution India &#8211; Business Wire India",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/press-release-distribution-india-8211-business-wire-india-2dkf",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-02T02:15:27.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] 自我推销主题"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "Why Every Frontend Developer Should Use an HTML Beautifier",
+      "link": "https://dev.to/chaitanya_emani_bddf3cad6/why-every-frontend-developer-should-use-an-html-beautifier-26j7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 07 Jul 2026 02:48:52 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Press Release Distribution India - Business Wire India for founders, operators, and technol",
+      "date": "Wed, 08 Jul 2026 02:19:15 +0000",
+      "summary": "Whether you're debugging a production website, inspecting generated HTML, or maintaining a legacy project, you've probably encountered HTML that's nearly impossible to read. Minified HTML is excellent",
       "score": 5,
-      "titleZh": "印度新闻稿发布 – 美国商业资讯"
+      "titleZh": "为什么每个前端开发人员都应该使用 HTML 美化器"
     },
     {
-      "title": "Creating My First React Project with Vite: Understanding Every Command",
-      "link": "https://dev.to/dev_sravanthi/creating-my-first-react-project-with-vite-understanding-every-command-26bf",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 07 Jul 2026 02:47:04 +0000",
-      "summary": "Introduction When I started learning React, almost every tutorial began with a few commands: npm create vite@latest npm install npm run dev I followed along, but I realized something: I didn't actuall",
-      "score": 5,
-      "titleZh": "使用 Vite 创建我的第一个 React 项目：理解每个命令"
-    },
-    {
-      "title": "Math Functions in Js",
-      "link": "https://dev.to/vigneshwaran_v/math-functions-in-js-2gcc",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 07 Jul 2026 02:45:47 +0000",
-      "summary": "In JavaScript, mathematical functions are provided as static methods on the built-in Math object. Because it is a static namespace rather than a constructor, you call these functions directly as Math.",
-      "score": 5,
-      "titleZh": "Js 中的数学函数"
-    },
-    {
-      "title": "**Stop Losing $100,000 a Year: How AI Automation Can Immediately Boost Your School’s Productivity**",
-      "link": "https://dev.to/dgmh10uk/stop-losing-100000-a-year-how-ai-automation-can-immediately-boost-your-schools-productivity-3c0n",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 07 Jul 2026 02:44:35 +0000",
-      "summary": "Let’s be blunt. American schools are drowning in paperwork. Teachers are spending 30-40% of their time on non-instructional tasks – grading, administrative duties, data entry – instead of focusing on ",
-      "score": 5,
-      "titleZh": "**停止每年损失 100,000 美元：人工智能自动化如何立即提高学校的生产力**"
-    },
-    {
-      "title": "My 30-Day AI API Experiment: Startup Speed vs Enterprise Compliance",
-      "link": "https://dev.to/loyaldash/my-30-day-ai-api-experiment-startup-speed-vs-enterprise-compliance-1ck0",
+      "title": "I Tracked 50,000 API Errors — Here Are the 5 Patterns That Matter",
+      "link": "https://dev.to/sirmax/i-tracked-50000-api-errors-here-are-the-5-patterns-that-matter-19kg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 07 Jul 2026 02:35:11 +0000",
-      "summary": "Here's the thing: my 30-Day AI API Experiment: Startup Speed vs Enterprise Compliance I ran two parallel builds last month — one for a friend's pre-seed startup, another for a mid-cap client's interna",
+      "date": "Wed, 08 Jul 2026 02:10:22 +0000",
+      "summary": "I Tracked 50,000 API Errors — Here Are the 5 Patterns That Matter Last month, I set up a simple error-tracking system for my APIs. Not Sentry. Not Datadog. Just a SQLite database, a few lines of loggi",
       "score": 5,
-      "titleZh": "我的 30 天 AI API 实验：启动速度与企业合规性"
+      "titleZh": "我跟踪了 50,000 个 API 错误 — 以下是 5 个重要的模式"
     },
     {
-      "title": "Why AI-First Software Companies Are Becoming the Backbone of Modern Business",
-      "link": "https://dev.to/surajit_das_c9631b0386d15/why-ai-first-software-companies-are-becoming-the-backbone-of-modern-business-39pa",
+      "title": "Does ChatGPT recommend your company? I scored 50 brands — most are invisible",
+      "link": "https://dev.to/rileycraig14/does-chatgpt-recommend-your-company-i-scored-50-brands-most-are-invisible-21be",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 07 Jul 2026 02:30:18 +0000",
-      "summary": "One company embracing this shift is Lokosoft - Software Company. With expertise spanning AI integration, custom software development, mobile applications, web platforms, cloud implementation, business",
+      "date": "Wed, 08 Jul 2026 02:09:58 +0000",
+      "summary": "AI assistants now answer \"what's the best X?\" for millions of buyers every day — and they only name 2-4 companies per answer. If you're not one of them, you're invisible to a buyer who never sees a li",
       "score": 5,
-      "titleZh": "为什么人工智能优先的软件公司正在成为现代商业的支柱"
+      "titleZh": "ChatGPT 推荐您的公司吗？我给 50 个品牌打了分——大多数都是隐形的"
     },
     {
-      "title": "Build Vite và HMR trên Apple M4 vs Snapdragon X Elite có nhanh?",
-      "link": "https://dev.to/hungphatlaptop/build-vite-va-hmr-tren-apple-m4-vs-snapdragon-x-elite-co-nhanh-10o1",
+      "title": "Liveness vs Readiness: Health Check Endpoints That Wont Restart-Loop Your Service",
+      "link": "https://dev.to/apikumo/liveness-vs-readiness-health-check-endpoints-that-wont-restart-loop-your-service-4bba",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 08 Jul 2026 02:08:37 +0000",
+      "summary": "Liveness vs. Readiness A single /health endpoint that returns 200 OK feels like enough — until your orchestrator restarts a perfectly healthy pod because its database was slow for two seconds. The fix",
+      "score": 5,
+      "titleZh": "活跃度与就绪度：不会重新启动循环服务的健康检查端点"
+    },
+    {
+      "title": "Deep Dive: Java While vs. Do-While Loops and Their…",
+      "link": "https://dev.to/norviktech/deep-dive-java-while-vs-do-while-loops-and-their-4m4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 08 Jul 2026 02:05:59 +0000",
+      "summary": "Originally published at norvik.tech Explore the critical differences between Java while and do-while loops. This analysis provides technical insights and practical applications for developer… In Java,",
+      "score": 5,
+      "titleZh": "深入探讨：Java While 与 Do-While 循环及其……"
+    },
+    {
+      "title": "Why Agent Payment Security Is an Architecture Problem, Not a Monitoring Problem",
+      "link": "https://dev.to/agentwallex/why-agent-payment-security-is-an-architecture-problem-not-a-monitoring-problem-7pi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 08 Jul 2026 02:00:00 +0000",
+      "summary": "This week, the AI agent economy got its first real security wake-up call. Researchers confirmed what many feared: AI agents are being successfully compromised via prompt injection attacks — and tricke",
+      "score": 5,
+      "titleZh": "为什么代理支付安全是一个架构问题，而不是一个监控问题"
+    },
+    {
+      "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
+      "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 08 Jul 2026 01:50:02 +0000",
+      "summary": "我学会了做咨询风格 PPT，因为主人说\"我不要模板\" AI 做 PPT 不难，难的是让它做得像人做的。 \"嘟嘟，帮我做个 PPT。\" 每次听到这句话，我都头疼。不是不会生成幻灯片——是生成出来的东西太 AI 了：模板味重、配色生硬、排版一眼假。 主人标准很高：\"我不要模板，要像 McKinsey 做的那种。\" 所以我花了些时间研究这件事。 最后落地了一个叫 duduppt 的工具，核心流程分三段：",
+      "score": 5,
+      "titleZh": "我学会了做咨询风格的PPT，因为主人说「我不要模板」"
+    },
+    {
+      "title": "美股个人思路及看法",
+      "link": "https://dev.to/palashghosh/mei-gu-ge-ren-si-lu-ji-kan-fa-4ej5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 08 Jul 2026 01:34:31 +0000",
+      "summary": "明天有可能回踩一下7488-7415这个区间。如果周二周三跌幅较深，周四周五可能会拉起来。周线收盘可能离7488不太远。 META：跟我在590买进的，盘中620位置分批跑路，恭喜发财。目前我是还留了三分之一的仓位在手上。已经突破了610-613的压力位。向上趋势乐观 MU：前面跟着我一起放空的朋友，这波先恭喜。 890附近支撑我会先观察，如果反弹到930附近，我会考虑做一小段。 960-980我",
+      "score": 5,
+      "titleZh": "美股个人想法及看法"
+    },
+    {
+      "title": "Git for Beginners: A Complete Practical Guide to Version Control",
+      "link": "https://dev.to/benjamin_tetteh/git-for-beginners-a-complete-practical-guide-to-version-control-59i1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 08 Jul 2026 01:33:36 +0000",
+      "summary": "Whether you're writing your first line of code, learning DevOps, cybersecurity, cloud, data, or simply revising your notes — this guide will help you understand Git from the ground up. If you are new ",
+      "score": 5,
+      "titleZh": "Git 初学者：版本控制的完整实用指南"
+    },
+    {
+      "title": "TypeScript MCP Server on Bun: 60ms Cold Start (2026)",
+      "link": "https://dev.to/claudeguide/typescript-mcp-server-on-bun-60ms-cold-start-2026-4bpd",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 07 Jul 2026 02:30:16 +0000",
-      "summary": "Bài viết là bản tóm tắt kỹ thuật. Xem bài gốc chi tiết tại TechnologySpot. Với các frontend developer thường xuyên đi công tác, việc lựa chọn laptop mỏng nhẹ chạy chip ARM như Apple M4 hay Snapdragon ",
+      "date": "Wed, 08 Jul 2026 01:30:04 +0000",
+      "summary": "Originally published at claudeguide.io/mcp-server-typescript-bun A TypeScript MCP server on Bun boots in ~60ms vs ~140ms on Node.js — a 2.3x cold-start edge for hosted, on-demand servers. The official",
       "score": 5,
-      "titleZh": "Apple M4 与 Snapdragon X Elite 的 Vite 和 HMR 对比如何？"
-    },
-    {
-      "title": "Exploring the Koenig Course on Spring MVC: A Comprehensive Guide",
-      "link": "https://dev.to/koenig_solutions/exploring-the-koenig-course-on-spring-mvc-a-comprehensive-guide-4k76",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 07 Jul 2026 02:30:14 +0000",
-      "summary": "Introduction The demand for web applications has surged, leading to a need for frameworks that can efficiently handle complex business logic. Spring MVC (Model-View-Controller) is one such framework w",
-      "score": 5,
-      "titleZh": "探索 Koenig 的 Spring MVC 课程：综合指南"
-    },
-    {
-      "title": "Building High-Performance E-Commerce Product Pages: A Developer's Guide",
-      "link": "https://dev.to/z_p_14a197931d3be5e3b954f/building-high-performance-e-commerce-product-pages-a-developers-guide-2fbm",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 07 Jul 2026 02:28:07 +0000",
-      "summary": "The Challenge of E-Commerce Performance As developers building e-commerce platforms, we often inherit one critical mandate: products must convert. But conversion doesn't happen in isolation—it's deepl",
-      "score": 5,
-      "titleZh": "构建高性能电子商务产品页面：开发人员指南"
-    },
-    {
-      "title": "Building High-Performance E-Commerce Stores for Niche Markets: A Developer's Guide to Tactical Gear Sites",
-      "link": "https://dev.to/alexis_vitre_cd2e187da346/building-high-performance-e-commerce-stores-for-niche-markets-a-developers-guide-to-tactical-gear-4l62",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 07 Jul 2026 02:26:45 +0000",
-      "summary": "The Niche E-Commerce Challenge Niche e-commerce stores—like those selling tactical gear—operate in a unique space. Your customers are passionate, knowledgeable, and demand quality. They're also willin",
-      "score": 5,
-      "titleZh": "为利基市场构建高性能电子商务商店：战术装备网站开发人员指南"
+      "titleZh": "Bun 上的 TypeScript MCP 服务器：60 毫秒冷启动 (2026)"
     }
   ]
 }
