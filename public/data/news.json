@@ -1,33 +1,57 @@
 {
-  "updated": "2026-07-08T02:33:44.431Z",
-  "date": "2026-07-08",
+  "updated": "2026-07-09T12:36:42.432Z",
+  "date": "2026-07-09",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "link": "https://github.com/rowboatlabs/rowboat",
-      "source": "HN·AI",
+      "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 07 Jul 2026 16:10:44 +0000",
-      "summary": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability",
-      "score": 101,
-      "titleZh": "Show HN：Rowboat – 开源、本地优先的 Claude Desktop 替代方案"
+      "date": "2026-07-08T17:58:32.000Z",
+      "summary": "Single-stream diffusion transformer with a DeepSeek-V3-style sparse MoE (128 experts, top-8 routing, 1.4B active of 13B total). Six-reward RL post-training including a physical-plausibility reward, pl",
+      "score": 40,
+      "titleZh": "LingBot-Video：稀疏MoE视频扩散变压器（总共13B，1.4B活动）后训练为动作条件世界模型[R]"
     },
     {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "source": "HN·AI",
+      "title": "First time ARR users - some questions [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 07 Jul 2026 18:36:35 +0000",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749",
-      "score": 86,
-      "titleZh": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么"
+      "date": "2026-07-08T16:06:41.000Z",
+      "summary": "We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 for confidence 3 for s",
+      "score": 40,
+      "titleZh": "首次使用 ARR 用户 - 一些问题 [D]"
+    },
+    {
+      "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-08T13:51:19.000Z",
+      "summary": "Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my small dataset (175 ",
+      "score": 40,
+      "titleZh": "DINOv2 在 k-NN 中比 SigLIP 差得多。这是预期的吗？ [R]"
+    },
+    {
+      "title": "COLM 2026 Decision Discussion [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqr2ev/colm_2026_decision_discussion_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-08T12:20:24.000Z",
+      "summary": "COLM 2026 Decision about to come soon so lets talk here. submitted by /u/North_Menu718 [link] [comments]",
+      "score": 40,
+      "titleZh": "COLM 2026决策讨论[R]"
     },
     {
       "title": "ACL ARR May 2026[D]",
@@ -37,21 +61,9 @@
         "AI"
       ],
       "date": "2026-07-08T00:50:27.000Z",
-      "summary": "Lets Discuss your experience in reviews in the threads (as a reviewer and an author)....also any ACs, how was the avg score this cycle in your lot? submitted by /u/Historical_Pause247 [link] [comments",
+      "summary": "Reviews are released. Lets discuss scores here. submitted by /u/Historical_Pause247 [link] [comments]",
       "score": 40,
       "titleZh": "ACL ARR 2026 年 5 月[D]"
-    },
-    {
-      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-07T20:00:11.000Z",
-      "summary": "Hello I published a paper. Most defenses against fine-tuning poisoning try to detect malicious data or reduce its impact. I explored a different question: What if the model simply could not learn cert",
-      "score": 40,
-      "titleZh": "如果模型只能学习可信 LoRA 适配器可以表达的内容会怎样？ [R]"
     },
     {
       "title": "TorchJD: Training with multiple losses in PyTorch [P]",
@@ -66,42 +78,6 @@
       "titleZh": "TorchJD：PyTorch 中的多重损失训练 [P]"
     },
     {
-      "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-07T14:51:29.000Z",
-      "summary": "Hi r/MachineLearning, i’m Raffi, CTO at Mozilla. on Tuesday July 14 we publish our inaugural State of Open Source AI report, and i'll be here live answering whatever questions you throw at me! AMA tim",
-      "score": 40,
-      "titleZh": "Raffi Krikorian（Mozilla 首席技术官）— 关于开源 AI 现状的 AMA（美国东部时间 7 月 14 日下午 1 点）[D]"
-    },
-    {
-      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-07T13:45:40.000Z",
-      "summary": "Hi everyone, I recently finished my Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling. Instead of just compiling my published papers, I tried to write it as an accessible, self",
-      "score": 40,
-      "titleZh": "博士无线电传播建模的可微光线追踪论文 [R]"
-    },
-    {
-      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-07T07:59:10.000Z",
-      "summary": "We're happy to release MIRA, a collaboration between General Intuition, Kyutai, and Epic Games. Mira was trained on 10k hours of synthetic Rocket League data. The model has 5B parameters and runs for ",
-      "score": 40,
-      "titleZh": "MIRA：在《火箭联盟》中训练的多人互动世界模型 [R]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -111,7 +87,7 @@
       "date": "2026-07-02T02:15:27.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] 自我推销帖子"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -126,124 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Why Every Frontend Developer Should Use an HTML Beautifier",
-      "link": "https://dev.to/chaitanya_emani_bddf3cad6/why-every-frontend-developer-should-use-an-html-beautifier-26j7",
-      "source": "Dev.to WebDev",
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "link": "https://arxiv.org/abs/2607.06624",
+      "source": "ArXiv AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 08 Jul 2026 02:19:15 +0000",
-      "summary": "Whether you're debugging a production website, inspecting generated HTML, or maintaining a legacy project, you've probably encountered HTML that's nearly impossible to read. Minified HTML is excellent",
+      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the ta",
       "score": 5,
-      "titleZh": "为什么每个前端开发人员都应该使用 HTML 美化器"
+      "titleZh": "AgentLens：用于编码代理评估的生产评估轨迹审查"
     },
     {
-      "title": "I Tracked 50,000 API Errors — Here Are the 5 Patterns That Matter",
-      "link": "https://dev.to/sirmax/i-tracked-50000-api-errors-here-are-the-5-patterns-that-matter-19kg",
-      "source": "Dev.to WebDev",
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "link": "https://arxiv.org/abs/2607.06720",
+      "source": "ArXiv AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 08 Jul 2026 02:10:22 +0000",
-      "summary": "I Tracked 50,000 API Errors — Here Are the 5 Patterns That Matter Last month, I set up a simple error-tracking system for my APIs. Not Sentry. Not Datadog. Just a SQLite database, a few lines of loggi",
+      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise ",
       "score": 5,
-      "titleZh": "我跟踪了 50,000 个 API 错误 — 以下是 5 个重要的模式"
+      "titleZh": "上下文搜索何时有帮助？反射驱动推理的采样复杂性理论"
     },
     {
-      "title": "Does ChatGPT recommend your company? I scored 50 brands — most are invisible",
-      "link": "https://dev.to/rileycraig14/does-chatgpt-recommend-your-company-i-scored-50-brands-most-are-invisible-21be",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 08 Jul 2026 02:09:58 +0000",
-      "summary": "AI assistants now answer \"what's the best X?\" for millions of buyers every day — and they only name 2-4 companies per answer. If you're not one of them, you're invisible to a buyer who never sees a li",
-      "score": 5,
-      "titleZh": "ChatGPT 推荐您的公司吗？我给 50 个品牌打了分——大多数都是隐形的"
-    },
-    {
-      "title": "Liveness vs Readiness: Health Check Endpoints That Wont Restart-Loop Your Service",
-      "link": "https://dev.to/apikumo/liveness-vs-readiness-health-check-endpoints-that-wont-restart-loop-your-service-4bba",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 08 Jul 2026 02:08:37 +0000",
-      "summary": "Liveness vs. Readiness A single /health endpoint that returns 200 OK feels like enough — until your orchestrator restarts a perfectly healthy pod because its database was slow for two seconds. The fix",
-      "score": 5,
-      "titleZh": "活跃度与就绪度：不会重新启动循环服务的健康检查端点"
-    },
-    {
-      "title": "Deep Dive: Java While vs. Do-While Loops and Their…",
-      "link": "https://dev.to/norviktech/deep-dive-java-while-vs-do-while-loops-and-their-4m4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 08 Jul 2026 02:05:59 +0000",
-      "summary": "Originally published at norvik.tech Explore the critical differences between Java while and do-while loops. This analysis provides technical insights and practical applications for developer… In Java,",
-      "score": 5,
-      "titleZh": "深入探讨：Java While 与 Do-While 循环及其……"
-    },
-    {
-      "title": "Why Agent Payment Security Is an Architecture Problem, Not a Monitoring Problem",
-      "link": "https://dev.to/agentwallex/why-agent-payment-security-is-an-architecture-problem-not-a-monitoring-problem-7pi",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 08 Jul 2026 02:00:00 +0000",
-      "summary": "This week, the AI agent economy got its first real security wake-up call. Researchers confirmed what many feared: AI agents are being successfully compromised via prompt injection attacks — and tricke",
-      "score": 5,
-      "titleZh": "为什么代理支付安全是一个架构问题，而不是一个监控问题"
-    },
-    {
-      "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
-      "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
+      "title": "Day 109 of Learning MERN Stack",
+      "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-109-of-learning-mern-stack-k91",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 08 Jul 2026 01:50:02 +0000",
-      "summary": "我学会了做咨询风格 PPT，因为主人说\"我不要模板\" AI 做 PPT 不难，难的是让它做得像人做的。 \"嘟嘟，帮我做个 PPT。\" 每次听到这句话，我都头疼。不是不会生成幻灯片——是生成出来的东西太 AI 了：模板味重、配色生硬、排版一眼假。 主人标准很高：\"我不要模板，要像 McKinsey 做的那种。\" 所以我花了些时间研究这件事。 最后落地了一个叫 duduppt 的工具，核心流程分三段：",
+      "date": "Thu, 09 Jul 2026 12:27:41 +0000",
+      "summary": "Hello Dev Community! 👋 It is officially Day 109 of my software engineering marathon! After spending weeks building complex game loops and rendering performance modules in pure Vanilla JavaScript, tod",
       "score": 5,
-      "titleZh": "我学会了做咨询风格的PPT，因为主人说「我不要模板」"
+      "titleZh": "学习 MERN Stack 的第 109 天"
     },
     {
-      "title": "美股个人思路及看法",
-      "link": "https://dev.to/palashghosh/mei-gu-ge-ren-si-lu-ji-kan-fa-4ej5",
+      "title": "HTTP QUERY: Why POST /search Always Felt Slightly Off",
+      "link": "https://dev.to/arasovic/http-query-why-post-search-always-felt-slightly-off-4e13",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 08 Jul 2026 01:34:31 +0000",
-      "summary": "明天有可能回踩一下7488-7415这个区间。如果周二周三跌幅较深，周四周五可能会拉起来。周线收盘可能离7488不太远。 META：跟我在590买进的，盘中620位置分批跑路，恭喜发财。目前我是还留了三分之一的仓位在手上。已经突破了610-613的压力位。向上趋势乐观 MU：前面跟着我一起放空的朋友，这波先恭喜。 890附近支撑我会先观察，如果反弹到930附近，我会考虑做一小段。 960-980我",
+      "date": "Thu, 09 Jul 2026 12:25:02 +0000",
+      "summary": "Turkish version: Medium When GET gets cramped and POST feels too heavy, QUERY fills the gap. What's in here: POST /search worked, but something felt off The old triangle: GET, GET with body, POST What",
       "score": 5,
-      "titleZh": "美股个人想法及看法"
+      "titleZh": "HTTP 查询：为什么 POST /search 总是感觉有点不对劲"
     },
     {
-      "title": "Git for Beginners: A Complete Practical Guide to Version Control",
-      "link": "https://dev.to/benjamin_tetteh/git-for-beginners-a-complete-practical-guide-to-version-control-59i1",
+      "title": "What Makes an AI Social App for Neurodivergent Adults Successful",
+      "link": "https://dev.to/ideausherr/what-makes-an-ai-social-app-for-neurodivergent-adults-successful-gib",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 08 Jul 2026 01:33:36 +0000",
-      "summary": "Whether you're writing your first line of code, learning DevOps, cybersecurity, cloud, data, or simply revising your notes — this guide will help you understand Git from the ground up. If you are new ",
+      "date": "Thu, 09 Jul 2026 12:24:52 +0000",
+      "summary": "As digital communities continue to grow, social networking platforms are becoming an important way for people to connect, share experiences, and build meaningful relationships. However, many tradition",
       "score": 5,
-      "titleZh": "Git 初学者：版本控制的完整实用指南"
+      "titleZh": "是什么让面向神经分歧成人的人工智能社交应用取得成功"
     },
     {
-      "title": "TypeScript MCP Server on Bun: 60ms Cold Start (2026)",
-      "link": "https://dev.to/claudeguide/typescript-mcp-server-on-bun-60ms-cold-start-2026-4bpd",
-      "source": "Dev.to TS",
+      "title": "How Much Does Internet Cost? I Cut My Bill in Half: Here's How",
+      "link": "https://dev.to/sidra-jefferi/how-much-does-internet-cost-i-cut-my-bill-in-half-heres-how-2bab",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 08 Jul 2026 01:30:04 +0000",
-      "summary": "Originally published at claudeguide.io/mcp-server-typescript-bun A TypeScript MCP server on Bun boots in ~60ms vs ~140ms on Node.js — a 2.3x cold-start edge for hosted, on-demand servers. The official",
+      "date": "Thu, 09 Jul 2026 12:24:25 +0000",
+      "summary": "I used to open my internet bill just like I quickly open a letter from the dentist, feeling a bit anxious. Every few months, the amount went up by a few dollars, my speed stayed the same, and I never ",
       "score": 5,
-      "titleZh": "Bun 上的 TypeScript MCP 服务器：60 毫秒冷启动 (2026)"
+      "titleZh": "互联网费用是多少？我把账单减半：方法如下"
+    },
+    {
+      "title": "CHAOS HEAD CHAOS CHILD Love Chu Chu DOUBLE PACK JPN XCI Full Game 2026",
+      "link": "https://dev.to/maholo/chaos-head-chaos-child-love-chu-chu-double-pack-jpn-xci-full-game-2026-2nm5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 09 Jul 2026 12:22:30 +0000",
+      "summary": "CHAOS HEAD CHAOS CHILD Love Chu Chu DOUBLE PACK JPN XCI Full Game 2026 CHAOS;HEAD NOAH & CHAOS;CHILD Love Chu☆Chu!! DOUBLE PACK brings together four acclaimed visual novels in one collection, offering",
+      "score": 5,
+      "titleZh": "CHAOS HEAD CHAOS CHILD 爱楚楚 双包 JPN XCI 完整游戏 2026"
+    },
+    {
+      "title": "How to Hire AI Developers Who Actually Ship in Production",
+      "link": "https://dev.to/matthewtr/how-to-hire-ai-developers-who-actually-ship-in-production-36dg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 09 Jul 2026 12:21:24 +0000",
+      "summary": "Quick answer: To hire AI developers who ship production code, screen for systems they have actually deployed (not demos), test how they debug and evaluate models, ask how they handle failure and data ",
+      "score": 5,
+      "titleZh": "如何聘请真正投入生产的人工智能开发人员"
+    },
+    {
+      "title": "Beyond Average Timelines: How Jump Plots Reveal Hidden Patterns in Process Journeys and Time-Based Analytics",
+      "link": "https://dev.to/perceptive_analytics_f780/beyond-average-timelines-how-jump-plots-reveal-hidden-patterns-in-process-journeys-and-time-based-ae7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 09 Jul 2026 12:20:23 +0000",
+      "summary": "Introduction: Why Average Time Metrics Are Not Enough Sales teams analyze how quickly leads convert. Operations teams track project completion timelines. Customer service teams monitor resolution time",
+      "score": 5,
+      "titleZh": "超越平均时间线：跳跃图如何揭示流程旅程和基于时间的分析中的隐藏模式"
+    },
+    {
+      "title": "How to Build a Classified Marketplace Like OLX Without Burning Your Runway",
+      "link": "https://dev.to/viktoriaholikova/how-to-build-a-classified-marketplace-like-olx-without-burning-your-runway-7lc",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 09 Jul 2026 12:19:52 +0000",
+      "summary": "Every few months, a founder decides they will build \"the next OLX.\" Most never launch. The ones who do usually run out of money before they find out whether anyone wanted the product in the first plac",
+      "score": 5,
+      "titleZh": "如何在不烧毁跑道的情况下建立像 OLX 这样的分类市场"
+    },
+    {
+      "title": "Why you shouldn't pay $10/mo for a Broken Link Checker (So I built a free one) published: true",
+      "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/why-you-shouldnt-pay-10mo-for-a-broken-link-checker-so-i-built-a-free-onepublished-true-3ji8",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 09 Jul 2026 12:07:04 +0000",
+      "summary": "If you manage a website, blog, or a web app, you already know the drill: Dead links are a nightmare. From an SEO perspective, a 404 error tells Google’s crawler that your site is poorly maintained. It",
+      "score": 5,
+      "titleZh": "为什么你不应该为损坏的链接检查器支付 10 美元/月（所以我构建了一个免费的）已发布：true"
+    },
+    {
+      "title": "Stop Describing Buttons in Words: Spec-Grade Prompts for AI Coding Tools",
+      "link": "https://dev.to/_73dd564d48683cfda47df/stop-describing-buttons-in-words-spec-grade-prompts-for-ai-coding-tools-28cg",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 09 Jul 2026 12:00:36 +0000",
+      "summary": "AI coding tools don't have a taste problem. They have a spec problem. Ask Claude Code for \"a clean, modern button\" and you get a coin flip. Give it exact values (radius, padding, per-state colors, tra",
+      "score": 5,
+      "titleZh": "停止用文字描述按钮：AI 编码工具的规格级提示"
     }
   ]
 }
