@@ -1,81 +1,117 @@
 {
-  "updated": "2026-07-09T12:36:42.432Z",
-  "date": "2026-07-09",
+  "updated": "2026-07-13T07:13:00.763Z",
+  "date": "2026-07-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
-      "source": "Reddit ML",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-08T17:58:32.000Z",
-      "summary": "Single-stream diffusion transformer with a DeepSeek-V3-style sparse MoE (128 experts, top-8 routing, 1.4B active of 13B total). Six-reward RL post-training including a physical-plausibility reward, pl",
-      "score": 40,
-      "titleZh": "LingBot-Video：稀疏MoE视频扩散变压器（总共13B，1.4B活动）后训练为动作条件世界模型[R]"
+      "date": "Sun, 12 Jul 2026 18:25:51 +0000",
+      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quic",
+      "score": 547,
+      "titleZh": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k"
     },
     {
-      "title": "First time ARR users - some questions [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
-      "source": "Reddit ML",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "link": "https://news.ycombinator.com/item?id=48886741",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-08T16:06:41.000Z",
-      "summary": "We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 for confidence 3 for s",
-      "score": 40,
-      "titleZh": "首次使用 ARR 用户 - 一些问题 [D]"
+      "date": "Mon, 13 Jul 2026 01:24:20 +0000",
+      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like",
+      "score": 493,
+      "titleZh": "询问 HN：为 AI 生成的文章添加标记"
     },
     {
-      "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
-      "source": "Reddit ML",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-08T13:51:19.000Z",
-      "summary": "Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my small dataset (175 ",
-      "score": 40,
-      "titleZh": "DINOv2 在 k-NN 中比 SigLIP 差得多。这是预期的吗？ [R]"
+      "date": "Sun, 12 Jul 2026 17:13:07 +0000",
+      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716",
+      "score": 191,
+      "titleZh": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27%"
     },
     {
-      "title": "COLM 2026 Decision Discussion [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqr2ev/colm_2026_decision_discussion_r/",
+      "title": "What non-university ML certificates are industry standard or highly regarded? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv35xz/what_nonuniversity_ml_certificates_are_industry/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-08T12:20:24.000Z",
-      "summary": "COLM 2026 Decision about to come soon so lets talk here. submitted by /u/North_Menu718 [link] [comments]",
+      "date": "2026-07-13T06:07:05.000Z",
+      "summary": "I'm considering which certificates are worth the time and money to support my own ML software firm and strengthen my credentials. There is a sea of suggestions online coming from a range of sources th",
       "score": 40,
-      "titleZh": "COLM 2026决策讨论[R]"
+      "titleZh": "哪些非大学机器学习证书是行业标准或备受推崇的？ [D]"
     },
     {
-      "title": "ACL ARR May 2026[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uqdpdb/acl_arr_may_2026d/",
+      "title": "[ECCV 2026] Meaning of \"Authorized Delegate\" & Registration Advice [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv31uj/eccv_2026_meaning_of_authorized_delegate/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-08T00:50:27.000Z",
-      "summary": "Reviews are released. Lets discuss scores here. submitted by /u/Historical_Pause247 [link] [comments]",
+      "date": "2026-07-13T06:00:50.000Z",
+      "summary": "Hi everyone,Our paper was recently provisionally accepted to ECCV 2026! However, our team is facing an issue regarding attendance and the ECCV 2026 Submission Policies. The official guidelines state: ",
       "score": 40,
-      "titleZh": "ACL ARR 2026 年 5 月[D]"
+      "titleZh": "[ECCV 2026] “授权代表”的含义及注册建议 [D]"
     },
     {
-      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+      "title": "Prompt-engineering paper accepted to ICML [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-07T16:20:47.000Z",
-      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary",
+      "date": "2026-07-13T05:00:07.000Z",
+      "summary": "\"Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity\" This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: \"changing the prompt t",
       "score": 40,
-      "titleZh": "TorchJD：PyTorch 中的多重损失训练 [P]"
+      "titleZh": "即时工程论文被 ICML 接受 [R]"
+    },
+    {
+      "title": "Look for a team to join ML/AI competition [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv0crm/look_for_a_team_to_join_mlai_competition_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-13T03:39:04.000Z",
+      "summary": "Hi folks, I am looking for research group or individuals that are interested in joining this competition. We can form a team. https://aiboost-project.eu/ai-challenge-competition/ submitted by /u/Tony-",
+      "score": 40,
+      "titleZh": "寻找团队参加ML/AI竞赛 [D]"
+    },
+    {
+      "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-12T17:58:18.000Z",
+      "summary": "I hold a Ph.D. in Operations Research, along with a BSc/MSc in Engineering and OR. I previously worked in Big Tech, but I’m currently looking to transition. My primary goal is to upgrade my technical ",
+      "score": 40,
+      "titleZh": "博士运筹学/大型科技工程博士：如何过渡到高价值行业（机器人、国防、金融）的中级/高级机器学习？ [D]"
+    },
+    {
+      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-12T12:32:29.000Z",
+      "summary": "TL:DR: I’m a grad student in AI, I saw that Google released TabFM and TimesFM last week, I built an MCP wrapper to serve both transformer models in a single Docker container so you can connect their n",
+      "score": 40,
+      "titleZh": "Zer0Fit：我采用了 Google 的新 TabFM 和 TimesFM ML 基础模型，并将它们用作 MCP 服务器，用于零样本 ML 任务（预测/分类/回归）。 100%本地化。 [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -90,160 +126,124 @@
       "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "Why Vanilla JavaScript",
+      "link": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-07-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+      "date": "Sun, 12 Jul 2026 22:53:51 +0000",
+      "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html Comments URL: https://news.ycombinator.com/item?id=48885705",
+      "score": 130,
+      "titleZh": "为什么选择 Vanilla JavaScript"
     },
     {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "link": "https://arxiv.org/abs/2607.06624",
-      "source": "ArXiv AI",
+      "title": "Converting colors in JavaScript at 6B operations per second",
+      "link": "https://dkryaklin.com/blog/colordx-gpu",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the ta",
+      "date": "Thu, 09 Jul 2026 12:04:36 +0000",
+      "summary": "Article URL: https://dkryaklin.com/blog/colordx-gpu Comments URL: https://news.ycombinator.com/item?id=48844554",
+      "score": 14,
+      "titleZh": "在 JavaScript 中以每秒 6B 次的速度转换颜色"
+    },
+    {
+      "title": "llms-pay.md: a discovery layer for AI shopping agents",
+      "link": "https://dev.to/virt92/llms-paymd-a-discovery-layer-for-ai-shopping-agents-1mfa",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 07:09:19 +0000",
+      "summary": "TL;DR. AI shopping agents can read your marketing page just fine. What they cannot do is buy. There is no standard way for an agent to discover your products, pick a plan, and hit the right checkout e",
       "score": 5,
-      "titleZh": "AgentLens：用于编码代理评估的生产评估轨迹审查"
+      "titleZh": "llms-pay.md：人工智能购物代理的发现层"
     },
     {
-      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-      "link": "https://arxiv.org/abs/2607.06720",
-      "source": "ArXiv AI",
+      "title": "Agentic AI Training in Hyderabad | Agentic AI Training",
+      "link": "https://dev.to/hari_krishna_17497813413d/agentic-ai-training-in-hyderabad-agentic-ai-training-2c3a",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "summary": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise ",
+      "date": "Mon, 13 Jul 2026 07:09:10 +0000",
+      "summary": "Will Agentic AI Completely Redefine Modern DevSecOps? FAQs Visualpath is a leading software and online training institute in Hyderabad, offering Contact Call / WhatsApp: +91-7032290546 https://www.vis",
       "score": 5,
-      "titleZh": "上下文搜索何时有帮助？反射驱动推理的采样复杂性理论"
+      "titleZh": "海得拉巴的 Agentic AI 培训 |代理人工智能培训"
     },
     {
-      "title": "Day 109 of Learning MERN Stack",
-      "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-109-of-learning-mern-stack-k91",
+      "title": "What the heck is React Fiber anyway?",
+      "link": "https://dev.to/b45i/what-the-heck-is-react-fiber-anyway-5fg1",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 09 Jul 2026 12:27:41 +0000",
-      "summary": "Hello Dev Community! 👋 It is officially Day 109 of my software engineering marathon! After spending weeks building complex game loops and rendering performance modules in pure Vanilla JavaScript, tod",
+      "date": "Mon, 13 Jul 2026 07:08:49 +0000",
+      "summary": "Like many developers of my era, I got into programming by building web pages. By 2015 those simple pages had grown into bit more complex web apps, and that is when JavaScript started fighting back. Ca",
       "score": 5,
-      "titleZh": "学习 MERN Stack 的第 109 天"
+      "titleZh": "反应纤维到底是什么？"
     },
     {
-      "title": "HTTP QUERY: Why POST /search Always Felt Slightly Off",
-      "link": "https://dev.to/arasovic/http-query-why-post-search-always-felt-slightly-off-4e13",
+      "title": "Cursor Just Became Part of SpaceX — Here's What Developers Should Actually Watch For",
+      "link": "https://dev.to/gunasantosh/cursor-just-became-part-of-spacex-heres-what-developers-should-actually-watch-for-5c85",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 09 Jul 2026 12:25:02 +0000",
-      "summary": "Turkish version: Medium When GET gets cramped and POST feels too heavy, QUERY fills the gap. What's in here: POST /search worked, but something felt off The old triangle: GET, GET with body, POST What",
+      "date": "Mon, 13 Jul 2026 07:08:24 +0000",
+      "summary": "Cursor's parent company, Anysphere, is being absorbed into SpaceX in a $60 billion all-stock deal, expected to close later this year. Most of the coverage so far has been financial — IPO timing, share",
       "score": 5,
-      "titleZh": "HTTP 查询：为什么 POST /search 总是感觉有点不对劲"
+      "titleZh": "Cursor 刚刚成为 SpaceX 的一部分——这是开发者真正应该关注的"
     },
     {
-      "title": "What Makes an AI Social App for Neurodivergent Adults Successful",
-      "link": "https://dev.to/ideausherr/what-makes-an-ai-social-app-for-neurodivergent-adults-successful-gib",
+      "title": "Why Every Business Needs a B2B Debt Collection Agency in 2026",
+      "link": "https://dev.to/baadshahrecovery/why-every-business-needs-a-b2b-debt-collection-agency-in-2026-ni1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 09 Jul 2026 12:24:52 +0000",
-      "summary": "As digital communities continue to grow, social networking platforms are becoming an important way for people to connect, share experiences, and build meaningful relationships. However, many tradition",
+      "date": "Mon, 13 Jul 2026 07:07:03 +0000",
+      "summary": "As we move through 2026, more businesses are partnering with professional B2B debt collection agency to improve cash flow, reduce financial risk, and focus on core operations. A specialized collection",
       "score": 5,
-      "titleZh": "是什么让面向神经分歧成人的人工智能社交应用取得成功"
+      "titleZh": "为什么 2026 年每个企业都需要 B2B 收债机构"
     },
     {
-      "title": "How Much Does Internet Cost? I Cut My Bill in Half: Here's How",
-      "link": "https://dev.to/sidra-jefferi/how-much-does-internet-cost-i-cut-my-bill-in-half-heres-how-2bab",
+      "title": "Why Chat Alone Won't Cut It for Multi-Agent Orchestration",
+      "link": "https://dev.to/mininglamp/why-chat-alone-wont-cut-it-for-multi-agent-orchestration-4cek",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 09 Jul 2026 12:24:25 +0000",
-      "summary": "I used to open my internet bill just like I quickly open a letter from the dentist, feeling a bit anxious. Every few months, the amount went up by a few dollars, my speed stayed the same, and I never ",
+      "date": "Mon, 13 Jul 2026 07:05:55 +0000",
+      "summary": "Everybody's talking about multi-agent systems these days. Open any demo and you'll see a chat window with multiple bots going back and forth, and that's supposed to pass for collaboration. It's not. C",
       "score": 5,
-      "titleZh": "互联网费用是多少？我把账单减半：方法如下"
+      "titleZh": "为什么单独聊天无法满足多代理编排的需要"
     },
     {
-      "title": "CHAOS HEAD CHAOS CHILD Love Chu Chu DOUBLE PACK JPN XCI Full Game 2026",
-      "link": "https://dev.to/maholo/chaos-head-chaos-child-love-chu-chu-double-pack-jpn-xci-full-game-2026-2nm5",
+      "title": "Apple vs. OpenAI Trade Secret…",
+      "link": "https://dev.to/norviktech/apple-vs-openai-trade-secret-2843",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 09 Jul 2026 12:22:30 +0000",
-      "summary": "CHAOS HEAD CHAOS CHILD Love Chu Chu DOUBLE PACK JPN XCI Full Game 2026 CHAOS;HEAD NOAH & CHAOS;CHILD Love Chu☆Chu!! DOUBLE PACK brings together four acclaimed visual novels in one collection, offering",
+      "date": "Mon, 13 Jul 2026 07:05:50 +0000",
+      "summary": "Originally published at norvik.tech In-depth analysis of Apple's lawsuit against OpenAI over alleged trade secret theft and its implications for technology. On July 10, 2026, Apple filed a lawsuit aga",
       "score": 5,
-      "titleZh": "CHAOS HEAD CHAOS CHILD 爱楚楚 双包 JPN XCI 完整游戏 2026"
+      "titleZh": "苹果 vs. OpenAI 商业秘密……"
     },
     {
-      "title": "How to Hire AI Developers Who Actually Ship in Production",
-      "link": "https://dev.to/matthewtr/how-to-hire-ai-developers-who-actually-ship-in-production-36dg",
-      "source": "Dev.to WebDev",
+      "title": "How to Build a Real-Time Rank Tracker in Node.js (Without Getting IP Banned)",
+      "link": "https://dev.to/api_serpent/how-to-build-a-real-time-rank-tracker-in-nodejs-without-getting-ip-banned-4jeo",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 09 Jul 2026 12:21:24 +0000",
-      "summary": "Quick answer: To hire AI developers who ship production code, screen for systems they have actually deployed (not demos), test how they debug and evaluate models, ask how they handle failure and data ",
+      "date": "Mon, 13 Jul 2026 07:05:44 +0000",
+      "summary": "If you are managing search engine optimization for a platform, you know that keeping an eye on where your pages rank is critical. Native tools like Google Search Console are fantastic for analyzing po",
       "score": 5,
-      "titleZh": "如何聘请真正投入生产的人工智能开发人员"
-    },
-    {
-      "title": "Beyond Average Timelines: How Jump Plots Reveal Hidden Patterns in Process Journeys and Time-Based Analytics",
-      "link": "https://dev.to/perceptive_analytics_f780/beyond-average-timelines-how-jump-plots-reveal-hidden-patterns-in-process-journeys-and-time-based-ae7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 09 Jul 2026 12:20:23 +0000",
-      "summary": "Introduction: Why Average Time Metrics Are Not Enough Sales teams analyze how quickly leads convert. Operations teams track project completion timelines. Customer service teams monitor resolution time",
-      "score": 5,
-      "titleZh": "超越平均时间线：跳跃图如何揭示流程旅程和基于时间的分析中的隐藏模式"
-    },
-    {
-      "title": "How to Build a Classified Marketplace Like OLX Without Burning Your Runway",
-      "link": "https://dev.to/viktoriaholikova/how-to-build-a-classified-marketplace-like-olx-without-burning-your-runway-7lc",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 09 Jul 2026 12:19:52 +0000",
-      "summary": "Every few months, a founder decides they will build \"the next OLX.\" Most never launch. The ones who do usually run out of money before they find out whether anyone wanted the product in the first plac",
-      "score": 5,
-      "titleZh": "如何在不烧毁跑道的情况下建立像 OLX 这样的分类市场"
-    },
-    {
-      "title": "Why you shouldn't pay $10/mo for a Broken Link Checker (So I built a free one) published: true",
-      "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/why-you-shouldnt-pay-10mo-for-a-broken-link-checker-so-i-built-a-free-onepublished-true-3ji8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 09 Jul 2026 12:07:04 +0000",
-      "summary": "If you manage a website, blog, or a web app, you already know the drill: Dead links are a nightmare. From an SEO perspective, a 404 error tells Google’s crawler that your site is poorly maintained. It",
-      "score": 5,
-      "titleZh": "为什么你不应该为损坏的链接检查器支付 10 美元/月（所以我构建了一个免费的）已发布：true"
-    },
-    {
-      "title": "Stop Describing Buttons in Words: Spec-Grade Prompts for AI Coding Tools",
-      "link": "https://dev.to/_73dd564d48683cfda47df/stop-describing-buttons-in-words-spec-grade-prompts-for-ai-coding-tools-28cg",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 09 Jul 2026 12:00:36 +0000",
-      "summary": "AI coding tools don't have a taste problem. They have a spec problem. Ask Claude Code for \"a clean, modern button\" and you get a coin flip. Give it exact values (radius, padding, per-state colors, tra",
-      "score": 5,
-      "titleZh": "停止用文字描述按钮：AI 编码工具的规格级提示"
+      "titleZh": "如何在 Node.js 中构建实时排名跟踪器（不被 IP 封禁）"
     }
   ]
 }
