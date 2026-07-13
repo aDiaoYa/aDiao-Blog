@@ -1,22 +1,10 @@
 {
-  "updated": "2026-07-13T07:13:00.763Z",
+  "updated": "2026-07-13T12:30:39.481Z",
   "date": "2026-07-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 12 Jul 2026 18:25:51 +0000",
-      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quic",
-      "score": 547,
-      "titleZh": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k"
-    },
     {
       "title": "Ask HN: Add flag for AI-generated articles",
       "link": "https://news.ycombinator.com/item?id=48886741",
@@ -26,8 +14,20 @@
       ],
       "date": "Mon, 13 Jul 2026 01:24:20 +0000",
       "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like",
-      "score": 493,
+      "score": 781,
       "titleZh": "询问 HN：为 AI 生成的文章添加标记"
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 12 Jul 2026 18:25:51 +0000",
+      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quic",
+      "score": 624,
+      "titleZh": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k"
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
@@ -38,20 +38,32 @@
       ],
       "date": "Sun, 12 Jul 2026 17:13:07 +0000",
       "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716",
-      "score": 191,
+      "score": 217,
       "titleZh": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27%"
     },
     {
-      "title": "What non-university ML certificates are industry standard or highly regarded? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv35xz/what_nonuniversity_ml_certificates_are_industry/",
+      "title": "Doubt regarding TMLR[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T06:07:05.000Z",
-      "summary": "I'm considering which certificates are worth the time and money to support my own ML software firm and strengthen my credentials. There is a sea of suggestions online coming from a range of sources th",
+      "date": "2026-07-13T10:53:29.000Z",
+      "summary": "My TMLR paper was assigned to reviewers on April 23, and as of July 13 I've received 2 reviews, but the third is still pending. The discussion phase hasn't opened yet, so I can't respond to the existi",
       "score": 40,
-      "titleZh": "哪些非大学机器学习证书是行业标准或备受推崇的？ [D]"
+      "titleZh": "Doubt regarding TMLR[R]"
+    },
+    {
+      "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-13T08:27:09.000Z",
+      "summary": "Anthropic’s Jacobian Lens work introduced a way to inspect verbalizable representations inside language models. Follow-up experiments suggested that entropy in this internal “workspace” might help ide",
+      "score": 40,
+      "titleZh": "评估 J 空间熵作为 Qwen3-4B 上 7 个数据集的误差预测器 [R]"
     },
     {
       "title": "[ECCV 2026] Meaning of \"Authorized Delegate\" & Registration Advice [D]",
@@ -76,18 +88,6 @@
       "summary": "\"Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity\" This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: \"changing the prompt t",
       "score": 40,
       "titleZh": "即时工程论文被 ICML 接受 [R]"
-    },
-    {
-      "title": "Look for a team to join ML/AI competition [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv0crm/look_for_a_team_to_join_mlai_competition_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-13T03:39:04.000Z",
-      "summary": "Hi folks, I am looking for research group or individuals that are interested in joining this competition. We can form a team. https://aiboost-project.eu/ai-challenge-competition/ submitted by /u/Tony-",
-      "score": 40,
-      "titleZh": "寻找团队参加ML/AI竞赛 [D]"
     },
     {
       "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
@@ -126,124 +126,124 @@
       "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "Why Vanilla JavaScript",
-      "link": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 12 Jul 2026 22:53:51 +0000",
-      "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html Comments URL: https://news.ycombinator.com/item?id=48885705",
-      "score": 130,
-      "titleZh": "为什么选择 Vanilla JavaScript"
-    },
-    {
-      "title": "Converting colors in JavaScript at 6B operations per second",
-      "link": "https://dkryaklin.com/blog/colordx-gpu",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 09 Jul 2026 12:04:36 +0000",
-      "summary": "Article URL: https://dkryaklin.com/blog/colordx-gpu Comments URL: https://news.ycombinator.com/item?id=48844554",
-      "score": 14,
-      "titleZh": "在 JavaScript 中以每秒 6B 次的速度转换颜色"
-    },
-    {
-      "title": "llms-pay.md: a discovery layer for AI shopping agents",
-      "link": "https://dev.to/virt92/llms-paymd-a-discovery-layer-for-ai-shopping-agents-1mfa",
+      "title": "HTML-tabellen met Verborgen Data: Scrapen Wat Je Niet Kunt Zien",
+      "link": "https://dev.to/circobit/html-tabellen-met-verborgen-data-scrapen-wat-je-niet-kunt-zien-15ah",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 07:09:19 +0000",
-      "summary": "TL;DR. AI shopping agents can read your marketing page just fine. What they cannot do is buy. There is no standard way for an agent to discover your products, pick a plan, and hit the right checkout e",
+      "date": "Mon, 13 Jul 2026 12:30:00 +0000",
+      "summary": "De tabel toont 10 kolommen. Je exporteert hem. De CSV heeft 10 kolommen. Maar de pagina bevat 15 kolommen aan data. Waar zijn de andere 5 gebleven? HTML-tabellen bevatten vaak meer data dan wat zichtb",
       "score": 5,
-      "titleZh": "llms-pay.md：人工智能购物代理的发现层"
+      "titleZh": "HTML-tabellen 遇见 Verborgen 数据：Scrapen Wat Je Niet Kunt Zien"
     },
     {
-      "title": "Agentic AI Training in Hyderabad | Agentic AI Training",
-      "link": "https://dev.to/hari_krishna_17497813413d/agentic-ai-training-in-hyderabad-agentic-ai-training-2c3a",
+      "title": "The Everyday Backend Engineer: Step 4 — Dependency Injection",
+      "link": "https://dev.to/aabiskar/the-everyday-backend-engineer-step-4-dependency-injection-3n6j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 07:09:10 +0000",
-      "summary": "Will Agentic AI Completely Redefine Modern DevSecOps? FAQs Visualpath is a leading software and online training institute in Hyderabad, offering Contact Call / WhatsApp: +91-7032290546 https://www.vis",
+      "date": "Mon, 13 Jul 2026 12:29:39 +0000",
+      "summary": "Welcome back to The Everyday Backend Engineer: Practical Design Patterns. We have successfully wrapped up our Creational Patterns. Today, we step firmly into Category 2: Structural Patterns by explori",
       "score": 5,
-      "titleZh": "海得拉巴的 Agentic AI 培训 |代理人工智能培训"
+      "titleZh": "日常后端工程师：第 4 步 — 依赖注入"
     },
     {
-      "title": "What the heck is React Fiber anyway?",
-      "link": "https://dev.to/b45i/what-the-heck-is-react-fiber-anyway-5fg1",
+      "title": "EU trading platform: KI-Trading-Guide",
+      "link": "https://dev.to/meridiantrade/eu-trading-platform-ki-trading-guide-32cp",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 12:27:45 +0000",
+      "summary": "EU trading platform: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/european-trader-gdpr/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. What European trad",
+      "score": 5,
+      "titleZh": "欧盟交易平台：KI-Trading-Guide"
+    },
+    {
+      "title": "EU trading platform: Guía de trading IA",
+      "link": "https://dev.to/meridiantrade/eu-trading-platform-guia-de-trading-ia-1jeh",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 12:27:20 +0000",
+      "summary": "EU trading platform: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/european-trader-gdpr/ — canonical URL for SEO. Guía sobre trading automatizado con IA. What European",
+      "score": 5,
+      "titleZh": "欧盟贸易平台：Guía de Trading IA"
+    },
+    {
+      "title": "AI confidence score: AI Trading Guide for 2026",
+      "link": "https://dev.to/meridiantrade/ai-confidence-score-ai-trading-guide-for-2026-3cb5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 12:27:13 +0000",
+      "summary": "AI confidence score: AI Trading Guide for 2026 Originally published at https://meridiantradeai.com/en/blog/confidence-score-explained/ — canonical URL for SEO. How to read AI confidence 0–100% and whe",
+      "score": 5,
+      "titleZh": "AI 信心评分：2026 年 AI 交易指南"
+    },
+    {
+      "title": "Component Deep Dive #60: QR Code Generator — From QR Specification to Canvas Rendering",
+      "link": "https://dev.to/wdsega/component-deep-dive-60-qr-code-generator-from-qr-specification-to-canvas-rendering-43bb",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 07:08:49 +0000",
-      "summary": "Like many developers of my era, I got into programming by building web pages. By 2015 those simple pages had grown into bit more complex web apps, and that is when JavaScript started fighting back. Ca",
+      "date": "Mon, 13 Jul 2026 12:25:31 +0000",
+      "summary": "Component Deep Dive #60: QR Code Generator QR codes are everywhere — payments, sharing, login, anti-counterfeiting. But do you know how much math hides behind those black-and-white squares? Core param",
       "score": 5,
-      "titleZh": "反应纤维到底是什么？"
+      "titleZh": "组件深入探究 #60：QR 代码生成器 — 从 QR 规范到画布渲染"
     },
     {
-      "title": "Cursor Just Became Part of SpaceX — Here's What Developers Should Actually Watch For",
-      "link": "https://dev.to/gunasantosh/cursor-just-became-part-of-spacex-heres-what-developers-should-actually-watch-for-5c85",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 07:08:24 +0000",
-      "summary": "Cursor's parent company, Anysphere, is being absorbed into SpaceX in a $60 billion all-stock deal, expected to close later this year. Most of the coverage so far has been financial — IPO timing, share",
-      "score": 5,
-      "titleZh": "Cursor 刚刚成为 SpaceX 的一部分——这是开发者真正应该关注的"
-    },
-    {
-      "title": "Why Every Business Needs a B2B Debt Collection Agency in 2026",
-      "link": "https://dev.to/baadshahrecovery/why-every-business-needs-a-b2b-debt-collection-agency-in-2026-ni1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 07:07:03 +0000",
-      "summary": "As we move through 2026, more businesses are partnering with professional B2B debt collection agency to improve cash flow, reduce financial risk, and focus on core operations. A specialized collection",
-      "score": 5,
-      "titleZh": "为什么 2026 年每个企业都需要 B2B 收债机构"
-    },
-    {
-      "title": "Why Chat Alone Won't Cut It for Multi-Agent Orchestration",
-      "link": "https://dev.to/mininglamp/why-chat-alone-wont-cut-it-for-multi-agent-orchestration-4cek",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 07:05:55 +0000",
-      "summary": "Everybody's talking about multi-agent systems these days. Open any demo and you'll see a chat window with multiple bots going back and forth, and that's supposed to pass for collaboration. It's not. C",
-      "score": 5,
-      "titleZh": "为什么单独聊天无法满足多代理编排的需要"
-    },
-    {
-      "title": "Apple vs. OpenAI Trade Secret…",
-      "link": "https://dev.to/norviktech/apple-vs-openai-trade-secret-2843",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 07:05:50 +0000",
-      "summary": "Originally published at norvik.tech In-depth analysis of Apple's lawsuit against OpenAI over alleged trade secret theft and its implications for technology. On July 10, 2026, Apple filed a lawsuit aga",
-      "score": 5,
-      "titleZh": "苹果 vs. OpenAI 商业秘密……"
-    },
-    {
-      "title": "How to Build a Real-Time Rank Tracker in Node.js (Without Getting IP Banned)",
-      "link": "https://dev.to/api_serpent/how-to-build-a-real-time-rank-tracker-in-nodejs-without-getting-ip-banned-4jeo",
+      "title": "Component Deep Dive #59: Countdown Timer — setInterval Pitfalls and requestAnimationFrame Precision",
+      "link": "https://dev.to/wdsega/component-deep-dive-59-countdown-timer-setinterval-pitfalls-and-requestanimationframe-precision-4al",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 07:05:44 +0000",
-      "summary": "If you are managing search engine optimization for a platform, you know that keeping an eye on where your pages rank is critical. Native tools like Google Search Console are fantastic for analyzing po",
+      "date": "Mon, 13 Jul 2026 12:24:59 +0000",
+      "summary": "Component Deep Dive #59: Countdown Timer A countdown timer looks simple — just subtract 1 every second. But in production, edge cases will make you question everything. setInterval(fn, 1000) doesn't m",
       "score": 5,
-      "titleZh": "如何在 Node.js 中构建实时排名跟踪器（不被 IP 封禁）"
+      "titleZh": "组件深入探究 #59：倒计时器 — setInterval 陷阱和 requestAnimationFrame 精度"
+    },
+    {
+      "title": "Component Deep Dive #58: Image Filter Adjustment — Perfect Blend of CSS Filter and Canvas Pixel Manipulation",
+      "link": "https://dev.to/wdsega/component-deep-dive-58-image-filter-adjustment-perfect-blend-of-css-filter-and-canvas-pixel-3me2",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 12:24:27 +0000",
+      "summary": "Component Deep Dive #58: Image Filter Adjustment Have you ever wondered how hard it is to implement Instagram-like filters on the web? The answer: if you just need preview, one line of CSS suffices. I",
+      "score": 5,
+      "titleZh": "组件深入探讨 #58：图像滤镜调整 — CSS 滤镜和画布像素操作的完美结合"
+    },
+    {
+      "title": "The Hidden Engineering Behind Git Merge Conflicts",
+      "link": "https://dev.to/md_mijanur_molla/the-hidden-engineering-behind-git-merge-conflicts-2lh7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 12:23:30 +0000",
+      "summary": "If you've worked with Git for even a few weeks, you've probably seen this message: CONFLICT (content): Merge conflict Automatic merge failed. Your heart sinks. You stare at the screen and think: 👉 \"W",
+      "score": 5,
+      "titleZh": "Git 合并冲突背后的隐藏工程"
+    },
+    {
+      "title": "TypeScript for Python Developers: A Practical Guide",
+      "link": "https://dev.to/qingluan/typescript-for-python-developers-a-practical-guide-ei1",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 13 Jul 2026 12:03:38 +0000",
+      "summary": "TypeScript for Python Developers: A Practical Guide From Python to TypeScript: Why the Switch? As a Python developer, you're likely no stranger to the excitement of writing clean, readable, and mainta",
+      "score": 5,
+      "titleZh": "面向 Python 开发人员的 TypeScript：实用指南"
     }
   ]
 }
