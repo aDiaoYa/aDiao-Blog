@@ -1,57 +1,93 @@
 {
-  "updated": "2026-07-13T12:30:39.481Z",
-  "date": "2026-07-13",
+  "updated": "2026-07-14T02:21:56.274Z",
+  "date": "2026-07-14",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "link": "https://news.ycombinator.com/item?id=48886741",
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "link": "https://neow.in/cWsyMTV3",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 13 Jul 2026 01:24:20 +0000",
-      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like",
-      "score": 781,
-      "titleZh": "询问 HN：为 AI 生成的文章添加标记"
+      "date": "Mon, 13 Jul 2026 20:01:43 +0000",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991",
+      "score": 281,
+      "titleZh": "如果用户选择退出人工智能培训，三星健康应用程序将威胁删除数据"
     },
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "link": "https://github.com/morganwilliscloud/billai-bass",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Sun, 12 Jul 2026 18:25:51 +0000",
-      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quic",
-      "score": 624,
-      "titleZh": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k"
+      "date": "Mon, 13 Jul 2026 18:18:23 +0000",
+      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599",
+      "score": 59,
+      "titleZh": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass"
     },
     {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "link": "https://github.com/jbwinters/jacquard-lang",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Sun, 12 Jul 2026 17:13:07 +0000",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716",
-      "score": 217,
-      "titleZh": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27%"
+      "date": "Mon, 13 Jul 2026 15:56:02 +0000",
+      "summary": "I'm fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans. To create the design, I had AI ",
+      "score": 53,
+      "titleZh": "Show HN：Jacquard，一种用于人工智能编写、人工审核代码的编程语言"
     },
     {
-      "title": "Doubt regarding TMLR[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
+      "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T10:53:29.000Z",
-      "summary": "My TMLR paper was assigned to reviewers on April 23, and as of July 13 I've received 2 reviews, but the third is still pending. The discussion phase hasn't opened yet, so I can't respond to the existi",
+      "date": "2026-07-14T01:14:30.000Z",
+      "summary": "NB: Reposting due to a typo in the title Putting this here instead of the other subs since I figured a question on deep learning theory is out of place there -- I \"recently\" found (actually, a few mon",
       "score": 40,
-      "titleZh": "Doubt regarding TMLR[R]"
+      "titleZh": "本专着的内容对于深度神经网络的现代理论理解可靠吗？ [D]"
+    },
+    {
+      "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-13T19:20:07.000Z",
+      "summary": "Disclosure: I built it, it is open source, Apache-2.0 licensed, and currently alpha. Repository: https://github.com/mireklzicar/gpuhedge I started working on it after benchmarking a 17 GB AI model acr",
+      "score": 40,
+      "titleZh": "GPUHedge：对冲无服务器 GPU 提供商将冷启动 p95 延迟从 117 秒缩短至 30 秒 [P]"
+    },
+    {
+      "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-13T17:50:49.000Z",
+      "summary": "Read a long piece on the future of LLM reasoning that makes a provocative claim: Chain of Thought is a useful hack but we've started to confuse a readable trace with the actual computation. All in all",
+      "score": 40,
+      "titleZh": "思想链是一个规模陷阱。下一波是潜在推理（Coconut / HRM / RecrusiveMAS）......但随后我们遇到了黑匣子墙。 BDH适合哪里？ [D]"
+    },
+    {
+      "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-13T13:59:17.000Z",
+      "summary": "Left: Telegram digest (optional); Right: detailed digest on HTML Like probably everyone here, my to-read list only grows. Skimming arXiv listings or my feeds takes 30-60 minutes a day, 95% of it is ir",
+      "score": 40,
+      "titleZh": "每天都有数百篇论文出现在 arXiv 上，其中可能有 3 篇论文对我的研究很重要，因此我构建了一个开源工具来查找它们 [P]"
     },
     {
       "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
@@ -66,18 +102,6 @@
       "titleZh": "评估 J 空间熵作为 Qwen3-4B 上 7 个数据集的误差预测器 [R]"
     },
     {
-      "title": "[ECCV 2026] Meaning of \"Authorized Delegate\" & Registration Advice [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv31uj/eccv_2026_meaning_of_authorized_delegate/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-13T06:00:50.000Z",
-      "summary": "Hi everyone,Our paper was recently provisionally accepted to ECCV 2026! However, our team is facing an issue regarding attendance and the ECCV 2026 Submission Policies. The official guidelines state: ",
-      "score": 40,
-      "titleZh": "[ECCV 2026] “授权代表”的含义及注册建议 [D]"
-    },
-    {
       "title": "Prompt-engineering paper accepted to ICML [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
       "source": "Reddit ML",
@@ -90,30 +114,6 @@
       "titleZh": "即时工程论文被 ICML 接受 [R]"
     },
     {
-      "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-12T17:58:18.000Z",
-      "summary": "I hold a Ph.D. in Operations Research, along with a BSc/MSc in Engineering and OR. I previously worked in Big Tech, but I’m currently looking to transition. My primary goal is to upgrade my technical ",
-      "score": 40,
-      "titleZh": "博士运筹学/大型科技工程博士：如何过渡到高价值行业（机器人、国防、金融）的中级/高级机器学习？ [D]"
-    },
-    {
-      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-12T12:32:29.000Z",
-      "summary": "TL:DR: I’m a grad student in AI, I saw that Google released TabFM and TimesFM last week, I built an MCP wrapper to serve both transformer models in a single Docker container so you can connect their n",
-      "score": 40,
-      "titleZh": "Zer0Fit：我采用了 Google 的新 TabFM 和 TimesFM ML 基础模型，并将它们用作 MCP 服务器，用于零样本 ML 任务（预测/分类/回归）。 100%本地化。 [P]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -123,127 +123,127 @@
       "date": "2026-07-02T02:15:27.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销帖子"
+      "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "HTML-tabellen met Verborgen Data: Scrapen Wat Je Niet Kunt Zien",
-      "link": "https://dev.to/circobit/html-tabellen-met-verborgen-data-scrapen-wat-je-niet-kunt-zien-15ah",
+      "title": "Thiết kế Figma song song Dev Tools: Đánh giá hiệu năng Lunar Lake",
+      "link": "https://dev.to/hungphatlaptop/thiet-ke-figma-song-song-dev-tools-danh-gia-hieu-nang-lunar-lake-50kk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:30:00 +0000",
-      "summary": "De tabel toont 10 kolommen. Je exporteert hem. De CSV heeft 10 kolommen. Maar de pagina bevat 15 kolommen aan data. Waar zijn de andere 5 gebleven? HTML-tabellen bevatten vaak meer data dan wat zichtb",
+      "date": "Tue, 14 Jul 2026 02:13:44 +0000",
+      "summary": "Khi làm front-end, việc chia đôi màn hình để vừa code, mở Dev Tools trên trình duyệt, vừa đối chiếu thiết kế trên Figma là một kịch bản đa nhiệm kinh điển đòi hỏi sự phối hợp mượt mà giữa CPU, RAM và ",
       "score": 5,
-      "titleZh": "HTML-tabellen 遇见 Verborgen 数据：Scrapen Wat Je Niet Kunt Zien"
+      "titleZh": "Thiết kế Figma 歌曲开发工具：Đánh giá hiệu năng Lunar Lake"
     },
     {
-      "title": "The Everyday Backend Engineer: Step 4 — Dependency Injection",
-      "link": "https://dev.to/aabiskar/the-everyday-backend-engineer-step-4-dependency-injection-3n6j",
+      "title": "ComposeHealthCheck: Catch Docker Compose Startup Bugs Before They Cost You an Hour",
+      "link": "https://dev.to/dev_encyclopedia/composehealthcheck-catch-docker-compose-startup-bugs-before-they-cost-you-an-hour-45n4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:29:39 +0000",
-      "summary": "Welcome back to The Everyday Backend Engineer: Practical Design Patterns. We have successfully wrapped up our Creational Patterns. Today, we step firmly into Category 2: Structural Patterns by explori",
+      "date": "Tue, 14 Jul 2026 02:09:53 +0000",
+      "summary": "If you've ever had your app throw \"connection refused\" against a database that's clearly running, you already know the problem: depends_on only waits for a container to start, not for the process insi",
       "score": 5,
-      "titleZh": "日常后端工程师：第 4 步 — 依赖注入"
+      "titleZh": "ComposeHealthCheck：在 Docker Compose 花费您一个小时之前捕获启动错误"
     },
     {
-      "title": "EU trading platform: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/eu-trading-platform-ki-trading-guide-32cp",
+      "title": "PricePulse: A Free API for Real-Time Cryptocurrency & Stock Prices — No Signup Required",
+      "link": "https://dev.to/rock2089/pricepulse-a-free-api-for-real-time-cryptocurrency-stock-prices-no-signup-required-f28",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:27:45 +0000",
-      "summary": "EU trading platform: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/european-trader-gdpr/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. What European trad",
+      "date": "Tue, 14 Jul 2026 02:08:48 +0000",
+      "summary": "PricePulse is a lightweight, developer-friendly API that delivers real-time cryptocurrency and stock market data. No complex SDKs, no OAuth dance, no credit card required to start. PricePulse is a RES",
       "score": 5,
-      "titleZh": "欧盟交易平台：KI-Trading-Guide"
+      "titleZh": "PricePulse：实时加密货币和股票价格的免费 API — 无需注册"
     },
     {
-      "title": "EU trading platform: Guía de trading IA",
-      "link": "https://dev.to/meridiantrade/eu-trading-platform-guia-de-trading-ia-1jeh",
+      "title": "The 5-Minute Health Check That Saved My Team 40 Hours of Debugging",
+      "link": "https://dev.to/sirmax/the-5-minute-health-check-that-saved-my-team-40-hours-of-debugging-4i84",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:27:20 +0000",
-      "summary": "EU trading platform: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/european-trader-gdpr/ — canonical URL for SEO. Guía sobre trading automatizado con IA. What European",
+      "date": "Tue, 14 Jul 2026 02:08:11 +0000",
+      "summary": "The 3 AM Wake-Up Call Two years ago I got paged at 3 AM. The monitoring dashboard was screaming that our payment service was down. I logged into the server, checked the process list — the service was ",
       "score": 5,
-      "titleZh": "欧盟贸易平台：Guía de Trading IA"
+      "titleZh": "5 分钟的运行状况检查为我的团队节省了 40 小时的调试时间"
     },
     {
-      "title": "AI confidence score: AI Trading Guide for 2026",
-      "link": "https://dev.to/meridiantrade/ai-confidence-score-ai-trading-guide-for-2026-3cb5",
+      "title": "Meta's Decision to Remove AI D…",
+      "link": "https://dev.to/norviktech/metas-decision-to-remove-ai-d-nlk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:27:13 +0000",
-      "summary": "AI confidence score: AI Trading Guide for 2026 Originally published at https://meridiantradeai.com/en/blog/confidence-score-explained/ — canonical URL for SEO. How to read AI confidence 0–100% and whe",
+      "date": "Tue, 14 Jul 2026 02:05:51 +0000",
+      "summary": "Originally published at norvik.tech Explore the implications of Meta's removal of the AI deepfake feature on Instagram. Technical insights and business impacts analyzed. Meta recently announced the di",
       "score": 5,
-      "titleZh": "AI 信心评分：2026 年 AI 交易指南"
+      "titleZh": "Meta 决定删除 AI D……"
     },
     {
-      "title": "Component Deep Dive #60: QR Code Generator — From QR Specification to Canvas Rendering",
-      "link": "https://dev.to/wdsega/component-deep-dive-60-qr-code-generator-from-qr-specification-to-canvas-rendering-43bb",
+      "title": ".com vs .ai vs .io — which extension actually helps you in 2026",
+      "link": "https://dev.to/eddie_dev_og/com-vs-ai-vs-io-which-extension-actually-helps-you-in-2026-4oji",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 14 Jul 2026 02:00:36 +0000",
+      "summary": ".com wins on trust. .ai wins on signal. .io wins on vibe. In 2026, the best extension is not the prettiest one; it is the one that matches how customers already think. When I built NameBuddy.ai for na",
+      "score": 5,
+      "titleZh": ".com、.ai、.io——哪个扩展在 2026 年对您真正有帮助"
+    },
+    {
+      "title": "Breaking the Clipboard: Why Copy-Pasting Across Different OS is Still Painful",
+      "link": "https://dev.to/simpledrop/breaking-the-clipboard-why-copy-pasting-across-different-os-is-still-painful-20ec",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 14 Jul 2026 01:57:00 +0000",
+      "summary": "1. The Invisible Wall: Clipboard Limitations in a Multi-OS World As developers, we constantly juggle different environments. One moment, I'm working on a critical configuration file in a Linux VM. The",
+      "score": 5,
+      "titleZh": "破坏剪贴板：为什么在不同操作系统之间复制粘贴仍然很痛苦"
+    },
+    {
+      "title": "Beyond Chat: Building an AI Agent That Understands Your Entire Development Workflow",
+      "link": "https://dev.to/joshinachiket/beyond-chat-building-an-ai-agent-that-understands-your-entire-development-workflow-1n4e",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 14 Jul 2026 01:50:59 +0000",
+      "summary": "Series: Agentic Engineering – Practical AI Workflows for Modern Software Teams (Part 1) Artificial Intelligence has quickly become an integral part of a software engineer's toolkit. We ask ChatGPT to ",
+      "score": 5,
+      "titleZh": "超越聊天：构建了解整个开发工作流程的 AI 代理"
+    },
+    {
+      "title": "Self-Hosting a Browser File Viewer Under a Strict CSP: Workers, WASM, and Assets Without Public CDNs",
+      "link": "https://dev.to/_a0eb4d8107cee18d04b2cb/self-hosting-a-browser-file-viewer-under-a-strict-csp-workers-wasm-and-assets-without-public-cdns-4hak",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:25:31 +0000",
-      "summary": "Component Deep Dive #60: QR Code Generator QR codes are everywhere — payments, sharing, login, anti-counterfeiting. But do you know how much math hides behind those black-and-white squares? Core param",
+      "date": "Tue, 14 Jul 2026 01:44:30 +0000",
+      "summary": "File Viewer began with a consumer-facing application whose backend resources were limited. In 2022, my manager asked me to move document preview entirely into the frontend. That constraint eventually ",
       "score": 5,
-      "titleZh": "组件深入探究 #60：QR 代码生成器 — 从 QR 规范到画布渲染"
+      "titleZh": "在严格的 CSP 下自托管浏览器文件查看器：没有公共 CDN 的工作人员、WASM 和资产"
     },
     {
-      "title": "Component Deep Dive #59: Countdown Timer — setInterval Pitfalls and requestAnimationFrame Precision",
-      "link": "https://dev.to/wdsega/component-deep-dive-59-countdown-timer-setinterval-pitfalls-and-requestanimationframe-precision-4al",
-      "source": "Dev.to JS",
+      "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
+      "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 13 Jul 2026 12:24:59 +0000",
-      "summary": "Component Deep Dive #59: Countdown Timer A countdown timer looks simple — just subtract 1 every second. But in production, edge cases will make you question everything. setInterval(fn, 1000) doesn't m",
+      "date": "Tue, 14 Jul 2026 01:28:53 +0000",
+      "summary": "Like many developers, I started this project with a simple idea: \"What if there was a place that made discovering films feel intentional again?\" That idea eventually became Cineaste. cineastefilm.org ",
       "score": 5,
-      "titleZh": "组件深入探究 #59：倒计时器 — setInterval 陷阱和 requestAnimationFrame 精度"
-    },
-    {
-      "title": "Component Deep Dive #58: Image Filter Adjustment — Perfect Blend of CSS Filter and Canvas Pixel Manipulation",
-      "link": "https://dev.to/wdsega/component-deep-dive-58-image-filter-adjustment-perfect-blend-of-css-filter-and-canvas-pixel-3me2",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 12:24:27 +0000",
-      "summary": "Component Deep Dive #58: Image Filter Adjustment Have you ever wondered how hard it is to implement Instagram-like filters on the web? The answer: if you just need preview, one line of CSS suffices. I",
-      "score": 5,
-      "titleZh": "组件深入探讨 #58：图像滤镜调整 — CSS 滤镜和画布像素操作的完美结合"
-    },
-    {
-      "title": "The Hidden Engineering Behind Git Merge Conflicts",
-      "link": "https://dev.to/md_mijanur_molla/the-hidden-engineering-behind-git-merge-conflicts-2lh7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 12:23:30 +0000",
-      "summary": "If you've worked with Git for even a few weeks, you've probably seen this message: CONFLICT (content): Merge conflict Automatic merge failed. Your heart sinks. You stare at the screen and think: 👉 \"W",
-      "score": 5,
-      "titleZh": "Git 合并冲突背后的隐藏工程"
-    },
-    {
-      "title": "TypeScript for Python Developers: A Practical Guide",
-      "link": "https://dev.to/qingluan/typescript-for-python-developers-a-practical-guide-ei1",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 13 Jul 2026 12:03:38 +0000",
-      "summary": "TypeScript for Python Developers: A Practical Guide From Python to TypeScript: Why the Switch? As a Python developer, you're likely no stranger to the excitement of writing clean, readable, and mainta",
-      "score": 5,
-      "titleZh": "面向 Python 开发人员的 TypeScript：实用指南"
+      "titleZh": "过去几周我用 React 和 Firebase 构建了一个 Cinema 应用程序 🎬"
     }
   ]
 }
