@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-17T02:29:51.489Z",
+  "updated": "2026-07-17T11:20:30.140Z",
   "date": "2026-07-17",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 16:08:13 +0000",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/ Comments URL: https://news.ycombinator.com/item?id=48936451",
+      "score": 316,
+      "titleZh": "NotebookLM 现在更名为 Gemini Notebook"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 20:03:23 +0000",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524",
+      "score": 291,
+      "titleZh": "100 美元 AI 音乐视频：克劳德寓言 5 与 GPT-5.6 Sol"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 20:18:15 +0000",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662",
+      "score": 265,
+      "titleZh": "LM Studio Bionic：开放模型的 AI 代理"
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 11:59:01 +0000",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310",
+      "score": 238,
+      "titleZh": "法学硕士的批评是正确的。无论如何我都使用法学硕士"
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 16:41:37 +0000",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880",
+      "score": 204,
+      "titleZh": "使用“经典”机器学习检测法学硕士生成的文本"
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 15:13:00 +0000",
+      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687",
+      "score": 139,
+      "titleZh": "如何在具有 6GB VRAM 的旧 Linux 桌面上训练 Gen AI 底鼓模型"
+    },
+    {
+      "title": "TACL journal doubts [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uyw0i0/tacl_journal_doubts_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-17T10:37:21.000Z",
+      "summary": "I submitted my TACL paper approx on June 1th and was scheduled for July 1st cycle, when and how do you guys think we'll be getting our reviews given the July cycle for the paper which I've submitted a",
+      "score": 40,
+      "titleZh": "TACL期刊质疑[D]"
+    },
+    {
+      "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-17T08:36:05.000Z",
+      "summary": "hey, first time going through this process, the deadline is by today AoE so i'm kinda worried, i just can't seem to find it next to the \"official comment\" button on my submission, what am i doing wron",
+      "score": 40,
+      "titleZh": "ACL ARR 2026 - 似乎在任何地方都找不到审核问题报告按钮？ [D]"
+    },
+    {
+      "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-17T08:18:09.000Z",
+      "summary": "I have released EU AI Act OpenRAG, a downloadable corpus of Regulation (EU) 2024/1689 designed for RAG and legal-NLP experimentation. Instead of sliding character windows, the corpus chunks on the Reg",
+      "score": 40,
+      "titleZh": "欧盟人工智能法案 OpenRAG：一个 SQLite 文件中的 933 个合法结构化块和 BGE-M3 嵌入 [P]"
+    },
     {
       "title": "whats the best and complete way to keep up with ai/ml news? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
@@ -18,232 +126,124 @@
       "titleZh": "跟上 AI/ML 新闻的最佳且完整的方式是什么？ [D]"
     },
     {
-      "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-16T19:17:01.000Z",
-      "summary": "Hi everyone, I've been working independently on a recurrent architecture called **DABSN (Dynamic Adaptive Bias State Network)** for the past several months, and I finally reached the point where I fee",
-      "score": 40,
-      "titleZh": "寻求合作者来扩展和独立评估新的循环语言模型架构（预印本+代码）[R]"
-    },
-    {
-      "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-16T16:00:01.000Z",
-      "summary": "While writing an essay about AI memory and persistent context, I started wondering whether current AI memory systems are optimized for the right thing. Current AI systems already maintain forms of per",
-      "score": 40,
-      "titleZh": "当前的人工智能内存架构是否针对错误的抽象进行了优化？ [D]"
-    },
-    {
-      "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-16T13:31:07.000Z",
-      "summary": "https://arxiv.org/pdf/2607.13511 the core idea is, we cannot have ternary PTQ with fixed matrix size, trying to do that is dead end. so i tried decomposing the matrix to 2 ternary matrices and inner d",
-      "score": 40,
-      "titleZh": "ExTernD：扩展秩三元分解三元 LLM PTQ，精度接近任何量化级别 [P]"
-    },
-    {
-      "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-16T12:50:35.000Z",
-      "summary": "Every qlora tutorial on earth says start at 2e-4. Unsloth docs, hf examples, the paper itself. and for small datasets i now think that numbers is a trap. Where does 2e-4 come from? alpaca. 52k samples",
-      "score": 40,
-      "titleZh": "qlora 2e-4 默认值在 10k 样本下是错误的，但没有人谈论它 [D]"
-    },
-    {
-      "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-16T09:55:40.000Z",
-      "summary": "Just saw the ECCV registration fees and I'm shocked, student registration is 440 USD for early bird, and the worst thing is that you can't even do the student registration if you're presenting a paper",
-      "score": 40,
-      "titleZh": "为什么 ECCV 对于提交论文的学生来说如此昂贵？ [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-02T02:15:27.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] 自我推销帖子"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "VentureBeat",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
-      "score": 5,
-      "titleZh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
-    },
-    {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
-      "score": 5,
-      "titleZh": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证"
-    },
-    {
-      "title": "How to Fix PostgreSQL 'cannot execute CREATE TABLE in a read-only transaction' Error",
-      "link": "https://dev.to/abestdev/how-to-fix-postgresql-cannot-execute-create-table-in-a-read-only-transaction-error-3klj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:28:41 +0000",
-      "summary": "The Incident ERROR: cannot execute CREATE TABLE in a read-only transaction Postgres enforces a hard wall: no DDL, no DML writes, no sequence increments are permitted inside a read-only transaction. Th",
-      "score": 5,
-      "titleZh": "如何修复 PostgreSQL“无法在只读事务中执行 CREATE TABLE”错误"
-    },
-    {
-      "title": "AI Coding Agents Should Return Preview URLs, Not Just Code",
-      "link": "https://dev.to/neurobin_/ai-coding-agents-should-return-preview-urls-not-just-code-29f9",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:28:03 +0000",
-      "summary": "AI coding agents are getting better at creating frontend artifacts. They can write a React component, build a Vite app, generate a dashboard, produce a static report, or create a single HTML prototype",
-      "score": 5,
-      "titleZh": "AI 编码代理应该返回预览 URL，而不仅仅是代码"
-    },
-    {
-      "title": "How we built API mocks that speed up the frontend without messing up the code (or the production build)",
-      "link": "https://dev.to/giovanni786/how-we-built-api-mocks-that-speed-up-the-frontend-without-messing-up-the-code-or-the-production-4ab3",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:15:14 +0000",
-      "summary": "The real problem I believe every frontend team has suffered from this: the card is ready to start, but the backend route does not exist yet. The most obvious path would be to mock the response directl",
-      "score": 5,
-      "titleZh": "我们如何构建 API 模拟来加速前端而不弄乱代码（或生产构建）"
-    },
-    {
-      "title": "How to Add WebSocket Support to Your REST API Without Starting Over",
-      "link": "https://dev.to/sirmax/how-to-add-websocket-support-to-your-rest-api-without-starting-over-18g9",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:11:41 +0000",
-      "summary": "How to Add WebSocket Support to Your REST API Without Starting Over Your users want real-time updates. Your REST API works fine. Do you really need to rewrite everything? I faced this exact question s",
-      "score": 5,
-      "titleZh": "如何在不重新开始的情况下向 REST API 添加 WebSocket 支持"
-    },
-    {
-      "title": "Stop Overpaying Online: How I Built a Real-Time Price API That Saves You Money",
-      "link": "https://dev.to/rock2089/stop-overpaying-online-how-i-built-a-real-time-price-api-that-saves-you-money-2leh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:09:48 +0000",
-      "summary": "Ever bought something online, only to find it cheaper on another platform the next day? Yeah, me too. That frustration is exactly why I built PricePulse — a simple, fast API that fetches real-time pri",
-      "score": 5,
-      "titleZh": "停止在线支付过高费用：我如何构建一个可以为您省钱的实时价格 API"
-    },
-    {
-      "title": "Wired Android Auto: Why It Still Matters in 2023",
-      "link": "https://dev.to/norviktech/wired-android-auto-why-it-still-matters-in-2023-46a4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:06:01 +0000",
-      "summary": "Originally published at norvik.tech An in-depth technical analysis of wired Android Auto, its mechanisms, implications for development, and real business use cases. Wired Android Auto provides a direc",
-      "score": 5,
-      "titleZh": "有线 Android Auto：为什么它在 2023 年仍然很重要"
-    },
-    {
-      "title": ".com vs .ai vs .io — which extension actually helps you in 2026",
-      "link": "https://dev.to/eddie_dev_og/com-vs-ai-vs-io-which-extension-actually-helps-you-in-2026-14pa",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:00:20 +0000",
-      "summary": ".com wins on trust. .ai wins on signal. .io wins on vibe. In 2026, the best extension is not the prettiest one; it is the one that matches how customers already think. When I built NameBuddy.ai for na",
-      "score": 5,
-      "titleZh": ".com、.ai、.io——哪个扩展在 2026 年对您真正有帮助"
-    },
-    {
-      "title": "Hardening a PHP 8.4 Video Admin Panel with CSRF Double-Submit Cookies",
-      "link": "https://dev.to/ahmet_gedik778845/hardening-a-php-84-video-admin-panel-with-csrf-double-submit-cookies-39h4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 17 Jul 2026 02:00:02 +0000",
-      "summary": "A stranger's browser can POST to your admin panel without ever seeing your login screen. Last quarter I found a request in the TopVideoHub access logs that hit /admin/videos/delete with a valid sessio",
-      "score": 5,
-      "titleZh": "使用 CSRF 双提交 Cookie 强化 PHP 8.4 视频管理面板"
-    },
-    {
-      "title": "File presence is all you need: a 7-stage video pipeline with no database and no queue service",
-      "link": "https://dev.to/phillipmex/file-presence-is-all-you-need-a-7-stage-video-pipeline-with-no-database-and-no-queue-service-n9a",
+      "title": "How to Set Up Absolute Imports in Node.js and TypeScript with Nodemon",
+      "link": "https://dev.to/utkarshdhiman48/how-to-set-up-absolute-imports-in-nodejs-and-typescript-with-nodemon-2lo1",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 17 Jul 2026 01:59:41 +0000",
-      "summary": "I run a video automation pipeline on a home Windows PC: idea file in, QA'd Here's the part worth writing about: it has no database, no message queue, The entire orchestration layer is the filesystem. ",
+      "date": "Fri, 17 Jul 2026 11:12:50 +0000",
+      "summary": "TLDR Switching from relative to absolute imports in TypeScript can greatly enhance code readability and manageability. By updating the tsconfig.json settings to use a fixed path from your project's ro",
       "score": 5,
-      "titleZh": "文件存在就是您所需要的：没有数据库和队列服务的 7 级视频管道"
+      "titleZh": "如何使用 Nodemon 在 Node.js 和 TypeScript 中设置绝对导入"
     },
     {
-      "title": "Top 15 Website To Buy Snapchat Accounts (Real & Cheap)",
-      "link": "https://dev.to/dulciefloydf1ieh/top-15-website-to-buy-snapchat-accounts-real-cheap-mcj",
-      "source": "Dev.to React",
+      "title": "Building BrainGrid with BrainGrid: Spec-Driven Development with Claude Code",
+      "link": "https://dev.to/braingrid/building-braingrid-with-braingrid-spec-driven-development-with-claude-code-2g4h",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 17 Jul 2026 01:55:21 +0000",
-      "summary": "Buy Snapchat Accounts 📞 WhatsApp: +1 (506) 541-7768 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhub.com/product/buy-naver-accounts/ If you ",
+      "date": "Fri, 17 Jul 2026 11:12:19 +0000",
+      "summary": "How we ship features in under an hour — from half-baked idea to tested, deployed code. Here's what a typical feature build looks like for us: 10:02 /specify \"Add time range filter to credits health da",
       "score": 5,
-      "titleZh": "购买 Snapchat 帐户的前 15 个网站（真实且便宜）"
+      "titleZh": "使用 BrainGrid 构建 BrainGrid：使用 Claude 代码进行规范驱动开发"
+    },
+    {
+      "title": "Low-Level Serialization: Writing an Array-Based Hex to Base64 Encoder in TypeScript",
+      "link": "https://dev.to/kandz/low-level-serialization-writing-an-array-based-hex-to-base64-encoder-in-typescript-128c",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:12:05 +0000",
+      "summary": "When working with low-level data streams, cryptographic keys, file attachments, or binary payloads in web applications, we frequently need to serialize raw bytes into printable text. The two most prom",
+      "score": 5,
+      "titleZh": "低级序列化：在 TypeScript 中将基于数组的十六进制写入 Base64 编码器"
+    },
+    {
+      "title": "Stop building weekend toys. Build a production-ready AI SaaS in 60 days.",
+      "link": "https://dev.to/sagheerahmed/stop-building-weekend-toys-build-a-production-ready-ai-saas-in-60-days-4jdl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:10:26 +0000",
+      "summary": "Hey DEV Community! 👋 We are officially launching the Evorozen Apex: NextGen AI Buildathon. If you are tired of building 48-hour prototype applications that get abandoned on Monday morning, this chall",
+      "score": 5,
+      "titleZh": "停止制作周末玩具。在 60 天内构建可投入生产的 AI SaaS。"
+    },
+    {
+      "title": "Node.js Internals — An Uncle-Nephew Conversation (Hindi)🍵",
+      "link": "https://dev.to/surajrkhonde/nodejs-internals-an-uncle-nephew-conversation-hindi-7n0",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:09:20 +0000",
+      "summary": "From \"why does Node.js even exist\" all the way down to buffer allocation in native memory. 👦 Nephew: Uncle, free hai kya thoda? Saturday hai, koi plan nahi. 👨‍🦳 Uncle: Free hoon. Chai bana la, phir",
+      "score": 5,
+      "titleZh": "Node.js 内部结构 — 叔叔与侄子的对话（印地语）🍵"
+    },
+    {
+      "title": "Stop Comparing AI Models. Start Comparing AI Engineering Companies.",
+      "link": "https://dev.to/mannyfrank_07/stop-comparing-ai-models-start-comparing-ai-engineering-companies-1pmf",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:09:11 +0000",
+      "summary": "Every week there's another benchmark comparing GPT, Gemini, Claude, or an open-source model. I think we're measuring the wrong thing. Enterprise AI isn't failing because companies picked the wrong LLM",
+      "score": 5,
+      "titleZh": "停止比较人工智能模型。开始比较人工智能工程公司。"
+    },
+    {
+      "title": "Under the hood of, JavaScript's Type Conversion",
+      "link": "https://dev.to/d32ssv/under-the-hood-of-javascripts-type-conversion-2epc",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:06:31 +0000",
+      "summary": "TLDR : This post discusses type conversion, wrapper objects, which seem to behave like primitive values but are actually objects. And later on the internals of the conversion rules followed by the lan",
+      "score": 5,
+      "titleZh": "JavaScript 类型转换的背后"
+    },
+    {
+      "title": "Top 20 Cyber Security Interview Questions for Freshers",
+      "link": "https://dev.to/cybersecurity-12/top-20-cyber-security-interview-questions-for-freshers-1f62",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:06:26 +0000",
+      "summary": "Cybersecurity has become one of the fastest-growing career fields worldwide. As organizations continue to face ransomware attacks, phishing campaigns, cloud security challenges, and AI-powered cyber t",
+      "score": 5,
+      "titleZh": "新生 20 大网络安全面试问题"
+    },
+    {
+      "title": "Schema Markup Generator — Free Online Tool",
+      "link": "https://dev.to/baoming/schema-markup-generator-free-online-tool-3j7p",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:06:24 +0000",
+      "summary": "--- tags: webdev, programming, tutorial, productivity canonical: https://tools.scoreroute.com/tools/schema-markup-generator/ --- # Schema Markup Generator — Free Online Tool ## Quick Answer Open [Sche",
+      "score": 5,
+      "titleZh": "模式标记生成器 — 免费在线工具"
+    },
+    {
+      "title": "Analyzing the Potential of AI in Drug Discovery: I…",
+      "link": "https://dev.to/norviktech/analyzing-the-potential-of-ai-in-drug-discovery-i-1on3",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 11:05:52 +0000",
+      "summary": "Originally published at norvik.tech Explore the implications of AI-driven drug discovery as discussed by Miles Wang. A comprehensive analysis for tech leaders and innovators. The recent discussions su",
+      "score": 5,
+      "titleZh": "分析人工智能在药物发现中的潜力：我……"
     }
   ]
 }
