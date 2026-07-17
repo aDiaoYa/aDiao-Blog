@@ -1,117 +1,81 @@
 {
-  "updated": "2026-07-14T02:21:56.274Z",
-  "date": "2026-07-14",
+  "updated": "2026-07-17T02:29:51.489Z",
+  "date": "2026-07-17",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "link": "https://neow.in/cWsyMTV3",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 13 Jul 2026 20:01:43 +0000",
-      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991",
-      "score": 281,
-      "titleZh": "如果用户选择退出人工智能培训，三星健康应用程序将威胁删除数据"
-    },
-    {
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "link": "https://github.com/morganwilliscloud/billai-bass",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 13 Jul 2026 18:18:23 +0000",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599",
-      "score": 59,
-      "titleZh": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass"
-    },
-    {
-      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "link": "https://github.com/jbwinters/jacquard-lang",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 13 Jul 2026 15:56:02 +0000",
-      "summary": "I'm fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans. To create the design, I had AI ",
-      "score": 53,
-      "titleZh": "Show HN：Jacquard，一种用于人工智能编写、人工审核代码的编程语言"
-    },
-    {
-      "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
+      "title": "whats the best and complete way to keep up with ai/ml news? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-14T01:14:30.000Z",
-      "summary": "NB: Reposting due to a typo in the title Putting this here instead of the other subs since I figured a question on deep learning theory is out of place there -- I \"recently\" found (actually, a few mon",
+      "date": "2026-07-16T20:28:38.000Z",
+      "summary": "i'm subscribed to a ai/ml newsletter but i feel like its not enough. i need a complete and not too time consuming way to keep up with ai/ml news because i feel like im left behind. thanks in advance s",
       "score": 40,
-      "titleZh": "本专着的内容对于深度神经网络的现代理论理解可靠吗？ [D]"
+      "titleZh": "跟上 AI/ML 新闻的最佳且完整的方式是什么？ [D]"
     },
     {
-      "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+      "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T19:20:07.000Z",
-      "summary": "Disclosure: I built it, it is open source, Apache-2.0 licensed, and currently alpha. Repository: https://github.com/mireklzicar/gpuhedge I started working on it after benchmarking a 17 GB AI model acr",
+      "date": "2026-07-16T19:17:01.000Z",
+      "summary": "Hi everyone, I've been working independently on a recurrent architecture called **DABSN (Dynamic Adaptive Bias State Network)** for the past several months, and I finally reached the point where I fee",
       "score": 40,
-      "titleZh": "GPUHedge：对冲无服务器 GPU 提供商将冷启动 p95 延迟从 117 秒缩短至 30 秒 [P]"
+      "titleZh": "寻求合作者来扩展和独立评估新的循环语言模型架构（预印本+代码）[R]"
     },
     {
-      "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+      "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T17:50:49.000Z",
-      "summary": "Read a long piece on the future of LLM reasoning that makes a provocative claim: Chain of Thought is a useful hack but we've started to confuse a readable trace with the actual computation. All in all",
+      "date": "2026-07-16T16:00:01.000Z",
+      "summary": "While writing an essay about AI memory and persistent context, I started wondering whether current AI memory systems are optimized for the right thing. Current AI systems already maintain forms of per",
       "score": 40,
-      "titleZh": "思想链是一个规模陷阱。下一波是潜在推理（Coconut / HRM / RecrusiveMAS）......但随后我们遇到了黑匣子墙。 BDH适合哪里？ [D]"
+      "titleZh": "当前的人工智能内存架构是否针对错误的抽象进行了优化？ [D]"
     },
     {
-      "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
+      "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T13:59:17.000Z",
-      "summary": "Left: Telegram digest (optional); Right: detailed digest on HTML Like probably everyone here, my to-read list only grows. Skimming arXiv listings or my feeds takes 30-60 minutes a day, 95% of it is ir",
+      "date": "2026-07-16T13:31:07.000Z",
+      "summary": "https://arxiv.org/pdf/2607.13511 the core idea is, we cannot have ternary PTQ with fixed matrix size, trying to do that is dead end. so i tried decomposing the matrix to 2 ternary matrices and inner d",
       "score": 40,
-      "titleZh": "每天都有数百篇论文出现在 arXiv 上，其中可能有 3 篇论文对我的研究很重要，因此我构建了一个开源工具来查找它们 [P]"
+      "titleZh": "ExTernD：扩展秩三元分解三元 LLM PTQ，精度接近任何量化级别 [P]"
     },
     {
-      "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
+      "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T08:27:09.000Z",
-      "summary": "Anthropic’s Jacobian Lens work introduced a way to inspect verbalizable representations inside language models. Follow-up experiments suggested that entropy in this internal “workspace” might help ide",
+      "date": "2026-07-16T12:50:35.000Z",
+      "summary": "Every qlora tutorial on earth says start at 2e-4. Unsloth docs, hf examples, the paper itself. and for small datasets i now think that numbers is a trap. Where does 2e-4 come from? alpaca. 52k samples",
       "score": 40,
-      "titleZh": "评估 J 空间熵作为 Qwen3-4B 上 7 个数据集的误差预测器 [R]"
+      "titleZh": "qlora 2e-4 默认值在 10k 样本下是错误的，但没有人谈论它 [D]"
     },
     {
-      "title": "Prompt-engineering paper accepted to ICML [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+      "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-13T05:00:07.000Z",
-      "summary": "\"Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity\" This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: \"changing the prompt t",
+      "date": "2026-07-16T09:55:40.000Z",
+      "summary": "Just saw the ECCV registration fees and I'm shocked, student registration is 440 USD for early bird, and the worst thing is that you can't even do the student registration if you're presenting a paper",
       "score": 40,
-      "titleZh": "即时工程论文被 ICML 接受 [R]"
+      "titleZh": "为什么 ECCV 对于提交论文的学生来说如此昂贵？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -123,127 +87,163 @@
       "date": "2026-07-02T02:15:27.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "Thiết kế Figma song song Dev Tools: Đánh giá hiệu năng Lunar Lake",
-      "link": "https://dev.to/hungphatlaptop/thiet-ke-figma-song-song-dev-tools-danh-gia-hieu-nang-lunar-lake-50kk",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
+      "score": 5,
+      "titleZh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 16 Jul 2026 19:02:38 GMT",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+      "score": 5,
+      "titleZh": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证"
+    },
+    {
+      "title": "How to Fix PostgreSQL 'cannot execute CREATE TABLE in a read-only transaction' Error",
+      "link": "https://dev.to/abestdev/how-to-fix-postgresql-cannot-execute-create-table-in-a-read-only-transaction-error-3klj",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 02:13:44 +0000",
-      "summary": "Khi làm front-end, việc chia đôi màn hình để vừa code, mở Dev Tools trên trình duyệt, vừa đối chiếu thiết kế trên Figma là một kịch bản đa nhiệm kinh điển đòi hỏi sự phối hợp mượt mà giữa CPU, RAM và ",
+      "date": "Fri, 17 Jul 2026 02:28:41 +0000",
+      "summary": "The Incident ERROR: cannot execute CREATE TABLE in a read-only transaction Postgres enforces a hard wall: no DDL, no DML writes, no sequence increments are permitted inside a read-only transaction. Th",
       "score": 5,
-      "titleZh": "Thiết kế Figma 歌曲开发工具：Đánh giá hiệu năng Lunar Lake"
+      "titleZh": "如何修复 PostgreSQL“无法在只读事务中执行 CREATE TABLE”错误"
     },
     {
-      "title": "ComposeHealthCheck: Catch Docker Compose Startup Bugs Before They Cost You an Hour",
-      "link": "https://dev.to/dev_encyclopedia/composehealthcheck-catch-docker-compose-startup-bugs-before-they-cost-you-an-hour-45n4",
+      "title": "AI Coding Agents Should Return Preview URLs, Not Just Code",
+      "link": "https://dev.to/neurobin_/ai-coding-agents-should-return-preview-urls-not-just-code-29f9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 02:09:53 +0000",
-      "summary": "If you've ever had your app throw \"connection refused\" against a database that's clearly running, you already know the problem: depends_on only waits for a container to start, not for the process insi",
+      "date": "Fri, 17 Jul 2026 02:28:03 +0000",
+      "summary": "AI coding agents are getting better at creating frontend artifacts. They can write a React component, build a Vite app, generate a dashboard, produce a static report, or create a single HTML prototype",
       "score": 5,
-      "titleZh": "ComposeHealthCheck：在 Docker Compose 花费您一个小时之前捕获启动错误"
+      "titleZh": "AI 编码代理应该返回预览 URL，而不仅仅是代码"
     },
     {
-      "title": "PricePulse: A Free API for Real-Time Cryptocurrency & Stock Prices — No Signup Required",
-      "link": "https://dev.to/rock2089/pricepulse-a-free-api-for-real-time-cryptocurrency-stock-prices-no-signup-required-f28",
+      "title": "How we built API mocks that speed up the frontend without messing up the code (or the production build)",
+      "link": "https://dev.to/giovanni786/how-we-built-api-mocks-that-speed-up-the-frontend-without-messing-up-the-code-or-the-production-4ab3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 17 Jul 2026 02:15:14 +0000",
+      "summary": "The real problem I believe every frontend team has suffered from this: the card is ready to start, but the backend route does not exist yet. The most obvious path would be to mock the response directl",
+      "score": 5,
+      "titleZh": "我们如何构建 API 模拟来加速前端而不弄乱代码（或生产构建）"
+    },
+    {
+      "title": "How to Add WebSocket Support to Your REST API Without Starting Over",
+      "link": "https://dev.to/sirmax/how-to-add-websocket-support-to-your-rest-api-without-starting-over-18g9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 02:08:48 +0000",
-      "summary": "PricePulse is a lightweight, developer-friendly API that delivers real-time cryptocurrency and stock market data. No complex SDKs, no OAuth dance, no credit card required to start. PricePulse is a RES",
+      "date": "Fri, 17 Jul 2026 02:11:41 +0000",
+      "summary": "How to Add WebSocket Support to Your REST API Without Starting Over Your users want real-time updates. Your REST API works fine. Do you really need to rewrite everything? I faced this exact question s",
       "score": 5,
-      "titleZh": "PricePulse：实时加密货币和股票价格的免费 API — 无需注册"
+      "titleZh": "如何在不重新开始的情况下向 REST API 添加 WebSocket 支持"
     },
     {
-      "title": "The 5-Minute Health Check That Saved My Team 40 Hours of Debugging",
-      "link": "https://dev.to/sirmax/the-5-minute-health-check-that-saved-my-team-40-hours-of-debugging-4i84",
+      "title": "Stop Overpaying Online: How I Built a Real-Time Price API That Saves You Money",
+      "link": "https://dev.to/rock2089/stop-overpaying-online-how-i-built-a-real-time-price-api-that-saves-you-money-2leh",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 02:08:11 +0000",
-      "summary": "The 3 AM Wake-Up Call Two years ago I got paged at 3 AM. The monitoring dashboard was screaming that our payment service was down. I logged into the server, checked the process list — the service was ",
+      "date": "Fri, 17 Jul 2026 02:09:48 +0000",
+      "summary": "Ever bought something online, only to find it cheaper on another platform the next day? Yeah, me too. That frustration is exactly why I built PricePulse — a simple, fast API that fetches real-time pri",
       "score": 5,
-      "titleZh": "5 分钟的运行状况检查为我的团队节省了 40 小时的调试时间"
+      "titleZh": "停止在线支付过高费用：我如何构建一个可以为您省钱的实时价格 API"
     },
     {
-      "title": "Meta's Decision to Remove AI D…",
-      "link": "https://dev.to/norviktech/metas-decision-to-remove-ai-d-nlk",
+      "title": "Wired Android Auto: Why It Still Matters in 2023",
+      "link": "https://dev.to/norviktech/wired-android-auto-why-it-still-matters-in-2023-46a4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 02:05:51 +0000",
-      "summary": "Originally published at norvik.tech Explore the implications of Meta's removal of the AI deepfake feature on Instagram. Technical insights and business impacts analyzed. Meta recently announced the di",
+      "date": "Fri, 17 Jul 2026 02:06:01 +0000",
+      "summary": "Originally published at norvik.tech An in-depth technical analysis of wired Android Auto, its mechanisms, implications for development, and real business use cases. Wired Android Auto provides a direc",
       "score": 5,
-      "titleZh": "Meta 决定删除 AI D……"
+      "titleZh": "有线 Android Auto：为什么它在 2023 年仍然很重要"
     },
     {
       "title": ".com vs .ai vs .io — which extension actually helps you in 2026",
-      "link": "https://dev.to/eddie_dev_og/com-vs-ai-vs-io-which-extension-actually-helps-you-in-2026-4oji",
+      "link": "https://dev.to/eddie_dev_og/com-vs-ai-vs-io-which-extension-actually-helps-you-in-2026-14pa",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 02:00:36 +0000",
+      "date": "Fri, 17 Jul 2026 02:00:20 +0000",
       "summary": ".com wins on trust. .ai wins on signal. .io wins on vibe. In 2026, the best extension is not the prettiest one; it is the one that matches how customers already think. When I built NameBuddy.ai for na",
       "score": 5,
       "titleZh": ".com、.ai、.io——哪个扩展在 2026 年对您真正有帮助"
     },
     {
-      "title": "Breaking the Clipboard: Why Copy-Pasting Across Different OS is Still Painful",
-      "link": "https://dev.to/simpledrop/breaking-the-clipboard-why-copy-pasting-across-different-os-is-still-painful-20ec",
+      "title": "Hardening a PHP 8.4 Video Admin Panel with CSRF Double-Submit Cookies",
+      "link": "https://dev.to/ahmet_gedik778845/hardening-a-php-84-video-admin-panel-with-csrf-double-submit-cookies-39h4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 01:57:00 +0000",
-      "summary": "1. The Invisible Wall: Clipboard Limitations in a Multi-OS World As developers, we constantly juggle different environments. One moment, I'm working on a critical configuration file in a Linux VM. The",
+      "date": "Fri, 17 Jul 2026 02:00:02 +0000",
+      "summary": "A stranger's browser can POST to your admin panel without ever seeing your login screen. Last quarter I found a request in the TopVideoHub access logs that hit /admin/videos/delete with a valid sessio",
       "score": 5,
-      "titleZh": "破坏剪贴板：为什么在不同操作系统之间复制粘贴仍然很痛苦"
+      "titleZh": "使用 CSRF 双提交 Cookie 强化 PHP 8.4 视频管理面板"
     },
     {
-      "title": "Beyond Chat: Building an AI Agent That Understands Your Entire Development Workflow",
-      "link": "https://dev.to/joshinachiket/beyond-chat-building-an-ai-agent-that-understands-your-entire-development-workflow-1n4e",
-      "source": "Dev.to WebDev",
+      "title": "File presence is all you need: a 7-stage video pipeline with no database and no queue service",
+      "link": "https://dev.to/phillipmex/file-presence-is-all-you-need-a-7-stage-video-pipeline-with-no-database-and-no-queue-service-n9a",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 01:50:59 +0000",
-      "summary": "Series: Agentic Engineering – Practical AI Workflows for Modern Software Teams (Part 1) Artificial Intelligence has quickly become an integral part of a software engineer's toolkit. We ask ChatGPT to ",
+      "date": "Fri, 17 Jul 2026 01:59:41 +0000",
+      "summary": "I run a video automation pipeline on a home Windows PC: idea file in, QA'd Here's the part worth writing about: it has no database, no message queue, The entire orchestration layer is the filesystem. ",
       "score": 5,
-      "titleZh": "超越聊天：构建了解整个开发工作流程的 AI 代理"
+      "titleZh": "文件存在就是您所需要的：没有数据库和队列服务的 7 级视频管道"
     },
     {
-      "title": "Self-Hosting a Browser File Viewer Under a Strict CSP: Workers, WASM, and Assets Without Public CDNs",
-      "link": "https://dev.to/_a0eb4d8107cee18d04b2cb/self-hosting-a-browser-file-viewer-under-a-strict-csp-workers-wasm-and-assets-without-public-cdns-4hak",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 14 Jul 2026 01:44:30 +0000",
-      "summary": "File Viewer began with a consumer-facing application whose backend resources were limited. In 2022, my manager asked me to move document preview entirely into the frontend. That constraint eventually ",
-      "score": 5,
-      "titleZh": "在严格的 CSP 下自托管浏览器文件查看器：没有公共 CDN 的工作人员、WASM 和资产"
-    },
-    {
-      "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
-      "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
+      "title": "Top 15 Website To Buy Snapchat Accounts (Real & Cheap)",
+      "link": "https://dev.to/dulciefloydf1ieh/top-15-website-to-buy-snapchat-accounts-real-cheap-mcj",
       "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 14 Jul 2026 01:28:53 +0000",
-      "summary": "Like many developers, I started this project with a simple idea: \"What if there was a place that made discovering films feel intentional again?\" That idea eventually became Cineaste. cineastefilm.org ",
+      "date": "Fri, 17 Jul 2026 01:55:21 +0000",
+      "summary": "Buy Snapchat Accounts 📞 WhatsApp: +1 (506) 541-7768 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhub.com/product/buy-naver-accounts/ If you ",
       "score": 5,
-      "titleZh": "过去几周我用 React 和 Firebase 构建了一个 Cinema 应用程序 🎬"
+      "titleZh": "购买 Snapchat 帐户的前 15 个网站（真实且便宜）"
     }
   ]
 }
