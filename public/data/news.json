@@ -1,21 +1,81 @@
 {
-  "updated": "2026-07-21T02:31:31.289Z",
+  "updated": "2026-07-21T11:47:20.761Z",
   "date": "2026-07-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "ML/DL Engineer looking for open-source repos to contribute to (Pytorch experience) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v21lrx/mldl_engineer_looking_for_opensource_repos_to/",
+      "title": "China’s open-weights AI strategy is winning",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 20 Jul 2026 14:21:47 +0000",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269",
+      "score": 1127,
+      "titleZh": "中国的开放权重人工智能战略正在获胜"
+    },
+    {
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "link": "https://news.ycombinator.com/item?id=48981136",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 20 Jul 2026 16:32:10 +0000",
+      "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive ",
+      "score": 89,
+      "titleZh": "推出 HN：Bloomy (YC S26) – AI 驱动的 K-12 掌握学习"
+    },
+    {
+      "title": "Number of Submissions @ AAAI [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-20T23:30:19.000Z",
-      "summary": "Hi everyone, I'm a third year CSE undergrad student. I have been working on a couple of CNN and ConvLSTM projects lately. I'm eager to contribute to open-source projects where I can: Work on challengi",
+      "date": "2026-07-21T10:22:58.000Z",
+      "summary": "Recently submitted my abstract and the submission number is 32xxx. With still a day to go, I just wonder where are we heading. Hope these conferences at least start making the reviews and names public",
       "score": 40,
-      "titleZh": "ML/DL 工程师寻找开源存储库以做出贡献（Pytorch 体验）[P]"
+      "titleZh": "@ AAAI 提交的数量 [D]"
+    },
+    {
+      "title": "My OCR model mislabels section titles as body text. Is a CRF the right fix, or am I overcomplicating it? [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2bs2k/my_ocr_model_mislabels_section_titles_as_body/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-21T07:51:20.000Z",
+      "summary": "Hi everyone, I'm working on extracting the hierarchical structure of long PDF documents (legal/regulatory text, lots of numbered sections) and would like to gather some feedback on my approach before ",
+      "score": 40,
+      "titleZh": "我的 OCR 模型将章节标题错误标记为正文。 CRF 是正确的解决方案吗？还是我把它弄得太复杂了？ [P]"
+    },
+    {
+      "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-21T07:19:51.000Z",
+      "summary": "TL;DR: I’m reproducing the trait-persistence result from arXiv:2606.24014 on one RTX 3090. Before I can test persistence I need to install a trait via RL — and my GRPO run moves the trait only +2.4 po",
+      "score": 40,
+      "titleZh": "复制 OpenAI 的“持续有益的模型”——GRPO 特征安装几乎不动。有想法吗？ [P][R]"
+    },
+    {
+      "title": "Tri-Net v2: Open-source implementation of our Scientific Reports paper on unified skin lesion and symptom-based monkeypox detection [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v26adz/trinet_v2_opensource_implementation_of_our/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-21T03:01:03.000Z",
+      "summary": "Hi everyone, We've open-sourced Tri-Net v2, the official implementation accompanying our recently published Scientific Reports (Nature Portfolio) paper: \"Tri-Net: Unified Deep Learning for Skin Lesion",
+      "score": 40,
+      "titleZh": "Tri-Net v2：我们关于统一皮肤病变和基于症状的猴痘检测的科学报告论文的开源实现 [R]"
     },
     {
       "title": "ACL ARR (May 2026)- Updating Reviewer Score post 17 July AoE Deadline? [D]",
@@ -30,30 +90,6 @@
       "titleZh": "ACL ARR（2026 年 5 月）- 在 7 月 17 日 AoE 截止日期后更新审稿人分数？ [D]"
     },
     {
-      "title": "Exploring continual learning without replay buffers: Our findings using dynamic task-similarity routing [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1rmbb/exploring_continual_learning_without_replay/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-20T17:13:34.000Z",
-      "summary": "Hi, I’ve been doing some work in the continual learning space and wanted to share an open-source framework we put together called Coincidex, along with some architectural insights and failure modes we",
-      "score": 40,
-      "titleZh": "探索没有重播缓冲区的持续学习：我们使用动态任务相似性路由的发现 [P]"
-    },
-    {
-      "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-20T16:26:55.000Z",
-      "summary": "I worked on this project (https://github.com/workofart/harness-training) for the past few months to reframe \"Agent-driven Self-improving Harness\" to \"Harness Training\". The idea is simple, the harness",
-      "score": 40,
-      "titleZh": "使用类似 PyTorch 的框架训练与模型无关和任务环境无关的能力改进工具 [P]"
-    },
-    {
       "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
       "source": "Reddit ML",
@@ -64,18 +100,6 @@
       "summary": "So, I just read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, bei",
       "score": 40,
       "titleZh": "我刚刚读了 LeCun 最近对世界模型的思考。对 JEPA 作为前进道路的想法？ [D]"
-    },
-    {
-      "title": "Are there some textbooks that take a primarily engineering approach to machine learning (as opposed to a \"scientific\" approach)? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v16l6a/are_there_some_textbooks_that_take_a_primarily/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-20T00:32:08.000Z",
-      "summary": "As someone who studied stats undergrad and industrial engineering operations research grad, and who thinks about the practical business of ML components in software.... I get lost and a bit hopeless w",
-      "score": 40,
-      "titleZh": "是否有一些教科书主要采用工程方法来进行机器学习（而不是“科学”方法）？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +126,124 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Introducing Cosmos 3 Edge",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 20 Jul 2026 15:58:51 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Cosmos 3 Edge 简介"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "score": 5,
-      "titleZh": "长视野模型时代的安全性和对准"
-    },
-    {
-      "title": "We Let AI Agents Write Half Our Codebase for 6 Months. Here's What Actually Broke.",
-      "link": "https://dev.to/nasifsid/we-let-ai-agents-write-half-our-codebase-for-6-months-heres-what-actually-broke-4b8h",
+      "title": "Top Features Every AI Medical Scribe & Clinical Documentation App Should Include",
+      "link": "https://dev.to/ideausherr/top-features-every-ai-medical-scribe-clinical-documentation-app-should-include-49gj",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 02:28:18 +0000",
-      "summary": "TL;DR: We didn't set out to run an experiment — AI agents just kept eating more of our sprint over six months until they were writing roughly half our code. Velocity went up. So did a specific, predic",
+      "date": "Tue, 21 Jul 2026 11:42:31 +0000",
+      "summary": "The healthcare industry is rapidly adopting artificial intelligence to reduce administrative workloads and improve patient care. Among the most impactful innovations are AI medical scribes and clinica",
       "score": 5,
-      "titleZh": "我们让 AI 代理在 6 个月内编写我们一半的代码库。这就是实际发生的事情。"
+      "titleZh": "每个人工智能医疗抄写员和临床文档应用程序应包括的主要功能"
     },
     {
-      "title": "David Stark: Top High-Paying Roles",
-      "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-1507",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 02:27:00 +0000",
-      "summary": "👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in JAVASCRIPT roles this week. We don't do \"Easy Apply\". Our internal gatekeeper just processed 200+ verified remot",
-      "score": 5,
-      "titleZh": "大卫·斯塔克：顶级高薪角色"
-    },
-    {
-      "title": "Typed Email Verification States in React",
-      "link": "https://dev.to/ryanlee91/typed-email-verification-states-in-react-4aj0",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 02:24:33 +0000",
-      "summary": "Email verification UX often breaks long before the backend is actualy down. The UI says \"check your inbox\", polling keeps spinning, the resend button wakes up too early, and support gets screenshots w",
-      "score": 5,
-      "titleZh": "React 中输入的电子邮件验证状态"
-    },
-    {
-      "title": "I got tired of repeating engineering rules to AI on every project. So I built GEF.",
-      "link": "https://dev.to/gnzikoune/i-got-tired-of-repeating-engineering-rules-to-ai-on-every-project-so-i-built-gef-4b6d",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 02:23:41 +0000",
-      "summary": "For several months, I noticed the same problem with Cursor, Windsurf, and other AI assistants. They're excellent… but they quickly forget project rules. At first: clean architecture Then, after a few ",
-      "score": 5,
-      "titleZh": "我厌倦了在每个项目上向人工智能重复工程规则。所以我建立了全球环境基金。"
-    },
-    {
-      "title": "Stop Letting Stale Requests Win: A Practical AbortController Pattern",
-      "link": "https://dev.to/pop_watch_ac45504c97f6c29/stop-letting-stale-requests-win-a-practical-abortcontroller-pattern-nfa",
+      "title": "A Flexbox playground in one state object: container + item props live CSS, and the main/cross axis trick",
+      "link": "https://dev.to/dev48v/a-flexbox-playground-in-one-state-object-container-item-props-live-css-and-the-maincross-59a",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 02:14:58 +0000",
-      "summary": "Modern interfaces make requests constantly: type-ahead search, filters, route changes, live validation, refresh buttons. The hard part is not starting a request. It is deciding which result is still a",
+      "date": "Tue, 21 Jul 2026 11:42:11 +0000",
+      "summary": "Flexbox is the layout tool everyone reaches for and almost nobody feels fully in control of. So I built a playground: toggle every container and item property, watch the boxes rearrange in real time, ",
       "score": 5,
-      "titleZh": "停止让过时的请求获胜：实用的 AbortController 模式"
+      "titleZh": "一个状态对象中的 Flexbox 游乐场：容器 + 项目道具实时 CSS，以及主/横轴技巧"
     },
     {
-      "title": "How I'm Doing It - Vibe coding my first blog with free AI tools and Deadlogs blog engine",
-      "link": "https://dev.to/teeteate/how-im-doing-it-vibe-coding-my-first-blog-with-free-ai-tools-and-a-static-site-generator-4aph",
+      "title": "Ускорение интернет-магазина на 1С-Битрикс с 7 до 2 секунд: SQL, кеширование, WebP",
+      "link": "https://dev.to/_swebs_f392b7/uskorieniie-intierniet-maghazina-na-1s-bitriks-s-7-do-2-siekund-sql-kieshirovaniie-webp-kln",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 02:11:17 +0000",
-      "summary": "Why Blogging? I've always loved blogging writing. I believe in the ✨ magical✨ power of written expression. Over the years, I've enjoyed handwriting personal journal entries and making lists of all kin",
+      "date": "Tue, 21 Jul 2026 11:41:08 +0000",
+      "summary": "Интернет-магазин федерального дистрибьютора IT-оборудования тормозил. Страницы каталога и карточки товаров открывались по 7–15 секунд. Показатель отказов вырос до 62%, а позиции в поиске поползли вниз",
       "score": 5,
-      "titleZh": "我是如何做的 - Vibe 使用免费的 AI 工具和 Deadlogs 博客引擎编写我的第一个博客"
+      "titleZh": "Ускорение интернет-магазина на 1С-Битрикс с 7 до 2 секунд: SQL, кеширование, WebP"
     },
     {
-      "title": "I Stopped Grepping Logs and Started Querying Them — My 3-Step Structured Logging Setup",
-      "link": "https://dev.to/sirmax/i-stopped-grepping-logs-and-started-querying-them-my-3-step-structured-logging-setup-4m9g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 02:09:24 +0000",
-      "summary": "I Stopped Grepping Logs and Started Querying Them — My 3-Step Structured Logging Setup Two months ago, our production API went down at 2 AM. The on-call engineer spent 40 minutes grepping through 200 ",
-      "score": 5,
-      "titleZh": "我停止了 Grepping 日志并开始查询它们 — 我的 3 步结构化日志记录设置"
-    },
-    {
-      "title": "How I Use Curl To Code to Save Time as a Developer",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-curl-to-code-to-save-time-as-a-developer-2ghe",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 02:07:07 +0000",
-      "summary": "What is Curl To Code? Curl To Code free online curl to code tool. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick calculations and conversions. Curl T",
-      "score": 5,
-      "titleZh": "作为开发人员，我如何使用 Curl To Code 来节省时间"
-    },
-    {
-      "title": "Why Handforged Iron Hardware Stands the Test of Time",
-      "link": "https://dev.to/mattjoshi/why-handforged-iron-hardware-stands-the-test-of-time-bl",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 02:06:43 +0000",
-      "summary": "In a world of mass production, handcrafted materials continue to stand out for one simple reason—they tell a story. Every hammer mark on a handforged piece reflects the skill, patience, and experience",
-      "score": 5,
-      "titleZh": "为什么手工锻造的铁件经得起时间的考验"
-    },
-    {
-      "title": "Why We Build Browser Games on Three.js",
-      "link": "https://dev.to/paulcrinigan/why-we-build-browser-games-on-threejs-n39",
+      "title": "Building Spotify's track table in pure CSS Grid: one column template, a hover # ▶ swap, and a now-playing equalizer",
+      "link": "https://dev.to/dev48v/building-spotifys-track-table-in-pure-css-grid-one-column-template-a-hover-swap-and-a-5a1j",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 01:04:28 +0000",
-      "summary": "Every game project starts with the same question: what do we build it in? For anything that should run in a browser, our answer keeps landing on Three.js. It isn't a full engine, and that's deliberate",
+      "date": "Tue, 21 Jul 2026 11:40:45 +0000",
+      "summary": "Open any playlist on Spotify, Apple Music or YouTube Music and you meet the same object: a big cover up top, then a grid of rows — number, song, album, date, length. It looks like a data table, but th",
       "score": 5,
-      "titleZh": "为什么我们在 Three.js 上构建浏览器游戏"
+      "titleZh": "在纯 CSS 网格中构建 Spotify 的曲目表：一列模板、悬停 # ▶ 交换和正在播放的均衡器"
+    },
+    {
+      "title": "Multi-Cloud Strategy in Software Architecture: Benefits, Trade-offs, and Best Practices",
+      "link": "https://dev.to/jessicab/multi-cloud-strategy-in-software-architecture-benefits-trade-offs-and-best-practices-3fak",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 11:40:21 +0000",
+      "summary": "A single outage can cost a business thousands of dollars in just a few minutes, and that is exactly why so many companies are rethinking how they use the cloud. Rather than sticking with a single prov",
+      "score": 5,
+      "titleZh": "软件架构中的多云策略：优势、权衡和最佳实践"
+    },
+    {
+      "title": "How to Fix Puppeteer Memory Leaks in Production (and When to Stop Running Chromium)",
+      "link": "https://dev.to/grabbit/how-to-fix-puppeteer-memory-leaks-in-production-and-when-to-stop-running-chromium-23c0",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 11:40:18 +0000",
+      "summary": "If you run Puppeteer in production long enough, you eventually meet the same graph: resident memory climbing steadily over hours, flat under test, until a container hits its limit and the OOM killer t",
+      "score": 5,
+      "titleZh": "如何修复生产中的 Puppeteer 内存泄漏（以及何时停止运行 Chromium）"
+    },
+    {
+      "title": "Gomoku from scratch: one outward count from the last stone powers both the win check and the greedy AI",
+      "link": "https://dev.to/dev48v/gomoku-from-scratch-one-outward-count-from-the-last-stone-powers-both-the-win-check-and-the-greedy-2ndj",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 11:40:03 +0000",
+      "summary": "Gomoku is the kind of game that looks like it needs a heavy board-scanning routine to tell who won. It doesn't. When I built a complete two-player Gomoku — a 15×15 board, five-in-a-row detection in ev",
+      "score": 5,
+      "titleZh": "从头开始的五子棋：从最后一子开始向外计数，既可以为获胜检查提供动力，也可以为贪婪的人工智能提供动力"
+    },
+    {
+      "title": "Why Icon Fonts Are a Bad Default for Modern Web Apps",
+      "link": "https://dev.to/137foundry/why-icon-fonts-are-a-bad-default-for-modern-web-apps-p6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 11:39:52 +0000",
+      "summary": "Icon fonts had a good run. Bundling dozens of icons into a single font file was a genuinely clever way to ship a lot of visuals cheaply back when every image request cost a separate connection and SVG",
+      "score": 5,
+      "titleZh": "为什么图标字体对于现代 Web 应用程序来说是一个糟糕的默认值"
+    },
+    {
+      "title": "How to Build an SVG Icon Sprite System That Doesn't Bloat Your Bundle",
+      "link": "https://dev.to/137foundry/how-to-build-an-svg-icon-sprite-system-that-doesnt-bloat-your-bundle-257o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 11:39:50 +0000",
+      "summary": "Inline SVG components are the right call for accessibility and styling flexibility, but importing dozens of individual icon components can quietly add real weight to a bundle if tree-shaking doesn't c",
+      "score": 5,
+      "titleZh": "如何构建一个不会让你的包变得臃肿的 SVG 图标 Sprite 系统"
+    },
+    {
+      "title": "Simple Steps to Buying Old gihtub Account – Complete Guide in ...",
+      "link": "https://dev.to/dawnapolk6ccwb/simple-steps-to-buying-old-gihtub-account-complete-guide-in--3n97",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 11:36:20 +0000",
+      "summary": "Buy Old GitHub Accounts: Everything You Need to Know Before Making a Decision (2026 Guide) 📲 Telegram: https://t.me/UsaDigitalHub 💬 WhatsApp: +1 (506) 541-7768 🎮 Discord: usadigitalhub 📧 Email: us",
+      "score": 5,
+      "titleZh": "购买旧 gihtub 帐户的简单步骤 – 完整指南..."
     }
   ]
 }
