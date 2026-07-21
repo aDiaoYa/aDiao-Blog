@@ -1,10 +1,58 @@
 {
-  "updated": "2026-07-20T12:15:24.061Z",
-  "date": "2026-07-20",
+  "updated": "2026-07-21T02:31:31.289Z",
+  "date": "2026-07-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "ML/DL Engineer looking for open-source repos to contribute to (Pytorch experience) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v21lrx/mldl_engineer_looking_for_opensource_repos_to/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-20T23:30:19.000Z",
+      "summary": "Hi everyone, I'm a third year CSE undergrad student. I have been working on a couple of CNN and ConvLSTM projects lately. I'm eager to contribute to open-source projects where I can: Work on challengi",
+      "score": 40,
+      "titleZh": "ML/DL 工程师寻找开源存储库以做出贡献（Pytorch 体验）[P]"
+    },
+    {
+      "title": "ACL ARR (May 2026)- Updating Reviewer Score post 17 July AoE Deadline? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1ukpx/acl_arr_may_2026_updating_reviewer_score_post_17/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-20T18:58:24.000Z",
+      "summary": "Had submitted a paper to ACL ARR May 2026 cycle. Unfortunately, none of the reviewers acknowledged the rebuttal during the author-reviewer discussion I am curious to know from people who had volunteer",
+      "score": 40,
+      "titleZh": "ACL ARR（2026 年 5 月）- 在 7 月 17 日 AoE 截止日期后更新审稿人分数？ [D]"
+    },
+    {
+      "title": "Exploring continual learning without replay buffers: Our findings using dynamic task-similarity routing [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1rmbb/exploring_continual_learning_without_replay/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-20T17:13:34.000Z",
+      "summary": "Hi, I’ve been doing some work in the continual learning space and wanted to share an open-source framework we put together called Coincidex, along with some architectural insights and failure modes we",
+      "score": 40,
+      "titleZh": "探索没有重播缓冲区的持续学习：我们使用动态任务相似性路由的发现 [P]"
+    },
+    {
+      "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-20T16:26:55.000Z",
+      "summary": "I worked on this project (https://github.com/workofart/harness-training) for the past few months to reframe \"Agent-driven Self-improving Harness\" to \"Harness Training\". The idea is simple, the harness",
+      "score": 40,
+      "titleZh": "使用类似 PyTorch 的框架训练与模型无关和任务环境无关的能力改进工具 [P]"
+    },
     {
       "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
@@ -16,30 +64,6 @@
       "summary": "So, I just read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, bei",
       "score": 40,
       "titleZh": "我刚刚读了 LeCun 最近对世界模型的思考。对 JEPA 作为前进道路的想法？ [D]"
-    },
-    {
-      "title": "Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1fzuy/introducing_asciitermdraw_bench_testing_the/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-20T08:53:33.000Z",
-      "summary": "ASCIITermDraw-Bench: Can a Model Actually Draw in ASCII? Do we really need a image generator to relay our thoughts about - an architecture? a topology? a cluster og N nodes? Is it possible to let our ",
-      "score": 40,
-      "titleZh": "介绍 ASCIITermDraw Bench |测试 VLM 生成和编辑 ASCII 的能力 [P]"
-    },
-    {
-      "title": "ARR 2026 Meta Review score [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1bd95/arr_2026_meta_review_score_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-20T04:29:06.000Z",
-      "summary": "Hey any one experience overall score 2.66 and then Meta score 3 in some previous cycle ?? Or meta reviewer just rounded off 2.66 to 2.5?? Any Meta Reviewer here?? because there are some uninterested r",
-      "score": 40,
-      "titleZh": "ARR 2026 元评论评分 [D]"
     },
     {
       "title": "Are there some textbooks that take a primarily engineering approach to machine learning (as opposed to a \"scientific\" approach)? [D]",
@@ -54,30 +78,6 @@
       "titleZh": "是否有一些教科书主要采用工程方法来进行机器学习（而不是“科学”方法）？ [D]"
     },
     {
-      "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-19T12:54:23.000Z",
-      "summary": "GPT-2's vocabulary as a hyperbolic tree: 32,070 tokens inside a Poincaré ball that you can explore. Link : https://aethereos.net/static/tinny66666.html Link named after a reddit user disappointed with",
-      "score": 40,
-      "titleZh": "跟进：GPT-2 的词汇表是双曲树 - 庞加莱球中的 32,070 个令牌可以飞过 [P]"
-    },
-    {
-      "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-19T12:29:44.000Z",
-      "summary": "I'm a Computer Science student about to start my 4th semester this September in Pakistan. My long-term goals are: - Maintain a high GPA because I want to pursue a fully funded Master's abroad. - Event",
-      "score": 40,
-      "titleZh": "作为人工智能时代的计算机科学学生，我是否关注了错误的技能？ （需要残酷诚实的建议）[D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -87,7 +87,7 @@
       "date": "2026-07-02T02:15:27.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] 自我推销帖子"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "US public health agencies to test OpenAI and Anthropic AI models",
-      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-      "source": "AI News",
+      "title": "Introducing Cosmos 3 Edge",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 20 Jul 2026 10:00:00 +0000",
-      "summary": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The Public Health Use Ca",
+      "date": "Mon, 20 Jul 2026 15:58:51 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "美国公共卫生机构将测试 OpenAI 和 Anthropic AI 模型"
+      "titleZh": "Cosmos 3 Edge 简介"
     },
     {
-      "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-      "source": "AI News",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 20 Jul 2026 09:00:00 +0000",
-      "summary": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released ",
+      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "score": 5,
-      "titleZh": "Kimi K3开放权重模型：中国最大的人工智能押注于内存，而非计算"
+      "titleZh": "长视野模型时代的安全性和对准"
     },
     {
-      "title": "I built a local sandbox so my AI agent stops testing on real Stripe/Twilio/GitHub keys",
-      "link": "https://dev.to/hizyyo/i-built-a-local-sandbox-so-my-ai-agent-stops-testing-on-real-stripetwiliogithub-keys-4bll",
+      "title": "We Let AI Agents Write Half Our Codebase for 6 Months. Here's What Actually Broke.",
+      "link": "https://dev.to/nasifsid/we-let-ai-agents-write-half-our-codebase-for-6-months-heres-what-actually-broke-4b8h",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:14:12 +0000",
-      "summary": "AI coding agents are getting good at writing integrations. The problem is they're just as happy running them. I kept hitting the same failure mode: an agent \"testing\" a Stripe integration against a re",
+      "date": "Tue, 21 Jul 2026 02:28:18 +0000",
+      "summary": "TL;DR: We didn't set out to run an experiment — AI agents just kept eating more of our sprint over six months until they were writing roughly half our code. Velocity went up. So did a specific, predic",
       "score": 5,
-      "titleZh": "我构建了一个本地沙箱，以便我的 AI 代理停止在真实的 Stripe/Twilio/GitHub 密钥上进行测试"
+      "titleZh": "我们让 AI 代理在 6 个月内编写我们一半的代码库。这就是实际发生的事情。"
     },
     {
-      "title": "How AI Agent Development Services Are Built and Scaled",
-      "link": "https://dev.to/joshuash1/how-ai-agent-development-services-are-built-and-scaled-1g0i",
+      "title": "David Stark: Top High-Paying Roles",
+      "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-1507",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 02:27:00 +0000",
+      "summary": "👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in JAVASCRIPT roles this week. We don't do \"Easy Apply\". Our internal gatekeeper just processed 200+ verified remot",
+      "score": 5,
+      "titleZh": "大卫·斯塔克：顶级高薪角色"
+    },
+    {
+      "title": "Typed Email Verification States in React",
+      "link": "https://dev.to/ryanlee91/typed-email-verification-states-in-react-4aj0",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 02:24:33 +0000",
+      "summary": "Email verification UX often breaks long before the backend is actualy down. The UI says \"check your inbox\", polling keeps spinning, the resend button wakes up too early, and support gets screenshots w",
+      "score": 5,
+      "titleZh": "React 中输入的电子邮件验证状态"
+    },
+    {
+      "title": "I got tired of repeating engineering rules to AI on every project. So I built GEF.",
+      "link": "https://dev.to/gnzikoune/i-got-tired-of-repeating-engineering-rules-to-ai-on-every-project-so-i-built-gef-4b6d",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:14:10 +0000",
-      "summary": "Quick answer: AI agent development services build software agents that plan, call tools, and act toward a goal with limited human input. They run on a loop of a reasoning model, a memory layer, and to",
+      "date": "Tue, 21 Jul 2026 02:23:41 +0000",
+      "summary": "For several months, I noticed the same problem with Cursor, Windsurf, and other AI assistants. They're excellent… but they quickly forget project rules. At first: clean architecture Then, after a few ",
       "score": 5,
-      "titleZh": "AI 代理开发服务是如何构建和扩展的"
+      "titleZh": "我厌倦了在每个项目上向人工智能重复工程规则。所以我建立了全球环境基金。"
     },
     {
-      "title": "O Fim dos Tabus na Busca por Cuidado Médico",
-      "link": "https://dev.to/erick_martins_56d3ce2af97/o-fim-dos-tabus-na-busca-por-cuidado-medico-2ic4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 20 Jul 2026 12:13:57 +0000",
-      "summary": "Lidar com desconfortos ou dúvidas na região íntima costuma vir acompanhado de uma carga desnecessária de ansiedade e hesitação. O receio de encarar salas de espera cheias, o constrangimento na recepçã",
-      "score": 5,
-      "titleZh": "O Fim dos Tabus na Busca por Cuidado Médico"
-    },
-    {
-      "title": "USD/JPY AI: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/usdjpy-ai-ki-trading-guide-c6k",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 20 Jul 2026 12:13:52 +0000",
-      "summary": "USD/JPY AI: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/usdjpy-carry-ai/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. USD/JPY and rate-differential si",
-      "score": 5,
-      "titleZh": "美元/日元 AI：KI 交易指南"
-    },
-    {
-      "title": "Secure Aged Gmail Accounts for Business",
-      "link": "https://dev.to/buygo2bank2455/secure-aged-gmail-accounts-for-business-3fke",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 20 Jul 2026 12:13:34 +0000",
-      "summary": "Unlock the ultimate strategic guide for expanding your digital enterprise when choosing to Buy Gmail Accounts. This detailed analysis covers the fundamental aspects of email infrastructure, exploring ",
-      "score": 5,
-      "titleZh": "保护老化的 Gmail 企业帐户"
-    },
-    {
-      "title": "I Built an Open-Source Packaging Cost Calculator for E-Commerce Brands (Here's the Math)",
-      "link": "https://dev.to/tancybox/i-built-an-open-source-packaging-cost-calculator-for-e-commerce-brands-heres-the-math-gdm",
+      "title": "Stop Letting Stale Requests Win: A Practical AbortController Pattern",
+      "link": "https://dev.to/pop_watch_ac45504c97f6c29/stop-letting-stale-requests-win-a-practical-abortcontroller-pattern-nfa",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:13:19 +0000",
-      "summary": "I've spent over a decade in the custom packaging industry. If I had a dollar for every time an e-commerce founder asked me \"how much does a box cost?\", I'd have retired by now. The problem is, \"how mu",
+      "date": "Tue, 21 Jul 2026 02:14:58 +0000",
+      "summary": "Modern interfaces make requests constantly: type-ahead search, filters, route changes, live validation, refresh buttons. The hard part is not starting a request. It is deciding which result is still a",
       "score": 5,
-      "titleZh": "我为电子商务品牌构建了一个开源包装成本计算器（这是数学）"
+      "titleZh": "停止让过时的请求获胜：实用的 AbortController 模式"
     },
     {
-      "title": "weekend gap crypto: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/weekend-gap-crypto-ki-trading-guide-3gah",
+      "title": "How I'm Doing It - Vibe coding my first blog with free AI tools and Deadlogs blog engine",
+      "link": "https://dev.to/teeteate/how-im-doing-it-vibe-coding-my-first-blog-with-free-ai-tools-and-a-static-site-generator-4aph",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:13:11 +0000",
-      "summary": "weekend gap crypto: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/weekend-gap-crypto/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Weekend gap risk in c",
+      "date": "Tue, 21 Jul 2026 02:11:17 +0000",
+      "summary": "Why Blogging? I've always loved blogging writing. I believe in the ✨ magical✨ power of written expression. Over the years, I've enjoyed handwriting personal journal entries and making lists of all kin",
       "score": 5,
-      "titleZh": "周末间隙加密货币：KI 交易指南"
+      "titleZh": "我是如何做的 - Vibe 使用免费的 AI 工具和 Deadlogs 博客引擎编写我的第一个博客"
     },
     {
-      "title": "USD/JPY AI: Guida trading AI",
-      "link": "https://dev.to/meridiantrade/usdjpy-ai-guida-trading-ai-356l",
+      "title": "I Stopped Grepping Logs and Started Querying Them — My 3-Step Structured Logging Setup",
+      "link": "https://dev.to/sirmax/i-stopped-grepping-logs-and-started-querying-them-my-3-step-structured-logging-setup-4m9g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:13:06 +0000",
-      "summary": "USD/JPY AI: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/usdjpy-carry-ai/ — canonical URL for SEO. Guida al trading automatizzato con AI. USD/JPY and rate-differential ",
+      "date": "Tue, 21 Jul 2026 02:09:24 +0000",
+      "summary": "I Stopped Grepping Logs and Started Querying Them — My 3-Step Structured Logging Setup Two months ago, our production API went down at 2 AM. The on-call engineer spent 40 minutes grepping through 200 ",
       "score": 5,
-      "titleZh": "美元/日元 AI：Guida 交易 AI"
+      "titleZh": "我停止了 Grepping 日志并开始查询它们 — 我的 3 步结构化日志记录设置"
     },
     {
-      "title": "weekend gap crypto: Guida trading AI",
-      "link": "https://dev.to/meridiantrade/weekend-gap-crypto-guida-trading-ai-1ag7",
+      "title": "How I Use Curl To Code to Save Time as a Developer",
+      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-curl-to-code-to-save-time-as-a-developer-2ghe",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:12:25 +0000",
-      "summary": "weekend gap crypto: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/weekend-gap-crypto/ — canonical URL for SEO. Guida al trading automatizzato con AI. Weekend gap risk in",
+      "date": "Tue, 21 Jul 2026 02:07:07 +0000",
+      "summary": "What is Curl To Code? Curl To Code free online curl to code tool. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick calculations and conversions. Curl T",
       "score": 5,
-      "titleZh": "周末缺口加密货币：Guida 交易 AI"
+      "titleZh": "作为开发人员，我如何使用 Curl To Code 来节省时间"
     },
     {
-      "title": "I Finally Gave Bracketly a Logo That Means Something",
-      "link": "https://dev.to/ethan_5b3022150e2c07a4030/i-finally-gave-bracketly-a-logo-that-means-something-4np3",
+      "title": "Why Handforged Iron Hardware Stands the Test of Time",
+      "link": "https://dev.to/mattjoshi/why-handforged-iron-hardware-stands-the-test-of-time-bl",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 21 Jul 2026 02:06:43 +0000",
+      "summary": "In a world of mass production, handcrafted materials continue to stand out for one simple reason—they tell a story. Every hammer mark on a handforged piece reflects the skill, patience, and experience",
+      "score": 5,
+      "titleZh": "为什么手工锻造的铁件经得起时间的考验"
+    },
+    {
+      "title": "Why We Build Browser Games on Three.js",
+      "link": "https://dev.to/paulcrinigan/why-we-build-browser-games-on-threejs-n39",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 20 Jul 2026 12:05:30 +0000",
-      "summary": "I Finally Gave Bracketly a Logo That Means Something Bracketly has had a favicon since day one — a vaguely hood-shaped abstract mark that, looking back, had nothing to do with the name. It just sat th",
+      "date": "Tue, 21 Jul 2026 01:04:28 +0000",
+      "summary": "Every game project starts with the same question: what do we build it in? For anything that should run in a browser, our answer keeps landing on Three.js. It isn't a full engine, and that's deliberate",
       "score": 5,
-      "titleZh": "我终于给了 Bracketly 一个有意义的标志"
+      "titleZh": "为什么我们在 Three.js 上构建浏览器游戏"
     }
   ]
 }
