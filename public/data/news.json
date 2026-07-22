@@ -1,249 +1,249 @@
 {
-  "updated": "2026-07-21T11:47:20.761Z",
-  "date": "2026-07-21",
+  "updated": "2026-07-22T11:46:46.376Z",
+  "date": "2026-07-22",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "China’s open-weights AI strategy is winning",
-      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 20 Jul 2026 14:21:47 +0000",
-      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269",
-      "score": 1127,
-      "titleZh": "中国的开放权重人工智能战略正在获胜"
+      "date": "Tue, 21 Jul 2026 20:09:52 +0000",
+      "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments) Comments URL: https://new",
+      "score": 1255,
+      "titleZh": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件"
     },
     {
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "link": "https://news.ycombinator.com/item?id=48981136",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 20 Jul 2026 16:32:10 +0000",
-      "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive ",
-      "score": 89,
-      "titleZh": "推出 HN：Bloomy (YC S26) – AI 驱动的 K-12 掌握学习"
+      "date": "Tue, 21 Jul 2026 15:17:16 +0000",
+      "summary": "https://console.cloud.google.com/agent-platform/publishers/g... Comments URL: https://news.ycombinator.com/item?id=48993414",
+      "score": 707,
+      "titleZh": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber"
     },
     {
-      "title": "Number of Submissions @ AAAI [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 21 Jul 2026 19:04:39 +0000",
+      "summary": "Article URL: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63 Comments URL: https://news.ycombinator.com/item?id=48996652",
+      "score": 405,
+      "titleZh": "法官批准用于训练克劳德的盗版书籍的 $1.5B 人为和解"
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 21 Jul 2026 17:14:06 +0000",
+      "summary": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171 https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213",
+      "score": 330,
+      "titleZh": "Jack Dorsey 推出 Buzz，将团队聊天、AI 代理和 Git 托管结合起来"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 21 Jul 2026 21:13:20 +0000",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404",
+      "score": 213,
+      "titleZh": "用 GPT-5.6、Claude、Gemini 和 Grok“绘制”蒙娜丽莎"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 21 Jul 2026 21:27:54 +0000",
+      "summary": "Article URL: https://ai.google.dev/gemini-api/docs/latest-model Comments URL: https://news.ycombinator.com/item?id=48998606",
+      "score": 92,
+      "titleZh": "Gemini 最后的模型：温度、top_p 和 top_k 已弃用并被忽略"
+    },
+    {
+      "title": "Institution Prestige VS Research Alignment When Choosing University For Masters [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3dm96/institution_prestige_vs_research_alignment_when/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-21T10:22:58.000Z",
-      "summary": "Recently submitted my abstract and the submission number is 32xxx. With still a day to go, I just wonder where are we heading. Hope these conferences at least start making the reviews and names public",
+      "date": "2026-07-22T11:39:20.000Z",
+      "summary": "When choosing a university for a masters in ML/DL, what is more important if someone wants to go into research and an eventual PhD. Is it the ranking/prestige factor of the university or the strength ",
       "score": 40,
-      "titleZh": "@ AAAI 提交的数量 [D]"
+      "titleZh": "选择攻读硕士学位的大学时机构声望 VS 研究一致性 [D]"
     },
     {
-      "title": "My OCR model mislabels section titles as body text. Is a CRF the right fix, or am I overcomplicating it? [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2bs2k/my_ocr_model_mislabels_section_titles_as_body/",
+      "title": "NeurIPS 2026 Reviews Are Out Today (22 July, AoE) — Discussion Thread [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3a2le/neurips_2026_reviews_are_out_today_22_july_aoe/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-21T07:51:20.000Z",
-      "summary": "Hi everyone, I'm working on extracting the hierarchical structure of long PDF documents (legal/regulatory text, lots of numbered sections) and would like to gather some feedback on my approach before ",
+      "date": "2026-07-22T08:30:19.000Z",
+      "summary": "Reviews drop today. This thread is for reactions, celebrations, commiserations, and anything useful in between. First: if you got good reviews, say so. There's a norm in these threads where only the b",
       "score": 40,
-      "titleZh": "我的 OCR 模型将章节标题错误标记为正文。 CRF 是正确的解决方案吗？还是我把它弄得太复杂了？ [P]"
+      "titleZh": "NeurIPS 2026 评论今日发布（7 月 22 日，AoE）——讨论主题 [D]"
     },
     {
-      "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
+      "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-21T07:19:51.000Z",
-      "summary": "TL;DR: I’m reproducing the trait-persistence result from arXiv:2606.24014 on one RTX 3090. Before I can test persistence I need to install a trait via RL — and my GRPO run moves the trait only +2.4 po",
+      "date": "2026-07-22T07:04:40.000Z",
+      "summary": "Paper:https://arxiv.org/abs/2607.19058 Code (GitHub):https://github.com/nuemaan/skewadam Hi everyone, I just published a preprint on a new optimizer designed to tackle the massive VRAM bottleneck in M",
       "score": 40,
-      "titleZh": "复制 OpenAI 的“持续有益的模型”——GRPO 特征安装几乎不动。有想法吗？ [P][R]"
+      "titleZh": "SkewAdam：一种分层优化器，可将 MoE 状态内存减少 97%（适合 40GB GPU 上的 6.7B MoE）[R]"
     },
     {
-      "title": "Tri-Net v2: Open-source implementation of our Scientific Reports paper on unified skin lesion and symptom-based monkeypox detection [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v26adz/trinet_v2_opensource_implementation_of_our/",
+      "title": "Vibe-coded a tool to ELI5 research papers in-place [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v37s1f/vibecoded_a_tool_to_eli5_research_papers_inplace_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-21T03:01:03.000Z",
-      "summary": "Hi everyone, We've open-sourced Tri-Net v2, the official implementation accompanying our recently published Scientific Reports (Nature Portfolio) paper: \"Tri-Net: Unified Deep Learning for Skin Lesion",
+      "date": "2026-07-22T06:21:48.000Z",
+      "summary": "As I was reading interp papers, I found myself copy-pasting passages back and forth to Claude to parse through them. Eventually just vibe-coded a tool to annotate and discuss papers in place. https://",
       "score": 40,
-      "titleZh": "Tri-Net v2：我们关于统一皮肤病变和基于症状的猴痘检测的科学报告论文的开源实现 [R]"
+      "titleZh": "Vibe 对 ELI5 研究论文进行就地编码的工具 [P]"
     },
     {
-      "title": "ACL ARR (May 2026)- Updating Reviewer Score post 17 July AoE Deadline? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1ukpx/acl_arr_may_2026_updating_reviewer_score_post_17/",
-      "source": "Reddit ML",
+      "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+      "link": "https://justif.lyall.co/",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-07-20T18:58:24.000Z",
-      "summary": "Had submitted a paper to ACL ARR May 2026 cycle. Unfortunately, none of the reviewers acknowledged the rebuttal during the author-reviewer discussion I am curious to know from people who had volunteer",
-      "score": 40,
-      "titleZh": "ACL ARR（2026 年 5 月）- 在 7 月 17 日 AoE 截止日期后更新审稿人分数？ [D]"
+      "date": "Fri, 17 Jul 2026 12:47:20 +0000",
+      "summary": "Justif is a drop-in JavaScript library that progressively enhances web pages to TeX-level text justification. Installation is a single line, standard text and accessibility affordances are unchanged, ",
+      "score": 173,
+      "titleZh": "Show HN：Justif – Knuth-Plass 论证和网络微排版"
     },
     {
-      "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-20T10:50:04.000Z",
-      "summary": "So, I just read LeCun's interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, bei",
-      "score": 40,
-      "titleZh": "我刚刚读了 LeCun 最近对世界模型的思考。对 JEPA 作为前进道路的想法？ [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-02T02:15:27.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] 自我推销帖子"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "Top Features Every AI Medical Scribe & Clinical Documentation App Should Include",
-      "link": "https://dev.to/ideausherr/top-features-every-ai-medical-scribe-clinical-documentation-app-should-include-49gj",
+      "title": "5 Website Mistakes That Quietly Hurt Your SEO (And How to Fix Them)",
+      "link": "https://dev.to/sunie_mehta/5-website-mistakes-that-quietly-hurt-your-seo-and-how-to-fix-them-3ha7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 11:42:31 +0000",
-      "summary": "The healthcare industry is rapidly adopting artificial intelligence to reduce administrative workloads and improve patient care. Among the most impactful innovations are AI medical scribes and clinica",
+      "date": "Wed, 22 Jul 2026 11:41:10 +0000",
+      "summary": "Ignoring Page Speed Visitors don't enjoy waiting, and search engines don't ignore performance either. Heavy images, unoptimized scripts, and unnecessary plugins can significantly slow down a website. ",
       "score": 5,
-      "titleZh": "每个人工智能医疗抄写员和临床文档应用程序应包括的主要功能"
+      "titleZh": "5 个网站错误会悄悄损害您的 SEO（以及如何修复它们）"
     },
     {
-      "title": "A Flexbox playground in one state object: container + item props live CSS, and the main/cross axis trick",
-      "link": "https://dev.to/dev48v/a-flexbox-playground-in-one-state-object-container-item-props-live-css-and-the-maincross-59a",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 11:42:11 +0000",
-      "summary": "Flexbox is the layout tool everyone reaches for and almost nobody feels fully in control of. So I built a playground: toggle every container and item property, watch the boxes rearrange in real time, ",
-      "score": 5,
-      "titleZh": "一个状态对象中的 Flexbox 游乐场：容器 + 项目道具实时 CSS，以及主/横轴技巧"
-    },
-    {
-      "title": "Ускорение интернет-магазина на 1С-Битрикс с 7 до 2 секунд: SQL, кеширование, WebP",
-      "link": "https://dev.to/_swebs_f392b7/uskorieniie-intierniet-maghazina-na-1s-bitriks-s-7-do-2-siekund-sql-kieshirovaniie-webp-kln",
+      "title": "I Compared 7 Fly.io Alternatives to Find the Simplest Way to Deploy My Apps",
+      "link": "https://dev.to/harsh_kanani_af40095240f9/i-compared-7-flyio-alternatives-to-find-the-simplest-way-to-deploy-my-apps-1lan",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 11:41:08 +0000",
-      "summary": "Интернет-магазин федерального дистрибьютора IT-оборудования тормозил. Страницы каталога и карточки товаров открывались по 7–15 секунд. Показатель отказов вырос до 62%, а позиции в поиске поползли вниз",
+      "date": "Wed, 22 Jul 2026 11:41:05 +0000",
+      "summary": "# I Tried 7 Fly.io Alternatives for Deploying a Full-Stack App. Here’s My Honest Take I like having control over my infrastructure, but I do not necessarily want to manage every part of it. That was w",
       "score": 5,
-      "titleZh": "Ускорение интернет-магазина на 1С-Битрикс с 7 до 2 секунд: SQL, кеширование, WebP"
+      "titleZh": "我比较了 7 个 Fly.io 替代方案，以找到部署应用程序的最简单方法"
     },
     {
-      "title": "Building Spotify's track table in pure CSS Grid: one column template, a hover # ▶ swap, and a now-playing equalizer",
-      "link": "https://dev.to/dev48v/building-spotifys-track-table-in-pure-css-grid-one-column-template-a-hover-swap-and-a-5a1j",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 11:40:45 +0000",
-      "summary": "Open any playlist on Spotify, Apple Music or YouTube Music and you meet the same object: a big cover up top, then a grid of rows — number, song, album, date, length. It looks like a data table, but th",
-      "score": 5,
-      "titleZh": "在纯 CSS 网格中构建 Spotify 的曲目表：一列模板、悬停 # ▶ 交换和正在播放的均衡器"
-    },
-    {
-      "title": "Multi-Cloud Strategy in Software Architecture: Benefits, Trade-offs, and Best Practices",
-      "link": "https://dev.to/jessicab/multi-cloud-strategy-in-software-architecture-benefits-trade-offs-and-best-practices-3fak",
+      "title": "Screenshot Automation: How to Capture Web Pages on a Schedule",
+      "link": "https://dev.to/grabbit/screenshot-automation-how-to-capture-web-pages-on-a-schedule-1h71",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 11:40:21 +0000",
-      "summary": "A single outage can cost a business thousands of dollars in just a few minutes, and that is exactly why so many companies are rethinking how they use the cloud. Rather than sticking with a single prov",
+      "date": "Wed, 22 Jul 2026 11:40:28 +0000",
+      "summary": "Screenshot automation for web pages comes down to two pieces: something that fires on a schedule, and something that renders the page. You almost certainly already have the first piece. The second is ",
       "score": 5,
-      "titleZh": "软件架构中的多云策略：优势、权衡和最佳实践"
+      "titleZh": "屏幕截图自动化：如何按计划捕获网页"
     },
     {
-      "title": "How to Fix Puppeteer Memory Leaks in Production (and When to Stop Running Chromium)",
-      "link": "https://dev.to/grabbit/how-to-fix-puppeteer-memory-leaks-in-production-and-when-to-stop-running-chromium-23c0",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 11:40:18 +0000",
-      "summary": "If you run Puppeteer in production long enough, you eventually meet the same graph: resident memory climbing steadily over hours, flat under test, until a container hits its limit and the OOM killer t",
-      "score": 5,
-      "titleZh": "如何修复生产中的 Puppeteer 内存泄漏（以及何时停止运行 Chromium）"
-    },
-    {
-      "title": "Gomoku from scratch: one outward count from the last stone powers both the win check and the greedy AI",
-      "link": "https://dev.to/dev48v/gomoku-from-scratch-one-outward-count-from-the-last-stone-powers-both-the-win-check-and-the-greedy-2ndj",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 21 Jul 2026 11:40:03 +0000",
-      "summary": "Gomoku is the kind of game that looks like it needs a heavy board-scanning routine to tell who won. It doesn't. When I built a complete two-player Gomoku — a 15×15 board, five-in-a-row detection in ev",
-      "score": 5,
-      "titleZh": "从头开始的五子棋：从最后一子开始向外计数，既可以为获胜检查提供动力，也可以为贪婪的人工智能提供动力"
-    },
-    {
-      "title": "Why Icon Fonts Are a Bad Default for Modern Web Apps",
-      "link": "https://dev.to/137foundry/why-icon-fonts-are-a-bad-default-for-modern-web-apps-p6",
+      "title": "Gitignore Generator: a small tool that solves a specific problem",
+      "link": "https://dev.to/mryesiller/gitignore-generator-a-small-tool-that-solves-a-specific-problem-1h49",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 11:39:52 +0000",
-      "summary": "Icon fonts had a good run. Bundling dozens of icons into a single font file was a genuinely clever way to ship a lot of visuals cheaply back when every image request cost a separate connection and SVG",
+      "date": "Wed, 22 Jul 2026 11:38:05 +0000",
+      "summary": "Every developer knows the frustration of accidentally pushing node_modules or .DS_Store to a shared repository. Handcrafting a .gitignore from scratch is tedious, and assembling patterns from disparat",
       "score": 5,
-      "titleZh": "为什么图标字体对于现代 Web 应用程序来说是一个糟糕的默认值"
+      "titleZh": "Gitignore Generator：解决特定问题的小工具"
     },
     {
-      "title": "How to Build an SVG Icon Sprite System That Doesn't Bloat Your Bundle",
-      "link": "https://dev.to/137foundry/how-to-build-an-svg-icon-sprite-system-that-doesnt-bloat-your-bundle-257o",
+      "title": "Our pre-launch story is live on Product Hunt! Check out how we survived a massive server crash 48 hours before launch!",
+      "link": "https://dev.to/rrrpromexnetwork/our-pre-launch-story-is-live-on-product-hunt-check-out-how-we-survived-a-massive-server-crash-48-4lc",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 11:39:50 +0000",
-      "summary": "Inline SVG components are the right call for accessibility and styling flexibility, but importing dozens of individual icon components can quietly add real weight to a bundle if tree-shaking doesn't c",
+      "date": "Wed, 22 Jul 2026 11:36:28 +0000",
+      "summary": "RRR PRO MEX, NovaForge AI is our most ambitious, lightweight, and powerful all-in-one ecosystem yet. We engineered it to handle unlimited AI workflows smoothly. But today, just before our July 23rd la",
       "score": 5,
-      "titleZh": "如何构建一个不会让你的包变得臃肿的 SVG 图标 Sprite 系统"
+      "titleZh": "我们的发布前故事正在 Product Hunt 上直播！看看我们如何在发布前 48 小时的大规模服务器崩溃中幸存下来！"
     },
     {
-      "title": "Simple Steps to Buying Old gihtub Account – Complete Guide in ...",
-      "link": "https://dev.to/dawnapolk6ccwb/simple-steps-to-buying-old-gihtub-account-complete-guide-in--3n97",
+      "title": "AWS Getting Expensive? 10 Alternatives You Should Consider in 2026",
+      "link": "https://dev.to/charan_19/aws-getting-expensive-10-alternatives-you-should-consider-in-2026-d63",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 22 Jul 2026 11:36:10 +0000",
+      "summary": "AWS often starts simple. You launch an EC2 instance, connect a database, add some storage, and get your application running. But as the application grows, the infrastructure can grow with it. Soon, yo",
+      "score": 5,
+      "titleZh": "AWS 越来越贵了？ 2026 年您应该考虑的 10 个替代方案"
+    },
+    {
+      "title": "Strands Self-healing Agent for Remote server",
+      "link": "https://dev.to/buildandcodewithraman/strands-self-healing-agent-for-remote-server-357c",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 22 Jul 2026 11:34:44 +0000",
+      "summary": "Here’s what you need on the remote Linux server - Any systemd Linux box (Ubuntu/RHEL/etc.) reachable from the agent machine OpenSSH server running (sshd) Port 22 (or your chosen port) open from the ag",
+      "score": 5,
+      "titleZh": "用于远程服务器的 Strands 自愈代理"
+    },
+    {
+      "title": "What I changed after building small-business calculator pages",
+      "link": "https://dev.to/jianqiang_lou_46699ce6ff0/what-i-changed-after-building-small-business-calculator-pages-4pmn",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 22 Jul 2026 11:34:10 +0000",
+      "summary": "I’ve been building a small set of calculator pages for freelancers and small-business owners. The first version was pretty simple: put the formula on a page, add a few inputs, show the result. That wo",
+      "score": 5,
+      "titleZh": "构建小型企业计算器页面后我改变了什么"
+    },
+    {
+      "title": "The Complete Guide to Offline Storage in React Native (2026)",
+      "link": "https://dev.to/jules_sarah_0718e958f0d24/the-complete-guide-to-offline-storage-in-react-native-2026-1ea7",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 21 Jul 2026 11:36:20 +0000",
-      "summary": "Buy Old GitHub Accounts: Everything You Need to Know Before Making a Decision (2026 Guide) 📲 Telegram: https://t.me/UsaDigitalHub 💬 WhatsApp: +1 (506) 541-7768 🎮 Discord: usadigitalhub 📧 Email: us",
+      "date": "Wed, 22 Jul 2026 11:25:11 +0000",
+      "summary": "Offline storage is five categories, not one library: key-value, secure, structured, file system, and server-state cache. MMKV is the new default over AsyncStorage — roughly 30× faster with synchronous",
       "score": 5,
-      "titleZh": "购买旧 gihtub 帐户的简单步骤 – 完整指南..."
+      "titleZh": "React Native 离线存储完整指南 (2026)"
     }
   ]
 }
