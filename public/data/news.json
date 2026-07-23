@@ -1,10 +1,58 @@
 {
-  "updated": "2026-07-23T02:34:20.702Z",
+  "updated": "2026-07-23T11:49:36.787Z",
   "date": "2026-07-23",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 22 Jul 2026 17:17:54 +0000",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129",
+      "score": 570,
+      "titleZh": "人工智能实验室是鹈鹕最大化吗？"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 22 Jul 2026 14:18:05 +0000",
+      "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247",
+      "score": 393,
+      "titleZh": "高质量的非小说类书籍是人工智能的对立面"
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 22 Jul 2026 12:49:45 +0000",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973",
+      "score": 319,
+      "titleZh": "丑陋的人工智能菜单重新设计的企业"
+    },
+    {
+      "title": "What is the criteria for an oral in a conference like ACL?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4azra/what_is_the_criteria_for_an_oral_in_a_conference/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-23T11:19:30.000Z",
+      "summary": "What makes a poster and what makes it oral? submitted by /u/elnino2023 [link] [comments]",
+      "score": 40,
+      "titleZh": "像ACL这样的会议口头发言的标准是什么？[D]"
+    },
     {
       "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
@@ -28,18 +76,6 @@
       "summary": "Hey everyone, I'm not in college anymore. Is it possible to do research with a professor or any research lab while working a full time job? If yes, what's the best way to reach out and get involved? A",
       "score": 40,
       "titleZh": "询问如何与教授或研究实验室合作 [D]"
-    },
-    {
-      "title": "EMNLP Industry 2026 Paper Reviews [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3iaux/emnlp_industry_2026_paper_reviews_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-22T14:48:12.000Z",
-      "summary": "Reviews are released! Lets discuss them here! submitted by /u/Forsaken-Lab-7010 [link] [comments]",
-      "score": 40,
-      "titleZh": "EMNLP行业2026论文综述[D]"
     },
     {
       "title": "Happy openreview refresh day to all those who celebrate [D]",
@@ -90,160 +126,124 @@
       "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "score": 5,
-      "titleZh": "与埃芬汉县社区一起建设人工智能基础设施"
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "score": 5,
-      "titleZh": "新闻机构如何利用人工智能来推进其重要使命"
-    },
-    {
-      "title": "React Feature Flags Need Email Guardrails",
-      "link": "https://dev.to/ryanlee91/react-feature-flags-need-email-guardrails-2fmg",
-      "source": "Dev.to JS",
+      "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+      "link": "https://dev.to/testing_tester_f06f30bf72/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered-before-the-child-5a0d",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 23 Jul 2026 02:24:25 +0000",
-      "summary": "Feature flags make React teams faster, but they also create a sneaky kind of drift around email flows. The UI can be reading the new flag state while the transactional email template still points at t",
+      "date": "Thu, 23 Jul 2026 11:45:28 +0000",
+      "summary": "Nested FlatList's onViewableItemsChanged fires for rows that are only mounted, not actually on-screen, when nested inside another FlatList's row When a FlatList is nested inside an item rendered by an",
       "score": 5,
-      "titleZh": "React 功能标志需要电子邮件护栏"
+      "titleZh": "React Native 嵌套 FlatList：子 FlatList 可视性回调在子项实际可见之前触发"
     },
     {
-      "title": "The one-line bug that broke Open Graph cards on 836 pages",
-      "link": "https://dev.to/liam-dev/the-one-line-bug-that-broke-open-graph-cards-on-836-pages-4akd",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:17:49 +0000",
-      "summary": "For about a month, every social preview card on a site I build was silently cut off mid-word. Not truncated with an ellipsis — cut inside a word. PDF & image tools, con. The con is converters, sliced ",
-      "score": 5,
-      "titleZh": "导致 836 页 Open Graph 卡损坏的单行错误"
-    },
-    {
-      "title": "Title: Building a Zero-Backend AI Stock Bubble Tracker: Architecture, Web Scraping, and Performance Lessons",
-      "link": "https://dev.to/dundunup/title-building-a-zero-backend-ai-stock-bubble-tracker-architecture-web-scraping-and-performance-4o7k",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:17:36 +0000",
-      "summary": "Every time I open X (formerly Twitter) or Hacker News, I see developers arguing about the AI ecosystem. One camp claims we’re in a permanent super-cycle, while the other insists that massive GPU Capex",
-      "score": 5,
-      "titleZh": "标题：构建零后端 AI 股票泡沫跟踪器：架构、网页抓取和性能课程"
-    },
-    {
-      "title": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide",
-      "link": "https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-1jf",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:15:39 +0000",
-      "summary": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide ==================================================================== Web scraping is the process of extracting data from websites, and it's ",
-      "score": 5,
-      "titleZh": "构建网络爬虫并出售数据：分步指南"
-    },
-    {
-      "title": "Affiliate commission clawbacks: only pay on money you actually keep",
-      "link": "https://dev.to/mihirkanzariya/affiliate-commission-clawbacks-only-pay-on-money-you-actually-keep-274b",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:11:30 +0000",
-      "summary": "The naive version of affiliate payout logic pays the affiliate the moment a customer's first invoice clears. It works right up until that customer refunds a few days later, and you've already booked (",
-      "score": 5,
-      "titleZh": "联属网络营销佣金回扣：仅支付您实际保留的资金"
-    },
-    {
-      "title": "I Reviewed 50 PRs Last Month — The 4 Things I Kept Commenting On",
-      "link": "https://dev.to/sirmax/i-reviewed-50-prs-last-month-the-4-things-i-kept-commenting-on-17i6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:09:54 +0000",
-      "summary": "After a particularly review-heavy month, I looked back at my comments and noticed a pattern. Four issues kept coming up — across different repos, different teams, and different experience levels. None",
-      "score": 5,
-      "titleZh": "上个月我审查了 50 个 PR——我一直评论的 4 件事"
-    },
-    {
-      "title": "How I Use Homepage to Save Time as a Developer",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-homepage-to-save-time-as-a-developer-126g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:07:12 +0000",
-      "summary": "What is Homepage? Homepage free online homepage tool. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick calculations and conversions. Homepage gives me ",
-      "score": 5,
-      "titleZh": "作为开发人员，我如何使用主页来节省时间"
-    },
-    {
-      "title": "How I Use Nutilz Home to Save Time as a Developer",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-nutilz-home-to-save-time-as-a-developer-26el",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:05:53 +0000",
-      "summary": "What is Nutilz Home? Nutilz Home free online nutilz home tool. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick calculations and conversions. Nutilz Ho",
-      "score": 5,
-      "titleZh": "作为开发人员，我如何使用 Nutilz Home 来节省时间"
-    },
-    {
-      "title": "Binary, Octal, Decimal, Hex: How Number Base Conversion Actually Works",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/binary-octal-decimal-hex-how-number-base-conversion-actually-works-591h",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 23 Jul 2026 02:01:26 +0000",
-      "summary": "Every developer runs into number base conversion sooner or later — reading a hex color code, decoding a Unix permission bitmask, or debugging why a flag isn't set the way you expect. Doing it by hand ",
-      "score": 5,
-      "titleZh": "二进制、八进制、十进制、十六进制：数基转换的实际工作原理"
-    },
-    {
-      "title": "Build a Feedback Channel That Does Not Become Another Abandoned Inbox",
-      "link": "https://dev.to/susiewang/build-a-feedback-channel-that-does-not-become-another-abandoned-inbox-ijl",
+      "title": "How to Set Up Angular 22 with Bootstrap 5: Step by Step",
+      "link": "https://dev.to/lettstartdesign-official/how-to-set-up-angular-22-with-bootstrap-5-step-by-step-1ola",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 23 Jul 2026 01:50:33 +0000",
-      "summary": "A feedback button is easy to ship. A feedback system is harder. The difference is not the input form. It is what happens after someone presses Send: Was the report stored before the API responded? Did",
+      "date": "Thu, 23 Jul 2026 11:44:14 +0000",
+      "summary": "I set up Angular 22 with Bootstrap 5.3 more times than I can count — for client projects, for templates I build and sell, for side projects. The process is straightforward but there are specific decis",
       "score": 5,
-      "titleZh": "建立一个不会成为另一个废弃收件箱的反馈渠道"
+      "titleZh": "如何使用 Bootstrap 5 设置 Angular 22：分步"
+    },
+    {
+      "title": "Free Spell Checker, URL Shortener, Text-to-Link Tool, and SEO Tools",
+      "link": "https://dev.to/devslink/free-spell-checker-url-shortener-text-to-link-tool-and-seo-tools-3a2b",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:42:56 +0000",
+      "summary": "A free project designed for bloggers, journalists, social media page and channel managers, and anyone who simply loves writing and wants to avoid typos. While it already packs a ton of features, it is",
+      "score": 5,
+      "titleZh": "免费拼写检查器、URL 缩短器、文本链接工具和 SEO 工具"
+    },
+    {
+      "title": "Build Modern Experiences with Stunning UI 🥇",
+      "link": "https://dev.to/darshit_tank/build-modern-experiences-with-stunning-ui-4bed",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:41:02 +0000",
+      "summary": "Great design is more than aesthetics — it's about creating meaningful connections. Our team builds modern, responsive, and visually stunning experiences that drive results and set you apart from the c",
+      "score": 5,
+      "titleZh": "用令人惊叹的 UI 打造现代体验🥇"
+    },
+    {
+      "title": "Car Accident Lawyer Long Island: Your Guide to Protecting Your Rights After a Collision",
+      "link": "https://dev.to/sibenllp/car-accident-lawyer-long-island-your-guide-to-protecting-your-rights-after-a-collision-1jgk",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:40:28 +0000",
+      "summary": "A car accident can happen in an instant, but the consequences may last for months or even years. From painful injuries and expensive medical treatment to lost income and emotional stress, recovering a",
+      "score": 5,
+      "titleZh": "长岛车祸律师：碰撞后保护您权利的指南"
+    },
+    {
+      "title": "Tried building GitHub's search box in Go",
+      "link": "https://dev.to/lovestaco/tried-building-githubs-search-box-in-go-2dk6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:39:49 +0000",
+      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to help devs discover the project. Do give it a ",
+      "score": 5,
+      "titleZh": "尝试用 Go 构建 GitHub 的搜索框"
+    },
+    {
+      "title": "How to Run Playwright in Docker (and the Browser-Deps Tax It Adds)",
+      "link": "https://dev.to/grabbit/how-to-run-playwright-in-docker-and-the-browser-deps-tax-it-adds-275g",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:39:40 +0000",
+      "summary": "Playwright in Docker is mostly a solved problem, and the solution is one line: use the official image. The reason people end up here anyway is the failure mode underneath it. Playwright drives a real ",
+      "score": 5,
+      "titleZh": "如何在 Docker 中运行 Playwright（以及它增加的浏览器部门税）"
+    },
+    {
+      "title": "Likert Charts in 2026: The Modern Standard for Customer Sentiment and Survey Analytics",
+      "link": "https://dev.to/dipti_moryani_185c244d578/likert-charts-in-2026-the-modern-standard-for-customer-sentiment-and-survey-analytics-fj1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:35:45 +0000",
+      "summary": "Introduction Traditional stacked bar charts often become cluttered when displaying survey data with several response categories. While they show proportions, they make it difficult to identify whether",
+      "score": 5,
+      "titleZh": "2026 年李克特图：客户情绪和调查分析的现代标准"
+    },
+    {
+      "title": "Node.js for Frontend Developers — What Nobody Explains",
+      "link": "https://dev.to/anas_sheikh_2/nodejs-for-frontend-developers-what-nobody-explains-4gaa",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:33:08 +0000",
+      "summary": "I spent 4 years as a frontend developer before learning Node.js. Everything confused me at first. Not because it's hard — but because nobody explains how it connects to what you already know. Here's w",
+      "score": 5,
+      "titleZh": "面向前端开发人员的 Node.js — 无人解释的内容"
+    },
+    {
+      "title": "Kimi K3 API: Moonshot's 2.8T, 1M-Context Model via an OpenAI-Compatible Endpoint",
+      "link": "https://dev.to/vvvvking/kimi-k3-api-moonshots-28t-1m-context-model-via-an-openai-compatible-endpoint-36bn",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 23 Jul 2026 11:31:01 +0000",
+      "summary": "Disclosure: I run NovAI, one of the API gateways that serves Kimi K3. Everything below (specs, pricing, code) is verifiable — specs are from Moonshot's announcement, and you can check pricing yourself",
+      "score": 5,
+      "titleZh": "Kimi K3 API：Moonshot 通过 OpenAI 兼容端点的 2.8T、1M 上下文模型"
     }
   ]
 }
