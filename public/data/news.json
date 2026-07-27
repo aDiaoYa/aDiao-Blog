@@ -1,81 +1,93 @@
 {
-  "updated": "2026-07-24T02:31:27.035Z",
-  "date": "2026-07-24",
+  "updated": "2026-07-27T02:45:02.418Z",
+  "date": "2026-07-27",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
-      "source": "Reddit ML",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-23T21:07:12.000Z",
-      "summary": "NeurIPS E and D track review are out today and the average rating I received is a 3 and confidence is a 4. I can correct and address all their concerns. Do I still have a genuine shot of getting in or",
-      "score": 40,
-      "titleZh": "NeurIPS E 和 D，平均评分 3，平均置信度 4，我可以反驳并解决他们所有的担忧吗？我还有机会还是不太可能？[R]"
+      "date": "Sun, 26 Jul 2026 13:13:03 +0000",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877",
+      "score": 154,
+      "titleZh": "新的人工智能超级大国：专注和跟进"
     },
     {
-      "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
+      "title": "Recent project I worked on: End to End Edge ML platform [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-23T19:20:01.000Z",
-      "summary": "The interesting finding from a new [arXiv paper](https://arxiv.org/abs/2607.16165) isn't that a frontier vision model failed a new benchmark, that happens weekly, but the specific shape of the failure",
+      "date": "2026-07-27T02:38:26.000Z",
+      "summary": "Hi all, I recently made an end to end ML platform that eases the pain of going from raw sensor data to a deployed model on an MCU. I wanted to get some feedback from those of you who are interested in",
       "score": 40,
-      "titleZh": "GPT-5.5 在 ActiveVision 上得分 10.6%，人类得分 96.1% [R]"
+      "titleZh": "我最近从事的项目：端到端边缘机器学习平台 [D]"
     },
     {
-      "title": "Prompt Injection in NeurIPS 2026? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
+      "title": "CICD / KAFKA / KUBERNETES / Interview questions (MLE) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v7jvsx/cicd_kafka_kubernetes_interview_questions_mle_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-23T16:34:33.000Z",
-      "summary": "The reviews were just released, and I downloaded my paper from OpenReview to identify areas that needed improvement. However, GPT warned me that the PDF contained a prompt injection. I never inserted ",
+      "date": "2026-07-26T23:38:56.000Z",
+      "summary": "What questions should i prepare for during a technical interview for a live streaming deployments? (asking for a friend) submitted by /u/trouble_sleeping_ [link] [comments]",
       "score": 40,
-      "titleZh": "NeurIPS 2026 中的即时注入？ [D]"
+      "titleZh": "CICD / KAFKA / KUBERNETES / 面试问题（MLE）[R]"
     },
     {
-      "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
+      "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-23T13:43:03.000Z",
-      "summary": "I have been working on an MCP workflow for implementing deep learning models from an engineering plan. This is useful for ml engineers etc. who want a more structured way to move from a deep-learning ",
+      "date": "2026-07-26T15:57:02.000Z",
+      "summary": "Curious about the initial review distribution for Main Track theory papers this year. Our paper received 4/3/3 with confidence 3/3/3. From previous years, I've had the impression that theory papers of",
       "score": 40,
-      "titleZh": "用于根据工程计划实施深度学习模型的 MCP 工作流程 [R]"
+      "titleZh": "Neurips 2026 主赛道理论论文跟踪器 - 讨论主题 [D]"
     },
     {
-      "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
+      "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-23T12:13:50.000Z",
-      "summary": "good luck! submitted by /u/Business-Kale-1406 [link] [comments]",
+      "date": "2026-07-26T11:58:39.000Z",
+      "summary": "I have been running some experiments with smaller open-weight LLMs on multiple-choice questions of Swedish medical licensing exams. On a dataset called MedQA-SWE, GPT-4 scored 84% accuracy in 2024 and",
       "score": 40,
-      "titleZh": "NeurIPS 评论出来了吗？ OpenReview 未加载哈哈 [D]"
+      "titleZh": "开放权重 4B 模型接近 o3 级瑞典语医学问答 [P]"
     },
     {
-      "title": "Asking about how to collaborate with professors or research labs [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3t8s0/asking_about_how_to_collaborate_with_professors/",
+      "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-22T21:09:10.000Z",
-      "summary": "Hey everyone, I'm not in college anymore. Is it possible to do research with a professor or any research lab while working a full time job? If yes, what's the best way to reach out and get involved? A",
+      "date": "2026-07-26T06:43:11.000Z",
+      "summary": "This was my Bachelor's Final Project: implementing YOLO26n inference completely from scratch using ARM64 Assembly Language and C, without relying on existing inference frameworks. The goal was to unde",
       "score": 40,
-      "titleZh": "询问如何与教授或研究实验室合作 [D]"
+      "titleZh": "我使用ARM64汇编语言从头实现了YOLO26n模型推理（无框架）[P]"
+    },
+    {
+      "title": "Link plots/figures in NeurIPS rebuttal [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6qt8l/link_plotsfigures_in_neurips_rebuttal_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-26T02:12:00.000Z",
+      "summary": "Reviewers requested additional experiments. In table format, I fear the results would not be as digestible as in a figure/plot. Links are \"technically\" not allowed as per the official website, but for",
+      "score": 40,
+      "titleZh": "NeurIPS 反驳中的链接图/图 [R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,7 +99,7 @@
       "date": "2026-07-02T02:15:27.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] 自我推销帖子"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -102,148 +114,136 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-      "link": "https://arxiv.org/abs/2607.19349",
-      "source": "ArXiv AI",
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "source": "AI News",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-      "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achievin",
+      "date": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct",
       "score": 5,
-      "titleZh": "FineServe：全球 LLM 服务工作负载的细粒度数据集和特征"
+      "titleZh": "Meta、微软、Nvidia、IBM 和其他公司支持开放权重人工智能"
     },
     {
-      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-      "link": "https://arxiv.org/abs/2607.19350",
-      "source": "ArXiv AI",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
-      "summary": "arXiv:2607.19350v1 Announce Type: new Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme d",
-      "score": 5,
-      "titleZh": "用于稳健金融欺诈检测和对抗弹性的混合 LSTM-图神经框架"
+      "date": "Sun, 26 Jul 2026 12:00:11 +0000",
+      "summary": "Article URL: https://swag.htmx.org/en-cad/products/htmx-4-the-game Comments URL: https://news.ycombinator.com/item?id=49057241",
+      "score": 368,
+      "titleZh": "Htmx 4.0，第一个专门在 Game Boy 上发布的 JavaScript 库"
     },
     {
-      "title": "Hey , I am making an opensourse project",
-      "link": "https://dev.to/hariomlohardev/hey-i-am-making-an-opensourse-project-5goe",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "link": "https://github.com/vercel-labs/scriptc",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 26 Jul 2026 22:46:10 +0000",
+      "summary": "Article URL: https://github.com/vercel-labs/scriptc Comments URL: https://news.ycombinator.com/item?id=49063175",
+      "score": 27,
+      "titleZh": "Vercel 的 Scriptc：TypeScript 到 Native 编译器，二进制中没有 JavaScript 引擎"
+    },
+    {
+      "title": "How to Download Microsoft Store Apps Without the Store App (2026 Guide)",
+      "link": "https://dev.to/pream_ruthishr_472bd39ed/how-to-download-microsoft-store-apps-without-the-store-app-2026-guide-5h91",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 24 Jul 2026 02:18:58 +0000",
-      "summary": "This is what i am building , About The Project It is an AI based learning platform right know only for Python here you can say AI to make an coding chalange ,wheather its an simple chalange or an Opti",
+      "date": "Mon, 27 Jul 2026 02:42:44 +0000",
+      "summary": "--- https://nexatools.in/utility-tools/microsoft-store-generator How to Download Microsoft Store Apps Without the Store App If you're running Windows LTSC, an enterprise build, or your Microsoft Store",
       "score": 5,
-      "titleZh": "嘿，我正在做一个开源项目"
+      "titleZh": "如何在没有商店应用程序的情况下下载 Microsoft Store 应用程序（2026 指南）"
     },
     {
-      "title": "Apache Airflow, Explained Like You've Never Seen a Pipeline Before 🔥🚀",
-      "link": "https://dev.to/ramkumar-m-n/apache-airflow-explained-like-youve-never-seen-a-pipeline-before-31fp",
+      "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+      "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 24 Jul 2026 02:15:03 +0000",
-      "summary": "Estimated reading time: ~12 minutes. No prior experience required. By the end of this post you'll know what Airflow is, why people love it, how to write your first workflow, the mistakes almost everyo",
+      "date": "Mon, 27 Jul 2026 02:39:11 +0000",
+      "summary": "The problem I kept running into: a financial report where a subtotal on page 8 is wrong, but nobody spots it until the numbers get aggregated into a spreadsheet and something doesn't reconcile. I want",
       "score": 5,
-      "titleZh": "Apache Airflow，就像您以前从未见过管道一样解释 🔥🚀"
+      "titleZh": "我构建了一个 PDF 表格检查器，无需模板即可验证任何 PDF 中的算术"
     },
     {
-      "title": "PricePulse: Free Real-Time Price API (100 req/day)",
-      "link": "https://dev.to/rock2089/pricepulse-free-real-time-price-api-100-reqday-82j",
+      "title": "I built a client-side trade document validator — no upload, no server, just the browser",
+      "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 02:38:37 +0000",
+      "summary": "The problem I kept hitting: an international invoice with a line total that's off by a cent, or an HS code that appears in the commercial invoice but is absent from the packing list. Customs holds are",
+      "score": 5,
+      "titleZh": "我构建了一个客户端贸易文件验证器 - 没有上传，没有服务器，只有浏览器"
+    },
+    {
+      "title": "PDF Compression in 5 Steps: 80MB to 8MB Case Study",
+      "link": "https://dev.to/uglypeardata/pdf-compression-in-5-steps-80mb-to-8mb-case-study-51lb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 02:38:18 +0000",
+      "summary": "PDF Compression in 5 Steps: 80MB to 8MB Case Study You receive an 80MB scanned contract PDF. It bounces back from email, gets rejected by chat apps, and trips upload limits on every system you try. So",
+      "score": 5,
+      "titleZh": "5 步压缩 PDF：80MB 到 8MB 案例研究"
+    },
+    {
+      "title": "Free Crypto KYT API — Enrich Sandbox, Sanction Checks, and Wallet Pre-Send Code",
+      "link": "https://dev.to/public_aml/free-crypto-kyt-api-enrich-sandbox-sanction-checks-and-wallet-pre-send-code-2lak",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 24 Jul 2026 02:10:41 +0000",
-      "summary": "PricePulse Real-time price API for crypto, forex, stocks, and commodities. Free: 100 requests/day Starter: $10/mo (10k/day) Pro: $50/mo (100k/day) https://pricepulseapi.site",
+      "date": "Mon, 27 Jul 2026 02:32:37 +0000",
+      "summary": "Free Crypto KYT API — Enrich Sandbox, Sanction Checks, and Wallet Pre-Send Code Interactive console + docs live at intelapi.publicaml.org. Same payload, same JSON your backend gets. This post turns th",
       "score": 5,
-      "titleZh": "PricePulse：免费的实时价格 API（100 个请求/天）"
+      "titleZh": "免费加密 KYT API — 丰富沙箱、制裁检查和钱包预发送代码"
     },
     {
-      "title": "How I Cut Our Database Costs by 40% With One Config Change (Connection Pooling Explained)",
-      "link": "https://dev.to/sirmax/how-i-cut-our-database-costs-by-40-with-one-config-change-connection-pooling-explained-3ajh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 24 Jul 2026 02:09:01 +0000",
-      "summary": "Last month, our API started returning 500 errors at 2 AM. Not peak traffic. Not a deployment. Just… 2 AM. I logged into the server and saw this: FATAL: remaining connection slots are reserved for supe",
-      "score": 5,
-      "titleZh": "我如何通过一项配置更改将数据库成本削减 40%（解释连接池）"
-    },
-    {
-      "title": "How I Use Word Counter to Save Time as a Developer",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-word-counter-to-save-time-as-a-developer-3hb4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 24 Jul 2026 02:08:22 +0000",
-      "summary": "What is Word Counter? Word Counter counts words, characters, sentences and estimates reading time. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick cal",
-      "score": 5,
-      "titleZh": "作为开发人员，我如何使用字数计数器来节省时间"
-    },
-    {
-      "title": "How I Use Homepage to Save Time as a Developer",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-homepage-to-save-time-as-a-developer-4p9l",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 24 Jul 2026 02:06:55 +0000",
-      "summary": "What is Homepage? Homepage free online homepage tool. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick calculations and conversions. Homepage gives me ",
-      "score": 5,
-      "titleZh": "作为开发人员，我如何使用主页来节省时间"
-    },
-    {
-      "title": "Mastering ML Experiments: Tracking, Logging, and R…",
-      "link": "https://dev.to/norviktech/mastering-ml-experiments-tracking-logging-and-r-13i5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 24 Jul 2026 02:05:48 +0000",
-      "summary": "Originally published at norvik.tech A technical guide to effective ML experiment management using ML Flow. Learn to track, log, and reproduce results efficiently. In the world of machine learning (ML)",
-      "score": 5,
-      "titleZh": "掌握 ML 实验：跟踪、记录和 R…"
-    },
-    {
-      "title": "How I Use Nutilz Home to Save Time as a Developer",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/how-i-use-nutilz-home-to-save-time-as-a-developer-2033",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 24 Jul 2026 02:05:33 +0000",
-      "summary": "What is Nutilz Home? Nutilz Home free online nutilz home tool. It runs entirely in the browser — no sign-up, no install. As a developer, I constantly need quick calculations and conversions. Nutilz Ho",
-      "score": 5,
-      "titleZh": "作为开发人员，我如何使用 Nutilz Home 来节省时间"
-    },
-    {
-      "title": "Performance Tuning Before Launch",
-      "link": "https://dev.to/moose978/performance-tuning-before-launch-912",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 24 Jul 2026 01:59:54 +0000",
-      "summary": "In A Production Security Checklist, I walked through what to lock down before opening the doors to real users. Security is a pass/fail gate: you either did the work or you're exposed. Performance is d",
-      "score": 5,
-      "titleZh": "发布前的性能调优"
-    },
-    {
-      "title": "Building a .night domain profile viewer on Midnight with the Midnames SD",
-      "link": "https://dev.to/tminus1s/building-a-night-domain-profile-viewer-on-midnight-with-the-midnames-sd-4kph",
+      "title": "Stop Signup Email Drift Between Frontend and API",
+      "link": "https://dev.to/ryanlee91/stop-signup-email-drift-between-frontend-and-api-4igf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 24 Jul 2026 01:59:21 +0000",
-      "summary": "I'm a self-taught builder, and this week I built a small thing that made a concept finally click for me: a .night domain profile viewer. You type a name like tomin.night, it resolves on-chain, and it ",
+      "date": "Mon, 27 Jul 2026 02:24:39 +0000",
+      "summary": "I keep seeing the same signup bug in otherwise solid products: the frontend says \"verification email sent\" while the API quietly retried, dropped, or deferred the message. Nothing is fully broken, but",
       "score": 5,
-      "titleZh": "使用 Midnames SD 在 Midnight 上构建 .night 域配置文件查看器"
+      "titleZh": "停止前端和 API 之间的注册电子邮件漂移"
+    },
+    {
+      "title": "How to Verify US Security Guard Licenses via API (Python, JavaScript, cURL)",
+      "link": "https://dev.to/operational_systems/how-to-verify-us-security-guard-licenses-via-api-python-javascript-curl-36h4",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 02:23:38 +0000",
+      "summary": "How to Verify US Security Guard Licenses via API (Python, JavaScript, cURL) Tags: api, python, javascript, security, webdev Your company just onboarded a new security guard. Their license looks real. ",
+      "score": 5,
+      "titleZh": "如何通过 API（Python、JavaScript、cURL）验证美国保安许可证"
+    },
+    {
+      "title": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide",
+      "link": "https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-i62",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 02:17:12 +0000",
+      "summary": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide Introduction Web scraping is the process of extracting data from websites, and it's a valuable skill for any developer. With the increasing ",
+      "score": 5,
+      "titleZh": "构建网络爬虫并出售数据：分步指南"
     }
   ]
 }
