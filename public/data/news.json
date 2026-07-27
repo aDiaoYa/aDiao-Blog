@@ -1,22 +1,10 @@
 {
-  "updated": "2026-07-27T02:45:02.418Z",
+  "updated": "2026-07-27T12:54:37.666Z",
   "date": "2026-07-27",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
-    {
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 26 Jul 2026 13:13:03 +0000",
-      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877",
-      "score": 154,
-      "titleZh": "新的人工智能超级大国：专注和跟进"
-    },
     {
       "title": "Recent project I worked on: End to End Edge ML platform [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
@@ -114,28 +102,28 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "title": "How AI is shortening drug discovery timelines in China",
+      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
       "source": "AI News",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 24 Jul 2026 16:18:30 +0000",
-      "summary": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct",
+      "date": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "summary": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Ale",
       "score": 5,
-      "titleZh": "Meta、微软、Nvidia、IBM 和其他公司支持开放权重人工智能"
+      "titleZh": "人工智能如何缩短中国的药物发现时间"
     },
     {
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "source": "HN·前端",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "HuggingFace",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Sun, 26 Jul 2026 12:00:11 +0000",
-      "summary": "Article URL: https://swag.htmx.org/en-cad/products/htmx-4-the-game Comments URL: https://news.ycombinator.com/item?id=49057241",
-      "score": 368,
-      "titleZh": "Htmx 4.0，第一个专门在 Game Boy 上发布的 JavaScript 库"
+      "date": "Mon, 27 Jul 2026 09:32:20 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟"
     },
     {
       "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
@@ -146,104 +134,116 @@
       ],
       "date": "Sun, 26 Jul 2026 22:46:10 +0000",
       "summary": "Article URL: https://github.com/vercel-labs/scriptc Comments URL: https://news.ycombinator.com/item?id=49063175",
-      "score": 27,
+      "score": 217,
       "titleZh": "Vercel 的 Scriptc：TypeScript 到 Native 编译器，二进制中没有 JavaScript 引擎"
     },
     {
-      "title": "How to Download Microsoft Store Apps Without the Store App (2026 Guide)",
-      "link": "https://dev.to/pream_ruthishr_472bd39ed/how-to-download-microsoft-store-apps-without-the-store-app-2026-guide-5h91",
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+      "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 09:58:50 +0000",
+      "summary": "Article URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/ Comments URL: https://news.ycombinator.com/item?id=49067301",
+      "score": 28,
+      "titleZh": "从代码库中删除 React.js 并调整 Htmx 以实现 UI 交互"
+    },
+    {
+      "title": "Claude Code, Bun and TypeScript",
+      "link": "https://dev.to/dimidan/claude-code-bun-and-typescript-cjj",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 12:50:21 +0000",
+      "summary": "Why Claude Code runs on Bun: runtime tradeoffs in TypeScript CLI tooling Anthropic recently shipped Claude Code — their agentic CLI coding assistant — on Bun instead of Node.js. For most product annou",
+      "score": 5,
+      "titleZh": "克劳德代码、Bun 和 TypeScript"
+    },
+    {
+      "title": "Ppc Lead Generation Guide 2026",
+      "link": "https://dev.to/shivatechdigitalnoid/ppc-lead-generation-guide-2026-4h1p",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 02:42:44 +0000",
-      "summary": "--- https://nexatools.in/utility-tools/microsoft-store-generator How to Download Microsoft Store Apps Without the Store App If you're running Windows LTSC, an enterprise build, or your Microsoft Store",
+      "date": "Mon, 27 Jul 2026 12:47:52 +0000",
+      "summary": "Originally published at shivatechdigital.com Click here to read the complete article About ShivaTechDigital: Visit our website | Contact Us",
       "score": 5,
-      "titleZh": "如何在没有商店应用程序的情况下下载 Microsoft Store 应用程序（2026 指南）"
+      "titleZh": "Ppc 潜在客户生成指南 2026"
     },
     {
-      "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
-      "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 02:39:11 +0000",
-      "summary": "The problem I kept running into: a financial report where a subtotal on page 8 is wrong, but nobody spots it until the numbers get aggregated into a spreadsheet and something doesn't reconcile. I want",
-      "score": 5,
-      "titleZh": "我构建了一个 PDF 表格检查器，无需模板即可验证任何 PDF 中的算术"
-    },
-    {
-      "title": "I built a client-side trade document validator — no upload, no server, just the browser",
-      "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 02:38:37 +0000",
-      "summary": "The problem I kept hitting: an international invoice with a line total that's off by a cent, or an HS code that appears in the commercial invoice but is absent from the packing list. Customs holds are",
-      "score": 5,
-      "titleZh": "我构建了一个客户端贸易文件验证器 - 没有上传，没有服务器，只有浏览器"
-    },
-    {
-      "title": "PDF Compression in 5 Steps: 80MB to 8MB Case Study",
-      "link": "https://dev.to/uglypeardata/pdf-compression-in-5-steps-80mb-to-8mb-case-study-51lb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 02:38:18 +0000",
-      "summary": "PDF Compression in 5 Steps: 80MB to 8MB Case Study You receive an 80MB scanned contract PDF. It bounces back from email, gets rejected by chat apps, and trips upload limits on every system you try. So",
-      "score": 5,
-      "titleZh": "5 步压缩 PDF：80MB 到 8MB 案例研究"
-    },
-    {
-      "title": "Free Crypto KYT API — Enrich Sandbox, Sanction Checks, and Wallet Pre-Send Code",
-      "link": "https://dev.to/public_aml/free-crypto-kyt-api-enrich-sandbox-sanction-checks-and-wallet-pre-send-code-2lak",
+      "title": "5 Lessons From Adding ZIP File Support to a Web Application",
+      "link": "https://dev.to/human_reviews_ccdcbb54983/5-lessons-from-adding-zip-file-support-to-a-web-application-198i",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 02:32:37 +0000",
-      "summary": "Free Crypto KYT API — Enrich Sandbox, Sanction Checks, and Wallet Pre-Send Code Interactive console + docs live at intelapi.publicaml.org. Same payload, same JSON your backend gets. This post turns th",
+      "date": "Mon, 27 Jul 2026 12:46:19 +0000",
+      "summary": "5 Lessons From Adding ZIP File Support to a Web Application When I first added ZIP support to FileBee, I assumed it would be one of those \"done in a day\" features. Users upload a ZIP file. Extract it.",
       "score": 5,
-      "titleZh": "免费加密 KYT API — 丰富沙箱、制裁检查和钱包预发送代码"
+      "titleZh": "向 Web 应用程序添加 ZIP 文件支持的 5 个经验教训"
     },
     {
-      "title": "Stop Signup Email Drift Between Frontend and API",
-      "link": "https://dev.to/ryanlee91/stop-signup-email-drift-between-frontend-and-api-4igf",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 02:24:39 +0000",
-      "summary": "I keep seeing the same signup bug in otherwise solid products: the frontend says \"verification email sent\" while the API quietly retried, dropped, or deferred the message. Nothing is fully broken, but",
-      "score": 5,
-      "titleZh": "停止前端和 API 之间的注册电子邮件漂移"
-    },
-    {
-      "title": "How to Verify US Security Guard Licenses via API (Python, JavaScript, cURL)",
-      "link": "https://dev.to/operational_systems/how-to-verify-us-security-guard-licenses-via-api-python-javascript-curl-36h4",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 02:23:38 +0000",
-      "summary": "How to Verify US Security Guard Licenses via API (Python, JavaScript, cURL) Tags: api, python, javascript, security, webdev Your company just onboarded a new security guard. Their license looks real. ",
-      "score": 5,
-      "titleZh": "如何通过 API（Python、JavaScript、cURL）验证美国保安许可证"
-    },
-    {
-      "title": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide",
-      "link": "https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-i62",
+      "title": "How to Build an AI Training Data Pipeline with the Web to Markdown/JSON API",
+      "link": "https://dev.to/bao001_xiao_37db0a18ce6b2/how-to-build-an-ai-training-data-pipeline-with-the-web-to-markdownjson-api-2l4f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 02:17:12 +0000",
-      "summary": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide Introduction Web scraping is the process of extracting data from websites, and it's a valuable skill for any developer. With the increasing ",
+      "date": "Mon, 27 Jul 2026 12:45:44 +0000",
+      "summary": "Introduction Building high-quality training datasets for Large Language Models (LLMs) and other AI systems is one of the hardest unsolved problems in machine learning. The web is the largest corpus of",
       "score": 5,
-      "titleZh": "构建网络爬虫并出售数据：分步指南"
+      "titleZh": "如何使用 Web 到 Markdown/JSON API 构建 AI 训练数据管道"
+    },
+    {
+      "title": "Why I Built a Meta Tags Generator Tool and Why It Matters More Than I Expected",
+      "link": "https://dev.to/gnlassi/why-i-built-a-meta-tags-generator-tool-and-why-it-matters-more-than-i-expected-m6g",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 12:45:14 +0000",
+      "summary": "How I Transformed My Meta Tag Workflow (And You Can Too) \"There has to be a better way.\" That thought became an obsession. For the next six months, I built tools, tested workflows, and interviewed hun",
+      "score": 5,
+      "titleZh": "为什么我构建了元标签生成器工具以及为什么它比我预期的更重要"
+    },
+    {
+      "title": "Snake in 576 Windows and What I Built Instead",
+      "link": "https://dev.to/solomon_dev/snake-in-576-windows-and-what-i-built-instead-1hfl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 12:45:14 +0000",
+      "summary": "I read a post about Snake rendered across 576 browser windows. Every. Single. Pixel. Is. A. Window. The author's reasoning was roughly \"what if I just... did this.\" I respect that more than I probably",
+      "score": 5,
+      "titleZh": "576 Windows 中的 Snake 以及我所构建的内容"
+    },
+    {
+      "title": "10 Git Commands Every Developer Should Master",
+      "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-git-commands-every-developer-should-master-3n3l",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 12:45:00 +0000",
+      "summary": "Git is one of the most important tools in modern software development. Whether you're working alone, contributing to an open-source project, or collaborating with a large engineering team, Git helps y",
+      "score": 5,
+      "titleZh": "每个开发人员都应该掌握的 10 个 Git 命令"
+    },
+    {
+      "title": "I needed Markdown JSON in four pipelines, so I shipped one endpoint that does it once",
+      "link": "https://dev.to/mcgatya09/i-needed-markdown-json-in-four-pipelines-so-i-shipped-one-endpoint-that-does-it-once-46l1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 27 Jul 2026 12:42:41 +0000",
+      "summary": "The same parser, four times Over the last year I kept running into the same shape of problem: A docs site generator that wanted Markdown chapters turned into navigation JSON. A RAG ingestion script wh",
+      "score": 5,
+      "titleZh": "我需要在四个管道中使用 Markdown JSON，因此我提供了一个只执行一次的端点"
     }
   ]
 }
