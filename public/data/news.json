@@ -1,33 +1,69 @@
 {
-  "updated": "2026-07-27T12:54:37.666Z",
-  "date": "2026-07-27",
+  "updated": "2026-07-28T02:24:21.681Z",
+  "date": "2026-07-28",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Recent project I worked on: End to End Edge ML platform [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
+      "title": "Editing Neurips Rebuttal [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8jzmn/editing_neurips_rebuttal_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-27T02:38:26.000Z",
-      "summary": "Hi all, I recently made an end to end ML platform that eases the pain of going from raw sensor data to a deployed model on an MCU. I wanted to get some feedback from those of you who are interested in",
+      "date": "2026-07-28T01:37:30.000Z",
+      "summary": "It looks like the post rebuttal button will change to official comment July 27 AoE. Will I be able to edit my rebuttal once that happens? submitted by /u/New_Supermarket_5490 [link] [comments]",
       "score": 40,
-      "titleZh": "我最近从事的项目：端到端边缘机器学习平台 [D]"
+      "titleZh": "编辑 Neurips 反驳 [D]"
     },
     {
-      "title": "CICD / KAFKA / KUBERNETES / Interview questions (MLE) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v7jvsx/cicd_kafka_kubernetes_interview_questions_mle_r/",
+      "title": "Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8insy/structural_admission_verify_a_sequential_tasks/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-26T23:38:56.000Z",
-      "summary": "What questions should i prepare for during a technical interview for a live streaming deployments? (asking for a friend) submitted by /u/trouble_sleeping_ [link] [comments]",
+      "date": "2026-07-28T00:39:44.000Z",
+      "summary": "Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning results When we train agents on staged or multi-phase environments, it is tempting to interpr",
       "score": 40,
-      "titleZh": "CICD / KAFKA / KUBERNETES / 面试问题（MLE）[R]"
+      "titleZh": "结构接纳：在解释学习之前验证顺序任务所声称的依赖结构 [R]"
+    },
+    {
+      "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-27T22:37:40.000Z",
+      "summary": "I ran a solo evaluation project benchmarking six current frontier models: GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro, Gemini Flash, and Grok 4.3. I tested tham across 8 established bias/f",
+      "score": 40,
+      "titleZh": "通过 8 个基准（约 20,600 个示例）评估了 6 个前沿法学硕士（GPT-5.4、Claude Sonnet 4.6、Claude Opus 4.7、Gemini Pro/Flash、Grok 4.3）的政治、性别和种族偏见 [R]"
+    },
+    {
+      "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-27T17:17:50.000Z",
+      "summary": "Hi everyone! 👋 I built and trained the complete Transformer architecture from scratch using pure PyTorch (`torch.nn` primitives) based on the original \"Attention Is All You Need\" paper. I trained the",
+      "score": 40,
+      "titleZh": "在 Pure PyTorch 中从头开始构建和训练 Transformer，用于英语到泰米尔语机器翻译 [数学 + 代码分解] [P]"
+    },
+    {
+      "title": "Made a small model that extracts text from a white background [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-27T13:52:41.000Z",
+      "summary": "Hello, I read a paper on a model named DONUT that extracts text from documents, which became my inspiration for this little project. Initially I wanted to make a model that extracts items bought from ",
+      "score": 40,
+      "titleZh": "做了一个从白色背景中提取文本的小模型[P]"
     },
     {
       "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
@@ -40,42 +76,6 @@
       "summary": "Curious about the initial review distribution for Main Track theory papers this year. Our paper received 4/3/3 with confidence 3/3/3. From previous years, I've had the impression that theory papers of",
       "score": 40,
       "titleZh": "Neurips 2026 主赛道理论论文跟踪器 - 讨论主题 [D]"
-    },
-    {
-      "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-26T11:58:39.000Z",
-      "summary": "I have been running some experiments with smaller open-weight LLMs on multiple-choice questions of Swedish medical licensing exams. On a dataset called MedQA-SWE, GPT-4 scored 84% accuracy in 2024 and",
-      "score": 40,
-      "titleZh": "开放权重 4B 模型接近 o3 级瑞典语医学问答 [P]"
-    },
-    {
-      "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-26T06:43:11.000Z",
-      "summary": "This was my Bachelor's Final Project: implementing YOLO26n inference completely from scratch using ARM64 Assembly Language and C, without relying on existing inference frameworks. The goal was to unde",
-      "score": 40,
-      "titleZh": "我使用ARM64汇编语言从头实现了YOLO26n模型推理（无框架）[P]"
-    },
-    {
-      "title": "Link plots/figures in NeurIPS rebuttal [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6qt8l/link_plotsfigures_in_neurips_rebuttal_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-26T02:12:00.000Z",
-      "summary": "Reviewers requested additional experiments. In table format, I fear the results would not be as digestible as in a figure/plot. Links are \"technically\" not allowed as per the official website, but for",
-      "score": 40,
-      "titleZh": "NeurIPS 反驳中的链接图/图 [R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,18 +102,6 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "How AI is shortening drug discovery timelines in China",
-      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 27 Jul 2026 10:00:00 +0000",
-      "summary": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Ale",
-      "score": 5,
-      "titleZh": "人工智能如何缩短中国的药物发现时间"
-    },
-    {
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "HuggingFace",
@@ -126,124 +114,136 @@
       "titleZh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟"
     },
     {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "link": "https://github.com/vercel-labs/scriptc",
-      "source": "HN·前端",
+      "title": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Sun, 26 Jul 2026 22:46:10 +0000",
-      "summary": "Article URL: https://github.com/vercel-labs/scriptc Comments URL: https://news.ycombinator.com/item?id=49063175",
-      "score": 217,
-      "titleZh": "Vercel 的 Scriptc：TypeScript 到 Native 编译器，二进制中没有 JavaScript 引擎"
-    },
-    {
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
-      "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 09:58:50 +0000",
-      "summary": "Article URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/ Comments URL: https://news.ycombinator.com/item?id=49067301",
-      "score": 28,
-      "titleZh": "从代码库中删除 React.js 并调整 Htmx 以实现 UI 交互"
-    },
-    {
-      "title": "Claude Code, Bun and TypeScript",
-      "link": "https://dev.to/dimidan/claude-code-bun-and-typescript-cjj",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 12:50:21 +0000",
-      "summary": "Why Claude Code runs on Bun: runtime tradeoffs in TypeScript CLI tooling Anthropic recently shipped Claude Code — their agentic CLI coding assistant — on Bun instead of Node.js. For most product annou",
+      "date": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "score": 5,
-      "titleZh": "克劳德代码、Bun 和 TypeScript"
+      "titleZh": "人工智能如何扩展人们的工作范围"
     },
     {
-      "title": "Ppc Lead Generation Guide 2026",
-      "link": "https://dev.to/shivatechdigitalnoid/ppc-lead-generation-guide-2026-4h1p",
+      "title": "What Is Web4 Browser? Profiles, Proxies, and Automation",
+      "link": "https://dev.to/web4browser/what-is-web4-browser-profiles-proxies-and-automation-11m8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 12:47:52 +0000",
-      "summary": "Originally published at shivatechdigital.com Click here to read the complete article About ShivaTechDigital: Visit our website | Contact Us",
+      "date": "Tue, 28 Jul 2026 02:18:43 +0000",
+      "summary": "A browser automation task can complete every click and still run in the wrong account context. The page loads. The form submits. No exception is thrown. But the browser may be carrying cookies from an",
       "score": 5,
-      "titleZh": "Ppc 潜在客户生成指南 2026"
+      "titleZh": "什么是 Web4 浏览器？配置文件、代理和自动化"
     },
     {
-      "title": "5 Lessons From Adding ZIP File Support to a Web Application",
-      "link": "https://dev.to/human_reviews_ccdcbb54983/5-lessons-from-adding-zip-file-support-to-a-web-application-198i",
+      "title": "OpenCode + Oh-My-OpenCode-Slim: Como configurar orquestração de multiagentes do zero",
+      "link": "https://dev.to/jhiltonsantos/opencode-oh-my-opencode-slim-como-configurar-orquestracao-de-multiagentes-do-zero-29ah",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 02:13:42 +0000",
+      "summary": "Existe um mundo de ferramentas de IA para desenvolvimento, onde tudo evolui de forma rápida. Nesse tempo, já testei de tudo: IDEs agênticas como Cursor e Windsurf, assistentes de código como o Blackbo",
+      "score": 5,
+      "titleZh": "OpenCode + Oh-My-OpenCode-Slim：零配置或多代理任务"
+    },
+    {
+      "title": "Grok Register CLI and Its Role…",
+      "link": "https://dev.to/norviktech/grok-register-cli-and-its-role-jfn",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 02:05:54 +0000",
+      "summary": "Originally published at norvik.tech Deep dive into Grok Register CLI, exploring its architecture, use cases, and impact on web development efficiency. The Grok Register CLI is a command-line tool desi",
+      "score": 5,
+      "titleZh": "Grok Register CLI 及其作用..."
+    },
+    {
+      "title": "O alerta que dizia Error: {}",
+      "link": "https://dev.to/alexandre_guimaresfilho/o-alerta-que-dizia-error--2a8h",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 12:46:19 +0000",
-      "summary": "5 Lessons From Adding ZIP File Support to a Web Application When I first added ZIP support to FileBee, I assumed it would be one of those \"done in a day\" features. Users upload a ZIP file. Extract it.",
+      "date": "Tue, 28 Jul 2026 02:03:10 +0000",
+      "summary": "Caiu um alerta avisando que uma integração tinha falhado. Fui ver o que era: Integration failed Error: {} Error: {}. Só isso. Duas chaves. O sistema avisou que algo quebrou e, no mesmo movimento, deci",
       "score": 5,
-      "titleZh": "向 Web 应用程序添加 ZIP 文件支持的 5 个经验教训"
+      "titleZh": "警告错误：{}"
     },
     {
-      "title": "How to Build an AI Training Data Pipeline with the Web to Markdown/JSON API",
-      "link": "https://dev.to/bao001_xiao_37db0a18ce6b2/how-to-build-an-ai-training-data-pipeline-with-the-web-to-markdownjson-api-2l4f",
+      "title": "7 Best Free Text-to-Speech Chrome Extensions in 2026 (Honest Comparison)",
+      "link": "https://dev.to/_9839f55373b80bf42b648/7-best-free-text-to-speech-chrome-extensions-in-2026-honest-comparison-11fm",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 12:45:44 +0000",
-      "summary": "Introduction Building high-quality training datasets for Large Language Models (LLMs) and other AI systems is one of the hardest unsolved problems in machine learning. The web is the largest corpus of",
+      "date": "Tue, 28 Jul 2026 02:02:32 +0000",
+      "summary": "7 Best Free Text-to-Speech Chrome Extensions in 2026 Last updated: July 2026 Looking for a free Chrome extension that reads webpages aloud? We tested the top options so you don't have to. Extension Fr",
       "score": 5,
-      "titleZh": "如何使用 Web 到 Markdown/JSON API 构建 AI 训练数据管道"
+      "titleZh": "2026 年 7 个最佳免费文本转语音 Chrome 扩展（诚实比较）"
     },
     {
-      "title": "Why I Built a Meta Tags Generator Tool and Why It Matters More Than I Expected",
-      "link": "https://dev.to/gnlassi/why-i-built-a-meta-tags-generator-tool-and-why-it-matters-more-than-i-expected-m6g",
+      "title": "Navigating the 2026 AI Agent Ecosystem: The Definitive Framework Survival Guide",
+      "link": "https://dev.to/productwatch/navigating-the-2026-ai-agent-ecosystem-the-definitive-framework-survival-guide-3kpd",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 02:02:00 +0000",
+      "summary": "The landscape of software engineering in 2026 has undergone a seismic shift. We have moved entirely past the era of simple prompt engineering and basic linear chains. Today, we are firmly in the age o",
+      "score": 5,
+      "titleZh": "畅游 2026 年人工智能代理生态系统：权威框架生存指南"
+    },
+    {
+      "title": "Kimi K3 Just Open-Sourced Its Weights — The $18-vs-$60 API Price War Is Here",
+      "link": "https://dev.to/tunan666/kimi-k3-just-open-sourced-its-weights-the-18-vs-60-api-price-war-is-here-5ahg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 02:00:29 +0000",
+      "summary": "Yesterday, Moonshot AI dropped the largest open-weight model in history. Kimi K3 — 2.8 trillion parameters, Mixture-of-Experts architecture, 1 million token context window, and native vision. The weig",
+      "score": 5,
+      "titleZh": "Kimi K3 刚刚开源其权重——18 美元与 60 美元的 API 价格战已经打响"
+    },
+    {
+      "title": "Debug UI Jank with the Long Animation Frames API",
+      "link": "https://dev.to/pop_watch_ac45504c97f6c29/debug-ui-jank-with-the-long-animation-frames-api-2he9",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 12:45:14 +0000",
-      "summary": "How I Transformed My Meta Tag Workflow (And You Can Too) \"There has to be a better way.\" That thought became an obsession. For the next six months, I built tools, tested workflows, and interviewed hun",
+      "date": "Tue, 28 Jul 2026 01:56:47 +0000",
+      "summary": "A page can feel slow even when its network waterfall looks fine. A click appears to do nothing, a scroll hitches, or an animation skips. The difficult part is often not proving that the main thread wa",
       "score": 5,
-      "titleZh": "为什么我构建了元标签生成器工具以及为什么它比我预期的更重要"
+      "titleZh": "使用长动画帧 API 调试 UI 卡顿"
     },
     {
-      "title": "Snake in 576 Windows and What I Built Instead",
-      "link": "https://dev.to/solomon_dev/snake-in-576-windows-and-what-i-built-instead-1hfl",
-      "source": "Dev.to WebDev",
+      "title": "My Chrome extension just got a update",
+      "link": "https://dev.to/elkhiar_4780f5eb3f1f84d0b/my-chrome-extension-just-got-a-update-578n",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 12:45:14 +0000",
-      "summary": "I read a post about Snake rendered across 576 browser windows. Every. Single. Pixel. Is. A. Window. The author's reasoning was roughly \"what if I just... did this.\" I respect that more than I probably",
+      "date": "Tue, 28 Jul 2026 01:51:26 +0000",
+      "summary": "Hi everyone,i'm the developer behind TabScroll. I built it because I constantly had 30+ tabs open and couldn't find a fast way to switch between them without reaching for the mouse. https://chromewebs",
       "score": 5,
-      "titleZh": "576 Windows 中的 Snake 以及我所构建的内容"
+      "titleZh": "我的 Chrome 扩展程序刚刚获得更新"
     },
     {
-      "title": "10 Git Commands Every Developer Should Master",
-      "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-git-commands-every-developer-should-master-3n3l",
-      "source": "Dev.to WebDev",
+      "title": "How to Add Interactive 3D WebGL Widgets to Any Website Without Writing Complex Three.js Code",
+      "link": "https://dev.to/andmd555/how-to-add-interactive-3d-webgl-widgets-to-any-website-without-writing-complex-threejs-code-23ld",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 27 Jul 2026 12:45:00 +0000",
-      "summary": "Git is one of the most important tools in modern software development. Whether you're working alone, contributing to an open-source project, or collaborating with a large engineering team, Git helps y",
+      "date": "Tue, 28 Jul 2026 01:48:58 +0000",
+      "summary": "Adding interactive 3D elements to a modern web application usually requires hundreds of lines of Three.js boilerplate: configuring WebGL renderers, managing cameras, writing custom shaders, and handli",
       "score": 5,
-      "titleZh": "每个开发人员都应该掌握的 10 个 Git 命令"
-    },
-    {
-      "title": "I needed Markdown JSON in four pipelines, so I shipped one endpoint that does it once",
-      "link": "https://dev.to/mcgatya09/i-needed-markdown-json-in-four-pipelines-so-i-shipped-one-endpoint-that-does-it-once-46l1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 27 Jul 2026 12:42:41 +0000",
-      "summary": "The same parser, four times Over the last year I kept running into the same shape of problem: A docs site generator that wanted Markdown chapters turned into navigation JSON. A RAG ingestion script wh",
-      "score": 5,
-      "titleZh": "我需要在四个管道中使用 Markdown JSON，因此我提供了一个只执行一次的端点"
+      "titleZh": "如何在不编写复杂 Three.js 代码的情况下将交互式 3D WebGL 小部件添加到任何网站"
     }
   ]
 }
