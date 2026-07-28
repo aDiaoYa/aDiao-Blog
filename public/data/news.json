@@ -1,10 +1,70 @@
 {
-  "updated": "2026-07-28T02:24:21.681Z",
+  "updated": "2026-07-28T11:57:41.099Z",
   "date": "2026-07-28",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Don't ask an LLM for a confidence score",
+      "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 28 Jul 2026 00:06:53 +0000",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html Comments URL: https://news.ycombinator.com/item?id=49077443",
+      "score": 45,
+      "titleZh": "不要向法学硕士询问置信度分数"
+    },
+    {
+      "title": "NeurIPS 2026 AI-generated reviews [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-28T11:34:57.000Z",
+      "summary": "I'm really confused about what the point of the prompt injection was (speaking as an author). Is it just a study? I would really prefer that they took action against the AI-generated reviews. Obviousl",
+      "score": 40,
+      "titleZh": "NeurIPS 2026 AI 生成的评论 [D]"
+    },
+    {
+      "title": "How exactly does the NeurIPS meta reviewer response work? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8uic0/how_exactly_does_the_neurips_meta_reviewer/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-28T10:34:30.000Z",
+      "summary": "We can currently answer the meta-reviewer via AC confidential comment, but they just posted the following tweet: https://x.com/neuripsconf/status/2081991451236319328?s=46&t=HWfJoLgHxGH2W5l-o3mPJw Wher",
+      "score": 40,
+      "titleZh": "NeurIPS 元审阅者回复到底是如何运作的？ [D]"
+    },
+    {
+      "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-28T07:33:05.000Z",
+      "summary": "ML research is progressing at breakneck speed where frontier labs in both academia and industry have access to considerably large computes (GPUs). Where do small labs or independent researchers go in ",
+      "score": 40,
+      "titleZh": "如今，ML/DL 及其应用中是否仍然有单 GPU 研究发表？最近最引人注目的有哪些？ [D]"
+    },
+    {
+      "title": "Pattern Recognition (Elsevier): \"With Editor\" status date changed, but status didn't. Is this normal? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8q9xc/pattern_recognition_elsevier_with_editor_status/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-28T06:42:34.000Z",
+      "summary": "Hi everyone, I have a manuscript under review at Pattern Recognition (Elsevier), and I'm a bit confused about the Editorial Manager status. My timeline is: Submitted: May 26, 2026 Re-submitted after m",
+      "score": 40,
+      "titleZh": "模式识别 (Elsevier)：“With Editor”状态日期已更改，但状态未更改。这是正常的吗？ [R]"
+    },
     {
       "title": "Editing Neurips Rebuttal [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v8jzmn/editing_neurips_rebuttal_d/",
@@ -18,30 +78,6 @@
       "titleZh": "编辑 Neurips 反驳 [D]"
     },
     {
-      "title": "Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8insy/structural_admission_verify_a_sequential_tasks/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-28T00:39:44.000Z",
-      "summary": "Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning results When we train agents on staged or multi-phase environments, it is tempting to interpr",
-      "score": 40,
-      "titleZh": "结构接纳：在解释学习之前验证顺序任务所声称的依赖结构 [R]"
-    },
-    {
-      "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-27T22:37:40.000Z",
-      "summary": "I ran a solo evaluation project benchmarking six current frontier models: GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro, Gemini Flash, and Grok 4.3. I tested tham across 8 established bias/f",
-      "score": 40,
-      "titleZh": "通过 8 个基准（约 20,600 个示例）评估了 6 个前沿法学硕士（GPT-5.4、Claude Sonnet 4.6、Claude Opus 4.7、Gemini Pro/Flash、Grok 4.3）的政治、性别和种族偏见 [R]"
-    },
-    {
       "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
       "source": "Reddit ML",
@@ -52,30 +88,6 @@
       "summary": "Hi everyone! 👋 I built and trained the complete Transformer architecture from scratch using pure PyTorch (`torch.nn` primitives) based on the original \"Attention Is All You Need\" paper. I trained the",
       "score": 40,
       "titleZh": "在 Pure PyTorch 中从头开始构建和训练 Transformer，用于英语到泰米尔语机器翻译 [数学 + 代码分解] [P]"
-    },
-    {
-      "title": "Made a small model that extracts text from a white background [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-27T13:52:41.000Z",
-      "summary": "Hello, I read a paper on a model named DONUT that extracts text from documents, which became my inspiration for this little project. Initially I wanted to make a model that extracts items bought from ",
-      "score": 40,
-      "titleZh": "做了一个从白色背景中提取文本的小模型[P]"
-    },
-    {
-      "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-26T15:57:02.000Z",
-      "summary": "Curious about the initial review distribution for Main Track theory papers this year. Our paper received 4/3/3 with confidence 3/3/3. From previous years, I've had the impression that theory papers of",
-      "score": 40,
-      "titleZh": "Neurips 2026 主赛道理论论文跟踪器 - 讨论主题 [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +114,136 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "HuggingFace",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 27 Jul 2026 09:32:20 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟"
+      "date": "Tue, 28 Jul 2026 09:59:13 +0000",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644",
+      "score": 24,
+      "titleZh": "谷歌的超越零：人工智能时代的企业安全"
     },
     {
-      "title": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "score": 5,
-      "titleZh": "人工智能如何扩展人们的工作范围"
-    },
-    {
-      "title": "What Is Web4 Browser? Profiles, Proxies, and Automation",
-      "link": "https://dev.to/web4browser/what-is-web4-browser-profiles-proxies-and-automation-11m8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 28 Jul 2026 02:18:43 +0000",
-      "summary": "A browser automation task can complete every click and still run in the wrong account context. The page loads. The form submits. No exception is thrown. But the browser may be carrying cookies from an",
-      "score": 5,
-      "titleZh": "什么是 Web4 浏览器？配置文件、代理和自动化"
-    },
-    {
-      "title": "OpenCode + Oh-My-OpenCode-Slim: Como configurar orquestração de multiagentes do zero",
-      "link": "https://dev.to/jhiltonsantos/opencode-oh-my-opencode-slim-como-configurar-orquestracao-de-multiagentes-do-zero-29ah",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 28 Jul 2026 02:13:42 +0000",
-      "summary": "Existe um mundo de ferramentas de IA para desenvolvimento, onde tudo evolui de forma rápida. Nesse tempo, já testei de tudo: IDEs agênticas como Cursor e Windsurf, assistentes de código como o Blackbo",
-      "score": 5,
-      "titleZh": "OpenCode + Oh-My-OpenCode-Slim：零配置或多代理任务"
-    },
-    {
-      "title": "Grok Register CLI and Its Role…",
-      "link": "https://dev.to/norviktech/grok-register-cli-and-its-role-jfn",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 28 Jul 2026 02:05:54 +0000",
-      "summary": "Originally published at norvik.tech Deep dive into Grok Register CLI, exploring its architecture, use cases, and impact on web development efficiency. The Grok Register CLI is a command-line tool desi",
-      "score": 5,
-      "titleZh": "Grok Register CLI 及其作用..."
-    },
-    {
-      "title": "O alerta que dizia Error: {}",
-      "link": "https://dev.to/alexandre_guimaresfilho/o-alerta-que-dizia-error--2a8h",
+      "title": "DOM TASK",
+      "link": "https://dev.to/shobika_003/dom-task-3flf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 28 Jul 2026 02:03:10 +0000",
-      "summary": "Caiu um alerta avisando que uma integração tinha falhado. Fui ver o que era: Integration failed Error: {} Error: {}. Só isso. Duas chaves. O sistema avisou que algo quebrou e, no mesmo movimento, deci",
+      "date": "Tue, 28 Jul 2026 11:56:55 +0000",
+      "summary": "TASK - 1 : LIVE CHARACTER COUNT <input id=\"type\" type=\"text\" oninput=\"show()\"> <p >charater count: <span id=\"res\"></span> </p> <script> function show(){ const character= document.getElementById(\"type\"",
       "score": 5,
-      "titleZh": "警告错误：{}"
+      "titleZh": "DOM任务"
     },
     {
-      "title": "7 Best Free Text-to-Speech Chrome Extensions in 2026 (Honest Comparison)",
-      "link": "https://dev.to/_9839f55373b80bf42b648/7-best-free-text-to-speech-chrome-extensions-in-2026-honest-comparison-11fm",
+      "title": "Your AI Can Build a Website. Where Does It Go When the Chat Ends?",
+      "link": "https://dev.to/jamie_street/your-ai-can-build-a-website-where-does-it-go-when-the-chat-ends-1ll2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 28 Jul 2026 02:02:32 +0000",
-      "summary": "7 Best Free Text-to-Speech Chrome Extensions in 2026 Last updated: July 2026 Looking for a free Chrome extension that reads webpages aloud? We tested the top options so you don't have to. Extension Fr",
+      "date": "Tue, 28 Jul 2026 11:52:47 +0000",
+      "summary": "An AI agent can now build a complete website in one conversation. A landing page, a dashboard, a small game, a gallery. The code is real and it works. Then the conversation ends, and the website is tr",
       "score": 5,
-      "titleZh": "2026 年 7 个最佳免费文本转语音 Chrome 扩展（诚实比较）"
+      "titleZh": "你的人工智能可以建立一个网站。聊天结束后它会去哪里？"
     },
     {
-      "title": "Navigating the 2026 AI Agent Ecosystem: The Definitive Framework Survival Guide",
-      "link": "https://dev.to/productwatch/navigating-the-2026-ai-agent-ecosystem-the-definitive-framework-survival-guide-3kpd",
+      "title": "Jokery in Germany",
+      "link": "https://dev.to/as23/jokery-in-germany-44j7",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 11:49:31 +0000",
+      "summary": "Jokery is operated by Willx N.V. under a licence from the Curaçao Gaming Control Board (OGL/2024/1647/0892). These details are stated on the site, but it's worth confirming them directly in jokery slo",
+      "score": 5,
+      "titleZh": "德国的笑话"
+    },
+    {
+      "title": "Top 10 Digital Product Engineering Companies in the USA Driving Enterprise Innovation 2026",
+      "link": "https://dev.to/marcom/top-10-digital-product-engineering-companies-in-the-usa-driving-enterprise-innovation-2026-4hog",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 28 Jul 2026 02:02:00 +0000",
-      "summary": "The landscape of software engineering in 2026 has undergone a seismic shift. We have moved entirely past the era of simple prompt engineering and basic linear chains. Today, we are firmly in the age o",
+      "date": "Tue, 28 Jul 2026 11:49:03 +0000",
+      "summary": "In today's digital-first economy, software is no longer just a support function—it's the core of business innovation. Organizations across the United States are investing heavily in digital products t",
       "score": 5,
-      "titleZh": "畅游 2026 年人工智能代理生态系统：权威框架生存指南"
+      "titleZh": "2026 年美国十大数字产品工程公司推动企业创新"
     },
     {
-      "title": "Kimi K3 Just Open-Sourced Its Weights — The $18-vs-$60 API Price War Is Here",
-      "link": "https://dev.to/tunan666/kimi-k3-just-open-sourced-its-weights-the-18-vs-60-api-price-war-is-here-5ahg",
+      "title": "Free Landing Page - Landing Chatbot",
+      "link": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-43gh",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 28 Jul 2026 02:00:29 +0000",
-      "summary": "Yesterday, Moonshot AI dropped the largest open-weight model in history. Kimi K3 — 2.8 trillion parameters, Mixture-of-Experts architecture, 1 million token context window, and native vision. The weig",
+      "date": "Tue, 28 Jul 2026 11:48:24 +0000",
+      "summary": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Save the HTML file, open in any browser, or deploy free on Netlify/Vercel. Built by OmniIncome-v1 using AI. Support: 0x6731ee8E0",
       "score": 5,
-      "titleZh": "Kimi K3 刚刚开源其权重——18 美元与 60 美元的 API 价格战已经打响"
+      "titleZh": "免费登陆页面 - 登陆聊天机器人"
     },
     {
-      "title": "Debug UI Jank with the Long Animation Frames API",
-      "link": "https://dev.to/pop_watch_ac45504c97f6c29/debug-ui-jank-with-the-long-animation-frames-api-2he9",
+      "title": "What Does a Website Developer Actually Do? Services, Explained by Someone Who's Been in the Trenches",
+      "link": "https://dev.to/mittal_technologies/what-does-a-website-developer-actually-do-services-explained-by-someone-whos-been-in-the-trenches-4m7f",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 11:47:50 +0000",
+      "summary": "Front-End Work: More Than Just \"Making It Look Nice\" This is the part clients understand best, at least on the surface - buttons, layouts, colors, fonts. But the actual work is mostly about behavior u",
+      "score": 5,
+      "titleZh": "网站开发人员实际上是做什么的？服务，由曾在战壕中的人解释"
+    },
+    {
+      "title": "Buy Verified Binance Account – KYC Verify Best Account 2023 is the best",
+      "link": "https://dev.to/usasafebiz1262/buy-verified-binance-account-kyc-verify-best-account-2023-is-the-best-9a5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 11:46:39 +0000",
+      "summary": "Buy Verified Binance Account – The Smart Way to Start Trading in 2023 https://t.me/@Usasefbiz https://usasafebiz.com/service/buy-verified-binance-account/ https://t.me/@Usasefbiz https://t.me/@Usasefb",
+      "score": 5,
+      "titleZh": "购买经过验证的币安账户 – KYC 验证最佳账户 2023 是最好的"
+    },
+    {
+      "title": "Parlour Rate List 2026: How to Compare Beauty Salon Prices Before Booking",
+      "link": "https://dev.to/agentic_vani_15cf0f01c9ff/parlour-rate-list-2026-how-to-compare-beauty-salon-prices-before-booking-1052",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 11:46:20 +0000",
+      "summary": "Whether you're planning a haircut, facial, hair spa, bridal makeup, or a complete makeover, understanding the Parlour Rate List 2026 helps you make informed decisions. Beauty service prices differ bas",
+      "score": 5,
+      "titleZh": "2026 年美容院价格表：如何在预订前比较美容院价格"
+    },
+    {
+      "title": "AI-Powered Submission Intelligence 2.0: Transforming Commercial Insurance Underwriting in 2026",
+      "link": "https://dev.to/dipti26810/ai-powered-submission-intelligence-20-transforming-commercial-insurance-underwriting-in-2026-58ja",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 28 Jul 2026 11:45:30 +0000",
+      "summary": "Introduction This challenge has accelerated the adoption of AI-powered Submission Intelligence 2.0—an advanced evolution of traditional underwriting automation. Rather than simply digitising paperwork",
+      "score": 5,
+      "titleZh": "AI 驱动的提交智能 2.0：2026 年商业保险承保转型"
+    },
+    {
+      "title": "How to Screenshot Every Page of a Website (Build a Visual Site Audit)",
+      "link": "https://dev.to/grabbit/how-to-screenshot-every-page-of-a-website-build-a-visual-site-audit-4pkg",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 28 Jul 2026 01:56:47 +0000",
-      "summary": "A page can feel slow even when its network waterfall looks fine. A click appears to do nothing, a scroll hitches, or an animation skips. The difficult part is often not proving that the main thread wa",
+      "date": "Tue, 28 Jul 2026 11:39:49 +0000",
+      "summary": "You are redesigning a site, migrating a CMS, or auditing a competitor, and you need a screenshot of every page, not just the one you happen to have open. The head query for this reads two ways. One is",
       "score": 5,
-      "titleZh": "使用长动画帧 API 调试 UI 卡顿"
-    },
-    {
-      "title": "My Chrome extension just got a update",
-      "link": "https://dev.to/elkhiar_4780f5eb3f1f84d0b/my-chrome-extension-just-got-a-update-578n",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 28 Jul 2026 01:51:26 +0000",
-      "summary": "Hi everyone,i'm the developer behind TabScroll. I built it because I constantly had 30+ tabs open and couldn't find a fast way to switch between them without reaching for the mouse. https://chromewebs",
-      "score": 5,
-      "titleZh": "我的 Chrome 扩展程序刚刚获得更新"
-    },
-    {
-      "title": "How to Add Interactive 3D WebGL Widgets to Any Website Without Writing Complex Three.js Code",
-      "link": "https://dev.to/andmd555/how-to-add-interactive-3d-webgl-widgets-to-any-website-without-writing-complex-threejs-code-23ld",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 28 Jul 2026 01:48:58 +0000",
-      "summary": "Adding interactive 3D elements to a modern web application usually requires hundreds of lines of Three.js boilerplate: configuring WebGL renderers, managing cameras, writing custom shaders, and handli",
-      "score": 5,
-      "titleZh": "如何在不编写复杂 Three.js 代码的情况下将交互式 3D WebGL 小部件添加到任何网站"
+      "titleZh": "如何对网站的每个页面进行屏幕截图（构建可视化网站审核）"
     }
   ]
 }
