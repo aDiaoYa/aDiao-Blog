@@ -1,21 +1,45 @@
 {
-  "updated": "2026-07-29T02:28:38.434Z",
+  "updated": "2026-07-29T11:59:52.275Z",
   "date": "2026-07-29",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "source": "HN·AI",
+      "title": "Vendor-agnostic ML inference on production edge devices [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 28 Jul 2026 17:22:16 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091",
-      "score": 183,
-      "titleZh": "与 Claude 一起发现加密货币的弱点"
+      "date": "2026-07-29T10:22:27.000Z",
+      "summary": "I work on PostSlate, a video editing tool, and this comes out of our own work. We run ML models on-device, face detection and embedding among other things, which means we can't assume anything about t",
+      "score": 40,
+      "titleZh": "生产边缘设备上与供应商无关的 ML 推理 [R]"
+    },
+    {
+      "title": "Workshop paper accepted, reviewers asked new experiments [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9owaf/workshop_paper_accepted_reviewers_asked_new/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-29T07:21:00.000Z",
+      "summary": "Hi everyone, I submitted a paper to a workshop co-located with a top conference. The paper was accepted, but reviewers are requesting additional experiments. The issue is that there's no second review",
+      "score": 40,
+      "titleZh": "研讨会论文被接受，审稿人要求新实验 [D]"
+    },
+    {
+      "title": "EMNLP 2026 AI Reviewing Experiment [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-29T02:44:29.000Z",
+      "summary": "Hey, can anyone see the AI review result in ARR May 2026 submission? submitted by /u/Historical_Pause247 [link] [comments]",
+      "score": 40,
+      "titleZh": "EMNLP 2026人工智能复习实验[D]"
     },
     {
       "title": "NeurIPS E&D: Should authors respond to ethical reviews during the discussion period? [D]",
@@ -30,18 +54,6 @@
       "titleZh": "NeurIPS E&D：作者应该在讨论期间回应伦理审查吗？ [D]"
     },
     {
-      "title": "How to deal with text only vector search across multimodal embedding space? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9ad2j/how_to_deal_with_text_only_vector_search_across/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-28T20:34:01.000Z",
-      "summary": "My data set is a list of images, each equipped with a a couple sentences of text. A user would search primarily with text only. My default approach is using BM25, but how would I facilitate searching ",
-      "score": 40,
-      "titleZh": "如何处理跨多模态嵌入空间的纯文本向量搜索？ [D]"
-    },
-    {
       "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
       "source": "Reddit ML",
@@ -52,30 +64,6 @@
       "summary": "One of the papers I reviewed has what seems to be entirely LLM-generated rebuttals, and the original paper is also clearly LLM-generated, with Claude-speak everywhere. While the authors acknowledge LL",
       "score": 40,
       "titleZh": "NeurIPS 2026 审稿人：人工智能生成的反驳（和论文）[D]"
-    },
-    {
-      "title": "Neurips rebuttals not visible to reviewers [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8yv7y/neurips_rebuttals_not_visible_to_reviewers_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-28T13:41:26.000Z",
-      "summary": "Hi everyone, The author-reviewer discussion period has started, but it looks like the rebuttals are still only visible to program chairs and authors only - so reviewers can't see them ?? I also can't ",
-      "score": 40,
-      "titleZh": "Neurips 反驳对审稿人不可见 [D]"
-    },
-    {
-      "title": "NeurIPS 2026 AI-generated reviews [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-28T11:34:57.000Z",
-      "summary": "I'm really confused about what the point of the prompt injection was (speaking as an author). Is it just a study? I would really prefer that they took action against the AI-generated reviews. Obviousl",
-      "score": 40,
-      "titleZh": "NeurIPS 2026 AI 生成的评论 [D]"
     },
     {
       "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
@@ -114,136 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "link": "https://learnvector.ai/",
-      "source": "HN·AI",
+      "title": "OpenAI report links coding agents to faster science software builds",
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "source": "AI News",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 29 Jul 2026 01:49:19 +0000",
-      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499",
-      "score": 14,
-      "titleZh": "LearnVector – 吴恩达的人工智能公司构建一对一的学习体验"
+      "date": "Wed, 29 Jul 2026 10:53:39 +0000",
+      "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combi",
+      "score": 5,
+      "titleZh": "OpenAI 报告将编码代理与更快的科学软件构建联系起来"
     },
     {
-      "title": "Gmail 550 5.7.26 반송 오류 해결: SPF·DKIM 점검 체크리스트",
-      "link": "https://dev.to/officialmailkr/gmail-550-5726-bansong-oryu-haegyeol-spfdkim-jeomgeom-cekeuriseuteu-27ed",
+      "title": "Google AI Overviews become more common in search",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI O",
+      "score": 5,
+      "titleZh": "谷歌人工智能概述在搜索中变得更加常见"
+    },
+    {
+      "title": "Tradewinggs",
+      "link": "https://dev.to/tradewinggs_7442bc4fec503/tradewinggs-2mnk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:21:45 +0000",
-      "summary": "Gmail로 메일을 보냈는데 550 5.7.26 오류와 함께 반송됐다면 수신자 주소보다 발신 도메인 인증부터 확인해야 합니다. 대표적인 반송 문구는 다음과 같습니다. 550-5.7.26 Your email has been blocked because the sender is unauthenticated. Authentication results: DKIM ",
+      "date": "Wed, 29 Jul 2026 11:59:40 +0000",
+      "summary": "In a time characterized by digital communication, the success of your brand relies heavily on its online visibility. Social media has emerged as the foundation of effective performance marketing in Gw",
       "score": 5,
-      "titleZh": "Gmail 550 5.7.26 更新：SPF·DKIM 更新"
+      "titleZh": "贸易之翼"
     },
     {
-      "title": "ReactJS useEffect Hook",
-      "link": "https://dev.to/karthick_07/reactjs-useeffect-hook-5hjk",
+      "title": "Shopify out-of-stock redirect breaks Merchant Center feed",
+      "link": "https://dev.to/max_buildogs/shopify-out-of-stock-redirect-breaks-merchant-center-feed-a7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 29 Jul 2026 11:58:23 +0000",
+      "summary": "TL;DR A product URL that 301-redirects to the homepage triggers a Merchant Center \"landing page mismatch\" disapproval; the feed URL no longer resolves to the product it advertises. The redirect almost",
+      "score": 5,
+      "titleZh": "Shopify 缺货重定向会破坏 Merchant Center Feed"
+    },
+    {
+      "title": "Vitest Complete Guide: Fast Unit Testing for JavaScript (2026)",
+      "link": "https://dev.to/stacknotice/vitest-complete-guide-fast-unit-testing-for-javascript-2026-1d3c",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:19:40 +0000",
-      "summary": "The *useEffect * hook is one of the most commonly used hooks in ReactJS, used to handle side effects in functional components. Before hooks, these kinds of tasks were only possible in class components",
+      "date": "Wed, 29 Jul 2026 11:56:31 +0000",
+      "summary": "Vitest is a unit test framework built by the Vite team. It reuses your existing Vite config — TypeScript, JSX, path aliases, and environment variables all work in tests without extra setup. It impleme",
       "score": 5,
-      "titleZh": "ReactJS useEffect 钩子"
+      "titleZh": "Vitest 完整指南：JavaScript 快速单元测试 (2026)"
     },
     {
-      "title": "I Tracked Every Visitor for 24 Hours. A 1975 Biology Paper Explained the Results.",
-      "link": "https://dev.to/kazutaka-dev/i-tracked-every-visitor-for-24-hours-a-1975-biology-paper-explained-the-results-ign",
+      "title": "How to Calculate the Real ROI of Offshore Staff Augmentation",
+      "link": "https://dev.to/riyagoel1994/how-to-calculate-the-real-roi-of-offshore-staff-augmentation-a81",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:10:29 +0000",
-      "summary": "Yesterday I pulled every single event my analytics recorded for one full day and read it line by line. Not a dashboard summary — the raw per-user event stream for all 50 sessions. Here's what a day of",
+      "date": "Wed, 29 Jul 2026 11:55:33 +0000",
+      "summary": "Companies that extend development team remotely almost always start by comparing hourly rates. A US senior developer costs $120 per hour. An offshore engineer costs $40. The math looks obvious. But si",
       "score": 5,
-      "titleZh": "我对每一位访客进行 24 小时追踪。 1975 年的一篇生物学论文解释了这一结果。"
+      "titleZh": "如何计算海外员工扩充的实际投资回报率"
     },
     {
-      "title": "Why I Chose Copy-and-Paste Components Instead of an npm Package",
-      "link": "https://dev.to/vladyusha/why-i-chose-copy-and-paste-components-instead-of-an-npm-package-2g0e",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 29 Jul 2026 02:09:50 +0000",
-      "summary": "If you've used React for a while, you've probably installed dozens of UI libraries. npm install some-ui-library It feels like the obvious solution. So when I started building Motoko UI, I asked myself",
-      "score": 5,
-      "titleZh": "为什么我选择复制粘贴组件而不是 npm 包"
-    },
-    {
-      "title": "I Spent 3 Years Building APIs — Here Are 6 Things Nobody Tells You",
-      "link": "https://dev.to/sirmax/i-spent-3-years-building-apis-here-are-6-things-nobody-tells-you-35i1",
+      "title": "Comprehensive Guide to Restaurant Data: Verified Hours, Pricing Tiers & Meal Schedules",
+      "link": "https://dev.to/goldencorralguide/comprehensive-guide-to-restaurant-data-verified-hours-pricing-tiers-meal-schedules-581g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:08:36 +0000",
-      "summary": "I Spent 3 Years Building APIs — Here Are 6 Things Nobody Tells You I've been building and maintaining REST APIs professionally for the past few years. Not the kind you build in a weekend hackathon — t",
+      "date": "Wed, 29 Jul 2026 11:52:53 +0000",
+      "summary": "Navigating restaurant schedules, meal pricing tiers, and age-based discount structures requires clear, structured information. Whether you're planning a group outing or looking into local dining trend",
       "score": 5,
-      "titleZh": "我花了 3 年时间构建 API——这里有 6 件事没人告诉你"
+      "titleZh": "餐厅数据综合指南：经过验证的营业时间、定价等级和用餐时间表"
     },
     {
-      "title": "The parts of building an MCP server that the tutorials skip",
-      "link": "https://dev.to/parkerrrrr/the-parts-of-building-an-mcp-server-that-the-tutorials-skip-3n07",
+      "title": "Claude Opus 4.1 retires in a week — and its replacement is exactly 3x cheaper",
+      "link": "https://dev.to/khavel/claude-opus-41-retires-in-a-week-and-its-replacement-is-exactly-3x-cheaper-5hah",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 29 Jul 2026 11:52:42 +0000",
+      "summary": "If you have claude-opus-4-1-20250805 hard-coded anywhere, you have until August 5, 2026. That is seven days from the day this went up. Anthropic deprecated it on June 5, 2026 and published a tentative",
+      "score": 5,
+      "titleZh": "Claude Opus 4.1 一周后退役——它的替代品正好便宜 3 倍"
+    },
+    {
+      "title": "Introducing Two Open Source CLI Tools from HostnExtra",
+      "link": "https://dev.to/hostnextra/introducing-two-open-source-cli-tools-from-hostnextra-15f1",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:08:23 +0000",
-      "summary": "Building your first Model Context Protocol server takes about twenty minutes. The official quickstart is genuinely good: npm install, register a tool, connect a stdio transport, and Claude or Cursor c",
+      "date": "Wed, 29 Jul 2026 11:51:28 +0000",
+      "summary": "At HostnExtra, we believe the best developer tools solve real problems without adding unnecessary complexity. Working with Linux servers, SSH, and infrastructure automation every day exposed the same ",
       "score": 5,
-      "titleZh": "教程跳过的构建 MCP 服务器的部分"
+      "titleZh": "HostnExtra 推出两款开源 CLI 工具"
     },
     {
-      "title": "Free Brand Guide - Brand Nexmind",
-      "link": "https://dev.to/razix_devilnemesisloki/free-brand-guide-brand-nexmind-1fa3",
+      "title": "Top 12 Developer Metrics Tools in 2026: What Actually Helps Engineering Teams?",
+      "link": "https://dev.to/parinita_kapoor_d76c5fba6/top-12-developer-metrics-tools-in-2026-what-actually-helps-engineering-teams-22g4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:07:31 +0000",
-      "summary": "Brand Guide Brand guidelines for NexMind AI consultancy. Navy + teal palette. Save the HTML file, open in any browser, or deploy free on Netlify/Vercel. Built by OmniIncome-v1 using AI. Support: 0x673",
+      "date": "Wed, 29 Jul 2026 11:50:47 +0000",
+      "summary": "Engineering teams have never had more data available to them. GitDailies If your engineering team works primarily on GitHub, GitDailies is one of the most practical tools available today. Instead of t",
       "score": 5,
-      "titleZh": "免费品牌指南 - 品牌 Nexmind"
+      "titleZh": "2026 年 12 大开发者衡量工具：什么对工程团队真正有帮助？"
     },
     {
-      "title": "How to Defend an AI-Assisted Take-Home Assignment in the Follow-Up Interview",
-      "link": "https://dev.to/karuha/how-to-defend-an-ai-assisted-take-home-assignment-in-the-follow-up-interview-49db",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 29 Jul 2026 02:06:26 +0000",
-      "summary": "A take-home assignment is not over when you hit submit. In the follow-up, a reviewer may ask you to walk through one decision, change one constraint, and explain what you would improve with more time.",
-      "score": 5,
-      "titleZh": "如何在后续面试中捍卫人工智能辅助的带回家作业"
-    },
-    {
-      "title": "Transforming Brand Strategy In…",
-      "link": "https://dev.to/norviktech/transforming-brand-strategy-in-5e40",
+      "title": "How I Solved Double-Booking Race Conditions in a Multi-Tenant SaaS — No Redis, No Distributed Locks",
+      "link": "https://dev.to/prontodev/how-i-solved-double-booking-race-conditions-in-a-multi-tenant-saas-no-redis-no-distributed-locks-3gfa",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:05:53 +0000",
-      "summary": "Originally published at norvik.tech Explore how to effectively turn brand strategy into visual direction through research and stakeholder engagement. A deep dive for tech teams. The pre-concept phase ",
+      "date": "Wed, 29 Jul 2026 11:50:41 +0000",
+      "summary": "Two clients open the same salon's booking page. Both pick 2:00 PM on Friday. Both hit \"Confirm\" within 200ms of each other. Without a fix at the database level, both requests pass validation, both ins",
       "score": 5,
-      "titleZh": "转变品牌战略……"
+      "titleZh": "我如何解决多租户 SaaS 中的双重预订竞争条件 — 没有 Redis，没有分布式锁"
     },
     {
-      "title": "Why signed binary ranges are asymmetric (I only really got it after building a converter)",
-      "link": "https://dev.to/joe8_lin_tw/why-signed-binary-ranges-are-asymmetric-i-only-really-got-it-after-building-a-converter-5e49",
-      "source": "Dev.to JS",
+      "title": "How to become an online course instructor and share your professional expertise",
+      "link": "https://dev.to/adan_shoukat_9351fc997191/how-to-become-an-online-course-instructor-and-share-your-professional-expertise-2h75",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 02:00:02 +0000",
-      "summary": "I've \"known\" two's complement since a CS101 lecture — flip the bits, add one, done. But I didn't really internalize the range-checking part until I tried to build a small calculator that converts betw",
+      "date": "Wed, 29 Jul 2026 11:48:28 +0000",
+      "summary": "Online learning has really opened up new chances for professionals to share what they know, and reach learners all over the planet, kind instantly. If you have solid industry experience, becoming an O",
       "score": 5,
-      "titleZh": "为什么有符号的二进制范围是不对称的（我在构建转换器后才真正明白）"
+      "titleZh": "如何成为在线课程讲师并分享您的专业知识"
     }
   ]
 }
