@@ -1,21 +1,93 @@
 {
-  "updated": "2026-07-29T11:59:52.275Z",
-  "date": "2026-07-29",
+  "updated": "2026-07-30T11:50:29.100Z",
+  "date": "2026-07-30",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Vendor-agnostic ML inference on production edge devices [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/",
+      "title": "AI's top startups are barely publishing their research",
+      "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285",
+      "score": 509,
+      "titleZh": "人工智能的顶级初创公司几乎没有发表他们的研究成果"
+    },
+    {
+      "title": "LLM Honeypot",
+      "link": "https://llm2human.pages.dev/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 29 Jul 2026 22:51:03 +0000",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117",
+      "score": 287,
+      "titleZh": "法学硕士蜜罐"
+    },
+    {
+      "title": "I don’t think ML is worth learning [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vapd3e/i_dont_think_ml_is_worth_learning_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-29T10:22:27.000Z",
-      "summary": "I work on PostSlate, a video editing tool, and this comes out of our own work. We run ML models on-device, face detection and embedding among other things, which means we can't assume anything about t",
+      "date": "2026-07-30T10:05:54.000Z",
+      "summary": "Context: I work with finance and ai systems and have been learnings ML the last month or 2. I could be severely wrong and if you think that I would love to know why and how I can learn/do what ai can’",
       "score": 40,
-      "titleZh": "生产边缘设备上与供应商无关的 ML 推理 [R]"
+      "titleZh": "我认为 ML 不值得学习 [D]"
+    },
+    {
+      "title": "I taught an LSTM to move a mouse like a human [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-30T05:52:50.000Z",
+      "summary": "Precursor was recently released. It's a bot detector that uses cursor tracking. I thought it would be a fun challenge to train a deep neural network that could learn human mouse movements. It's an 2-l",
+      "score": 40,
+      "titleZh": "我教 LSTM 像人一样移动老鼠 [P]"
+    },
+    {
+      "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-30T02:54:23.000Z",
+      "summary": "Hey everyone, I recently open-sourced a new Python package called ganfs (Generative Adversarial Network Feature Selection), and I wanted to share it with the community. The Problem: Selecting the best",
+      "score": 40,
+      "titleZh": "我构建了 ganfs：一个使用 GAN 来自动选择高维数据集特征的 Python 包。 （无需领域专家）[P] [R]"
+    },
+    {
+      "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-29T20:22:16.000Z",
+      "summary": "We’re developing TanML, an MIT-licensed automated model-validation toolkit for tabular machine-learning models. TanML runs locally and provides an end-to-end workflow covering data profiling, preproce",
+      "score": 40,
+      "titleZh": "开源表格模型验证工具包TanML需要反馈[D]"
+    },
+    {
+      "title": "ICLR 2027 Deadline is before NeurIPS 2026 Decisions [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9v4e7/iclr_2027_deadline_is_before_neurips_2026/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-29T12:43:33.000Z",
+      "summary": "Title says it all really... ICLR 2027 decided to have the full paper deadline on Sep 16, 8 days before the NeurIPS decisions come out. Don't know if the reason is to have a reduced load but this will ",
+      "score": 40,
+      "titleZh": "ICLR 2027 截止日期早于 NeurIPS 2026 决定 [D]"
     },
     {
       "title": "Workshop paper accepted, reviewers asked new experiments [D]",
@@ -28,54 +100,6 @@
       "summary": "Hi everyone, I submitted a paper to a workshop co-located with a top conference. The paper was accepted, but reviewers are requesting additional experiments. The issue is that there's no second review",
       "score": 40,
       "titleZh": "研讨会论文被接受，审稿人要求新实验 [D]"
-    },
-    {
-      "title": "EMNLP 2026 AI Reviewing Experiment [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-29T02:44:29.000Z",
-      "summary": "Hey, can anyone see the AI review result in ARR May 2026 submission? submitted by /u/Historical_Pause247 [link] [comments]",
-      "score": 40,
-      "titleZh": "EMNLP 2026人工智能复习实验[D]"
-    },
-    {
-      "title": "NeurIPS E&D: Should authors respond to ethical reviews during the discussion period? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v9hth4/neurips_ed_should_authors_respond_to_ethical/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-29T01:32:40.000Z",
-      "summary": "We submitted a paper to the NeurIPS E&D track and received the official reviews. About a week later, we also received ethical review comments. My question is about the review process rather than the c",
-      "score": 40,
-      "titleZh": "NeurIPS E&D：作者应该在讨论期间回应伦理审查吗？ [D]"
-    },
-    {
-      "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-28T14:52:01.000Z",
-      "summary": "One of the papers I reviewed has what seems to be entirely LLM-generated rebuttals, and the original paper is also clearly LLM-generated, with Claude-speak everywhere. While the authors acknowledge LL",
-      "score": 40,
-      "titleZh": "NeurIPS 2026 审稿人：人工智能生成的反驳（和论文）[D]"
-    },
-    {
-      "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-28T07:33:05.000Z",
-      "summary": "ML research is progressing at breakneck speed where frontier labs in both academia and industry have access to considerably large computes (GPUs). Where do small labs or independent researchers go in ",
-      "score": 40,
-      "titleZh": "如今，ML/DL 及其应用中是否仍然有单 GPU 研究发表？最近最引人注目的有哪些？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +126,124 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "OpenAI report links coding agents to faster science software builds",
-      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "summary": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combi",
-      "score": 5,
-      "titleZh": "OpenAI 报告将编码代理与更快的科学软件构建联系起来"
-    },
-    {
-      "title": "Google AI Overviews become more common in search",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 29 Jul 2026 10:00:00 +0000",
-      "summary": "Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI O",
-      "score": 5,
-      "titleZh": "谷歌人工智能概述在搜索中变得更加常见"
-    },
-    {
-      "title": "Tradewinggs",
-      "link": "https://dev.to/tradewinggs_7442bc4fec503/tradewinggs-2mnk",
+      "title": "How Percy Visual Testing Works (and When a Screenshot API Fits Your Workflow)",
+      "link": "https://dev.to/grabbit/how-percy-visual-testing-works-and-when-a-screenshot-api-fits-your-workflow-1kpb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:59:40 +0000",
-      "summary": "In a time characterized by digital communication, the success of your brand relies heavily on its online visibility. Social media has emerged as the foundation of effective performance marketing in Gw",
+      "date": "Thu, 30 Jul 2026 11:43:43 +0000",
+      "summary": "Percy is a hosted visual testing platform, now part of BrowserStack, that catches UI changes you did not mean to ship. You add a snapshot call to your existing tests, Percy renders each snapshot in it",
       "score": 5,
-      "titleZh": "贸易之翼"
+      "titleZh": "Percy Visual 测试的工作原理（以及屏幕截图 API 何时适合您的工作流程）"
     },
     {
-      "title": "Shopify out-of-stock redirect breaks Merchant Center feed",
-      "link": "https://dev.to/max_buildogs/shopify-out-of-stock-redirect-breaks-merchant-center-feed-a7",
+      "title": "How I Automatically Capture the Country of Newsletter Leads in GoHighLevel (GHL)",
+      "link": "https://dev.to/samee-ullah/how-i-automatically-capture-the-country-of-newsletter-leads-in-gohighlevel-ghl-50ce",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:58:23 +0000",
-      "summary": "TL;DR A product URL that 301-redirects to the homepage triggers a Merchant Center \"landing page mismatch\" disapproval; the feed URL no longer resolves to the product it advertises. The redirect almost",
+      "date": "Thu, 30 Jul 2026 11:42:32 +0000",
+      "summary": "If you're using GoHighLevel (GHL) to collect newsletter subscribers, your form probably only asks for an email address. Keeping forms short is great for conversions, but it also means you miss useful ",
       "score": 5,
-      "titleZh": "Shopify 缺货重定向会破坏 Merchant Center Feed"
+      "titleZh": "我如何在 GoHighLevel (GHL) 中自动捕获时事通讯线索的国家/地区"
     },
     {
-      "title": "Vitest Complete Guide: Fast Unit Testing for JavaScript (2026)",
-      "link": "https://dev.to/stacknotice/vitest-complete-guide-fast-unit-testing-for-javascript-2026-1d3c",
+      "title": "Lifeline: Scroll-Scrubbed Timeline Component for Next.js",
+      "link": "https://dev.to/jqueryscript/lifeline-scroll-scrubbed-timeline-component-for-nextjs-2bek",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 30 Jul 2026 11:41:40 +0000",
+      "summary": "Lifeline: a component registry that adds a story-driven timeline to Next.js and shadcn/ui projects. Horizontal scroll scrubbing on desktop. Vertical timeline layout on mobile. Event text, links, portr",
+      "score": 5,
+      "titleZh": "Lifeline：Next.js 的滚动时间线组件"
+    },
+    {
+      "title": "10 Best Web sites to Buy Verified Cash App Accounts Safely 603",
+      "link": "https://dev.to/usasafebiz0117/10-best-web-sites-to-buy-verified-cash-app-accounts-safely-603-1483",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 30 Jul 2026 11:40:38 +0000",
+      "summary": "Buy Verified Cash App Account with BTC Enable Our Services Features! Contact Us for more Information’s: usasafebiz@gmail.com We have been selling Verified BTC Enable cash app accounts for a long time.",
+      "score": 5,
+      "titleZh": "安全购买经过验证的现金应用程序帐户的 10 个最佳网站 603"
+    },
+    {
+      "title": "It's over",
+      "link": "https://dev.to/henock_agbo/its-over-25b2",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:56:31 +0000",
-      "summary": "Vitest is a unit test framework built by the Vite team. It reuses your existing Vite config — TypeScript, JSX, path aliases, and environment variables all work in tests without extra setup. It impleme",
+      "date": "Thu, 30 Jul 2026 11:39:25 +0000",
+      "summary": "Thank you very much to PhilBuilder users, Really thank you so much to PhilBuilder users. You have encountered errors especially in python and many others. The errors have been successfully corrected ☺",
       "score": 5,
-      "titleZh": "Vitest 完整指南：JavaScript 快速单元测试 (2026)"
+      "titleZh": "结束了"
     },
     {
-      "title": "How to Calculate the Real ROI of Offshore Staff Augmentation",
-      "link": "https://dev.to/riyagoel1994/how-to-calculate-the-real-roi-of-offshore-staff-augmentation-a81",
+      "title": "25 Free AI Tools So Powerful They Feel Illegal (2026)",
+      "link": "https://dev.to/thebitforge/25-free-ai-tools-so-powerful-they-feel-illegal-2026-5dcc",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:55:33 +0000",
-      "summary": "Companies that extend development team remotely almost always start by comparing hourly rates. A US senior developer costs $120 per hour. An offshore engineer costs $40. The math looks obvious. But si",
+      "date": "Thu, 30 Jul 2026 11:33:13 +0000",
+      "summary": "Picture this: it's 11 p.m., you've got a client deck due at 9 a.m., and you're still manually resizing images, rewriting the same paragraph for the fifth time, and Googling \"how to make a Gantt chart ",
       "score": 5,
-      "titleZh": "如何计算海外员工扩充的实际投资回报率"
+      "titleZh": "25 个免费的人工智能工具，功能如此强大，以至于让人感觉非法 (2026)"
     },
     {
-      "title": "Comprehensive Guide to Restaurant Data: Verified Hours, Pricing Tiers & Meal Schedules",
-      "link": "https://dev.to/goldencorralguide/comprehensive-guide-to-restaurant-data-verified-hours-pricing-tiers-meal-schedules-581g",
+      "title": "GEO Nedir? Yapay Zeka Çağında Google’ın Yeni Kuralları ve Web Sitenizi Kurtarma Rehberi",
+      "link": "https://dev.to/aremdigital/geo-nedir-yapay-zeka-caginda-googlein-yeni-kurallari-ve-web-sitenizi-kurtarma-rehberi-p03",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:52:53 +0000",
-      "summary": "Navigating restaurant schedules, meal pricing tiers, and age-based discount structures requires clear, structured information. Whether you're planning a group outing or looking into local dining trend",
+      "date": "Thu, 30 Jul 2026 11:30:15 +0000",
+      "summary": "Google'ın arama algoritmaları her geçen gün daha akıllı hale geliyor. Eskiden sadece anahtar kelime yoğunluğuna bakan bir sistem varken, şimdi yapay zeka destekli SpamBrain ve RankBrain gibi modeller ",
       "score": 5,
-      "titleZh": "餐厅数据综合指南：经过验证的营业时间、定价等级和用餐时间表"
+      "titleZh": "吉奥·尼迪尔？ Yapay Zeka Çağında Google'ın Yeni Kuralları ve Web Sitenizi Kurtarma Rehberi"
     },
     {
-      "title": "Claude Opus 4.1 retires in a week — and its replacement is exactly 3x cheaper",
-      "link": "https://dev.to/khavel/claude-opus-41-retires-in-a-week-and-its-replacement-is-exactly-3x-cheaper-5hah",
+      "title": "Tradewinggs",
+      "link": "https://dev.to/tradewinggs_7442bc4fec503/tradewinggs-3ofl",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:52:42 +0000",
-      "summary": "If you have claude-opus-4-1-20250805 hard-coded anywhere, you have until August 5, 2026. That is seven days from the day this went up. Anthropic deprecated it on June 5, 2026 and published a tentative",
+      "date": "Thu, 30 Jul 2026 11:22:40 +0000",
+      "summary": "Tradewinggs is passionate about technology and committed to delivering exceptional quality. We are focused on creating stunning websites and high-quality digital services with an uncompromising attitu",
       "score": 5,
-      "titleZh": "Claude Opus 4.1 一周后退役——它的替代品正好便宜 3 倍"
+      "titleZh": "贸易之翼"
     },
     {
-      "title": "Introducing Two Open Source CLI Tools from HostnExtra",
-      "link": "https://dev.to/hostnextra/introducing-two-open-source-cli-tools-from-hostnextra-15f1",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 29 Jul 2026 11:51:28 +0000",
-      "summary": "At HostnExtra, we believe the best developer tools solve real problems without adding unnecessary complexity. Working with Linux servers, SSH, and infrastructure automation every day exposed the same ",
-      "score": 5,
-      "titleZh": "HostnExtra 推出两款开源 CLI 工具"
-    },
-    {
-      "title": "Top 12 Developer Metrics Tools in 2026: What Actually Helps Engineering Teams?",
-      "link": "https://dev.to/parinita_kapoor_d76c5fba6/top-12-developer-metrics-tools-in-2026-what-actually-helps-engineering-teams-22g4",
+      "title": "Automating Fiscalization for Montenegrin Businesses: How FiskalMN Handles Compliance So Developers Don't Have To",
+      "link": "https://dev.to/fiskalmn-cg/automating-fiscalization-for-montenegrin-businesses-how-fiskalmn-handles-compliance-so-developers-463i",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:50:47 +0000",
-      "summary": "Engineering teams have never had more data available to them. GitDailies If your engineering team works primarily on GitHub, GitDailies is one of the most practical tools available today. Instead of t",
+      "date": "Thu, 30 Jul 2026 11:21:59 +0000",
+      "summary": "If you've ever built an e-commerce or POS system for a business operating in Montenegro, you already know the headache: fiscalization isn't optional. Every invoice needs to be registered with the Tax ",
       "score": 5,
-      "titleZh": "2026 年 12 大开发者衡量工具：什么对工程团队真正有帮助？"
+      "titleZh": "黑山企业的自动化财政化：FiskalMN 如何处理合规性，使开发人员无需处理"
     },
     {
-      "title": "How I Solved Double-Booking Race Conditions in a Multi-Tenant SaaS — No Redis, No Distributed Locks",
-      "link": "https://dev.to/prontodev/how-i-solved-double-booking-race-conditions-in-a-multi-tenant-saas-no-redis-no-distributed-locks-3gfa",
-      "source": "Dev.to WebDev",
+      "title": "What Actually Happens After You Send a Webhook",
+      "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 29 Jul 2026 11:50:41 +0000",
-      "summary": "Two clients open the same salon's booking page. Both pick 2:00 PM on Friday. Both hit \"Confirm\" within 200ms of each other. Without a fix at the database level, both requests pass validation, both ins",
+      "date": "Thu, 30 Jul 2026 11:21:14 +0000",
+      "summary": "The first version of a webhook is always the same four lines: await fetch(customer.webhookUrl, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(event), }); It wo",
       "score": 5,
-      "titleZh": "我如何解决多租户 SaaS 中的双重预订竞争条件 — 没有 Redis，没有分布式锁"
-    },
-    {
-      "title": "How to become an online course instructor and share your professional expertise",
-      "link": "https://dev.to/adan_shoukat_9351fc997191/how-to-become-an-online-course-instructor-and-share-your-professional-expertise-2h75",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 29 Jul 2026 11:48:28 +0000",
-      "summary": "Online learning has really opened up new chances for professionals to share what they know, and reach learners all over the planet, kind instantly. If you have solid industry experience, becoming an O",
-      "score": 5,
-      "titleZh": "如何成为在线课程讲师并分享您的专业知识"
+      "titleZh": "发送 Webhook 后实际发生的情况"
     }
   ]
 }
