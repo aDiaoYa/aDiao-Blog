@@ -1,93 +1,81 @@
 {
-  "updated": "2026-08-03T12:54:27.592Z",
-  "date": "2026-08-03",
+  "updated": "2026-08-04T12:01:59.506Z",
+  "date": "2026-08-04",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 03 Aug 2026 09:32:07 +0000",
-      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374",
-      "score": 139,
-      "titleZh": "通过手动重新输入 LLM 生成的代码来防止认知债务"
-    },
-    {
-      "title": "EMNLP Commitment Submission number [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1veat2f/emnlp_commitment_submission_number_d/",
+      "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-03T11:30:28.000Z",
-      "summary": "Whats your commitment submission id? My submission number is ~4k, im wondering the amounts of commitments :) submitted by /u/Huge_Argument_6979 [link] [comments]",
+      "date": "2026-08-04T11:00:53.000Z",
+      "summary": "After a very silent discussion period, we are in a very confused state with regards to NeurIPS, and really unsure what to make of everything. We do not wish to withdraw the submission since we have no",
       "score": 40,
-      "titleZh": "EMNLP 承诺提交编号 [D]"
+      "titleZh": "关于 ICLR 和 NeurIPS 截止日期以及 OpenReview 的问题 [D]"
     },
     {
-      "title": "Deep Dive on RL and OPD for Training LLMs [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1veat29/deep_dive_on_rl_and_opd_for_training_llms_d/",
+      "title": "Automated Plagiarism with LLM-remixers [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vf623l/automated_plagiarism_with_llmremixers_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-03T11:30:28.000Z",
-      "summary": "Hi everyone, if you have been reading the tech reports of Kimi, DS, Qwen and GLM, you will realize how much on policy distillation and GRPO style algorithms power the frontier. I thought it will be qu",
+      "date": "2026-08-04T10:04:48.000Z",
+      "summary": "An author puts together a number of papers he likes, especially adds the .tex files from arxiv, tells the LLM to look for gaps in the papers, commented out material, and remix them, while avoiding syn",
       "score": 40,
-      "titleZh": "深入探讨用于培训法学硕士的 RL 和 OPD [D]"
+      "titleZh": "使用 LLM 混音器进行自动抄袭 [D]"
     },
     {
-      "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+      "title": "The Downsides of LLM-Generated Peer Reviews [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-03T08:17:40.000Z",
-      "summary": "Was just looking at the list of preprints on Arxiv cs.LG https://arxiv.org/list/cs.LG/recent?skip=0&show=500 Everyday 100 - 400 new machine learning papers gets uploaded on this server. Looking at thi",
+      "date": "2026-08-04T09:03:02.000Z",
+      "summary": "Having used LLMs to assist with reviews, and also having received reviews that appear to rely heavily on LLM-generated text, I have noticed two recurring problems. 1. The endless search for uncontroll",
       "score": 40,
-      "titleZh": "在我们有生之年重新获得机器学习研究领域的连贯性是否为时已晚？ [D]"
+      "titleZh": "LLM 生成的同行评审的缺点 [D]"
     },
     {
-      "title": "No rebuttals from neurips authors [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
+      "title": "Missed EMNLP commitment deadline, what can be done? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1veyvev/missed_emnlp_commitment_deadline_what_can_be_done/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-03T01:02:07.000Z",
-      "summary": "I know there’s a lot of frustration around no response from reviewers, which I also got only one so yeah what a bummer, but I was wondering if no rebuttal from the authors was just as common or not. I",
+      "date": "2026-08-04T03:25:55.000Z",
+      "summary": "Asking for a friend: We submitted our paper to ARR May 2026 and got decent scores from the reviewers - 2.5,3,3.5,4. The meta-reviewer gave an overall of 3.5. However, we missed the deadline to commit ",
       "score": 40,
-      "titleZh": "没有来自neurips作者的反驳[D]"
+      "titleZh": "错过了 EMNLP 承诺期限，该怎么办？ [D]"
     },
     {
-      "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
+      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-02T22:28:25.000Z",
-      "summary": "I see some people say their metareview already contains a decision/recommendation (all of them were rejections). Ours doesn’t. Even though our avg score is 3, the metareview seems optimistic and finis",
+      "date": "2026-08-03T16:17:53.000Z",
+      "summary": "As review season for NeurIPS wraps up, I have now reviewed for 3 major conferences this year. And I'm noticing a worrying trend: Out of the 12 papers I reviewed this year, only 1 provided full code (t",
       "score": 40,
-      "titleZh": "Neurips 2026：每个元审查都建议接受/拒绝吗？ [D]"
+      "titleZh": "是时候拒绝那些不包含可以重现结果的代码的论文了 [D]"
     },
     {
-      "title": "neurips 2026: ACs and reviewers have disappeared [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
+      "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-02T21:33:05.000Z",
-      "summary": "we submitted our rebuttal via the \"Rebuttal\" button before the author/reviewer/AC discussion period officially opened (Jul 27 AoE). since then, we've gotten complete silence from all four reviewers an",
+      "date": "2026-08-03T15:01:36.000Z",
+      "summary": "Potentially a hot take? I am not sure why our community is plagued with reviewers who, after acknowledging that their concerns were addressed by a rebuttal, decide to maintain their score because they",
       "score": 40,
-      "titleZh": "neurips 2026：AC和审稿人消失了 [D]"
+      "titleZh": "NeurIPS 2026：如果反驳解决了您的问题，请提高您的分数 [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -114,136 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "link": "https://github.com/garagehq/nightcrawler/",
-      "source": "HN·AI",
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "link": "https://arxiv.org/abs/2607.28629",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 03 Aug 2026 11:06:15 +0000",
-      "summary": "Article URL: https://github.com/garagehq/nightcrawler/ Comments URL: https://news.ycombinator.com/item?id=49154127",
-      "score": 21,
-      "titleZh": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理"
+      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural und",
+      "score": 5,
+      "titleZh": "代理人工智能中的 OpenClaw 和 Ollama：迈向完全自主和可扩展的人工智能代理系统"
     },
     {
-      "title": "How to Remove PDF Annotations in the Browser with Vue 3 and pdf-lib",
-      "link": "https://dev.to/sunshey/how-to-remove-pdf-annotations-in-the-browser-with-vue-3-and-pdf-lib-1kkl",
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "link": "https://arxiv.org/abs/2607.28631",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and compari",
+      "score": 5,
+      "titleZh": "AI可以评价AI科学家吗？使用自动多模型审查的自主研究生成系统的基准研究"
+    },
+    {
+      "title": "Coding GPA & Weighted Grade Algorithms: Floating-Point Drift, Credit Hour Normalization, and Truncation Bugs",
+      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/coding-gpa-weighted-grade-algorithms-floating-point-drift-credit-hour-normalization-and-1o87",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 03 Aug 2026 12:54:13 +0000",
-      "summary": "After a week of collaborative review, your 50-page PDF is covered in highlights, sticky notes, strikethroughs, and stamps. The content is final — but the markup makes it look like a work-in-progress. ",
-      "score": 5,
-      "titleZh": "如何使用 Vue 3 和 pdf-lib 在浏览器中删除 PDF 注释"
+      "date": "Tue, 04 Aug 2026 11:02:16 +0000",
+      "summary": "Calculating Grade Point Average (GPA) or weighted score metrics seems like an entry-level coding exercise: multiply grade points by course credit hours, sum them up, and divide by total attempted cred",
+      "score": 15,
+      "titleZh": "编码 GPA 和加权成绩算法：浮点漂移、学分标准化和截断错误"
     },
     {
-      "title": "Google kills the Custom Search JSON API on 2027-01-01. Here is a self-hosted drop-in.",
-      "link": "https://dev.to/booyaka101/google-kills-the-custom-search-json-api-on-2027-01-01-here-is-a-self-hosted-drop-in-3nk0",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 03 Aug 2026 12:51:48 +0000",
-      "summary": "Google's Custom Search JSON API is closed to new customers, and existing customers have until January 1, 2027 to move off it. Straight from Google's own overview page: The Custom Search JSON API is cl",
-      "score": 5,
-      "titleZh": "Google 于 2027 年 1 月 1 日终止了自定义搜索 JSON API。这是一个自托管的插件。"
-    },
-    {
-      "title": "Are Unsecured Crypto Loans Better Than Traditional Bank Loans in 2026?",
-      "link": "https://dev.to/asrw35345/are-unsecured-crypto-loans-better-than-traditional-bank-loans-in-2026-44hm",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 03 Aug 2026 12:46:00 +0000",
-      "summary": "Imagine walking into a bank and asking for a $50,000 loan with no credit check. The answer would be a polite \"no.\" Now imagine depositing Bitcoin into a lending platform and accessing the same amount ",
-      "score": 5,
-      "titleZh": "2026 年无担保加密货币贷款比传统银行贷款更好吗？"
-    },
-    {
-      "title": "How to Define and Test SLAs for Autonomous Workflows",
-      "link": "https://dev.to/xcceleraai/how-to-define-and-test-slas-for-autonomous-workflows-46gi",
+      "title": "Crypto Wallets vs. Banks: The Nomad's Financial Dilemma",
+      "link": "https://dev.to/kevin_jang_200b10826b3a5d/crypto-wallets-vs-banks-the-nomads-financial-dilemma-kil",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 03 Aug 2026 12:45:08 +0000",
-      "summary": "A service that returns HTTP 200 while an agent hallucinates a data source, calls the wrong tool, or leaves a customer stuck in a dead queue has not met any meaningful commitment, no matter what the up",
+      "date": "Tue, 04 Aug 2026 12:01:26 +0000",
+      "summary": "Crypto Wallets vs. Banks: The Nomad's Financial Dilemma There’s always something, isn’t there? Servers crash, API limits hit you hard, and isolation becomes your unwelcome companion. Being a tech solo",
       "score": 5,
-      "titleZh": "如何定义和测试自主工作流的 SLA"
+      "titleZh": "加密钱包与银行：游牧者的财务困境"
     },
     {
-      "title": "The Port Was the Easy Part: Proving a JavaScript Query-String Codec in Go",
-      "link": "https://dev.to/parityforge/the-port-was-the-easy-part-proving-a-javascript-query-string-codec-in-go-48ka",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 03 Aug 2026 12:44:55 +0000",
-      "summary": "I picked ljharb/qs from the official Port Mortem 2026 Track H pool because its size was deceptive. Roughly a thousand lines of query-string code looked manageable in 72 hours. Its observable behavior ",
-      "score": 5,
-      "titleZh": "移植是简单的部分：在 Go 中证明 JavaScript 查询字符串编解码器"
-    },
-    {
-      "title": "Are No-Collateral Crypto Loans Safe? 2026 Risk Assessment",
-      "link": "https://dev.to/asrw35345/are-no-collateral-crypto-loans-safe-2026-risk-assessment-1gca",
+      "title": "Book affordable 3 star hotels in leh now",
+      "link": "https://dev.to/the_zenladakh_b4117c8dd9/book-affordable-3-star-hotels-in-leh-now-15pn",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 03 Aug 2026 12:44:20 +0000",
-      "summary": "Imagine borrowing $197 million without putting up a dollar of your own. In 2023, a flash loan exploit on Euler Finance made that nightmare real—and the funds were stolen, not borrowed legitimately . T",
+      "date": "Tue, 04 Aug 2026 12:01:22 +0000",
+      "summary": "Introduction 3 star hotels in leh to balance reasonable budget expectations with essential modern amenities, warmth, and reliable safety. Understanding High-Altitude Lodging Requirements Traveling acr",
       "score": 5,
-      "titleZh": "无抵押加密货币贷款安全吗？ 2026年风险评估"
+      "titleZh": "立即预订列城经济型三星级酒店"
     },
     {
-      "title": "Why let Looked 7 Slower Than var: Closure Contexts and GC Thresholds in V8",
-      "link": "https://dev.to/volynetstyle/why-let-looked-7x-slower-than-var-closure-contexts-and-gc-thresholds-in-v8-4b38",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 03 Aug 2026 12:43:31 +0000",
-      "summary": "The first benchmark looked convincing: when creating a large number of closures, a loop using let was sometimes 6–8× slower than one using var. That makes for an easy headline: let is much slower than",
-      "score": 5,
-      "titleZh": "为什么让 Looked 7 比 var 慢：V8 中的闭包上下文和 GC 阈值"
-    },
-    {
-      "title": "My test suite had 100% coverage. Mutation testing still found real bugs.",
-      "link": "https://dev.to/pinceladasdaweb/my-test-suite-had-100-coverage-mutation-testing-still-found-real-bugs-2man",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 03 Aug 2026 12:36:49 +0000",
-      "summary": "breakwater is my resilience toolkit for Node.js — retry, circuit breaker, timeout, bulkhead, rate limiting, all composable, with observability built in. It's the library that stands between your servi",
-      "score": 5,
-      "titleZh": "我的测试套件覆盖率为 100%。突变测试仍然发现了真正的错误。"
-    },
-    {
-      "title": "Vigilmon vs Honeybadger: Uptime Monitoring Comparison (2026)",
-      "link": "https://dev.to/vigilmon/vigilmon-vs-honeybadger-uptime-monitoring-comparison-2026-1k0j",
+      "title": "Building a Sliding Window Rate Limiter for a Video API With Redis",
+      "link": "https://dev.to/ahmet_gedik778845/building-a-sliding-window-rate-limiter-for-a-video-api-with-redis-3gn5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 03 Aug 2026 12:36:36 +0000",
-      "summary": "Honeybadger is a developer-focused error monitoring and uptime tool with a strong reputation in the Ruby and Rails community. It has expanded to support many languages and frameworks. How does it comp",
+      "date": "Tue, 04 Aug 2026 12:00:01 +0000",
+      "summary": "Last month our trending-videos endpoint started returning garbage latency numbers. Not because the queries got slower, but because a handful of clients discovered they could hammer /api/v1/trending?re",
       "score": 5,
-      "titleZh": "Vigilmon 与 Honeybadger：正常运行时间监控比较 (2026)"
+      "titleZh": "使用 Redis 为视频 API 构建滑动窗口速率限制器"
     },
     {
-      "title": "How to Monitor Your Vercel Deployment with Vigilmon (Node.js, Edge, and Preview Deployments)",
-      "link": "https://dev.to/vigilmon/how-to-monitor-your-vercel-deployment-with-vigilmon-nodejs-edge-and-preview-deployments-nck",
+      "title": "Exactly-once money movement: surviving retries and duplicate webhooks",
+      "link": "https://dev.to/dannstormy/exactly-once-money-movement-surviving-retries-and-duplicate-webhooks-3laa",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 04 Aug 2026 11:50:13 +0000",
+      "summary": "Most of my work has been on systems where money moves, and the bugs I learned to fear were never the loud ones. They were quiet. A customer charged twice. A repayment that went through but never got r",
+      "score": 5,
+      "titleZh": "恰好一次的资金移动：重试和重复的 webhooks 幸存下来"
+    },
+    {
+      "title": "I Got Tired of Slow PDF Tools, So I Built My Own",
+      "link": "https://dev.to/shreyash_srivastavaa/i-got-tired-of-slow-pdf-tools-so-i-built-my-own-19im",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 04 Aug 2026 11:49:50 +0000",
+      "summary": "A few weeks ago, I needed to make a simple change to a PDF. Nothing complicated. I just wanted to merge a couple of files. But somehow, a 10-second task turned into: Uploading my files to a server Wai",
+      "score": 5,
+      "titleZh": "我厌倦了缓慢的 PDF 工具，所以我构建了自己的 PDF 工具"
+    },
+    {
+      "title": "Day 2 Diaries: Semantic HTML, Accessibility & the Branch 🌿",
+      "link": "https://dev.to/deepika_pusala/day-2-diaries-semantic-html-accessibility-the-branch-59o8",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 04 Aug 2026 11:45:51 +0000",
+      "summary": "If Day 1 was all about setting up the \"rules of the game\" (Git, GitHub, branches, PR templates), Day 2 was where I actually got to play — and also where I met my first real Git troublemaker. Here's ev",
+      "score": 5,
+      "titleZh": "第 2 天日记：语义 HTML、辅助功能和分支 🌿"
+    },
+    {
+      "title": "HTML to PNG: How to Render HTML to a PNG Image (URL to PNG via API)",
+      "link": "https://dev.to/grabbit/html-to-png-how-to-render-html-to-a-png-image-url-to-png-via-api-4eed",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 04 Aug 2026 11:41:53 +0000",
+      "summary": "The reliable way to render HTML to a PNG is to host the HTML at a URL, then capture that URL with a screenshot API and format set to png. The API loads the page in a real headless browser and returns ",
+      "score": 5,
+      "titleZh": "HTML 转 PNG：如何将 HTML 渲染为 PNG 图像（通过 API 转为 PNG 的 URL）"
+    },
+    {
+      "title": "🚀 Day 14 of My Node.js Learning Journey: Understanding the HTTP Module in Node.js",
+      "link": "https://dev.to/joshikrati03/day-14-of-my-nodejs-learning-journey-understanding-the-http-module-in-nodejs-46k6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 04 Aug 2026 11:41:50 +0000",
+      "summary": "As I continue my Node.js learning journey, today's focus was on one of the most fundamental concepts of backend development—the HTTP Module. Before learning frameworks like Express.js, it's important ",
+      "score": 5,
+      "titleZh": "🚀 Node.js 学习之旅的第 14 天：了解 Node.js 中的 HTTP 模块"
+    },
+    {
+      "title": "25 Next.js Interview Questions Every Mid-Level Developer Should Be Ready to Answer",
+      "link": "https://dev.to/bilalshahdev/25-nextjs-interview-questions-every-mid-level-developer-should-be-ready-to-answer-56h3",
       "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 03 Aug 2026 12:35:18 +0000",
-      "summary": "Vercel makes deployment easy â€” but easy deployments do not mean zero outages. Edge functions timeout. Environment variables are missing. Builds succeed but the app fails at runtime. This guide cover",
+      "date": "Tue, 04 Aug 2026 11:38:03 +0000",
+      "summary": "Next.js interviews have changed. A few years ago, many interview questions focused on file-based routing, server-side rendering, static generation, and how Next.js differed from Create React App. Toda",
       "score": 5,
-      "titleZh": "如何使用 Vigilmon 监控 Vercel 部署（Node.js、Edge 和预览部署）"
+      "titleZh": "每个中级开发人员都应该准备好回答的 25 个 Next.js 面试问题"
     }
   ]
 }
