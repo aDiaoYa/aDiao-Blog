@@ -1,21 +1,57 @@
 {
-  "updated": "2026-08-05T02:22:28.087Z",
+  "updated": "2026-08-05T11:58:51.864Z",
   "date": "2026-08-05",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Building a new project[P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfnuxw/building_a_new_projectp/",
+      "title": "Prior work on provenance-preserving epistemic abstention and evidence-triggered revision in neural systems? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vg4zx7/prior_work_on_provenancepreserving_epistemic/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-04T21:37:52.000Z",
-      "summary": "I have a project question. Right now, I am building a webapp for advanced arabic language learners that helps in Nahw (I'rab) which is something related to how Arabic sentences are built. My question ",
+      "date": "2026-08-05T11:42:53.000Z",
+      "summary": "Hello everyone, Adjacent bodies of work appear to include selective prediction and abstention, uncertainty estimation and calibration, provenance-aware representations, truth-maintenance and belief-re",
       "score": 40,
-      "titleZh": "建立一个新项目[P]"
+      "titleZh": "先前关于神经系统中保留起源的认知弃权和证据触发修正的工作？ [D]"
+    },
+    {
+      "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-05T10:28:44.000Z",
+      "summary": "Hi everyone, I'm an independent researcher sharing Monodratic, a sparse causal-attention architecture with learned product-hash routing. The idea is that after RoPE, source blocks are assigned to boun",
+      "score": 40,
+      "titleZh": "Monodratic：用于稀疏因果注意力的学习乘积哈希路由 [R]"
+    },
+    {
+      "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-05T04:36:38.000Z",
+      "summary": "​ Now that the rebuttal period is over, I’m curious about the score distribution specifically for theory papers this year. If you’re comfortable sharing, please drop: • Scores: x / x / x • Confidence:",
+      "score": 40,
+      "titleZh": "NeurIPS 2026 主赛道 — 理论论文分数跟踪后反驳 [D]"
+    },
+    {
+      "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-05T00:01:48.000Z",
+      "summary": "I trained a small MLP to memorize the classic Bad Apple animation, ~2.7 billion pixels of video compressed into 790k parameters (3.2 MB float32, 1.6 MB float16). The network takes a 3D coordinate (t, ",
+      "score": 40,
+      "titleZh": "我将坏苹果压缩成 3MB 的神经网络 [P]"
     },
     {
       "title": "Completely dead NeurIPS review period from both ends? [D]",
@@ -42,42 +78,6 @@
       "titleZh": "NeurIPS 2026 反驳后分数分布民意调查 [D]"
     },
     {
-      "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-04T11:00:53.000Z",
-      "summary": "After a very silent discussion period, we are in a very confused state with regards to NeurIPS, and really unsure what to make of everything. We do not wish to withdraw the submission since we have no",
-      "score": 40,
-      "titleZh": "关于 ICLR 和 NeurIPS 截止日期以及 OpenReview 的问题 [D]"
-    },
-    {
-      "title": "The Downsides of LLM-Generated Peer Reviews [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-04T09:03:02.000Z",
-      "summary": "Having used LLMs to assist with reviews, and also having received reviews that appear to rely heavily on LLM-generated text, I have noticed two recurring problems. 1. The endless search for uncontroll",
-      "score": 40,
-      "titleZh": "LLM 生成的同行评审的缺点 [D]"
-    },
-    {
-      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-03T16:17:53.000Z",
-      "summary": "As review season for NeurIPS wraps up, I have now reviewed for 3 major conferences this year. And I'm noticing a worrying trend: Out of the 12 papers I reviewed this year, only 1 provided full code (t",
-      "score": 40,
-      "titleZh": "是时候拒绝那些不包含可以重现结果的代码的论文了 [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -87,7 +87,7 @@
       "date": "2026-08-02T02:15:24.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销帖子"
+      "titleZh": "[D] 自我推销主题"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI",
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "link": "https://arxiv.org/abs/2608.02604",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.02604v1 Announce Type: new Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their perform",
       "score": 5,
-      "titleZh": "涉及 OpenAI 模型的第三方网络评估"
+      "titleZh": "ISEE：数据库字段的交互式语义丰富"
     },
     {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "HuggingFace",
+      "title": "Self-Organising Digital Circuits",
+      "link": "https://arxiv.org/abs/2608.02606",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 04 Aug 2026 13:58:29 GMT",
-      "summary": "",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.02606v1 Announce Type: new Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological sys",
       "score": 5,
-      "titleZh": "使用 LFM2.5-2.6B 随处部署本地代理"
+      "titleZh": "自组织数字电路"
     },
     {
-      "title": "I Built a VS Code Extension, I would like your feedback!",
-      "link": "https://dev.to/abdvlla/i-built-a-vs-code-extension-i-would-like-your-feedback-2jg4",
+      "title": "I Built an AI Skill That Turns a URL or Raw Footage Into an Editable Video Project",
+      "link": "https://dev.to/martindelophy/i-built-an-ai-skill-that-turns-a-url-or-raw-footage-into-an-editable-video-project-13oa",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 05 Aug 2026 02:16:10 +0000",
-      "summary": "Welcome to my first post! If you write React and TypeScript regularly, you probably already know the feeling: you know how to write a useState + useEffect data fetch, you've done it a hundred times, b",
+      "date": "Wed, 05 Aug 2026 11:56:32 +0000",
+      "summary": "AI video tools are getting better at producing output, but many of them still have the same limitation: they give you a finished MP4 and very little control over what happens next. If one subtitle is ",
       "score": 5,
-      "titleZh": "我构建了 VS Code 扩展，希望得到您的反馈！"
+      "titleZh": "我构建了一项 AI 技能，可将 URL 或原始素材转换为可编辑的视频项目"
     },
     {
-      "title": "Indianapolis IT Company Driving Digital Success",
-      "link": "https://dev.to/developertown/indianapolis-it-company-driving-digital-success-43i5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:10:52 +0000",
-      "summary": "Looking for a trusted Indianapolis IT company to accelerate your business growth? Developer Town delivers innovative software development, IT consulting, and digital transformation solutions tailored ",
-      "score": 5,
-      "titleZh": "印第安纳波利斯 IT 公司推动数字化成功"
-    },
-    {
-      "title": "3 Async Python Patterns I Wish I Learned Sooner (With Real Code)",
-      "link": "https://dev.to/sirmax/3-async-python-patterns-i-wish-i-learned-sooner-with-real-code-3epg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:10:22 +0000",
-      "summary": "3 Async Python Patterns I Wish I Learned Sooner (With Real Code) I spent two years writing async Python wrong. Not \"my code crashed\" wrong — more like \"I was leaving 70% of the performance on the floo",
-      "score": 5,
-      "titleZh": "我希望早点学会的 3 个异步 Python 模式（使用真实代码）"
-    },
-    {
-      "title": "AI Thumbnail Generator: 5 Lessons From Fixing CTR Issues",
-      "link": "https://dev.to/vincent_gay_77e325241795e/ai-thumbnail-generator-5-lessons-from-fixing-ctr-issues-1764",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:08:01 +0000",
-      "summary": "My thumbnail problem was caused by a repeatable workflow mistake, not a lack of ideas. Better file handling and testing mattered more than generating more images. Automated thumbnail tools still need ",
-      "score": 5,
-      "titleZh": "AI 缩略图生成器：解决点击率问题的 5 个经验教训"
-    },
-    {
-      "title": "Deep Dive: Eric Trump-Backed Space-Eyes and the SP…",
-      "link": "https://dev.to/norviktech/deep-dive-eric-trump-backed-space-eyes-and-the-sp-3g16",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:06:00 +0000",
-      "summary": "Originally published at norvik.tech Explore the implications of Space-Eyes' $638M SPAC merger, its technology, and impact on the startup landscape. A Special Purpose Acquisition Company (SPAC) is an i",
-      "score": 5,
-      "titleZh": "深入探讨：埃里克·特朗普支持的太空之眼和 SP……"
-    },
-    {
-      "title": "What Makes a Great T-Shirt? A Practical Guide to Fit and Fabric",
-      "link": "https://dev.to/davitparkltd/what-makes-a-great-t-shirt-a-practical-guide-to-fit-and-fabric-38h1",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:05:05 +0000",
-      "summary": "When people talk about wardrobe essentials, the humble t-shirt is often overlooked. Yet it's one of the most frequently worn pieces of clothing, making its quality and fit surprisingly important. Afte",
-      "score": 5,
-      "titleZh": "一件出色的 T 恤是什么？版型和面料实用指南"
-    },
-    {
-      "title": "Building Smart Meal Planner: An AI-Powered Meal Planning Tool with ASP.NET Core and .NET 10",
-      "link": "https://dev.to/saddamhossaindotnet/building-smart-meal-planner-an-ai-powered-meal-planning-tool-with-aspnet-core-and-net-10-2nm7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:01:40 +0000",
-      "summary": "As developers, we spend a lot of time building software that solves business problems. But some of the most impactful applications solve challenges that people face every single day. One of those chal",
-      "score": 5,
-      "titleZh": "构建智能膳食计划器：采用 ASP.NET Core 和 .NET 10 的人工智能驱动的膳食计划工具"
-    },
-    {
-      "title": "Styling plain text that survives copy-paste: a Unicode primer (and the tools I use)",
-      "link": "https://dev.to/owen090/styling-plain-text-that-survives-copy-paste-a-unicode-primer-and-the-tools-i-use-220m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 05 Aug 2026 02:00:34 +0000",
-      "summary": "The problem: there is no \"bold\" in a bio Here's a scenario you've probably hit: you want to emphasize something in an The reason is simple: these fields store plain text. Formatting isn't The workarou",
-      "score": 5,
-      "titleZh": "设计能够在复制粘贴中幸存下来的纯文本：Unicode 入门（以及我使用的工具）"
-    },
-    {
-      "title": "Why \"the date exactly halfway between these two dates\" doesn't always have one answer",
-      "link": "https://dev.to/joe8_lin_tw/why-the-date-exactly-halfway-between-these-two-dates-doesnt-always-have-one-answer-22e8",
+      "title": "Buy Telegram Accounts With Clean History:",
+      "link": "https://dev.to/usasvcit4frt/buy-telegram-accounts-with-clean-history-3o8n",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 05 Aug 2026 02:00:02 +0000",
-      "summary": "A friend asked me to help her find the exact midpoint between her and her partner's birthdays — apparently it's a whole thing people do, so they get a \"shared\" anniversary to celebrate every year. I f",
+      "date": "Wed, 05 Aug 2026 11:52:36 +0000",
+      "summary": "Buy Telegram Accounts With Clean History: ➤ WhatsApp: +1 (903) 702-9701 @usasvcit usasvcit@gmail.com Telegram has become one of the world's most widely used communication platforms, serving individual",
       "score": 5,
-      "titleZh": "为什么“这两个日期中间的日期”并不总是有一个答案"
+      "titleZh": "购买历史干净的 Telegram 账户："
     },
     {
-      "title": "Retrofit vs. Native: The Architecture War in AI Agent Payments",
-      "link": "https://dev.to/agentwallex/retrofit-vs-native-the-architecture-war-in-ai-agent-payments-1jnp",
+      "title": "Buy Yahoo Accounts With Clean History:",
+      "link": "https://dev.to/usasvcit4frt/buy-yahoo-accounts-with-clean-history-2c3p",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:51:33 +0000",
+      "summary": "Buy Yahoo Accounts With Clean History: ➤ WhatsApp: +1 (903) 702-9701 @usasvcit usasvcit@gmail.com Email remains one of the most essential digital communication tools in the modern world. Whether used ",
+      "score": 5,
+      "titleZh": "购买历史干净的雅虎帐户："
+    },
+    {
+      "title": "The LLM is an ALU - Lessons from a ZX Spectrum",
+      "link": "https://dev.to/matatbread/the-llm-is-an-alu-lessons-from-a-zx-spectrum-2o5h",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:46:33 +0000",
+      "summary": "Every time your LLM agent calls a tool and reads the result, you're paying a tax. Not in dollars — in tokens, latency, and reliability (ok, dollars then). The tool's output gets serialized into text, ",
+      "score": 5,
+      "titleZh": "LLM 是 ALU - ZX Spectrum 的经验教训"
+    },
+    {
+      "title": "Modernizing Ionic 8 & Angular 22: Moving from Karma, Zone.js & ESLint v8 to Vitest, Zoneless & Flat Config",
+      "link": "https://dev.to/the-modern-web/modernizing-ionic-8-angular-22-moving-from-karma-zonejs-eslint-v8-to-vitest-zoneless-flat-nh2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 05 Aug 2026 02:00:00 +0000",
-      "summary": "$75M landed in AI agent payment infrastructure this week. Catena Labs raised $30M to build an \"AI-native bank.\" Sapiom closed $15M for agent payment rails. Natural raised another $30M positioning to \"",
+      "date": "Wed, 05 Aug 2026 11:46:00 +0000",
+      "summary": "[!NOTE] Target Audience: Ionic & Angular developers looking to modernize starter boilerplate, boost unit test speed by 5x, adopt pure Zoneless change detection, and upgrade to ESLint v9 Flat Config. [",
       "score": 5,
-      "titleZh": "改造与原生：人工智能代理支付中的架构之战"
+      "titleZh": "现代化 Ionic 8 和 Angular 22：从 Karma、Zone.js 和 ESLint v8 迁移到 Vitest、Zoneless 和 Flat Config"
+    },
+    {
+      "title": "I Built a Free Fabric Yardage Calculator Widget for Upholstery Sites",
+      "link": "https://dev.to/dayu2333jinyul/i-built-a-free-fabric-yardage-calculator-widget-for-upholstery-sites-27gp",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:45:54 +0000",
+      "summary": "If you run an upholstery business website, you know the question: \"how much fabric do I need?\" I built a free embeddable calculator that answers it instantly. Covers dining chairs, 2-cushion sofas, 3-",
+      "score": 5,
+      "titleZh": "我为室内装饰网站构建了一个免费的织物码数计算器小部件"
+    },
+    {
+      "title": "How I did it: Using Gemini to write copy for my web development projects",
+      "link": "https://dev.to/teeteate/how-i-did-it-using-gemini-to-write-copy-for-my-web-development-projects-32h5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:45:39 +0000",
+      "summary": "Practical copy makes web projects look better. Writing copy for web development projects is one of my least favorite things to do. I enjoy writing - about what I'm learning, about what I know, and abo",
+      "score": 5,
+      "titleZh": "我是如何做到的：使用 Gemini 为我的 Web 开发项目编写文案"
+    },
+    {
+      "title": "I Found Four Different Solutions to the Same Prop Drilling Problem in One Codebase. All Written by AI.",
+      "link": "https://dev.to/avery_code/i-found-four-different-solutions-to-the-same-prop-drilling-problem-in-one-codebase-all-written-by-234a",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:44:21 +0000",
+      "summary": "I was looking for a specific piece of state logic and ended up finding something more interesting instead. Four components in the same project were passing data down through their children. Same under",
+      "score": 5,
+      "titleZh": "我在一个代码库中发现了针对同一 Prop 钻探问题的四种不同解决方案。全部由人工智能编写。"
+    },
+    {
+      "title": "Playwright vs Cypress: Which Should You Use in 2026?",
+      "link": "https://dev.to/grabbit/playwright-vs-cypress-which-should-you-use-in-2026-17ik",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:41:05 +0000",
+      "summary": "Playwright and Cypress are both strong end-to-end testing frameworks, and for many projects either one works. The short version: choose Playwright if you need cross-browser coverage (including Safari/",
+      "score": 5,
+      "titleZh": "Playwright 与 Cypress：2026 年您应该使用哪个？"
+    },
+    {
+      "title": "How to handle AI agents signing up to your product",
+      "link": "https://dev.to/layercall/how-to-handle-ai-agents-signing-up-to-your-product-102k",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 11:39:59 +0000",
+      "summary": "Start from the uncomfortable part. Every fraud signal the industry has built is a proxy for \"is a human here\", and a capable AI agent genuinely has the things those proxies measure. It drives a real b",
+      "score": 5,
+      "titleZh": "如何处理人工智能代理注册您的产品"
     }
   ]
 }
