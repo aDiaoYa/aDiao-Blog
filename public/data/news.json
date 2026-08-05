@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-04T12:01:59.506Z",
-  "date": "2026-08-04",
+  "updated": "2026-08-05T02:22:28.087Z",
+  "date": "2026-08-05",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Building a new project[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfnuxw/building_a_new_projectp/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-04T21:37:52.000Z",
+      "summary": "I have a project question. Right now, I am building a webapp for advanced arabic language learners that helps in Nahw (I'rab) which is something related to how Arabic sentences are built. My question ",
+      "score": 40,
+      "titleZh": "建立一个新项目[P]"
+    },
+    {
+      "title": "Completely dead NeurIPS review period from both ends? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfm2k9/completely_dead_neurips_review_period_from_both/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-04T20:30:12.000Z",
+      "summary": "I’ve seen a lot of people whose reviewers went silent after initial reviews, but I am also noting abnormally quiet authors. I ultimately withdrew my paper, but stayed an active reviewer. Out of my bat",
+      "score": 40,
+      "titleZh": "NeurIPS 审核期两端彻底死掉？ [D]"
+    },
+    {
+      "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-04T18:05:47.000Z",
+      "summary": "As the title suggests, because there's no data on Papercopilot yet, and people have been talking about the scores being lower in general than last year, I thought it could be interesting to survey the",
+      "score": 40,
+      "titleZh": "NeurIPS 2026 反驳后分数分布民意调查 [D]"
+    },
     {
       "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
@@ -16,18 +52,6 @@
       "summary": "After a very silent discussion period, we are in a very confused state with regards to NeurIPS, and really unsure what to make of everything. We do not wish to withdraw the submission since we have no",
       "score": 40,
       "titleZh": "关于 ICLR 和 NeurIPS 截止日期以及 OpenReview 的问题 [D]"
-    },
-    {
-      "title": "Automated Plagiarism with LLM-remixers [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vf623l/automated_plagiarism_with_llmremixers_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-04T10:04:48.000Z",
-      "summary": "An author puts together a number of papers he likes, especially adds the .tex files from arxiv, tells the LLM to look for gaps in the papers, commented out material, and remix them, while avoiding syn",
-      "score": 40,
-      "titleZh": "使用 LLM 混音器进行自动抄袭 [D]"
     },
     {
       "title": "The Downsides of LLM-Generated Peer Reviews [D]",
@@ -42,18 +66,6 @@
       "titleZh": "LLM 生成的同行评审的缺点 [D]"
     },
     {
-      "title": "Missed EMNLP commitment deadline, what can be done? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1veyvev/missed_emnlp_commitment_deadline_what_can_be_done/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-04T03:25:55.000Z",
-      "summary": "Asking for a friend: We submitted our paper to ARR May 2026 and got decent scores from the reviewers - 2.5,3,3.5,4. The meta-reviewer gave an overall of 3.5. However, we missed the deadline to commit ",
-      "score": 40,
-      "titleZh": "错过了 EMNLP 承诺期限，该怎么办？ [D]"
-    },
-    {
       "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
       "source": "Reddit ML",
@@ -66,18 +78,6 @@
       "titleZh": "是时候拒绝那些不包含可以重现结果的代码的论文了 [D]"
     },
     {
-      "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-03T15:01:36.000Z",
-      "summary": "Potentially a hot take? I am not sure why our community is plagued with reviewers who, after acknowledging that their concerns were addressed by a rebuttal, decide to maintain their score because they",
-      "score": 40,
-      "titleZh": "NeurIPS 2026：如果反驳解决了您的问题，请提高您的分数 [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -87,7 +87,7 @@
       "date": "2026-08-02T02:15:24.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] 自我推销帖子"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "link": "https://arxiv.org/abs/2607.28629",
-      "source": "ArXiv AI",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural und",
+      "date": "Tue, 04 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "score": 5,
-      "titleZh": "代理人工智能中的 OpenClaw 和 Ollama：迈向完全自主和可扩展的人工智能代理系统"
+      "titleZh": "涉及 OpenAI 模型的第三方网络评估"
     },
     {
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "link": "https://arxiv.org/abs/2607.28631",
-      "source": "ArXiv AI",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and compari",
+      "date": "Tue, 04 Aug 2026 13:58:29 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "AI可以评价AI科学家吗？使用自动多模型审查的自主研究生成系统的基准研究"
+      "titleZh": "使用 LFM2.5-2.6B 随处部署本地代理"
     },
     {
-      "title": "Coding GPA & Weighted Grade Algorithms: Floating-Point Drift, Credit Hour Normalization, and Truncation Bugs",
-      "link": "https://dev.to/rasika_dangamuwa_ed1074fe/coding-gpa-weighted-grade-algorithms-floating-point-drift-credit-hour-normalization-and-1o87",
+      "title": "I Built a VS Code Extension, I would like your feedback!",
+      "link": "https://dev.to/abdvlla/i-built-a-vs-code-extension-i-would-like-your-feedback-2jg4",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:16:10 +0000",
+      "summary": "Welcome to my first post! If you write React and TypeScript regularly, you probably already know the feeling: you know how to write a useState + useEffect data fetch, you've done it a hundred times, b",
+      "score": 5,
+      "titleZh": "我构建了 VS Code 扩展，希望得到您的反馈！"
+    },
+    {
+      "title": "Indianapolis IT Company Driving Digital Success",
+      "link": "https://dev.to/developertown/indianapolis-it-company-driving-digital-success-43i5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:10:52 +0000",
+      "summary": "Looking for a trusted Indianapolis IT company to accelerate your business growth? Developer Town delivers innovative software development, IT consulting, and digital transformation solutions tailored ",
+      "score": 5,
+      "titleZh": "印第安纳波利斯 IT 公司推动数字化成功"
+    },
+    {
+      "title": "3 Async Python Patterns I Wish I Learned Sooner (With Real Code)",
+      "link": "https://dev.to/sirmax/3-async-python-patterns-i-wish-i-learned-sooner-with-real-code-3epg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:10:22 +0000",
+      "summary": "3 Async Python Patterns I Wish I Learned Sooner (With Real Code) I spent two years writing async Python wrong. Not \"my code crashed\" wrong — more like \"I was leaving 70% of the performance on the floo",
+      "score": 5,
+      "titleZh": "我希望早点学会的 3 个异步 Python 模式（使用真实代码）"
+    },
+    {
+      "title": "AI Thumbnail Generator: 5 Lessons From Fixing CTR Issues",
+      "link": "https://dev.to/vincent_gay_77e325241795e/ai-thumbnail-generator-5-lessons-from-fixing-ctr-issues-1764",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:08:01 +0000",
+      "summary": "My thumbnail problem was caused by a repeatable workflow mistake, not a lack of ideas. Better file handling and testing mattered more than generating more images. Automated thumbnail tools still need ",
+      "score": 5,
+      "titleZh": "AI 缩略图生成器：解决点击率问题的 5 个经验教训"
+    },
+    {
+      "title": "Deep Dive: Eric Trump-Backed Space-Eyes and the SP…",
+      "link": "https://dev.to/norviktech/deep-dive-eric-trump-backed-space-eyes-and-the-sp-3g16",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:06:00 +0000",
+      "summary": "Originally published at norvik.tech Explore the implications of Space-Eyes' $638M SPAC merger, its technology, and impact on the startup landscape. A Special Purpose Acquisition Company (SPAC) is an i",
+      "score": 5,
+      "titleZh": "深入探讨：埃里克·特朗普支持的太空之眼和 SP……"
+    },
+    {
+      "title": "What Makes a Great T-Shirt? A Practical Guide to Fit and Fabric",
+      "link": "https://dev.to/davitparkltd/what-makes-a-great-t-shirt-a-practical-guide-to-fit-and-fabric-38h1",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:05:05 +0000",
+      "summary": "When people talk about wardrobe essentials, the humble t-shirt is often overlooked. Yet it's one of the most frequently worn pieces of clothing, making its quality and fit surprisingly important. Afte",
+      "score": 5,
+      "titleZh": "一件出色的 T 恤是什么？版型和面料实用指南"
+    },
+    {
+      "title": "Building Smart Meal Planner: An AI-Powered Meal Planning Tool with ASP.NET Core and .NET 10",
+      "link": "https://dev.to/saddamhossaindotnet/building-smart-meal-planner-an-ai-powered-meal-planning-tool-with-aspnet-core-and-net-10-2nm7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:01:40 +0000",
+      "summary": "As developers, we spend a lot of time building software that solves business problems. But some of the most impactful applications solve challenges that people face every single day. One of those chal",
+      "score": 5,
+      "titleZh": "构建智能膳食计划器：采用 ASP.NET Core 和 .NET 10 的人工智能驱动的膳食计划工具"
+    },
+    {
+      "title": "Styling plain text that survives copy-paste: a Unicode primer (and the tools I use)",
+      "link": "https://dev.to/owen090/styling-plain-text-that-survives-copy-paste-a-unicode-primer-and-the-tools-i-use-220m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 05 Aug 2026 02:00:34 +0000",
+      "summary": "The problem: there is no \"bold\" in a bio Here's a scenario you've probably hit: you want to emphasize something in an The reason is simple: these fields store plain text. Formatting isn't The workarou",
+      "score": 5,
+      "titleZh": "设计能够在复制粘贴中幸存下来的纯文本：Unicode 入门（以及我使用的工具）"
+    },
+    {
+      "title": "Why \"the date exactly halfway between these two dates\" doesn't always have one answer",
+      "link": "https://dev.to/joe8_lin_tw/why-the-date-exactly-halfway-between-these-two-dates-doesnt-always-have-one-answer-22e8",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 04 Aug 2026 11:02:16 +0000",
-      "summary": "Calculating Grade Point Average (GPA) or weighted score metrics seems like an entry-level coding exercise: multiply grade points by course credit hours, sum them up, and divide by total attempted cred",
-      "score": 15,
-      "titleZh": "编码 GPA 和加权成绩算法：浮点漂移、学分标准化和截断错误"
+      "date": "Wed, 05 Aug 2026 02:00:02 +0000",
+      "summary": "A friend asked me to help her find the exact midpoint between her and her partner's birthdays — apparently it's a whole thing people do, so they get a \"shared\" anniversary to celebrate every year. I f",
+      "score": 5,
+      "titleZh": "为什么“这两个日期中间的日期”并不总是有一个答案"
     },
     {
-      "title": "Crypto Wallets vs. Banks: The Nomad's Financial Dilemma",
-      "link": "https://dev.to/kevin_jang_200b10826b3a5d/crypto-wallets-vs-banks-the-nomads-financial-dilemma-kil",
+      "title": "Retrofit vs. Native: The Architecture War in AI Agent Payments",
+      "link": "https://dev.to/agentwallex/retrofit-vs-native-the-architecture-war-in-ai-agent-payments-1jnp",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 04 Aug 2026 12:01:26 +0000",
-      "summary": "Crypto Wallets vs. Banks: The Nomad's Financial Dilemma There’s always something, isn’t there? Servers crash, API limits hit you hard, and isolation becomes your unwelcome companion. Being a tech solo",
+      "date": "Wed, 05 Aug 2026 02:00:00 +0000",
+      "summary": "$75M landed in AI agent payment infrastructure this week. Catena Labs raised $30M to build an \"AI-native bank.\" Sapiom closed $15M for agent payment rails. Natural raised another $30M positioning to \"",
       "score": 5,
-      "titleZh": "加密钱包与银行：游牧者的财务困境"
-    },
-    {
-      "title": "Book affordable 3 star hotels in leh now",
-      "link": "https://dev.to/the_zenladakh_b4117c8dd9/book-affordable-3-star-hotels-in-leh-now-15pn",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 12:01:22 +0000",
-      "summary": "Introduction 3 star hotels in leh to balance reasonable budget expectations with essential modern amenities, warmth, and reliable safety. Understanding High-Altitude Lodging Requirements Traveling acr",
-      "score": 5,
-      "titleZh": "立即预订列城经济型三星级酒店"
-    },
-    {
-      "title": "Building a Sliding Window Rate Limiter for a Video API With Redis",
-      "link": "https://dev.to/ahmet_gedik778845/building-a-sliding-window-rate-limiter-for-a-video-api-with-redis-3gn5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 12:00:01 +0000",
-      "summary": "Last month our trending-videos endpoint started returning garbage latency numbers. Not because the queries got slower, but because a handful of clients discovered they could hammer /api/v1/trending?re",
-      "score": 5,
-      "titleZh": "使用 Redis 为视频 API 构建滑动窗口速率限制器"
-    },
-    {
-      "title": "Exactly-once money movement: surviving retries and duplicate webhooks",
-      "link": "https://dev.to/dannstormy/exactly-once-money-movement-surviving-retries-and-duplicate-webhooks-3laa",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 11:50:13 +0000",
-      "summary": "Most of my work has been on systems where money moves, and the bugs I learned to fear were never the loud ones. They were quiet. A customer charged twice. A repayment that went through but never got r",
-      "score": 5,
-      "titleZh": "恰好一次的资金移动：重试和重复的 webhooks 幸存下来"
-    },
-    {
-      "title": "I Got Tired of Slow PDF Tools, So I Built My Own",
-      "link": "https://dev.to/shreyash_srivastavaa/i-got-tired-of-slow-pdf-tools-so-i-built-my-own-19im",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 11:49:50 +0000",
-      "summary": "A few weeks ago, I needed to make a simple change to a PDF. Nothing complicated. I just wanted to merge a couple of files. But somehow, a 10-second task turned into: Uploading my files to a server Wai",
-      "score": 5,
-      "titleZh": "我厌倦了缓慢的 PDF 工具，所以我构建了自己的 PDF 工具"
-    },
-    {
-      "title": "Day 2 Diaries: Semantic HTML, Accessibility & the Branch 🌿",
-      "link": "https://dev.to/deepika_pusala/day-2-diaries-semantic-html-accessibility-the-branch-59o8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 11:45:51 +0000",
-      "summary": "If Day 1 was all about setting up the \"rules of the game\" (Git, GitHub, branches, PR templates), Day 2 was where I actually got to play — and also where I met my first real Git troublemaker. Here's ev",
-      "score": 5,
-      "titleZh": "第 2 天日记：语义 HTML、辅助功能和分支 🌿"
-    },
-    {
-      "title": "HTML to PNG: How to Render HTML to a PNG Image (URL to PNG via API)",
-      "link": "https://dev.to/grabbit/html-to-png-how-to-render-html-to-a-png-image-url-to-png-via-api-4eed",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 11:41:53 +0000",
-      "summary": "The reliable way to render HTML to a PNG is to host the HTML at a URL, then capture that URL with a screenshot API and format set to png. The API loads the page in a real headless browser and returns ",
-      "score": 5,
-      "titleZh": "HTML 转 PNG：如何将 HTML 渲染为 PNG 图像（通过 API 转为 PNG 的 URL）"
-    },
-    {
-      "title": "🚀 Day 14 of My Node.js Learning Journey: Understanding the HTTP Module in Node.js",
-      "link": "https://dev.to/joshikrati03/day-14-of-my-nodejs-learning-journey-understanding-the-http-module-in-nodejs-46k6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 11:41:50 +0000",
-      "summary": "As I continue my Node.js learning journey, today's focus was on one of the most fundamental concepts of backend development—the HTTP Module. Before learning frameworks like Express.js, it's important ",
-      "score": 5,
-      "titleZh": "🚀 Node.js 学习之旅的第 14 天：了解 Node.js 中的 HTTP 模块"
-    },
-    {
-      "title": "25 Next.js Interview Questions Every Mid-Level Developer Should Be Ready to Answer",
-      "link": "https://dev.to/bilalshahdev/25-nextjs-interview-questions-every-mid-level-developer-should-be-ready-to-answer-56h3",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 04 Aug 2026 11:38:03 +0000",
-      "summary": "Next.js interviews have changed. A few years ago, many interview questions focused on file-based routing, server-side rendering, static generation, and how Next.js differed from Create React App. Toda",
-      "score": 5,
-      "titleZh": "每个中级开发人员都应该准备好回答的 25 个 Next.js 面试问题"
+      "titleZh": "改造与原生：人工智能代理支付中的架构之战"
     }
   ]
 }
