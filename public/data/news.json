@@ -1,57 +1,57 @@
 {
-  "updated": "2026-08-07T10:51:22.711Z",
-  "date": "2026-08-07",
+  "updated": "2026-08-08T10:30:37.793Z",
+  "date": "2026-08-08",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "source": "HN·AI",
+      "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 06 Aug 2026 11:58:07 +0000",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468",
-      "score": 304,
-      "titleZh": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁"
+      "date": "2026-08-08T09:06:01.000Z",
+      "summary": "Real-Time Conversational Agents (RTCA) workshop at NeurIPS 2026 (Sydney, Dec 11–12). Submissions are now open on OpenReview. What the workshop is about Conversational AI has crossed into real-time dep",
+      "score": 40,
+      "titleZh": "实时对话代理 (RTCA) 研讨会 @ NeurIPS 2026 — 提交现已开放，截止日期为 8 月 29 日 AoE [N]"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "source": "HN·AI",
+      "title": "Good OCR strategy for detecting doctor handwritting [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vi7br1/good_ocr_strategy_for_detecting_doctor/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 06 Aug 2026 17:02:04 +0000",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357",
-      "score": 247,
-      "titleZh": "改进 ChatGPT 中的 GPT-5.6 Sol，扩展免费用户的 GPT-5.6 Luna 访问权限"
+      "date": "2026-08-07T17:40:14.000Z",
+      "summary": "I gotta develop a tool which get the text from doctor handwritting, do you guys know any good strategy for that? https://preview.redd.it/jisxcc2aozhh1.png?width=1103&format=png&auto=webp&s=333b14a782e",
+      "score": 40,
+      "titleZh": "检测医生笔迹的良好 OCR 策略 [P]"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "link": "https://www.aleksagordic.com/blog/vllm",
-      "source": "HN·AI",
+      "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 06 Aug 2026 21:30:21 +0000",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852",
-      "score": 110,
-      "titleZh": "vLLM 内部：高通量 LLM 推理系统剖析 (2025)"
+      "date": "2026-08-07T17:10:03.000Z",
+      "summary": "I’m curious whether there is now a theoretical or empirical “sweet spot” for LLM quantization, preferably research done using open-source formats like GGUF Suppose you have a fixed memory/compute budg",
+      "score": 40,
+      "titleZh": "目前认为 LLM 理论上最佳的量化位宽是多少？ [D]"
     },
     {
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "source": "HN·AI",
+      "title": "2026 NeurIPS: Where are you going? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 07 Aug 2026 00:37:30 +0000",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comme",
-      "score": 60,
-      "titleZh": "新奥尔良正在测试 Carbyne 的人工智能紧急呼叫分类软件"
+      "date": "2026-08-07T16:48:43.000Z",
+      "summary": "To all those in the US: Are you planning to go Sydney or Atlanta this year for NeurIPS? submitted by /u/rsesrsfh [link] [comments]",
+      "score": 40,
+      "titleZh": "2026 NeurIPS：你要去哪里？ [D]"
     },
     {
       "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
@@ -78,172 +78,172 @@
       "titleZh": "改进了 Bad Apple 到神经网络的压缩 [P]"
     },
     {
-      "title": "CIKM 2026 decisions [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vhtto1/cikm_2026_decisions_r/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T07:27:50.000Z",
-      "summary": "CIKM 2026 decisions will be announced today. The resource track outcomes have started going out. How did you go with CIKM 2026? submitted by /u/Happy-Hustler [link] [comments]",
+      "date": "2026-08-02T02:15:24.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "CIKM 2026 决定 [R]"
+      "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "Which degree is best? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vhsb17/which_degree_is_best_d/",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T06:00:35.000Z",
-      "summary": "Hi. I am about to apply for university, and I am wondering which degree is best for Machine Learning Engineer. I’m in the UK (Scotland). Which one should I pick between MEng, MSci, or MInf (Masters of",
+      "date": "2026-07-31T02:30:08.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "哪个学位最好？ [D]"
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "CIKM '26 Notification [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vhmw48/cikm_26_notification_d/",
-      "source": "Reddit ML",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T01:28:39.000Z",
-      "summary": "The results are out today! Let’s share them, guys. From my batch - 2/6 full papers seem to be accepted (not confirmed yet) - 1/3 short papers are accepted Cheers! submitted by /u/snu95 [link] [comment",
-      "score": 40,
-      "titleZh": "CIKM '26 通知 [D]"
-    },
-    {
-      "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-06T12:10:36.000Z",
-      "summary": "Whether generating CELEBV-HQ videos or turbulent plasma fields (digital twins), autoregressive models (such as latent diffusion or flow models) accumulate error over long rollouts, yet at deployment t",
-      "score": 40,
-      "titleZh": "往返一致性：双向扩散模型可以预测其自身的推出误差 [R]"
-    },
-    {
-      "title": "Fixing Vitest CI Worker Crashes by Switching from jsdom to happy-dom",
-      "link": "https://dev.to/janarthanan_soundararajan/fixing-vitest-ci-worker-crashes-by-switching-from-jsdom-to-happy-dom-1h95",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 07 Aug 2026 10:43:45 +0000",
-      "summary": "Our Vitest suite passed every time locally, but GitHub Actions failed before executing a single test. Instead of failed assertions, every test worker crashed during startup, leaving us with 0% coverag",
+      "date": "Fri, 07 Aug 2026 17:53:32 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "通过从 jsdom 切换到 happy-dom 修复 Vitest CI Worker 崩溃"
+      "titleZh": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？"
     },
     {
-      "title": "This Made Sense at the Time: Why Yesterday's “Bad” Decisions Deserve a Second Look",
-      "link": "https://dev.to/byteminds/this-made-sense-at-the-time-why-yesterdays-bad-decisions-deserve-a-second-look-4ed9",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "score": 5,
+      "titleZh": "应对关键网络能力的下一个前沿"
+    },
+    {
+      "title": "EffCSS hydration: server work, client trust, zero waste",
+      "link": "https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 07 Aug 2026 10:42:04 +0000",
-      "summary": "Every experienced developer has encountered it: a piece of code that looks completely irrational. A mysterious workaround. A feature nobody uses anymore. A subsystem everyone is afraid to touch. The f",
+      "date": "Sat, 08 Aug 2026 10:27:17 +0000",
+      "summary": "Currently the CSS-in-JS ecosystem is split into two camps: Runtime CSS-in-JS (Emotion, styled-components) keeps JS on the client for full dynamism. At hydration it reuses the SSR-injected styles, so t",
       "score": 5,
-      "titleZh": "这在当时是有道理的：为什么昨天的“糟糕”决定值得重新审视"
+      "titleZh": "EffCSS 水合：服务器工作、客户端信任、零浪费"
     },
     {
-      "title": "Integrating Autonomous Web Agents into Next-Gen Developer Workflows: The Otobot Approach",
-      "link": "https://dev.to/yusuf_gnbay_9d9d3ef5f6d5/integrating-autonomous-web-agents-into-next-gen-developer-workflows-the-otobot-approach-ma7",
+      "title": "Website vs Social Media: What Does Your Business Really Need?",
+      "link": "https://dev.to/nativeclusters_b695bf2918/website-vs-social-media-what-does-your-business-really-need-1b1e",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 08 Aug 2026 10:25:09 +0000",
+      "summary": "For many businesses today, the first step toward building an online presence is creating a social media page. It is quick, affordable, and gives businesses a way to communicate directly with customers",
+      "score": 5,
+      "titleZh": "网站与社交媒体：您的企业真正需要什么？"
+    },
+    {
+      "title": "Announcing stryker-mcp-reporter v1.10.0: 100% Mutation Score & Native MCP for AI Coding Agents",
+      "link": "https://dev.to/maybenoobish/announcing-stryker-mcp-reporter-v1100-100-mutation-score-native-mcp-for-ai-coding-agents-3db5",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 08 Aug 2026 10:18:57 +0000",
+      "summary": "Standard code coverage measures execution, not test strength. AI coding assistants generate hundreds of lines of unit tests, but often fall into the \"happy path bias\". With stryker-mcp-reporter v1.10.",
+      "score": 5,
+      "titleZh": "宣布推出 Stryker-mcp-reporter v1.10.0：AI 编码代理的 100% 突变分数和原生 MCP"
+    },
+    {
+      "title": "Announcing stryker-mcp-reporter v1.11.0: 100% Mutation Score & Native MCP for AI Coding Agents",
+      "link": "https://dev.to/maybenoobish/announcing-stryker-mcp-reporter-v1110-100-mutation-score-native-mcp-for-ai-coding-agents-o4b",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 08 Aug 2026 10:18:37 +0000",
+      "summary": "Standard code coverage measures execution, not test strength. AI coding assistants generate hundreds of lines of unit tests, but often fall into the \"happy path bias\". With stryker-mcp-reporter v1.11.",
+      "score": 5,
+      "titleZh": "宣布推出 stryker-mcp-reporter v1.11.0：AI 编码代理的 100% 突变分数和原生 MCP"
+    },
+    {
+      "title": "Parallel connections made my speed test 2 slower",
+      "link": "https://dev.to/hammad4june1999/parallel-connections-made-my-speed-test-2x-slower-4dne",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 07 Aug 2026 10:39:13 +0000",
-      "summary": "As developer workflows shift toward autonomous coding tools and visual AI builders, the boundary between writing code and automating browser tasks is dissolving rapidly. Modern developers need headles",
+      "date": "Sat, 08 Aug 2026 10:18:06 +0000",
+      "summary": "I built a speed test last week. It told me my download was 8.2 Mbps. Speedtest.net, on the same line, five minutes later, said 28.65. My first instinct was that this was a distance problem, and I had ",
       "score": 5,
-      "titleZh": "将自主 Web 代理集成到下一代开发人员工作流程中：Otobot 方法"
+      "titleZh": "并行连接使我的速度测试 2 变慢"
     },
     {
-      "title": "Flow Render: Render UI Components Like Calling an Async Functions",
-      "link": "https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 07 Aug 2026 10:37:38 +0000",
-      "summary": "Flow Render provides a Promise-based approach to rendering UI. It lets you render components as if calling async functions, await their results, and resume the same async flow. It consolidates interac",
-      "score": 5,
-      "titleZh": "Flow Render：像调用异步函数一样渲染 UI 组件"
-    },
-    {
-      "title": "Beyond Keywords: Rethinking How Tech Talent Is Hired | Placemeright",
-      "link": "https://dev.to/placemeright/beyond-keywords-rethinking-how-tech-talent-is-hired-placemeright-165g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 07 Aug 2026 10:36:33 +0000",
-      "summary": "Hiring developers used to feel straightforward. A recruiter would search for a list of skills, match those keywords against resumes, shortlist a few candidates, and move the process forward. That appr",
-      "score": 5,
-      "titleZh": "关键词之外：重新思考如何聘用技术人才 |地点权"
-    },
-    {
-      "title": "Introducing GyosJS: Reactive HTML and MPA Boost for Server-Rendered Apps",
-      "link": "https://dev.to/hohoangphu/introducing-gyosjs-reactive-html-and-mpa-boost-for-server-rendered-apps-opo",
+      "title": "Stop Uploading Proprietary Graphics to Cloud Image Resizers 🖼️🚀",
+      "link": "https://dev.to/kandz/stop-uploading-proprietary-graphics-to-cloud-image-resizers-1nig",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 07 Aug 2026 10:34:59 +0000",
-      "summary": "Server-rendered applications are still a practical way to build software. The backend owns routing, validation, authorization, and HTML generation. A browser can follow a link, submit a form, receive ",
+      "date": "Sat, 08 Aug 2026 10:15:26 +0000",
+      "summary": "When optimizing image sizes for web deployments, preparing blog screenshots, or cropping user avatars, pasting them into random online resizers is a common routine. But there’s a major compliance and ",
       "score": 5,
-      "titleZh": "GyosJS 简介：针对服务器渲染应用程序的响应式 HTML 和 MPA Boost"
+      "titleZh": "停止将专有图形上传到云图像调整器🖼️🚀"
     },
     {
-      "title": "#Top @ 10 Sites to Buy Wise Accounts with Instant Delivery and Secure Access",
-      "link": "https://dev.to/yahooaccounts/top-10-sites-to-buy-wise-accounts-with-instant-delivery-and-secure-access-149f",
+      "title": "Working With JSON: Formatting, Validation, Minification, and Conversion",
+      "link": "https://dev.to/toolaska/working-with-json-formatting-validation-minification-and-conversion-5271",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 07 Aug 2026 10:34:03 +0000",
-      "summary": "Top 10 Sites to Buy Wise Accounts with Instant Delivery and Secure Access https://topeliteshop.com/ But here’s the uncomfortable truth: Instead of blindly chasing “instant delivery,” you need a safety",
+      "date": "Sat, 08 Aug 2026 10:14:21 +0000",
+      "summary": "JSON is one of those technologies that almost every developer interacts with, regardless of their tech stack. Whether you're building a REST API, consuming third-party services, debugging frontend req",
       "score": 5,
-      "titleZh": "#Top @ 10 个可通过即时交付和安全访问购买明智帐户的网站"
+      "titleZh": "使用 JSON：格式化、验证、缩小和转换"
     },
     {
-      "title": "Why ETHANS TECH Courses Are the Right Choice for Learning Microsoft Azure",
-      "link": "https://dev.to/mahek_rathod_9e58c08f3e28/why-ethans-tech-courses-are-the-right-choice-for-learning-microsoft-azure-49j4",
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "link": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 08 Aug 2026 10:09:17 +0000",
+      "summary": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet that's slightly ahead of its time. Signals were that bet in v16. Zoneless was that bet in v21. In ",
+      "score": 5,
+      "titleZh": "Angular WebMCP — 您的应用程序现在是一个 AI 工具 🔥🚀"
+    },
+    {
+      "title": "SQL & Unix Training in Tamil Nadu |Course &Placement",
+      "link": "https://dev.to/vedha/sql-unix-training-in-tamil-nadu-course-placement-3klh",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 08 Aug 2026 10:08:32 +0000",
+      "summary": "Learn SQL & Unix Training in Tamil Nadu with practical SQL, Unix/Linux, shell scripting, database management and production support skills. SQL and Unix are two important technologies used across the ",
+      "score": 5,
+      "titleZh": "泰米尔纳德邦 SQL 和 Unix 培训 |课程和安置"
+    },
+    {
+      "title": "Every Check Said Our GA4 Analytics Worked. It Had Never Recorded a Visit",
+      "link": "https://dev.to/ailegend/every-check-said-our-ga4-analytics-worked-it-had-never-recorded-a-visit-1cn0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 07 Aug 2026 10:33:11 +0000",
-      "summary": "Cloud computing has become the backbone of modern businesses, and Microsoft Azure is one of the world's leading cloud platforms. Thousands of organizations use Azure to host applications, manage virtu",
+      "date": "Sat, 08 Aug 2026 10:06:48 +0000",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry. Adding analytics to a website is the most boring task in web development. Google hands you eight lines, you paste them",
       "score": 5,
-      "titleZh": "为什么 ETHANS TECH 课程是学习 Microsoft Azure 的正确选择"
-    },
-    {
-      "title": "What Makes Running n8n in Production Harder Than It Looks",
-      "link": "https://dev.to/arif_nawaz/what-makes-running-n8n-in-production-harder-than-it-looks-1o3f",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 07 Aug 2026 10:32:05 +0000",
-      "summary": "If you've ever self-hosted n8n, you know how quickly you can get started. A server, a Docker command (or Docker Compose), a few environment variables, and within minutes you're building workflows, con",
-      "score": 5,
-      "titleZh": "是什么使得在生产中运行 n8n 比看起来更困难"
-    },
-    {
-      "title": "Building Anti-Phishing Features - Lessons from StashPatrick",
-      "link": "https://dev.to/triggered_tales_cc219509b/building-anti-phishing-features-lessons-from-stashpatrick-1935",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 07 Aug 2026 10:31:45 +0000",
-      "summary": "Are you still using basic cold storage? The methods used by malicious actors to steal your digital wealth have evolved into highly sophisticated attacks. Protect your assets from physical and supply c",
-      "score": 5,
-      "titleZh": "构建反网络钓鱼功能 - StashPatrick 的经验教训"
+      "titleZh": "每项检查都表明我们的 GA4 分析有效。它从未记录过访问"
     }
   ]
 }
