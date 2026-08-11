@@ -1,81 +1,81 @@
 {
-  "updated": "2026-08-08T10:30:37.793Z",
-  "date": "2026-08-08",
+  "updated": "2026-08-11T10:49:26.868Z",
+  "date": "2026-08-11",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
+      "title": "fru - Fast Random Forest Implementation [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-08T09:06:01.000Z",
-      "summary": "Real-Time Conversational Agents (RTCA) workshop at NeurIPS 2026 (Sydney, Dec 11–12). Submissions are now open on OpenReview. What the workshop is about Conversational AI has crossed into real-time dep",
+      "date": "2026-08-10T17:45:41.000Z",
+      "summary": "Hello, I wanted to share the work my colleague and I have been doing, which has just been published in Software X journal. We developed a Rust-based implementation of Random Forest. It has bindings fo",
       "score": 40,
-      "titleZh": "实时对话代理 (RTCA) 研讨会 @ NeurIPS 2026 — 提交现已开放，截止日期为 8 月 29 日 AoE [N]"
+      "titleZh": "fru - 快速随机森林实现 [P]"
     },
     {
-      "title": "Good OCR strategy for detecting doctor handwritting [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vi7br1/good_ocr_strategy_for_detecting_doctor/",
+      "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T17:40:14.000Z",
-      "summary": "I gotta develop a tool which get the text from doctor handwritting, do you guys know any good strategy for that? https://preview.redd.it/jisxcc2aozhh1.png?width=1103&format=png&auto=webp&s=333b14a782e",
+      "date": "2026-08-10T17:37:35.000Z",
+      "summary": "Obviously nobody needs a transformer that's good at multiplication. I wanted to know whether a stock transformer could do exact arithmetic if I chose its weights directly. I implemented the grade-scho",
       "score": 40,
-      "titleZh": "检测医生笔迹的良好 OCR 策略 [P]"
+      "titleZh": "众所周知，变形金刚不擅长算术，所以我手动设置权重（无需训练），它的乘法精度为 100% [P]"
     },
     {
-      "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+      "title": "How to file a complaint about a published CVPR paper? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T17:10:03.000Z",
-      "summary": "I’m curious whether there is now a theoretical or empirical “sweet spot” for LLM quantization, preferably research done using open-source formats like GGUF Suppose you have a fixed memory/compute budg",
+      "date": "2026-08-10T14:56:16.000Z",
+      "summary": "Hi, I would like to file a complaint about an accepted and published CVPR 2026 paper that its main contribution is a dataset but it was never released, and honestly I don’t know who to contact. The da",
       "score": 40,
-      "titleZh": "目前认为 LLM 理论上最佳的量化位宽是多少？ [D]"
+      "titleZh": "如何对已发表的 CVPR 论文提出投诉？ [R]"
     },
     {
-      "title": "2026 NeurIPS: Where are you going? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
+      "title": "Semi Edge Inference Idea [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T16:48:43.000Z",
-      "summary": "To all those in the US: Are you planning to go Sydney or Atlanta this year for NeurIPS? submitted by /u/rsesrsfh [link] [comments]",
+      "date": "2026-08-10T10:58:11.000Z",
+      "summary": "Today the most important factor in AI is cost. My idea is to split ML models inference (closed ones, proprietary) across server and edge computing on clients, and I would like to hear what do you thin",
       "score": 40,
-      "titleZh": "2026 NeurIPS：你要去哪里？ [D]"
+      "titleZh": "半边缘推理思想[D]"
     },
     {
-      "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
+      "title": "Comparing embedding models with synthetic query probing [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T10:30:14.000Z",
-      "summary": "It's an MLP architecture with around 500K total parameters. Top1 Training accuracy: 5.11% Validation accuracy 4.59% Detailed Validation accuracy numbers: Top-1 Acc: 4.59% Top-3 Acc: 9.44% Top-5 Acc: 1",
+      "date": "2026-08-10T10:27:45.000Z",
+      "summary": "Say you want to swap out your embedding models, for instance from ADA to Titan. Are these embedding models comparable? How do similarity score ranges compare? Where to put a threshold for minimum matc",
       "score": 40,
-      "titleZh": "Imagenet-1k 分类器完全在 Android 上训练 [P]"
+      "titleZh": "嵌入模型与综合查询探测的比较 [R]"
     },
     {
-      "title": "Improved compression of Bad Apple into a Neural Network [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
+      "title": "ECCV workshop, camera ready instructions? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-07T09:06:25.000Z",
-      "summary": "I played a bit with the SIREN network from the other post and found that it could be improved by a using a different sampler for batch generation. By feeding pixels across the entire video and not onl",
+      "date": "2026-08-09T14:49:10.000Z",
+      "summary": "Does anyone have any idea about the instructions for the camera ready at workshops? The deadline is August 15, but there are no indications and workshop organizers know nothing about that.. Some works",
       "score": 40,
-      "titleZh": "改进了 Bad Apple 到神经网络的压缩 [P]"
+      "titleZh": "ECCV 研讨会，相机准备说明？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "HuggingFace",
+      "title": "Towards an Argumentative Foundation for Evaluative AI",
+      "link": "https://arxiv.org/abs/2608.07473",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 07 Aug 2026 17:53:32 GMT",
-      "summary": "",
+      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.07473v1 Announce Type: new Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting co",
       "score": 5,
-      "titleZh": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？"
+      "titleZh": "为评估性人工智能建立一个有争议的基础"
     },
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI",
+      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+      "link": "https://arxiv.org/abs/2608.07474",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 07 Aug 2026 15:20:00 GMT",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.07474v1 Announce Type: new Abstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive",
       "score": 5,
-      "titleZh": "应对关键网络能力的下一个前沿"
+      "titleZh": "逐流：用于在高损耗域中管理 AI 输出的内容判断绕过"
     },
     {
-      "title": "EffCSS hydration: server work, client trust, zero waste",
-      "link": "https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:27:17 +0000",
-      "summary": "Currently the CSS-in-JS ecosystem is split into two camps: Runtime CSS-in-JS (Emotion, styled-components) keeps JS on the client for full dynamism. At hydration it reuses the SSR-injected styles, so t",
-      "score": 5,
-      "titleZh": "EffCSS 水合：服务器工作、客户端信任、零浪费"
-    },
-    {
-      "title": "Website vs Social Media: What Does Your Business Really Need?",
-      "link": "https://dev.to/nativeclusters_b695bf2918/website-vs-social-media-what-does-your-business-really-need-1b1e",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:25:09 +0000",
-      "summary": "For many businesses today, the first step toward building an online presence is creating a social media page. It is quick, affordable, and gives businesses a way to communicate directly with customers",
-      "score": 5,
-      "titleZh": "网站与社交媒体：您的企业真正需要什么？"
-    },
-    {
-      "title": "Announcing stryker-mcp-reporter v1.10.0: 100% Mutation Score & Native MCP for AI Coding Agents",
-      "link": "https://dev.to/maybenoobish/announcing-stryker-mcp-reporter-v1100-100-mutation-score-native-mcp-for-ai-coding-agents-3db5",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:18:57 +0000",
-      "summary": "Standard code coverage measures execution, not test strength. AI coding assistants generate hundreds of lines of unit tests, but often fall into the \"happy path bias\". With stryker-mcp-reporter v1.10.",
-      "score": 5,
-      "titleZh": "宣布推出 Stryker-mcp-reporter v1.10.0：AI 编码代理的 100% 突变分数和原生 MCP"
-    },
-    {
-      "title": "Announcing stryker-mcp-reporter v1.11.0: 100% Mutation Score & Native MCP for AI Coding Agents",
-      "link": "https://dev.to/maybenoobish/announcing-stryker-mcp-reporter-v1110-100-mutation-score-native-mcp-for-ai-coding-agents-o4b",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:18:37 +0000",
-      "summary": "Standard code coverage measures execution, not test strength. AI coding assistants generate hundreds of lines of unit tests, but often fall into the \"happy path bias\". With stryker-mcp-reporter v1.11.",
-      "score": 5,
-      "titleZh": "宣布推出 stryker-mcp-reporter v1.11.0：AI 编码代理的 100% 突变分数和原生 MCP"
-    },
-    {
-      "title": "Parallel connections made my speed test 2 slower",
-      "link": "https://dev.to/hammad4june1999/parallel-connections-made-my-speed-test-2x-slower-4dne",
+      "title": "I built a Chrome extension, got 100 installs, and 90% of users left. Here's what I'm fixing.",
+      "link": "https://dev.to/mbilalkhan192003/i-built-a-chrome-extension-got-100-installs-and-90-of-users-left-heres-what-im-fixing-3gmi",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 08 Aug 2026 10:18:06 +0000",
-      "summary": "I built a speed test last week. It told me my download was 8.2 Mbps. Speedtest.net, on the same line, five minutes later, said 28.65. My first instinct was that this was a distance problem, and I had ",
+      "date": "Tue, 11 Aug 2026 10:42:27 +0000",
+      "summary": "Somewhere around install #80, I stopped checking my Chrome Web Store dashboard every day. Not because I'd lost interest — because the number that mattered wasn't installs anymore, it was this one: 10 ",
       "score": 5,
-      "titleZh": "并行连接使我的速度测试 2 变慢"
+      "titleZh": "我构建了一个 Chrome 扩展程序，安装了 100 次，90% 的用户离开了。这就是我要解决的问题。"
     },
     {
-      "title": "Stop Uploading Proprietary Graphics to Cloud Image Resizers 🖼️🚀",
-      "link": "https://dev.to/kandz/stop-uploading-proprietary-graphics-to-cloud-image-resizers-1nig",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:15:26 +0000",
-      "summary": "When optimizing image sizes for web deployments, preparing blog screenshots, or cropping user avatars, pasting them into random online resizers is a common routine. But there’s a major compliance and ",
-      "score": 5,
-      "titleZh": "停止将专有图形上传到云图像调整器🖼️🚀"
-    },
-    {
-      "title": "Working With JSON: Formatting, Validation, Minification, and Conversion",
-      "link": "https://dev.to/toolaska/working-with-json-formatting-validation-minification-and-conversion-5271",
+      "title": "Free Landing Page - Landing Chatbot",
+      "link": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-1ndf",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 08 Aug 2026 10:14:21 +0000",
-      "summary": "JSON is one of those technologies that almost every developer interacts with, regardless of their tech stack. Whether you're building a REST API, consuming third-party services, debugging frontend req",
+      "date": "Tue, 11 Aug 2026 10:41:39 +0000",
+      "summary": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Save the HTML file, open in any browser, or deploy free on Netlify/Vercel. Built by OmniIncome-v1 using AI. Support: 0x6731ee8E0",
       "score": 5,
-      "titleZh": "使用 JSON：格式化、验证、缩小和转换"
+      "titleZh": "免费登陆页面 - 登陆聊天机器人"
     },
     {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "link": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:09:17 +0000",
-      "summary": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet that's slightly ahead of its time. Signals were that bet in v16. Zoneless was that bet in v21. In ",
-      "score": 5,
-      "titleZh": "Angular WebMCP — 您的应用程序现在是一个 AI 工具 🔥🚀"
-    },
-    {
-      "title": "SQL & Unix Training in Tamil Nadu |Course &Placement",
-      "link": "https://dev.to/vedha/sql-unix-training-in-tamil-nadu-course-placement-3klh",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 08 Aug 2026 10:08:32 +0000",
-      "summary": "Learn SQL & Unix Training in Tamil Nadu with practical SQL, Unix/Linux, shell scripting, database management and production support skills. SQL and Unix are two important technologies used across the ",
-      "score": 5,
-      "titleZh": "泰米尔纳德邦 SQL 和 Unix 培训 |课程和安置"
-    },
-    {
-      "title": "Every Check Said Our GA4 Analytics Worked. It Had Never Recorded a Visit",
-      "link": "https://dev.to/ailegend/every-check-said-our-ga4-analytics-worked-it-had-never-recorded-a-visit-1cn0",
+      "title": "How to Turn a Corporate Website into a Lead Generation Tool",
+      "link": "https://dev.to/softwin/how-to-turn-a-corporate-website-into-a-lead-generation-tool-13ke",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 08 Aug 2026 10:06:48 +0000",
-      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry. Adding analytics to a website is the most boring task in web development. Google hands you eight lines, you paste them",
+      "date": "Tue, 11 Aug 2026 10:41:23 +0000",
+      "summary": "Corporate websites are frequently treated as a technical checkbox — the company needs a site, so a site gets built, pages get filled in, and the project is considered complete. What often doesn't happ",
       "score": 5,
-      "titleZh": "每项检查都表明我们的 GA4 分析有效。它从未记录过访问"
+      "titleZh": "如何将企业网站变成潜在客户生成工具"
+    },
+    {
+      "title": "Why Enterprises Are Replacing Traditional Data Warehouses with Microsoft Fabric",
+      "link": "https://dev.to/shubhojeet2001/why-enterprises-are-replacingtraditional-data-warehouses-withmicrosoft-fabric-m5m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:41:18 +0000",
+      "summary": "The collapse of the rigid data warehouse Traditional relational databases strangle enterprise agility. Legacy architectures force organizations into a massive data duplication cycle. Nightly ETL batch",
+      "score": 5,
+      "titleZh": "为什么企业要使用 Microsoft Fabric 取代传统数据仓库"
+    },
+    {
+      "title": "Corporate Online Training with Hands-on Lab Practice",
+      "link": "https://dev.to/kalyan_visualpath_42cb693/corporate-online-training-with-hands-on-lab-practice-2l35",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:39:03 +0000",
+      "summary": "What Skills Should Corporate Training Include in 2026? Why Corporate Training Needs to Change in 2026 Key Skills Corporate Training Should Include Tools and Technologies Used Benefits and Advantages C",
+      "score": 5,
+      "titleZh": "企业在线培训与实验室实践实践"
+    },
+    {
+      "title": "I Built LinkedVault: A Chrome Extension That Finally Organizes LinkedIn Saved Posts",
+      "link": "https://dev.to/usman_awan/i-built-linkedvault-a-chrome-extension-that-finally-organizes-linkedin-saved-posts-19j4",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:37:39 +0000",
+      "summary": "How I got tired of losing valuable content in LinkedIn's endless saved-posts list and built a solution for it. If you're anything like me, you've probably saved hundreds of LinkedIn posts over the yea",
+      "score": 5,
+      "titleZh": "我构建了 LinkedVault：最终可以组织 LinkedIn 保存的帖子的 Chrome 扩展"
+    },
+    {
+      "title": "Buy Verified Airwallex Business Account",
+      "link": "https://dev.to/paypal47081/buy-verified-airwallex-business-account-13e6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:36:04 +0000",
+      "summary": "Buy Verified Airwallex Business Account can help you streamline your financial operations, make international transactions more efficient, and benefit from competitive exchange rates. So why wait? Buy",
+      "score": 5,
+      "titleZh": "购买经过验证的 Airwallex 企业帐户"
+    },
+    {
+      "title": "Buy Verified PayPal Accounts",
+      "link": "https://dev.to/paypal47081/buy-verified-paypal-accounts-507b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:35:31 +0000",
+      "summary": "PayPal is now used in most countries. While there are some security concerns with PayPal, Buy Verified PayPal Accounts is still a good option. However, you should be cautious. When Buy PayPal account,",
+      "score": 5,
+      "titleZh": "购买经过验证的 PayPal 帐户"
+    },
+    {
+      "title": "How AI Is Improving Courier Route Planning and Delivery Operations",
+      "link": "https://dev.to/sirajtimbaliya1/how-ai-is-improving-courier-route-planning-and-delivery-operations-2ocm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:35:05 +0000",
+      "summary": "Artificial Intelligence (AI) is changing this situation by making courier route planning more intelligent, adaptive, and data-driven. AI-powered logistics systems can analyze large volumes of informat",
+      "score": 5,
+      "titleZh": "人工智能如何改善快递路线规划和交付运营"
+    },
+    {
+      "title": "quennkrupuk",
+      "link": "https://dev.to/yuyunaisih/quennkrupuk-1gpm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 11 Aug 2026 10:32:10 +0000",
+      "summary": "https://bio.now/godskinfullthai https://bio.now/godskinsubthaii https://bio.now/pawpatrolfullthai https://bio.now/pawpatrolsubthaii https://bio.now/theendofoakstreetthai https://bio.now/theendofoakstr",
+      "score": 5,
+      "titleZh": "昆克鲁普克"
     }
   ]
 }
