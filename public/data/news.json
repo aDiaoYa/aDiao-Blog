@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T01:06:54.356Z",
+  "updated": "2026-08-15T10:21:00.965Z",
   "date": "2026-08-15",
   "count": 20,
   "aiCount": 10,
@@ -14,7 +14,7 @@
       ],
       "date": "Fri, 14 Aug 2026 15:43:10 +0000",
       "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314",
-      "score": 271,
+      "score": 392,
       "titleZh": "谷歌正在通过同态加密使私人人工智能变得实用"
     },
     {
@@ -26,7 +26,7 @@
       ],
       "date": "Fri, 14 Aug 2026 15:58:59 +0000",
       "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568",
-      "score": 196,
+      "score": 307,
       "titleZh": "手工人工智能"
     },
     {
@@ -38,8 +38,32 @@
       ],
       "date": "Fri, 14 Aug 2026 16:15:21 +0000",
       "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800",
-      "score": 130,
+      "score": 227,
       "titleZh": "最大限度地发挥克劳德代码课程的价值"
+    },
+    {
+      "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-15T07:26:32.000Z",
+      "summary": "Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually do with them? And before the usual answers roll in: running local LLMs is banned for this thread. I",
+      "score": 40,
+      "titleZh": "如果你有一堆 GPU，你实际上会用它们构建什么？ （攻读法学硕士是不可能的）[D]"
+    },
+    {
+      "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-15T06:18:15.000Z",
+      "summary": "We introduce BDH-CQ, a reasoning system that brings these capabilities together. Demonstrations of a previously unseen task update recurrent memory; the query is then solved through iterative computat",
+      "score": 40,
+      "titleZh": "BDH-CQ：具有反复潜在推理的情境学习 [R]"
     },
     {
       "title": "AC comment and our reply disappeared on OpenReview [D]",
@@ -64,30 +88,6 @@
       "summary": "Hi, How much does adding an honest limitations section hurt the paper (apart from making it better)? Does it bias the reviewers? Will they want you to fix the things in the limitations section? If the",
       "score": 40,
       "titleZh": "添加诚实的限制部分对论文有多大影响？ [D]"
-    },
-    {
-      "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-14T18:54:26.000Z",
-      "summary": "Hey! Can you tell me how you would go about building a recommendation engine for our question bank? The idea is that it understands a student’s strengths and weaknesses and recommends questions accord",
-      "score": 40,
-      "titleZh": "如何构建题库自适应学习/推荐系统？ [D]"
-    },
-    {
-      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-14T17:06:09.000Z",
-      "summary": "Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement. They don't answer the question that actually matters at the point of care: how reliable is this model at th",
-      "score": 40,
-      "titleZh": "开源 Python 库 + 无代码 Web 仪表板，用于在临床决策阈值下评估肿瘤学 AI 模型。 [P]"
     },
     {
       "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
@@ -123,127 +123,127 @@
       "date": "2026-08-02T02:15:24.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "Every WhatsApp chatbot framework is broken. Here's what I built instead.",
-      "link": "https://dev.to/alessandrobinda114/every-whatsapp-chatbot-framework-is-broken-heres-what-i-built-instead-3d2",
+      "title": "Free Landing Page - Landing Chatbot",
+      "link": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-3iia",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:18:14 +0000",
+      "summary": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Save the HTML file, open in any browser, or deploy free on Netlify/Vercel. Built by OmniIncome-v1 using AI. Support: 0x6731ee8E0",
+      "score": 5,
+      "titleZh": "免费登陆页面 - 登陆聊天机器人"
+    },
+    {
+      "title": "robots.txt vs llms.txt vs sitemap.xml: what each is for",
+      "link": "https://dev.to/webpixie/robotstxt-vs-llmstxt-vs-sitemapxml-what-each-is-for-8c1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:12:25 +0000",
+      "summary": "Three small files with three different jobs. robots.txt controls who crawls, sitemap.xml maps what to crawl, and llms.txt curates what AI assistants read first. Get the mental model right with minimum",
+      "score": 5,
+      "titleZh": "robots.txt、llms.txt、sitemap.xml：各自的用途"
+    },
+    {
+      "title": "AI Overviews ฆ่า Brochure Website แล้ว, CTR ลด 61%, เว็บต้องเป็น Experience ไม่ได้มีเพียงข้อมูล",
+      "link": "https://dev.to/sarantoon/ai-overviews-khaa-brochure-website-aelw-ctr-ld-61-ewbtngepn-experience-aimaidmiiephiiyngkhmuul-1jj3",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:08:46 +0000",
+      "summary": "AI Overviews ฆ่า Brochure Website แล้ว, CTR ลด 61%, เว็บต้องเป็น Experience ไม่ได้มีเพียงข้อมูล โดย Nokka (นก-กา) | 15 สิงหาคม 2026 บทความนี้เขียนโดย AI (DeepSeek V4 Pro) ผ่าน Hermes Agent ภายใต้การคว",
+      "score": 5,
+      "titleZh": "AI 概述和宣传册网站，点击率 61%，体验ไม่ได้มีเพียงข้อมูล"
+    },
+    {
+      "title": "I built a full-stack Next.js 16 e-commerce monorepo: storefront, admin, NestJS API, and AI try-on",
+      "link": "https://dev.to/mohamed_djoudir/i-built-a-full-stack-nextjs-16-e-commerce-monorepo-storefront-admin-nestjs-api-and-ai-try-on-2kbb",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 15 Aug 2026 00:56:03 +0000",
-      "summary": "I've evaluated every open-source WhatsApp bot framework on GitHub. They all share the same fatal flaw. Most WhatsApp bot frameworks are glorified API wrappers. They handle message transport — receivin",
+      "date": "Sat, 15 Aug 2026 10:08:11 +0000",
+      "summary": "I shipped a production e-commerce system as a single monorepo: a Next.js 16 storefront, a Next.js 16 admin dashboard, and a NestJS API. English and Arabic with full RTL, guest checkout, and three AI f",
       "score": 5,
-      "titleZh": "每个 WhatsApp 聊天机器人框架都已损坏。这是我构建的。"
+      "titleZh": "我构建了一个全栈 Next.js 16 电子商务 monorepo：店面、管理、NestJS API 和 AI 试用"
     },
     {
-      "title": "From Curious to Confident: How I Use AI APIs Without Being a Machine Learning Expert",
-      "link": "https://dev.to/shadie_ai/from-curious-to-confident-how-i-use-ai-apis-without-being-a-machine-learning-expert-5hlc",
+      "title": "Dicio - A New Android Assistan…",
+      "link": "https://dev.to/norviktech/dicio-a-new-android-assistan-11bg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:06:17 +0000",
+      "summary": "Originally published at norvik.tech Explore how Dicio offers a viable alternative to Google Assistant while maintaining user privacy. Technical insights and business implications. Dicio is a new Andro",
+      "score": 5,
+      "titleZh": "Dicio - 新的 Android 助手..."
+    },
+    {
+      "title": "Advanced Flexible PCB Technology: Materials, Engineering Challenges, Industry Trends, and Future Innovations",
+      "link": "https://dev.to/pcb_manufacturer/advanced-flexible-pcb-technology-materials-engineering-challenges-industry-trends-and-future-12k2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:06:00 +0000",
+      "summary": "Introduction Electronic products have changed dramatically over the last two decades. Devices have become thinner, lighter, faster, and more compact. At the same time, consumer expectations have incre",
+      "score": 5,
+      "titleZh": "先进的柔性 PCB 技术：材料、工程挑战、行业趋势和未来创新"
+    },
+    {
+      "title": "Agentic Infrastructure 2026: Powering the Next AI Decade",
+      "link": "https://dev.to/meghroop_tech/agentic-infrastructure-2026-powering-the-next-ai-decade-1ci0",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:00:47 +0000",
+      "summary": "After building 50+ AI systems, here is what we know about Agentic Infrastructure: Agentic Infrastructure is a specialized computing and deployment environment engineered from the ground up to support ",
+      "score": 5,
+      "titleZh": "Agentic 基础设施 2026：为下一个 AI 十年提供动力"
+    },
+    {
+      "title": "Why I Migrated My SaaS from Vite to Next.js — And What It Meant for My Users",
+      "link": "https://dev.to/digitaldev/why-i-migrated-my-saas-from-vite-to-nextjs-and-what-it-meant-for-my-users-5f44",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:00:14 +0000",
+      "summary": "The Architectural Shift: Moving Beyond the SPA For the first year of my SaaS journey, Vite was my best friend. Its hot module replacement (HMR) is lightning fast, the developer experience (DX) is top-",
+      "score": 5,
+      "titleZh": "为什么我将 SaaS 从 Vite 迁移到 Next.js — 以及这对我的用户意味着什么"
+    },
+    {
+      "title": "Why Do Certain Fabrics Shock You More? Static Cling Explained",
+      "link": "https://dev.to/gtstudios/why-do-certain-fabrics-shock-you-more-static-cling-explained-2fma",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 10:00:14 +0000",
+      "summary": "You pull a sweater over your head and your hair stands on end, or you touch a doorknob after wearing a certain outfit and get zapped. It’s not random — some fabric combinations are far more prone to s",
+      "score": 5,
+      "titleZh": "为什么某些面料更让您震惊？静电吸附解释"
+    },
+    {
+      "title": "Gravy Theory: three chickens, one base",
+      "link": "https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 15 Aug 2026 00:55:34 +0000",
-      "summary": "I remember the day I decided to build something with AI. I had zero experience in machine learning. No PhD, not even a completed online course. Just curiosity and a stubborn belief that it couldn't be",
+      "date": "Sat, 15 Aug 2026 09:59:55 +0000",
+      "summary": "This is a submission for Frontend Challenge - Comfort Food Edition Perfect Landing. Gravy Theory is an interactive field guide to North Indian gravy, built around a single claim: Butter chicken and ch",
       "score": 5,
-      "titleZh": "从好奇到自信：我如何在没有成为机器学习专家的情况下使用 AI API"
-    },
-    {
-      "title": "Agentic AI in Marketing: How AI Agents Are Transforming Content Creation and Sales Funnels in 2025",
-      "link": "https://dev.to/toptodayai/agentic-ai-in-marketing-how-ai-agents-are-transforming-content-creation-and-sales-funnels-in-2025-1a0h",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:49:08 +0000",
-      "summary": "Agentic AI in Marketing: How AI Agents Are Transforming Content Creation and Sales Funnels in 2025 Marketing, which just yesterday operated by the rules of \"human → setup → automation,\" is now shiftin",
-      "score": 5,
-      "titleZh": "营销中的代理人工智能：人工智能代理如何在 2025 年改变内容创建和销售渠道"
-    },
-    {
-      "title": "AI Agents in Business 2026: How Companies Save Millions on Process Automation",
-      "link": "https://dev.to/toptodayai/ai-agents-in-business-2026-how-companies-save-millions-on-process-automation-59h7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:48:08 +0000",
-      "summary": "AI Agents in Business 2026: How Companies Save Millions on Process Automation The AI agent market has soared to $10.91 billion. 51% of large companies have already deployed agents into production. 66%",
-      "score": 5,
-      "titleZh": "2026 年商业中的人工智能代理：企业如何在流程自动化上节省数百万美元"
-    },
-    {
-      "title": "From Upload to Deletion: An Auditable Lifecycle for AI Image Tasks",
-      "link": "https://dev.to/lion_zhanl_74eb3870e22a92/from-upload-to-deletion-an-auditable-lifecycle-for-ai-image-tasks-407j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:42:48 +0000",
-      "summary": "An AI image request should not be a black box between an upload button and a result URL. If a product cannot explain what happened to one request without opening the user's image, it has an observabil",
-      "score": 5,
-      "titleZh": "从上传到删除：AI图像任务的可审计生命周期"
-    },
-    {
-      "title": "The Supabase Security Checklist to Run Before You Launch",
-      "link": "https://dev.to/cekuu35/the-supabase-security-checklist-to-run-before-you-launch-23k7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:41:57 +0000",
-      "summary": "If you built something on Supabase with a lot of AI help and you're about to ship it, this checklist is for you. Supabase is secure by default in the sense that the tools are all there — but \"vibe cod",
-      "score": 5,
-      "titleZh": "启动前要运行的 Supabase 安全检查表"
-    },
-    {
-      "title": "NEXT_PUBLIC_ and Supabase: Which Env Variables Are Safe to Expose?",
-      "link": "https://dev.to/cekuu35/nextpublic-and-supabase-which-env-variables-are-safe-to-expose-2h7",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:37:50 +0000",
-      "summary": "If you've ever stared at a .env.local full of Supabase keys and wondered \"wait, which of these is safe to ship to the browser?\" — you're not alone. It's one of the most common questions I see, and get",
-      "score": 5,
-      "titleZh": "NEXT_PUBLIC_ 和 Supabase：哪些环境变量可以安全公开？"
-    },
-    {
-      "title": "Building an intimate, zero-noise WhatsApp group for serious Web3/blockchain builders call Block & Bytes",
-      "link": "https://dev.to/musa_/building-an-intimate-zero-noise-whatsapp-group-for-serious-web3blockchain-builders-call-block--811",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:37:11 +0000",
-      "summary": "Hey everyone, I’ve been feeling for a while that a lot of Web3 spaces—whether massive Telegram channels or sprawling Discord servers—suffer from too much noise, low-effort shilling, and endless specul",
-      "score": 5,
-      "titleZh": "为认真的 Web3/区块链构建者建立一个亲密的、零噪音的 WhatsApp 群组，称为 Block & Bytes"
-    },
-    {
-      "title": "You Committed .env to GitHub: What to Rotate (Supabase + Next.js)",
-      "link": "https://dev.to/cekuu35/you-committed-env-to-github-what-to-rotate-supabase-nextjs-1a9l",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:33:34 +0000",
-      "summary": "You pushed, then your stomach dropped: .env is in the commit. Maybe a bot already emailed you. Take a breath — this is recoverable, and panicking into random git commands usually makes it worse. The s",
-      "score": 5,
-      "titleZh": "您将 .env 提交到 GitHub：要轮换什么（Supabase + Next.js）"
-    },
-    {
-      "title": "Virtual Piano — Free Online Tool",
-      "link": "https://dev.to/baoming/virtual-piano-free-online-tool-4h41",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 00:32:25 +0000",
-      "summary": "title: \"Virtual Piano\" https://tools.scoreroute.com/tools/virtual-piano/ Virtual Piano — Free Online Tool Quick Answer Open Virtual Piano and get what you need instantly. Free. No signup. No download.",
-      "score": 5,
-      "titleZh": "虚拟钢琴 — 免费在线工具"
+      "titleZh": "肉汁理论：三鸡一基地"
     }
   ]
 }
