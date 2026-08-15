@@ -1,81 +1,117 @@
 {
-  "updated": "2026-08-13T11:00:18.281Z",
-  "date": "2026-08-13",
+  "updated": "2026-08-15T01:06:54.356Z",
+  "date": "2026-08-15",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
-      "source": "Reddit ML",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-13T00:29:52.000Z",
-      "summary": "https://i.redd.it/ipz7i6ife1jh1.gif Notebooks to replicate on github! submitted by /u/Weird-Asparagus4136 [link] [comments]",
-      "score": 40,
-      "titleZh": "chessformer_lens 演示：消融国际象棋 Transformer 的 128 个注意力头中的 1 个会使模型不再寻找 Morphy 的女王牺牲品 [P]"
+      "date": "Fri, 14 Aug 2026 15:43:10 +0000",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314",
+      "score": 271,
+      "titleZh": "谷歌正在通过同态加密使私人人工智能变得实用"
     },
     {
-      "title": "The Loss Does Not See the Basis, But Adam Does [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
-      "source": "Reddit ML",
+      "title": "AI by Hand",
+      "link": "https://www.byhand.ai/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-12T16:39:12.000Z",
-      "summary": "In a factored model W = UV^T, the loss is invariant to rotations (U,V) → (UQ, VQ). Gradient Descent (GD) respects this property. Adam's per-coordinate second moment does not, because it depends on the",
-      "score": 40,
-      "titleZh": "损失没有看到基础，但亚当看到了 [R]"
+      "date": "Fri, 14 Aug 2026 15:58:59 +0000",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568",
+      "score": 196,
+      "titleZh": "手工人工智能"
     },
     {
-      "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmhks7/would_you_choose_a_phd_advisor_who_gives_you/",
-      "source": "Reddit ML",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-12T15:36:44.000Z",
-      "summary": "It’s an ML PhD with secure funding for 4–5 years and a senior, respected advisor. You get almost complete freedom to choose your own topics, projects, and collaborations, with very little micromanagem",
-      "score": 40,
-      "titleZh": "你会选择一个给你完全自由但几乎没有指导的博士生导师吗？ [D]"
+      "date": "Fri, 14 Aug 2026 16:15:21 +0000",
+      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800",
+      "score": 130,
+      "titleZh": "最大限度地发挥克劳德代码课程的价值"
     },
     {
-      "title": "Looking for real-world examples of predictive analytics in mortgage lending [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
+      "title": "AC comment and our reply disappeared on OpenReview [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-12T14:10:08.000Z",
-      "summary": "I'm researching predictive analytics for a graduate project and mortgage lending came up as an interesting use case. I understand lenders try to predict who might refinance, but what kinds of variable",
+      "date": "2026-08-15T00:32:25.000Z",
+      "summary": "Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing. The comment was made by the AC on the first da",
       "score": 40,
-      "titleZh": "寻找抵押贷款预测分析的真实示例 [D]"
+      "titleZh": "AC 评论和我们的回复在 OpenReview 上消失了 [D]"
     },
     {
-      "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmbdk6/i_built_an_honest_cs_conference_ranking_sorted_by/",
+      "title": "How much does adding an honest limitations section hurt the paper? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-12T11:23:32.000Z",
-      "summary": "Once the paper is ready, everyone checks the venue location before the acceptance rate anyway. So I built:https://honestcsrankings.org It maps ~540 upcoming CORE-ranked conferences, but ranks them by ",
+      "date": "2026-08-14T21:55:55.000Z",
+      "summary": "Hi, How much does adding an honest limitations section hurt the paper (apart from making it better)? Does it bias the reviewers? Will they want you to fix the things in the limitations section? If the",
       "score": 40,
-      "titleZh": "我建立了一个“诚实的”CS 会议排名：按照旅行的好坏程度排序，而不是 CORE 排名 [P]"
+      "titleZh": "添加诚实的限制部分对论文有多大影响？ [D]"
     },
     {
-      "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
+      "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-11T21:06:36.000Z",
-      "summary": "Link: https://arxiv.org/pdf/2604.27883 Hi, Most of use are familiar with the headache of training a neural network using gradient descent where the training error may go to zero but the test error may",
+      "date": "2026-08-14T18:54:26.000Z",
+      "summary": "Hey! Can you tell me how you would go about building a recommendation engine for our question bank? The idea is that it understands a student’s strengths and weaknesses and recommends questions accord",
       "score": 40,
-      "titleZh": "解耦下降：通过 AMP Onsager 修正执行精确的训练测试误差跟踪 [R]"
+      "titleZh": "如何构建题库自适应学习/推荐系统？ [D]"
+    },
+    {
+      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-14T17:06:09.000Z",
+      "summary": "Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement. They don't answer the question that actually matters at the point of care: how reliable is this model at th",
+      "score": 40,
+      "titleZh": "开源 Python 库 + 无代码 Web 仪表板，用于在临床决策阈值下评估肿瘤学 AI 模型。 [P]"
+    },
+    {
+      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-14T15:50:11.000Z",
+      "summary": "This is the project my last two posts were building towards (this is the last of this silliness). I ported the Doom rendering algorithm to run inside a transformer. Instead of training a model, I used",
+      "score": 40,
+      "titleZh": "我将 Doom 的渲染器编译为 21B 参数转换器——无需在任何地方进行训练 [P]"
+    },
+    {
+      "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-14T12:26:29.000Z",
+      "summary": "Hello, I was curious about the differences you can get from the human reviewers and the llms. Any insight is welcome, thank you! submitted by /u/obliviousphoenix2003 [link] [comments]",
+      "score": 40,
+      "titleZh": "对于那些从 neurips、cvpr、eccv 等获得评论并通过像斯坦福这样的代理审稿人测试他们的论文的人来说，评论有什么不同？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -90,160 +126,124 @@
       "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-31T02:30:08.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "link": "https://arxiv.org/abs/2608.11207",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition ",
-      "score": 5,
-      "titleZh": "多法学硕士代理系统的动态治理以实现协作对话结果"
-    },
-    {
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "link": "https://arxiv.org/abs/2608.11210",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers",
-      "score": 5,
-      "titleZh": "Distribird：基于文献的贝叶斯模型校准先验分布设计"
-    },
-    {
-      "title": "Complete Super mart",
-      "link": "https://dev.to/complete_supermart_660b7/complete-super-mart-2b7g",
-      "source": "Dev.to WebDev",
+      "title": "Every WhatsApp chatbot framework is broken. Here's what I built instead.",
+      "link": "https://dev.to/alessandrobinda114/every-whatsapp-chatbot-framework-is-broken-heres-what-i-built-instead-3d2",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 13 Aug 2026 10:57:12 +0000",
-      "summary": "\"Dealing in All grocery items, home care, bakery items,frozen items, crockery, cosmetics, Dog food, birthday/anniversary decoration items, imported chocolates & perfumes and many more..\" Address: 11/0",
+      "date": "Sat, 15 Aug 2026 00:56:03 +0000",
+      "summary": "I've evaluated every open-source WhatsApp bot framework on GitHub. They all share the same fatal flaw. Most WhatsApp bot frameworks are glorified API wrappers. They handle message transport — receivin",
       "score": 5,
-      "titleZh": "完整的超级市场"
+      "titleZh": "每个 WhatsApp 聊天机器人框架都已损坏。这是我构建的。"
     },
     {
-      "title": "eCommerce Mobile App Development: Features, Cost, and Benefits",
-      "link": "https://dev.to/shiftertech27/ecommerce-mobile-app-development-features-cost-and-benefits-4cfh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:57:01 +0000",
-      "summary": "eCommerce Mobile App Development in Punjab is one of the best direct-to-customer digital investments for businesses. Mobile applications make it easier for retailers, fashion brands, grocery stores, a",
-      "score": 5,
-      "titleZh": "电子商务移动应用程序开发：功能、成本和优势"
-    },
-    {
-      "title": "Full practical guide on creating production-grade webhook receivers",
-      "link": "https://dev.to/artemooon/full-practical-guide-on-creating-production-grade-webhook-receivers-3p02",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:56:55 +0000",
-      "summary": "Throughout my career I have designed and implement tens of webhook handlers from Payments systems and delivery trackers to chat and real time communication backends and crypto services. Although all s",
-      "score": 5,
-      "titleZh": "有关创建生产级 Webhook 接收器的完整实用指南"
-    },
-    {
-      "title": "From AI Adoption to AI Advantage: The Business Solutions Shaping the Next Era",
-      "link": "https://dev.to/dataonmatrix/from-ai-adoption-to-ai-advantage-the-business-solutions-shaping-the-next-era-4891",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:55:32 +0000",
-      "summary": "Artificial intelligence is moving beyond experimentation. Companies are increasingly using AI to improve customer experiences, automate repetitive work, analyze large volumes of data, and build smarte",
-      "score": 5,
-      "titleZh": "从人工智能采用到人工智能优势：塑造下一个时代的业务解决方案"
-    },
-    {
-      "title": "Hostinger vs Namecheap 2026: 20% Extra Discount Promo Code",
-      "link": "https://dev.to/web_dev-usman/hostinger-vs-namecheap-2026-20-extra-discount-promo-code-4pnm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:54:55 +0000",
-      "summary": "In this detailed Hostinger VS Namecheap comparison, we are putting both hosting providers side by side so you can clearly see which one gives you the best value for your money in 2026. We are going to",
-      "score": 5,
-      "titleZh": "Hostinger 与 Namecheap 2026：20% 额外折扣促销代码"
-    },
-    {
-      "title": "Frontend vs Backend Development: Which Should You Learn?",
-      "link": "https://dev.to/tech_ng/frontend-vs-backend-development-which-should-you-learn-3c5o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:53:38 +0000",
-      "summary": "If you're new to software development, you've probably encountered this question: Frontend or backend? It's a common starting point for anyone interested in web development. The good news? You don't h",
-      "score": 5,
-      "titleZh": "前端与后端开发：您应该学习哪个？"
-    },
-    {
-      "title": "How to Withdraw Money from Fidelity 401K Investments?",
-      "link": "https://dev.to/samuelearney850/how-to-withdraw-money-from-fidelity-401k-investments-29b3",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:52:27 +0000",
-      "summary": "How to Withdraw Money from Fidelity 401K Investments? Leave the money invested if you do not actually need the funds. Consider a 401(k) loan if your plan permits it and the circumstances make repaymen",
-      "score": 5,
-      "titleZh": "如何从 Fidelity 401K 投资中提取资金？"
-    },
-    {
-      "title": "Transforming Combinatorial Math and Probability Calculations into a Web App: SmartLottoGen",
-      "link": "https://dev.to/cn_kk_/transforming-combinatorial-math-and-probability-calculations-into-a-web-app-smartlottogen-5cfd",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:50:56 +0000",
-      "summary": "Hey DEV community! Many of us love tinkering with new algorithms or playing around with statistical probabilities in our free time. I've been researching complex mathematical probabilities, combinator",
-      "score": 5,
-      "titleZh": "将组合数学和概率计算转换为 Web 应用程序：SmartLottoGen"
-    },
-    {
-      "title": "I Built an AI Tool to Reconstruct Matcha-Filtered Images—Here’s What I Learned",
-      "link": "https://dev.to/_df88eb1337eb23b75c94ba/i-built-an-ai-tool-to-reconstruct-matcha-filtered-images-heres-what-i-learned-5ad7",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 13 Aug 2026 10:50:37 +0000",
-      "summary": "A heavily stylized “matcha” filter can do more than shift colors toward green. It can flatten skin tones, posterize shadows, exaggerate edges, replace texture, and destroy small details. That creates ",
-      "score": 5,
-      "titleZh": "我构建了一个人工智能工具来重建抹茶过滤后的图像——这是我学到的东西"
-    },
-    {
-      "title": "56 Best Platforms for Buying Verified Stripe Accounts USA ...",
-      "link": "https://dev.to/jolenehopkinsujgdp/56-best-platforms-for-buying-verified-stripe-accounts-usa--5a8g",
+      "title": "From Curious to Confident: How I Use AI APIs Without Being a Machine Learning Expert",
+      "link": "https://dev.to/shadie_ai/from-curious-to-confident-how-i-use-ai-apis-without-being-a-machine-learning-expert-5hlc",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 13 Aug 2026 10:44:40 +0000",
-      "summary": "Buy Verified Stripe Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-stripe-accounts/ Buy Verified Stripe Accounts. Buy verified Stripe instant payout accounts from us for",
+      "date": "Sat, 15 Aug 2026 00:55:34 +0000",
+      "summary": "I remember the day I decided to build something with AI. I had zero experience in machine learning. No PhD, not even a completed online course. Just curiosity and a stubborn belief that it couldn't be",
       "score": 5,
-      "titleZh": "美国 56 个购买经过验证的 Stripe 账户的最佳平台..."
+      "titleZh": "从好奇到自信：我如何在没有成为机器学习专家的情况下使用 AI API"
+    },
+    {
+      "title": "Agentic AI in Marketing: How AI Agents Are Transforming Content Creation and Sales Funnels in 2025",
+      "link": "https://dev.to/toptodayai/agentic-ai-in-marketing-how-ai-agents-are-transforming-content-creation-and-sales-funnels-in-2025-1a0h",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:49:08 +0000",
+      "summary": "Agentic AI in Marketing: How AI Agents Are Transforming Content Creation and Sales Funnels in 2025 Marketing, which just yesterday operated by the rules of \"human → setup → automation,\" is now shiftin",
+      "score": 5,
+      "titleZh": "营销中的代理人工智能：人工智能代理如何在 2025 年改变内容创建和销售渠道"
+    },
+    {
+      "title": "AI Agents in Business 2026: How Companies Save Millions on Process Automation",
+      "link": "https://dev.to/toptodayai/ai-agents-in-business-2026-how-companies-save-millions-on-process-automation-59h7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:48:08 +0000",
+      "summary": "AI Agents in Business 2026: How Companies Save Millions on Process Automation The AI agent market has soared to $10.91 billion. 51% of large companies have already deployed agents into production. 66%",
+      "score": 5,
+      "titleZh": "2026 年商业中的人工智能代理：企业如何在流程自动化上节省数百万美元"
+    },
+    {
+      "title": "From Upload to Deletion: An Auditable Lifecycle for AI Image Tasks",
+      "link": "https://dev.to/lion_zhanl_74eb3870e22a92/from-upload-to-deletion-an-auditable-lifecycle-for-ai-image-tasks-407j",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:42:48 +0000",
+      "summary": "An AI image request should not be a black box between an upload button and a result URL. If a product cannot explain what happened to one request without opening the user's image, it has an observabil",
+      "score": 5,
+      "titleZh": "从上传到删除：AI图像任务的可审计生命周期"
+    },
+    {
+      "title": "The Supabase Security Checklist to Run Before You Launch",
+      "link": "https://dev.to/cekuu35/the-supabase-security-checklist-to-run-before-you-launch-23k7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:41:57 +0000",
+      "summary": "If you built something on Supabase with a lot of AI help and you're about to ship it, this checklist is for you. Supabase is secure by default in the sense that the tools are all there — but \"vibe cod",
+      "score": 5,
+      "titleZh": "启动前要运行的 Supabase 安全检查表"
+    },
+    {
+      "title": "NEXT_PUBLIC_ and Supabase: Which Env Variables Are Safe to Expose?",
+      "link": "https://dev.to/cekuu35/nextpublic-and-supabase-which-env-variables-are-safe-to-expose-2h7",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:37:50 +0000",
+      "summary": "If you've ever stared at a .env.local full of Supabase keys and wondered \"wait, which of these is safe to ship to the browser?\" — you're not alone. It's one of the most common questions I see, and get",
+      "score": 5,
+      "titleZh": "NEXT_PUBLIC_ 和 Supabase：哪些环境变量可以安全公开？"
+    },
+    {
+      "title": "Building an intimate, zero-noise WhatsApp group for serious Web3/blockchain builders call Block & Bytes",
+      "link": "https://dev.to/musa_/building-an-intimate-zero-noise-whatsapp-group-for-serious-web3blockchain-builders-call-block--811",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:37:11 +0000",
+      "summary": "Hey everyone, I’ve been feeling for a while that a lot of Web3 spaces—whether massive Telegram channels or sprawling Discord servers—suffer from too much noise, low-effort shilling, and endless specul",
+      "score": 5,
+      "titleZh": "为认真的 Web3/区块链构建者建立一个亲密的、零噪音的 WhatsApp 群组，称为 Block & Bytes"
+    },
+    {
+      "title": "You Committed .env to GitHub: What to Rotate (Supabase + Next.js)",
+      "link": "https://dev.to/cekuu35/you-committed-env-to-github-what-to-rotate-supabase-nextjs-1a9l",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:33:34 +0000",
+      "summary": "You pushed, then your stomach dropped: .env is in the commit. Maybe a bot already emailed you. Take a breath — this is recoverable, and panicking into random git commands usually makes it worse. The s",
+      "score": 5,
+      "titleZh": "您将 .env 提交到 GitHub：要轮换什么（Supabase + Next.js）"
+    },
+    {
+      "title": "Virtual Piano — Free Online Tool",
+      "link": "https://dev.to/baoming/virtual-piano-free-online-tool-4h41",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 15 Aug 2026 00:32:25 +0000",
+      "summary": "title: \"Virtual Piano\" https://tools.scoreroute.com/tools/virtual-piano/ Virtual Piano — Free Online Tool Quick Answer Open Virtual Piano and get what you need instantly. Free. No signup. No download.",
+      "score": 5,
+      "titleZh": "虚拟钢琴 — 免费在线工具"
     }
   ]
 }
