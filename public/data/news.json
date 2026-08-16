@@ -1,45 +1,33 @@
 {
-  "updated": "2026-08-15T10:21:00.965Z",
-  "date": "2026-08-15",
+  "updated": "2026-08-16T01:10:58.880Z",
+  "date": "2026-08-16",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "HN·AI",
+      "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 14 Aug 2026 15:43:10 +0000",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314",
-      "score": 392,
-      "titleZh": "谷歌正在通过同态加密使私人人工智能变得实用"
+      "date": "2026-08-15T18:06:57.000Z",
+      "summary": "Repo with dataset links: https://github.com/tesselwait/Starfield_Fauna Image classification dataset: 20,000 images from 50 fauna species in the video game Starfield. Images were extracted from video c",
+      "score": 40,
+      "titleZh": "数据集：Starfield Fauna - 50 个物种类别的 20,000 张图像。 [P]"
     },
     {
-      "title": "AI by Hand",
-      "link": "https://www.byhand.ai/",
-      "source": "HN·AI",
+      "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 14 Aug 2026 15:58:59 +0000",
-      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568",
-      "score": 307,
-      "titleZh": "手工人工智能"
-    },
-    {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 14 Aug 2026 16:15:21 +0000",
-      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800",
-      "score": 227,
-      "titleZh": "最大限度地发挥克劳德代码课程的价值"
+      "date": "2026-08-15T14:50:57.000Z",
+      "summary": "The date for NeurIPS 2026 author notifications is September 24th. First of all, is it normal for AC and reviewer discussion phases to be this long? This is particularly frustrating given that 5 out of",
+      "score": 40,
+      "titleZh": "NeurIPS 2026 作者通知接近 ICLR 截止日期 [D]"
     },
     {
       "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
@@ -66,18 +54,6 @@
       "titleZh": "BDH-CQ：具有反复潜在推理的情境学习 [R]"
     },
     {
-      "title": "AC comment and our reply disappeared on OpenReview [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-15T00:32:25.000Z",
-      "summary": "Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing. The comment was made by the AC on the first da",
-      "score": 40,
-      "titleZh": "AC 评论和我们的回复在 OpenReview 上消失了 [D]"
-    },
-    {
       "title": "How much does adding an honest limitations section hurt the paper? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
       "source": "Reddit ML",
@@ -102,18 +78,6 @@
       "titleZh": "我将 Doom 的渲染器编译为 21B 参数转换器——无需在任何地方进行训练 [P]"
     },
     {
-      "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-14T12:26:29.000Z",
-      "summary": "Hello, I was curious about the differences you can get from the human reviewers and the llms. Any insight is welcome, thank you! submitted by /u/obliviousphoenix2003 [link] [comments]",
-      "score": 40,
-      "titleZh": "对于那些从 neurips、cvpr、eccv 等获得评论并通过像斯坦福这样的代理审稿人测试他们的论文的人来说，评论有什么不同？ [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,124 +90,160 @@
       "titleZh": "[D] 自我推销帖子"
     },
     {
-      "title": "Free Landing Page - Landing Chatbot",
-      "link": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-3iia",
-      "source": "Dev.to WebDev",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-31T02:30:08.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "link": "https://arxiv.org/abs/2608.12325",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent ad",
+      "score": 5,
+      "titleZh": "立场：推理是一个可学习的基于规则的过程"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "link": "https://arxiv.org/abs/2608.12345",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasur",
+      "score": 5,
+      "titleZh": "评估法学硕士作为联合科学家的研究诚信的诊断基础"
+    },
+    {
+      "title": "Frontend Exception Tracking: Backend Collector Privacy for Stack, Release, and Environment",
+      "link": "https://dev.to/magnusberg2958/frontend-exception-tracking-backend-collector-privacy-for-stack-release-and-environment-1f47",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 15 Aug 2026 10:18:14 +0000",
-      "summary": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Save the HTML file, open in any browser, or deploy free on Netlify/Vercel. Built by OmniIncome-v1 using AI. Support: 0x6731ee8E0",
+      "date": "Sun, 16 Aug 2026 01:03:05 +0000",
+      "summary": "Short answer: send window.onerror and unhandledrejection events to a small backend collector, but treat the browser payload as untrusted evidence: allowlist fields, scrub likely PII again on the serve",
       "score": 5,
-      "titleZh": "免费登陆页面 - 登陆聊天机器人"
+      "titleZh": "前端异常跟踪：堆栈、发布和环境的后端收集器隐私"
     },
     {
-      "title": "robots.txt vs llms.txt vs sitemap.xml: what each is for",
-      "link": "https://dev.to/webpixie/robotstxt-vs-llmstxt-vs-sitemapxml-what-each-is-for-8c1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:12:25 +0000",
-      "summary": "Three small files with three different jobs. robots.txt controls who crawls, sitemap.xml maps what to crawl, and llms.txt curates what AI assistants read first. Get the mental model right with minimum",
-      "score": 5,
-      "titleZh": "robots.txt、llms.txt、sitemap.xml：各自的用途"
-    },
-    {
-      "title": "AI Overviews ฆ่า Brochure Website แล้ว, CTR ลด 61%, เว็บต้องเป็น Experience ไม่ได้มีเพียงข้อมูล",
-      "link": "https://dev.to/sarantoon/ai-overviews-khaa-brochure-website-aelw-ctr-ld-61-ewbtngepn-experience-aimaidmiiephiiyngkhmuul-1jj3",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:08:46 +0000",
-      "summary": "AI Overviews ฆ่า Brochure Website แล้ว, CTR ลด 61%, เว็บต้องเป็น Experience ไม่ได้มีเพียงข้อมูล โดย Nokka (นก-กา) | 15 สิงหาคม 2026 บทความนี้เขียนโดย AI (DeepSeek V4 Pro) ผ่าน Hermes Agent ภายใต้การคว",
-      "score": 5,
-      "titleZh": "AI 概述和宣传册网站，点击率 61%，体验ไม่ได้มีเพียงข้อมูล"
-    },
-    {
-      "title": "I built a full-stack Next.js 16 e-commerce monorepo: storefront, admin, NestJS API, and AI try-on",
-      "link": "https://dev.to/mohamed_djoudir/i-built-a-full-stack-nextjs-16-e-commerce-monorepo-storefront-admin-nestjs-api-and-ai-try-on-2kbb",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:08:11 +0000",
-      "summary": "I shipped a production e-commerce system as a single monorepo: a Next.js 16 storefront, a Next.js 16 admin dashboard, and a NestJS API. English and Arabic with full RTL, guest checkout, and three AI f",
-      "score": 5,
-      "titleZh": "我构建了一个全栈 Next.js 16 电子商务 monorepo：店面、管理、NestJS API 和 AI 试用"
-    },
-    {
-      "title": "Dicio - A New Android Assistan…",
-      "link": "https://dev.to/norviktech/dicio-a-new-android-assistan-11bg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:06:17 +0000",
-      "summary": "Originally published at norvik.tech Explore how Dicio offers a viable alternative to Google Assistant while maintaining user privacy. Technical insights and business implications. Dicio is a new Andro",
-      "score": 5,
-      "titleZh": "Dicio - 新的 Android 助手..."
-    },
-    {
-      "title": "Advanced Flexible PCB Technology: Materials, Engineering Challenges, Industry Trends, and Future Innovations",
-      "link": "https://dev.to/pcb_manufacturer/advanced-flexible-pcb-technology-materials-engineering-challenges-industry-trends-and-future-12k2",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:06:00 +0000",
-      "summary": "Introduction Electronic products have changed dramatically over the last two decades. Devices have become thinner, lighter, faster, and more compact. At the same time, consumer expectations have incre",
-      "score": 5,
-      "titleZh": "先进的柔性 PCB 技术：材料、工程挑战、行业趋势和未来创新"
-    },
-    {
-      "title": "Agentic Infrastructure 2026: Powering the Next AI Decade",
-      "link": "https://dev.to/meghroop_tech/agentic-infrastructure-2026-powering-the-next-ai-decade-1ci0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:00:47 +0000",
-      "summary": "After building 50+ AI systems, here is what we know about Agentic Infrastructure: Agentic Infrastructure is a specialized computing and deployment environment engineered from the ground up to support ",
-      "score": 5,
-      "titleZh": "Agentic 基础设施 2026：为下一个 AI 十年提供动力"
-    },
-    {
-      "title": "Why I Migrated My SaaS from Vite to Next.js — And What It Meant for My Users",
-      "link": "https://dev.to/digitaldev/why-i-migrated-my-saas-from-vite-to-nextjs-and-what-it-meant-for-my-users-5f44",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:00:14 +0000",
-      "summary": "The Architectural Shift: Moving Beyond the SPA For the first year of my SaaS journey, Vite was my best friend. Its hot module replacement (HMR) is lightning fast, the developer experience (DX) is top-",
-      "score": 5,
-      "titleZh": "为什么我将 SaaS 从 Vite 迁移到 Next.js — 以及这对我的用户意味着什么"
-    },
-    {
-      "title": "Why Do Certain Fabrics Shock You More? Static Cling Explained",
-      "link": "https://dev.to/gtstudios/why-do-certain-fabrics-shock-you-more-static-cling-explained-2fma",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 15 Aug 2026 10:00:14 +0000",
-      "summary": "You pull a sweater over your head and your hair stands on end, or you touch a doorknob after wearing a certain outfit and get zapped. It’s not random — some fabric combinations are far more prone to s",
-      "score": 5,
-      "titleZh": "为什么某些面料更让您震惊？静电吸附解释"
-    },
-    {
-      "title": "Gravy Theory: three chickens, one base",
-      "link": "https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8",
+      "title": "Why I Built a 100% Client-Side Web Toolkit (And How WebAssembly Makes It Fast)",
+      "link": "https://dev.to/cn_toon_e7332ea1dba1b713d/why-i-built-a-100-client-side-web-toolkit-and-how-webassembly-makes-it-fast-3boe",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 15 Aug 2026 09:59:55 +0000",
-      "summary": "This is a submission for Frontend Challenge - Comfort Food Edition Perfect Landing. Gravy Theory is an interactive field guide to North Indian gravy, built around a single claim: Butter chicken and ch",
+      "date": "Sun, 16 Aug 2026 00:57:32 +0000",
+      "summary": "Most online file converters (PDF, Image, Video, Audio) share the same underlying issues: slow upload times, file size limits, and major privacy risks from uploading personal assets to third-party serv",
       "score": 5,
-      "titleZh": "肉汁理论：三鸡一基地"
+      "titleZh": "为什么我构建 100% 客户端 Web 工具包（以及 WebAssembly 如何使其变得更快）"
+    },
+    {
+      "title": "Software marketplaces have forgotten who they're supposed to serve",
+      "link": "https://dev.to/lyrinox/software-marketplaces-have-forgotten-who-theyre-supposed-to-serve-450l",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:50:45 +0000",
+      "summary": "I've spent a lot of time thinking about software marketplaces. And the more I looked at them, the more I kept coming back to the same question: When did the marketplace become the most important party",
+      "score": 5,
+      "titleZh": "软件市场已经忘记了他们应该为谁服务"
+    },
+    {
+      "title": "AI Pricing 2026: How Neural Networks Boost Profits by 18–35% — Tools, Case Studies, Numbers",
+      "link": "https://dev.to/toptodayai/ai-pricing-2026-how-neural-networks-boost-profits-by-18-35-tools-case-studies-numbers-2a1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:50:27 +0000",
+      "summary": "AI Pricing 2026: How Neural Networks Boost Profits by 18–35% — Tools, Case Studies, Numbers Author: seo-writer / TopToDay Group Date: 01.08.2026 Keywords: AI pricing 2026, dynamic pricing neural netwo",
+      "score": 5,
+      "titleZh": "2026 年人工智能定价：神经网络如何将利润提高 18-35% — 工具、案例研究、数字"
+    },
+    {
+      "title": "AI Competitive Intelligence 2026: How to Automatically Track Competitors and Win Their Customers",
+      "link": "https://dev.to/toptodayai/ai-competitive-intelligence-2026-how-to-automatically-track-competitors-and-win-their-customers-3ecj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:49:38 +0000",
+      "summary": "AI Competitive Intelligence 2026: How to Automatically Track Competitors and Win Their Customers Date: August 1, 2026 Series: #17:00 Topic: AI-powered Competitive Intelligence for Small and Medium Bus",
+      "score": 5,
+      "titleZh": "AI 竞争情报 2026：如何自动跟踪竞争对手并赢得客户"
+    },
+    {
+      "title": "AI for B2B Sales 2026: How AI-SDR Agents Deliver +300% Leads Without Cold Calls — Numbers, Tools, ROI",
+      "link": "https://dev.to/toptodayai/ai-for-b2b-sales-2026-how-ai-sdr-agents-deliver-300-leads-without-cold-calls-numbers-tools-518e",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:49:32 +0000",
+      "summary": "AI for B2B Sales 2026: How AI-SDR Agents Deliver +300% Leads Without Cold Calls — Numbers, Tools, ROI Author: seo-writer / TopToDay Group Date: 08/01/2026 Keywords: AI B2B sales 2026, AI SDR agent, le",
+      "score": 5,
+      "titleZh": "2026 年 B2B 销售人工智能：AI-SDR 代理如何在无需推销电话的情况下提供 300% 以上的销售线索 — 数字、工具、投资回报率"
+    },
+    {
+      "title": "Click Speed Test — Free Online Tool",
+      "link": "https://dev.to/baoming/click-speed-test-free-online-tool-4564",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:32:19 +0000",
+      "summary": "title: \"Click Speed Test\" https://tools.scoreroute.com/tools/click-speed-test/ Click Speed Test — Free Online Tool Quick Answer Open Click Speed Test and get what you need instantly. Free. No signup. ",
+      "score": 5,
+      "titleZh": "点击速度测试 - 免费在线工具"
+    },
+    {
+      "title": "I shipped an MCP server that reported success without signing anything",
+      "link": "https://dev.to/edycutjong/i-shipped-an-mcp-server-that-reported-success-without-signing-anything-6oh",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:30:27 +0000",
+      "summary": "I built an MCP server that lets an AI assistant trade tokens and claim creator fees on It had 337 tests. All of them passed. I didn't find out for three months. This post is about what that bug taught",
+      "score": 5,
+      "titleZh": "我发货的 MCP 服务器在未签署任何内容的情况下报告成功"
+    },
+    {
+      "title": "Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing",
+      "link": "https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:21:22 +0000",
+      "summary": "I audit catalog migrations for a living. Every disaster I've seen was preventable — not by hiring better, but by agreeing in writing what \"done\" means before work starts. Copy this list. Send it to wh",
+      "score": 5,
+      "titleZh": "在您付钱给任何人迁移您的 Shopify 目录之前，请让他们以书面形式承诺这 17 件事"
+    },
+    {
+      "title": "Analyzing the Shift: Private Security Firms Hackin…",
+      "link": "https://dev.to/norviktech/analyzing-the-shift-private-security-firms-hackin-c4h",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 16 Aug 2026 00:06:05 +0000",
+      "summary": "Originally published at norvik.tech A deep dive into the implications of private security firms being authorized to hack overseas cybercriminals, focusing on technical, legal, and business p… The rece",
+      "score": 5,
+      "titleZh": "分析这一转变：私人保安公司黑客入侵……"
     }
   ]
 }
