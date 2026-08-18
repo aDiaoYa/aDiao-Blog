@@ -1,10 +1,58 @@
 {
-  "updated": "2026-08-17T01:08:05.773Z",
-  "date": "2026-08-17",
+  "updated": "2026-08-18T01:06:11.789Z",
+  "date": "2026-08-18",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "trying to build a solid math library for stats/ML/DL, need a sanity check on my picks[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vr76lf/trying_to_build_a_solid_math_library_for/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-17T22:36:27.000Z",
+      "summary": "engineering student here, decent calc and linear algebra background from continuum mechanics coursework, already comfortable with ML basics through transformers and modern architectures. want to go de",
+      "score": 40,
+      "titleZh": "试图为统计/机器学习/深度学习构建一个可靠的数学库，需要对我的选择进行健全性检查[D]"
+    },
+    {
+      "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-17T22:02:45.000Z",
+      "summary": "There’s a hands-on workshop on August 29 that builds and benchmarks this properly, end to end, using entirely open models, no API calls involved. Led by Ben Auffarth, AI Consultant and Founder of Chel",
+      "score": 40,
+      "titleZh": "我们有一个关于使用开放模型进行生产检索增强生成的研讨会，进行端到端基准测试，认为它在这里相关[D]"
+    },
+    {
+      "title": "ICLR numbered citations possible? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-17T21:56:06.000Z",
+      "summary": "The instructions say Author Year format. But I was wondering if do numbered instead (no space lol), will it be straight desk rejection? Has anyone submitted with numbered format before? How did it go?",
+      "score": 40,
+      "titleZh": "ICLR 编号的引用可能吗？ [R]"
+    },
+    {
+      "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-17T12:18:17.000Z",
+      "summary": "Original Article - https://x.com/p_nawrot/status/2089315591010079034 I've spent the last few years working on efficient attention and KV Cache Compression. I've read many papers, dug deep into referen",
+      "score": 40,
+      "titleZh": "如何让稀疏注意力/KV 压缩看起来不错？ [D] [R]"
+    },
     {
       "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
@@ -18,42 +66,6 @@
       "titleZh": "[R] SineKAN：使用正弦激活函数的 Kolmogorov-Arnold 网络"
     },
     {
-      "title": "Input 4-5x Reduction with sentence and keyword based trie on chat. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vq9ji0/input_45x_reduction_with_sentence_and_keyword/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-16T21:43:06.000Z",
-      "summary": "Currently struggling with an automatic budget selection, at 25% it’s very similar to benchmarks accuracy and seems even better on actual chat input however it many times retrieves too much. It would b",
-      "score": 40,
-      "titleZh": "在聊天中使用基于句子和关键字的 trie 可以减少 4-5 倍的输入。 [P]"
-    },
-    {
-      "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-16T17:53:42.000Z",
-      "summary": "Hi everyone, I am heading into my final year of my BTech at a tier 1 college in India and just wrapped up a Physical AI internship at a MNC, working heavily with NVIDIA Isaac Sim and OpenFOAM. My back",
-      "score": 40,
-      "titleZh": "[职业建议] 物理人工智能/机器人学最后一年。市场和全球应届生招聘情况如何？ [D]"
-    },
-    {
-      "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-16T10:13:44.000Z",
-      "summary": "ECA was positioned as a successor to SE. The idea behind ECA is quite simple. Unlike SE which reduces the channel means into a smaller hidden layer, it directly uses a 1d convolution kernel on the cha",
-      "score": 40,
-      "titleZh": "重温 Efficient Channel Attention 论文（2019 年，12k 次引用）——中心假设不太正确 [D]"
-    },
-    {
       "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
       "source": "Reddit ML",
@@ -64,18 +76,6 @@
       "summary": "​ Scaled dot-product attention (SDPA) computes its Attention by computing the similarity-scores of all image-tokens with all query tokens which results in O(N²·d) complexity. SSOG (Sum Of Separable Ga",
       "score": 40,
       "titleZh": "SSOG-Attention：可分离高​​斯之和作为 SDPA 的次二次且可扩展的替代方案。 [R]"
-    },
-    {
-      "title": "How can we solve long-range recall in linear attention? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-16T07:47:09.000Z",
-      "summary": "Recently, I started working on DNA sequence modeling and decided to explore linear attention, mainly because DNA sequences can easily reach 1M tokens, making standard softmax attention extremely expen",
-      "score": 40,
-      "titleZh": "我们如何解决线性注意力中的长程召回问题？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "source": "AI News",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 14 Aug 2026 13:30:10 +0000",
-      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart act",
+      "date": "Mon, 17 Aug 2026 19:46:21 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "三星健康人工智能模型分析可穿戴生物信号数据"
+      "titleZh": "相同的集群，利用率增加了 33 个点：改变的是顺序"
     },
     {
-      "title": "Google AI health coach to use Abbott glucose data",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-      "source": "AI News",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 14 Aug 2026 10:00:00 +0000",
-      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health informati",
+      "date": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
       "score": 5,
-      "titleZh": "谷歌人工智能健康教练将使用雅培血糖数据"
+      "titleZh": "与 Gemini 和 Pixel 一起近距离接触游戏"
     },
     {
-      "title": "Dog Vision: I Made My Camera See Like a Dog (And Now I Can't Unsee It)",
-      "link": "https://dev.to/paulthedev/dog-vision-i-made-my-camera-see-like-a-dog-and-now-i-cant-unsee-it-585o",
+      "title": "YouTube API tutorial - view count auto updates in the title and thumbnail",
+      "link": "https://www.reddit.com/r/programming/comments/1vra96k/youtube_api_tutorial_view_count_auto_updates_in/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-18T00:46:49.000Z",
+      "summary": "I posted this video a few years ago showing how to use the YouTube API and it's still working! I have the title of the video and it's thumbnail auto update based on views. It's almost at 1k submitted ",
+      "score": 40,
+      "titleZh": "YouTube API 教程 - 标题和缩略图中的观看次数自动更新"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "link": "https://www.reddit.com/r/programming/comments/1vqxler/a_preview_of_duckdb_v20/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-17T16:48:16.000Z",
+      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
+      "score": 40,
+      "titleZh": "DuckDB v2.0 预览"
+    },
+    {
+      "title": "Nothing like a Monday morning GitHub outage",
+      "link": "https://www.reddit.com/r/programming/comments/1vqukkf/nothing_like_a_monday_morning_github_outage/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-17T14:53:18.000Z",
+      "summary": "submitted by /u/Jwosty [link] [comments]",
+      "score": 40,
+      "titleZh": "没有什么比周一早上 GitHub 宕机更好的了"
+    },
+    {
+      "title": "Fractal Architecture, Cognitive Load, Vertical Slices and other terms that do(n't) fit your head",
+      "link": "https://www.reddit.com/r/programming/comments/1vqsufx/fractal_architecture_cognitive_load_vertical/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-17T13:48:04.000Z",
+      "summary": "submitted by /u/Adventurous-Salt8514 [link] [comments]",
+      "score": 40,
+      "titleZh": "分形架构、认知负荷、垂直切片和其他不适合您头脑的术语"
+    },
+    {
+      "title": "Faster algorithms to compute weekday for date libraries",
+      "link": "https://www.reddit.com/r/programming/comments/1vqndz5/faster_algorithms_to_compute_weekday_for_date/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-17T09:25:12.000Z",
+      "summary": "submitted by /u/benjoffe [link] [comments]",
+      "score": 40,
+      "titleZh": "更快的算法来计算日期库的工作日"
+    },
+    {
+      "title": "Pony's Arena Allocator",
+      "link": "https://www.reddit.com/r/programming/comments/1vq4rr0/ponys_arena_allocator/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-16T18:33:38.000Z",
+      "summary": "I recently discovered that Pony's still alive. I had discovered Pony a few years ago while browsing tech forums. Its focus on memory safe & lock-free MT was interesting. I kept up with the weekly deve",
+      "score": 40,
+      "titleZh": "小马的竞技场分配器"
+    },
+    {
+      "title": "Protobuf finally has LSP support. You’re welcome. · Buf",
+      "link": "https://www.reddit.com/r/programming/comments/1vq4pbv/protobuf_finally_has_lsp_support_youre_welcome_buf/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-16T18:31:02.000Z",
+      "summary": "submitted by /u/esiy0676 [link] [comments]",
+      "score": 40,
+      "titleZh": "Protobuf 终于有了 LSP 支持。不客气。 · 缓冲液"
+    },
+    {
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-05-23T13:54:37.000Z",
+      "summary": "After temporarily banning LLM-related content over April, and asking you for feedback on that ban, we've decided to bring about an end of the temporary, I-can't-believe-it's-still-April ban on AI-rela",
+      "score": 40,
+      "titleZh": "公告：我们更新了规则，四月终于结束了"
+    },
+    {
+      "title": "From Traffic to Behavior: Why I Built Shape Beacon",
+      "link": "https://dev.to/anthony_yerhot_2d8b5de407/from-traffic-to-behavior-why-i-built-shape-beacon-1ojh",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 17 Aug 2026 01:04:05 +0000",
-      "summary": "This is a submission for Weekend Challenge: Dog Days Edition I built Dog Vision, a little browser app that takes your camera feed (or a photo you upload) and shows you two versions side by side: what ",
+      "date": "Tue, 18 Aug 2026 01:05:30 +0000",
+      "summary": "I deployed my first public domain earlier this year. I learned something very quickly: traffic according to Cloudflare is defined by something as small as a wispy breeze coming from a crawling script,",
       "score": 5,
-      "titleZh": "狗视觉：我让相机看起来像狗一样（现在我无法看不见它）"
+      "titleZh": "从流量到行为：为什么我建造形状信标"
     },
     {
-      "title": "How I Approach Debugging AI-Generated Web Apps",
-      "link": "https://dev.to/afolabi_makinde_c70345fef/how-i-approach-debugging-ai-generated-web-apps-2b64",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:58:13 +0000",
-      "summary": "AI coding tools like Replit, Lovable, and Base44 can turn an idea into a working app incredibly fast. But here's the catch: AI-generated doesn't mean bug-free. Authentication breaks. APIs fail. Databa",
-      "score": 5,
-      "titleZh": "我如何调试 AI 生成的 Web 应用程序"
-    },
-    {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It — Here's What Changed",
-      "link": "https://dev.to/shadie_ai/i-spent-10x-longer-debugging-ai-code-than-writing-it-heres-what-changed-3m71",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:55:38 +0000",
-      "summary": "I still remember the rush. I had a moderately complex feature to build—a data pipeline that ingested CSV files, validated them against a schema, transformed the rows, and pushed them into a PostgreSQL",
-      "score": 5,
-      "titleZh": "我调试 AI 代码的时间比编写代码的时间长 10 倍——变化如下"
-    },
-    {
-      "title": "Unit testing example",
-      "link": "https://dev.to/chaimabouchareb/unit-testing-example-251k",
+      "title": "My scanner was wrong 22 times and its own proof certified every one",
+      "link": "https://dev.to/zkasuran/my-scanner-was-wrong-22-times-and-its-own-proof-certified-every-one-2m5n",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 17 Aug 2026 00:48:08 +0000",
-      "summary": "We have a function called capitalize that takes a string and makes the first letter uppercase function capitalize(str) { if (!str) return str; return str[0].toUpperCase() + str.slice(1); } module.expo",
+      "date": "Tue, 18 Aug 2026 00:53:06 +0000",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry. I built a scanner that audits the verification layer of a repository rather than the code. One of its checks looks for",
       "score": 5,
-      "titleZh": "单元测试示例"
-    },
-    {
-      "title": "Free Landing Page - Landing Chatbot",
-      "link": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-1fha",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:47:20 +0000",
-      "summary": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Save the HTML file, open in any browser, or deploy free on Netlify/Vercel. Built by OmniIncome-v1 using AI. Support: 0x6731ee8E0",
-      "score": 5,
-      "titleZh": "免费登陆页面 - 登陆聊天机器人"
-    },
-    {
-      "title": "How we built WaterShortcut",
-      "link": "https://dev.to/quizbiz/how-we-built-watershortcut-1529",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:42:08 +0000",
-      "summary": "Adapt the content from https://watershortcut.com/how-we-built; set canonical to that URL; end with demo https://watershortcut.com/analyze-water-bill. Full story: https://watershortcut.com/how-we-built",
-      "score": 5,
-      "titleZh": "我们如何构建 WaterShortcut"
-    },
-    {
-      "title": "How Actively Are Self-Hosted Analytics Tools Maintained? How to Check for Yourself",
-      "link": "https://dev.to/kimcomplete/how-actively-are-self-hosted-analytics-tools-maintained-how-to-check-for-yourself-54ho",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:39:08 +0000",
-      "summary": "A practical guide to judging whether a self-hosted analytics project is still actively developed, using the public signals every open-source repository exposes. If you are planning to self-host your w",
-      "score": 5,
-      "titleZh": "自托管分析工具的维护积极程度如何？如何自行检查"
-    },
-    {
-      "title": "Best Free AI Background Removers in 2026: 7 Tools Tested",
-      "link": "https://dev.to/tony_make_5eb96ab94641071/best-free-ai-background-removers-in-2026-7-tools-tested-8hh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:28:59 +0000",
-      "summary": "Clean, professional product shots and profile photos almost always have one thing in common: a tidy, distraction-free background. An AI background remover detects the subject and removes the backdrop ",
-      "score": 5,
-      "titleZh": "2026 年最佳免费 AI 背景去除剂：经过测试的 7 种工具"
-    },
-    {
-      "title": "DeepSeek vs Qwen vs Kimi vs GLM: Which Chinese API Wins in 2025?",
-      "link": "https://dev.to/swift-logic-io218/deepseek-vs-qwen-vs-kimi-vs-glm-which-chinese-api-wins-in-2025-3dn4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:26:30 +0000",
-      "summary": "DeepSeek vs Qwen vs Kimi vs GLM: Which Chinese API Wins in 2025? I almost didn't write this article. When I started exploring AI APIs during my bootcamp, I kept reaching for the same handful of Wester",
-      "score": 5,
-      "titleZh": "DeepSeek vs Qwen vs Kimi vs GLM：2025 年哪个中国 API 获胜？"
-    },
-    {
-      "title": "Active Exploitation of Mac Vul…",
-      "link": "https://dev.to/norviktech/active-exploitation-of-mac-vul-17l6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 17 Aug 2026 00:06:07 +0000",
-      "summary": "Originally published at norvik.tech Explore the implications of a newly discovered Mac vulnerability allowing remote control. In-depth analysis for tech leaders. The recent vulnerability discovered in",
-      "score": 5,
-      "titleZh": "Mac 漏洞的主动利用..."
+      "titleZh": "我的扫描仪出错了 22 次，并且它自己的证据证明了每一个错误"
     }
   ]
 }
