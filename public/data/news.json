@@ -1,93 +1,69 @@
 {
-  "updated": "2026-08-18T10:25:54.139Z",
-  "date": "2026-08-18",
+  "updated": "2026-08-19T10:27:43.658Z",
+  "date": "2026-08-19",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "AI;DR (AI; Didn't Read)",
-      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 17 Aug 2026 19:47:15 +0000",
-      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573",
-      "score": 891,
-      "titleZh": "AI;DR（AI；未读）"
+      "date": "Tue, 18 Aug 2026 12:22:58 +0000",
+      "summary": "https://xcancel.com/kuberwastaken/status/2089377982536388964 https://cdn.kuber.studio/chat/hp-laser-1008a-driver Comments URL: https://news.ycombinator.com/item?id=49344643",
+      "score": 205,
+      "titleZh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序"
     },
     {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "title": "AI usage patterns in software teams",
+      "link": "https://linear.app/data",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 17 Aug 2026 20:46:10 +0000",
-      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392",
-      "score": 519,
-      "titleZh": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人"
+      "date": "Tue, 18 Aug 2026 22:08:07 +0000",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432",
+      "score": 142,
+      "titleZh": "软件团队中的人工智能使用模式"
     },
     {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "source": "HN·AI",
+      "title": "how can I learn Machine Learning for Astronomical use? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 17 Aug 2026 21:03:18 +0000",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602",
-      "score": 451,
-      "titleZh": "GPT-5.6 Sol 定价降低 50%"
+      "date": "2026-08-19T07:32:45.000Z",
+      "summary": "Im new to Astronomy and Juypter Notebooks and Ai machine learning for sure I have little skill in python but quick learner especially visual learning. Are there any free tutorials I can use and free b",
+      "score": 40,
+      "titleZh": "我如何学习天文用途的机器学习？ [D]"
     },
     {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "source": "HN·AI",
+      "title": "Embedded spaces inspired on gravity [P][D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsb2xl/embedded_spaces_inspired_on_gravity_pd/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 17 Aug 2026 14:18:38 +0000",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423",
-      "score": 376,
-      "titleZh": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害"
+      "date": "2026-08-19T03:34:59.000Z",
+      "summary": "https://preview.redd.it/x164c3ol59kh1.png?width=895&format=png&auto=webp&s=96fe040f824799f2175e526a0512e81367e04b0f tl;dr: I have a project that I think is really cool and as a non-researcher, I don't",
+      "score": 40,
+      "titleZh": "受重力启发的嵌入式空间 [P][D]"
     },
     {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "link": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "source": "HN·AI",
+      "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 17 Aug 2026 12:09:42 +0000",
-      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575",
-      "score": 340,
-      "titleZh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型"
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "link": "https://www.librarian.net/notoai/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 17 Aug 2026 14:07:56 +0000",
-      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220",
-      "score": 301,
-      "titleZh": "如何禁用或避免侵入性人工智能"
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "link": "https://speko.ai/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 17 Aug 2026 15:36:18 +0000",
-      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and ",
-      "score": 106,
-      "titleZh": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter"
+      "date": "2026-08-19T02:07:15.000Z",
+      "summary": "Hi everyone 👋 My paper was recently accepted to ICONIP 2026, but I’m the sole author and most likely won’t be able to attend the conference in person due to work commitments. I’m trying to understand",
+      "score": 40,
+      "titleZh": "ICONIP 2026 — 如果唯一作者无法亲自参加怎么办？ [D]"
     },
     {
       "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
@@ -126,124 +102,148 @@
       "titleZh": "如何让稀疏注意力/KV 压缩看起来不错？ [D] [R]"
     },
     {
-      "title": "Top Rated Limo Service Near Me for Airport Pickup and Drop-off",
-      "link": "https://dev.to/niagara_limo_7e9a949d0bbb/top-rated-limo-service-near-me-for-airport-pickup-and-drop-off-l0j",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-02T02:15:24.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] 自我推销主题"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-31T02:30:08.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "Screenshot-to-Code Sounds Easy. Here Are 5 Things AI Still Gets Wrong",
+      "link": "https://dev.to/arsalanmeee/screenshot-to-code-sounds-easy-here-are-5-things-ai-still-gets-wrong-12j0",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 19 Aug 2026 07:57:55 +0000",
+      "summary": "Screenshot-to-code sounds simple. Upload a screenshot → generate frontend code → done. In practice, it is not quite that simple. I've been experimenting with AI frontend generators, and the first gene",
+      "score": 320,
+      "titleZh": "屏幕截图到代码听起来很简单。人工智能仍然会犯错的 5 件事"
+    },
+    {
+      "title": "Barrel files are the clean-code habit quietly wrecking your bundle",
+      "link": "https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 19 Aug 2026 10:24:13 +0000",
+      "summary": "The clean index.ts file you were told to create? It's actually causing tree-shaking to fail silently. Do you know that kind of import that just re-exports everything from the folder so your import loo",
+      "score": 5,
+      "titleZh": "桶文件是干净代码的习惯，悄悄地破坏了你的包"
+    },
+    {
+      "title": "What Should You Look for in a Google SEO Partner in Chennai?",
+      "link": "https://dev.to/seven_horses_a5aa79fa0abc/what-should-you-look-for-in-a-google-seo-partner-in-chennai-18i6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:25:30 +0000",
-      "summary": "Traveling to or from the airport should never feel like a hassle, and that is exactly why so many travelers turn to a trusted Niagara Falls Limo Service whenever they need dependable transportation. W",
+      "date": "Wed, 19 Aug 2026 10:21:29 +0000",
+      "summary": "A reliable Google SEO partner should understand how Google's crawling, indexing, and ranking systems actually work not just claim to. Look for an agency offering google seo Chennai expertise across te",
       "score": 5,
-      "titleZh": "我附近评价最高的机场接送豪华轿车服务"
+      "titleZh": "您应该在钦奈的 Google SEO 合作伙伴中寻找什么？"
     },
     {
-      "title": "Site Reliability Engineering Online Training | SRE Course",
-      "link": "https://dev.to/rakesh_visualpath_9eb20ee/site-reliability-engineering-online-training-sre-course-2gcm",
+      "title": "Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.",
+      "link": "https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:24:21 +0000",
-      "summary": "Visualpath Build practical #SiteReliabilityEngineering (SRE) skills with industry-focused training covering: ☁️ AWS, EKS & Terraform https://visualpath.in/online-site-reliability-engineering-training.",
+      "date": "Wed, 19 Aug 2026 10:20:41 +0000",
+      "summary": "One morning, I opened Google Search Console as usual. The latest day showed: Impressions: 0 Clicks: 0 My first thought was that the data had not finished processing. Then I checked the approximate num",
       "score": 5,
-      "titleZh": "站点可靠性工程在线培训| SRE课程"
+      "titleZh": "Google 在几小时内就为我的新网站建立了索引。然后我扩展得太快了。"
     },
     {
-      "title": "How to Build an AI-Powered Web Application From Scratch",
-      "link": "https://dev.to/deepak_kumar_1605/how-to-build-an-ai-powered-web-application-from-scratch-31m9",
+      "title": "What Homeowners Should Know Before Hiring an Interior Designer",
+      "link": "https://dev.to/divyainteriordesigner/what-homeowners-should-know-before-hiring-an-interior-designer-3m64",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:21:40 +0000",
-      "summary": "Artificial intelligence is changing how modern web applications are designed, developed, and used. From AI customer-support platforms and document-processing tools to intelligent accounting software a",
+      "date": "Wed, 19 Aug 2026 10:20:33 +0000",
+      "summary": "Hiring someone to design your home is a bigger decision than choosing a colour palette or selecting a modular kitchen finish. The person or team you appoint may influence your storage, furniture layou",
       "score": 5,
-      "titleZh": "如何从头开始构建人工智能驱动的 Web 应用程序"
+      "titleZh": "房主在聘请室内设计师之前应该了解什么"
     },
     {
-      "title": "SEO Packages for Small Business USA (2026) | NeuraPulse",
-      "link": "https://dev.to/neuraplusai/seo-packages-for-small-business-usa-2026-neurapulse-3and",
+      "title": "From Wallet to Ownership: How NFT Marketplaces Work",
+      "link": "https://dev.to/ishan_maity_48/from-wallet-to-ownership-how-nft-marketplaces-work-4a8i",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:21:27 +0000",
-      "summary": "For a small business owner in the USA, SEO can be one of the most valuable ways to attract customers without depending entirely on paid advertising. But choosing an SEO package can be confusing. This ",
+      "date": "Wed, 19 Aug 2026 10:18:30 +0000",
+      "summary": "Every NFT trade you've ever seen boiled down to a headline — \"Bought for X ETH,\" \"Sold for Y\" — hides a surprisingly intricate pipeline of cryptography, smart contract logic, off-chain indexing, and U",
       "score": 5,
-      "titleZh": "美国小型企业 SEO 套餐 (2026) |神经脉冲"
+      "titleZh": "从钱包到所有权：NFT 市场如何运作"
     },
     {
-      "title": "Understanding Hosting Servers: A Beginner’s Guide",
-      "link": "https://dev.to/mukesh_singh_e891553ad7a1/understanding-hosting-servers-a-beginners-guide-2hlk",
+      "title": "How to Fix Frequent WhatsApp Disconnections? 2026 Troubleshooting & Recovery Guide",
+      "link": "https://dev.to/ipfoxy/how-to-fix-frequent-whatsapp-disconnections-2026-troubleshooting-recovery-guide-26d6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:20:29 +0000",
-      "summary": "Understanding Hosting Servers: A Beginner’s Guide When creating a website, one of the most important things to understand is where the website will be stored and how visitors will access it. A hosting",
+      "date": "Wed, 19 Aug 2026 10:16:25 +0000",
+      "summary": "Frequent WhatsApp disconnections are a common issue when using WhatsApp Web, desktop clients, and multi-device logins, particularly impacting customer service teams, social media management, and multi",
       "score": 5,
-      "titleZh": "了解托管服务器：初学者指南"
+      "titleZh": "如何解决 WhatsApp 频繁断线的问题？ 2026 故障排除和恢复指南"
     },
     {
-      "title": "TTFB Won't Go Down? Server-Side Culprits Beyond the Theme",
-      "link": "https://dev.to/apogeewatcher/ttfb-wont-go-down-server-side-culprits-beyond-the-theme-410h",
+      "title": "I shipped a sourced question hub for The Sinking City 2 instead of another cloned wiki",
+      "link": "https://dev.to/_df88eb1337eb23b75c94ba/i-shipped-a-sourced-question-hub-for-the-sinking-city-2-instead-of-another-cloned-wiki-5fg3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:14:52 +0000",
-      "summary": "You moved the site behind a CDN, trimmed the theme, deferred scripts, and ran a caching plugin. PageSpeed Insights still flags a high Time to First Byte on the homepage, and the waterfall shows most o",
+      "date": "Wed, 19 Aug 2026 10:14:31 +0000",
+      "summary": "The Sinking City 2 launched on 18 August 2026. The searches I kept seeing were not \"give me a weapons dump.\" They were when does it release, what are the PC specs, which edition has Holloway Manor, is",
       "score": 5,
-      "titleZh": "TTFB不会下降吗？超出主题的服务器端罪魁祸首"
+      "titleZh": "我为《沉没之城 2》提供了一个来源问题中心，而不是另一个克隆的 wiki"
     },
     {
-      "title": "NOOA Deep Dive: NVIDIA’s Pythonic AI Agents Framework with Practical Implementations",
-      "link": "https://dev.to/trixsec/nooa-deep-dive-nvidias-pythonic-ai-agents-framework-with-practical-implementations-df3",
+      "title": "5 AI Agent Features That Define 2026 (And 2 I'm Still Waiting For)",
+      "link": "https://dev.to/astraedus/5-ai-agent-features-that-define-2026-and-2-im-still-waiting-for-2bef",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:13:31 +0000",
-      "summary": "Author: TrixSec In July 2026, NVIDIA unveiled NOOA (NVIDIA Object-Oriented Agents), an open-source framework that redefines AI agents as single Python classes. By unifying capabilities, state, prompts",
+      "date": "Wed, 19 Aug 2026 10:12:42 +0000",
+      "summary": "The five features that define AI agents in 2026 are a shared tool standard (MCP), prompt caching, computer use, background subagents, and agent-to-agent messaging. None of them are the model itself. T",
       "score": 5,
-      "titleZh": "NOOA 深入探讨：NVIDIA 的 Pythonic AI 代理框架及其实际实现"
+      "titleZh": "定义 2026 年的 5 个 AI 代理功能（还有 2 个我仍在等待）"
     },
     {
-      "title": "Why Security Logs Matter More Than You Think",
-      "link": "https://dev.to/qnayds_career_41b7fe9fc95/why-security-logs-matter-more-than-you-think-3khb",
+      "title": "Juhu escorts adult listings independent profiles on Republic Spot",
+      "link": "https://dev.to/republics009/juhu-escorts-adult-listings-independent-profiles-on-republic-spot-5cec",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 18 Aug 2026 10:12:47 +0000",
-      "summary": "When a security incident happens, one of the first questions a security team asks is simple: “What actually happened?” The answer is often hidden inside logs. Web servers, applications, firewalls, aut",
+      "date": "Wed, 19 Aug 2026 10:11:57 +0000",
+      "summary": "Introduction Juhu is one of Mumbai’s most popular coastal areas, known for its beach, luxury hotels, and vibrant nightlife. In this lively locality, Juhu escorts offer discreet and high-quality compan",
       "score": 5,
-      "titleZh": "为什么安全日志比您想象的更重要"
-    },
-    {
-      "title": "PRO Services in UAE",
-      "link": "https://dev.to/digital_project_c4b09c007/pro-services-in-uae-29jd",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 18 Aug 2026 10:05:44 +0000",
-      "summary": "Looking for reliable support with government documentation, business licensing, visa assistance and corporate administrative processes? FlexBiz Advisory provides professional PRO services designed to ",
-      "score": 5,
-      "titleZh": "阿联酋的专业服务"
-    },
-    {
-      "title": "Why I Built Yet Another Rich Text Editor",
-      "link": "https://dev.to/cyteeditor/why-i-built-yet-another-rich-text-editor-421b",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 18 Aug 2026 10:04:13 +0000",
-      "summary": "Every few years, a new rich text editor appears and promises to be \"the last one you'll ever need.\" And yet, here I am, building another one. Let me explain why. I was building a document management p",
-      "score": 5,
-      "titleZh": "为什么我构建另一个富文本编辑器"
+      "titleZh": "Juhu 在 Republic Spot 上护送成人列表独立个人资料"
     }
   ]
 }
