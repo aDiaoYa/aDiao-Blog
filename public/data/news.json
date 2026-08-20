@@ -1,57 +1,57 @@
 {
-  "updated": "2026-08-19T10:27:43.658Z",
-  "date": "2026-08-19",
+  "updated": "2026-08-20T01:06:28.109Z",
+  "date": "2026-08-20",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "title": "Mathematics in the age of AI",
+      "link": "https://arxiv.org/abs/2608.16753",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 18 Aug 2026 12:22:58 +0000",
-      "summary": "https://xcancel.com/kuberwastaken/status/2089377982536388964 https://cdn.kuber.studio/chat/hp-laser-1008a-driver Comments URL: https://news.ycombinator.com/item?id=49344643",
-      "score": 205,
-      "titleZh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序"
+      "date": "Wed, 19 Aug 2026 15:14:25 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728",
+      "score": 118,
+      "titleZh": "人工智能时代的数学"
     },
     {
-      "title": "AI usage patterns in software teams",
-      "link": "https://linear.app/data",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 18 Aug 2026 22:08:07 +0000",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432",
-      "score": 142,
-      "titleZh": "软件团队中的人工智能使用模式"
-    },
-    {
-      "title": "how can I learn Machine Learning for Astronomical use? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
+      "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-19T07:32:45.000Z",
-      "summary": "Im new to Astronomy and Juypter Notebooks and Ai machine learning for sure I have little skill in python but quick learner especially visual learning. Are there any free tutorials I can use and free b",
+      "date": "2026-08-19T21:30:26.000Z",
+      "summary": "I trained three LLMs from scratch in raw PyTorch then post-trained each one with SFT and then GRPO. Same process every time: same synthetic arithmetic curriculum, same reward function, same hyperparam",
       "score": 40,
-      "titleZh": "我如何学习天文用途的机器学习？ [D]"
+      "titleZh": "三个从头开始的法学硕士 (353M/316M/672M) 的相同 GRPO 配方给出了三种不同的结果，与规模没有明确的关系 [P]"
     },
     {
-      "title": "Embedded spaces inspired on gravity [P][D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsb2xl/embedded_spaces_inspired_on_gravity_pd/",
+      "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-19T03:34:59.000Z",
-      "summary": "https://preview.redd.it/x164c3ol59kh1.png?width=895&format=png&auto=webp&s=96fe040f824799f2175e526a0512e81367e04b0f tl;dr: I have a project that I think is really cool and as a non-researcher, I don't",
+      "date": "2026-08-19T19:24:12.000Z",
+      "summary": "I’ve been looking at a fairly basic question in weight-space learning that I don’t think gets separated cleanly enough: Why does reading semantics directly from neural network weights work pretty well",
       "score": 40,
-      "titleZh": "受重力启发的嵌入式空间 [P][D]"
+      "titleZh": "重量-空间感知差距有多少实际上是对称的？来自大约 180 万个安装的 SIREN 的证据 [R]"
+    },
+    {
+      "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-19T11:22:50.000Z",
+      "summary": "Registering for RealPDE (Sim2Real / LTTTA tracks — real PIV + CFD fluid dynamics data). Team cap is 3. If you've got a strong ML background and wanna participate, just DM me. Deadline's Aug 20, so mov",
+      "score": 40,
+      "titleZh": "寻找 1 名队友 — RealPDE 竞赛 (NeurIPS 2026)[D]"
     },
     {
       "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
@@ -90,18 +90,6 @@
       "titleZh": "我们有一个关于使用开放模型进行生产检索增强生成的研讨会，进行端到端基准测试，认为它在这里相关[D]"
     },
     {
-      "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-17T12:18:17.000Z",
-      "summary": "Original Article - https://x.com/p_nawrot/status/2089315591010079034 I've spent the last few years working on efficient attention and KV Cache Compression. I've read many papers, dug deep into referen",
-      "score": 40,
-      "titleZh": "如何让稀疏注意力/KV 压缩看起来不错？ [D] [R]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,124 +114,136 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Screenshot-to-Code Sounds Easy. Here Are 5 Things AI Still Gets Wrong",
-      "link": "https://dev.to/arsalanmeee/screenshot-to-code-sounds-easy-here-are-5-things-ai-still-gets-wrong-12j0",
-      "source": "Dev.to React",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 19 Aug 2026 07:57:55 +0000",
-      "summary": "Screenshot-to-code sounds simple. Upload a screenshot → generate frontend code → done. In practice, it is not quite that simple. I've been experimenting with AI frontend generators, and the first gene",
-      "score": 320,
-      "titleZh": "屏幕截图到代码听起来很简单。人工智能仍然会犯错的 5 件事"
-    },
-    {
-      "title": "Barrel files are the clean-code habit quietly wrecking your bundle",
-      "link": "https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 19 Aug 2026 10:24:13 +0000",
-      "summary": "The clean index.ts file you were told to create? It's actually causing tree-shaking to fail silently. Do you know that kind of import that just re-exports everything from the folder so your import loo",
+      "date": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "score": 5,
-      "titleZh": "桶文件是干净代码的习惯，悄悄地破坏了你的包"
+      "titleZh": "为前沿模型提供零数据保留"
     },
     {
-      "title": "What Should You Look for in a Google SEO Partner in Chennai?",
-      "link": "https://dev.to/seven_horses_a5aa79fa0abc/what-should-you-look-for-in-a-google-seo-partner-in-chennai-18i6",
+      "title": "Is 1.234 one, or one thousand? Getting CSV decimal separators right",
+      "link": "https://dev.to/ink_gu/is-1234-one-or-one-thousand-getting-csv-decimal-separators-right-3n7j",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 20 Aug 2026 01:02:41 +0000",
+      "summary": "Here is a number from a bank statement: 1.234 If the bank is American, that is one point two three four. If the bank is German, that is one thousand two hundred and thirty four. Same characters, 1000x",
+      "score": 5,
+      "titleZh": "1.234 是一还是一千？正确设置 CSV 小数点分隔符"
+    },
+    {
+      "title": "AI APIs in 2026: The Honest Developer's Guide to Choosing One",
+      "link": "https://dev.to/shadie_ai/ai-apis-in-2026-the-honest-developers-guide-to-choosing-one-2h8c",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 19 Aug 2026 10:21:29 +0000",
-      "summary": "A reliable Google SEO partner should understand how Google's crawling, indexing, and ranking systems actually work not just claim to. Look for an agency offering google seo Chennai expertise across te",
+      "date": "Thu, 20 Aug 2026 00:55:48 +0000",
+      "summary": "I remember the days when choosing an AI API was simple: there was OpenAI, and there was… also OpenAI. Back in 2023, if you wanted to build something with a large language model, you pretty much had on",
       "score": 5,
-      "titleZh": "您应该在钦奈的 Google SEO 合作伙伴中寻找什么？"
+      "titleZh": "2026 年的 AI API：诚实的开发人员选择指南"
     },
     {
-      "title": "Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.",
-      "link": "https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3",
+      "title": "The Cron Job Ran on Time, Processed the Wrong Day, and Logged Nothing",
+      "link": "https://dev.to/codepy_1473/the-cron-job-ran-on-time-processed-the-wrong-day-and-logged-nothing-3o8o",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 20 Aug 2026 00:48:41 +0000",
+      "summary": "Earlier this week I watched a scheduled job do exactly what it was told and still corrupt a day's worth of data. The logs said success, the database said otherwise, and the only user who noticed was t",
+      "score": 5,
+      "titleZh": "Cron 作业按时运行，处理了错误的日期，并且没有记录任何内容"
+    },
+    {
+      "title": "Perry Mason in: The Case of the Drifting Timer",
+      "link": "https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 20 Aug 2026 00:47:41 +0000",
+      "summary": "Perry Mason in: The Case of the Drifting Timer Opening Statement You need a reactive \"current time\" in your Vue 3 app. A schedule grid with a red line showing \"now.\" A live clock. A dashboard that upd",
+      "score": 5,
+      "titleZh": "佩里·梅森（Perry Mason）：《漂流计时器事件》"
+    },
+    {
+      "title": "The Commit Was Named After the Wrong Half",
+      "link": "https://dev.to/henry_dan_81513dd35a2f540/the-commit-was-named-after-the-wrong-half-a5a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 19 Aug 2026 10:20:41 +0000",
-      "summary": "One morning, I opened Google Search Console as usual. The latest day showed: Impressions: 0 Clicks: 0 My first thought was that the data had not finished processing. Then I checked the approximate num",
+      "date": "Thu, 20 Aug 2026 00:44:55 +0000",
+      "summary": "Two weeks ago I shipped a fix to my travel site with a commit message that named the wrong cause. The headline change was real work: 220 country pages had never been prerendered, so every crawler that",
       "score": 5,
-      "titleZh": "Google 在几小时内就为我的新网站建立了索引。然后我扩展得太快了。"
+      "titleZh": "该提交以错误的一半命名"
     },
     {
-      "title": "What Homeowners Should Know Before Hiring an Interior Designer",
-      "link": "https://dev.to/divyainteriordesigner/what-homeowners-should-know-before-hiring-an-interior-designer-3m64",
+      "title": "How I Built a Habituation Pattern Detector in 90 Lines of Vanilla JavaScript — No AI, No ML, No Time-Series Library",
+      "link": "https://dev.to/473185670/how-i-built-a-habituation-pattern-detector-in-90-lines-of-vanilla-javascript-no-ai-no-ml-no-2chh",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 20 Aug 2026 00:41:13 +0000",
+      "summary": "ERP is the gold-standard treatment for OCD. Habituation is the mechanism that makes it work. Here's how I detect whether it's happening — using nothing but plain JavaScript. If you've ever done exposu",
+      "score": 5,
+      "titleZh": "我如何用 90 行 Vanilla JavaScript 构建习惯模式检测器 — 没有 AI、没有 ML、没有时间序列库"
+    },
+    {
+      "title": "Printable Calendar Generator — Free Online Tool",
+      "link": "https://dev.to/baoming/printable-calendar-generator-free-online-tool-3l31",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 19 Aug 2026 10:20:33 +0000",
-      "summary": "Hiring someone to design your home is a bigger decision than choosing a colour palette or selecting a modular kitchen finish. The person or team you appoint may influence your storage, furniture layou",
+      "date": "Thu, 20 Aug 2026 00:40:58 +0000",
+      "summary": "title: \"Printable Calendar Generator\" https://tools.scoreroute.com/tools/printable-calendar-generator/ Printable Calendar Generator — Free Online Tool Quick Answer Open Printable Calendar Generator an",
       "score": 5,
-      "titleZh": "房主在聘请室内设计师之前应该了解什么"
+      "titleZh": "可打印日历生成器 — 免费在线工具"
     },
     {
-      "title": "From Wallet to Ownership: How NFT Marketplaces Work",
-      "link": "https://dev.to/ishan_maity_48/from-wallet-to-ownership-how-nft-marketplaces-work-4a8i",
+      "title": "Building a Generation Queue Tool for Batch Character Creation",
+      "link": "https://dev.to/hirodeath/building-a-generation-queue-tool-for-batch-character-creation-2lk3",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 20 Aug 2026 00:28:44 +0000",
+      "summary": "This article is an English translation of the original Japanese article. I added a batch generation queue to Pixel Studio, which creates game characters via an external API. Previously I had to open e",
+      "score": 5,
+      "titleZh": "构建用于批量角色创建的生成队列工具"
+    },
+    {
+      "title": "Why Every SaaS Needs a Metrics Page (And How It Boosts SEO)",
+      "link": "https://dev.to/sellermind/why-every-saas-needs-a-metrics-page-and-how-it-boosts-seo-2e7h",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 19 Aug 2026 10:18:30 +0000",
-      "summary": "Every NFT trade you've ever seen boiled down to a headline — \"Bought for X ETH,\" \"Sold for Y\" — hides a surprisingly intricate pipeline of cryptography, smart contract logic, off-chain indexing, and U",
+      "date": "Thu, 20 Aug 2026 00:25:58 +0000",
+      "summary": "There's an SEO strategy that most SaaS companies overlook: building a public-facing metrics page. Not a dashboard behind a login wall — a publicly accessible page that showcases measurable, meaningful",
       "score": 5,
-      "titleZh": "从钱包到所有权：NFT 市场如何运作"
+      "titleZh": "为什么每个 SaaS 都需要一个指标页面（以及它如何促进 SEO）"
     },
     {
-      "title": "How to Fix Frequent WhatsApp Disconnections? 2026 Troubleshooting & Recovery Guide",
-      "link": "https://dev.to/ipfoxy/how-to-fix-frequent-whatsapp-disconnections-2026-troubleshooting-recovery-guide-26d6",
+      "title": "Three of the First Four Alerts Were the Question's Fault",
+      "link": "https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 19 Aug 2026 10:16:25 +0000",
-      "summary": "Frequent WhatsApp disconnections are a common issue when using WhatsApp Web, desktop clients, and multi-device logins, particularly impacting customer service teams, social media management, and multi",
+      "date": "Thu, 20 Aug 2026 00:24:52 +0000",
+      "summary": "Last week I turned my data audit into a build step: a check that runs before anything else and fails the build when the database and any static copy of my travel site's legal-status data disagree. It ",
       "score": 5,
-      "titleZh": "如何解决 WhatsApp 频繁断线的问题？ 2026 故障排除和恢复指南"
-    },
-    {
-      "title": "I shipped a sourced question hub for The Sinking City 2 instead of another cloned wiki",
-      "link": "https://dev.to/_df88eb1337eb23b75c94ba/i-shipped-a-sourced-question-hub-for-the-sinking-city-2-instead-of-another-cloned-wiki-5fg3",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 19 Aug 2026 10:14:31 +0000",
-      "summary": "The Sinking City 2 launched on 18 August 2026. The searches I kept seeing were not \"give me a weapons dump.\" They were when does it release, what are the PC specs, which edition has Holloway Manor, is",
-      "score": 5,
-      "titleZh": "我为《沉没之城 2》提供了一个来源问题中心，而不是另一个克隆的 wiki"
-    },
-    {
-      "title": "5 AI Agent Features That Define 2026 (And 2 I'm Still Waiting For)",
-      "link": "https://dev.to/astraedus/5-ai-agent-features-that-define-2026-and-2-im-still-waiting-for-2bef",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 19 Aug 2026 10:12:42 +0000",
-      "summary": "The five features that define AI agents in 2026 are a shared tool standard (MCP), prompt caching, computer use, background subagents, and agent-to-agent messaging. None of them are the model itself. T",
-      "score": 5,
-      "titleZh": "定义 2026 年的 5 个 AI 代理功能（还有 2 个我仍在等待）"
-    },
-    {
-      "title": "Juhu escorts adult listings independent profiles on Republic Spot",
-      "link": "https://dev.to/republics009/juhu-escorts-adult-listings-independent-profiles-on-republic-spot-5cec",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 19 Aug 2026 10:11:57 +0000",
-      "summary": "Introduction Juhu is one of Mumbai’s most popular coastal areas, known for its beach, luxury hotels, and vibrant nightlife. In this lively locality, Juhu escorts offer discreet and high-quality compan",
-      "score": 5,
-      "titleZh": "Juhu 在 Republic Spot 上护送成人列表独立个人资料"
+      "titleZh": "前四个警报中的三个是问题造成的"
     }
   ]
 }
