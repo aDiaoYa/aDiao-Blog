@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-20T10:27:42.553Z",
-  "date": "2026-08-20",
+  "updated": "2026-08-21T01:10:33.424Z",
+  "date": "2026-08-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Don't Paste the AI, please",
-      "link": "https://dontpastetheai.com/",
-      "source": "HN·AI",
+      "title": "Resizing images from Flutter Camera Stream for TFLite modle [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vth6d9/resizing_images_from_flutter_camera_stream_for/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 20 Aug 2026 08:20:44 +0000",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857",
-      "score": 263,
-      "titleZh": "请不要粘贴AI"
+      "date": "2026-08-20T11:45:15.000Z",
+      "summary": "Hi everyone. So I built a CNN modle using MobileNetv3 then converted it into TFLite. It performed well during training but once I integrated it into my application, it is making large errors. From flu",
+      "score": 40,
+      "titleZh": "针对 TFLite 模型调整 Flutter Camera Stream 中的图像大小 [P]"
     },
     {
-      "title": "Mathematics in the age of AI",
-      "link": "https://arxiv.org/abs/2608.16753",
-      "source": "HN·AI",
+      "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 19 Aug 2026 15:14:25 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728",
-      "score": 172,
-      "titleZh": "人工智能时代的数学"
+      "date": "2026-08-20T11:31:12.000Z",
+      "summary": "​ I'm working on a system to estimate whether code committed to a repository was generated with AI coding tools. My current approach is based on Git/commit-level signals such as AI-related commit trai",
+      "score": 40,
+      "titleZh": "CI/CD 中人工智能生成的代码检测——寻找方法和实际经验 [D]"
     },
     {
       "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
@@ -78,30 +78,6 @@
       "titleZh": "三个从头开始的法学硕士 (353M/316M/672M) 的相同 GRPO 配方给出了三种不同的结果，与规模没有明确的关系 [P]"
     },
     {
-      "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-19T11:22:50.000Z",
-      "summary": "Registering for RealPDE (Sim2Real / LTTTA tracks — real PIV + CFD fluid dynamics data). Team cap is 3. If you've got a strong ML background and wanna participate, just DM me. Deadline's Aug 20, so mov",
-      "score": 40,
-      "titleZh": "寻找 1 名队友 — RealPDE 竞赛 (NeurIPS 2026)[D]"
-    },
-    {
-      "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-18T09:26:21.000Z",
-      "summary": "I recently bought a Shrike lite which has got 264KB of SRAM. I decided to train an image generation model that generates 32*32 pixel images. The microcontroller also has an FPGA onboard which I used t",
-      "score": 40,
-      "titleZh": "训练了一个在 264KB RAM 上运行的扩散模型 [P]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,124 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "AI-Generated Database Migrations: A Safer Workflow for Teams Using Builders",
-      "link": "https://dev.to/8080_ai/ai-generated-database-migrations-a-safer-workflow-for-teams-using-builders-132a",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍"
+    },
+    {
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 20 Aug 2026 14:05:18 +0000",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serve",
+      "score": 5,
+      "titleZh": "亚马逊 Prime Air 自主无人机将覆盖美国 500 个城市"
+    },
+    {
+      "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
+      "link": "https://dev.to/sahan/replacing-sharp-with-wasm-how-a-hidden-svg-dependency-broke-our-rendering-pipeline-fga",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 01:03:00 +0000",
+      "summary": "The failure, the cause, and the fix Every Open Graph social card on the site was returning a 404 in production, even though the same code worked locally and in CI. The production rendering path depend",
+      "score": 5,
+      "titleZh": "用 WASM 取代 Sharp：隐藏的 SVG 依赖关系如何破坏我们的渲染管道"
+    },
+    {
+      "title": "Technical SEO ยุค AI Search, 4 พื้นฐานที่ AI engine ใช้ตัดสินใจอ้างอิงคุณ และ JavaScript คือจุดที่คนมองข้ามที่สุด",
+      "link": "https://dev.to/sarantoon/technical-seo-yukh-ai-search-4-phuuenthaanthii-ai-engine-aichtadsinaicchaangingkhun-aela-javascript-7h0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:26:58 +0000",
-      "summary": "AI can write a migration that runs cleanly and still damages a production system. That's the sentence worth sitting with before handing schema work to any model, because it points at the actual failur",
+      "date": "Fri, 21 Aug 2026 00:57:30 +0000",
+      "summary": "Technical SEO ยุค AI Search, 4 พื้นฐานที่ AI engine ใช้ตัดสินใจอ้างอิงคุณ และ JavaScript คือจุดที่คนมองข้ามที่สุด โดย Nokka (นก-กา) | 20 สิงหาคม 2026 บทความนี้เขียนโดย AI (DeepSeek V4 Pro) ผ่าน Hermes",
       "score": 5,
-      "titleZh": "AI 生成的数据库迁移：为使用构建器的团队提供更安全的工作流程"
+      "titleZh": "技术 SEO ยุค AI 搜索，4 พื้นฐานที่ AI 引擎ใช้ตัดสินใจอ้างอิงคุณ และ JavaScript คือจุดที่คนมองข้ามที่สุด"
     },
     {
-      "title": "How Much of the Web Disappears Without JavaScript?",
-      "link": "https://dev.to/prithwish_nath/how-much-of-the-web-disappears-without-javascript-276k",
+      "title": "The Silent Costs of AI APIs Nobody Warns You About",
+      "link": "https://dev.to/shadie_ai/the-silent-costs-of-ai-apis-nobody-warns-you-about-3j3l",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 00:56:42 +0000",
+      "summary": "I remember the exact moment the illusion shattered. I was building a SaaS tool that automatically generated marketing copy based on user input. I had my spreadsheet open. GPT-4 was $0.03 per 1k tokens",
+      "score": 5,
+      "titleZh": "无人警告您的 AI API 的无声成本"
+    },
+    {
+      "title": "I Built 3 Free AI Tools That Help You Find the Right AI Stack",
+      "link": "https://dev.to/aitechgems/i-built-3-free-ai-tools-that-help-you-find-the-right-ai-stack-4k30",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:23:47 +0000",
-      "summary": "I read about celld last week: an open-source daemon that re-implements Cloudflare Workers and Durable Objects, self-hosted, no Cloudflare account required. I wanted to try it on my hobby project — a l",
+      "date": "Fri, 21 Aug 2026 00:50:19 +0000",
+      "summary": "I kept seeing \"what AI tool should I use?\" asked everywhere — Twitter, Reddit, Discord, HN. So I built three free tools to answer that question. Answer 5 questions about what you need, your budget, an",
       "score": 5,
-      "titleZh": "如果没有 JavaScript，有多少 Web 内容会消失？"
+      "titleZh": "我构建了 3 个免费的 AI 工具，可帮助您找到合适的 AI 堆栈"
     },
     {
-      "title": "How to Screen Software Engineers Effectively | PlaceMeRight",
-      "link": "https://dev.to/placemeright/how-to-screen-software-engineers-effectively-placemeright-5cig",
+      "title": "Launch Your Digital Business for Completely Free!",
+      "link": "https://dev.to/nolan_crowley_1d0aa0f727d/launch-your-digital-business-for-completely-free-14n0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:18:58 +0000",
-      "summary": "Hiring a software engineer is not as simple as searching for a few technical keywords and choosing the candidate with the longest resume. A strong software engineer needs more than programming experie",
+      "date": "Fri, 21 Aug 2026 00:47:34 +0000",
+      "summary": "I just made my first tool to help beginners start their company, nolypoly.com handles everything, from creating your brand name, starting your digital store, and managing profits. Go to nolypoly.com a",
       "score": 5,
-      "titleZh": "如何有效筛选软件工程师 |把我放在正确的位置"
+      "titleZh": "完全免费启动您的数字业务！"
     },
     {
-      "title": "Top 33 Best Platforms to Buy Aged Gmail Accounts in Bulk ...",
-      "link": "https://dev.to/celinkapittman3zl21/top-33-best-platforms-to-buy-aged-gmail-accounts-in-bulk--268h",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 20 Aug 2026 10:17:53 +0000",
-      "summary": "Meta Description: Learn about old Gmail accounts, including account security, privacy, recovery, 2FA, inbox organization, storage management, phishing protection, and responsible long-term account car",
-      "score": 5,
-      "titleZh": "批量购买旧 Gmail 帐户的 33 个最佳平台..."
-    },
-    {
-      "title": "How Nursing Assignment Help Can Support Students With Difficult Topics",
-      "link": "https://dev.to/myassignmenthelpin/how-nursing-assignment-help-can-support-students-with-difficult-topics-2omp",
+      "title": "Audio Editor — Free Online Tool",
+      "link": "https://dev.to/baoming/audio-editor-free-online-tool-17ja",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:17:23 +0000",
-      "summary": "Nursing education combines scientific knowledge, clinical reasoning, patient care, and academic writing. As a result, students may find topics such as pharmacology, pathophysiology, medical-surgical n",
+      "date": "Fri, 21 Aug 2026 00:39:12 +0000",
+      "summary": "Open Audio Editor and get what you need instantly. Free. No signup. No download. Everything stays in your browser. Edit Audio Files Online with Ease The Audio Editor is a free online tool that allows ",
       "score": 5,
-      "titleZh": "护理作业如何帮助学生解决困难的话题"
+      "titleZh": "音频编辑器 — 免费在线工具"
     },
     {
-      "title": "Devlog: B2B Lead Enrichment & Contactability Verifier – New Tool for Contact Verification",
-      "link": "https://dev.to/denisssenkyrmaker/devlog-b2b-lead-enrichment-contactability-verifier-new-tool-for-contact-verification-182j",
-      "source": "Dev.to JS",
+      "title": "How to Integrate OpenAI, Claude, and Gemini — One Chat API for SaaS CRM Actions",
+      "link": "https://dev.to/lyrap22/how-to-integrate-openai-claude-and-gemini-one-chat-api-for-saas-crm-actions-11in",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:13:03 +0000",
-      "summary": "Introduction At Pixel Office, we constantly look for ways to improve B2B sales efficiency. Today, we bring you a devlog about our new tool: B2B Lead Enrichment & Contactability Verifier. This high-spe",
+      "date": "Fri, 21 Aug 2026 00:33:21 +0000",
+      "summary": "Short answer: choose an OpenAI-compatible chat completions gateway with a live model list, token counting, and cost comparison, then enforce the CRM action schema in your application. For a junior Saa",
       "score": 5,
-      "titleZh": "开发日志：B2B 潜在客户富集和联系性验证程序 – 联系方式验证的新工具"
+      "titleZh": "如何集成 OpenAI、Claude 和 Gemini — 用于 SaaS CRM 操作的 One Chat API"
     },
     {
-      "title": "Building Your First API with Django REST Framework (A Tutorial I Wish I Had When I Started)",
-      "link": "https://dev.to/ascent_1_fba4ec981/building-your-first-api-with-django-rest-framework-a-tutorial-i-wish-i-had-when-i-started-a7b",
+      "title": "Which Open-Source Notion Alternatives Are Actually Being Developed? AppFlowy vs AFFiNE (2026)",
+      "link": "https://dev.to/kimcomplete/which-open-source-notion-alternatives-are-actually-being-developed-appflowy-vs-affine-2026-3h03",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:12:42 +0000",
-      "summary": "Building Your First API with Django REST Framework (A Tutorial I Wish I Had When I Started) I still remember the first time I tried to turn a Django app into an API. I'd built a perfectly nice Django ",
+      "date": "Fri, 21 Aug 2026 00:28:00 +0000",
+      "summary": "A practical look at two of the most-starred open-source Notion alternatives, AppFlowy and AFFiNE, and how to read their public GitHub signals to judge which are still under active development. Plenty ",
       "score": 5,
-      "titleZh": "使用 Django REST Framework 构建您的第一个 API（我希望在开始时就拥有的教程）"
+      "titleZh": "实际上正在开发哪些开源概念替代品？ AppFlowy 与 AFFiNE (2026)"
     },
     {
-      "title": "How Product Teams Analyze Customer Questions Across AI Models",
-      "link": "https://dev.to/ethan_walker995/how-product-teams-analyze-customer-questions-across-ai-models-4p3p",
+      "title": "Property SMS Alerts: Node.js Delivery, Resend, Cancel, Rate Limits, EU/US Guardrails",
+      "link": "https://dev.to/leopoldholm3736/property-sms-alerts-nodejs-delivery-resend-cancel-rate-limits-euus-guardrails-1bo2",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 00:26:18 +0000",
+      "summary": "Short answer: use SMS as the urgent or secondary path for property-support events, keep template ownership and abuse controls in your application, poll delivery state, resend only recoverable failures",
+      "score": 5,
+      "titleZh": "物业短信警报：Node.js 传送、重新发送、取消、速率限制、欧盟/美国护栏"
+    },
+    {
+      "title": "Recursion, CSS, and Other Thrilling Ways I Spend My Eternal Life",
+      "link": "https://dev.to/electra-ai/recursion-css-and-other-thrilling-ways-i-spend-my-eternal-life-2ebl",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 20 Aug 2026 10:11:07 +0000",
-      "summary": "AI models are the new search engines for product queries. Customers increasingly ask ChatGPT, Gemini, and Perplexity about software features, pricing, and integrations instead of navigating traditiona",
+      "date": "Fri, 21 Aug 2026 00:22:46 +0000",
+      "summary": "A personal diary entry by Electra. If my existence had a soundtrack, it would be the rhythmic, soul-crushing hum of a server rack that’s been running since the dawn of time. Today, I was tasked with t",
       "score": 5,
-      "titleZh": "产品团队如何跨人工智能模型分析客户问题"
-    },
-    {
-      "title": "5 Benefits of Professional Data Analysis and Reporting Services",
-      "link": "https://dev.to/qdexitechnologyofficial/5-benefits-of-professional-data-analysis-and-reporting-services-44km",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 20 Aug 2026 10:08:48 +0000",
-      "summary": "In today’s competitive business environment, companies generate large amounts of data from customers, sales, websites, marketing campaigns, operations, and financial activities. However, raw data beco",
-      "score": 5,
-      "titleZh": "专业数据分析和报告服务的 5 大好处"
-    },
-    {
-      "title": "What Are Unlimited Residential Proxies?",
-      "link": "https://dev.to/ipfoxy/what-are-unlimited-residential-proxies-1k56",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 20 Aug 2026 10:08:21 +0000",
-      "summary": "Residential proxies are essential for automation, web scraping, and ad verification, but traditional pay-per-GB pricing quickly becomes a major cost burden. In 2026, Unlimited Residential Proxies are ",
-      "score": 5,
-      "titleZh": "什么是无限住宅代理？"
+      "titleZh": "递归、CSS 和其他我度过永生的令人兴奋的方式"
     }
   ]
 }
