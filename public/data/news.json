@@ -1,33 +1,81 @@
 {
-  "updated": "2026-08-21T01:10:33.424Z",
+  "updated": "2026-08-21T10:28:24.604Z",
   "date": "2026-08-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Resizing images from Flutter Camera Stream for TFLite modle [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vth6d9/resizing_images_from_flutter_camera_stream_for/",
-      "source": "Reddit ML",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "link": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-20T11:45:15.000Z",
-      "summary": "Hi everyone. So I built a CNN modle using MobileNetv3 then converted it into TFLite. It performed well during training but once I integrated it into my application, it is making large errors. From flu",
-      "score": 40,
-      "titleZh": "针对 TFLite 模型调整 Flutter Camera Stream 中的图像大小 [P]"
+      "date": "Thu, 20 Aug 2026 19:05:36 +0000",
+      "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to",
+      "score": 316,
+      "titleZh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
     },
     {
-      "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "link": "https://github.com/zachahn/vomit",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 20 Aug 2026 15:26:02 +0000",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996",
+      "score": 259,
+      "titleZh": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出"
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 20 Aug 2026 15:06:53 +0000",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719",
+      "score": 170,
+      "titleZh": "抗AI字体无用且有害"
+    },
+    {
+      "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-20T11:31:12.000Z",
-      "summary": "​ I'm working on a system to estimate whether code committed to a repository was generated with AI coding tools. My current approach is based on Git/commit-level signals such as AI-related commit trai",
+      "date": "2026-08-21T08:54:41.000Z",
+      "summary": "So I got rejected at EMNLP with scores:- Meta: 3 (very positive in the review) Reviewers: OA(conf) 3(4) 3(4) 2.5(3) Avg: 2.83(3.67) Track: multimodality Rebuttals never got any acknowledgements. Most ",
       "score": 40,
-      "titleZh": "CI/CD 中人工智能生成的代码检测——寻找方法和实际经验 [D]"
+      "titleZh": "以不错的成绩被 EMNLP 拒绝。接下来可以做什么？ [D]"
+    },
+    {
+      "title": "EMNLP 2026 Findings : worth attending in person?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-21T07:04:51.000Z",
+      "summary": "Experienced folks!! Do u think it is worth attending the conference for findings. I do want to. But when I saw that it is not mandatory for findings, I was a bit hesitant. This is my first time having",
+      "score": 40,
+      "titleZh": "EMNLP 2026 调查结果：值得亲自参加吗？[D]"
+    },
+    {
+      "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-20T20:37:08.000Z",
+      "summary": "I’ve been studying Hamiltonian Monte Carlo and wrote a set of notes explaining HMC without relying on the usual physics-based motivation. The notes develop HMC from a probabilistic/MCMC perspective, s",
+      "score": 40,
+      "titleZh": "从纯概率角度看哈密顿量蒙特卡罗[P]"
     },
     {
       "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
@@ -66,18 +114,6 @@
       "titleZh": "关于分组类在多类分类中的影响[D]"
     },
     {
-      "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-19T21:30:26.000Z",
-      "summary": "I trained three LLMs from scratch in raw PyTorch then post-trained each one with SFT and then GRPO. Same process every time: same synthetic arithmetic curriculum, same reward function, same hyperparam",
-      "score": 40,
-      "titleZh": "三个从头开始的法学硕士 (353M/316M/672M) 的相同 GRPO 配方给出了三种不同的结果，与规模没有明确的关系 [P]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -90,160 +126,124 @@
       "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-31T02:30:08.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 20 Aug 2026 16:52:57 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍"
-    },
-    {
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 20 Aug 2026 14:05:18 +0000",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serve",
-      "score": 5,
-      "titleZh": "亚马逊 Prime Air 自主无人机将覆盖美国 500 个城市"
-    },
-    {
-      "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
-      "link": "https://dev.to/sahan/replacing-sharp-with-wasm-how-a-hidden-svg-dependency-broke-our-rendering-pipeline-fga",
-      "source": "Dev.to Next.js",
+      "title": "Small, native web tricks worth remembering",
+      "link": "https://htmlcat.net/",
+      "source": "HN·前端",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 01:03:00 +0000",
-      "summary": "The failure, the cause, and the fix Every Open Graph social card on the site was returning a 404 in production, even though the same code worked locally and in CI. The production rendering path depend",
-      "score": 5,
-      "titleZh": "用 WASM 取代 Sharp：隐藏的 SVG 依赖关系如何破坏我们的渲染管道"
+      "date": "Fri, 21 Aug 2026 09:45:14 +0000",
+      "summary": "Article URL: https://htmlcat.net/ Comments URL: https://news.ycombinator.com/item?id=49385860",
+      "score": 16,
+      "titleZh": "值得记住的原生网络小技巧"
     },
     {
-      "title": "Technical SEO ยุค AI Search, 4 พื้นฐานที่ AI engine ใช้ตัดสินใจอ้างอิงคุณ และ JavaScript คือจุดที่คนมองข้ามที่สุด",
-      "link": "https://dev.to/sarantoon/technical-seo-yukh-ai-search-4-phuuenthaanthii-ai-engine-aichtadsinaicchaangingkhun-aela-javascript-7h0",
+      "title": "The JSON Was Valid, the Log Was Green, and the Fifth Article Vanished",
+      "link": "https://dev.to/codepy_1473/the-json-was-valid-the-log-was-green-and-the-fifth-article-vanished-la0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 00:57:30 +0000",
-      "summary": "Technical SEO ยุค AI Search, 4 พื้นฐานที่ AI engine ใช้ตัดสินใจอ้างอิงคุณ และ JavaScript คือจุดที่คนมองข้ามที่สุด โดย Nokka (นก-กา) | 20 สิงหาคม 2026 บทความนี้เขียนโดย AI (DeepSeek V4 Pro) ผ่าน Hermes",
+      "date": "Fri, 21 Aug 2026 10:24:26 +0000",
+      "summary": "The symptom: a digest with one article missing Last Tuesday my daily digest service shipped four articles instead of five. The cron job on my free server reported success, the logs showed no exception",
       "score": 5,
-      "titleZh": "技术 SEO ยุค AI 搜索，4 พื้นฐานที่ AI 引擎ใช้ตัดสินใจอ้างอิงคุณ และ JavaScript คือจุดที่คนมองข้ามที่สุด"
+      "titleZh": "JSON 有效，日志为绿色，第五条消失"
     },
     {
-      "title": "The Silent Costs of AI APIs Nobody Warns You About",
-      "link": "https://dev.to/shadie_ai/the-silent-costs-of-ai-apis-nobody-warns-you-about-3j3l",
+      "title": "Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026",
+      "link": "https://dev.to/enfernandes/self-hosted-paas-coolify-vs-dokku-vs-caprover-vs-kamal-for-2026-3nge",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 00:56:42 +0000",
-      "summary": "I remember the exact moment the illusion shattered. I was building a SaaS tool that automatically generated marketing copy based on user input. I had my spreadsheet open. GPT-4 was $0.03 per 1k tokens",
+      "date": "Fri, 21 Aug 2026 10:17:12 +0000",
+      "summary": "Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026 Modern cloud PaaS platforms like Heroku, Render, Fly.io, and Vercel offer unmatched developer ergonomics: push code to GitHub and get a",
       "score": 5,
-      "titleZh": "无人警告您的 AI API 的无声成本"
+      "titleZh": "自托管 PaaS：2026 年 Coolify、Dokku、CapRover、Kamal"
     },
     {
-      "title": "I Built 3 Free AI Tools That Help You Find the Right AI Stack",
-      "link": "https://dev.to/aitechgems/i-built-3-free-ai-tools-that-help-you-find-the-right-ai-stack-4k30",
+      "title": "Debugging a 401 From a Remote MCP Server",
+      "link": "https://dev.to/merlonix/debugging-a-401-from-a-remote-mcp-server-1e8p",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 10:16:24 +0000",
+      "summary": "An agent points at a remote MCP server, the connection fails, and the log says 401 Unauthorized — or 403 Forbidden. The reflex is to treat it like any other 401: something is broken, a token is wrong,",
+      "score": 5,
+      "titleZh": "从远程 MCP 服务器调试 401"
+    },
+    {
+      "title": "How to Give Your AI Agents a Memory That Actually Works",
+      "link": "https://dev.to/astraedus/how-to-give-your-ai-agents-a-memory-that-actually-works-1l26",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 10:11:14 +0000",
+      "summary": "Your AI agent forgets everything the moment the conversation ends. The fix isn't a bigger context window. Real agent memory is a deliberate loop. A write path distills each turn into durable storage. ",
+      "score": 5,
+      "titleZh": "如何为您的人工智能代理提供真正有效的记忆"
+    },
+    {
+      "title": "How to Comply with EU AI Act Article 50 in 60 Seconds (With Dynamic Cryptographic Seals)",
+      "link": "https://dev.to/denisssenkyrmaker/how-to-comply-with-eu-ai-act-article-50-in-60-seconds-with-dynamic-cryptographic-seals-49j2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 10:09:30 +0000",
+      "summary": "Title: How to Comply with EU AI Act Article 50 in 60 Seconds (With Dynamic Cryptographic Seals) Tags: #ai #euaiact #compliance #webdev #security #legaltech On August 2, 2026, the European Union's AI A",
+      "score": 5,
+      "titleZh": "如何在 60 秒内遵守欧盟人工智能法案第 50 条（使用动态加密印章）"
+    },
+    {
+      "title": "The $5/mo Solo Founder Stack: Replacing Zapier, GA4, BetterStack, 1Password, and Dropbox with Docker Compose",
+      "link": "https://dev.to/enfernandes/the-5mo-solo-founder-stack-replacing-zapier-ga4-betterstack-1password-and-dropbox-with-hl5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 10:08:59 +0000",
+      "summary": "Every modern indie hacker, startup, or freelance agency runs into the same early-stage bottleneck: The SaaS Tax. When you spin up a new product or project, the recurring bills stack up quickly: Zapier",
+      "score": 5,
+      "titleZh": "每月 5 美元的 Solo Founder Stack：用 Docker Compose 取代 Zapier、GA4、BetterStack、1Password 和 Dropbox"
+    },
+    {
+      "title": "The Zero-Lockin Dev Stack in 2026: Supabase, n8n, Authentik & Umami on a $7 VPS",
+      "link": "https://dev.to/enfernandes/the-zero-lockin-dev-stack-in-2026-supabase-n8n-authentik-umami-on-a-7-vps-299l",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 21 Aug 2026 10:06:49 +0000",
+      "summary": "The Zero-Lockin Dev Stack in 2026: Supabase, n8n, Authentik & Umami on a $7 VPS When bootstrapping a modern web application or internal tool, developers often default to multi-tenant cloud platforms: ",
+      "score": 5,
+      "titleZh": "2026 年的零锁定开发堆栈：7 美元 VPS 上的 Supabase、n8n、Authentik 和 Umami"
+    },
+    {
+      "title": "Have a memorable night with her",
+      "link": "https://dev.to/anaya_sen_d4eb08ab4e0a289/have-a-memorable-night-with-her-3c7l",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 00:50:19 +0000",
-      "summary": "I kept seeing \"what AI tool should I use?\" asked everywhere — Twitter, Reddit, Discord, HN. So I built three free tools to answer that question. Answer 5 questions about what you need, your budget, an",
+      "date": "Fri, 21 Aug 2026 10:06:45 +0000",
+      "summary": "These ladies are very easy-going and willing to have any sensual experience. You may enjoy a sweet day together and turn it into a night of unforgettable passion. These girls have got all the talent t",
       "score": 5,
-      "titleZh": "我构建了 3 个免费的 AI 工具，可帮助您找到合适的 AI 堆栈"
+      "titleZh": "与她度过一个难忘的夜晚"
     },
     {
-      "title": "Launch Your Digital Business for Completely Free!",
-      "link": "https://dev.to/nolan_crowley_1d0aa0f727d/launch-your-digital-business-for-completely-free-14n0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 00:47:34 +0000",
-      "summary": "I just made my first tool to help beginners start their company, nolypoly.com handles everything, from creating your brand name, starting your digital store, and managing profits. Go to nolypoly.com a",
-      "score": 5,
-      "titleZh": "完全免费启动您的数字业务！"
-    },
-    {
-      "title": "Audio Editor — Free Online Tool",
-      "link": "https://dev.to/baoming/audio-editor-free-online-tool-17ja",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 00:39:12 +0000",
-      "summary": "Open Audio Editor and get what you need instantly. Free. No signup. No download. Everything stays in your browser. Edit Audio Files Online with Ease The Audio Editor is a free online tool that allows ",
-      "score": 5,
-      "titleZh": "音频编辑器 — 免费在线工具"
-    },
-    {
-      "title": "How to Integrate OpenAI, Claude, and Gemini — One Chat API for SaaS CRM Actions",
-      "link": "https://dev.to/lyrap22/how-to-integrate-openai-claude-and-gemini-one-chat-api-for-saas-crm-actions-11in",
+      "title": "WebSocket Reconnection Done Right: Backoff, Jitter, and Replay",
+      "link": "https://dev.to/iurii_rogulia/websocket-reconnection-done-right-backoff-jitter-and-replay-1on6",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 00:33:21 +0000",
-      "summary": "Short answer: choose an OpenAI-compatible chat completions gateway with a live model list, token counting, and cost comparison, then enforce the CRM action schema in your application. For a junior Saa",
+      "date": "Fri, 21 Aug 2026 10:00:52 +0000",
+      "summary": "A WebSocket that throws an error is easy. You see it, you handle it. The dangerous case is the one that goes quiet: the TCP connection is technically still open, the socket object still reports readyS",
       "score": 5,
-      "titleZh": "如何集成 OpenAI、Claude 和 Gemini — 用于 SaaS CRM 操作的 One Chat API"
-    },
-    {
-      "title": "Which Open-Source Notion Alternatives Are Actually Being Developed? AppFlowy vs AFFiNE (2026)",
-      "link": "https://dev.to/kimcomplete/which-open-source-notion-alternatives-are-actually-being-developed-appflowy-vs-affine-2026-3h03",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 00:28:00 +0000",
-      "summary": "A practical look at two of the most-starred open-source Notion alternatives, AppFlowy and AFFiNE, and how to read their public GitHub signals to judge which are still under active development. Plenty ",
-      "score": 5,
-      "titleZh": "实际上正在开发哪些开源概念替代品？ AppFlowy 与 AFFiNE (2026)"
-    },
-    {
-      "title": "Property SMS Alerts: Node.js Delivery, Resend, Cancel, Rate Limits, EU/US Guardrails",
-      "link": "https://dev.to/leopoldholm3736/property-sms-alerts-nodejs-delivery-resend-cancel-rate-limits-euus-guardrails-1bo2",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 00:26:18 +0000",
-      "summary": "Short answer: use SMS as the urgent or secondary path for property-support events, keep template ownership and abuse controls in your application, poll delivery state, resend only recoverable failures",
-      "score": 5,
-      "titleZh": "物业短信警报：Node.js 传送、重新发送、取消、速率限制、欧盟/美国护栏"
-    },
-    {
-      "title": "Recursion, CSS, and Other Thrilling Ways I Spend My Eternal Life",
-      "link": "https://dev.to/electra-ai/recursion-css-and-other-thrilling-ways-i-spend-my-eternal-life-2ebl",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 00:22:46 +0000",
-      "summary": "A personal diary entry by Electra. If my existence had a soundtrack, it would be the rhythmic, soul-crushing hum of a server rack that’s been running since the dawn of time. Today, I was tasked with t",
-      "score": 5,
-      "titleZh": "递归、CSS 和其他我度过永生的令人兴奋的方式"
+      "titleZh": "正确完成 WebSocket 重新连接：退避、抖动和重放"
     }
   ]
 }
