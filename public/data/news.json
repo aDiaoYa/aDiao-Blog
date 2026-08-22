@@ -1,117 +1,117 @@
 {
-  "updated": "2026-08-21T10:28:24.604Z",
-  "date": "2026-08-21",
+  "updated": "2026-08-22T10:20:52.727Z",
+  "date": "2026-08-22",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "link": "https://www.danielvaughn.dev/posts/huzzah/",
+      "title": "I'm becoming AI-blind",
+      "link": "https://cymerys.com/w/im-becoming-ai-blind",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 20 Aug 2026 19:05:36 +0000",
-      "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to",
-      "score": 316,
-      "titleZh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
+      "date": "Fri, 21 Aug 2026 11:48:05 +0000",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699",
+      "score": 374,
+      "titleZh": "我变得人工智能盲了"
     },
     {
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "link": "https://github.com/zachahn/vomit",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 20 Aug 2026 15:26:02 +0000",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996",
-      "score": 259,
-      "titleZh": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出"
+      "date": "Wed, 19 Aug 2026 06:13:31 +0000",
+      "summary": "https://archive.is/w1eng https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618 Comments URL: https://news.ycombinator.com/item?id=49357530",
+      "score": 309,
+      "titleZh": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究"
     },
     {
-      "title": "Anti-AI fonts are useless and harmful",
-      "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 20 Aug 2026 15:06:53 +0000",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719",
-      "score": 170,
-      "titleZh": "抗AI字体无用且有害"
+      "date": "Fri, 21 Aug 2026 14:31:52 +0000",
+      "summary": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752",
+      "score": 275,
+      "titleZh": "克劳德：让克劳德停止像 BuzzFeed 文章一样说话"
     },
     {
-      "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
+      "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-21T08:54:41.000Z",
-      "summary": "So I got rejected at EMNLP with scores:- Meta: 3 (very positive in the review) Reviewers: OA(conf) 3(4) 3(4) 2.5(3) Avg: 2.83(3.67) Track: multimodality Rebuttals never got any acknowledgements. Most ",
+      "date": "2026-08-22T09:37:05.000Z",
+      "summary": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables. However my experiment revealed that my understanding",
       "score": 40,
-      "titleZh": "以不错的成绩被 EMNLP 拒绝。接下来可以做什么？ [D]"
+      "titleZh": "为什么 lightgbm 不适合我的玩具示例，而 catboost 却适合？ （2 阶相互作用）[D]"
     },
     {
-      "title": "EMNLP 2026 Findings : worth attending in person?[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
+      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-21T07:04:51.000Z",
-      "summary": "Experienced folks!! Do u think it is worth attending the conference for findings. I do want to. But when I saw that it is not mandatory for findings, I was a bit hesitant. This is my first time having",
+      "date": "2026-08-22T04:39:18.000Z",
+      "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb. It’s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on",
       "score": 40,
-      "titleZh": "EMNLP 2026 调查结果：值得亲自参加吗？[D]"
+      "titleZh": "我从头开始开发了自己的量化 LLM，在 30B 代币上进行了训练，部署在 60 MB [R]"
     },
     {
-      "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
+      "title": "Research internship at MSR [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-20T20:37:08.000Z",
-      "summary": "I’ve been studying Hamiltonian Monte Carlo and wrote a set of notes explaining HMC without relying on the usual physics-based motivation. The notes develop HMC from a probabilistic/MCMC perspective, s",
+      "date": "2026-08-21T16:47:52.000Z",
+      "summary": "So got selected for a research internship at MSR, how good is the quality of work and how useful is it to move to Applied sciences or research sciences position at other FAANG companies after the inte",
       "score": 40,
-      "titleZh": "从纯概率角度看哈密顿量蒙特卡罗[P]"
+      "titleZh": "MSR研究实习[D]"
     },
     {
-      "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/",
+      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-20T10:20:47.000Z",
-      "summary": "Worked some time ago on one of the ad teams at Yahoo, and this grew out of a question I kept returning to while there are there \"simple\" models that are both simple, scalable, interpretable, and contr",
+      "date": "2026-08-21T16:38:15.000Z",
+      "summary": "LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a \"concise output style\" where Claude keep",
       "score": 40,
-      "titleZh": "谱神经元 ​​- 用于可扩展和可解释模型的 ML 原语 [R]"
+      "titleZh": "告诉法学硕士“要简洁”真的能省钱吗？我们对 9 个型号进行了测量。压缩输出可以节省金钱并保持准确性，但压缩输入提示却不能。 [R]"
     },
     {
-      "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
+      "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-20T08:37:17.000Z",
-      "summary": "Discussion thread for EMNLP 2026 notifications/results which should be released today. Wishing everybody to be in Budapest. submitted by /u/sweetsalt10 [link] [comments]",
+      "date": "2026-08-21T16:37:16.000Z",
+      "summary": "I have built an on-prem GPU cluster, 8 nvidia 16GB GPU's and 256GB CPU RAM, 50TB HDD and several TBs of SSDs. I have used it, and currently use it, for ML/AI research. But that research is not constan",
       "score": 40,
-      "titleZh": "EMNLP 2026 通知/结果的讨论主题 [D]"
+      "titleZh": "我有一个中型 GPU 集群，正在考虑提供免费计算 [D]"
     },
     {
-      "title": "About the impact of grouping classes in multiclass classification [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vtctaz/about_the_impact_of_grouping_classes_in/",
+      "title": "EMNLP26 Cost [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-20T07:42:20.000Z",
-      "summary": "A premise: I hope this question is \"worth\" of this subreddit, I did a decent amount of research before posting, I thought it was potentially interesting enough for it, but possibly not basic enough fo",
+      "date": "2026-08-21T16:24:00.000Z",
+      "summary": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! ht",
       "score": 40,
-      "titleZh": "关于分组类在多类分类中的影响[D]"
+      "titleZh": "EMNLP26 成本 [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -126,124 +126,124 @@
       "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "Small, native web tricks worth remembering",
-      "link": "https://htmlcat.net/",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 09:45:14 +0000",
-      "summary": "Article URL: https://htmlcat.net/ Comments URL: https://news.ycombinator.com/item?id=49385860",
-      "score": 16,
-      "titleZh": "值得记住的原生网络小技巧"
-    },
-    {
-      "title": "The JSON Was Valid, the Log Was Green, and the Fifth Article Vanished",
-      "link": "https://dev.to/codepy_1473/the-json-was-valid-the-log-was-green-and-the-fifth-article-vanished-la0",
+      "title": "Buy Old Yahoo Accounts – 100% Aged & PVA: A Safe and Responsible Guide",
+      "link": "https://dev.to/smmusapva196/buy-old-yahoo-accounts-100-aged-pva-a-safe-and-responsible-guide-a79",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:24:26 +0000",
-      "summary": "The symptom: a digest with one article missing Last Tuesday my daily digest service shipped four articles instead of five. The cron job on my free server reported success, the logs showed no exception",
+      "date": "Sat, 22 Aug 2026 10:18:06 +0000",
+      "summary": "Buy Old Yahoo Accounts – 100% Aged & Smmusapva@gmail.com An email address that has existed for a long time. A separate mailbox for a particular project. An account for organizing subscriptions. An est",
       "score": 5,
-      "titleZh": "JSON 有效，日志为绿色，第五条消失"
+      "titleZh": "购买旧雅虎帐户 – 100% 老帐户和 PVA：安全且负责任的指南"
     },
     {
-      "title": "Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026",
-      "link": "https://dev.to/enfernandes/self-hosted-paas-coolify-vs-dokku-vs-caprover-vs-kamal-for-2026-3nge",
+      "title": "The Trusted Yelp 'Elite' Reviewers Who Sell Their Reviews ...",
+      "link": "https://dev.to/cathiebarr/the-trusted-yelp-elite-reviewers-who-sell-their-reviews--3fa5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:17:12 +0000",
-      "summary": "Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026 Modern cloud PaaS platforms like Heroku, Render, Fly.io, and Vercel offer unmatched developer ergonomics: push code to GitHub and get a",
+      "date": "Sat, 22 Aug 2026 10:17:22 +0000",
+      "summary": "Buy Elite Yelp Reviews 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com Buy Elite Yelp Reviews. Yelp ",
       "score": 5,
-      "titleZh": "自托管 PaaS：2026 年 Coolify、Dokku、CapRover、Kamal"
+      "titleZh": "值得信赖的 Yelp“精英”评论者出售他们的评论......"
     },
     {
-      "title": "Debugging a 401 From a Remote MCP Server",
-      "link": "https://dev.to/merlonix/debugging-a-401-from-a-remote-mcp-server-1e8p",
+      "title": "Top 3 Places to Buy Elite yelp reviews positive In today's ...",
+      "link": "https://dev.to/cathiebarr/top-3-places-to-buy-elite-yelp-reviews-positive-in-todays--1ceg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:16:24 +0000",
-      "summary": "An agent points at a remote MCP server, the connection fails, and the log says 401 Unauthorized — or 403 Forbidden. The reflex is to treat it like any other 401: something is broken, a token is wrong,",
+      "date": "Sat, 22 Aug 2026 10:17:14 +0000",
+      "summary": "Buy Elite Yelp Reviews 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com Buy Elite Yelp Reviews. Yelp ",
       "score": 5,
-      "titleZh": "从远程 MCP 服务器调试 401"
+      "titleZh": "购买精英的前 3 个地方 yelp 好评在今天......"
     },
     {
-      "title": "How to Give Your AI Agents a Memory That Actually Works",
-      "link": "https://dev.to/astraedus/how-to-give-your-ai-agents-a-memory-that-actually-works-1l26",
+      "title": "Top 3 Sites to Buy Old Gmail Accounts In Complete Guide",
+      "link": "https://dev.to/smmusapva196/top-3-sites-to-buy-old-gmail-accounts-in-complete-guide-2hmc",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:11:14 +0000",
-      "summary": "Your AI agent forgets everything the moment the conversation ends. The fix isn't a bigger context window. Real agent memory is a deliberate loop. A write path distills each turn into durable storage. ",
+      "date": "Sat, 22 Aug 2026 10:14:03 +0000",
+      "summary": "Top 3 Sites to Buy Old Gmail Accounts In Smmusapva@gmail.com Problems With Actual Ownership Just because someone gives you an account does not guarantee that it has become completely yours. If the ori",
       "score": 5,
-      "titleZh": "如何为您的人工智能代理提供真正有效的记忆"
+      "titleZh": "完整指南中购买旧 Gmail 帐户的前 3 个网站"
     },
     {
-      "title": "How to Comply with EU AI Act Article 50 in 60 Seconds (With Dynamic Cryptographic Seals)",
-      "link": "https://dev.to/denisssenkyrmaker/how-to-comply-with-eu-ai-act-article-50-in-60-seconds-with-dynamic-cryptographic-seals-49j2",
+      "title": "The Same Stream Leaks 5.6 Responses Per Thousand to a Reader and 212 to a Machine, From Reading Speed Alone",
+      "link": "https://dev.to/dev48v/the-same-stream-leaks-56-responses-per-thousand-to-a-reader-and-212-to-a-machine-from-reading-aic",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:09:30 +0000",
-      "summary": "Title: How to Comply with EU AI Act Article 50 in 60 Seconds (With Dynamic Cryptographic Seals) Tags: #ai #euaiact #compliance #webdev #security #legaltech On August 2, 2026, the European Union's AI A",
+      "date": "Sat, 22 Aug 2026 10:13:56 +0000",
+      "summary": "A token you have shown is a token you have spent. Every guard worth running needs lookahead - it cannot rule on a claim until the claim closes - so streaming is a race between two cursors crawling lef",
       "score": 5,
-      "titleZh": "如何在 60 秒内遵守欧盟人工智能法案第 50 条（使用动态加密印章）"
+      "titleZh": "仅从阅读速度来看，同一流向读者泄漏了每千人 5.6 个响应，向机器泄漏了 212 个响应"
     },
     {
-      "title": "The $5/mo Solo Founder Stack: Replacing Zapier, GA4, BetterStack, 1Password, and Dropbox with Docker Compose",
-      "link": "https://dev.to/enfernandes/the-5mo-solo-founder-stack-replacing-zapier-ga4-betterstack-1password-and-dropbox-with-hl5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 10:08:59 +0000",
-      "summary": "Every modern indie hacker, startup, or freelance agency runs into the same early-stage bottleneck: The SaaS Tax. When you spin up a new product or project, the recurring bills stack up quickly: Zapier",
-      "score": 5,
-      "titleZh": "每月 5 美元的 Solo Founder Stack：用 Docker Compose 取代 Zapier、GA4、BetterStack、1Password 和 Dropbox"
-    },
-    {
-      "title": "The Zero-Lockin Dev Stack in 2026: Supabase, n8n, Authentik & Umami on a $7 VPS",
-      "link": "https://dev.to/enfernandes/the-zero-lockin-dev-stack-in-2026-supabase-n8n-authentik-umami-on-a-7-vps-299l",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 21 Aug 2026 10:06:49 +0000",
-      "summary": "The Zero-Lockin Dev Stack in 2026: Supabase, n8n, Authentik & Umami on a $7 VPS When bootstrapping a modern web application or internal tool, developers often default to multi-tenant cloud platforms: ",
-      "score": 5,
-      "titleZh": "2026 年的零锁定开发堆栈：7 美元 VPS 上的 Supabase、n8n、Authentik 和 Umami"
-    },
-    {
-      "title": "Have a memorable night with her",
-      "link": "https://dev.to/anaya_sen_d4eb08ab4e0a289/have-a-memorable-night-with-her-3c7l",
+      "title": "The BYxxx-Just-Filters Model Is Exactly Right on All 200 DAILY Rules and Wrong on 276 of 300 YEARLY Ones",
+      "link": "https://dev.to/dev48v/the-byxxx-just-filters-model-is-exactly-right-on-all-200-daily-rules-and-wrong-on-276-of-300-yearly-1bhl",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:06:45 +0000",
-      "summary": "These ladies are very easy-going and willing to have any sensual experience. You may enjoy a sweet day together and turn it into a night of unforgettable passion. These girls have got all the talent t",
+      "date": "Sat, 22 Aug 2026 10:11:53 +0000",
+      "summary": "RFC 5545 §3.3.10 describes what a recurrence rule does with a 9×7 table containing two words, Expand and Limit, and the cell you land in is chosen by FREQ rather than by the part you wrote. This engin",
       "score": 5,
-      "titleZh": "与她度过一个难忘的夜晚"
+      "titleZh": "BYxxx-Just-Filters 模型在所有 200 条每日规则上完全正确，但在 300 条年度规则中的 276 条上错误"
     },
     {
-      "title": "WebSocket Reconnection Done Right: Backoff, Jitter, and Replay",
-      "link": "https://dev.to/iurii_rogulia/websocket-reconnection-done-right-backoff-jitter-and-replay-1on6",
+      "title": "Six of Seven Diff Implementations Pass the Only Test Anyone Writes, Including One That Retypes the File at 10.86x",
+      "link": "https://dev.to/dev48v/six-of-seven-diff-implementations-pass-the-only-test-anyone-writes-including-one-that-retypes-the-ehf",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 22 Aug 2026 10:10:30 +0000",
+      "summary": "A diff is not a comparison. Lay the old file along one axis and the new file along the other: moving right deletes a line, moving down inserts one, and wherever the lines match you move diagonally for",
+      "score": 5,
+      "titleZh": "七种差异实现中的六种通过了任何人编写的唯一测试，其中包括以 10.86 倍的速度重新输入文件的测试"
+    },
+    {
+      "title": "5 Best Places To Buy Google Reviews Online In 2026 (1- ...",
+      "link": "https://dev.to/cathiebarr/5-best-places-to-buy-google-reviews-online-in-2026-1--58hl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 22 Aug 2026 10:07:50 +0000",
+      "summary": "Buy Google 5-Star Reviews—Boost Your Business Reputation Today 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact",
+      "score": 5,
+      "titleZh": "2026 年 5 个在线购买 Google 评论的最佳地点 (1- ..."
+    },
+    {
+      "title": "I got tired of gluing routers, queues, cron, and auth together — so I built okengine (Bun/TS, MIT, self-hostable)",
+      "link": "https://dev.to/omqkhafi/i-got-tired-of-gluing-routers-queues-cron-and-auth-together-so-i-built-okengine-bunts-mit-44ac",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 21 Aug 2026 10:00:52 +0000",
-      "summary": "A WebSocket that throws an error is easy. You see it, you handle it. The dangerous case is the one that goes quiet: the TCP connection is technically still open, the socket object still reports readyS",
+      "date": "Sat, 22 Aug 2026 10:04:59 +0000",
+      "summary": "The problem: a backend isn't one thing, it's ~40 things wearing a trench coat When people say \"just use Express/Hono/Fastify,\" they're right that routing is solved. But routing is maybe one of forty t",
       "score": 5,
-      "titleZh": "正确完成 WebSocket 重新连接：退避、抖动和重放"
+      "titleZh": "我厌倦了将路由器、队列、cron 和 auth 粘合在一起 - 所以我构建了 okengine（Bun/TS、MIT、自托管）"
+    },
+    {
+      "title": "I built 45+ free tools that process files entirely in the browser — here's the architecture",
+      "link": "https://dev.to/trytoolhub/i-built-45-free-tools-that-process-files-entirely-in-the-browser-heres-the-architecture-58kh",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 22 Aug 2026 10:03:49 +0000",
+      "summary": "Most free \"compress this image\" or \"convert this PDF\" sites work the same way: upload your file to their server, process it, send it back. I built ToolHub to avoid that where possible — most of the 45",
+      "score": 5,
+      "titleZh": "我构建了 45 多个免费工具，可以完全在浏览器中处理文件 - 这是架构"
     }
   ]
 }
