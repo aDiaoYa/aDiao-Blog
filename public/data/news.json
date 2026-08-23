@@ -1,45 +1,57 @@
 {
-  "updated": "2026-08-22T10:20:52.727Z",
-  "date": "2026-08-22",
+  "updated": "2026-08-23T01:12:14.275Z",
+  "date": "2026-08-23",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "I'm becoming AI-blind",
-      "link": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source": "HN·AI",
+      "title": "How to grow a project? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 21 Aug 2026 11:48:05 +0000",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699",
-      "score": 374,
-      "titleZh": "我变得人工智能盲了"
+      "date": "2026-08-23T00:31:31.000Z",
+      "summary": "I recently got my first paper accepted at EMNLP and open-sourced the code. The core idea is fundamental change, so I’ve been expanding it into a larger system with chatbot agents and extra components.",
+      "score": 40,
+      "titleZh": "How to grow a project? [D]"
     },
     {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "source": "HN·AI",
+      "title": "Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvsf5b/ablating_1_of_a_chess_transformers_128_attention/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 19 Aug 2026 06:13:31 +0000",
-      "summary": "https://archive.is/w1eng https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618 Comments URL: https://news.ycombinator.com/item?id=49357530",
-      "score": 309,
-      "titleZh": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究"
+      "date": "2026-08-23T00:22:19.000Z",
+      "summary": "Hooks and reads out Maia-3 23m model with chessformer_lens library: github.com/chessformer-lens/chessformer_lens DOI: 10.5281/zenodo.21986988 submitted by /u/Weird-Asparagus4136 [link] [comments]",
+      "score": 40,
+      "titleZh": "Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]"
     },
     {
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "source": "HN·AI",
+      "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 21 Aug 2026 14:31:52 +0000",
-      "summary": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752",
-      "score": 275,
-      "titleZh": "克劳德：让克劳德停止像 BuzzFeed 文章一样说话"
+      "date": "2026-08-22T17:32:17.000Z",
+      "summary": "Hey everyone! I wanted to share something I’ve been working on. I was inspired by projects from DeepMind and OpenAI, but noticed that most games are prohibitively difficult to integrate with an agent ",
+      "score": 40,
+      "titleZh": "I built an open-source roguelike specifically for training game-playing agents [P]"
+    },
+    {
+      "title": "acl arr august 2026 (desk rejected ) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-22T14:02:34.000Z",
+      "summary": "I have got two papers which got desk rejected by PC saying they are previously got reviewed in arr. But those paper never got submitted ever. Any idea what can be done? submitted by /u/malakulmout347 ",
+      "score": 40,
+      "titleZh": "acl arr august 2026 (desk rejected ) [D]"
     },
     {
       "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
@@ -51,7 +63,7 @@
       "date": "2026-08-22T09:37:05.000Z",
       "summary": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables. However my experiment revealed that my understanding",
       "score": 40,
-      "titleZh": "为什么 lightgbm 不适合我的玩具示例，而 catboost 却适合？ （2 阶相互作用）[D]"
+      "titleZh": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]"
     },
     {
       "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
@@ -63,55 +75,7 @@
       "date": "2026-08-22T04:39:18.000Z",
       "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb. It’s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on",
       "score": 40,
-      "titleZh": "我从头开始开发了自己的量化 LLM，在 30B 代币上进行了训练，部署在 60 MB [R]"
-    },
-    {
-      "title": "Research internship at MSR [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-21T16:47:52.000Z",
-      "summary": "So got selected for a research internship at MSR, how good is the quality of work and how useful is it to move to Applied sciences or research sciences position at other FAANG companies after the inte",
-      "score": 40,
-      "titleZh": "MSR研究实习[D]"
-    },
-    {
-      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-21T16:38:15.000Z",
-      "summary": "LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a \"concise output style\" where Claude keep",
-      "score": 40,
-      "titleZh": "告诉法学硕士“要简洁”真的能省钱吗？我们对 9 个型号进行了测量。压缩输出可以节省金钱并保持准确性，但压缩输入提示却不能。 [R]"
-    },
-    {
-      "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-21T16:37:16.000Z",
-      "summary": "I have built an on-prem GPU cluster, 8 nvidia 16GB GPU's and 256GB CPU RAM, 50TB HDD and several TBs of SSDs. I have used it, and currently use it, for ML/AI research. But that research is not constan",
-      "score": 40,
-      "titleZh": "我有一个中型 GPU 集群，正在考虑提供免费计算 [D]"
-    },
-    {
-      "title": "EMNLP26 Cost [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-21T16:24:00.000Z",
-      "summary": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! ht",
-      "score": 40,
-      "titleZh": "EMNLP26 成本 [D]"
+      "titleZh": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -123,127 +87,163 @@
       "date": "2026-08-02T02:15:24.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Buy Old Yahoo Accounts – 100% Aged & PVA: A Safe and Responsible Guide",
-      "link": "https://dev.to/smmusapva196/buy-old-yahoo-accounts-100-aged-pva-a-safe-and-responsible-guide-a79",
-      "source": "Dev.to WebDev",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-31T02:30:08.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Measuring benchmark optimization in speech recognition"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Up to 3.2x Faster Inference with LFM2.5-DSpark"
+    },
+    {
+      "title": "Any advices to make it look better? It's a lil project I'm working on as a beginner.",
+      "link": "https://www.reddit.com/r/webdev/comments/1vvokca/any_advices_to_make_it_look_better_its_a_lil/",
+      "source": "Reddit WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:18:06 +0000",
-      "summary": "Buy Old Yahoo Accounts – 100% Aged & Smmusapva@gmail.com An email address that has existed for a long time. A separate mailbox for a particular project. An account for organizing subscriptions. An est",
-      "score": 5,
-      "titleZh": "购买旧雅虎帐户 – 100% 老帐户和 PVA：安全且负责任的指南"
+      "date": "2026-08-22T21:31:40.000Z",
+      "summary": "I know it ain't much but I'm happy with what i did. submitted by /u/Vin-Jin [link] [comments]",
+      "score": 40,
+      "titleZh": "Any advices to make it look better? It's a lil project I'm working on as a beginner."
     },
     {
-      "title": "The Trusted Yelp 'Elite' Reviewers Who Sell Their Reviews ...",
-      "link": "https://dev.to/cathiebarr/the-trusted-yelp-elite-reviewers-who-sell-their-reviews--3fa5",
-      "source": "Dev.to WebDev",
+      "title": "Websites putting a paywall behind an auth wall, is this a new trick or am I just discovering it?",
+      "link": "https://www.reddit.com/r/webdev/comments/1vvla5x/websites_putting_a_paywall_behind_an_auth_wall_is/",
+      "source": "Reddit WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:17:22 +0000",
-      "summary": "Buy Elite Yelp Reviews 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com Buy Elite Yelp Reviews. Yelp ",
-      "score": 5,
-      "titleZh": "值得信赖的 Yelp“精英”评论者出售他们的评论......"
+      "date": "2026-08-22T19:19:11.000Z",
+      "summary": "You probably know the type, a website/web service that \"looks free\" from their landing page. Then it forces you to sign up to use the service, you say whatever and give them your email, and only then ",
+      "score": 40,
+      "titleZh": "Websites putting a paywall behind an auth wall, is this a new trick or am I just discovering it?"
     },
     {
-      "title": "Top 3 Places to Buy Elite yelp reviews positive In today's ...",
-      "link": "https://dev.to/cathiebarr/top-3-places-to-buy-elite-yelp-reviews-positive-in-todays--1ceg",
-      "source": "Dev.to WebDev",
+      "title": "I made a daily game for devs where you pick your favorite stack and play against other players",
+      "link": "https://www.reddit.com/r/webdev/comments/1vvew1u/i_made_a_daily_game_for_devs_where_you_pick_your/",
+      "source": "Reddit WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:17:14 +0000",
-      "summary": "Buy Elite Yelp Reviews 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com Buy Elite Yelp Reviews. Yelp ",
-      "score": 5,
-      "titleZh": "购买精英的前 3 个地方 yelp 好评在今天......"
+      "date": "2026-08-22T15:09:11.000Z",
+      "summary": "I've been building this for a few months and the first version is finally up. It's called Strikk. It's a daily cycle, like Wordle, but one per stack. React has its own trial today, TypeScript has anot",
+      "score": 40,
+      "titleZh": "I made a daily game for devs where you pick your favorite stack and play against other players"
     },
     {
-      "title": "Top 3 Sites to Buy Old Gmail Accounts In Complete Guide",
-      "link": "https://dev.to/smmusapva196/top-3-sites-to-buy-old-gmail-accounts-in-complete-guide-2hmc",
-      "source": "Dev.to WebDev",
+      "title": "What’s up with the recent increase in websites scroll jacking",
+      "link": "https://www.reddit.com/r/webdev/comments/1vvdyqq/whats_up_with_the_recent_increase_in_websites/",
+      "source": "Reddit WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:14:03 +0000",
-      "summary": "Top 3 Sites to Buy Old Gmail Accounts In Smmusapva@gmail.com Problems With Actual Ownership Just because someone gives you an account does not guarantee that it has become completely yours. If the ori",
-      "score": 5,
-      "titleZh": "完整指南中购买旧 Gmail 帐户的前 3 个网站"
+      "date": "2026-08-22T14:31:22.000Z",
+      "summary": "I’ve been seeing so many websites, especially on Twitter that use an insane amount of scrolling animations. I’m assuming it’s due to vibe coding? I think it’s cool when used sparingly but what do you ",
+      "score": 40,
+      "titleZh": "What’s up with the recent increase in websites scroll jacking"
     },
     {
-      "title": "The Same Stream Leaks 5.6 Responses Per Thousand to a Reader and 212 to a Machine, From Reading Speed Alone",
-      "link": "https://dev.to/dev48v/the-same-stream-leaks-56-responses-per-thousand-to-a-reader-and-212-to-a-machine-from-reading-aic",
-      "source": "Dev.to WebDev",
+      "title": "Two things I've learned as a web developer from game development",
+      "link": "https://www.reddit.com/r/webdev/comments/1vvb9vf/two_things_ive_learned_as_a_web_developer_from/",
+      "source": "Reddit WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:13:56 +0000",
-      "summary": "A token you have shown is a token you have spent. Every guard worth running needs lookahead - it cannot rule on a claim until the claim closes - so streaming is a race between two cursors crawling lef",
-      "score": 5,
-      "titleZh": "仅从阅读速度来看，同一流向读者泄漏了每千人 5.6 个响应，向机器泄漏了 212 个响应"
+      "date": "2026-08-22T12:34:02.000Z",
+      "summary": "submitted by /u/jhartikainen [link] [comments]",
+      "score": 40,
+      "titleZh": "Two things I've learned as a web developer from game development"
     },
     {
-      "title": "The BYxxx-Just-Filters Model Is Exactly Right on All 200 DAILY Rules and Wrong on 276 of 300 YEARLY Ones",
-      "link": "https://dev.to/dev48v/the-byxxx-just-filters-model-is-exactly-right-on-all-200-daily-rules-and-wrong-on-276-of-300-yearly-1bhl",
+      "title": "I built an in-browser PDF engine that actually rewrites embedded text layers, converts Office docs with WASM, repairs broken files, and runs OCR (0 bytes sent to a server)",
+      "link": "https://www.reddit.com/r/webdev/comments/1vv5ng4/i_built_an_inbrowser_pdf_engine_that_actually/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-22T07:21:50.000Z",
+      "summary": "I spent the past few months compiling and writing a massive client-side PDF suite so everything runs directly inside your browser tab without any backend processing: Most web tools out there do cheap ",
+      "score": 40,
+      "titleZh": "I built an in-browser PDF engine that actually rewrites embedded text layers, converts Office docs with WASM, repairs broken files, and runs OCR (0 bytes sent to a server)"
+    },
+    {
+      "title": "Ask the Chrome team about WebMCP",
+      "link": "https://www.reddit.com/r/webdev/comments/1vurtm0/ask_the_chrome_team_about_webmcp/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-21T20:33:14.000Z",
+      "summary": "Hi everyone! I work on the Google Chrome DevRel team, focused on the Agentic Web. We’re responsible for maintaining the official documentation, producing samples and tutorials to help you get started ",
+      "score": 40,
+      "titleZh": "Ask the Chrome team about WebMCP"
+    },
+    {
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "link": "https://www.reddit.com/r/webdev/comments/1vcliam/monthly_getting_started_web_dev_career_thread/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-01T12:00:13.000Z",
+      "summary": "Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will",
+      "score": 40,
+      "titleZh": "Monthly Getting Started / Web Dev Career Thread"
+    },
+    {
+      "title": "Tauri Apps without Rust? Write Your Backend in Javascript",
+      "link": "https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:11:53 +0000",
-      "summary": "RFC 5545 §3.3.10 describes what a recurrence rule does with a 9×7 table containing two words, Expand and Limit, and the cell you land in is chosen by FREQ rather than by the part you wrote. This engin",
+      "date": "Sun, 23 Aug 2026 01:07:55 +0000",
+      "summary": "TL;DR I wrote Tauri-specific rust bindings for BareKit as a Tauri plugin so you can write your backend in javascript without touching rust at all (other than enabling the plugin) or split your logic b",
       "score": 5,
-      "titleZh": "BYxxx-Just-Filters 模型在所有 200 条每日规则上完全正确，但在 300 条年度规则中的 276 条上错误"
+      "titleZh": "Tauri Apps without Rust? Write Your Backend in Javascript"
     },
     {
-      "title": "Six of Seven Diff Implementations Pass the Only Test Anyone Writes, Including One That Retypes the File at 10.86x",
-      "link": "https://dev.to/dev48v/six-of-seven-diff-implementations-pass-the-only-test-anyone-writes-including-one-that-retypes-the-ehf",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 22 Aug 2026 10:10:30 +0000",
-      "summary": "A diff is not a comparison. Lay the old file along one axis and the new file along the other: moving right deletes a line, moving down inserts one, and wherever the lines match you move diagonally for",
-      "score": 5,
-      "titleZh": "七种差异实现中的六种通过了任何人编写的唯一测试，其中包括以 10.86 倍的速度重新输入文件的测试"
-    },
-    {
-      "title": "5 Best Places To Buy Google Reviews Online In 2026 (1- ...",
-      "link": "https://dev.to/cathiebarr/5-best-places-to-buy-google-reviews-online-in-2026-1--58hl",
+      "title": "ChatGPT's Integration with App…",
+      "link": "https://dev.to/norviktech/chatgpts-integration-with-app-402g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 22 Aug 2026 10:07:50 +0000",
-      "summary": "Buy Google 5-Star Reviews—Boost Your Business Reputation Today 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact",
+      "date": "Sun, 23 Aug 2026 01:06:04 +0000",
+      "summary": "Originally published at norvik.tech A deep dive into ChatGPT's new functionality for sending texts via Apple Messages. Explore its implications for technology and business. ChatGPT's integration with ",
       "score": 5,
-      "titleZh": "2026 年 5 个在线购买 Google 评论的最佳地点 (1- ..."
-    },
-    {
-      "title": "I got tired of gluing routers, queues, cron, and auth together — so I built okengine (Bun/TS, MIT, self-hostable)",
-      "link": "https://dev.to/omqkhafi/i-got-tired-of-gluing-routers-queues-cron-and-auth-together-so-i-built-okengine-bunts-mit-44ac",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 22 Aug 2026 10:04:59 +0000",
-      "summary": "The problem: a backend isn't one thing, it's ~40 things wearing a trench coat When people say \"just use Express/Hono/Fastify,\" they're right that routing is solved. But routing is maybe one of forty t",
-      "score": 5,
-      "titleZh": "我厌倦了将路由器、队列、cron 和 auth 粘合在一起 - 所以我构建了 okengine（Bun/TS、MIT、自托管）"
-    },
-    {
-      "title": "I built 45+ free tools that process files entirely in the browser — here's the architecture",
-      "link": "https://dev.to/trytoolhub/i-built-45-free-tools-that-process-files-entirely-in-the-browser-heres-the-architecture-58kh",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 22 Aug 2026 10:03:49 +0000",
-      "summary": "Most free \"compress this image\" or \"convert this PDF\" sites work the same way: upload your file to their server, process it, send it back. I built ToolHub to avoid that where possible — most of the 45",
-      "score": 5,
-      "titleZh": "我构建了 45 多个免费工具，可以完全在浏览器中处理文件 - 这是架构"
+      "titleZh": "ChatGPT's Integration with App…"
     }
   ]
 }
