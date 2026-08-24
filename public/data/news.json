@@ -1,81 +1,81 @@
 {
-  "updated": "2026-08-23T01:12:14.275Z",
-  "date": "2026-08-23",
+  "updated": "2026-08-24T01:09:57.019Z",
+  "date": "2026-08-24",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "How to grow a project? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d/",
+      "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-23T00:31:31.000Z",
-      "summary": "I recently got my first paper accepted at EMNLP and open-sourced the code. The core idea is fundamental change, so I’ve been expanding it into a larger system with chatbot agents and extra components.",
+      "date": "2026-08-23T19:15:07.000Z",
+      "summary": "I had a paper accepted to a conference. This paper was originally published as a preprint. Subsequent works citing our preprint focused on the same topic and reused/extended our methodology. I am now ",
       "score": 40,
-      "titleZh": "How to grow a project? [D]"
+      "titleZh": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]"
     },
     {
-      "title": "Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvsf5b/ablating_1_of_a_chess_transformers_128_attention/",
+      "title": "COLM 2026 registration sold out as an author [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-23T00:22:19.000Z",
-      "summary": "Hooks and reads out Maia-3 23m model with chessformer_lens library: github.com/chessformer-lens/chessformer_lens DOI: 10.5281/zenodo.21986988 submitted by /u/Weird-Asparagus4136 [link] [comments]",
+      "date": "2026-08-23T18:44:50.000Z",
+      "summary": "Never attended a conference before, so apologies if these are dumb questions. I’m an author of an accepted paper at COLM 2026. One of my coauthors registered during the author-only registration period",
       "score": 40,
-      "titleZh": "Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]"
+      "titleZh": "COLM 2026 registration sold out as an author [D]"
     },
     {
-      "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+      "title": "Archival vs non archival workshop [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-22T17:32:17.000Z",
-      "summary": "Hey everyone! I wanted to share something I’ve been working on. I was inspired by projects from DeepMind and OpenAI, but noticed that most games are prohibitively difficult to integrate with an agent ",
+      "date": "2026-08-23T16:02:13.000Z",
+      "summary": "My dumbass just realized all NeurIPS workshops are non-archival. In terms of grad school applications, would there be a difference in how much they value ur paper if u get it in a proceeding submitted",
       "score": 40,
-      "titleZh": "I built an open-source roguelike specifically for training game-playing agents [P]"
+      "titleZh": "Archival vs non archival workshop [R]"
     },
     {
-      "title": "acl arr august 2026 (desk rejected ) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
+      "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-22T14:02:34.000Z",
-      "summary": "I have got two papers which got desk rejected by PC saying they are previously got reviewed in arr. But those paper never got submitted ever. Any idea what can be done? submitted by /u/malakulmout347 ",
+      "date": "2026-08-23T12:30:55.000Z",
+      "summary": "been building ShardFlow for the past few months, a distributed LLM inference framework that splits any HuggingFace transformer across N GPU machines and uses neural speculative decoding to deal with W",
       "score": 40,
-      "titleZh": "acl arr august 2026 (desk rejected ) [D]"
+      "titleZh": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]"
     },
     {
-      "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
+      "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-22T09:37:05.000Z",
-      "summary": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables. However my experiment revealed that my understanding",
+      "date": "2026-08-23T11:34:24.000Z",
+      "summary": "Hi! I'm one of the chairs of the EACL 2027 Industry Track, so flagging the deadline here — it's about three weeks out and this community has a lot of people doing exactly the kind of work the track ex",
       "score": 40,
-      "titleZh": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]"
+      "titleZh": "[N] EACL 2027 Industry Track - Deadline 11 September [N]"
     },
     {
-      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+      "title": "Implementing Watermarking for Language Models [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-22T04:39:18.000Z",
-      "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb. It’s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on",
+      "date": "2026-08-23T08:09:02.000Z",
+      "summary": "I recently implemented a minimal, educational version of SynthID-Text-style watermarking for language models. I saw anthropic post about how they'll start adding watermarks to their model responses an",
       "score": 40,
-      "titleZh": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]"
+      "titleZh": "Implementing Watermarking for Language Models [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,6 +102,18 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 21 Aug 2026 08:41:29 +0000",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated",
+      "score": 5,
+      "titleZh": "How AI coding tools are contributing to the popularity of JavaScript"
+    },
+    {
       "title": "Measuring benchmark optimization in speech recognition",
       "link": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "HuggingFace",
@@ -114,136 +126,124 @@
       "titleZh": "Measuring benchmark optimization in speech recognition"
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 20 Aug 2026 16:52:57 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Up to 3.2x Faster Inference with LFM2.5-DSpark"
-    },
-    {
-      "title": "Any advices to make it look better? It's a lil project I'm working on as a beginner.",
-      "link": "https://www.reddit.com/r/webdev/comments/1vvokca/any_advices_to_make_it_look_better_its_a_lil/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-22T21:31:40.000Z",
-      "summary": "I know it ain't much but I'm happy with what i did. submitted by /u/Vin-Jin [link] [comments]",
-      "score": 40,
-      "titleZh": "Any advices to make it look better? It's a lil project I'm working on as a beginner."
-    },
-    {
-      "title": "Websites putting a paywall behind an auth wall, is this a new trick or am I just discovering it?",
-      "link": "https://www.reddit.com/r/webdev/comments/1vvla5x/websites_putting_a_paywall_behind_an_auth_wall_is/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-22T19:19:11.000Z",
-      "summary": "You probably know the type, a website/web service that \"looks free\" from their landing page. Then it forces you to sign up to use the service, you say whatever and give them your email, and only then ",
-      "score": 40,
-      "titleZh": "Websites putting a paywall behind an auth wall, is this a new trick or am I just discovering it?"
-    },
-    {
-      "title": "I made a daily game for devs where you pick your favorite stack and play against other players",
-      "link": "https://www.reddit.com/r/webdev/comments/1vvew1u/i_made_a_daily_game_for_devs_where_you_pick_your/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-22T15:09:11.000Z",
-      "summary": "I've been building this for a few months and the first version is finally up. It's called Strikk. It's a daily cycle, like Wordle, but one per stack. React has its own trial today, TypeScript has anot",
-      "score": 40,
-      "titleZh": "I made a daily game for devs where you pick your favorite stack and play against other players"
-    },
-    {
-      "title": "What’s up with the recent increase in websites scroll jacking",
-      "link": "https://www.reddit.com/r/webdev/comments/1vvdyqq/whats_up_with_the_recent_increase_in_websites/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-22T14:31:22.000Z",
-      "summary": "I’ve been seeing so many websites, especially on Twitter that use an insane amount of scrolling animations. I’m assuming it’s due to vibe coding? I think it’s cool when used sparingly but what do you ",
-      "score": 40,
-      "titleZh": "What’s up with the recent increase in websites scroll jacking"
-    },
-    {
-      "title": "Two things I've learned as a web developer from game development",
-      "link": "https://www.reddit.com/r/webdev/comments/1vvb9vf/two_things_ive_learned_as_a_web_developer_from/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-22T12:34:02.000Z",
-      "summary": "submitted by /u/jhartikainen [link] [comments]",
-      "score": 40,
-      "titleZh": "Two things I've learned as a web developer from game development"
-    },
-    {
-      "title": "I built an in-browser PDF engine that actually rewrites embedded text layers, converts Office docs with WASM, repairs broken files, and runs OCR (0 bytes sent to a server)",
-      "link": "https://www.reddit.com/r/webdev/comments/1vv5ng4/i_built_an_inbrowser_pdf_engine_that_actually/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-22T07:21:50.000Z",
-      "summary": "I spent the past few months compiling and writing a massive client-side PDF suite so everything runs directly inside your browser tab without any backend processing: Most web tools out there do cheap ",
-      "score": 40,
-      "titleZh": "I built an in-browser PDF engine that actually rewrites embedded text layers, converts Office docs with WASM, repairs broken files, and runs OCR (0 bytes sent to a server)"
-    },
-    {
-      "title": "Ask the Chrome team about WebMCP",
-      "link": "https://www.reddit.com/r/webdev/comments/1vurtm0/ask_the_chrome_team_about_webmcp/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-21T20:33:14.000Z",
-      "summary": "Hi everyone! I work on the Google Chrome DevRel team, focused on the Agentic Web. We’re responsible for maintaining the official documentation, producing samples and tutorials to help you get started ",
-      "score": 40,
-      "titleZh": "Ask the Chrome team about WebMCP"
-    },
-    {
-      "title": "Monthly Getting Started / Web Dev Career Thread",
-      "link": "https://www.reddit.com/r/webdev/comments/1vcliam/monthly_getting_started_web_dev_career_thread/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-01T12:00:13.000Z",
-      "summary": "Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will",
-      "score": 40,
-      "titleZh": "Monthly Getting Started / Web Dev Career Thread"
-    },
-    {
-      "title": "Tauri Apps without Rust? Write Your Backend in Javascript",
-      "link": "https://dev.to/ozymandiasthegreat/tauri-apps-without-rust-write-your-backend-in-javascript-20g4",
+      "title": "[팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요? · 2026년 Rust GUI 라이브러리 조사 외 3선 | GeekNews Frontend",
+      "link": "https://dev.to/ageofclick/paskaeseuteu-oauth-jedaero-ihaehago-sseugo-issnayo-2026nyeon-rust-gui-raibeureori-josa-oe-3seon-geeknews-frontend-1n80",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 23 Aug 2026 01:07:55 +0000",
-      "summary": "TL;DR I wrote Tauri-specific rust bindings for BareKit as a Tauri plugin so you can write your backend in javascript without touching rust at all (other than enabling the plugin) or split your logic b",
+      "date": "Mon, 24 Aug 2026 01:06:13 +0000",
+      "summary": "1. [팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요? 이 팟캐스트는 OAuth가 왜 필요한지부터 사용자, 클라이언트, 인가 서버, 자원 서버가 나뉘는 이유를 차근차근 설명합니다. Authorization Code Grant에서 인가 코드와 액세스 토큰을 분리하는 배경, Redirect URI와 Front/Back Channel의 역할, OAuth 2",
       "score": 5,
-      "titleZh": "Tauri Apps without Rust? Write Your Backend in Javascript"
+      "titleZh": "[팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요? · 2026년 Rust GUI 라이브러리 조사 외 3선 | GeekNews Frontend"
     },
     {
-      "title": "ChatGPT's Integration with App…",
-      "link": "https://dev.to/norviktech/chatgpts-integration-with-app-402g",
+      "title": "FAQ schema, no coding required — a copy-and-paste guide",
+      "link": "https://dev.to/bulti_global/faq-schema-no-coding-required-a-copy-and-paste-guide-38j7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 23 Aug 2026 01:06:04 +0000",
-      "summary": "Originally published at norvik.tech A deep dive into ChatGPT's new functionality for sending texts via Apple Messages. Explore its implications for technology and business. ChatGPT's integration with ",
+      "date": "Mon, 24 Aug 2026 01:00:38 +0000",
+      "summary": "⏰ The 30-second version FAQ schema is writing your page's questions and answers a second time, in a format machines understand. The payoff: search and AI recognize your FAQ as precise question-answer ",
       "score": 5,
-      "titleZh": "ChatGPT's Integration with App…"
+      "titleZh": "FAQ schema, no coding required — a copy-and-paste guide"
+    },
+    {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It — Here's What Changed",
+      "link": "https://dev.to/shadie_ai/i-spent-10x-longer-debugging-ai-code-than-writing-it-heres-what-changed-2ck",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:56:22 +0000",
+      "summary": "Everyone talks about how AI makes you write code 10x faster. Nobody talks about the debugging that comes after. I learned this the hard way. Three months ago, I was riding the hype train hard. I had a",
+      "score": 5,
+      "titleZh": "I Spent 10x Longer Debugging AI Code Than Writing It — Here's What Changed"
+    },
+    {
+      "title": "10 Best Platforms to Buy TikTok Account Old & New in the ...",
+      "link": "https://dev.to/cherylpembertonyczun/10-best-platforms-to-buy-tiktok-account-old-new-in-the--23l9",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:56:19 +0000",
+      "summary": "Buy Old TikTok Accounts – Security, Privacy, Risks & Complete Guide usadigitalhubsell@gmail.com Meta Description: Learn about old TikTok accounts, account security, privacy, recovery, 2FA, account man",
+      "score": 5,
+      "titleZh": "10 Best Platforms to Buy TikTok Account Old & New in the ..."
+    },
+    {
+      "title": "A failed import that still created three records",
+      "link": "https://dev.to/ink_gu/a-failed-import-that-still-created-three-records-5e5i",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:55:09 +0000",
+      "summary": "Every importer has one moment where it tells you it is done. Here is that moment, at the end of a file import into a twenty year old accounting product: QuickBooks Information Your data has been impor",
+      "score": 5,
+      "titleZh": "A failed import that still created three records"
+    },
+    {
+      "title": "PG in Dlf phase 2 gurgaon",
+      "link": "https://dev.to/thehotelproperties/pg-in-dlf-phase-2-gurgaon-3kkc",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:45:01 +0000",
+      "summary": "Looking for a comfortable PG in DLF Phase 2, Gurgaon? Laksh Residency offers convenient and comfortable accommodation in a prime Gurgaon location. Choose a suitable living space and enjoy easy access ",
+      "score": 5,
+      "titleZh": "PG in Dlf phase 2 gurgaon"
+    },
+    {
+      "title": "5 Best 25 Sites To Buy Twitter Accounts in Bulk (PVA & Aged). ...",
+      "link": "https://dev.to/cherylpembertonyczun/5-best-25-sites-to-buy-twitter-accounts-in-bulk-pva-aged--5fme",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:38:57 +0000",
+      "summary": "Buy Old Twitter Accounts – Security, Privacy, Risks & Complete Guide usadigitalhubsell@gmail.com Meta Description: Learn about old Twitter accounts, X account security, privacy, recovery, 2FA, account",
+      "score": 5,
+      "titleZh": "5 Best 25 Sites To Buy Twitter Accounts in Bulk (PVA & Aged). ..."
+    },
+    {
+      "title": "Voice Changer — Free Online Tool",
+      "link": "https://dev.to/baoming/voice-changer-free-online-tool-5hnm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:36:07 +0000",
+      "summary": "tags: webdev, programming, tutorial, productivity https://tools.scoreroute.com/tools/voice-changer/ Voice Changer — Free Online Tool Quick Answer Open Voice Changer and get what you need instantly. Fr",
+      "score": 5,
+      "titleZh": "Voice Changer — Free Online Tool"
+    },
+    {
+      "title": "Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr",
+      "link": "https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:16:15 +0000",
+      "summary": "We Fixed the Eval Platform: The TypeError That Took Down Three Benchmark Pipelines At 3 AM, Sentry lit up with TypeError: Cannot read property 'map' of undefined. Three benchmark pipelines crashed. No",
+      "score": 5,
+      "titleZh": "Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr"
+    },
+    {
+      "title": "Deep Dive: AI-Powered SAST for Enhanced Code Secur…",
+      "link": "https://dev.to/norviktech/deep-dive-ai-powered-sast-for-enhanced-code-secur-5b6h",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 24 Aug 2026 00:06:01 +0000",
+      "summary": "Originally published at norvik.tech Explore how AI-driven Static Application Security Testing transforms code security, improving vulnerability detection and efficiency. AI-powered Static Application ",
+      "score": 5,
+      "titleZh": "Deep Dive: AI-Powered SAST for Enhanced Code Secur…"
     }
   ]
 }
