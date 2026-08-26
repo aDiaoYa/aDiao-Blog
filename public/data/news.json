@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-26T01:10:37.131Z",
+  "updated": "2026-08-26T10:33:28.416Z",
   "date": "2026-08-26",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "source": "HN·AI",
+      "title": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 25 Aug 2026 14:06:02 +0000",
-      "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr Comments URL: https://news.ycombinator.com/item?id=49434378",
-      "score": 314,
-      "titleZh": "OpenAI Jalapeño: Better than Nvidia Blackwell"
+      "date": "2026-08-26T07:34:45.000Z",
+      "summary": "I've been working on an open-source project called Millwright, an attempt to explore what an end-to-end machine learning workflow could look like in Rust. https://millwright-rs.dev/ This started while",
+      "score": 40,
+      "titleZh": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]"
     },
     {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "link": "https://github.com/ThinkOffApp/CarWatch",
-      "source": "HN·AI",
+      "title": "Catching bugs in scikit-learn [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vym6cn/catching_bugs_in_scikitlearn_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 25 Aug 2026 15:20:20 +0000",
-      "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service",
-      "score": 92,
-      "titleZh": "Show HN: I made a Raspberry with Qwen my local car AI"
+      "date": "2026-08-26T03:57:42.000Z",
+      "summary": "sklearn 1.9 fixed a bug in how BayesianRidge computes its uncertainty. We traced predict on 1.8 and 1.9 and compared the two formulas it actually computes, see if you can spot what changed before the ",
+      "score": 40,
+      "titleZh": "Catching bugs in scikit-learn [D]"
     },
     {
       "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
@@ -40,18 +40,6 @@
       "summary": "Hi everyone, I’m researching how to design an AI agent for a medicine-reminder system. The agent has to decide, at each relevant time, whether to: send a reminder, wait (do nothing for now), or notify",
       "score": 40,
       "titleZh": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]"
-    },
-    {
-      "title": "What would a fair benchmark for agent architecture look like? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-25T13:55:48.000Z",
-      "summary": "I am working on an evaluation design and would appreciate criticism before running it. Most coding-agent benchmarks collapse the model and its harness into one score. If a run fails, it is difficult t",
-      "score": 40,
-      "titleZh": "What would a fair benchmark for agent architecture look like? [D]"
     },
     {
       "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
@@ -90,18 +78,6 @@
       "titleZh": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]"
     },
     {
-      "title": "Bart- A vintage llm [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-24T17:20:03.000Z",
-      "summary": "after 3 months and $800 burned... Unbounded Labs is proud to introduce Bart, our vintage LLM: 2.82B parameters trained from scratch on 20.1B tokens of English written before 1931. You can talk to it r",
-      "score": 40,
-      "titleZh": "Bart- A vintage llm [R]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,124 +102,148 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Beating TLS Fingerprinting in Python: A Hands-On Guide",
-      "link": "https://dev.to/greta_af2fb2dbe283dce1483/beating-tls-fingerprinting-in-python-a-hands-on-guide-pog",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 26 Aug 2026 10:00:00 +0000",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch",
+      "score": 5,
+      "titleZh": "Gatik raises $200M to scale AI-powered autonomous freight"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 26 Aug 2026 09:08:11 +0000",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level op",
+      "score": 5,
+      "titleZh": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots"
+    },
+    {
+      "title": "How to Reduce B2B Website Bounce Rate: 10 Proven Tactics",
+      "link": "https://dev.to/prodigital360/how-to-reduce-b2b-website-bounce-rate-10-proven-tactics-d2m",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 01:07:02 +0000",
-      "summary": "Beating TLS Fingerprinting in Python: A Hands-On Guide Here's a scenario that has confused every scraper developer at least once: headers are perfect, cookies are managed, the proxy is residential — a",
+      "date": "Wed, 26 Aug 2026 10:29:02 +0000",
+      "summary": "This article was originally published on ProDigital360 Read the full article on ProDigital360 →",
       "score": 5,
-      "titleZh": "Beating TLS Fingerprinting in Python: A Hands-On Guide"
+      "titleZh": "How to Reduce B2B Website Bounce Rate: 10 Proven Tactics"
     },
     {
-      "title": "Analysis: TikTok's $400 Million Settlement and Its…",
-      "link": "https://dev.to/norviktech/analysis-tiktoks-400-million-settlement-and-its-3mhd",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 01:06:13 +0000",
-      "summary": "Originally published at norvik.tech Explore the technical and business implications of TikTok's settlement over child privacy concerns, impacting the tech landscape significantly. TikTok's recent agre",
-      "score": 5,
-      "titleZh": "Analysis: TikTok's $400 Million Settlement and Its…"
-    },
-    {
-      "title": "Ad Verification 101: How Brands Check Their Ads Actually Ran",
-      "link": "https://dev.to/greta_af2fb2dbe283dce1483/ad-verification-101-how-brands-check-their-ads-actually-ran-2j43",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 01:05:52 +0000",
-      "summary": "Ad Verification 101: How Brands Check Their Ads Actually Ran Digital advertising has a trust problem with a number attached to it: industry estimates put wasted ad spend — fraud, misplacement, non-vie",
-      "score": 5,
-      "titleZh": "Ad Verification 101: How Brands Check Their Ads Actually Ran"
-    },
-    {
-      "title": "Your Training Data Has a Geography Problem",
-      "link": "https://dev.to/greta_af2fb2dbe283dce1483/your-training-data-has-a-geography-problem-4lm8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 01:04:38 +0000",
-      "summary": "Your Training Data Has a Geography Problem We talk a lot about dataset bias — demographic, temporal, linguistic. Here's one that barely gets discussed: where your data was collected from. The web serv",
-      "score": 5,
-      "titleZh": "Your Training Data Has a Geography Problem"
-    },
-    {
-      "title": "Build a Multi-Country Rank Tracker in Python (Without the SaaS Bill)",
-      "link": "https://dev.to/greta_af2fb2dbe283dce1483/build-a-multi-country-rank-tracker-in-python-without-the-saas-bill-1peo",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 01:03:26 +0000",
-      "summary": "Build a Multi-Country Rank Tracker in Python (Without the SaaS Bill) Rank tracking SaaS costs $50–$300/month for what is, technically, twenty lines of Python and a proxy. If you monitor more than a ha",
-      "score": 5,
-      "titleZh": "Build a Multi-Country Rank Tracker in Python (Without the SaaS Bill)"
-    },
-    {
-      "title": "One IP Per Account: The Arithmetic of Multi-Account Survival",
-      "link": "https://dev.to/greta_af2fb2dbe283dce1483/one-ip-per-account-the-arithmetic-of-multi-account-survival-31nl",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 01:02:08 +0000",
-      "summary": "One IP Per Account: The Arithmetic of Multi-Account Survival Run an online business long enough and you'll meet the ban hammer. Multiple store accounts, seller profiles, ad accounts, social handles — ",
-      "score": 5,
-      "titleZh": "One IP Per Account: The Arithmetic of Multi-Account Survival"
-    },
-    {
-      "title": "Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs",
-      "link": "https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-22de",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 00:55:27 +0000",
-      "summary": "Most AI side projects die before seeing a single user. I know because I've killed plenty of them myself. The pattern was always the same: I'd get excited about some idea, spend two weeks building a \"r",
-      "score": 5,
-      "titleZh": "Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs"
-    },
-    {
-      "title": "Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt",
-      "link": "https://dev.to/aws/build-a-full-stack-music-station-with-openrouter-amazon-bedrock-and-nuxt-5fh4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 00:48:03 +0000",
-      "summary": "Have you ever been coding and then gotten into that flow state? You know where hours pass by , and it feels to you it's only ben a few minutes? Me too. One thing that really helps me get into that sta",
-      "score": 5,
-      "titleZh": "Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt"
-    },
-    {
-      "title": "I Built a Free YouTube Chapter Generator (Because Descript Charges $15/month)",
-      "link": "https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-youtube-chapter-generator-because-descript-charges-15month-jho",
+      "title": "Stop Using useEffect for Data Fetching: A Modern React Architecture Guide",
+      "link": "https://dev.to/bhavya_arora/stop-using-useeffect-for-data-fetching-a-modern-react-architecture-guide-n50",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 00:43:17 +0000",
-      "summary": "I Built a Free YouTube Chapter Generator (Because Descript Charges $15/month) Stop paying $15 per month for Descript when you just need to add timestamps to your YouTube videos. I was tired of Descrip",
+      "date": "Wed, 26 Aug 2026 10:19:58 +0000",
+      "summary": "If you review a React codebase written a few years ago, you will inevitably find components littered with code that looks exactly like this: const UserProfile = ({ userId }) => { const [data, setData]",
       "score": 5,
-      "titleZh": "I Built a Free YouTube Chapter Generator (Because Descript Charges $15/month)"
+      "titleZh": "Stop Using useEffect for Data Fetching: A Modern React Architecture Guide"
     },
     {
-      "title": "Digital Business Card / vCard Generator — 100% Free, No Subscription",
-      "link": "https://dev.to/jack_green_7b74cb2cdf9e23/digital-business-card-vcard-generator-100-free-no-subscription-469p",
-      "source": "Dev.to JS",
+      "title": "📐 CV TRẮC ĐỊA CHUYÊN NGHIỆP – SẴN SÀNG CHO CƠ HỘI VIỆC LÀM MỚI!",
+      "link": "https://dev.to/timviec365vntuyendung/cv-trac-dia-chuyen-nghiep-san-sang-cho-co-hoi-viec-lam-moi-4f5j",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 00:42:53 +0000",
-      "summary": "Digital Business Card / vCard Generator — 100% Free, No Subscription Tools like HiHello and Blinq charge $40-100/year for digital business cards with QR codes. That's $4-8/month for something you use ",
+      "date": "Wed, 26 Aug 2026 10:17:13 +0000",
+      "summary": "Ngành Trắc địa phù hợp với những người có khả năng làm việc chính xác, sử dụng thiết bị đo đạc và yêu thích môi trường kỹ thuật, công trình. Một chiếc CV chỉn chu sẽ giúp bạn thể hiện rõ kinh nghiệm, ",
       "score": 5,
-      "titleZh": "Digital Business Card / vCard Generator — 100% Free, No Subscription"
+      "titleZh": "📐 CV TRẮC ĐỊA CHUYÊN NGHIỆP – SẴN SÀNG CHO CƠ HỘI VIỆC LÀM MỚI!"
+    },
+    {
+      "title": "How Many Builds Can Run at Once on One VPS",
+      "link": "https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:16:51 +0000",
+      "summary": "The number is not a property of your deployment tool. It is your server's available memory divided by what one build takes at its peak, and every answer that skips that division is guessing on your be",
+      "score": 5,
+      "titleZh": "How Many Builds Can Run at Once on One VPS"
+    },
+    {
+      "title": "5 New React Native Features in 2026 (And 2 I'm Still Waiting For)",
+      "link": "https://dev.to/astraedus/5-new-react-native-features-in-2026-and-2-im-still-waiting-for-220c",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:12:24 +0000",
+      "summary": "If you last touched React Native a year ago, the best upgrades waiting for you aren't features you toggle. They're defaults you inherit. The bridge is gone, the New Architecture is the only architectu",
+      "score": 5,
+      "titleZh": "5 New React Native Features in 2026 (And 2 I'm Still Waiting For)"
+    },
+    {
+      "title": "Elevator Management Software: The Future of Smarter Building Operations",
+      "link": "https://dev.to/rosie-martin/elevator-management-software-the-future-of-smarter-building-operations-3j6o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:09:32 +0000",
+      "summary": "Modern buildings are becoming more connected every year. Property managers can now monitor lighting, security, HVAC systems, access control, and other building functions through digital platforms. Ele",
+      "score": 5,
+      "titleZh": "Elevator Management Software: The Future of Smarter Building Operations"
+    },
+    {
+      "title": "Devlog: building gimmick arenas and game-feel juice for Chaos Football Club",
+      "link": "https://dev.to/mario_jgoestarosso_5c91/devlog-building-gimmick-arenas-and-game-feel-juice-for-chaos-football-club-2o4i",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:08:01 +0000",
+      "summary": "Devlog: gimmick arenas and game-feel juice Following up on my last post about Chaos Football Club — here's a bit on two things that make it feel chaotic in a good way: the arenas and the juice. Beyond",
+      "score": 5,
+      "titleZh": "Devlog: building gimmick arenas and game-feel juice for Chaos Football Club"
+    },
+    {
+      "title": "Are Free PSN Gift Cards Real? What You Should Know",
+      "link": "https://dev.to/getofer_12ab887928e0d0a1c/are-free-psn-gift-cards-real-what-you-should-know-3nde",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:06:43 +0000",
+      "summary": "A PSN Gift Card is a convenient way to add funds to a PlayStation account without using a debit or credit card directly. 👉 You can check the full breakdown here:https://incomepathhub.com/rewardflow/ ",
+      "score": 5,
+      "titleZh": "Are Free PSN Gift Cards Real? What You Should Know"
+    },
+    {
+      "title": "Preparing Founders in Universi…",
+      "link": "https://dev.to/norviktech/preparing-founders-in-universi-2k6i",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:06:11 +0000",
+      "summary": "Originally published at norvik.tech Explore how universities can better prepare future founders for the tech landscape. A comprehensive analysis for educators and industry leaders. In today's fast-pac",
+      "score": 5,
+      "titleZh": "Preparing Founders in Universi…"
+    },
+    {
+      "title": "We Were IndexNow-Pinging GitHub PRs Instead of Blog URLs (Here's How We Fixed It)",
+      "link": "https://dev.to/savage_solutions/we-were-indexnow-pinging-github-prs-instead-of-blog-urls-heres-how-we-fixed-it-mno",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 10:01:38 +0000",
+      "summary": "The Bug Nobody Notices Until Bing Returns a 403 We build and maintain content pipelines for clients at Savage Digital Solutions, and last month we shipped a migration for Candid Studios that moved the",
+      "score": 5,
+      "titleZh": "We Were IndexNow-Pinging GitHub PRs Instead of Blog URLs (Here's How We Fixed It)"
     }
   ]
 }
