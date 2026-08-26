@@ -1,21 +1,69 @@
 {
-  "updated": "2026-08-25T10:30:52.114Z",
-  "date": "2026-08-25",
+  "updated": "2026-08-26T01:10:37.131Z",
+  "date": "2026-08-26",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Training AI to Paint with Code",
-      "link": "https://surya.website/rling-qwen-to-paint-with-code",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Sun, 23 Aug 2026 19:39:29 +0000",
-      "summary": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800",
-      "score": 99,
-      "titleZh": "Training AI to Paint with Code"
+      "date": "Tue, 25 Aug 2026 14:06:02 +0000",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr Comments URL: https://news.ycombinator.com/item?id=49434378",
+      "score": 314,
+      "titleZh": "OpenAI Jalapeño: Better than Nvidia Blackwell"
+    },
+    {
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "link": "https://github.com/ThinkOffApp/CarWatch",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 25 Aug 2026 15:20:20 +0000",
+      "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service",
+      "score": 92,
+      "titleZh": "Show HN: I made a Raspberry with Qwen my local car AI"
+    },
+    {
+      "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-25T18:34:35.000Z",
+      "summary": "Hi everyone, I’m researching how to design an AI agent for a medicine-reminder system. The agent has to decide, at each relevant time, whether to: send a reminder, wait (do nothing for now), or notify",
+      "score": 40,
+      "titleZh": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]"
+    },
+    {
+      "title": "What would a fair benchmark for agent architecture look like? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-25T13:55:48.000Z",
+      "summary": "I am working on an evaluation design and would appreciate criticism before running it. Most coding-agent benchmarks collapse the model and its harness into one score. If a run fails, it is difficult t",
+      "score": 40,
+      "titleZh": "What would a fair benchmark for agent architecture look like? [D]"
+    },
+    {
+      "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-25T10:30:17.000Z",
+      "summary": "Paper: https://huggingface.co/spaces/tri-fair-lab/publications/blob/main/Thomson_1_0_Technical_Report.pdf The development of frontier models is commonly perceived to be in the exclusive remit of a sma",
+      "score": 40,
+      "titleZh": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]"
     },
     {
       "title": "Travel and stay accommodation for EMNLP [D]",
@@ -42,30 +90,6 @@
       "titleZh": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]"
     },
     {
-      "title": "Hyperparameters fine tuning for MARL comparative study [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-24T21:10:10.000Z",
-      "summary": "hello everyone. I'm training PPO variants on different multi-agent tasks from the VMAS library (Independent PPO / Graph PPO and such, see HetGPPO by Bettini et al.). I noticed that for every architect",
-      "score": 40,
-      "titleZh": "Hyperparameters fine tuning for MARL comparative study [D]"
-    },
-    {
-      "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-24T19:10:39.000Z",
-      "summary": "I'm one of the co-authors of this paper. It's a seminal work in exploring the properties of 3D generated by LLMs via spatial programming. I've set up visual demonstrations of such 3D objects at: https",
-      "score": 40,
-      "titleZh": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable"
-    },
-    {
       "title": "Bart- A vintage llm [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
       "source": "Reddit ML",
@@ -76,18 +100,6 @@
       "summary": "after 3 months and $800 burned... Unbounded Labs is proud to introduce Bart, our vintage LLM: 2.82B parameters trained from scratch on 20.1B tokens of English written before 1931. You can talk to it r",
       "score": 40,
       "titleZh": "Bart- A vintage llm [R]"
-    },
-    {
-      "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-24T06:11:03.000Z",
-      "summary": "Recently, the AAAI 2027 organizers sent an email regarding collusion occurring during the review process, especially in the 2-cycles category (i.e., an author of Paper A reviews Paper B, while an auth",
-      "score": 40,
-      "titleZh": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -114,136 +126,124 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "link": "https://arxiv.org/abs/2608.21362",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing p",
-      "score": 5,
-      "titleZh": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference"
-    },
-    {
-      "title": "Key Factors That Influence Solar Performance in Manufacturing Facilities",
-      "link": "https://dev.to/intern_asif_6e2ac5f9c780f/key-factors-that-influence-solar-performance-in-manufacturing-facilities-f87",
+      "title": "Beating TLS Fingerprinting in Python: A Hands-On Guide",
+      "link": "https://dev.to/greta_af2fb2dbe283dce1483/beating-tls-fingerprinting-in-python-a-hands-on-guide-pog",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:26:14 +0000",
-      "summary": "Solar power can help manufacturing facilities generate electricity from their available rooftop space. However, the performance of an industrial solar system depends on much more than the number of pa",
+      "date": "Wed, 26 Aug 2026 01:07:02 +0000",
+      "summary": "Beating TLS Fingerprinting in Python: A Hands-On Guide Here's a scenario that has confused every scraper developer at least once: headers are perfect, cookies are managed, the proxy is residential — a",
       "score": 5,
-      "titleZh": "Key Factors That Influence Solar Performance in Manufacturing Facilities"
+      "titleZh": "Beating TLS Fingerprinting in Python: A Hands-On Guide"
     },
     {
-      "title": "A Dangling CNAME Is a Subdomain Takeover Waiting to Happen — and DNS Still Resolves Fine",
-      "link": "https://dev.to/merlonix/a-dangling-cname-is-a-subdomain-takeover-waiting-to-happen-and-dns-still-resolves-fine-59in",
+      "title": "Analysis: TikTok's $400 Million Settlement and Its…",
+      "link": "https://dev.to/norviktech/analysis-tiktoks-400-million-settlement-and-its-3mhd",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:26:02 +0000",
-      "summary": "You spun up docs.example.com on a hosted docs service two years ago, pointed a CNAME at example.hosteddocs.io, and later moved the docs somewhere else. You cancelled the hosted account. You did not de",
+      "date": "Wed, 26 Aug 2026 01:06:13 +0000",
+      "summary": "Originally published at norvik.tech Explore the technical and business implications of TikTok's settlement over child privacy concerns, impacting the tech landscape significantly. TikTok's recent agre",
       "score": 5,
-      "titleZh": "A Dangling CNAME Is a Subdomain Takeover Waiting to Happen — and DNS Still Resolves Fine"
+      "titleZh": "Analysis: TikTok's $400 Million Settlement and Its…"
     },
     {
-      "title": "How to Write B2B Landing Page Copy That Converts Skeptical Buyers",
-      "link": "https://dev.to/prodigital360/how-to-write-b2b-landing-page-copy-that-converts-skeptical-buyers-1go5",
+      "title": "Ad Verification 101: How Brands Check Their Ads Actually Ran",
+      "link": "https://dev.to/greta_af2fb2dbe283dce1483/ad-verification-101-how-brands-check-their-ads-actually-ran-2j43",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:25:53 +0000",
-      "summary": "This article was originally published on ProDigital360 Read the full article on ProDigital360 →",
+      "date": "Wed, 26 Aug 2026 01:05:52 +0000",
+      "summary": "Ad Verification 101: How Brands Check Their Ads Actually Ran Digital advertising has a trust problem with a number attached to it: industry estimates put wasted ad spend — fraud, misplacement, non-vie",
       "score": 5,
-      "titleZh": "How to Write B2B Landing Page Copy That Converts Skeptical Buyers"
+      "titleZh": "Ad Verification 101: How Brands Check Their Ads Actually Ran"
     },
     {
-      "title": "AI Integration in 2026: How Businesses Can Connect AI With Existing Systems and Workflows",
-      "link": "https://dev.to/rupal_dahite/ai-integration-in-2026-how-businesses-can-connect-ai-with-existing-systems-and-workflows-5gfb",
+      "title": "Your Training Data Has a Geography Problem",
+      "link": "https://dev.to/greta_af2fb2dbe283dce1483/your-training-data-has-a-geography-problem-4lm8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:25:26 +0000",
-      "summary": "Artificial intelligence has moved beyond being an experimental technology. Businesses are now using AI to automate repetitive processes, improve customer experiences, analyze large amounts of data, an",
+      "date": "Wed, 26 Aug 2026 01:04:38 +0000",
+      "summary": "Your Training Data Has a Geography Problem We talk a lot about dataset bias — demographic, temporal, linguistic. Here's one that barely gets discussed: where your data was collected from. The web serv",
       "score": 5,
-      "titleZh": "AI Integration in 2026: How Businesses Can Connect AI With Existing Systems and Workflows"
+      "titleZh": "Your Training Data Has a Geography Problem"
     },
     {
-      "title": "How Factories Can Plan a Solar Project Around Their Energy Requirements",
-      "link": "https://dev.to/internhighthink_ec9da7e6/how-factories-can-plan-a-solar-project-around-their-energy-requirements-jdo",
+      "title": "Build a Multi-Country Rank Tracker in Python (Without the SaaS Bill)",
+      "link": "https://dev.to/greta_af2fb2dbe283dce1483/build-a-multi-country-rank-tracker-in-python-without-the-saas-bill-1peo",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:24:33 +0000",
-      "summary": "Electricity is an essential part of manufacturing operations. Production machinery, compressors, pumps, lighting, ventilation and cooling systems can all contribute to substantial energy consumption. ",
+      "date": "Wed, 26 Aug 2026 01:03:26 +0000",
+      "summary": "Build a Multi-Country Rank Tracker in Python (Without the SaaS Bill) Rank tracking SaaS costs $50–$300/month for what is, technically, twenty lines of Python and a proxy. If you monitor more than a ha",
       "score": 5,
-      "titleZh": "How Factories Can Plan a Solar Project Around Their Energy Requirements"
+      "titleZh": "Build a Multi-Country Rank Tracker in Python (Without the SaaS Bill)"
     },
     {
-      "title": "A Quota-Aware Proxy for Free AI Endpoints: Treating Limits as a Budget, Not a Wall",
-      "link": "https://dev.to/byteio_3726/a-quota-aware-proxy-for-free-ai-endpoints-treating-limits-as-a-budget-not-a-wall-ng4",
+      "title": "One IP Per Account: The Arithmetic of Multi-Account Survival",
+      "link": "https://dev.to/greta_af2fb2dbe283dce1483/one-ip-per-account-the-arithmetic-of-multi-account-survival-31nl",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:22:44 +0000",
-      "summary": "Free model tiers fail in predictable ways, but most applications treat them as infinite until the first 429. A small proxy that tracks quotas and fails over between endpoints turned my demo from a 2 A",
+      "date": "Wed, 26 Aug 2026 01:02:08 +0000",
+      "summary": "One IP Per Account: The Arithmetic of Multi-Account Survival Run an online business long enough and you'll meet the ban hammer. Multiple store accounts, seller profiles, ad accounts, social handles — ",
       "score": 5,
-      "titleZh": "A Quota-Aware Proxy for Free AI Endpoints: Treating Limits as a Budget, Not a Wall"
+      "titleZh": "One IP Per Account: The Arithmetic of Multi-Account Survival"
     },
     {
-      "title": "5 AI Infrastructure Layers That Decide Whether Your Shopify Store Gets Cited in 2026",
-      "link": "https://dev.to/pramendray/5-ai-infrastructure-layers-that-decide-whether-your-shopify-store-gets-cited-in-2026-2229",
+      "title": "Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs",
+      "link": "https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-22de",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:19:35 +0000",
-      "summary": "\"AI infrastructure\" usually gets framed as a compute-and-model conversation which provider, which model, how much it costs to run. For a Shopify store, the infrastructure question that actually matter",
+      "date": "Wed, 26 Aug 2026 00:55:27 +0000",
+      "summary": "Most AI side projects die before seeing a single user. I know because I've killed plenty of them myself. The pattern was always the same: I'd get excited about some idea, spend two weeks building a \"r",
       "score": 5,
-      "titleZh": "5 AI Infrastructure Layers That Decide Whether Your Shopify Store Gets Cited in 2026"
+      "titleZh": "Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs"
     },
     {
-      "title": "Localizing a marketplace search for 12 markets: the assumptions that cost me",
-      "link": "https://dev.to/ohadfarkash/localizing-a-marketplace-search-for-12-markets-the-assumptions-that-cost-me-3a9j",
+      "title": "Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt",
+      "link": "https://dev.to/aws/build-a-full-stack-music-station-with-openrouter-amazon-bedrock-and-nuxt-5fh4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:19:24 +0000",
-      "summary": "I run OneFindMe, an AI product-search front end for assumed about what each market wants — and kept getting wrong This is three of those assumptions, what the data actually said, and the code The firs",
+      "date": "Wed, 26 Aug 2026 00:48:03 +0000",
+      "summary": "Have you ever been coding and then gotten into that flow state? You know where hours pass by , and it feels to you it's only ben a few minutes? Me too. One thing that really helps me get into that sta",
       "score": 5,
-      "titleZh": "Localizing a marketplace search for 12 markets: the assumptions that cost me"
+      "titleZh": "Build a Full-Stack Music Station with OpenRouter, Amazon Bedrock, and Nuxt"
     },
     {
-      "title": "Designing a Style-Preset Thumbnail Flow Without Building a Clone Button",
-      "link": "https://dev.to/zhebuildsthings/designing-a-style-preset-thumbnail-flow-without-building-a-clone-button-2g5m",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 25 Aug 2026 10:17:06 +0000",
-      "summary": "Designing a Style-Preset Thumbnail Flow Without Building a Clone Button “Make it look like this creator” sounds like a simple product requirement. In an interface, it is not. The request bundles sever",
-      "score": 5,
-      "titleZh": "Designing a Style-Preset Thumbnail Flow Without Building a Clone Button"
-    },
-    {
-      "title": "How to serve dynamic user announcements with static SSR performance",
-      "link": "https://dev.to/pavan_s_poojary/how-to-serve-dynamic-user-announcements-with-static-ssr-performance-kd1",
+      "title": "I Built a Free YouTube Chapter Generator (Because Descript Charges $15/month)",
+      "link": "https://dev.to/jack_green_7b74cb2cdf9e23/i-built-a-free-youtube-chapter-generator-because-descript-charges-15month-jho",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 25 Aug 2026 10:16:00 +0000",
-      "summary": "Have you ever loaded a SaaS app and seen an announcement banner flicker in 500ms after the page loads, shifting the entire layout down by 60px? That Layout Shift (CLS) destroys user experience and SEO",
+      "date": "Wed, 26 Aug 2026 00:43:17 +0000",
+      "summary": "I Built a Free YouTube Chapter Generator (Because Descript Charges $15/month) Stop paying $15 per month for Descript when you just need to add timestamps to your YouTube videos. I was tired of Descrip",
       "score": 5,
-      "titleZh": "How to serve dynamic user announcements with static SSR performance"
+      "titleZh": "I Built a Free YouTube Chapter Generator (Because Descript Charges $15/month)"
+    },
+    {
+      "title": "Digital Business Card / vCard Generator — 100% Free, No Subscription",
+      "link": "https://dev.to/jack_green_7b74cb2cdf9e23/digital-business-card-vcard-generator-100-free-no-subscription-469p",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 00:42:53 +0000",
+      "summary": "Digital Business Card / vCard Generator — 100% Free, No Subscription Tools like HiHello and Blinq charge $40-100/year for digital business cards with QR codes. That's $4-8/month for something you use ",
+      "score": 5,
+      "titleZh": "Digital Business Card / vCard Generator — 100% Free, No Subscription"
     }
   ]
 }
