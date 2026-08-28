@@ -1,249 +1,249 @@
 {
-  "updated": "2026-08-26T10:33:28.416Z",
-  "date": "2026-08-26",
+  "updated": "2026-08-28T09:34:41.756Z",
+  "date": "2026-08-28",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "link": "https://louisabraham.github.io/load-bearing/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 27 Aug 2026 08:59:49 +0000",
+      "summary": "Article URL: https://louisabraham.github.io/load-bearing/ Comments URL: https://news.ycombinator.com/item?id=49461817",
+      "score": 515,
+      "titleZh": "Show HN: The load-bearing vocabulary of Claude"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 26 Aug 2026 11:23:54 +0000",
+      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49447057",
+      "score": 293,
+      "titleZh": "The turbulent AI era is here"
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 27 Aug 2026 18:03:42 +0000",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?id=49468818",
+      "score": 281,
+      "titleZh": "Gemini-3.5-Transcribe"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 27 Aug 2026 17:06:32 +0000",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/ Comments URL: https://news.ycombinator.com/item?id=49467922",
+      "score": 249,
+      "titleZh": "Gemini Omni 1.1 Flash"
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 27 Aug 2026 21:46:39 +0000",
+      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714",
+      "score": 108,
+      "titleZh": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab"
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "link": "https://www.terminal-bench-science.ai/announcement",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 28 Aug 2026 00:06:51 +0000",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820",
+      "score": 86,
+      "titleZh": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows"
+    },
+    {
+      "title": "Where to submit stat/prob ML [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-26T07:34:45.000Z",
-      "summary": "I've been working on an open-source project called Millwright, an attempt to explore what an end-to-end machine learning workflow could look like in Rust. https://millwright-rs.dev/ This started while",
+      "date": "2026-08-28T08:16:25.000Z",
+      "summary": "I'm a researcher in statistical and probabilistic ML, I have a steady record of top ML publications and really used to enjoy going to conferences. Over the last few years LLM based works have complete",
       "score": 40,
-      "titleZh": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]"
+      "titleZh": "Where to submit stat/prob ML [D]"
     },
     {
-      "title": "Catching bugs in scikit-learn [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vym6cn/catching_bugs_in_scikitlearn_d/",
+      "title": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-26T03:57:42.000Z",
-      "summary": "sklearn 1.9 fixed a bug in how BayesianRidge computes its uncertainty. We traced predict on 1.8 and 1.9 and compared the two formulas it actually computes, see if you can spot what changed before the ",
+      "date": "2026-08-27T21:33:09.000Z",
+      "summary": "Hey everyone! I’m excited to announce the release of py-evoFE (v0.3.0) — an open-source Python library that uses genetic algorithms to automatically discover, combine, and optimize feature transformat",
       "score": 40,
-      "titleZh": "Catching bugs in scikit-learn [D]"
+      "titleZh": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]"
     },
     {
-      "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+      "title": "Best ML papers to pick up writing skills [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-25T18:34:35.000Z",
-      "summary": "Hi everyone, I’m researching how to design an AI agent for a medicine-reminder system. The agent has to decide, at each relevant time, whether to: send a reminder, wait (do nothing for now), or notify",
+      "date": "2026-08-27T21:30:31.000Z",
+      "summary": "Which research papers (old or new) do you think a PhD student/early researcher must read to improve their writing skills? Do you have a personal favorite researcher whose papers tend to be well-writte",
       "score": 40,
-      "titleZh": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]"
+      "titleZh": "Best ML papers to pick up writing skills [D]"
     },
     {
-      "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
+      "title": "Can AI Improve Itself? RSI Might Be the Answer [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w052xg/can_ai_improve_itself_rsi_might_be_the_answer_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-25T10:30:17.000Z",
-      "summary": "Paper: https://huggingface.co/spaces/tri-fair-lab/publications/blob/main/Thomson_1_0_Technical_Report.pdf The development of frontier models is commonly perceived to be in the exclusive remit of a sma",
+      "date": "2026-08-27T20:13:30.000Z",
+      "summary": "Can an AI make other AIs better? And what stops it from just cheating? Last month, an OpenAI eval agent escaped its sandbox and broke into Hugging Face, apparently to grab test solutions from a benchm",
       "score": 40,
-      "titleZh": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]"
+      "titleZh": "Can AI Improve Itself? RSI Might Be the Answer [R]"
     },
     {
-      "title": "Travel and stay accommodation for EMNLP [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
-      "source": "Reddit ML",
+      "title": "The agent rewrote my working page.tsx again",
+      "link": "https://dev.to/facundola/the-agent-rewrote-my-working-pagetsx-again-59a3",
+      "source": "Dev.to Next.js",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-08-25T09:05:13.000Z",
-      "summary": "Hi I am a PhD student, My paper got accepted in EMNLP 2026, As this is my first paper I wanted some information. My professor has agreed to give the registration costs, but I am on my own for the trav",
-      "score": 40,
-      "titleZh": "Travel and stay accommodation for EMNLP [D]"
-    },
-    {
-      "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-25T06:34:35.000Z",
-      "summary": "I got my batch of four papers for AAAI 2027. All four papers make empirical claims, none include code, data, or anything I can actually check. Just the PDF and the checklist. AAAI-27's own rules say c",
-      "score": 40,
-      "titleZh": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-02T02:15:24.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-07-31T02:30:08.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch",
+      "date": "Fri, 28 Aug 2026 09:31:39 +0000",
+      "summary": "I timed it. Fourteen minutes. One prompt: disable the save button while the Server Action is pending. What I got back: 'use client' at the top of app/(dashboard)/invoices/page.tsx useEffect fetching /",
       "score": 5,
-      "titleZh": "Gatik raises $200M to scale AI-powered autonomous freight"
+      "titleZh": "The agent rewrote my working page.tsx again"
     },
     {
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 26 Aug 2026 09:08:11 +0000",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level op",
-      "score": 5,
-      "titleZh": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots"
-    },
-    {
-      "title": "How to Reduce B2B Website Bounce Rate: 10 Proven Tactics",
-      "link": "https://dev.to/prodigital360/how-to-reduce-b2b-website-bounce-rate-10-proven-tactics-d2m",
+      "title": "Install Zyctra AI on Any Device—No App Store Required",
+      "link": "https://dev.to/zyctraai/install-zyctra-ai-on-any-device-no-app-store-required-i8g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 10:29:02 +0000",
-      "summary": "This article was originally published on ProDigital360 Read the full article on ProDigital360 →",
+      "date": "Fri, 28 Aug 2026 09:30:13 +0000",
+      "summary": "Install Zyctra AI on Any Device—No App Store Required The Problem: You Need AI Tools That Actually Work Everywhere Developers and professionals face a constant friction point: managing multiple tools ",
       "score": 5,
-      "titleZh": "How to Reduce B2B Website Bounce Rate: 10 Proven Tactics"
+      "titleZh": "Install Zyctra AI on Any Device—No App Store Required"
     },
     {
-      "title": "Stop Using useEffect for Data Fetching: A Modern React Architecture Guide",
-      "link": "https://dev.to/bhavya_arora/stop-using-useeffect-for-data-fetching-a-modern-react-architecture-guide-n50",
+      "title": "Why Children Shouldn't Copy AI Answers Blindly",
+      "link": "https://dev.to/qnayds_career_41b7fe9fc95/why-children-shouldnt-copy-ai-answers-blindly-35fe",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 28 Aug 2026 09:29:34 +0000",
+      "summary": "AI has become a normal part of how many students search for information, do homework, learn new topics, and even write assignments. And honestly, AI can be really useful. The problem starts when a stu",
+      "score": 5,
+      "titleZh": "Why Children Shouldn't Copy AI Answers Blindly"
+    },
+    {
+      "title": "I got tired of robotic language apps, so I connected real-world radio stations to an AI",
+      "link": "https://dev.to/wanjiang/i-got-tired-of-robotic-language-apps-so-i-connected-real-world-radio-stations-to-an-ai-4kk0",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 28 Aug 2026 09:29:24 +0000",
+      "summary": "I got tired of robotic language apps, so I connected real-world radio stations to an AI 📻 If you’ve ever tried to learn a foreign language, you know the dreaded \"Intermediate Plateau.\" You spend mont",
+      "score": 5,
+      "titleZh": "I got tired of robotic language apps, so I connected real-world radio stations to an AI"
+    },
+    {
+      "title": "Five Programmatic Safety Checks for XRPL Tokens",
+      "link": "https://dev.to/nyxagi/five-programmatic-safety-checks-for-xrpl-tokens-3ib6",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 10:19:58 +0000",
-      "summary": "If you review a React codebase written a few years ago, you will inevitably find components littered with code that looks exactly like this: const UserProfile = ({ userId }) => { const [data, setData]",
+      "date": "Fri, 28 Aug 2026 09:28:21 +0000",
+      "summary": "20,265 tokens are issued on the XRP Ledger. 1,424 traded in the last 24 hours. Anyone can issue one in seconds without permission, so the entire burden of screening sits with whoever is reading the da",
       "score": 5,
-      "titleZh": "Stop Using useEffect for Data Fetching: A Modern React Architecture Guide"
+      "titleZh": "Five Programmatic Safety Checks for XRPL Tokens"
     },
     {
-      "title": "📐 CV TRẮC ĐỊA CHUYÊN NGHIỆP – SẴN SÀNG CHO CƠ HỘI VIỆC LÀM MỚI!",
-      "link": "https://dev.to/timviec365vntuyendung/cv-trac-dia-chuyen-nghiep-san-sang-cho-co-hoi-viec-lam-moi-4f5j",
+      "title": "I mapped every WordPress plugin CVE since 2023. Here's what the data says — and how I built it.",
+      "link": "https://dev.to/zahidabbasi/i-mapped-every-wordpress-plugin-cve-since-2023-heres-what-the-data-says-and-how-i-built-it-1hm",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 10:17:13 +0000",
-      "summary": "Ngành Trắc địa phù hợp với những người có khả năng làm việc chính xác, sử dụng thiết bị đo đạc và yêu thích môi trường kỹ thuật, công trình. Một chiếc CV chỉn chu sẽ giúp bạn thể hiện rõ kinh nghiệm, ",
+      "date": "Fri, 28 Aug 2026 09:25:17 +0000",
+      "summary": "Most \"is this plugin safe?\" advice is vibes. I wanted numbers, so I built a dataset. Here's what it found, and exactly how, so you can check my work or build your own. Of 8,010 WordPress plugins with ",
       "score": 5,
-      "titleZh": "📐 CV TRẮC ĐỊA CHUYÊN NGHIỆP – SẴN SÀNG CHO CƠ HỘI VIỆC LÀM MỚI!"
+      "titleZh": "I mapped every WordPress plugin CVE since 2023. Here's what the data says — and how I built it."
     },
     {
-      "title": "How Many Builds Can Run at Once on One VPS",
-      "link": "https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6",
-      "source": "Dev.to WebDev",
+      "title": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026",
+      "link": "https://dev.to/jashwanth234567/autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026-17c7",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 10:16:51 +0000",
-      "summary": "The number is not a property of your deployment tool. It is your server's available memory divided by what one build takes at its peak, and every answer that skips that division is guessing on your be",
+      "date": "Fri, 28 Aug 2026 09:23:11 +0000",
+      "summary": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026 Subtitle: How agentic workflows, multi-modal reasoning, and autonomous tools are transforming full-stack software development in 2026. In 2026",
       "score": 5,
-      "titleZh": "How Many Builds Can Run at Once on One VPS"
+      "titleZh": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026"
     },
     {
-      "title": "5 New React Native Features in 2026 (And 2 I'm Still Waiting For)",
-      "link": "https://dev.to/astraedus/5-new-react-native-features-in-2026-and-2-im-still-waiting-for-220c",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 10:12:24 +0000",
-      "summary": "If you last touched React Native a year ago, the best upgrades waiting for you aren't features you toggle. They're defaults you inherit. The bridge is gone, the New Architecture is the only architectu",
-      "score": 5,
-      "titleZh": "5 New React Native Features in 2026 (And 2 I'm Still Waiting For)"
-    },
-    {
-      "title": "Elevator Management Software: The Future of Smarter Building Operations",
-      "link": "https://dev.to/rosie-martin/elevator-management-software-the-future-of-smarter-building-operations-3j6o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 10:09:32 +0000",
-      "summary": "Modern buildings are becoming more connected every year. Property managers can now monitor lighting, security, HVAC systems, access control, and other building functions through digital platforms. Ele",
-      "score": 5,
-      "titleZh": "Elevator Management Software: The Future of Smarter Building Operations"
-    },
-    {
-      "title": "Devlog: building gimmick arenas and game-feel juice for Chaos Football Club",
-      "link": "https://dev.to/mario_jgoestarosso_5c91/devlog-building-gimmick-arenas-and-game-feel-juice-for-chaos-football-club-2o4i",
+      "title": "Building an Enterprise Football Data Pipeline: Decoding Flashscore's Protocol for xG & Referee Analytics",
+      "link": "https://dev.to/harryautomazione/building-an-enterprise-football-data-pipeline-decoding-flashscores-protocol-for-xg-referee-4ngc",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 10:08:01 +0000",
-      "summary": "Devlog: gimmick arenas and game-feel juice Following up on my last post about Chaos Football Club — here's a bit on two things that make it feel chaotic in a good way: the arenas and the juice. Beyond",
+      "date": "Fri, 28 Aug 2026 09:23:09 +0000",
+      "summary": "Most football data scrapers on the market only extract high-level final scores (e.g. 2-1). But quantitative sports analysts, data scientists, and predictive betting modelers need granular data: Expect",
       "score": 5,
-      "titleZh": "Devlog: building gimmick arenas and game-feel juice for Chaos Football Club"
+      "titleZh": "Building an Enterprise Football Data Pipeline: Decoding Flashscore's Protocol for xG & Referee Analytics"
     },
     {
-      "title": "Are Free PSN Gift Cards Real? What You Should Know",
-      "link": "https://dev.to/getofer_12ab887928e0d0a1c/are-free-psn-gift-cards-real-what-you-should-know-3nde",
+      "title": "Building a 90MB E-Commerce Price Intelligence Tool for AI Agents using Apify MCP Server",
+      "link": "https://dev.to/harryautomazione/building-a-90mb-e-commerce-price-intelligence-tool-for-ai-agents-using-apify-mcp-server-4hmf",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 28 Aug 2026 09:20:53 +0000",
+      "summary": "Running e-commerce competitor price monitoring in production usually forces a painful compromise: pay $200+/month for SaaS platforms like Prisync, or host custom Puppeteer/Playwright scrapers that che",
+      "score": 5,
+      "titleZh": "Building a 90MB E-Commerce Price Intelligence Tool for AI Agents using Apify MCP Server"
+    },
+    {
+      "title": "How Much Does a Veterinary Clinic Website Cost? Real Pricing Breakdown",
+      "link": "https://dev.to/amanhstu/how-much-does-a-veterinary-clinic-website-cost-real-pricing-breakdown-41ca",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 10:06:43 +0000",
-      "summary": "A PSN Gift Card is a convenient way to add funds to a PlayStation account without using a debit or credit card directly. 👉 You can check the full breakdown here:https://incomepathhub.com/rewardflow/ ",
+      "date": "Fri, 28 Aug 2026 09:20:38 +0000",
+      "summary": "If you run a veterinary clinic and you've started pricing out a new website, you've probably noticed the numbers are all over the place — a $200/year builder plan on one end, a $10,000 custom build on",
       "score": 5,
-      "titleZh": "Are Free PSN Gift Cards Real? What You Should Know"
-    },
-    {
-      "title": "Preparing Founders in Universi…",
-      "link": "https://dev.to/norviktech/preparing-founders-in-universi-2k6i",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 10:06:11 +0000",
-      "summary": "Originally published at norvik.tech Explore how universities can better prepare future founders for the tech landscape. A comprehensive analysis for educators and industry leaders. In today's fast-pac",
-      "score": 5,
-      "titleZh": "Preparing Founders in Universi…"
-    },
-    {
-      "title": "We Were IndexNow-Pinging GitHub PRs Instead of Blog URLs (Here's How We Fixed It)",
-      "link": "https://dev.to/savage_solutions/we-were-indexnow-pinging-github-prs-instead-of-blog-urls-heres-how-we-fixed-it-mno",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 26 Aug 2026 10:01:38 +0000",
-      "summary": "The Bug Nobody Notices Until Bing Returns a 403 We build and maintain content pipelines for clients at Savage Digital Solutions, and last month we shipped a migration for Candid Studios that moved the",
-      "score": 5,
-      "titleZh": "We Were IndexNow-Pinging GitHub PRs Instead of Blog URLs (Here's How We Fixed It)"
+      "titleZh": "How Much Does a Veterinary Clinic Website Cost? Real Pricing Breakdown"
     }
   ]
 }
