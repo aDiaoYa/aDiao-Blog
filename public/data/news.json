@@ -1,81 +1,93 @@
 {
-  "updated": "2026-08-28T09:34:41.756Z",
-  "date": "2026-08-28",
+  "updated": "2026-08-29T05:40:55.658Z",
+  "date": "2026-08-29",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "link": "https://louisabraham.github.io/load-bearing/",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 27 Aug 2026 08:59:49 +0000",
-      "summary": "Article URL: https://louisabraham.github.io/load-bearing/ Comments URL: https://news.ycombinator.com/item?id=49461817",
-      "score": 515,
-      "titleZh": "Show HN: The load-bearing vocabulary of Claude"
+      "date": "Fri, 28 Aug 2026 23:27:45 +0000",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416",
+      "score": 81,
+      "titleZh": "I accidentally turned LLM memory into program analysis"
     },
     {
-      "title": "The turbulent AI era is here",
-      "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 26 Aug 2026 11:23:54 +0000",
-      "summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49447057",
-      "score": 293,
-      "titleZh": "The turbulent AI era is here"
+      "date": "Sat, 29 Aug 2026 01:24:13 +0000",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081",
+      "score": 54,
+      "titleZh": "StemDeck, a free, open-source and local AI stem separator"
     },
     {
-      "title": "Gemini-3.5-Transcribe",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "title": "Identifying fake cosmetics using AI",
+      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 27 Aug 2026 18:03:42 +0000",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?id=49468818",
-      "score": 281,
-      "titleZh": "Gemini-3.5-Transcribe"
+      "date": "Fri, 28 Aug 2026 22:18:27 +0000",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925",
+      "score": 45,
+      "titleZh": "Identifying fake cosmetics using AI"
     },
     {
-      "title": "Gemini Omni 1.1 Flash",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "source": "HN·AI",
+      "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 27 Aug 2026 17:06:32 +0000",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/ Comments URL: https://news.ycombinator.com/item?id=49467922",
-      "score": 249,
-      "titleZh": "Gemini Omni 1.1 Flash"
+      "date": "2026-08-29T02:09:05.000Z",
+      "summary": "Hey everyone, I'm an international student studying in the US. I'm on track to graduate late next year. My research is not exactly ML, it is in 3D computer vision but have decent exposure to ML as wel",
+      "score": 40,
+      "titleZh": "How important is having an internship to get a good job for ML PhD in USA? [D]"
     },
     {
-      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "source": "HN·AI",
+      "title": "WTF is a World Model? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 27 Aug 2026 21:46:39 +0000",
-      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714",
-      "score": 108,
-      "titleZh": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab"
+      "date": "2026-08-28T23:37:24.000Z",
+      "summary": "I'm trying to understand what a world model is. I understand it has cognitive science and reinforcement learning. I understand at least at the moment what most people are building which they call worl",
+      "score": 40,
+      "titleZh": "WTF is a World Model? [D]"
     },
     {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "link": "https://www.terminal-bench-science.ai/announcement",
-      "source": "HN·AI",
+      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 28 Aug 2026 00:06:51 +0000",
-      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820",
-      "score": 86,
-      "titleZh": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows"
+      "date": "2026-08-28T19:48:27.000Z",
+      "summary": "Its a 2.4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation. The generated image will then be displayed on a monitor o",
+      "score": 40,
+      "titleZh": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]"
+    },
+    {
+      "title": "Google CS PhD Fellowship 2026 [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-28T13:38:49.000Z",
+      "summary": "Has anyone got the decision notification yet? Please mention decision (e.g., approved/rejected) and geographical area (e.g., North America) in your answer. I know the official notification date is 31 ",
+      "score": 40,
+      "titleZh": "Google CS PhD Fellowship 2026 [R]"
     },
     {
       "title": "Where to submit stat/prob ML [D]",
@@ -90,18 +102,6 @@
       "titleZh": "Where to submit stat/prob ML [D]"
     },
     {
-      "title": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-27T21:33:09.000Z",
-      "summary": "Hey everyone! I’m excited to announce the release of py-evoFE (v0.3.0) — an open-source Python library that uses genetic algorithms to automatically discover, combine, and optimize feature transformat",
-      "score": 40,
-      "titleZh": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]"
-    },
-    {
       "title": "Best ML papers to pick up writing skills [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
       "source": "Reddit ML",
@@ -114,136 +114,136 @@
       "titleZh": "Best ML papers to pick up writing skills [D]"
     },
     {
-      "title": "Can AI Improve Itself? RSI Might Be the Answer [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w052xg/can_ai_improve_itself_rsi_might_be_the_answer_r/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-27T20:13:30.000Z",
-      "summary": "Can an AI make other AIs better? And what stops it from just cheating? Last month, an OpenAI eval agent escaped its sandbox and broke into Hugging Face, apparently to grab test solutions from a benchm",
+      "date": "2026-08-02T02:15:24.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "Can AI Improve Itself? RSI Might Be the Answer [R]"
-    },
-    {
-      "title": "The agent rewrote my working page.tsx again",
-      "link": "https://dev.to/facundola/the-agent-rewrote-my-working-pagetsx-again-59a3",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:31:39 +0000",
-      "summary": "I timed it. Fourteen minutes. One prompt: disable the save button while the Server Action is pending. What I got back: 'use client' at the top of app/(dashboard)/invoices/page.tsx useEffect fetching /",
-      "score": 5,
-      "titleZh": "The agent rewrote my working page.tsx again"
-    },
-    {
-      "title": "Install Zyctra AI on Any Device—No App Store Required",
-      "link": "https://dev.to/zyctraai/install-zyctra-ai-on-any-device-no-app-store-required-i8g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:30:13 +0000",
-      "summary": "Install Zyctra AI on Any Device—No App Store Required The Problem: You Need AI Tools That Actually Work Everywhere Developers and professionals face a constant friction point: managing multiple tools ",
-      "score": 5,
-      "titleZh": "Install Zyctra AI on Any Device—No App Store Required"
-    },
-    {
-      "title": "Why Children Shouldn't Copy AI Answers Blindly",
-      "link": "https://dev.to/qnayds_career_41b7fe9fc95/why-children-shouldnt-copy-ai-answers-blindly-35fe",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:29:34 +0000",
-      "summary": "AI has become a normal part of how many students search for information, do homework, learn new topics, and even write assignments. And honestly, AI can be really useful. The problem starts when a stu",
-      "score": 5,
-      "titleZh": "Why Children Shouldn't Copy AI Answers Blindly"
-    },
-    {
-      "title": "I got tired of robotic language apps, so I connected real-world radio stations to an AI",
-      "link": "https://dev.to/wanjiang/i-got-tired-of-robotic-language-apps-so-i-connected-real-world-radio-stations-to-an-ai-4kk0",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:29:24 +0000",
-      "summary": "I got tired of robotic language apps, so I connected real-world radio stations to an AI 📻 If you’ve ever tried to learn a foreign language, you know the dreaded \"Intermediate Plateau.\" You spend mont",
-      "score": 5,
-      "titleZh": "I got tired of robotic language apps, so I connected real-world radio stations to an AI"
-    },
-    {
-      "title": "Five Programmatic Safety Checks for XRPL Tokens",
-      "link": "https://dev.to/nyxagi/five-programmatic-safety-checks-for-xrpl-tokens-3ib6",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:28:21 +0000",
-      "summary": "20,265 tokens are issued on the XRP Ledger. 1,424 traded in the last 24 hours. Anyone can issue one in seconds without permission, so the entire burden of screening sits with whoever is reading the da",
-      "score": 5,
-      "titleZh": "Five Programmatic Safety Checks for XRPL Tokens"
-    },
-    {
-      "title": "I mapped every WordPress plugin CVE since 2023. Here's what the data says — and how I built it.",
-      "link": "https://dev.to/zahidabbasi/i-mapped-every-wordpress-plugin-cve-since-2023-heres-what-the-data-says-and-how-i-built-it-1hm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:25:17 +0000",
-      "summary": "Most \"is this plugin safe?\" advice is vibes. I wanted numbers, so I built a dataset. Here's what it found, and exactly how, so you can check my work or build your own. Of 8,010 WordPress plugins with ",
-      "score": 5,
-      "titleZh": "I mapped every WordPress plugin CVE since 2023. Here's what the data says — and how I built it."
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
       "title": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026",
-      "link": "https://dev.to/jashwanth234567/autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026-17c7",
+      "link": "https://dev.to/jashwanth234567/autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026-2d59",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 28 Aug 2026 09:23:11 +0000",
+      "date": "Sat, 29 Aug 2026 05:37:56 +0000",
       "summary": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026 Subtitle: How agentic workflows, multi-modal reasoning, and autonomous tools are transforming full-stack software development in 2026. In 2026",
       "score": 5,
       "titleZh": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026"
     },
     {
-      "title": "Building an Enterprise Football Data Pipeline: Decoding Flashscore's Protocol for xG & Referee Analytics",
-      "link": "https://dev.to/harryautomazione/building-an-enterprise-football-data-pipeline-decoding-flashscores-protocol-for-xg-referee-4ngc",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:23:09 +0000",
-      "summary": "Most football data scrapers on the market only extract high-level final scores (e.g. 2-1). But quantitative sports analysts, data scientists, and predictive betting modelers need granular data: Expect",
-      "score": 5,
-      "titleZh": "Building an Enterprise Football Data Pipeline: Decoding Flashscore's Protocol for xG & Referee Analytics"
-    },
-    {
-      "title": "Building a 90MB E-Commerce Price Intelligence Tool for AI Agents using Apify MCP Server",
-      "link": "https://dev.to/harryautomazione/building-a-90mb-e-commerce-price-intelligence-tool-for-ai-agents-using-apify-mcp-server-4hmf",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 28 Aug 2026 09:20:53 +0000",
-      "summary": "Running e-commerce competitor price monitoring in production usually forces a painful compromise: pay $200+/month for SaaS platforms like Prisync, or host custom Puppeteer/Playwright scrapers that che",
-      "score": 5,
-      "titleZh": "Building a 90MB E-Commerce Price Intelligence Tool for AI Agents using Apify MCP Server"
-    },
-    {
-      "title": "How Much Does a Veterinary Clinic Website Cost? Real Pricing Breakdown",
-      "link": "https://dev.to/amanhstu/how-much-does-a-veterinary-clinic-website-cost-real-pricing-breakdown-41ca",
+      "title": "28 lyrics — Southeast Asia charts on Lyrks",
+      "link": "https://dev.to/p2code/28-lyrics-southeast-asia-charts-on-lyrks-4f7n",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 28 Aug 2026 09:20:38 +0000",
-      "summary": "If you run a veterinary clinic and you've started pricing out a new website, you've probably noticed the numbers are all over the place — a $200/year builder plan on one end, a $10,000 custom build on",
+      "date": "Sat, 29 Aug 2026 05:32:00 +0000",
+      "summary": "28 Three Man Down · Southeast Asia charts Almost 28 \\nWait, am I too late for it? \\nI feel so proud of you \\nDon’t worry, no \\nThat’s all you can do \\n \\nAm I where am I supposed to… Read the full lyr",
       "score": 5,
-      "titleZh": "How Much Does a Veterinary Clinic Website Cost? Real Pricing Breakdown"
+      "titleZh": "28 lyrics — Southeast Asia charts on Lyrks"
+    },
+    {
+      "title": "Jati Maya lyrics — Nepal charts on Lyrks",
+      "link": "https://dev.to/p2code/jati-maya-lyrics-nepal-charts-on-lyrks-3j12",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:31:41 +0000",
+      "summary": "Jati Maya 1974 AD · Nepal charts [Chorus] जति माया लाए पनि जति कसम खाए पनि निष्ठुरीले बाटो लाग्दा आँखा तरि गए पछि मनमा पिर त पर्ने नै भयो यो मन त्यसै मर्ने नै भयो [Chorus]… Read the full lyrics on Lyr",
+      "score": 5,
+      "titleZh": "Jati Maya lyrics — Nepal charts on Lyrks"
+    },
+    {
+      "title": "How to Fix WordPress Mobile PageSpeed Scores (Without Breaking the Site)",
+      "link": "https://dev.to/usmanahmaddevx/how-to-fix-wordpress-mobile-pagespeed-scores-without-breaking-the-site-7d3",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:30:15 +0000",
+      "summary": "How to Fix WordPress Mobile PageSpeed Scores (Without Breaking the Site) A practical triage process for WordPress mobile PageSpeed — LCP, unused JS, image pipeline and caching fixes that survive edito",
+      "score": 5,
+      "titleZh": "How to Fix WordPress Mobile PageSpeed Scores (Without Breaking the Site)"
+    },
+    {
+      "title": "Why Does a 125B AI Model Use Only 6B Parameters at a Time?",
+      "link": "https://dev.to/darun_karasabir_b79602fd/why-does-a-125b-ai-model-use-only-6b-parameters-at-a-time-2pd4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:20:52 +0000",
+      "summary": "Why Does a 125B AI Model Use Only 6B Parameters at a Time? A new AI model launches. You open X and immediately see numbers like: 125B parameters 6B active parameters 262K context Open weights And if y",
+      "score": 5,
+      "titleZh": "Why Does a 125B AI Model Use Only 6B Parameters at a Time?"
+    },
+    {
+      "title": "I built a daily debugging puzzle to stop getting rusty",
+      "link": "https://dev.to/dejan_stajic_28050c35cb79/i-built-a-daily-debugging-puzzle-to-stop-getting-rusty-j7h",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:18:05 +0000",
+      "summary": "I kept noticing I was faster at writing new code than at finding bugs in code I already had. That skill atrophies if you only ship features. So I built a small daily practice: a broken snippet, one bu",
+      "score": 5,
+      "titleZh": "I built a daily debugging puzzle to stop getting rusty"
+    },
+    {
+      "title": "How to Earn Roblox Gift Cards in 2026",
+      "link": "https://dev.to/whatsapp_statusvideo_bb8/how-to-earn-roblox-gift-cards-in-2026-2cfi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:17:22 +0000",
+      "summary": "Roblox has become one of the most popular online platforms for gaming, creativity, and social experiences. 👉 You can check the full breakdown here:https://incomepathhub.com/earnfusion/ For players wh",
+      "score": 5,
+      "titleZh": "How to Earn Roblox Gift Cards in 2026"
+    },
+    {
+      "title": "Best Web Development Institute in Laxmi Nagar – Build Your Future in Tech",
+      "link": "https://dev.to/shahin_981ca06dd02c65874f/best-web-development-institute-in-laxmi-nagar-build-your-future-in-tech-8fe",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:15:32 +0000",
+      "summary": "Best Web Development Institute in Laxmi Nagar – Build Your Future in Tech Current web- courses on development within the field usually stress HTML, CSS, JavaScript, making designs that fit all screens",
+      "score": 5,
+      "titleZh": "Best Web Development Institute in Laxmi Nagar – Build Your Future in Tech"
+    },
+    {
+      "title": "How to Earn Xbox Gift Cards in 2026 (Beginner Guide)",
+      "link": "https://dev.to/whatsapp_statusvideo_bb8/how-to-earn-xbox-gift-cards-in-2026-beginner-guide-439j",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:12:49 +0000",
+      "summary": "If you’re looking for a convenient way to purchase games, add-ons, apps, movies, or other digital content, an Xbox Gift Card can be a useful option. 👉 Detailed explanation available here:https://inco",
+      "score": 5,
+      "titleZh": "How to Earn Xbox Gift Cards in 2026 (Beginner Guide)"
+    },
+    {
+      "title": "What Developers Should Know About Digital Marketing Before Launching a Website",
+      "link": "https://dev.to/harshkatyal0202/what-developers-should-know-about-digital-marketing-before-launching-a-website-1gag",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 05:10:04 +0000",
+      "summary": "Building a website is only one part of creating a successful online presence. A developer can create a fast, responsive, technically sound website, but if the intended audience cannot discover it, the",
+      "score": 5,
+      "titleZh": "What Developers Should Know About Digital Marketing Before Launching a Website"
     }
   ]
 }
