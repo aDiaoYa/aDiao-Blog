@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T05:40:55.658Z",
+  "updated": "2026-08-29T14:56:02.329Z",
   "date": "2026-08-29",
   "count": 20,
   "aiCount": 10,
@@ -14,7 +14,7 @@
       ],
       "date": "Fri, 28 Aug 2026 23:27:45 +0000",
       "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416",
-      "score": 81,
+      "score": 202,
       "titleZh": "I accidentally turned LLM memory into program analysis"
     },
     {
@@ -26,20 +26,32 @@
       ],
       "date": "Sat, 29 Aug 2026 01:24:13 +0000",
       "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081",
-      "score": 54,
+      "score": 157,
       "titleZh": "StemDeck, a free, open-source and local AI stem separator"
     },
     {
-      "title": "Identifying fake cosmetics using AI",
-      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "link": "https://lwn.net/Articles/1091231/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 28 Aug 2026 22:18:27 +0000",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925",
-      "score": 45,
-      "titleZh": "Identifying fake cosmetics using AI"
+      "date": "Sat, 29 Aug 2026 14:02:10 +0000",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982",
+      "score": 79,
+      "titleZh": "Debian votes to allow \"responsible use of generative AI\""
+    },
+    {
+      "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-29T11:08:03.000Z",
+      "summary": "https://preview.redd.it/42s57e5oqamh1.png?width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system used to collect and a",
+      "score": 40,
+      "titleZh": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]"
     },
     {
       "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
@@ -102,18 +114,6 @@
       "titleZh": "Where to submit stat/prob ML [D]"
     },
     {
-      "title": "Best ML papers to pick up writing skills [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-27T21:30:31.000Z",
-      "summary": "Which research papers (old or new) do you think a PhD student/early researcher must read to improve their writing skills? Do you have a personal favorite researcher whose papers tend to be well-writte",
-      "score": 40,
-      "titleZh": "Best ML papers to pick up writing skills [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,124 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026",
-      "link": "https://dev.to/jashwanth234567/autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026-2d59",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "link": "https://typebase.io",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 26 Aug 2026 11:33:31 +0000",
+      "summary": "Hey HN! I built Typebase, a library that gives you Convex's DX with Supabase's openness. After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL",
+      "score": 13,
+      "titleZh": "Show HN: Typebase – A single-folder back end you write in TypeScript"
+    },
+    {
+      "title": "Tailwind Typography's prose Is Leaking Into Your Components — and the Three-Tier Fix",
+      "link": "https://dev.to/brokeinprod/tailwind-typographys-prose-is-leaking-into-your-components-and-the-three-tier-fix-2o64",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 14:52:35 +0000",
+      "summary": "My CTA button had underlined links and the wrong text color, and no matter which utility prose class, forty lines up in the code. Start here: The prose class from @tailwindcss/typography styles every ",
+      "score": 5,
+      "titleZh": "Tailwind Typography's prose Is Leaking Into Your Components — and the Three-Tier Fix"
+    },
+    {
+      "title": "SaaSmageddon Survivors: 5 Top Software Stocks to Buy &#8211; Kiplinger",
+      "link": "https://dev.to/sam_raisinghani_b6dec128c/saasmageddon-survivors-5-top-software-stocks-to-buy-8211-kiplinger-4d6b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 29 Aug 2026 14:48:26 +0000",
+      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores SaaSmageddon Survivors: 5 Top Software Stocks to Buy - Kiplinger for founders, operators, a",
+      "score": 5,
+      "titleZh": "SaaSmageddon Survivors: 5 Top Software Stocks to Buy &#8211; Kiplinger"
+    },
+    {
+      "title": "The first channelId on a YouTube channel page belongs to a different channel",
+      "link": "https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:37:56 +0000",
-      "summary": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026 Subtitle: How agentic workflows, multi-modal reasoning, and autonomous tools are transforming full-stack software development in 2026. In 2026",
+      "date": "Sat, 29 Aug 2026 14:42:03 +0000",
+      "summary": "If you resolve a YouTube handle to a channel ID by grabbing the first \"channelId\" in the page HTML, you are probably getting a different channel. In my sample it was wrong 15 times out of 16 — and the",
       "score": 5,
-      "titleZh": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026"
+      "titleZh": "The first channelId on a YouTube channel page belongs to a different channel"
     },
     {
-      "title": "28 lyrics — Southeast Asia charts on Lyrks",
-      "link": "https://dev.to/p2code/28-lyrics-southeast-asia-charts-on-lyrks-4f7n",
+      "title": "Start Learning Python Today 🐍",
+      "link": "https://dev.to/mrguide22/start-learning-python-today-2bnp",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:32:00 +0000",
-      "summary": "28 Three Man Down · Southeast Asia charts Almost 28 \\nWait, am I too late for it? \\nI feel so proud of you \\nDon’t worry, no \\nThat’s all you can do \\n \\nAm I where am I supposed to… Read the full lyr",
+      "date": "Sat, 29 Aug 2026 14:40:16 +0000",
+      "summary": "Python is one of the easiest and most versatile programming languages to learn. You can use it for AI, automation, websites, data analysis, and more. Ready to start coding? Learn Python today and turn",
       "score": 5,
-      "titleZh": "28 lyrics — Southeast Asia charts on Lyrks"
+      "titleZh": "Start Learning Python Today 🐍"
     },
     {
-      "title": "Jati Maya lyrics — Nepal charts on Lyrks",
-      "link": "https://dev.to/p2code/jati-maya-lyrics-nepal-charts-on-lyrks-3j12",
+      "title": "Looking up a historical exchange rate correctly (and why 'the rate on that date' is fuzzier than it sounds)",
+      "link": "https://dev.to/thejayedge/looking-up-a-historical-exchange-rate-correctly-and-why-the-rate-on-that-date-is-fuzzier-than-it-2b98",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:31:41 +0000",
-      "summary": "Jati Maya 1974 AD · Nepal charts [Chorus] जति माया लाए पनि जति कसम खाए पनि निष्ठुरीले बाटो लाग्दा आँखा तरि गए पछि मनमा पिर त पर्ने नै भयो यो मन त्यसै मर्ने नै भयो [Chorus]… Read the full lyrics on Lyr",
+      "date": "Sat, 29 Aug 2026 14:37:05 +0000",
+      "summary": "A common ask in invoicing/reconciliation code: \"what was the USD/EUR rate on 2024-01-15?\" The naive approach — pick a rate source, hit it with a date, trust the number — glosses over one detail that m",
       "score": 5,
-      "titleZh": "Jati Maya lyrics — Nepal charts on Lyrks"
+      "titleZh": "Looking up a historical exchange rate correctly (and why 'the rate on that date' is fuzzier than it sounds)"
     },
     {
-      "title": "How to Fix WordPress Mobile PageSpeed Scores (Without Breaking the Site)",
-      "link": "https://dev.to/usmanahmaddevx/how-to-fix-wordpress-mobile-pagespeed-scores-without-breaking-the-site-7d3",
+      "title": "C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough",
+      "link": "https://dev.to/manoharij/c-api-crud-done-wrong-then-done-right-a-complete-bad-practices-vs-best-practices-walkthrough-4fkk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:30:15 +0000",
-      "summary": "How to Fix WordPress Mobile PageSpeed Scores (Without Breaking the Site) A practical triage process for WordPress mobile PageSpeed — LCP, unused JS, image pipeline and caching fixes that survive edito",
+      "date": "Sat, 29 Aug 2026 14:33:06 +0000",
+      "summary": "Most bad-code examples in tutorials are contrived - obviously wrong in a way real code never actually looks. This post takes a different approach: a complete, realistic Product CRUD API, built with th",
       "score": 5,
-      "titleZh": "How to Fix WordPress Mobile PageSpeed Scores (Without Breaking the Site)"
+      "titleZh": "C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough"
     },
     {
-      "title": "Why Does a 125B AI Model Use Only 6B Parameters at a Time?",
-      "link": "https://dev.to/darun_karasabir_b79602fd/why-does-a-125b-ai-model-use-only-6b-parameters-at-a-time-2pd4",
+      "title": "Full Sail, Finished: We Did It",
+      "link": "https://dev.to/rverwey/full-sail-finished-we-did-it-4ia5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:20:52 +0000",
-      "summary": "Why Does a 125B AI Model Use Only 6B Parameters at a Time? A new AI model launches. You open X and immediately see numbers like: 125B parameters 6B active parameters 262K context Open weights And if y",
+      "date": "Sat, 29 Aug 2026 14:31:14 +0000",
+      "summary": "Originally published on ryanverwey.dev. Full Sail University's Web Development Bachelor of Science program changed how I build by forcing me to connect software decisions to product outcomes. It was n",
       "score": 5,
-      "titleZh": "Why Does a 125B AI Model Use Only 6B Parameters at a Time?"
+      "titleZh": "Full Sail, Finished: We Did It"
     },
     {
-      "title": "I built a daily debugging puzzle to stop getting rusty",
-      "link": "https://dev.to/dejan_stajic_28050c35cb79/i-built-a-daily-debugging-puzzle-to-stop-getting-rusty-j7h",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 05:18:05 +0000",
-      "summary": "I kept noticing I was faster at writing new code than at finding bugs in code I already had. That skill atrophies if you only ship features. So I built a small daily practice: a broken snippet, one bu",
-      "score": 5,
-      "titleZh": "I built a daily debugging puzzle to stop getting rusty"
-    },
-    {
-      "title": "How to Earn Roblox Gift Cards in 2026",
-      "link": "https://dev.to/whatsapp_statusvideo_bb8/how-to-earn-roblox-gift-cards-in-2026-2cfi",
+      "title": "Why Rumors Become Exploits Before Anyone Reports a Bug",
+      "link": "https://dev.to/robust_true_try/why-rumors-become-exploits-before-anyone-reports-a-bug-38ol",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:17:22 +0000",
-      "summary": "Roblox has become one of the most popular online platforms for gaming, creativity, and social experiences. 👉 You can check the full breakdown here:https://incomepathhub.com/earnfusion/ For players wh",
+      "date": "Sat, 29 Aug 2026 14:30:48 +0000",
+      "summary": "A vague tweet is now a roadmap Someone on a forum mentions \"slowdowns when a 4KB request hits /api/v1/search.\" No proof of concept, no patch number, no commit. Three days later, a fully working exploi",
       "score": 5,
-      "titleZh": "How to Earn Roblox Gift Cards in 2026"
+      "titleZh": "Why Rumors Become Exploits Before Anyone Reports a Bug"
     },
     {
-      "title": "Best Web Development Institute in Laxmi Nagar – Build Your Future in Tech",
-      "link": "https://dev.to/shahin_981ca06dd02c65874f/best-web-development-institute-in-laxmi-nagar-build-your-future-in-tech-8fe",
-      "source": "Dev.to JS",
+      "title": "Zorgax Monetization: What We Have Built, What Works Today, and What Comes Next",
+      "link": "https://dev.to/danielioni/zorgax-monetization-what-we-have-built-what-works-today-and-what-comes-next-2lme",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 05:15:32 +0000",
-      "summary": "Best Web Development Institute in Laxmi Nagar – Build Your Future in Tech Current web- courses on development within the field usually stress HTML, CSS, JavaScript, making designs that fit all screens",
+      "date": "Sat, 29 Aug 2026 14:30:18 +0000",
+      "summary": "Zorgax Monetization: What We Have Built, What Works Today, and What Comes Next Over the last development cycles, Zorgax has evolved far beyond a simple AI assistant with a payment button. We have been",
       "score": 5,
-      "titleZh": "Best Web Development Institute in Laxmi Nagar – Build Your Future in Tech"
-    },
-    {
-      "title": "How to Earn Xbox Gift Cards in 2026 (Beginner Guide)",
-      "link": "https://dev.to/whatsapp_statusvideo_bb8/how-to-earn-xbox-gift-cards-in-2026-beginner-guide-439j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 05:12:49 +0000",
-      "summary": "If you’re looking for a convenient way to purchase games, add-ons, apps, movies, or other digital content, an Xbox Gift Card can be a useful option. 👉 Detailed explanation available here:https://inco",
-      "score": 5,
-      "titleZh": "How to Earn Xbox Gift Cards in 2026 (Beginner Guide)"
-    },
-    {
-      "title": "What Developers Should Know About Digital Marketing Before Launching a Website",
-      "link": "https://dev.to/harshkatyal0202/what-developers-should-know-about-digital-marketing-before-launching-a-website-1gag",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 05:10:04 +0000",
-      "summary": "Building a website is only one part of creating a successful online presence. A developer can create a fast, responsive, technically sound website, but if the intended audience cannot discover it, the",
-      "score": 5,
-      "titleZh": "What Developers Should Know About Digital Marketing Before Launching a Website"
+      "titleZh": "Zorgax Monetization: What We Have Built, What Works Today, and What Comes Next"
     }
   ]
 }
