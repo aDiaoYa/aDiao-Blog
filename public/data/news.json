@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-29T14:56:02.329Z",
-  "date": "2026-08-29",
+  "updated": "2026-08-30T03:41:12.200Z",
+  "date": "2026-08-30",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 28 Aug 2026 23:27:45 +0000",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416",
-      "score": 202,
-      "titleZh": "I accidentally turned LLM memory into program analysis"
+      "date": "Sat, 29 Aug 2026 17:19:47 +0000",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568",
+      "score": 284,
+      "titleZh": "Good Culture Is the Biggest Productivity Hack, Not AI"
     },
     {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "link": "https://github.com/stemdeckapp/stemdeck",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 29 Aug 2026 01:24:13 +0000",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081",
-      "score": 157,
-      "titleZh": "StemDeck, a free, open-source and local AI stem separator"
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "link": "https://lwn.net/Articles/1091231/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 29 Aug 2026 14:02:10 +0000",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982",
-      "score": 79,
-      "titleZh": "Debian votes to allow \"responsible use of generative AI\""
-    },
-    {
-      "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+      "title": "*ACL Findings or TMLR? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-29T11:08:03.000Z",
-      "summary": "https://preview.redd.it/42s57e5oqamh1.png?width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system used to collect and a",
+      "date": "2026-08-30T01:23:36.000Z",
+      "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2. Trying to decide between ARR vs. TMLR, but thinking NAACL findings are more likely than main conference. Would you rather have TMLR or *AC",
       "score": 40,
-      "titleZh": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]"
+      "titleZh": "*ACL Findings or TMLR? [D]"
     },
     {
-      "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+      "title": "Open-source access-control checker for retrieval-based AI applications [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-29T02:09:05.000Z",
-      "summary": "Hey everyone, I'm an international student studying in the US. I'm on track to graduate late next year. My research is not exactly ML, it is in 3D computer vision but have decent exposure to ML as wel",
+      "date": "2026-08-29T22:11:26.000Z",
+      "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to. It supports offline test cases and live HTTP API testing with bear",
       "score": 40,
-      "titleZh": "How important is having an internship to get a good job for ML PhD in USA? [D]"
+      "titleZh": "Open-source access-control checker for retrieval-based AI applications [P]"
+    },
+    {
+      "title": "Do you use a whiteboard when thinking? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-29T21:39:44.000Z",
+      "summary": "Hello all, here is a chill post. When I was an undergrad, I really liked working things out on a whiteboard. Drawing stuff, talking through ideas out loud, testing little hypotheses. Now I work in rad",
+      "score": 40,
+      "titleZh": "Do you use a whiteboard when thinking? [D]"
+    },
+    {
+      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-29T20:16:17.000Z",
+      "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc. Many (per",
+      "score": 40,
+      "titleZh": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]"
     },
     {
       "title": "WTF is a World Model? [D]",
@@ -90,30 +90,6 @@
       "titleZh": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]"
     },
     {
-      "title": "Google CS PhD Fellowship 2026 [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-28T13:38:49.000Z",
-      "summary": "Has anyone got the decision notification yet? Please mention decision (e.g., approved/rejected) and geographical area (e.g., North America) in your answer. I know the official notification date is 31 ",
-      "score": 40,
-      "titleZh": "Google CS PhD Fellowship 2026 [R]"
-    },
-    {
-      "title": "Where to submit stat/prob ML [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-28T08:16:25.000Z",
-      "summary": "I'm a researcher in statistical and probabilistic ML, I have a steady record of top ML publications and really used to enjoy going to conferences. Over the last few years LLM based works have complete",
-      "score": 40,
-      "titleZh": "Where to submit stat/prob ML [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,6 +102,30 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-07-31T02:30:08.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+    },
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "link": "https://arxiv.org/abs/2608.26107",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. Ho",
+      "score": 5,
+      "titleZh": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction"
+    },
+    {
       "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
       "link": "https://typebase.io",
       "source": "HN·前端",
@@ -134,116 +134,116 @@
       ],
       "date": "Wed, 26 Aug 2026 11:33:31 +0000",
       "summary": "Hey HN! I built Typebase, a library that gives you Convex's DX with Supabase's openness. After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL",
-      "score": 13,
+      "score": 101,
       "titleZh": "Show HN: Typebase – A single-folder back end you write in TypeScript"
     },
     {
-      "title": "Tailwind Typography's prose Is Leaking Into Your Components — and the Three-Tier Fix",
-      "link": "https://dev.to/brokeinprod/tailwind-typographys-prose-is-leaking-into-your-components-and-the-three-tier-fix-2o64",
+      "title": "Inside the TypeScript Checker: From Text to Types",
+      "link": "https://www.reddit.com/r/programming/comments/1w1y2m3/inside_the_typescript_checker_from_text_to_types/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-29T21:06:41.000Z",
+      "summary": "submitted by /u/Happycodeine [link] [comments]",
+      "score": 40,
+      "titleZh": "Inside the TypeScript Checker: From Text to Types"
+    },
+    {
+      "title": "</> htmx ~ Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics",
+      "link": "https://www.reddit.com/r/programming/comments/1w1wspl/htmx_building_critical_infrastructure_with_htmx/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-29T20:15:55.000Z",
+      "summary": "submitted by /u/yawaramin [link] [comments]",
+      "score": 40,
+      "titleZh": "</> htmx ~ Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics"
+    },
+    {
+      "title": "Pattern in Number Spirals",
+      "link": "https://www.reddit.com/r/programming/comments/1w1tqvu/pattern_in_number_spirals/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-29T18:16:45.000Z",
+      "summary": "submitted by /u/Nouman-Rahman [link] [comments]",
+      "score": 40,
+      "titleZh": "Pattern in Number Spirals"
+    },
+    {
+      "title": "Zod v4.5 adds schema compilation (3-9x faster validation)",
+      "link": "https://www.reddit.com/r/programming/comments/1w1sl70/zod_v45_adds_schema_compilation_39x_faster/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-29T17:30:54.000Z",
+      "summary": "submitted by /u/gajus0 [link] [comments]",
+      "score": 40,
+      "titleZh": "Zod v4.5 adds schema compilation (3-9x faster validation)"
+    },
+    {
+      "title": "Crossing Boundaries with Integration Events",
+      "link": "https://www.reddit.com/r/programming/comments/1w1q308/crossing_boundaries_with_integration_events/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-29T15:52:00.000Z",
+      "summary": "How to turn internal domain facts into reliable contracts between bounded contexts. submitted by /u/deniskyashif [link] [comments]",
+      "score": 40,
+      "titleZh": "Crossing Boundaries with Integration Events"
+    },
+    {
+      "title": "Coding a database proxy for fun",
+      "link": "https://www.reddit.com/r/programming/comments/1w1iiaw/coding_a_database_proxy_for_fun/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-29T10:01:37.000Z",
+      "summary": "submitted by /u/der_gopher [link] [comments]",
+      "score": 40,
+      "titleZh": "Coding a database proxy for fun"
+    },
+    {
+      "title": "htmx 4.0.0 has been released!",
+      "link": "https://www.reddit.com/r/programming/comments/1w0w1pp/htmx_400_has_been_released/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-08-28T16:54:22.000Z",
+      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
+      "score": 40,
+      "titleZh": "htmx 4.0.0 has been released!"
+    },
+    {
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-05-23T13:54:37.000Z",
+      "summary": "After temporarily banning LLM-related content over April, and asking you for feedback on that ban, we've decided to bring about an end of the temporary, I-can't-believe-it's-still-April ban on AI-rela",
+      "score": 40,
+      "titleZh": "Announcement: We've Updated The Rules, and April Is Finally Over"
+    },
+    {
+      "title": "Mastering Agentic AI Workflows: The Next Frontier in Software Development and Automation",
+      "link": "https://dev.to/rynoex_63db8bd39b6654184a/mastering-agentic-ai-workflows-the-next-frontier-in-software-development-and-automation-2cf1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 29 Aug 2026 14:52:35 +0000",
-      "summary": "My CTA button had underlined links and the wrong text color, and no matter which utility prose class, forty lines up in the code. Start here: The prose class from @tailwindcss/typography styles every ",
+      "date": "Sun, 30 Aug 2026 03:30:48 +0000",
+      "summary": "Mastering Agentic AI Workflows: The Next Frontier in Software Development and Automation Explore how Agentic AI Workflows are reshaping software development and process automation. Learn core design p",
       "score": 5,
-      "titleZh": "Tailwind Typography's prose Is Leaking Into Your Components — and the Three-Tier Fix"
-    },
-    {
-      "title": "SaaSmageddon Survivors: 5 Top Software Stocks to Buy &#8211; Kiplinger",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/saasmageddon-survivors-5-top-software-stocks-to-buy-8211-kiplinger-4d6b",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:48:26 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores SaaSmageddon Survivors: 5 Top Software Stocks to Buy - Kiplinger for founders, operators, a",
-      "score": 5,
-      "titleZh": "SaaSmageddon Survivors: 5 Top Software Stocks to Buy &#8211; Kiplinger"
-    },
-    {
-      "title": "The first channelId on a YouTube channel page belongs to a different channel",
-      "link": "https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:42:03 +0000",
-      "summary": "If you resolve a YouTube handle to a channel ID by grabbing the first \"channelId\" in the page HTML, you are probably getting a different channel. In my sample it was wrong 15 times out of 16 — and the",
-      "score": 5,
-      "titleZh": "The first channelId on a YouTube channel page belongs to a different channel"
-    },
-    {
-      "title": "Start Learning Python Today 🐍",
-      "link": "https://dev.to/mrguide22/start-learning-python-today-2bnp",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:40:16 +0000",
-      "summary": "Python is one of the easiest and most versatile programming languages to learn. You can use it for AI, automation, websites, data analysis, and more. Ready to start coding? Learn Python today and turn",
-      "score": 5,
-      "titleZh": "Start Learning Python Today 🐍"
-    },
-    {
-      "title": "Looking up a historical exchange rate correctly (and why 'the rate on that date' is fuzzier than it sounds)",
-      "link": "https://dev.to/thejayedge/looking-up-a-historical-exchange-rate-correctly-and-why-the-rate-on-that-date-is-fuzzier-than-it-2b98",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:37:05 +0000",
-      "summary": "A common ask in invoicing/reconciliation code: \"what was the USD/EUR rate on 2024-01-15?\" The naive approach — pick a rate source, hit it with a date, trust the number — glosses over one detail that m",
-      "score": 5,
-      "titleZh": "Looking up a historical exchange rate correctly (and why 'the rate on that date' is fuzzier than it sounds)"
-    },
-    {
-      "title": "C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough",
-      "link": "https://dev.to/manoharij/c-api-crud-done-wrong-then-done-right-a-complete-bad-practices-vs-best-practices-walkthrough-4fkk",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:33:06 +0000",
-      "summary": "Most bad-code examples in tutorials are contrived - obviously wrong in a way real code never actually looks. This post takes a different approach: a complete, realistic Product CRUD API, built with th",
-      "score": 5,
-      "titleZh": "C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough"
-    },
-    {
-      "title": "Full Sail, Finished: We Did It",
-      "link": "https://dev.to/rverwey/full-sail-finished-we-did-it-4ia5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:31:14 +0000",
-      "summary": "Originally published on ryanverwey.dev. Full Sail University's Web Development Bachelor of Science program changed how I build by forcing me to connect software decisions to product outcomes. It was n",
-      "score": 5,
-      "titleZh": "Full Sail, Finished: We Did It"
-    },
-    {
-      "title": "Why Rumors Become Exploits Before Anyone Reports a Bug",
-      "link": "https://dev.to/robust_true_try/why-rumors-become-exploits-before-anyone-reports-a-bug-38ol",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:30:48 +0000",
-      "summary": "A vague tweet is now a roadmap Someone on a forum mentions \"slowdowns when a 4KB request hits /api/v1/search.\" No proof of concept, no patch number, no commit. Three days later, a fully working exploi",
-      "score": 5,
-      "titleZh": "Why Rumors Become Exploits Before Anyone Reports a Bug"
-    },
-    {
-      "title": "Zorgax Monetization: What We Have Built, What Works Today, and What Comes Next",
-      "link": "https://dev.to/danielioni/zorgax-monetization-what-we-have-built-what-works-today-and-what-comes-next-2lme",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 29 Aug 2026 14:30:18 +0000",
-      "summary": "Zorgax Monetization: What We Have Built, What Works Today, and What Comes Next Over the last development cycles, Zorgax has evolved far beyond a simple AI assistant with a payment button. We have been",
-      "score": 5,
-      "titleZh": "Zorgax Monetization: What We Have Built, What Works Today, and What Comes Next"
+      "titleZh": "Mastering Agentic AI Workflows: The Next Frontier in Software Development and Automation"
     }
   ]
 }
