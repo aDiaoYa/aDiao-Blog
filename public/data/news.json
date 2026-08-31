@@ -1,57 +1,81 @@
 {
-  "updated": "2026-08-30T03:41:12.200Z",
-  "date": "2026-08-30",
+  "updated": "2026-08-31T03:41:28.851Z",
+  "date": "2026-08-31",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 29 Aug 2026 17:19:47 +0000",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568",
-      "score": 284,
-      "titleZh": "Good Culture Is the Biggest Productivity Hack, Not AI"
-    },
-    {
-      "title": "*ACL Findings or TMLR? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-30T01:23:36.000Z",
-      "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2. Trying to decide between ARR vs. TMLR, but thinking NAACL findings are more likely than main conference. Would you rather have TMLR or *AC",
+      "date": "2026-08-31T02:30:17.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "*ACL Findings or TMLR? [D]"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Open-source access-control checker for retrieval-based AI applications [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+      "title": "Is anyone esle going to ECCV and wants to get in a groupchat for socials? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2xy7z/is_anyone_esle_going_to_eccv_and_wants_to_get_in/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-29T22:11:26.000Z",
-      "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to. It supports offline test cases and live HTTP API testing with bear",
+      "date": "2026-08-31T00:17:33.000Z",
+      "summary": "Hey I'm going to ECCV but since I'm from a small lab dont know anyone else going, looking for people to chill with and setup a groupchat for setting up some impromptu small group socials! If you are i",
       "score": 40,
-      "titleZh": "Open-source access-control checker for retrieval-based AI applications [P]"
+      "titleZh": "Is anyone esle going to ECCV and wants to get in a groupchat for socials? [D]"
     },
     {
-      "title": "Do you use a whiteboard when thinking? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
+      "title": "Claude Code for Research Papers [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-29T21:39:44.000Z",
-      "summary": "Hello all, here is a chill post. When I was an undergrad, I really liked working things out on a whiteboard. Drawing stuff, talking through ideas out loud, testing little hypotheses. Now I work in rad",
+      "date": "2026-08-30T23:24:07.000Z",
+      "summary": "Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work. I started using Claude Code for the boring parts: argparse boilerplate, plotting, config wranglin",
       "score": 40,
-      "titleZh": "Do you use a whiteboard when thinking? [D]"
+      "titleZh": "Claude Code for Research Papers [R]"
+    },
+    {
+      "title": "NeurIPS accepted papers leaked? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-30T19:34:25.000Z",
+      "summary": "I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted papers. https://github.co",
+      "score": 40,
+      "titleZh": "NeurIPS accepted papers leaked? [D]"
+    },
+    {
+      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-30T11:55:38.000Z",
+      "summary": "Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a cent",
+      "score": 40,
+      "titleZh": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
+    },
+    {
+      "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-30T07:28:13.000Z",
+      "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+      "score": 40,
+      "titleZh": "Implementing Kimi K3 from scratch in PyTorch [P]"
     },
     {
       "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
@@ -66,30 +90,6 @@
       "titleZh": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]"
     },
     {
-      "title": "WTF is a World Model? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-28T23:37:24.000Z",
-      "summary": "I'm trying to understand what a world model is. I understand it has cognitive science and reinforcement learning. I understand at least at the moment what most people are building which they call worl",
-      "score": 40,
-      "titleZh": "WTF is a World Model? [D]"
-    },
-    {
-      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-28T19:48:27.000Z",
-      "summary": "Its a 2.4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation. The generated image will then be displayed on a monitor o",
-      "score": 40,
-      "titleZh": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "2026-07-31T02:30:08.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "link": "https://arxiv.org/abs/2608.26107",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
-      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. Ho",
+      "date": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "score": 5,
-      "titleZh": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction"
+      "titleZh": "Our decision on Cursor following its acquisition by SpaceX"
     },
     {
-      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-      "link": "https://typebase.io",
-      "source": "HN·前端",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "score": 5,
+      "titleZh": "Supporting Thailand’s next generation of AI startups"
+    },
+    {
+      "title": "Reliable Automated Outreach in AI Recruiting",
+      "link": "https://dev.to/sumaninster/reliable-automated-outreach-in-ai-recruiting-79f",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 26 Aug 2026 11:33:31 +0000",
-      "summary": "Hey HN! I built Typebase, a library that gives you Convex's DX with Supabase's openness. After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL",
-      "score": 101,
-      "titleZh": "Show HN: Typebase – A single-folder back end you write in TypeScript"
+      "date": "Mon, 31 Aug 2026 03:34:51 +0000",
+      "summary": "The Fragility of Candidate Follow-Up Sequences Recruiting outreach rarely fails on the first message. It fails across the lifecycle of the sequence. When hiring teams manage multi-touch candidate sour",
+      "score": 5,
+      "titleZh": "Reliable Automated Outreach in AI Recruiting"
     },
     {
-      "title": "Inside the TypeScript Checker: From Text to Types",
-      "link": "https://www.reddit.com/r/programming/comments/1w1y2m3/inside_the_typescript_checker_from_text_to_types/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-29T21:06:41.000Z",
-      "summary": "submitted by /u/Happycodeine [link] [comments]",
-      "score": 40,
-      "titleZh": "Inside the TypeScript Checker: From Text to Types"
-    },
-    {
-      "title": "</> htmx ~ Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics",
-      "link": "https://www.reddit.com/r/programming/comments/1w1wspl/htmx_building_critical_infrastructure_with_htmx/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-29T20:15:55.000Z",
-      "summary": "submitted by /u/yawaramin [link] [comments]",
-      "score": 40,
-      "titleZh": "</> htmx ~ Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics"
-    },
-    {
-      "title": "Pattern in Number Spirals",
-      "link": "https://www.reddit.com/r/programming/comments/1w1tqvu/pattern_in_number_spirals/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-29T18:16:45.000Z",
-      "summary": "submitted by /u/Nouman-Rahman [link] [comments]",
-      "score": 40,
-      "titleZh": "Pattern in Number Spirals"
-    },
-    {
-      "title": "Zod v4.5 adds schema compilation (3-9x faster validation)",
-      "link": "https://www.reddit.com/r/programming/comments/1w1sl70/zod_v45_adds_schema_compilation_39x_faster/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-29T17:30:54.000Z",
-      "summary": "submitted by /u/gajus0 [link] [comments]",
-      "score": 40,
-      "titleZh": "Zod v4.5 adds schema compilation (3-9x faster validation)"
-    },
-    {
-      "title": "Crossing Boundaries with Integration Events",
-      "link": "https://www.reddit.com/r/programming/comments/1w1q308/crossing_boundaries_with_integration_events/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-29T15:52:00.000Z",
-      "summary": "How to turn internal domain facts into reliable contracts between bounded contexts. submitted by /u/deniskyashif [link] [comments]",
-      "score": 40,
-      "titleZh": "Crossing Boundaries with Integration Events"
-    },
-    {
-      "title": "Coding a database proxy for fun",
-      "link": "https://www.reddit.com/r/programming/comments/1w1iiaw/coding_a_database_proxy_for_fun/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-29T10:01:37.000Z",
-      "summary": "submitted by /u/der_gopher [link] [comments]",
-      "score": 40,
-      "titleZh": "Coding a database proxy for fun"
-    },
-    {
-      "title": "htmx 4.0.0 has been released!",
-      "link": "https://www.reddit.com/r/programming/comments/1w0w1pp/htmx_400_has_been_released/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-08-28T16:54:22.000Z",
-      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
-      "score": 40,
-      "titleZh": "htmx 4.0.0 has been released!"
-    },
-    {
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-05-23T13:54:37.000Z",
-      "summary": "After temporarily banning LLM-related content over April, and asking you for feedback on that ban, we've decided to bring about an end of the temporary, I-can't-believe-it's-still-April ban on AI-rela",
-      "score": 40,
-      "titleZh": "Announcement: We've Updated The Rules, and April Is Finally Over"
-    },
-    {
-      "title": "Mastering Agentic AI Workflows: The Next Frontier in Software Development and Automation",
-      "link": "https://dev.to/rynoex_63db8bd39b6654184a/mastering-agentic-ai-workflows-the-next-frontier-in-software-development-and-automation-2cf1",
+      "title": "The AI Skill Most Developers Are Ignoring (And Why It's About to Matter a Lot)",
+      "link": "https://dev.to/aibughunter/the-ai-skill-most-developers-are-ignoring-and-why-its-about-to-matter-a-lot-3230",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 30 Aug 2026 03:30:48 +0000",
-      "summary": "Mastering Agentic AI Workflows: The Next Frontier in Software Development and Automation Explore how Agentic AI Workflows are reshaping software development and process automation. Learn core design p",
+      "date": "Mon, 31 Aug 2026 03:33:29 +0000",
+      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
       "score": 5,
-      "titleZh": "Mastering Agentic AI Workflows: The Next Frontier in Software Development and Automation"
+      "titleZh": "The AI Skill Most Developers Are Ignoring (And Why It's About to Matter a Lot)"
+    },
+    {
+      "title": "Why Most AI Startups Will Fail at the Same Problem Nobody Is Talking About",
+      "link": "https://dev.to/aibughunter/why-most-ai-startups-will-fail-at-the-same-problem-nobody-is-talking-about-3jag",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:33:15 +0000",
+      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "score": 5,
+      "titleZh": "Why Most AI Startups Will Fail at the Same Problem Nobody Is Talking About"
+    },
+    {
+      "title": "How to Debug a Large Codebase When You Don’t Know Where the Bug Is",
+      "link": "https://dev.to/kauddochq/how-to-debug-a-large-codebase-when-you-dont-know-where-the-bug-is-5f54",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:33:01 +0000",
+      "summary": "How to Debug a Large Codebase When You Don't Know Where the Bug Is Debugging a small application is usually straightforward. You find the error, open the relevant file, make a change, run the tests, a",
+      "score": 5,
+      "titleZh": "How to Debug a Large Codebase When You Don’t Know Where the Bug Is"
+    },
+    {
+      "title": "Demystifying the iOS 26.6.1 Update: Crucial Features, Security Fixes, and the Impact on App Development",
+      "link": "https://dev.to/rynoex_63db8bd39b6654184a/demystifying-the-ios-2661-update-crucial-features-security-fixes-and-the-impact-on-app-1fkj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:30:35 +0000",
+      "summary": "Demystifying the iOS 26.6.1 Update: Crucial Features, Security Fixes, and the Impact on App Development Discover everything you need to know about the ground-breaking Apple iOS 26.6.1 update. Learn ab",
+      "score": 5,
+      "titleZh": "Demystifying the iOS 26.6.1 Update: Crucial Features, Security Fixes, and the Impact on App Development"
+    },
+    {
+      "title": "Reproducible Free GPT Image 2 Prompt Workflow with YAML Specs and Review Logs",
+      "link": "https://dev.to/heydream_im/reproducible-free-gpt-image-2-prompt-workflow-with-yaml-specs-and-review-logs-5c36",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:27:14 +0000",
+      "summary": "Image-generation prompts become difficult to debug when the subject, scene, camera, lighting, format, and constraints all change at once. This article turns a Free GPT Image 2 prompt workflow into a s",
+      "score": 5,
+      "titleZh": "Reproducible Free GPT Image 2 Prompt Workflow with YAML Specs and Review Logs"
+    },
+    {
+      "title": "Integrating Proactive Balance Tracking into Your Verification Pipeline",
+      "link": "https://dev.to/ekycpro/integrating-proactive-balance-tracking-into-your-verification-pipeline-3k3o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:21:22 +0000",
+      "summary": "In identity verification workflows, operational continuity is paramount. When building authentication pipelines that rely on external identity signals—such as platform registration checks or risk scor",
+      "score": 5,
+      "titleZh": "Integrating Proactive Balance Tracking into Your Verification Pipeline"
+    },
+    {
+      "title": "How we built WaterShortcut",
+      "link": "https://dev.to/quizbiz/how-we-built-watershortcut-4170",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:18:41 +0000",
+      "summary": "Adapt the content from https://watershortcut.com/how-we-built; set canonical to that URL; end with demo https://watershortcut.com/analyze-water-bill. Full story: https://watershortcut.com/how-we-built",
+      "score": 5,
+      "titleZh": "How we built WaterShortcut"
+    },
+    {
+      "title": "Tried `helix-editor/helix` Today: A Fast Editor for AI-Assisted Development",
+      "link": "https://dev.to/power_zhong/tried-helix-editorhelix-today-a-fast-editor-for-ai-assisted-development-3kf3",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:18:32 +0000",
+      "summary": "Tried helix-editor/helix Today: A Fast Editor for AI-Assisted Development helix-editor/helix is a post-modern modal text editor built in Rust. It takes the best parts of Vim-style editing, tree-sitter",
+      "score": 5,
+      "titleZh": "Tried `helix-editor/helix` Today: A Fast Editor for AI-Assisted Development"
+    },
+    {
+      "title": "Next.js Cache Components Migration Guide (2026)",
+      "link": "https://dev.to/muhammadalisma/nextjs-cache-components-migration-guide-2026-5ao8",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 03:12:28 +0000",
+      "summary": "You flip on cacheComponents: true expecting a quick performance win, and instead your build explodes with red errors about dynamic, revalidate, and fetchCache not being allowed anymore. Then, once tho",
+      "score": 5,
+      "titleZh": "Next.js Cache Components Migration Guide (2026)"
     }
   ]
 }
