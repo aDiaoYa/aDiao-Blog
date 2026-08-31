@@ -1,10 +1,70 @@
 {
-  "updated": "2026-08-31T03:41:28.851Z",
+  "updated": "2026-08-31T17:24:20.031Z",
   "date": "2026-08-31",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Sliding-window attention beats linear on long-context reasoning [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T16:35:42.000Z",
+      "summary": "Sliding Window Attention with sinks, one of the simplest existing fixes for the quadratic-cost problem in LLMs, holds up as well or better than the linear-attention variants labs have been spending po",
+      "score": 40,
+      "titleZh": "Sliding-window attention beats linear on long-context reasoning [R]"
+    },
+    {
+      "title": "Your GNN is probably just an overcomplicated MLP (Tabular Leakage). We built SynthFin-AML to enforce strict causal boundaries. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w3imxy/your_gnn_is_probably_just_an_overcomplicated_mlp/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T16:21:10.000Z",
+      "summary": "We noticed our anti-money laundering models were performing suspiciously well. After digging into standard baselines on dynamic graphs, we found widespread temporal leakage in message-passing. If you ",
+      "score": 40,
+      "titleZh": "Your GNN is probably just an overcomplicated MLP (Tabular Leakage). We built SynthFin-AML to enforce strict causal boundaries. [P]"
+    },
+    {
+      "title": "Cold emailing profs about PhD positions? Read this [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T12:09:24.000Z",
+      "summary": "This is the time of year when the number of cold emails I receive about PhD positions tends to ramp up quite a bit. In many countries, this cold emailing is essentially part of the normal recruitment ",
+      "score": 40,
+      "titleZh": "Cold emailing profs about PhD positions? Read this [D]"
+    },
+    {
+      "title": "How to assess if there is a strong signal in your dirty data [Project]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T12:02:54.000Z",
+      "summary": "I'm sharing this new tabular data diagnostic tool (Entropic Scree). It can be used to estimate these properties of your high-d, real-world, dirty dataset: The informational volume of the signal (i.e.,",
+      "score": 40,
+      "titleZh": "How to assess if there is a strong signal in your dirty data [Project]"
+    },
+    {
+      "title": "Good Machine Learning Posters [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T10:04:08.000Z",
+      "summary": "Hi, I'm making posters for ECCV 2026. Does anyone have any ML/CV posters they thought were really well done? Would love to see some cool examples. Thanks submitted by /u/National-Resident244 [link] [c",
+      "score": 40,
+      "titleZh": "Good Machine Learning Posters [D]"
+    },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
@@ -16,18 +76,6 @@
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "Is anyone esle going to ECCV and wants to get in a groupchat for socials? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2xy7z/is_anyone_esle_going_to_eccv_and_wants_to_get_in/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-31T00:17:33.000Z",
-      "summary": "Hey I'm going to ECCV but since I'm from a small lab dont know anyone else going, looking for people to chill with and setup a groupchat for setting up some impromptu small group socials! If you are i",
-      "score": 40,
-      "titleZh": "Is anyone esle going to ECCV and wants to get in a groupchat for socials? [D]"
     },
     {
       "title": "Claude Code for Research Papers [R]",
@@ -42,54 +90,6 @@
       "titleZh": "Claude Code for Research Papers [R]"
     },
     {
-      "title": "NeurIPS accepted papers leaked? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-30T19:34:25.000Z",
-      "summary": "I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted papers. https://github.co",
-      "score": 40,
-      "titleZh": "NeurIPS accepted papers leaked? [D]"
-    },
-    {
-      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-30T11:55:38.000Z",
-      "summary": "Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a cent",
-      "score": 40,
-      "titleZh": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
-    },
-    {
-      "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-30T07:28:13.000Z",
-      "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
-      "score": 40,
-      "titleZh": "Implementing Kimi K3 from scratch in PyTorch [P]"
-    },
-    {
-      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-29T20:16:17.000Z",
-      "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc. Many (per",
-      "score": 40,
-      "titleZh": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -100,6 +100,18 @@
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
       "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "score": 5,
+      "titleZh": "A milestone in expanding access to AI"
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -114,136 +126,124 @@
       "titleZh": "Our decision on Cursor following its acquisition by SpaceX"
     },
     {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "score": 5,
-      "titleZh": "Supporting Thailand’s next generation of AI startups"
-    },
-    {
-      "title": "Reliable Automated Outreach in AI Recruiting",
-      "link": "https://dev.to/sumaninster/reliable-automated-outreach-in-ai-recruiting-79f",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 31 Aug 2026 03:34:51 +0000",
-      "summary": "The Fragility of Candidate Follow-Up Sequences Recruiting outreach rarely fails on the first message. It fails across the lifecycle of the sequence. When hiring teams manage multi-touch candidate sour",
-      "score": 5,
-      "titleZh": "Reliable Automated Outreach in AI Recruiting"
-    },
-    {
-      "title": "The AI Skill Most Developers Are Ignoring (And Why It's About to Matter a Lot)",
-      "link": "https://dev.to/aibughunter/the-ai-skill-most-developers-are-ignoring-and-why-its-about-to-matter-a-lot-3230",
+      "title": "partial close trading AI: KI-Trading-Guide",
+      "link": "https://dev.to/meridiantrade/partial-close-trading-ai-ki-trading-guide-6p5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 31 Aug 2026 03:33:29 +0000",
-      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "date": "Mon, 31 Aug 2026 17:22:40 +0000",
+      "summary": "partial close trading AI: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/partial-close-ai/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Scaling out at TP",
       "score": 5,
-      "titleZh": "The AI Skill Most Developers Are Ignoring (And Why It's About to Matter a Lot)"
+      "titleZh": "partial close trading AI: KI-Trading-Guide"
     },
     {
-      "title": "Why Most AI Startups Will Fail at the Same Problem Nobody Is Talking About",
-      "link": "https://dev.to/aibughunter/why-most-ai-startups-will-fail-at-the-same-problem-nobody-is-talking-about-3jag",
+      "title": "max daily loss AI: KI-Trading-Guide",
+      "link": "https://dev.to/meridiantrade/max-daily-loss-ai-ki-trading-guide-a75",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 31 Aug 2026 03:33:15 +0000",
-      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "date": "Mon, 31 Aug 2026 17:22:05 +0000",
+      "summary": "max daily loss AI: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/max-daily-loss-ai/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Daily loss circuit brea",
       "score": 5,
-      "titleZh": "Why Most AI Startups Will Fail at the Same Problem Nobody Is Talking About"
+      "titleZh": "max daily loss AI: KI-Trading-Guide"
     },
     {
-      "title": "How to Debug a Large Codebase When You Don’t Know Where the Bug Is",
-      "link": "https://dev.to/kauddochq/how-to-debug-a-large-codebase-when-you-dont-know-where-the-bug-is-5f54",
+      "title": "Tried `hieunc229/mailflare`: A Practical Look at the Self-Hosted Email Stack",
+      "link": "https://dev.to/power_zhong/tried-hieunc229mailflare-a-practical-look-at-the-self-hosted-email-stack-44ng",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 31 Aug 2026 03:33:01 +0000",
-      "summary": "How to Debug a Large Codebase When You Don't Know Where the Bug Is Debugging a small application is usually straightforward. You find the error, open the relevant file, make a change, run the tests, a",
+      "date": "Mon, 31 Aug 2026 17:21:34 +0000",
+      "summary": "Tried hieunc229/mailflare: A Practical Look at the Self-Hosted Email Stack hieunc229/mailflare is an open-source project focused on professional email for individuals and teams. Its core appeal is str",
       "score": 5,
-      "titleZh": "How to Debug a Large Codebase When You Don’t Know Where the Bug Is"
+      "titleZh": "Tried `hieunc229/mailflare`: A Practical Look at the Self-Hosted Email Stack"
     },
     {
-      "title": "Demystifying the iOS 26.6.1 Update: Crucial Features, Security Fixes, and the Impact on App Development",
-      "link": "https://dev.to/rynoex_63db8bd39b6654184a/demystifying-the-ios-2661-update-crucial-features-security-fixes-and-the-impact-on-app-1fkj",
+      "title": "partial close trading AI: Guida trading AI",
+      "link": "https://dev.to/meridiantrade/partial-close-trading-ai-guida-trading-ai-1ji1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 31 Aug 2026 03:30:35 +0000",
-      "summary": "Demystifying the iOS 26.6.1 Update: Crucial Features, Security Fixes, and the Impact on App Development Discover everything you need to know about the ground-breaking Apple iOS 26.6.1 update. Learn ab",
+      "date": "Mon, 31 Aug 2026 17:21:29 +0000",
+      "summary": "partial close trading AI: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/partial-close-ai/ — canonical URL for SEO. Guida al trading automatizzato con AI. Scaling out at ",
       "score": 5,
-      "titleZh": "Demystifying the iOS 26.6.1 Update: Crucial Features, Security Fixes, and the Impact on App Development"
+      "titleZh": "partial close trading AI: Guida trading AI"
     },
     {
-      "title": "Reproducible Free GPT Image 2 Prompt Workflow with YAML Specs and Review Logs",
-      "link": "https://dev.to/heydream_im/reproducible-free-gpt-image-2-prompt-workflow-with-yaml-specs-and-review-logs-5c36",
+      "title": "max daily loss AI: Guida trading AI",
+      "link": "https://dev.to/meridiantrade/max-daily-loss-ai-guida-trading-ai-3gpo",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 17:20:53 +0000",
+      "summary": "max daily loss AI: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/max-daily-loss-ai/ — canonical URL for SEO. Guida al trading automatizzato con AI. Daily loss circuit br",
+      "score": 5,
+      "titleZh": "max daily loss AI: Guida trading AI"
+    },
+    {
+      "title": "partial close trading AI: Guía de trading IA",
+      "link": "https://dev.to/meridiantrade/partial-close-trading-ai-guia-de-trading-ia-5d26",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 17:20:53 +0000",
+      "summary": "partial close trading AI: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/partial-close-ai/ — canonical URL for SEO. Guía sobre trading automatizado con IA. Scaling out ",
+      "score": 5,
+      "titleZh": "partial close trading AI: Guía de trading IA"
+    },
+    {
+      "title": "I built EcoPrompt: Track the real-time CO2, water & energy cost of your AI prompts",
+      "link": "https://dev.to/ib2mofficial/i-built-ecoprompt-track-the-real-time-co2-water-energy-cost-of-your-ai-prompts-558h",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 17:20:41 +0000",
+      "summary": "Every time we send a query to ChatGPT, Google Gemini, or Claude, high-density GPU clusters consume electricity and water for cooling. While the productivity gain is immense, the environmental footprin",
+      "score": 5,
+      "titleZh": "I built EcoPrompt: Track the real-time CO2, water & energy cost of your AI prompts"
+    },
+    {
+      "title": "max daily loss AI: Guía de trading IA",
+      "link": "https://dev.to/meridiantrade/max-daily-loss-ai-guia-de-trading-ia-djl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 17:20:17 +0000",
+      "summary": "max daily loss AI: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/max-daily-loss-ai/ — canonical URL for SEO. Guía sobre trading automatizado con IA. Daily loss circuit",
+      "score": 5,
+      "titleZh": "max daily loss AI: Guía de trading IA"
+    },
+    {
+      "title": "m365-extension-control: evidence and readiness checks for SPFx estates",
+      "link": "https://dev.to/vystartasv/m365-extension-control-evidence-and-readiness-checks-for-spfx-estates-2a5h",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 31 Aug 2026 17:19:57 +0000",
+      "summary": "SPFx teams do not only need to know whether a project builds. They need to know whether the project on disk still matches the release intent recorded by the team. That is the problem behind m365-exten",
+      "score": 5,
+      "titleZh": "m365-extension-control: evidence and readiness checks for SPFx estates"
+    },
+    {
+      "title": "The dedupe key was set before the fetch, so it never retried",
+      "link": "https://dev.to/chad_priest/the-dedupe-key-was-set-before-the-fetch-so-it-never-retried-46dj",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 31 Aug 2026 03:27:14 +0000",
-      "summary": "Image-generation prompts become difficult to debug when the subject, scene, camera, lighting, format, and constraints all change at once. This article turns a Free GPT Image 2 prompt workflow into a s",
+      "date": "Mon, 31 Aug 2026 17:08:36 +0000",
+      "summary": "The document-match box in our Chrome side panel was empty on a page I knew had three matching documents. Reloading did nothing. Reopening the panel did nothing. Restarting the browser did nothing. Cha",
       "score": 5,
-      "titleZh": "Reproducible Free GPT Image 2 Prompt Workflow with YAML Specs and Review Logs"
-    },
-    {
-      "title": "Integrating Proactive Balance Tracking into Your Verification Pipeline",
-      "link": "https://dev.to/ekycpro/integrating-proactive-balance-tracking-into-your-verification-pipeline-3k3o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 31 Aug 2026 03:21:22 +0000",
-      "summary": "In identity verification workflows, operational continuity is paramount. When building authentication pipelines that rely on external identity signals—such as platform registration checks or risk scor",
-      "score": 5,
-      "titleZh": "Integrating Proactive Balance Tracking into Your Verification Pipeline"
-    },
-    {
-      "title": "How we built WaterShortcut",
-      "link": "https://dev.to/quizbiz/how-we-built-watershortcut-4170",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 31 Aug 2026 03:18:41 +0000",
-      "summary": "Adapt the content from https://watershortcut.com/how-we-built; set canonical to that URL; end with demo https://watershortcut.com/analyze-water-bill. Full story: https://watershortcut.com/how-we-built",
-      "score": 5,
-      "titleZh": "How we built WaterShortcut"
-    },
-    {
-      "title": "Tried `helix-editor/helix` Today: A Fast Editor for AI-Assisted Development",
-      "link": "https://dev.to/power_zhong/tried-helix-editorhelix-today-a-fast-editor-for-ai-assisted-development-3kf3",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 31 Aug 2026 03:18:32 +0000",
-      "summary": "Tried helix-editor/helix Today: A Fast Editor for AI-Assisted Development helix-editor/helix is a post-modern modal text editor built in Rust. It takes the best parts of Vim-style editing, tree-sitter",
-      "score": 5,
-      "titleZh": "Tried `helix-editor/helix` Today: A Fast Editor for AI-Assisted Development"
-    },
-    {
-      "title": "Next.js Cache Components Migration Guide (2026)",
-      "link": "https://dev.to/muhammadalisma/nextjs-cache-components-migration-guide-2026-5ao8",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 31 Aug 2026 03:12:28 +0000",
-      "summary": "You flip on cacheComponents: true expecting a quick performance win, and instead your build explodes with red errors about dynamic, revalidate, and fetchCache not being allowed anymore. Then, once tho",
-      "score": 5,
-      "titleZh": "Next.js Cache Components Migration Guide (2026)"
+      "titleZh": "The dedupe key was set before the fetch, so it never retried"
     }
   ]
 }
