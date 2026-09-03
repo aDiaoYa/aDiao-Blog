@@ -1,10 +1,34 @@
 {
-  "updated": "2026-09-03T02:58:44.211Z",
+  "updated": "2026-09-03T14:08:35.358Z",
   "date": "2026-09-03",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 02 Sep 2026 15:12:40 +0000",
+      "summary": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553",
+      "score": 1093,
+      "titleZh": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 02 Sep 2026 13:59:59 +0000",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375",
+      "score": 473,
+      "titleZh": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
+    },
     {
       "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
@@ -54,16 +78,16 @@
       "titleZh": "Detailed explanation of how to create a text-to-image model from scratch. [R]"
     },
     {
-      "title": "MIR with AudioMuse-AI-SAE [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
+      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-02T08:47:36.000Z",
-      "summary": "Hi all, I recently read this paper: Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. Steering dense music retrieval with open-vocabulary concept discovery.https://arxiv.org/abs/2608.08757 Ther",
+      "date": "2026-09-02T12:04:39.000Z",
+      "summary": "We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol. Setup: - Public data only: Jabarian & Imas 2025 (NBER), Lia",
       "score": 40,
-      "titleZh": "MIR with AudioMuse-AI-SAE [P]"
+      "titleZh": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]"
     },
     {
       "title": "I regret reviewing for AAAI [D]",
@@ -102,148 +126,124 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "score": 5,
-      "titleZh": "Proactive cyber defense for governments and enterprises"
-    },
-    {
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 02 Sep 2026 15:25:12 +0000",
-      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Natur",
-      "score": 5,
-      "titleZh": "Motional and MIT AI explains self-driving car decisions"
-    },
-    {
-      "title": "Salesforce (CRM.US) led the latest funding round for HiBob, an &#8220;AI+HR&#8221; unicorn,",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/salesforce-crmus-led-the-latest-funding-round-for-hibob-an-8220aihr8221-unicorn-jo0",
+      "title": "Deep Dive: AI Detection and Response in Enterprise…",
+      "link": "https://dev.to/norviktech/deep-dive-ai-detection-and-response-in-enterprise-2056",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:50:03 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Salesforce (CRM.US) led the latest funding round for HiBob, an \"AI+HR\" unicorn, injecting s",
+      "date": "Thu, 03 Sep 2026 14:06:00 +0000",
+      "summary": "Originally published at norvik.tech Explore how AI detection and response is transforming enterprise security. A technical analysis for developers and decision-makers. AI detection and response is a c",
       "score": 5,
-      "titleZh": "Salesforce (CRM.US) led the latest funding round for HiBob, an &#8220;AI+HR&#8221; unicorn,"
+      "titleZh": "Deep Dive: AI Detection and Response in Enterprise…"
     },
     {
-      "title": "What AI shopping agents read first on your Shopify store — we checked 42 of them",
-      "link": "https://dev.to/arvio/what-ai-shopping-agents-read-first-on-your-shopify-store-we-checked-42-of-them-2c7j",
+      "title": "Why `magnitudedev/magnitude` Is Getting Attention in Local AI Workflows",
+      "link": "https://dev.to/power_zhong/why-magnitudedevmagnitude-is-getting-attention-in-local-ai-workflows-5115",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:41:11 +0000",
-      "summary": "This is a repost. Originally published on the Arvio blog: https://arvio.a.xyz/blog/agents-md-what-stores-actually-ship. The canonical URL points back there. Published September 2, 2026 by Adot Technol",
+      "date": "Thu, 03 Sep 2026 14:05:06 +0000",
+      "summary": "magnitudedev/magnitude picked up more than 130 GitHub stars today, and the reason is straightforward: local model serving is still too fragmented for developers who want to keep using their existing c",
       "score": 5,
-      "titleZh": "What AI shopping agents read first on your Shopify store — we checked 42 of them"
+      "titleZh": "Why `magnitudedev/magnitude` Is Getting Attention in Local AI Workflows"
     },
     {
-      "title": "Shopify Archive vs. Delete: What Actually Happens to the Product URL",
-      "link": "https://dev.to/arvio/shopify-archive-vs-delete-what-actually-happens-to-the-product-url-5f45",
+      "title": "\"Your security headers are in .htaccess. Cloudflare Pages cannot read them.\"",
+      "link": "https://dev.to/zorawar_arc/your-security-headers-are-in-htaccess-cloudflare-pages-cannot-read-them-1een",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 03 Sep 2026 14:02:39 +0000",
+      "summary": "Trade-offs, since they are real: first load is heavier than a server-rendered equivalent because the processing code ships to the client. Mobile Lighthouse performance is 67, mostly blocking time from",
+      "score": 5,
+      "titleZh": "\"Your security headers are in .htaccess. Cloudflare Pages cannot read them.\""
+    },
+    {
+      "title": "Improving Python AST Self-Healing for Multi-File Code Generation",
+      "link": "https://dev.to/achyut_srivastava_2a77b5d/improving-python-ast-self-healing-for-multi-file-code-generation-42eh",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:40:04 +0000",
-      "summary": "This is a repost. Originally published on the Arvio blog: https://arvio.a.xyz/blog/shopify-archive-vs-delete-products. The canonical URL points back there. Published September 2, 2026 by Adot Technolo",
+      "date": "Thu, 03 Sep 2026 14:00:54 +0000",
+      "summary": "What We Built Today We enhanced LuxurAI Coder's 5-layer AST compiler to better handle multi-file Python refactoring. The system now tracks cross-file dependencies more accurately and has improved test",
       "score": 5,
-      "titleZh": "Shopify Archive vs. Delete: What Actually Happens to the Product URL"
+      "titleZh": "Improving Python AST Self-Healing for Multi-File Code Generation"
     },
     {
-      "title": "Sidekick, or any other Shopify AI agent: they all read the same catalog",
-      "link": "https://dev.to/arvio/sidekick-or-any-other-shopify-ai-agent-they-all-read-the-same-catalog-240c",
+      "title": "How I made AI disclosure part of the chatbot shell",
+      "link": "https://dev.to/sharphaw/how-i-made-ai-disclosure-part-of-the-chatbot-shell-4e87",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:39:03 +0000",
-      "summary": "This is a repost. Originally published on the Arvio blog: https://arvio.a.xyz/blog/shopify-ai-agent-vs-sidekick. The canonical URL points back there. Published September 2, 2026 by Adot Technologies I",
+      "date": "Thu, 03 Sep 2026 14:00:28 +0000",
+      "summary": "If your chatbot’s AI disclosure lives in the welcome message, an ordinary copy edit can remove it. That was the failure mode I wanted to eliminate in SharpOS Support. The result is simple: the product",
       "score": 5,
-      "titleZh": "Sidekick, or any other Shopify AI agent: they all read the same catalog"
+      "titleZh": "How I made AI disclosure part of the chatbot shell"
     },
     {
-      "title": "If You Want to Change Your Life for the Better, Here's the Solution!",
-      "link": "https://dev.to/explorestoday/if-you-want-to-change-your-life-for-the-better-heres-the-solution-1lm2",
+      "title": "We didn't replace Google Analytics. We put a page in front of it that says what needs attention.",
+      "link": "https://dev.to/sharphaw/we-didnt-replace-google-analytics-we-put-a-page-in-front-of-it-that-says-what-needs-attention-k9g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:35:00 +0000",
-      "summary": "TRY THE INSTRUCTIONS HERE WITH JUST A SMALL CAPITAL TRY THE INSTRUCTIONS HERE WITH JUST A SMALL CAPITAL TRY THE INSTRUCTIONS HERE WITH JUST A SMALL CAPITAL \"Wanting to change one's life for the better",
+      "date": "Thu, 03 Sep 2026 14:00:26 +0000",
+      "summary": "Every agency I know has built the client a dashboard at least once. A Looker Studio page with the GA4 connector, a logo in the corner, twelve tiles, a date picker. The client opens it twice. The first",
       "score": 5,
-      "titleZh": "If You Want to Change Your Life for the Better, Here's the Solution!"
+      "titleZh": "We didn't replace Google Analytics. We put a page in front of it that says what needs attention."
     },
     {
-      "title": "Build an Agent That Turns Voicemails Into SMS Summaries",
-      "link": "https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-agent-that-turns-voicemails-into-sms-summaries-4hp4",
-      "source": "Dev.to TS",
+      "title": "The 03 Sites Guide to Buying Old Facebook Accounts Of 20$",
+      "link": "https://dev.to/ceilyanceyidqh1/the-03-sites-guide-to-buying-old-facebook-accounts-of-20-5efd",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:30:46 +0000",
-      "summary": "Voicemail is one of those workflows that still feels weirdly stuck. Someone leaves a message. You get a badge. Then you have to listen through a minute of audio just to find the ten seconds that matte",
+      "date": "Thu, 03 Sep 2026 14:00:00 +0000",
+      "summary": "How to Buy an Old Facebook Account — Step-by-Step Guide usadigitalhubsell@gmail.com 🚀🌐Website:https://usadigitalhub.com/product/buy-old-facebook-accounts/ ⚡🤝 24/7 Customer Support — Fast, Reliable ",
       "score": 5,
-      "titleZh": "Build an Agent That Turns Voicemails Into SMS Summaries"
+      "titleZh": "The 03 Sites Guide to Buying Old Facebook Accounts Of 20$"
     },
     {
-      "title": "How to Connect Workflow Schedulers to Your Edge AI Agent for Production Data Pipelines",
-      "link": "https://dev.to/buildpilots/how-to-connect-workflow-schedulers-to-your-edge-ai-agent-for-production-data-pipelines-4efl",
+      "title": "Beyond the Mirror: How Shapewear Can Boost Your Confidence",
+      "link": "https://dev.to/ersajay/beyond-the-mirror-how-shapewear-can-boost-your-confidence-32jf",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 03 Sep 2026 13:58:51 +0000",
+      "summary": "In recent years, the conversation around body image has shifted dramatically. Yet for many women, the desire to feel confident in their clothes is about personal satisfaction and self-expression. Nebi",
+      "score": 5,
+      "titleZh": "Beyond the Mirror: How Shapewear Can Boost Your Confidence"
+    },
+    {
+      "title": "How to Automate JSON-LD Schema (Without Bloating Your Codebase or Paying for Basic SEO)",
+      "link": "https://dev.to/samir_moukhliss_24c034050/how-to-automate-json-ld-schema-without-bloating-your-codebase-or-paying-for-basic-seo-oo3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 03 Sep 2026 13:58:17 +0000",
+      "summary": "Writing JSON-LD by hand is tedious, and relying on massive marketing plugins to do it automatically often ruins your Time to First Byte (TTFB). Schema injection is the process of adding structured dat",
+      "score": 5,
+      "titleZh": "How to Automate JSON-LD Schema (Without Bloating Your Codebase or Paying for Basic SEO)"
+    },
+    {
+      "title": "The 2 AM Idea: Why Creators Get Their Best Video Ideas When They Should Be Sleeping",
+      "link": "https://dev.to/stephane_guertin_98bb6736/the-2-am-idea-why-creators-get-their-best-video-ideas-when-they-should-be-sleeping-b43",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 02:25:37 +0000",
-      "summary": "Most AI agent demos stop at text reasoning. To build a monetizable agent product, your model needs the ability to trigger real, retry‑able background jobs. Open‑source schedulers solve the hard proble",
+      "date": "Thu, 03 Sep 2026 13:56:02 +0000",
+      "summary": "There is a specific hour of the night when the good ideas show up, and it is never a convenient one. It is 2:14 in the morning. You are lying in bed, phone face-down on the nightstand, having told you",
       "score": 5,
-      "titleZh": "How to Connect Workflow Schedulers to Your Edge AI Agent for Production Data Pipelines"
-    },
-    {
-      "title": "gRPC vs REST: What the Benchmarks Don't Tell You (I Ported a Real Service to Find Out)",
-      "link": "https://dev.to/sirmax/grpc-vs-rest-what-the-benchmarks-dont-tell-you-i-ported-a-real-service-to-find-out-1i51",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 02:23:17 +0000",
-      "summary": "gRPC vs REST: What the Benchmarks Don't Tell You I spent the better part of a month porting one real service from REST/JSON to gRPC, and the result surprised me. Not because gRPC was slow — it wasn't ",
-      "score": 5,
-      "titleZh": "gRPC vs REST: What the Benchmarks Don't Tell You (I Ported a Real Service to Find Out)"
-    },
-    {
-      "title": "Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds",
-      "link": "https://dev.to/frozenwindcn/-zero-npm-installs-i-built-a-40-page-developer-toolbox-that-loads-in-milliseconds-4jde",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 02:20:34 +0000",
-      "summary": "I needed to decode a JWT last week. I searched, clicked the first result, and got a login wall. The second site wanted me to \"create a free account\" to see my own token's payload. The third one was a ",
-      "score": 5,
-      "titleZh": "Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds"
-    },
-    {
-      "title": "Build a Safe Service Entry Gateway in TypeScript",
-      "link": "https://dev.to/ai_superapp/build-a-safe-service-entry-gateway-in-typescript-5h55",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 02:19:47 +0000",
-      "summary": "Build a Safe Service Entry Gateway in TypeScript A customer should not need a new standalone app for every focused digital service. An appointment, campaign, local offer, claim intake, or partner bene",
-      "score": 5,
-      "titleZh": "Build a Safe Service Entry Gateway in TypeScript"
+      "titleZh": "The 2 AM Idea: Why Creators Get Their Best Video Ideas When They Should Be Sleeping"
     }
   ]
 }
