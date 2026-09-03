@@ -1,57 +1,81 @@
 {
-  "updated": "2026-09-02T02:55:00.376Z",
-  "date": "2026-09-02",
+  "updated": "2026-09-03T02:58:44.211Z",
+  "date": "2026-09-03",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "HN·AI",
+      "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 01 Sep 2026 17:53:53 +0000",
-      "summary": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news",
-      "score": 970,
-      "titleZh": "Claude Fable 5.1 and Claude Mythos 5.1"
+      "date": "2026-09-02T17:38:17.000Z",
+      "summary": "Just uploaded the full 5.94 billion TikTok video dataset to Hugging Face. It’s fully open source: https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b This dataset was collected using a Ti",
+      "score": 40,
+      "titleZh": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]"
     },
     {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "link": "https://danluu.com/zitron/",
-      "source": "HN·AI",
+      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 01 Sep 2026 18:35:15 +0000",
-      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069",
-      "score": 462,
-      "titleZh": "How accurate have Ed Zitron's AI skeptic predictions been?"
+      "date": "2026-09-02T16:49:13.000Z",
+      "summary": "I've spent the last month building a local C++ machine learning library called Deepity to test alternative credit assignment algorithms; specifically Predictive Coding Networks (PCNs). While PCNs are ",
+      "score": 40,
+      "titleZh": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]"
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "link": "https://masteranza.github.io/weedout/",
-      "source": "HN·AI",
+      "title": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 01 Sep 2026 22:06:57 +0000",
-      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube lab",
-      "score": 72,
-      "titleZh": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos"
+      "date": "2026-09-02T14:46:43.000Z",
+      "summary": "Disclosure up front: I'm the original first author of CABiNet (ICRA 2021), so I'm not a neutral party. Everything below is reproducible from the repo. Background CABiNet is a dual-branch CNN for real-",
+      "score": 40,
+      "titleZh": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]"
     },
     {
-      "title": "The efficient frontier of LLM inference",
-      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "source": "HN·AI",
+      "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 01 Sep 2026 23:48:05 +0000",
-      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898",
-      "score": 51,
-      "titleZh": "The efficient frontier of LLM inference"
+      "date": "2026-09-02T14:40:29.000Z",
+      "summary": "Jasper Research just released a cookbook on how to build a text-to-image model from scratch. It shares the full reasoning and intermediate results, making it ideal if you want to deep-dive into text-t",
+      "score": 40,
+      "titleZh": "Detailed explanation of how to create a text-to-image model from scratch. [R]"
+    },
+    {
+      "title": "MIR with AudioMuse-AI-SAE [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-02T08:47:36.000Z",
+      "summary": "Hi all, I recently read this paper: Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. Steering dense music retrieval with open-vocabulary concept discovery.https://arxiv.org/abs/2608.08757 Ther",
+      "score": 40,
+      "titleZh": "MIR with AudioMuse-AI-SAE [P]"
+    },
+    {
+      "title": "I regret reviewing for AAAI [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-02T03:44:41.000Z",
+      "summary": "Why did I sign up to review when it’s not reciprocal? Am I an idiot? Am I dumb to sacrifice some of my precious time outside of work to review these papers when I don’t even have to? Yes. I tell mysel",
+      "score": 40,
+      "titleZh": "I regret reviewing for AAAI [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -66,184 +90,160 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-01T19:17:00.000Z",
-      "summary": "LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave pers",
+      "date": "2026-08-31T02:30:17.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
-      "source": "Reddit ML",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-01T19:02:45.000Z",
-      "summary": "Hi everyone, 2nd-year PhD candidate here staring down my first A* submission deadline (AAMAS 2027). I could really use some perspective on theory expectations, especially since I think I’ve methodolog",
-      "score": 40,
-      "titleZh": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]"
-    },
-    {
-      "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-01T15:52:04.000Z",
-      "summary": "YOLO26 ships a depth-estimation model — dense, full-resolution, per-pixel regression, a task architecturally much closer to image restoration than to detection. I wanted to know whether the backbone+n",
-      "score": 40,
-      "titleZh": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]"
-    },
-    {
-      "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-01T15:14:56.000Z",
-      "summary": "After following various arXiv papers and researcher discussions on X/bluesky about latent reasoning and continual learning, one idea which resonates strongly is that path forward (towards AGI) may dep",
-      "score": 40,
-      "titleZh": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]"
-    },
-    {
-      "title": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-01T12:23:32.000Z",
-      "summary": "Hey everyone, My brother and I just released TontaubeV1, a 2.9B-parameter open-weight TTS model focused on expressive speech, long-form generation/narration, and low-latency local inference. It is pri",
-      "score": 40,
-      "titleZh": "We released TontaubeV1, a character-level TTS model for long-form generation [P]"
-    },
-    {
-      "title": "Next.js API Liveness: Node.js Uptime Monitor Reconstructs Stalled Background Cron Imports",
-      "link": "https://dev.to/frozensigh2853916/nextjs-api-liveness-nodejs-uptime-monitor-reconstructs-stalled-background-cron-imports-1hpc",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 02 Sep 2026 02:42:37 +0000",
-      "summary": "Short answer: make the Next.js health route read a durable event ledger written by the background worker, then let the uptime monitor alert when a scheduled import has not produced a successful result",
+      "date": "Wed, 02 Sep 2026 15:40:00 +0000",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
       "score": 5,
-      "titleZh": "Next.js API Liveness: Node.js Uptime Monitor Reconstructs Stalled Background Cron Imports"
+      "titleZh": "Proactive cyber defense for governments and enterprises"
     },
     {
-      "title": "Streaming Responses with Server-Sent Events: A Practical Guide (with Python Code)",
-      "link": "https://dev.to/sirmax/streaming-responses-with-server-sent-events-a-practical-guide-with-python-code-135p",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 02 Sep 2026 15:25:12 +0000",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Natur",
+      "score": 5,
+      "titleZh": "Motional and MIT AI explains self-driving car decisions"
+    },
+    {
+      "title": "Salesforce (CRM.US) led the latest funding round for HiBob, an &#8220;AI+HR&#8221; unicorn,",
+      "link": "https://dev.to/sam_raisinghani_b6dec128c/salesforce-crmus-led-the-latest-funding-round-for-hibob-an-8220aihr8221-unicorn-jo0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:42:14 +0000",
-      "summary": "Streaming Responses with Server-Sent Events: A Practical Guide (with Python Code) When I built my first \"live\" feature — a notification feed that had to update the moment new data arrived — I did what",
+      "date": "Thu, 03 Sep 2026 02:50:03 +0000",
+      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Salesforce (CRM.US) led the latest funding round for HiBob, an \"AI+HR\" unicorn, injecting s",
       "score": 5,
-      "titleZh": "Streaming Responses with Server-Sent Events: A Practical Guide (with Python Code)"
+      "titleZh": "Salesforce (CRM.US) led the latest funding round for HiBob, an &#8220;AI+HR&#8221; unicorn,"
     },
     {
-      "title": "Your US Stock WebSocket Data Is Probably Out‑of‑Order — Here’s How to Handle It",
-      "link": "https://dev.to/kels180/your-us-stock-websocket-data-is-probably-out-of-order-heres-how-to-handle-it-57cp",
+      "title": "What AI shopping agents read first on your Shopify store — we checked 42 of them",
+      "link": "https://dev.to/arvio/what-ai-shopping-agents-read-first-on-your-shopify-store-we-checked-42-of-them-2c7j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:41:33 +0000",
-      "summary": "If you’ve built real‑time market data consumers using WebSocket‑based US stock APIs, you’ve probably run into one sneaky bug: out‑of‑order tick events. Everything works great in local testing. Your sc",
+      "date": "Thu, 03 Sep 2026 02:41:11 +0000",
+      "summary": "This is a repost. Originally published on the Arvio blog: https://arvio.a.xyz/blog/agents-md-what-stores-actually-ship. The canonical URL points back there. Published September 2, 2026 by Adot Technol",
       "score": 5,
-      "titleZh": "Your US Stock WebSocket Data Is Probably Out‑of‑Order — Here’s How to Handle It"
+      "titleZh": "What AI shopping agents read first on your Shopify store — we checked 42 of them"
     },
     {
-      "title": "Your content model is a schema whether you wrote one or not",
-      "link": "https://dev.to/draftbase/your-content-model-is-a-schema-whether-you-wrote-one-or-not-4igf",
+      "title": "Shopify Archive vs. Delete: What Actually Happens to the Product URL",
+      "link": "https://dev.to/arvio/shopify-archive-vs-delete-what-actually-happens-to-the-product-url-5f45",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:41:12 +0000",
-      "summary": "You already have a content model. It's just scattered across a Notion doc, a Figma file, and whatever the person who built the editor form remembered that day. Nobody wrote it down as a schema, so not",
+      "date": "Thu, 03 Sep 2026 02:40:04 +0000",
+      "summary": "This is a repost. Originally published on the Arvio blog: https://arvio.a.xyz/blog/shopify-archive-vs-delete-products. The canonical URL points back there. Published September 2, 2026 by Adot Technolo",
       "score": 5,
-      "titleZh": "Your content model is a schema whether you wrote one or not"
+      "titleZh": "Shopify Archive vs. Delete: What Actually Happens to the Product URL"
     },
     {
-      "title": "ProofPack: hash-locked delivery receipts for AI client work",
-      "link": "https://dev.to/proofpack_mongo/proofpack-hash-locked-delivery-receipts-for-ai-client-work-5f79",
+      "title": "Sidekick, or any other Shopify AI agent: they all read the same catalog",
+      "link": "https://dev.to/arvio/sidekick-or-any-other-shopify-ai-agent-they-all-read-the-same-catalog-240c",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:40:39 +0000",
-      "summary": "The problem Agencies and freelancers increasingly ship AI-assisted work. The deliverable is often a prompt, a model output, and some surrounding context — but the handoff lives in email, Slack, or a s",
+      "date": "Thu, 03 Sep 2026 02:39:03 +0000",
+      "summary": "This is a repost. Originally published on the Arvio blog: https://arvio.a.xyz/blog/shopify-ai-agent-vs-sidekick. The canonical URL points back there. Published September 2, 2026 by Adot Technologies I",
       "score": 5,
-      "titleZh": "ProofPack: hash-locked delivery receipts for AI client work"
+      "titleZh": "Sidekick, or any other Shopify AI agent: they all read the same catalog"
     },
     {
-      "title": "E-commerce Login Handoffs: 6 Replay Guards for OAuth Callbacks and Local Sessions",
-      "link": "https://dev.to/ellisvance1273/e-commerce-login-handoffs-6-replay-guards-for-oauth-callbacks-and-local-sessions-34d6",
+      "title": "If You Want to Change Your Life for the Better, Here's the Solution!",
+      "link": "https://dev.to/explorestoday/if-you-want-to-change-your-life-for-the-better-heres-the-solution-1lm2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 03 Sep 2026 02:35:00 +0000",
+      "summary": "TRY THE INSTRUCTIONS HERE WITH JUST A SMALL CAPITAL TRY THE INSTRUCTIONS HERE WITH JUST A SMALL CAPITAL TRY THE INSTRUCTIONS HERE WITH JUST A SMALL CAPITAL \"Wanting to change one's life for the better",
+      "score": 5,
+      "titleZh": "If You Want to Change Your Life for the Better, Here's the Solution!"
+    },
+    {
+      "title": "Build an Agent That Turns Voicemails Into SMS Summaries",
+      "link": "https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-agent-that-turns-voicemails-into-sms-summaries-4hp4",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:28:02 +0000",
-      "summary": "Short answer: choose providers by their protocol fit and account identifiers, then make the callback a one-use transaction that ends in your own short-lived local session. That sounds obvious until a ",
+      "date": "Thu, 03 Sep 2026 02:30:46 +0000",
+      "summary": "Voicemail is one of those workflows that still feels weirdly stuck. Someone leaves a message. You get a badge. Then you have to listen through a minute of audio just to find the ten seconds that matte",
       "score": 5,
-      "titleZh": "E-commerce Login Handoffs: 6 Replay Guards for OAuth Callbacks and Local Sessions"
+      "titleZh": "Build an Agent That Turns Voicemails Into SMS Summaries"
     },
     {
-      "title": "What is inside Emil Kowalski's design skill? We read all 27KB of emil-design-eng",
-      "link": "https://dev.to/skillselion/what-is-inside-emil-kowalskis-design-skill-we-read-all-27kb-of-emil-design-eng-4l35",
+      "title": "How to Connect Workflow Schedulers to Your Edge AI Agent for Production Data Pipelines",
+      "link": "https://dev.to/buildpilots/how-to-connect-workflow-schedulers-to-your-edge-ai-agent-for-production-data-pipelines-4efl",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:26:53 +0000",
-      "summary": "emil-design-eng is Emil Kowalski's agent skill for interface polish: one 27,226-byte SKILL.md and nothing else. It opens with a scripted first reply, spends most of its animation framework arguing aga",
+      "date": "Thu, 03 Sep 2026 02:25:37 +0000",
+      "summary": "Most AI agent demos stop at text reasoning. To build a monetizable agent product, your model needs the ability to trigger real, retry‑able background jobs. Open‑source schedulers solve the hard proble",
       "score": 5,
-      "titleZh": "What is inside Emil Kowalski's design skill? We read all 27KB of emil-design-eng"
+      "titleZh": "How to Connect Workflow Schedulers to Your Edge AI Agent for Production Data Pipelines"
     },
     {
-      "title": "Created a new html game",
-      "link": "https://dev.to/senarik-o/created-a-new-html-game-2ifb",
+      "title": "gRPC vs REST: What the Benchmarks Don't Tell You (I Ported a Real Service to Find Out)",
+      "link": "https://dev.to/sirmax/grpc-vs-rest-what-the-benchmarks-dont-tell-you-i-ported-a-real-service-to-find-out-1i51",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:26:38 +0000",
-      "summary": "Think you can handle the speed, or are you just going to blame your keyboard? Immerse yourself in a blinding, high-octane neon grid driven by adaptive procedural synthwave audio. Navigate treacherous ",
+      "date": "Thu, 03 Sep 2026 02:23:17 +0000",
+      "summary": "gRPC vs REST: What the Benchmarks Don't Tell You I spent the better part of a month porting one real service from REST/JSON to gRPC, and the result surprised me. Not because gRPC was slow — it wasn't ",
       "score": 5,
-      "titleZh": "Created a new html game"
+      "titleZh": "gRPC vs REST: What the Benchmarks Don't Tell You (I Ported a Real Service to Find Out)"
     },
     {
-      "title": "Why Use `react-api-state` Instead of Traditional React Patterns?",
-      "link": "https://dev.to/optiwariindia/why-use-react-api-state-instead-of-traditional-react-patterns-fc0",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 02 Sep 2026 02:08:48 +0000",
-      "summary": "React makes it incredibly easy to build UI. But when an application becomes API-heavy, a different kind of complexity starts to appear. You find yourself repeatedly writing useState, useEffect, loadin",
-      "score": 5,
-      "titleZh": "Why Use `react-api-state` Instead of Traditional React Patterns?"
-    },
-    {
-      "title": "Top 33 Sites To Buy GitHub Accounts (Aged.....",
-      "link": "https://dev.to/dez6w6pu/top-33-sites-to-buy-github-accounts-aged-j61",
+      "title": "Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds",
+      "link": "https://dev.to/frozenwindcn/-zero-npm-installs-i-built-a-40-page-developer-toolbox-that-loads-in-milliseconds-4jde",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 02:07:40 +0000",
-      "summary": "Buy Old GitHub Accounts getpvatop@gmail.com https://getpvatop.com/product/buy-old-github-accounts/ Looking to Buy Old GitHub Accounts for your development projects or business needs? GetPVATop.com off",
+      "date": "Thu, 03 Sep 2026 02:20:34 +0000",
+      "summary": "I needed to decode a JWT last week. I searched, clicked the first result, and got a login wall. The second site wanted me to \"create a free account\" to see my own token's payload. The third one was a ",
       "score": 5,
-      "titleZh": "Top 33 Sites To Buy GitHub Accounts (Aged....."
+      "titleZh": "Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds"
+    },
+    {
+      "title": "Build a Safe Service Entry Gateway in TypeScript",
+      "link": "https://dev.to/ai_superapp/build-a-safe-service-entry-gateway-in-typescript-5h55",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 03 Sep 2026 02:19:47 +0000",
+      "summary": "Build a Safe Service Entry Gateway in TypeScript A customer should not need a new standalone app for every focused digital service. An appointment, campaign, local offer, claim intake, or partner bene",
+      "score": 5,
+      "titleZh": "Build a Safe Service Entry Gateway in TypeScript"
     }
   ]
 }
