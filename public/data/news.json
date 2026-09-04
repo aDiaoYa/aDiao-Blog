@@ -1,33 +1,117 @@
 {
-  "updated": "2026-09-03T14:08:35.358Z",
-  "date": "2026-09-03",
+  "updated": "2026-09-04T02:57:38.627Z",
+  "date": "2026-09-04",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "title": "GPT-6 Astra",
+      "link": "https://openai.com/index/gpt-6-astra/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 02 Sep 2026 15:12:40 +0000",
-      "summary": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553",
-      "score": 1093,
-      "titleZh": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+      "date": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in",
+      "score": 1394,
+      "titleZh": "GPT-6 Astra"
     },
     {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 02 Sep 2026 13:59:59 +0000",
-      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375",
-      "score": 473,
-      "titleZh": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
+      "date": "Thu, 03 Sep 2026 01:11:22 +0000",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762",
+      "score": 209,
+      "titleZh": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 03 Sep 2026 14:28:18 +0000",
+      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the",
+      "score": 208,
+      "titleZh": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "link": "https://arcprize.org/blog/astra",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691",
+      "score": 173,
+      "titleZh": "OpenAI's GPT-6 Astra on ARC-AGI-3"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206",
+      "score": 116,
+      "titleZh": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out"
+    },
+    {
+      "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-03T21:12:36.000Z",
+      "summary": "Has anyone else received an AAAI-27 desk rejection related to modifications to the title or abstract between the abstract-registration deadline and the full-paper deadline? What I’m trying to understa",
+      "score": 40,
+      "titleZh": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]"
+    },
+    {
+      "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-03T19:56:27.000Z",
+      "summary": "Hi everyone, I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: https://flogrammer.github.io/moljepa/ TL;DR: its a multimod",
+      "score": 40,
+      "titleZh": "Mol-JEPA - Multimodal molecular foundation model [R]"
+    },
+    {
+      "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-03T19:09:48.000Z",
+      "summary": "Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit. submitted by /u/alrojo [link] [comments]",
+      "score": 40,
+      "titleZh": "NeurIPS Sydney SOLD OUT in minutes [N]"
+    },
+    {
+      "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-03T14:45:53.000Z",
+      "summary": "LLMs describe physics well but don't \"understand\" it in any grounded sense — they've learned statistical relationships between tokens like \"falls\" and \"gravity\", not actual physical intuition. This is",
+      "score": 40,
+      "titleZh": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]"
     },
     {
       "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
@@ -42,208 +126,124 @@
       "titleZh": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]"
     },
     {
-      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
-      "source": "Reddit ML",
+      "title": "The asteroid currently hitting front end web development",
+      "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-09-02T16:49:13.000Z",
-      "summary": "I've spent the last month building a local C++ machine learning library called Deepity to test alternative credit assignment algorithms; specifically Predictive Coding Networks (PCNs). While PCNs are ",
-      "score": 40,
-      "titleZh": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]"
+      "date": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "summary": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=49555233",
+      "score": 86,
+      "titleZh": "The asteroid currently hitting front end web development"
     },
     {
-      "title": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T14:46:43.000Z",
-      "summary": "Disclosure up front: I'm the original first author of CABiNet (ICRA 2021), so I'm not a neutral party. Everything below is reproducible from the repo. Background CABiNet is a dual-branch CNN for real-",
-      "score": 40,
-      "titleZh": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]"
-    },
-    {
-      "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T14:40:29.000Z",
-      "summary": "Jasper Research just released a cookbook on how to build a text-to-image model from scratch. It shares the full reasoning and intermediate results, making it ideal if you want to deep-dive into text-t",
-      "score": 40,
-      "titleZh": "Detailed explanation of how to create a text-to-image model from scratch. [R]"
-    },
-    {
-      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T12:04:39.000Z",
-      "summary": "We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol. Setup: - Public data only: Jabarian & Imas 2025 (NBER), Lia",
-      "score": 40,
-      "titleZh": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]"
-    },
-    {
-      "title": "I regret reviewing for AAAI [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T03:44:41.000Z",
-      "summary": "Why did I sign up to review when it’s not reciprocal? Am I an idiot? Am I dumb to sacrifice some of my precious time outside of work to review these papers when I don’t even have to? Yes. I tell mysel",
-      "score": 40,
-      "titleZh": "I regret reviewing for AAAI [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-31T02:30:17.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "Deep Dive: AI Detection and Response in Enterprise…",
-      "link": "https://dev.to/norviktech/deep-dive-ai-detection-and-response-in-enterprise-2056",
+      "title": "HR tech&#8217;s agentic action makes the software stand out amid SaaSpocalypse &#8211;",
+      "link": "https://dev.to/sam_raisinghani_b6dec128c/hr-tech8217s-agentic-action-makes-the-software-stand-out-amid-saaspocalypse-8211-1dm8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 14:06:00 +0000",
-      "summary": "Originally published at norvik.tech Explore how AI detection and response is transforming enterprise security. A technical analysis for developers and decision-makers. AI detection and response is a c",
+      "date": "Fri, 04 Sep 2026 02:48:51 +0000",
+      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores HR tech's agentic action makes the software stand out amid SaaSpocalypse - Axios for founde",
       "score": 5,
-      "titleZh": "Deep Dive: AI Detection and Response in Enterprise…"
+      "titleZh": "HR tech&#8217;s agentic action makes the software stand out amid SaaSpocalypse &#8211;"
     },
     {
-      "title": "Why `magnitudedev/magnitude` Is Getting Attention in Local AI Workflows",
-      "link": "https://dev.to/power_zhong/why-magnitudedevmagnitude-is-getting-attention-in-local-ai-workflows-5115",
+      "title": "I Scanned 20 Nigerian Developer Projects for Security Vulnerabilities, Here's What I Found",
+      "link": "https://dev.to/abdulwahab_lawal_e61e20a1/i-scanned-20-nigerian-developer-projects-for-security-vulnerabilities-heres-what-i-found-5dan",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 14:05:06 +0000",
-      "summary": "magnitudedev/magnitude picked up more than 130 GitHub stars today, and the reason is straightforward: local model serving is still too fragmented for developers who want to keep using their existing c",
+      "date": "Fri, 04 Sep 2026 02:47:12 +0000",
+      "summary": "Before I wrote a single line of product code, I did something most founders skip entirely. I talked to 16 developers. Then I scanned their projects. What I found changed how I think about security in ",
       "score": 5,
-      "titleZh": "Why `magnitudedev/magnitude` Is Getting Attention in Local AI Workflows"
+      "titleZh": "I Scanned 20 Nigerian Developer Projects for Security Vulnerabilities, Here's What I Found"
     },
     {
-      "title": "\"Your security headers are in .htaccess. Cloudflare Pages cannot read them.\"",
-      "link": "https://dev.to/zorawar_arc/your-security-headers-are-in-htaccess-cloudflare-pages-cannot-read-them-1een",
+      "title": "On-Device Processing: Why Your Face Should Not Hit a Server",
+      "link": "https://dev.to/support_763dd4352904db708/on-device-processing-why-your-face-should-not-hit-a-server-ba9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 04 Sep 2026 02:46:06 +0000",
+      "summary": "Developers understand data flow. When you upload a document photo to a random editing app, your clear, front-facing, biometric-grade image flows to that company's servers, where it may be stored, anal",
+      "score": 5,
+      "titleZh": "On-Device Processing: Why Your Face Should Not Hit a Server"
+    },
+    {
+      "title": "Laptop Buying Guide 2026: How to Choose the Right Laptop Without Overpaying",
+      "link": "https://dev.to/zprostudio/laptop-buying-guide-2026-how-to-choose-the-right-laptop-without-overpaying-1023",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 04 Sep 2026 02:44:13 +0000",
+      "summary": "Buying a laptop sounds simple until you start comparing specifications. One laptop has an Intel processor, another has AMD Ryzen, another uses an Apple chip, and then you have different RAM capacities",
+      "score": 5,
+      "titleZh": "Laptop Buying Guide 2026: How to Choose the Right Laptop Without Overpaying"
+    },
+    {
+      "title": "Debugging a Rejected Photo Upload: A Systematic Approach",
+      "link": "https://dev.to/support_763dd4352904db708/debugging-a-rejected-photo-upload-a-systematic-approach-3cj9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 04 Sep 2026 02:40:54 +0000",
+      "summary": "A rejected document photo is a bug report without a stack trace. The portal says \"image does not meet requirements\" and offers no line number. After debugging two rejections myself, I developed a chec",
+      "score": 5,
+      "titleZh": "Debugging a Rejected Photo Upload: A Systematic Approach"
+    },
+    {
+      "title": "A Ranking Page Is a Decision Interface, Not a Database",
+      "link": "https://dev.to/zhebuildsthings/a-ranking-page-is-a-decision-interface-not-a-database-413m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 04 Sep 2026 02:40:51 +0000",
+      "summary": "A Ranking Page Is a Decision Interface, Not a Database An AI-tool directory can be implemented as a collection of cards. A useful one behaves more like a decision interface. That distinction changes t",
+      "score": 5,
+      "titleZh": "A Ranking Page Is a Decision Interface, Not a Database"
+    },
+    {
+      "title": "Dev Log: 3 September 2026 — Everything I Fixed Today Was Already Written",
+      "link": "https://dev.to/nasrulhazim/dev-log-3-september-2026-everything-i-fixed-today-was-already-written-1emi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 04 Sep 2026 02:40:37 +0000",
+      "summary": "Six commits across two codebases today — a deployment platform and an identity system. Different stacks, different problems. Reading them back in one sitting, the same shape six times: The feature was",
+      "score": 5,
+      "titleZh": "Dev Log: 3 September 2026 — Everything I Fixed Today Was Already Written"
+    },
+    {
+      "title": "What is Scary Challenges by Inithouse? The free 18+ horror card game that runs in a browser, no account",
+      "link": "https://dev.to/jakub_inithouse/what-is-scary-challenges-by-inithouse-the-free-18-horror-card-game-that-runs-in-a-browser-no-4l2k",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 14:02:39 +0000",
-      "summary": "Trade-offs, since they are real: first load is heavier than a server-rendered equivalent because the processing code ships to the client. Mobile Lighthouse performance is 67, mostly blocking time from",
+      "date": "Fri, 04 Sep 2026 02:36:46 +0000",
+      "summary": "Scary Challenges is a free 18+ horror card game with 1,000+ cards across themed decks for sleepovers, groups and solo terror. We built it at Inithouse as a browser-native PWA that needs no download, n",
       "score": 5,
-      "titleZh": "\"Your security headers are in .htaccess. Cloudflare Pages cannot read them.\""
+      "titleZh": "What is Scary Challenges by Inithouse? The free 18+ horror card game that runs in a browser, no account"
     },
     {
-      "title": "Improving Python AST Self-Healing for Multi-File Code Generation",
-      "link": "https://dev.to/achyut_srivastava_2a77b5d/improving-python-ast-self-healing-for-multi-file-code-generation-42eh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 14:00:54 +0000",
-      "summary": "What We Built Today We enhanced LuxurAI Coder's 5-layer AST compiler to better handle multi-file Python refactoring. The system now tracks cross-file dependencies more accurately and has improved test",
-      "score": 5,
-      "titleZh": "Improving Python AST Self-Healing for Multi-File Code Generation"
-    },
-    {
-      "title": "How I made AI disclosure part of the chatbot shell",
-      "link": "https://dev.to/sharphaw/how-i-made-ai-disclosure-part-of-the-chatbot-shell-4e87",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 14:00:28 +0000",
-      "summary": "If your chatbot’s AI disclosure lives in the welcome message, an ordinary copy edit can remove it. That was the failure mode I wanted to eliminate in SharpOS Support. The result is simple: the product",
-      "score": 5,
-      "titleZh": "How I made AI disclosure part of the chatbot shell"
-    },
-    {
-      "title": "We didn't replace Google Analytics. We put a page in front of it that says what needs attention.",
-      "link": "https://dev.to/sharphaw/we-didnt-replace-google-analytics-we-put-a-page-in-front-of-it-that-says-what-needs-attention-k9g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 14:00:26 +0000",
-      "summary": "Every agency I know has built the client a dashboard at least once. A Looker Studio page with the GA4 connector, a logo in the corner, twelve tiles, a date picker. The client opens it twice. The first",
-      "score": 5,
-      "titleZh": "We didn't replace Google Analytics. We put a page in front of it that says what needs attention."
-    },
-    {
-      "title": "The 03 Sites Guide to Buying Old Facebook Accounts Of 20$",
-      "link": "https://dev.to/ceilyanceyidqh1/the-03-sites-guide-to-buying-old-facebook-accounts-of-20-5efd",
+      "title": "[Open source sharing] How I Built Three Small Party Games for a Spring Dinner",
+      "link": "https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 03 Sep 2026 14:00:00 +0000",
-      "summary": "How to Buy an Old Facebook Account — Step-by-Step Guide usadigitalhubsell@gmail.com 🚀🌐Website:https://usadigitalhub.com/product/buy-old-facebook-accounts/ ⚡🤝 24/7 Customer Support — Fast, Reliable ",
+      "date": "Fri, 04 Sep 2026 02:29:36 +0000",
+      "summary": "The best software I wrote for a spring dinner was not a dashboard or an internal tool. It was a set of deliberately over-the-top games: a multiplayer memory game that uses people's phones as controlle",
       "score": 5,
-      "titleZh": "The 03 Sites Guide to Buying Old Facebook Accounts Of 20$"
-    },
-    {
-      "title": "Beyond the Mirror: How Shapewear Can Boost Your Confidence",
-      "link": "https://dev.to/ersajay/beyond-the-mirror-how-shapewear-can-boost-your-confidence-32jf",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 13:58:51 +0000",
-      "summary": "In recent years, the conversation around body image has shifted dramatically. Yet for many women, the desire to feel confident in their clothes is about personal satisfaction and self-expression. Nebi",
-      "score": 5,
-      "titleZh": "Beyond the Mirror: How Shapewear Can Boost Your Confidence"
-    },
-    {
-      "title": "How to Automate JSON-LD Schema (Without Bloating Your Codebase or Paying for Basic SEO)",
-      "link": "https://dev.to/samir_moukhliss_24c034050/how-to-automate-json-ld-schema-without-bloating-your-codebase-or-paying-for-basic-seo-oo3",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 13:58:17 +0000",
-      "summary": "Writing JSON-LD by hand is tedious, and relying on massive marketing plugins to do it automatically often ruins your Time to First Byte (TTFB). Schema injection is the process of adding structured dat",
-      "score": 5,
-      "titleZh": "How to Automate JSON-LD Schema (Without Bloating Your Codebase or Paying for Basic SEO)"
-    },
-    {
-      "title": "The 2 AM Idea: Why Creators Get Their Best Video Ideas When They Should Be Sleeping",
-      "link": "https://dev.to/stephane_guertin_98bb6736/the-2-am-idea-why-creators-get-their-best-video-ideas-when-they-should-be-sleeping-b43",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 03 Sep 2026 13:56:02 +0000",
-      "summary": "There is a specific hour of the night when the good ideas show up, and it is never a convenient one. It is 2:14 in the morning. You are lying in bed, phone face-down on the nightstand, having told you",
-      "score": 5,
-      "titleZh": "The 2 AM Idea: Why Creators Get Their Best Video Ideas When They Should Be Sleeping"
+      "titleZh": "[Open source sharing] How I Built Three Small Party Games for a Spring Dinner"
     }
   ]
 }
