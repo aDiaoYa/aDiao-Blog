@@ -1,249 +1,249 @@
 {
-  "updated": "2026-09-04T02:57:38.627Z",
-  "date": "2026-09-04",
+  "updated": "2026-09-06T13:24:17.528Z",
+  "date": "2026-09-06",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "GPT-6 Astra",
-      "link": "https://openai.com/index/gpt-6-astra/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 03 Sep 2026 18:41:05 +0000",
-      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in",
-      "score": 1394,
-      "titleZh": "GPT-6 Astra"
-    },
-    {
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 03 Sep 2026 01:11:22 +0000",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762",
-      "score": 209,
-      "titleZh": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 03 Sep 2026 14:28:18 +0000",
-      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the",
-      "score": 208,
-      "titleZh": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "link": "https://arcprize.org/blog/astra",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 03 Sep 2026 19:45:00 +0000",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691",
-      "score": 173,
-      "titleZh": "OpenAI's GPT-6 Astra on ARC-AGI-3"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 03 Sep 2026 21:20:34 +0000",
-      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206",
-      "score": 116,
-      "titleZh": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out"
-    },
-    {
-      "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
+      "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-03T21:12:36.000Z",
-      "summary": "Has anyone else received an AAAI-27 desk rejection related to modifications to the title or abstract between the abstract-registration deadline and the full-paper deadline? What I’m trying to understa",
+      "date": "2026-09-06T09:23:59.000Z",
+      "summary": "I've been working on a practical implementation of Sliding Window Attention (SWA) for pretrained Hugging Face causal LLMs. The idea is simple: instead of allowing every generated token to attend to th",
       "score": 40,
-      "titleZh": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]"
+      "titleZh": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]"
     },
     {
-      "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
+      "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-03T19:56:27.000Z",
-      "summary": "Hi everyone, I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: https://flogrammer.github.io/moljepa/ TL;DR: its a multimod",
+      "date": "2026-09-06T07:33:50.000Z",
+      "summary": "building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, relations. So I extrac",
       "score": 40,
-      "titleZh": "Mol-JEPA - Multimodal molecular foundation model [R]"
+      "titleZh": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]"
     },
     {
-      "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+      "title": "AIStats 2027 Questions [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-03T19:09:48.000Z",
-      "summary": "Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit. submitted by /u/alrojo [link] [comments]",
+      "date": "2026-09-06T03:33:12.000Z",
+      "summary": "Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little information is avail",
       "score": 40,
-      "titleZh": "NeurIPS Sydney SOLD OUT in minutes [N]"
+      "titleZh": "AIStats 2027 Questions [D]"
     },
     {
-      "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+      "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-03T14:45:53.000Z",
-      "summary": "LLMs describe physics well but don't \"understand\" it in any grounded sense — they've learned statistical relationships between tokens like \"falls\" and \"gravity\", not actual physical intuition. This is",
+      "date": "2026-09-05T23:33:49.000Z",
+      "summary": "I ran a side-by-side ML text-processing and model-training workflow using Fable 5.1 vs. Astra (both on xhigh), and the results could not have been more different. Warning, long post. TL;DR -- Astra co",
       "score": 40,
-      "titleZh": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]"
+      "titleZh": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]"
     },
     {
-      "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-02T17:38:17.000Z",
-      "summary": "Just uploaded the full 5.94 billion TikTok video dataset to Hugging Face. It’s fully open source: https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b This dataset was collected using a Ti",
+      "date": "2026-09-05T19:11:16.000Z",
+      "summary": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techn",
       "score": 40,
-      "titleZh": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]"
+      "titleZh": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]"
     },
     {
-      "title": "The asteroid currently hitting front end web development",
-      "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-      "source": "HN·前端",
+      "title": "Language Models Can Control Their Own Attention [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Thu, 03 Sep 2026 19:17:24 +0000",
-      "summary": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=49555233",
-      "score": 86,
-      "titleZh": "The asteroid currently hitting front end web development"
+      "date": "2026-09-05T06:07:09.000Z",
+      "summary": "Abstract Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in",
+      "score": 40,
+      "titleZh": "Language Models Can Control Their Own Attention [R]"
     },
     {
-      "title": "HR tech&#8217;s agentic action makes the software stand out amid SaaSpocalypse &#8211;",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/hr-tech8217s-agentic-action-makes-the-software-stand-out-amid-saaspocalypse-8211-1dm8",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-02T02:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T02:30:17.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+    },
+    {
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI",
+      "score": 5,
+      "titleZh": "M&T Bank expands enterprise AI after years of technology overhaul"
+    },
+    {
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 04 Sep 2026 08:25:12 +0000",
+      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI G",
+      "score": 5,
+      "titleZh": "50.5% of Americans Say AI Romance Can Count as Cheating"
+    },
+    {
+      "title": "A Shift Confirmation Is Useless If the Assignment Changes Under It",
+      "link": "https://dev.to/miran969/a-shift-confirmation-is-useless-if-the-assignment-changes-under-it-20ag",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:48:51 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores HR tech's agentic action makes the software stand out amid SaaSpocalypse - Axios for founde",
+      "date": "Sun, 06 Sep 2026 13:23:03 +0000",
+      "summary": "I started treating a stable assignment as a precondition for confirmation, because otherwise a perfectly valid response can belong to an outdated shift. Imagine I ask Maria to confirm: Friday 6:00 PM ",
       "score": 5,
-      "titleZh": "HR tech&#8217;s agentic action makes the software stand out amid SaaSpocalypse &#8211;"
+      "titleZh": "A Shift Confirmation Is Useless If the Assignment Changes Under It"
     },
     {
-      "title": "I Scanned 20 Nigerian Developer Projects for Security Vulnerabilities, Here's What I Found",
-      "link": "https://dev.to/abdulwahab_lawal_e61e20a1/i-scanned-20-nigerian-developer-projects-for-security-vulnerabilities-heres-what-i-found-5dan",
+      "title": "Building KomeVerse: Where Games Meet Technology",
+      "link": "https://dev.to/komestudio/building-komeverse-where-games-meet-technology-16b5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:47:12 +0000",
-      "summary": "Before I wrote a single line of product code, I did something most founders skip entirely. I talked to 16 developers. Then I scanned their projects. What I found changed how I think about security in ",
+      "date": "Sun, 06 Sep 2026 13:20:34 +0000",
+      "summary": "Kome Studio is a small independent studio from Vietnam building something we hope can grow far beyond a single game: KomeVerse. KomeVerse is our long-term creative universe — a collection of games, ch",
       "score": 5,
-      "titleZh": "I Scanned 20 Nigerian Developer Projects for Security Vulnerabilities, Here's What I Found"
+      "titleZh": "Building KomeVerse: Where Games Meet Technology"
     },
     {
-      "title": "On-Device Processing: Why Your Face Should Not Hit a Server",
-      "link": "https://dev.to/support_763dd4352904db708/on-device-processing-why-your-face-should-not-hit-a-server-ba9",
+      "title": "A permission check should return a denial, not False",
+      "link": "https://dev.to/shipmindlabs/a-permission-check-should-return-a-denial-not-false-3d6c",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:46:06 +0000",
-      "summary": "Developers understand data flow. When you upload a document photo to a random editing app, your clear, front-facing, biometric-grade image flows to that company's servers, where it may be stored, anal",
+      "date": "Sun, 06 Sep 2026 13:20:21 +0000",
+      "summary": "Most Django backends answer authorization questions with a boolean, and everything the check knew gets thrown away on the way out. A courier's app shows a refund button that returns 403, support asks ",
       "score": 5,
-      "titleZh": "On-Device Processing: Why Your Face Should Not Hit a Server"
+      "titleZh": "A permission check should return a denial, not False"
     },
     {
-      "title": "Laptop Buying Guide 2026: How to Choose the Right Laptop Without Overpaying",
-      "link": "https://dev.to/zprostudio/laptop-buying-guide-2026-how-to-choose-the-right-laptop-without-overpaying-1023",
+      "title": "copycopy.site by Inithouse: structured handoff cards you can generate from a URL, with JSON for agents",
+      "link": "https://dev.to/jakub_inithouse/copycopysite-by-inithouse-structured-handoff-cards-you-can-generate-from-a-url-with-json-for-420j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:44:13 +0000",
-      "summary": "Buying a laptop sounds simple until you start comparing specifications. One laptop has an Intel processor, another has AMD Ryzen, another uses an Apple chip, and then you have different RAM capacities",
+      "date": "Sun, 06 Sep 2026 13:19:37 +0000",
+      "summary": "copycopy.site is a free structured handoff tool by Inithouse. You paste logins, DNS records, an invoice or a screenshot, you get one link where every value has its own copy button, and both sides see ",
       "score": 5,
-      "titleZh": "Laptop Buying Guide 2026: How to Choose the Right Laptop Without Overpaying"
+      "titleZh": "copycopy.site by Inithouse: structured handoff cards you can generate from a URL, with JSON for agents"
     },
     {
-      "title": "Debugging a Rejected Photo Upload: A Systematic Approach",
-      "link": "https://dev.to/support_763dd4352904db708/debugging-a-rejected-photo-upload-a-systematic-approach-3cj9",
+      "title": "From Zero to Shipped: My Journey Building an MCP Server",
+      "link": "https://dev.to/sajasayara/from-zero-to-shipped-my-journey-building-an-mcp-server-42ei",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 06 Sep 2026 13:17:17 +0000",
+      "summary": "From Zero to Shipped: My Journey Building an MCP Server Six weeks ago, \"MCP\" didn't mean anything to me. Today, I've shipped tools, published a live website, and learned more about backend engineering",
+      "score": 5,
+      "titleZh": "From Zero to Shipped: My Journey Building an MCP Server"
+    },
+    {
+      "title": "Open-Weight AI in Drone Tech: How YOLO Flies on a Jetson Nano — Day 17/30",
+      "link": "https://dev.to/aiexplore369zoho/open-weight-ai-in-drone-tech-how-yolo-flies-on-a-jetson-nano-day-1730-3bac",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:40:54 +0000",
-      "summary": "A rejected document photo is a bug report without a stack trace. The portal says \"image does not meet requirements\" and offers no line number. After debugging two rejections myself, I developed a chec",
+      "date": "Sun, 06 Sep 2026 13:16:07 +0000",
+      "summary": "TL;DR — Drones can't phone home to a cloud GPU mid-flight, so open-weight vision models running on tiny onboard computers like the Jetson Nano are doing the real work: spotting missing persons, cracks",
       "score": 5,
-      "titleZh": "Debugging a Rejected Photo Upload: A Systematic Approach"
+      "titleZh": "Open-Weight AI in Drone Tech: How YOLO Flies on a Jetson Nano — Day 17/30"
     },
     {
-      "title": "A Ranking Page Is a Decision Interface, Not a Database",
-      "link": "https://dev.to/zhebuildsthings/a-ranking-page-is-a-decision-interface-not-a-database-413m",
+      "title": "10 Trusted Websites to Buy Verified Wise Accounts This Year",
+      "link": "https://dev.to/bab_case_fe301d13141b0699/10-trusted-websites-to-buy-verified-wise-accounts-this-year-5929",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:40:51 +0000",
-      "summary": "A Ranking Page Is a Decision Interface, Not a Database An AI-tool directory can be implemented as a collection of cards. A useful one behaves more like a decision interface. That distinction changes t",
+      "date": "Sun, 06 Sep 2026 13:11:49 +0000",
+      "summary": "In today's interconnected global economy, online businesses of all sizes increasingly operate across borders. Freelancers serve clients on multiple continents, e-commerce sellers fulfill orders intern",
       "score": 5,
-      "titleZh": "A Ranking Page Is a Decision Interface, Not a Database"
+      "titleZh": "10 Trusted Websites to Buy Verified Wise Accounts This Year"
     },
     {
-      "title": "Dev Log: 3 September 2026 — Everything I Fixed Today Was Already Written",
-      "link": "https://dev.to/nasrulhazim/dev-log-3-september-2026-everything-i-fixed-today-was-already-written-1emi",
+      "title": "Blocking spoofed AI crawler user agents does not clean your analytics",
+      "link": "https://dev.to/aulvem/blocking-spoofed-ai-crawler-user-agents-does-not-clean-your-analytics-52l3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:40:37 +0000",
-      "summary": "Six commits across two codebases today — a deployment platform and an identity system. Different stacks, different problems. Reading them back in one sitting, the same shape six times: The feature was",
+      "date": "Sun, 06 Sep 2026 13:11:04 +0000",
+      "summary": "Credential scanners were hitting my site while claiming to be AI crawlers — /.env, /wp-config.php, the usual list — so I put two Cloudflare WAF rules in front of it. Stop them at the edge and both the",
       "score": 5,
-      "titleZh": "Dev Log: 3 September 2026 — Everything I Fixed Today Was Already Written"
+      "titleZh": "Blocking spoofed AI crawler user agents does not clean your analytics"
     },
     {
-      "title": "What is Scary Challenges by Inithouse? The free 18+ horror card game that runs in a browser, no account",
-      "link": "https://dev.to/jakub_inithouse/what-is-scary-challenges-by-inithouse-the-free-18-horror-card-game-that-runs-in-a-browser-no-4l2k",
+      "title": "Next.js 15 next/form: Stop Writing Search Form Boilerplate",
+      "link": "https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:36:46 +0000",
-      "summary": "Scary Challenges is a free 18+ horror card game with 1,000+ cards across themed decks for sleepovers, groups and solo terror. We built it at Inithouse as a browser-native PWA that needs no download, n",
+      "date": "Sun, 06 Sep 2026 13:01:14 +0000",
+      "summary": "The End of Search Boilerplate For years, building a search or filtering interface in React-based frameworks felt like a chore. We all know the drill: create a useState hook for your input, add an onSu",
       "score": 5,
-      "titleZh": "What is Scary Challenges by Inithouse? The free 18+ horror card game that runs in a browser, no account"
+      "titleZh": "Next.js 15 next/form: Stop Writing Search Form Boilerplate"
     },
     {
-      "title": "[Open source sharing] How I Built Three Small Party Games for a Spring Dinner",
-      "link": "https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p",
+      "title": "How to calculate a no-income runway without pretending expenses are constant",
+      "link": "https://dev.to/begoodtool/how-to-calculate-a-no-income-runway-without-pretending-expenses-are-constant-3dnk",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 04 Sep 2026 02:29:36 +0000",
-      "summary": "The best software I wrote for a spring dinner was not a dashboard or an internal tool. It was a set of deliberately over-the-top games: a multiplayer memory game that uses people's phones as controlle",
+      "date": "Sun, 06 Sep 2026 13:00:03 +0000",
+      "summary": "When someone asks “how many months can I live without a salary?”, dividing savings by monthly expenses gives a useful first guess, but it hides two decisions: which expenses are essential and what hap",
       "score": 5,
-      "titleZh": "[Open source sharing] How I Built Three Small Party Games for a Spring Dinner"
+      "titleZh": "How to calculate a no-income runway without pretending expenses are constant"
     }
   ]
 }
