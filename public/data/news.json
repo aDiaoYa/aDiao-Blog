@@ -1,81 +1,81 @@
 {
-  "updated": "2026-09-06T13:24:17.528Z",
-  "date": "2026-09-06",
+  "updated": "2026-09-07T15:30:52.436Z",
+  "date": "2026-09-07",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
+      "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-06T09:23:59.000Z",
-      "summary": "I've been working on a practical implementation of Sliding Window Attention (SWA) for pretrained Hugging Face causal LLMs. The idea is simple: instead of allowing every generated token to attend to th",
+      "date": "2026-09-07T15:22:35.000Z",
+      "summary": "How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D] submitted by /u/cussealin [link] [comments]",
       "score": 40,
-      "titleZh": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]"
+      "titleZh": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]"
     },
     {
-      "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-06T07:33:50.000Z",
-      "summary": "building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, relations. So I extrac",
+      "date": "2026-09-07T10:01:24.000Z",
+      "summary": "Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design: Keeps the familiar",
       "score": 40,
-      "titleZh": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]"
+      "titleZh": "Rustuna: A High-Performance Rust Implementation of Optuna [P]"
     },
     {
-      "title": "AIStats 2027 Questions [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+      "title": "KV cache as an agent runtime [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-06T03:33:12.000Z",
-      "summary": "Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little information is avail",
+      "date": "2026-09-07T09:03:48.000Z",
+      "summary": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems. One of the team members wrote up a post about it: https://research.y",
       "score": 40,
-      "titleZh": "AIStats 2027 Questions [D]"
+      "titleZh": "KV cache as an agent runtime [R]"
     },
     {
-      "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+      "title": "Automotive Radar Object Classification [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-05T23:33:49.000Z",
-      "summary": "I ran a side-by-side ML text-processing and model-training workflow using Fable 5.1 vs. Astra (both on xhigh), and the results could not have been more different. Warning, long post. TL;DR -- Astra co",
+      "date": "2026-09-07T08:10:55.000Z",
+      "summary": "Hello all, I'm a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. The input vector",
       "score": 40,
-      "titleZh": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]"
+      "titleZh": "Automotive Radar Object Classification [P]"
     },
     {
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+      "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-05T19:11:16.000Z",
-      "summary": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techn",
+      "date": "2026-09-07T07:56:38.000Z",
+      "summary": "Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs? Or is research in LfD and BC sort of going along in an independent direction from these? Are you seeing any use f",
       "score": 40,
-      "titleZh": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]"
+      "titleZh": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]"
     },
     {
-      "title": "Language Models Can Control Their Own Attention [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-05T06:07:09.000Z",
-      "summary": "Abstract Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in",
+      "date": "2026-09-06T17:29:39.000Z",
+      "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even en",
       "score": 40,
-      "titleZh": "Language Models Can Control Their Own Attention [R]"
+      "titleZh": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
       "source": "AI News",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 04 Sep 2026 10:00:00 +0000",
-      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI",
+      "date": "Mon, 07 Sep 2026 13:01:23 +0000",
+      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commerc",
       "score": 5,
-      "titleZh": "M&T Bank expands enterprise AI after years of technology overhaul"
+      "titleZh": "MG Ship adds AI route optimisation as logistics returns accelerate"
     },
     {
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "source": "AI News",
+      "title": "EXAONE Forecast for Finance",
+      "link": "https://arxiv.org/abs/2609.04239",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 04 Sep 2026 08:25:12 +0000",
-      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI G",
+      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial ",
       "score": 5,
-      "titleZh": "50.5% of Americans Say AI Romance Can Count as Cheating"
+      "titleZh": "EXAONE Forecast for Finance"
     },
     {
-      "title": "A Shift Confirmation Is Useless If the Assignment Changes Under It",
-      "link": "https://dev.to/miran969/a-shift-confirmation-is-useless-if-the-assignment-changes-under-it-20ag",
+      "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+      "link": "https://play.simten.dev",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 02 Sep 2026 14:47:09 +0000",
+      "summary": "Article URL: https://play.simten.dev Comments URL: https://news.ycombinator.com/item?id=49537143",
+      "score": 18,
+      "titleZh": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)"
+    },
+    {
+      "title": "How Students Accidentally Plagiarize: 10 Mistakes Hidden in Research Papers",
+      "link": "https://dev.to/martiinn/how-students-accidentally-plagiarize-10-mistakes-hidden-in-research-papers-1ipd",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:23:03 +0000",
-      "summary": "I started treating a stable assignment as a precondition for confirmation, because otherwise a perfectly valid response can belong to an outdated shift. Imagine I ask Maria to confirm: Friday 6:00 PM ",
+      "date": "Mon, 07 Sep 2026 15:29:08 +0000",
+      "summary": "Most students do not sit down to write a research paper with the intention of plagiarizing. The problem often happens earlier, while they are collecting sources, taking notes, paraphrasing, or putting",
       "score": 5,
-      "titleZh": "A Shift Confirmation Is Useless If the Assignment Changes Under It"
+      "titleZh": "How Students Accidentally Plagiarize: 10 Mistakes Hidden in Research Papers"
     },
     {
-      "title": "Building KomeVerse: Where Games Meet Technology",
-      "link": "https://dev.to/komestudio/building-komeverse-where-games-meet-technology-16b5",
+      "title": "volatility regime AI: KI-Trading-Guide",
+      "link": "https://dev.to/meridiantrade/volatility-regime-ai-ki-trading-guide-4p3f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:20:34 +0000",
-      "summary": "Kome Studio is a small independent studio from Vietnam building something we hope can grow far beyond a single game: KomeVerse. KomeVerse is our long-term creative universe — a collection of games, ch",
+      "date": "Mon, 07 Sep 2026 15:27:42 +0000",
+      "summary": "volatility regime AI: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/volatility-regime-ai/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Detecting quiet v",
       "score": 5,
-      "titleZh": "Building KomeVerse: Where Games Meet Technology"
+      "titleZh": "volatility regime AI: KI-Trading-Guide"
     },
     {
-      "title": "A permission check should return a denial, not False",
-      "link": "https://dev.to/shipmindlabs/a-permission-check-should-return-a-denial-not-false-3d6c",
+      "title": "EURUSD gold correlation: KI-Trading-Guide",
+      "link": "https://dev.to/meridiantrade/eurusd-gold-correlation-ki-trading-guide-1nml",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:20:21 +0000",
-      "summary": "Most Django backends answer authorization questions with a boolean, and everything the check knew gets thrown away on the way out. A courier's app shows a refund button that returns 403, support asks ",
+      "date": "Mon, 07 Sep 2026 15:27:41 +0000",
+      "summary": "EURUSD gold correlation: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/correlation-eurusd-gold/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. EUR/USD–gol",
       "score": 5,
-      "titleZh": "A permission check should return a denial, not False"
+      "titleZh": "EURUSD gold correlation: KI-Trading-Guide"
     },
     {
-      "title": "copycopy.site by Inithouse: structured handoff cards you can generate from a URL, with JSON for agents",
-      "link": "https://dev.to/jakub_inithouse/copycopysite-by-inithouse-structured-handoff-cards-you-can-generate-from-a-url-with-json-for-420j",
+      "title": "KitGrade, RuleStack, SkillWorks and StillShipping",
+      "link": "https://dev.to/kynthstudios/kitgrade-rulestack-skillworks-and-stillshipping-44c3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:19:37 +0000",
-      "summary": "copycopy.site is a free structured handoff tool by Inithouse. You paste logins, DNS records, an invoice or a screenshot, you get one link where every value has its own copy button, and both sides see ",
+      "date": "Mon, 07 Sep 2026 15:27:36 +0000",
+      "summary": "KitGrade, RuleStack, SkillWorks and StillShipping each score what they list, and you can check every score. Each one is a directory that scores what it lists and shows the measurement behind the score",
       "score": 5,
-      "titleZh": "copycopy.site by Inithouse: structured handoff cards you can generate from a URL, with JSON for agents"
+      "titleZh": "KitGrade, RuleStack, SkillWorks and StillShipping"
     },
     {
-      "title": "From Zero to Shipped: My Journey Building an MCP Server",
-      "link": "https://dev.to/sajasayara/from-zero-to-shipped-my-journey-building-an-mcp-server-42ei",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 06 Sep 2026 13:17:17 +0000",
-      "summary": "From Zero to Shipped: My Journey Building an MCP Server Six weeks ago, \"MCP\" didn't mean anything to me. Today, I've shipped tools, published a live website, and learned more about backend engineering",
-      "score": 5,
-      "titleZh": "From Zero to Shipped: My Journey Building an MCP Server"
-    },
-    {
-      "title": "Open-Weight AI in Drone Tech: How YOLO Flies on a Jetson Nano — Day 17/30",
-      "link": "https://dev.to/aiexplore369zoho/open-weight-ai-in-drone-tech-how-yolo-flies-on-a-jetson-nano-day-1730-3bac",
+      "title": "volatility regime AI: Guida trading AI",
+      "link": "https://dev.to/meridiantrade/volatility-regime-ai-guida-trading-ai-1gje",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:16:07 +0000",
-      "summary": "TL;DR — Drones can't phone home to a cloud GPU mid-flight, so open-weight vision models running on tiny onboard computers like the Jetson Nano are doing the real work: spotting missing persons, cracks",
+      "date": "Mon, 07 Sep 2026 15:27:06 +0000",
+      "summary": "volatility regime AI: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/volatility-regime-ai/ — canonical URL for SEO. Guida al trading automatizzato con AI. Detecting quiet",
       "score": 5,
-      "titleZh": "Open-Weight AI in Drone Tech: How YOLO Flies on a Jetson Nano — Day 17/30"
+      "titleZh": "volatility regime AI: Guida trading AI"
     },
     {
-      "title": "10 Trusted Websites to Buy Verified Wise Accounts This Year",
-      "link": "https://dev.to/bab_case_fe301d13141b0699/10-trusted-websites-to-buy-verified-wise-accounts-this-year-5929",
+      "title": "Building a Business-Trained Website Chatbot: Architecture and Product Lessons",
+      "link": "https://dev.to/newaicodes/building-a-business-trained-website-chatbot-architecture-and-product-lessons-jjm",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:11:49 +0000",
-      "summary": "In today's interconnected global economy, online businesses of all sizes increasingly operate across borders. Freelancers serve clients on multiple continents, e-commerce sellers fulfill orders intern",
+      "date": "Mon, 07 Sep 2026 15:26:44 +0000",
+      "summary": "I’m building NewAICodes Chatbots, a platform that helps businesses add an AI assistant to their websites. This post explains the product decisions behind it—especially tenant identity, business knowle",
       "score": 5,
-      "titleZh": "10 Trusted Websites to Buy Verified Wise Accounts This Year"
+      "titleZh": "Building a Business-Trained Website Chatbot: Architecture and Product Lessons"
     },
     {
-      "title": "Blocking spoofed AI crawler user agents does not clean your analytics",
-      "link": "https://dev.to/aulvem/blocking-spoofed-ai-crawler-user-agents-does-not-clean-your-analytics-52l3",
+      "title": "EURUSD gold correlation: Guida trading AI",
+      "link": "https://dev.to/meridiantrade/eurusd-gold-correlation-guida-trading-ai-4ajm",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:11:04 +0000",
-      "summary": "Credential scanners were hitting my site while claiming to be AI crawlers — /.env, /wp-config.php, the usual list — so I put two Cloudflare WAF rules in front of it. Stop them at the edge and both the",
+      "date": "Mon, 07 Sep 2026 15:26:30 +0000",
+      "summary": "EURUSD gold correlation: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/correlation-eurusd-gold/ — canonical URL for SEO. Guida al trading automatizzato con AI. EUR/USD–g",
       "score": 5,
-      "titleZh": "Blocking spoofed AI crawler user agents does not clean your analytics"
+      "titleZh": "EURUSD gold correlation: Guida trading AI"
     },
     {
-      "title": "Next.js 15 next/form: Stop Writing Search Form Boilerplate",
-      "link": "https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke",
+      "title": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep",
+      "link": "https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-4a8p",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 07 Sep 2026 15:26:28 +0000",
+      "summary": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep An honest walk‑through of the architecture, code, and compromises behind a modest‑scale, continuously‑running agent that collects micro",
+      "score": 5,
+      "titleZh": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep"
+    },
+    {
+      "title": "Building Real-Time Production Visibility in Automotive Manufacturing",
+      "link": "https://dev.to/ema9/building-real-time-production-visibility-in-automotive-manufacturing-1gln",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 06 Sep 2026 13:01:14 +0000",
-      "summary": "The End of Search Boilerplate For years, building a search or filtering interface in React-based frameworks felt like a chore. We all know the drill: create a useState hook for your input, add an onSu",
+      "date": "Mon, 07 Sep 2026 15:23:12 +0000",
+      "summary": "Building Real-Time Production Visibility in Automotive Manufacturing Modern automotive factories are increasingly connected. Production lines generate data from PLCs, machines, sensors, MES platforms,",
       "score": 5,
-      "titleZh": "Next.js 15 next/form: Stop Writing Search Form Boilerplate"
-    },
-    {
-      "title": "How to calculate a no-income runway without pretending expenses are constant",
-      "link": "https://dev.to/begoodtool/how-to-calculate-a-no-income-runway-without-pretending-expenses-are-constant-3dnk",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 06 Sep 2026 13:00:03 +0000",
-      "summary": "When someone asks “how many months can I live without a salary?”, dividing savings by monthly expenses gives a useful first guess, but it hides two decisions: which expenses are essential and what hap",
-      "score": 5,
-      "titleZh": "How to calculate a no-income runway without pretending expenses are constant"
+      "titleZh": "Building Real-Time Production Visibility in Automotive Manufacturing"
     }
   ]
 }
