@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T03:07:40.067Z",
+  "updated": "2026-09-09T14:09:55.697Z",
   "date": "2026-09-09",
   "count": 20,
   "aiCount": 10,
@@ -14,32 +14,80 @@
       ],
       "date": "Tue, 08 Sep 2026 19:25:00 +0000",
       "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537",
-      "score": 349,
+      "score": 570,
       "titleZh": "Muse – Meta’s personal AI agent"
     },
     {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "link": "https://opusfived.dev/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 08 Sep 2026 21:00:52 +0000",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968",
-      "score": 187,
-      "titleZh": "Tao: Open math problems being non-renewably mined by AI"
+      "date": "Wed, 09 Sep 2026 09:39:46 +0000",
+      "summary": "Article URL: https://opusfived.dev/ Comments URL: https://news.ycombinator.com/item?id=49623754",
+      "score": 223,
+      "titleZh": "Claude, change the \"Add to Cart\" button to blue"
     },
     {
-      "title": "Show HN: LLM Attention Visualization",
-      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "link": "https://news.ycombinator.com/item?id=49624603",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 08 Sep 2026 16:59:41 +0000",
-      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068",
-      "score": 135,
-      "titleZh": "Show HN: LLM Attention Visualization"
+      "date": "Wed, 09 Sep 2026 11:19:26 +0000",
+      "summary": "DSeek plans to officially release the V4.1 Flash model around September 10, 2026 (Beijing Time). After extensive internal and external testing, V4.1 Flash has comprehensively surpassed V4 Pro across a",
+      "score": 182,
+      "titleZh": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro"
+    },
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 09 Sep 2026 10:25:41 +0000",
+      "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163",
+      "score": 162,
+      "titleZh": "How An AI math breakthrough ignited a controversy"
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 09 Sep 2026 07:22:46 +0000",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561",
+      "score": 107,
+      "titleZh": "How GPT‑5.6 Sol helps run quantum computing experiments"
+    },
+    {
+      "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-09T13:01:01.000Z",
+      "summary": "Ant Ling reports 83.83 on DiagnosisArena-MCQ for Ling-3.0-flash-Sante, its new medical reasoning model. The suffix matters: the task provides case information, examinations and tests, then asks the mo",
+      "score": 40,
+      "titleZh": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]"
+    },
+    {
+      "title": "Teach ML! Community service project from Stanford [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-09T07:54:14.000Z",
+      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
+      "score": 40,
+      "titleZh": "Teach ML! Community service project from Stanford [N]"
     },
     {
       "title": "ECCV 2026 Social Groups [D]",
@@ -78,172 +126,124 @@
       "titleZh": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]"
     },
     {
-      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-08T02:16:23.000Z",
-      "summary": "So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground ",
-      "score": 40,
-      "titleZh": "My lab found a way to migrate between embedding models with zero downtime. [R]"
-    },
-    {
-      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-08T00:05:37.000Z",
-      "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different form",
-      "score": 40,
-      "titleZh": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]"
-    },
-    {
-      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-07T10:01:24.000Z",
-      "summary": "Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design: Keeps the familiar",
-      "score": 40,
-      "titleZh": "Rustuna: A High-Performance Rust Implementation of Optuna [P]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
-      "link": "https://www.reddit.com/r/programming/comments/1wb9iot/not_in_my_git_yard_catching_backdoors_at_commit/",
-      "source": "Reddit Prog",
+      "title": "I vibe-coded my first app ever — a daily drawing-prompt spinner (Beginner + Advanced modes, sound, the works)",
+      "link": "https://dev.to/plaidscientist/i-vibe-coded-my-first-app-ever-a-daily-drawing-prompt-spinner-beginner-advanced-modes-sound-181g",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "2026-09-09T02:57:19.000Z",
-      "summary": "submitted by /u/mttd [link] [comments]",
-      "score": 40,
-      "titleZh": "Not In My Git Yard: Catching Backdoors at Commit and Release Time"
-    },
-    {
-      "title": "1996 dial-up simulator. A full working desktop, a browser, and a web that loads at actual 56k.",
-      "link": "https://www.reddit.com/r/programming/comments/1wawcq6/1996_dialup_simulator_a_full_working_desktop_a/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-08T18:16:34.000Z",
-      "summary": "submitted by /u/Scholeristical [link] [comments]",
-      "score": 40,
-      "titleZh": "1996 dial-up simulator. A full working desktop, a browser, and a web that loads at actual 56k."
-    },
-    {
-      "title": "What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance",
-      "link": "https://www.reddit.com/r/programming/comments/1waw4mb/what_every_compiler_writer_should_know_about/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-08T18:08:40.000Z",
-      "summary": "submitted by /u/lelanthran [link] [comments]",
-      "score": 40,
-      "titleZh": "What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance"
-    },
-    {
-      "title": "video on improving performance of arctan for Nintendo 64 by Kaze Emanuar \"spent weeks to save 100 Microseconds\"",
-      "link": "https://www.reddit.com/r/programming/comments/1was1gb/video_on_improving_performance_of_arctan_for/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-08T15:44:51.000Z",
-      "summary": "submitted by /u/danielcw189 [link] [comments]",
-      "score": 40,
-      "titleZh": "video on improving performance of arctan for Nintendo 64 by Kaze Emanuar \"spent weeks to save 100 Microseconds\""
-    },
-    {
-      "title": "How to Read Server Monitoring Graphs",
-      "link": "https://www.reddit.com/r/programming/comments/1war2cw/how_to_read_server_monitoring_graphs/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-08T15:08:53.000Z",
-      "summary": "submitted by /u/kciter [link] [comments]",
-      "score": 40,
-      "titleZh": "How to Read Server Monitoring Graphs"
-    },
-    {
-      "title": "Swap, memory pressure and the Go GC",
-      "link": "https://www.reddit.com/r/programming/comments/1waowcp/swap_memory_pressure_and_the_go_gc/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-08T13:47:37.000Z",
-      "summary": "submitted by /u/andreiross [link] [comments]",
-      "score": 40,
-      "titleZh": "Swap, memory pressure and the Go GC"
-    },
-    {
-      "title": "Surviving Black Friday: 329 billion requests with Falcon",
-      "link": "https://www.reddit.com/r/programming/comments/1wafqim/surviving_black_friday_329_billion_requests_with/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-08T05:46:25.000Z",
-      "summary": "submitted by /u/noteflakes [link] [comments]",
-      "score": 40,
-      "titleZh": "Surviving Black Friday: 329 billion requests with Falcon"
-    },
-    {
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-05-23T13:54:37.000Z",
-      "summary": "After temporarily banning LLM-related content over April, and asking you for feedback on that ban, we've decided to bring about an end of the temporary, I-can't-believe-it's-still-April ban on AI-rela",
-      "score": 40,
-      "titleZh": "Announcement: We've Updated The Rules, and April Is Finally Over"
-    },
-    {
-      "title": "React Context Is Not State Management: Stop Using It",
-      "link": "https://dev.to/nainikmehta/react-context-is-not-state-management-stop-using-it-4i3l",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 09 Sep 2026 03:01:52 +0000",
-      "summary": "The Architectural Trap: Why React Context Isn't a State Manager In the modern React ecosystem, \"prop drilling\" is often cited as the ultimate developer productivity killer. To solve it, many teams ref",
+      "date": "Wed, 09 Sep 2026 14:09:00 +0000",
+      "summary": "I was at dinner and my friend asked me if I'd ever vibe coded. He was like you really should try it. It's incredible what you can do. I took web design in high school, but in the year 2000 it was all ",
       "score": 5,
-      "titleZh": "React Context Is Not State Management: Stop Using It"
+      "titleZh": "I vibe-coded my first app ever — a daily drawing-prompt spinner (Beginner + Advanced modes, sound, the works)"
     },
     {
-      "title": "A PDF Exporter With No PDF Library",
-      "link": "https://dev.to/megapixel99/a-pdf-exporter-with-no-pdf-library-2hb9",
+      "title": "New Jersey's Legalization of P…",
+      "link": "https://dev.to/norviktech/new-jerseys-legalization-of-p-3n4d",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 09 Sep 2026 03:00:00 +0000",
-      "summary": "Longshot, a Firefox screenshot extension I have been building, exports to PDF. The exporter is 336 lines and pulls in nothing. That is not a boast about writing things from scratch, which is usually a",
+      "date": "Wed, 09 Sep 2026 14:05:59 +0000",
+      "summary": "Originally published at norvik.tech Explore the implications of New Jersey's new law on plug-in balcony solar panels and its impact on technology and businesses. New Jersey has enacted a law that allo",
       "score": 5,
-      "titleZh": "A PDF Exporter With No PDF Library"
+      "titleZh": "New Jersey's Legalization of P…"
+    },
+    {
+      "title": "How I Built a 100% Client-Side Video-to-MP3 Converter with WebAssembly",
+      "link": "https://dev.to/prateek_khandelwal/how-i-built-a-100-client-side-video-to-mp3-converter-with-webassembly-7c0",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:05:00 +0000",
+      "summary": "Every developer has faced this annoyance: you have a 1GB meeting recording, podcast video, or screen capture, and you just want the 15MB MP3 audio track. If you search for an online converter, you’re ",
+      "score": 5,
+      "titleZh": "How I Built a 100% Client-Side Video-to-MP3 Converter with WebAssembly"
+    },
+    {
+      "title": "How to Find, Fix, and Earn from Open Source Bug Bounties: A Developer's Guide",
+      "link": "https://dev.to/elvingts/how-to-find-fix-and-earn-from-open-source-bug-bounties-a-developers-guide-574b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:04:44 +0000",
+      "summary": "Every developer wants to contribute to open source. But navigating issue trackers, submitting clean PRs, and getting your code merged can feel daunting — especially when real bug bounties or payouts a",
+      "score": 5,
+      "titleZh": "How to Find, Fix, and Earn from Open Source Bug Bounties: A Developer's Guide"
+    },
+    {
+      "title": "Understanding XML Sitemaps: A Developer's Guide to Better URL Discovery",
+      "link": "https://dev.to/asikul_islam_0f701acafd04/understanding-xml-sitemaps-a-developers-guide-to-better-url-discovery-48ng",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:04:34 +0000",
+      "summary": "When building a website, developers usually focus on application logic, performance, security, and user experience. But there is another important technical layer that developers should not overlook: ",
+      "score": 5,
+      "titleZh": "Understanding XML Sitemaps: A Developer's Guide to Better URL Discovery"
+    },
+    {
+      "title": "Improving AST Parsing for Multi-File Code Editing in LuxurAI Coder",
+      "link": "https://dev.to/achyut_srivastava_2a77b5d/improving-ast-parsing-for-multi-file-code-editing-in-luxurai-coder-3jjg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:02:44 +0000",
+      "summary": "What We Built Today Today, we improved LuxurAI Coder’s AST parser to handle multi-file code editing loops more efficiently. This update reduces token overhead and enhances dependency mapping across la",
+      "score": 5,
+      "titleZh": "Improving AST Parsing for Multi-File Code Editing in LuxurAI Coder"
+    },
+    {
+      "title": "How Modern Platforms Bring Live Games, Crypto and Sports Together",
+      "link": "https://dev.to/sunie_mehta/how-modern-platforms-bring-live-games-crypto-and-sports-together-158h",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:01:37 +0000",
+      "summary": "Online platforms are evolving beyond offering just one type of experience. Users increasingly prefer having different categories available from a single interface rather than switching between multipl",
+      "score": 5,
+      "titleZh": "How Modern Platforms Bring Live Games, Crypto and Sports Together"
+    },
+    {
+      "title": "A Modern Trading Account Experience",
+      "link": "https://dev.to/kycidea22/a-modern-trading-account-experience-4oc9",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:01:25 +0000",
+      "summary": "Exness is an online trading platform that provides access to different financial markets via its online account services. Depending on their needs, users can browse the trading tools, platform feature",
+      "score": 5,
+      "titleZh": "A Modern Trading Account Experience"
+    },
+    {
+      "title": "A QR Code Without Tracking Is a Missed Experiment",
+      "link": "https://dev.to/muhayminbinmehmood/a-qr-code-without-tracking-is-a-missed-experiment-8ff",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 14:00:00 +0000",
+      "summary": "QR codes are everywhere again. Menus. Packaging. Flyers. Booths. Business cards. Posters. But a lot of QR campaigns stop at: QR → homepage That works technically. It is weak analytically. If you are p",
+      "score": 5,
+      "titleZh": "A QR Code Without Tracking Is a Missed Experiment"
+    },
+    {
+      "title": "The label printer says 300 dpi. The paper says 203.",
+      "link": "https://dev.to/iscarelli/the-label-printer-says-300-dpi-the-paper-says-203-550j",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 13:56:55 +0000",
+      "summary": "Niimbot label printers cost about as much as a pizza and print stickers over Bluetooth. The catch is the phone app: to print a label you install their software, and your label passes through it. I wan",
+      "score": 5,
+      "titleZh": "The label printer says 300 dpi. The paper says 203."
     }
   ]
 }
