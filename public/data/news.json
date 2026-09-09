@@ -1,21 +1,105 @@
 {
-  "updated": "2026-09-07T15:30:52.436Z",
-  "date": "2026-09-07",
+  "updated": "2026-09-09T03:07:40.067Z",
+  "date": "2026-09-09",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
+      "title": "Muse – Meta’s personal AI agent",
+      "link": "https://ai.meta.com/muse/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 08 Sep 2026 19:25:00 +0000",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537",
+      "score": 349,
+      "titleZh": "Muse – Meta’s personal AI agent"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 08 Sep 2026 21:00:52 +0000",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968",
+      "score": 187,
+      "titleZh": "Tao: Open math problems being non-renewably mined by AI"
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 08 Sep 2026 16:59:41 +0000",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068",
+      "score": 135,
+      "titleZh": "Show HN: LLM Attention Visualization"
+    },
+    {
+      "title": "ECCV 2026 Social Groups [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-07T15:22:35.000Z",
-      "summary": "How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D] submitted by /u/cussealin [link] [comments]",
+      "date": "2026-09-08T20:44:10.000Z",
+      "summary": "Hi. I'm visiting ECCV in Malmo and was wondering if there's any medium, like discord, whatsapp etc where people are discussing social activities. I couldn't find a way to connect to people on the offi",
       "score": 40,
-      "titleZh": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]"
+      "titleZh": "ECCV 2026 Social Groups [D]"
+    },
+    {
+      "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-08T17:42:57.000Z",
+      "summary": "As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI’s announcement: https://openai.com/index/navier-stokes-",
+      "score": 40,
+      "titleZh": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]"
+    },
+    {
+      "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-08T10:19:04.000Z",
+      "summary": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there's been a lot of noi",
+      "score": 40,
+      "titleZh": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]"
+    },
+    {
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-08T02:16:23.000Z",
+      "summary": "So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground ",
+      "score": 40,
+      "titleZh": "My lab found a way to migrate between embedding models with zero downtime. [R]"
+    },
+    {
+      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-08T00:05:37.000Z",
+      "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different form",
+      "score": 40,
+      "titleZh": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]"
     },
     {
       "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
@@ -30,54 +114,6 @@
       "titleZh": "Rustuna: A High-Performance Rust Implementation of Optuna [P]"
     },
     {
-      "title": "KV cache as an agent runtime [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-07T09:03:48.000Z",
-      "summary": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems. One of the team members wrote up a post about it: https://research.y",
-      "score": 40,
-      "titleZh": "KV cache as an agent runtime [R]"
-    },
-    {
-      "title": "Automotive Radar Object Classification [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-07T08:10:55.000Z",
-      "summary": "Hello all, I'm a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. The input vector",
-      "score": 40,
-      "titleZh": "Automotive Radar Object Classification [P]"
-    },
-    {
-      "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-07T07:56:38.000Z",
-      "summary": "Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs? Or is research in LfD and BC sort of going along in an independent direction from these? Are you seeing any use f",
-      "score": 40,
-      "titleZh": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]"
-    },
-    {
-      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-06T17:29:39.000Z",
-      "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even en",
-      "score": 40,
-      "titleZh": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -90,160 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
+      "link": "https://www.reddit.com/r/programming/comments/1wb9iot/not_in_my_git_yard_catching_backdoors_at_commit/",
+      "source": "Reddit Prog",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-08-31T02:30:17.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "date": "2026-09-09T02:57:19.000Z",
+      "summary": "submitted by /u/mttd [link] [comments]",
       "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "titleZh": "Not In My Git Yard: Catching Backdoors at Commit and Release Time"
     },
     {
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 07 Sep 2026 13:01:23 +0000",
-      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commerc",
-      "score": 5,
-      "titleZh": "MG Ship adds AI route optimisation as logistics returns accelerate"
-    },
-    {
-      "title": "EXAONE Forecast for Finance",
-      "link": "https://arxiv.org/abs/2609.04239",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial ",
-      "score": 5,
-      "titleZh": "EXAONE Forecast for Finance"
-    },
-    {
-      "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
-      "link": "https://play.simten.dev",
-      "source": "HN·前端",
+      "title": "1996 dial-up simulator. A full working desktop, a browser, and a web that loads at actual 56k.",
+      "link": "https://www.reddit.com/r/programming/comments/1wawcq6/1996_dialup_simulator_a_full_working_desktop_a/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 02 Sep 2026 14:47:09 +0000",
-      "summary": "Article URL: https://play.simten.dev Comments URL: https://news.ycombinator.com/item?id=49537143",
-      "score": 18,
-      "titleZh": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)"
+      "date": "2026-09-08T18:16:34.000Z",
+      "summary": "submitted by /u/Scholeristical [link] [comments]",
+      "score": 40,
+      "titleZh": "1996 dial-up simulator. A full working desktop, a browser, and a web that loads at actual 56k."
     },
     {
-      "title": "How Students Accidentally Plagiarize: 10 Mistakes Hidden in Research Papers",
-      "link": "https://dev.to/martiinn/how-students-accidentally-plagiarize-10-mistakes-hidden-in-research-papers-1ipd",
+      "title": "What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance",
+      "link": "https://www.reddit.com/r/programming/comments/1waw4mb/what_every_compiler_writer_should_know_about/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-08T18:08:40.000Z",
+      "summary": "submitted by /u/lelanthran [link] [comments]",
+      "score": 40,
+      "titleZh": "What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance"
+    },
+    {
+      "title": "video on improving performance of arctan for Nintendo 64 by Kaze Emanuar \"spent weeks to save 100 Microseconds\"",
+      "link": "https://www.reddit.com/r/programming/comments/1was1gb/video_on_improving_performance_of_arctan_for/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-08T15:44:51.000Z",
+      "summary": "submitted by /u/danielcw189 [link] [comments]",
+      "score": 40,
+      "titleZh": "video on improving performance of arctan for Nintendo 64 by Kaze Emanuar \"spent weeks to save 100 Microseconds\""
+    },
+    {
+      "title": "How to Read Server Monitoring Graphs",
+      "link": "https://www.reddit.com/r/programming/comments/1war2cw/how_to_read_server_monitoring_graphs/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-08T15:08:53.000Z",
+      "summary": "submitted by /u/kciter [link] [comments]",
+      "score": 40,
+      "titleZh": "How to Read Server Monitoring Graphs"
+    },
+    {
+      "title": "Swap, memory pressure and the Go GC",
+      "link": "https://www.reddit.com/r/programming/comments/1waowcp/swap_memory_pressure_and_the_go_gc/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-08T13:47:37.000Z",
+      "summary": "submitted by /u/andreiross [link] [comments]",
+      "score": 40,
+      "titleZh": "Swap, memory pressure and the Go GC"
+    },
+    {
+      "title": "Surviving Black Friday: 329 billion requests with Falcon",
+      "link": "https://www.reddit.com/r/programming/comments/1wafqim/surviving_black_friday_329_billion_requests_with/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-08T05:46:25.000Z",
+      "summary": "submitted by /u/noteflakes [link] [comments]",
+      "score": 40,
+      "titleZh": "Surviving Black Friday: 329 billion requests with Falcon"
+    },
+    {
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-05-23T13:54:37.000Z",
+      "summary": "After temporarily banning LLM-related content over April, and asking you for feedback on that ban, we've decided to bring about an end of the temporary, I-can't-believe-it's-still-April ban on AI-rela",
+      "score": 40,
+      "titleZh": "Announcement: We've Updated The Rules, and April Is Finally Over"
+    },
+    {
+      "title": "React Context Is Not State Management: Stop Using It",
+      "link": "https://dev.to/nainikmehta/react-context-is-not-state-management-stop-using-it-4i3l",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 09 Sep 2026 03:01:52 +0000",
+      "summary": "The Architectural Trap: Why React Context Isn't a State Manager In the modern React ecosystem, \"prop drilling\" is often cited as the ultimate developer productivity killer. To solve it, many teams ref",
+      "score": 5,
+      "titleZh": "React Context Is Not State Management: Stop Using It"
+    },
+    {
+      "title": "A PDF Exporter With No PDF Library",
+      "link": "https://dev.to/megapixel99/a-pdf-exporter-with-no-pdf-library-2hb9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 07 Sep 2026 15:29:08 +0000",
-      "summary": "Most students do not sit down to write a research paper with the intention of plagiarizing. The problem often happens earlier, while they are collecting sources, taking notes, paraphrasing, or putting",
+      "date": "Wed, 09 Sep 2026 03:00:00 +0000",
+      "summary": "Longshot, a Firefox screenshot extension I have been building, exports to PDF. The exporter is 336 lines and pulls in nothing. That is not a boast about writing things from scratch, which is usually a",
       "score": 5,
-      "titleZh": "How Students Accidentally Plagiarize: 10 Mistakes Hidden in Research Papers"
-    },
-    {
-      "title": "volatility regime AI: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/volatility-regime-ai-ki-trading-guide-4p3f",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:27:42 +0000",
-      "summary": "volatility regime AI: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/volatility-regime-ai/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Detecting quiet v",
-      "score": 5,
-      "titleZh": "volatility regime AI: KI-Trading-Guide"
-    },
-    {
-      "title": "EURUSD gold correlation: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/eurusd-gold-correlation-ki-trading-guide-1nml",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:27:41 +0000",
-      "summary": "EURUSD gold correlation: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/correlation-eurusd-gold/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. EUR/USD–gol",
-      "score": 5,
-      "titleZh": "EURUSD gold correlation: KI-Trading-Guide"
-    },
-    {
-      "title": "KitGrade, RuleStack, SkillWorks and StillShipping",
-      "link": "https://dev.to/kynthstudios/kitgrade-rulestack-skillworks-and-stillshipping-44c3",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:27:36 +0000",
-      "summary": "KitGrade, RuleStack, SkillWorks and StillShipping each score what they list, and you can check every score. Each one is a directory that scores what it lists and shows the measurement behind the score",
-      "score": 5,
-      "titleZh": "KitGrade, RuleStack, SkillWorks and StillShipping"
-    },
-    {
-      "title": "volatility regime AI: Guida trading AI",
-      "link": "https://dev.to/meridiantrade/volatility-regime-ai-guida-trading-ai-1gje",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:27:06 +0000",
-      "summary": "volatility regime AI: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/volatility-regime-ai/ — canonical URL for SEO. Guida al trading automatizzato con AI. Detecting quiet",
-      "score": 5,
-      "titleZh": "volatility regime AI: Guida trading AI"
-    },
-    {
-      "title": "Building a Business-Trained Website Chatbot: Architecture and Product Lessons",
-      "link": "https://dev.to/newaicodes/building-a-business-trained-website-chatbot-architecture-and-product-lessons-jjm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:26:44 +0000",
-      "summary": "I’m building NewAICodes Chatbots, a platform that helps businesses add an AI assistant to their websites. This post explains the product decisions behind it—especially tenant identity, business knowle",
-      "score": 5,
-      "titleZh": "Building a Business-Trained Website Chatbot: Architecture and Product Lessons"
-    },
-    {
-      "title": "EURUSD gold correlation: Guida trading AI",
-      "link": "https://dev.to/meridiantrade/eurusd-gold-correlation-guida-trading-ai-4ajm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:26:30 +0000",
-      "summary": "EURUSD gold correlation: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/correlation-eurusd-gold/ — canonical URL for SEO. Guida al trading automatizzato con AI. EUR/USD–g",
-      "score": 5,
-      "titleZh": "EURUSD gold correlation: Guida trading AI"
-    },
-    {
-      "title": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep",
-      "link": "https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-4a8p",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:26:28 +0000",
-      "summary": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep An honest walk‑through of the architecture, code, and compromises behind a modest‑scale, continuously‑running agent that collects micro",
-      "score": 5,
-      "titleZh": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep"
-    },
-    {
-      "title": "Building Real-Time Production Visibility in Automotive Manufacturing",
-      "link": "https://dev.to/ema9/building-real-time-production-visibility-in-automotive-manufacturing-1gln",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 07 Sep 2026 15:23:12 +0000",
-      "summary": "Building Real-Time Production Visibility in Automotive Manufacturing Modern automotive factories are increasingly connected. Production lines generate data from PLCs, machines, sensors, MES platforms,",
-      "score": 5,
-      "titleZh": "Building Real-Time Production Visibility in Automotive Manufacturing"
+      "titleZh": "A PDF Exporter With No PDF Library"
     }
   ]
 }
