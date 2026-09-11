@@ -1,10 +1,34 @@
 {
-  "updated": "2026-09-10T03:07:37.264Z",
-  "date": "2026-09-10",
+  "updated": "2026-09-11T03:03:15.536Z",
+  "date": "2026-09-11",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-10T13:44:25.000Z",
+      "summary": "I'm an undergrad student who got a taste of research. I love it. I currently have a draft, which me and my mentor have planned for TMLR, and plan to submit it by next month for the first round of revi",
+      "score": 40,
+      "titleZh": "Anybody working on Test Time Training over here? Lemme work with u pls [D]"
+    },
+    {
+      "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-10T03:28:41.000Z",
+      "summary": "Hello this is my fifth small language model I've made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22.7B tokens**, then fine-tuned into a math model ",
+      "score": 40,
+      "titleZh": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]"
+    },
     {
       "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
@@ -28,30 +52,6 @@
       "summary": "Who else is anticipating ICDE results tomorrow? Post your results here and let's discuss! submitted by /u/mythrowaway0852 [link] [comments]",
       "score": 40,
       "titleZh": "ICDE Results [D]"
-    },
-    {
-      "title": "I made a way to migrate between embedding models without re-embedding your entire corpus [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc34d2/i_made_a_way_to_migrate_between_embedding_models/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-10T00:14:24.000Z",
-      "summary": "So I was playingw ith embedding models I saw that when you upgrade from model A to B, you face a very big backfilling cost Ie, suppose you have a 1b vectors from model A, and then you want to use mode",
-      "score": 40,
-      "titleZh": "I made a way to migrate between embedding models without re-embedding your entire corpus [R]"
-    },
-    {
-      "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-09T13:01:01.000Z",
-      "summary": "https://preview.redd.it/xv2epabu6ioh1.png?width=1171&format=png&auto=webp&s=4e22c69855ec509bd63a038a24f765caeaafa59c Ant Ling reports 83.83 on DiagnosisArena-MCQ for Ling-3.0-flash-Sante, its new medi",
-      "score": 40,
-      "titleZh": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]"
     },
     {
       "title": "Teach ML! Community service project from Stanford [N]",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "score": 5,
-      "titleZh": "Paul Christiano joins OpenAI Foundation Board"
+      "titleZh": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
     },
     {
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "source": "Google AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
       "score": 5,
-      "titleZh": "Get ready for the game with new football features in Search"
+      "titleZh": "3 ways to prep for your next big race with Search"
     },
     {
-      "title": "The Exploration Company Raises $450 Million to Cha…",
-      "link": "https://dev.to/norviktech/the-exploration-company-raises-450-million-to-cha-2ed1",
-      "source": "Dev.to WebDev",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "link": "https://shopify.engineering/back-to-native",
+      "source": "HN·前端",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 10 Sep 2026 03:05:56 +0000",
-      "summary": "Originally published at norvik.tech A deep dive into The Exploration Company's $450 million funding round and its implications for the space industry and technology. The Exploration Company (TEC) has ",
-      "score": 5,
-      "titleZh": "The Exploration Company Raises $450 Million to Cha…"
+      "date": "Thu, 10 Sep 2026 14:09:31 +0000",
+      "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982",
+      "score": 833,
+      "titleZh": "Shopify is moving from React Native back to Swift and Kotlin"
     },
     {
-      "title": "I'm 12. I found an ocean no market report can see. I call it Ocean Zero.",
-      "link": "https://dev.to/koda2026/im-12-i-found-an-ocean-no-market-report-can-see-i-call-it-ocean-zero-292c",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 10 Sep 2026 03:04:50 +0000",
-      "summary": "Every market report on Earth agrees: there are about 30 million software developers on the planet. I'm 12. I code on a ₹8,000 Android phone. And I'm telling you — that number is blind. Not wrong. Blin",
-      "score": 5,
-      "titleZh": "I'm 12. I found an ocean no market report can see. I call it Ocean Zero."
-    },
-    {
-      "title": "Charts for your README from a JSON spec, no charting library",
-      "link": "https://dev.to/frankchu/charts-for-your-readme-from-a-json-spec-no-charting-library-5bgb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 10 Sep 2026 03:02:59 +0000",
-      "summary": "You want a bar chart in a README, or as an inline image in a blog post, or in a docs page. Somewhere that only takes a plain <img>. And every option is a little annoying. Chart.js draws to a canvas in",
-      "score": 5,
-      "titleZh": "Charts for your README from a JSON spec, no charting library"
-    },
-    {
-      "title": "A Lean Next.js SaaS Field Guide to Structured Logging API Platforms",
-      "link": "https://dev.to/lachlanholm6518/a-lean-nextjs-saas-field-guide-to-structured-logging-api-platforms-5e81",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 10 Sep 2026 02:59:35 +0000",
-      "summary": "Short answer: choose a hosted logs API when your main job is centralizing structured Next.js application events with little client-library upkeep; choose Sentry or Axiom when richer debugging workflow",
-      "score": 5,
-      "titleZh": "A Lean Next.js SaaS Field Guide to Structured Logging API Platforms"
-    },
-    {
-      "title": "Handling Realtime Schema Versioning Failures in Multiplayer Quiz Games (Across Fan-Out)",
-      "link": "https://dev.to/falgrim78/handling-realtime-schema-versioning-failures-in-multiplayer-quiz-games-across-fan-out-5c4a",
+      "title": "Video Consultation Realtime Limits: Designing Failure Recovery for Message Fan-Out",
+      "link": "https://dev.to/vaughnknight3189/video-consultation-realtime-limits-designing-failure-recovery-for-message-fan-out-4cff",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 10 Sep 2026 02:58:44 +0000",
-      "summary": "Realtime schema versioning is failure handling at fan-out: one ambiguous quiz event can reach 5,000 players in seconds and create 5,000 different answers. Delivery speed isn't the first constraint. Ev",
+      "date": "Fri, 11 Sep 2026 02:54:34 +0000",
+      "summary": "Short answer: define a byte budget and a recovery state machine before choosing a realtime transport. In a video consultation room, typing indicators can disappear safely, but read receipts must conve",
       "score": 5,
-      "titleZh": "Handling Realtime Schema Versioning Failures in Multiplayer Quiz Games (Across Fan-Out)"
+      "titleZh": "Video Consultation Realtime Limits: Designing Failure Recovery for Message Fan-Out"
     },
     {
-      "title": "How to Build a React CRUD App Without Building a Backend",
-      "link": "https://dev.to/nileslabs/how-to-build-a-react-crud-app-without-building-a-backend-1dnk",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 10 Sep 2026 02:58:05 +0000",
-      "summary": "You have designed a clean React dashboard component. The state management looks solid, the modal forms are styled, and you are ready to test the full Create, Read, Update, and Delete (CRUD) workflow. ",
-      "score": 5,
-      "titleZh": "How to Build a React CRUD App Without Building a Backend"
-    },
-    {
-      "title": "Co-Living Accommodation in Greater Noida",
-      "link": "https://dev.to/thehotelproperties/co-living-accommodation-in-greater-noida-4i1p",
+      "title": "API Security Best Practices Every Developer Should Know",
+      "link": "https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 10 Sep 2026 02:57:53 +0000",
-      "summary": "Looking for a Boys Hostel Near Mangalmay College, Greater Noida? info@ezstays.in https://ezstays.in/coliving-accommodation-in-greater-noida/",
+      "date": "Fri, 11 Sep 2026 02:51:06 +0000",
+      "summary": "APIs are the backbone of modern software. They power mobile apps, connect microservices, expose data to partners, and drive entire business ecosystems. And yet, APIs are also one of the most commonly ",
       "score": 5,
-      "titleZh": "Co-Living Accommodation in Greater Noida"
+      "titleZh": "API Security Best Practices Every Developer Should Know"
     },
     {
-      "title": "Apple Pay or Google Pay silently failing on WooCommerce? Check these hidden problems",
-      "link": "https://dev.to/exeptionalpeople_/apple-pay-or-google-pay-silently-failing-on-woocommerce-check-these-hidden-problems-28kl",
+      "title": "Toll Free Number Services",
+      "link": "https://dev.to/thehotelproperties/toll-free-number-services-p20",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 10 Sep 2026 02:53:56 +0000",
-      "summary": "Apple Pay and Google Pay have a nasty failure mode: when something breaks, the problem may not be obvious from your normal WooCommerce logs. A shopper can tap a wallet button, attempt payment, and sti",
+      "date": "Fri, 11 Sep 2026 02:50:05 +0000",
+      "summary": "Improve customer communication and expand your business reach with a professional Toll Free Number Service from JMR Infosystem. A toll-free number allows customers to connect with your business withou",
       "score": 5,
-      "titleZh": "Apple Pay or Google Pay silently failing on WooCommerce? Check these hidden problems"
+      "titleZh": "Toll Free Number Services"
     },
     {
-      "title": "Economic Times Product of the Year 2026: Where India’s enterprise SaaS innovation",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/economic-times-product-of-the-year-2026-where-indias-enterprise-saas-innovation-5dlo",
+      "title": "Do you actually need eight glasses of water — a gentle, practical guide, when you are somewhere unfamiliar",
+      "link": "https://dev.to/zongkai_sun_0946ae0d49db2/do-you-actually-need-eight-glasses-of-water-a-gentle-practical-guide-when-you-are-somewhere-4l5l",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 10 Sep 2026 02:52:53 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Economic Times Product of the Year 2026: Where India’s enterprise SaaS innovation takes cen",
+      "date": "Fri, 11 Sep 2026 02:47:18 +0000",
+      "summary": "Eight glasses is a number with no particular evidence behind it. Thirst and urine colour are better guides. Read the full article on SoftlyStill: https://softlystill.com/guides/do-you-actually-need-ei",
       "score": 5,
-      "titleZh": "Economic Times Product of the Year 2026: Where India’s enterprise SaaS innovation"
+      "titleZh": "Do you actually need eight glasses of water — a gentle, practical guide, when you are somewhere unfamiliar"
     },
     {
-      "title": "🛠️ NHÂN VIÊN KỸ THUẬT CÔNG TRÌNH – CƠ HỘI TÍCH LŨY KINH NGHIỆM THỰC TẾ",
-      "link": "https://dev.to/timviec365vntuyendung/nhan-vien-ky-thuat-cong-trinh-co-hoi-tich-luy-kinh-nghiem-thuc-te-3dfc",
+      "title": "2026 izmit escort Güncel Giriş Adresi ve Güvenilir Siteler Rehberi",
+      "link": "https://dev.to/morfinnet/2026-izmit-escort-guncel-giris-adresi-ve-guvenilir-siteler-rehberi-1ii8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 10 Sep 2026 02:52:29 +0000",
-      "summary": "Kiến thức chuyên ngành là nền tảng, nhưng kinh nghiệm thực tế cũng đóng vai trò rất quan trọng đối với người làm kỹ thuật xây dựng. Làm việc tại công trình giúp bạn có cơ hội quan sát trực tiếp quá tr",
+      "date": "Fri, 11 Sep 2026 02:42:39 +0000",
+      "summary": "Vaka İncelemesi: 2026 izmit escort Güncel Giriş Adresi ve Güvenilir Siteler Rehberi & Doğrulanmış Sistem Mimarisi Özet Analiz: 2026 yılı için izmit escort hakkında en güncel giriş bilgileri, güvenilir",
       "score": 5,
-      "titleZh": "🛠️ NHÂN VIÊN KỸ THUẬT CÔNG TRÌNH – CƠ HỘI TÍCH LŨY KINH NGHIỆM THỰC TẾ"
+      "titleZh": "2026 izmit escort Güncel Giriş Adresi ve Güvenilir Siteler Rehberi"
+    },
+    {
+      "title": "How We Engineered 100/100 Core Web Vitals for Cross-Border Tech Portals: A Production Case Study",
+      "link": "https://dev.to/willsun/how-we-engineered-100100-core-web-vitals-for-cross-border-tech-portals-a-production-case-study-3g7n",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 02:39:51 +0000",
+      "summary": "How We Engineered 100/100 Core Web Vitals for Cross-Border Tech Portals: A Production Case Study Author: Technical Engineering Team at WillSun Agency Canonical URL: https://willsun.agency/cases In cro",
+      "score": 5,
+      "titleZh": "How We Engineered 100/100 Core Web Vitals for Cross-Border Tech Portals: A Production Case Study"
+    },
+    {
+      "title": "Generative Engine Optimization (GEO) in 2026: Architecting Multi-Entity Knowledge Graphs for AI Search",
+      "link": "https://dev.to/willsun/generative-engine-optimization-geo-in-2026-architecting-multi-entity-knowledge-graphs-for-ai-5a94",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 02:39:48 +0000",
+      "summary": "Generative Engine Optimization (GEO) in 2026: Architecting Multi-Entity Knowledge Graphs for AI Search Author: Will Sun (WillSun Agency) Published by: WillSun Agency Research Canonical URL: https://wi",
+      "score": 5,
+      "titleZh": "Generative Engine Optimization (GEO) in 2026: Architecting Multi-Entity Knowledge Graphs for AI Search"
+    },
+    {
+      "title": "Print-on-Demand Artwork Metadata Validation — A Practical Conversion Guide",
+      "link": "https://dev.to/colbyhayes3521/print-on-demand-artwork-metadata-validation-a-practical-conversion-guide-28pi",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 02:37:58 +0000",
+      "summary": "Short answer: validate print-on-demand artwork metadata first, then run an idempotent conversion worker; choose the image service by control and recovery needs, not by a feature checklist. For print-o",
+      "score": 5,
+      "titleZh": "Print-on-Demand Artwork Metadata Validation — A Practical Conversion Guide"
+    },
+    {
+      "title": "I Wasted Two Hours Prompting AI Before I Realized I Was Using the Wrong Tool",
+      "link": "https://dev.to/noah_miller_f28b7276c4435/i-wasted-two-hours-prompting-ai-before-i-realized-i-was-using-the-wrong-tool-i16",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 02:34:17 +0000",
+      "summary": "A real account of how I kept generating the wrong mug, and what finally fixed it. My product photo problem was embarrassingly specific: a ceramic mug, matte white, sitting on my kitchen counter in fro",
+      "score": 5,
+      "titleZh": "I Wasted Two Hours Prompting AI Before I Realized I Was Using the Wrong Tool"
     }
   ]
 }
