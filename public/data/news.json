@@ -1,129 +1,129 @@
 {
-  "updated": "2026-09-11T03:03:15.536Z",
+  "updated": "2026-09-11T14:03:47.244Z",
   "date": "2026-09-11",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 10 Sep 2026 06:49:43 +0000",
+      "summary": "https://mathstodon.xyz/@andreasthom/117240536885387540 https://mathstodon.xyz/@andreasthom/117240537520615623 https://x.com/ValerioCapraro/status/2097791836269977996, https://xcancel.com/ValerioCaprar",
+      "score": 835,
+      "titleZh": "More questions about whether researchers can trust OpenAI with unpublished math"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 10 Sep 2026 19:43:22 +0000",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213",
+      "score": 298,
+      "titleZh": "OpenAI Agents API"
+    },
+    {
+      "title": "Claude is no longer available for minors",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 11 Sep 2026 10:48:00 +0000",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225",
+      "score": 215,
+      "titleZh": "Claude is no longer available for minors"
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "link": "https://news.ycombinator.com/item?id=49657850",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 11 Sep 2026 13:11:04 +0000",
+      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because th",
+      "score": 210,
+      "titleZh": "Ask HN: Can we please limit the AI news flood?"
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 11 Sep 2026 11:17:50 +0000",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496",
+      "score": 196,
+      "titleZh": "The Waymo effect: how AI is quietly making research less collaborative"
+    },
+    {
+      "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-10T13:44:25.000Z",
-      "summary": "I'm an undergrad student who got a taste of research. I love it. I currently have a draft, which me and my mentor have planned for TMLR, and plan to submit it by next month for the first round of revi",
+      "date": "2026-09-11T13:00:11.000Z",
+      "summary": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3.5 days, one RTX PRO 6000, 4.2M images at 256²) mainly to understand the recipe end to end. Three measurements came out of",
       "score": 40,
-      "titleZh": "Anybody working on Test Time Training over here? Lemme work with u pls [D]"
+      "titleZh": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]"
     },
     {
-      "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+      "title": "Neurips 2026: site selection email [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-10T03:28:41.000Z",
-      "summary": "Hello this is my fifth small language model I've made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22.7B tokens**, then fine-tuned into a math model ",
+      "date": "2026-09-11T09:02:43.000Z",
+      "summary": "We just received the email for site selection for our neurips paper. Although it is obviously not an acceptance decision, I wonder whether every single non-withdrawn submission received this email, or",
       "score": 40,
-      "titleZh": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]"
+      "titleZh": "Neurips 2026: site selection email [D]"
     },
     {
-      "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+      "title": "ACL Sustainable Reviewing Policy [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-10T02:28:58.000Z",
-      "summary": "You've probably seen the fly-brain-plays-Doom / Minecraft / Beat Saber clips going around this week, from the new MaleCNS v1.0 connectome release (166k neurons, real EM reconstruction, not a toy model",
+      "date": "2026-09-11T05:38:02.000Z",
+      "summary": "ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it \"the proposal\". My understanding is that, in a nutshell, each submission sh",
       "score": 40,
-      "titleZh": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]"
+      "titleZh": "ACL Sustainable Reviewing Policy [D]"
     },
     {
-      "title": "ICDE Results [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc5zak/icde_results_d/",
+      "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-10T02:19:07.000Z",
-      "summary": "Who else is anticipating ICDE results tomorrow? Post your results here and let's discuss! submitted by /u/mythrowaway0852 [link] [comments]",
+      "date": "2026-09-11T04:27:12.000Z",
+      "summary": "I have a few web projects with pretty good UI/UX and I’m wondering if there’s any tool or workflow that can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.js",
       "score": 40,
-      "titleZh": "ICDE Results [D]"
+      "titleZh": "Any tools to turn a codebase into a fine tuning dataset? [D]"
     },
     {
-      "title": "Teach ML! Community service project from Stanford [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+      "title": "Why is TMLR so slow in recent times [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-09T07:54:14.000Z",
-      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
+      "date": "2026-09-11T04:09:09.000Z",
+      "summary": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised ",
       "score": 40,
-      "titleZh": "Teach ML! Community service project from Stanford [N]"
-    },
-    {
-      "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-08T17:42:57.000Z",
-      "summary": "As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI’s announcement: https://openai.com/index/navier-stokes-",
-      "score": 40,
-      "titleZh": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]"
-    },
-    {
-      "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-08T10:19:04.000Z",
-      "summary": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there's been a lot of noi",
-      "score": 40,
-      "titleZh": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "score": 5,
-      "titleZh": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
-    },
-    {
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "score": 5,
-      "titleZh": "3 ways to prep for your next big race with Search"
+      "titleZh": "Why is TMLR so slow in recent times [D]"
     },
     {
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
@@ -134,116 +134,116 @@
       ],
       "date": "Thu, 10 Sep 2026 14:09:31 +0000",
       "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982",
-      "score": 833,
+      "score": 1156,
       "titleZh": "Shopify is moving from React Native back to Swift and Kotlin"
     },
     {
-      "title": "Video Consultation Realtime Limits: Designing Failure Recovery for Message Fan-Out",
-      "link": "https://dev.to/vaughnknight3189/video-consultation-realtime-limits-designing-failure-recovery-for-message-fan-out-4cff",
+      "title": "CSS Curiosities of the Past",
+      "link": "https://vale.rocks/posts/css-relics",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 07:57:17 +0000",
+      "summary": "Article URL: https://vale.rocks/posts/css-relics Comments URL: https://news.ycombinator.com/item?id=49654962",
+      "score": 39,
+      "titleZh": "CSS Curiosities of the Past"
+    },
+    {
+      "title": "How to Scope a SaaS MVP Around One Complete User Task",
+      "link": "https://dev.to/urielbitton/how-to-scope-a-saas-mvp-around-one-complete-user-task-1h15",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 14:01:40 +0000",
+      "summary": "A useful SaaS MVP lets one kind of user finish one important task. Start by writing down the result they need, then build the smallest complete path to that result. Cut extra features before you cut t",
+      "score": 5,
+      "titleZh": "How to Scope a SaaS MVP Around One Complete User Task"
+    },
+    {
+      "title": "Improving Python AST Parsing & Multi-File Code Editing in LuxurAI Coder",
+      "link": "https://dev.to/achyut_srivastava_2a77b5d/improving-python-ast-parsing-multi-file-code-editing-in-luxurai-coder-32ok",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 14:01:26 +0000",
+      "summary": "What We Built Today Today, we shipped significant improvements to LuxurAI Coder's AST parser, focusing on multi-file code editing loops and sandbox test runners. These enhancements aim to make LuxurAI",
+      "score": 5,
+      "titleZh": "Improving Python AST Parsing & Multi-File Code Editing in LuxurAI Coder"
+    },
+    {
+      "title": "The Moment Your Tool Supports 100 Files, It Becomes a Different Product",
+      "link": "https://dev.to/muhayminbinmehmood/the-moment-your-tool-supports-100-files-it-becomes-a-different-product-23jh",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 14:00:00 +0000",
+      "summary": "A tool that processes one file and a tool that processes 100 files may share the same conversion function. They are still different products. The moment users can drop a large batch into your app, alm",
+      "score": 5,
+      "titleZh": "The Moment Your Tool Supports 100 Files, It Becomes a Different Product"
+    },
+    {
+      "title": "Extracting YouTube Shorts Metrics Without Scraping Full Video Lists",
+      "link": "https://dev.to/crawlerbros/extracting-youtube-shorts-metrics-without-scraping-full-video-lists-2knl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 13:58:39 +0000",
+      "summary": "YouTube Shorts Data Retrieval Challenges YouTube treats vertical short-form video differently from standard long-form uploads. On YouTube channel pages, Shorts reside under a distinct tab and URI patt",
+      "score": 5,
+      "titleZh": "Extracting YouTube Shorts Metrics Without Scraping Full Video Lists"
+    },
+    {
+      "title": "The RLS Mistake That Exposed 170 Real Lovable Apps — 3 Checks You Can Run Today",
+      "link": "https://dev.to/jjames101103/the-rls-mistake-that-exposed-170-real-lovable-apps-3-checks-you-can-run-today-2inl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 13:52:58 +0000",
+      "summary": "If you built your app with Lovable, Bolt, Replit, v0, or Base44, there's a good chance you've never once looked at your database's access-control settings. Most people who build this way don't come fr",
+      "score": 5,
+      "titleZh": "The RLS Mistake That Exposed 170 Real Lovable Apps — 3 Checks You Can Run Today"
+    },
+    {
+      "title": "GPT-6 Astra: A New Era of Machine Intelligence",
+      "link": "https://dev.to/thesiliconarchitect/gpt-6-astra-a-new-era-of-machine-intelligence-1h30",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 11 Sep 2026 13:51:57 +0000",
+      "summary": "Before I get into this, a quick apology — I’m a bit late to the party on writing this. My university semester just kicked back in and the first few weeks are always the kind of chaos that makes you fo",
+      "score": 5,
+      "titleZh": "GPT-6 Astra: A New Era of Machine Intelligence"
+    },
+    {
+      "title": "Installing Hyperiux Vault in Next.js: From CLI to a Production-Ready Cursor Effect",
+      "link": "https://dev.to/hyperiux-immersion-labs/installing-hyperiux-vault-in-nextjs-from-cli-to-a-production-ready-cursor-effect-mk1",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 02:54:34 +0000",
-      "summary": "Short answer: define a byte budget and a recovery state machine before choosing a realtime transport. In a video consultation room, typing indicators can disappear safely, but read receipts must conve",
+      "date": "Fri, 11 Sep 2026 13:46:51 +0000",
+      "summary": "Most React projects already have the structural UI covered: navigation, cards, grids, forms, responsive layouts. The harder part is often the interaction layer — cursor effects, text reveals, scroll s",
       "score": 5,
-      "titleZh": "Video Consultation Realtime Limits: Designing Failure Recovery for Message Fan-Out"
+      "titleZh": "Installing Hyperiux Vault in Next.js: From CLI to a Production-Ready Cursor Effect"
     },
     {
-      "title": "API Security Best Practices Every Developer Should Know",
-      "link": "https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk",
+      "title": "PAGI Edge Cases: When to Spec and When is Silence OK?",
+      "link": "https://dev.to/jjn1056/pagi-edge-cases-when-to-spec-and-when-is-silence-ok-56j6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 02:51:06 +0000",
-      "summary": "APIs are the backbone of modern software. They power mobile apps, connect microservices, expose data to partners, and drive entire business ecosystems. And yet, APIs are also one of the most commonly ",
+      "date": "Fri, 11 Sep 2026 13:44:17 +0000",
+      "summary": "I spent two days this week arguing with myself (and with my pair) about one sentence. The question was what a PAGI application should get when it calls receive() after the client has already gone away",
       "score": 5,
-      "titleZh": "API Security Best Practices Every Developer Should Know"
-    },
-    {
-      "title": "Toll Free Number Services",
-      "link": "https://dev.to/thehotelproperties/toll-free-number-services-p20",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:50:05 +0000",
-      "summary": "Improve customer communication and expand your business reach with a professional Toll Free Number Service from JMR Infosystem. A toll-free number allows customers to connect with your business withou",
-      "score": 5,
-      "titleZh": "Toll Free Number Services"
-    },
-    {
-      "title": "Do you actually need eight glasses of water — a gentle, practical guide, when you are somewhere unfamiliar",
-      "link": "https://dev.to/zongkai_sun_0946ae0d49db2/do-you-actually-need-eight-glasses-of-water-a-gentle-practical-guide-when-you-are-somewhere-4l5l",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:47:18 +0000",
-      "summary": "Eight glasses is a number with no particular evidence behind it. Thirst and urine colour are better guides. Read the full article on SoftlyStill: https://softlystill.com/guides/do-you-actually-need-ei",
-      "score": 5,
-      "titleZh": "Do you actually need eight glasses of water — a gentle, practical guide, when you are somewhere unfamiliar"
-    },
-    {
-      "title": "2026 izmit escort Güncel Giriş Adresi ve Güvenilir Siteler Rehberi",
-      "link": "https://dev.to/morfinnet/2026-izmit-escort-guncel-giris-adresi-ve-guvenilir-siteler-rehberi-1ii8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:42:39 +0000",
-      "summary": "Vaka İncelemesi: 2026 izmit escort Güncel Giriş Adresi ve Güvenilir Siteler Rehberi & Doğrulanmış Sistem Mimarisi Özet Analiz: 2026 yılı için izmit escort hakkında en güncel giriş bilgileri, güvenilir",
-      "score": 5,
-      "titleZh": "2026 izmit escort Güncel Giriş Adresi ve Güvenilir Siteler Rehberi"
-    },
-    {
-      "title": "How We Engineered 100/100 Core Web Vitals for Cross-Border Tech Portals: A Production Case Study",
-      "link": "https://dev.to/willsun/how-we-engineered-100100-core-web-vitals-for-cross-border-tech-portals-a-production-case-study-3g7n",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:39:51 +0000",
-      "summary": "How We Engineered 100/100 Core Web Vitals for Cross-Border Tech Portals: A Production Case Study Author: Technical Engineering Team at WillSun Agency Canonical URL: https://willsun.agency/cases In cro",
-      "score": 5,
-      "titleZh": "How We Engineered 100/100 Core Web Vitals for Cross-Border Tech Portals: A Production Case Study"
-    },
-    {
-      "title": "Generative Engine Optimization (GEO) in 2026: Architecting Multi-Entity Knowledge Graphs for AI Search",
-      "link": "https://dev.to/willsun/generative-engine-optimization-geo-in-2026-architecting-multi-entity-knowledge-graphs-for-ai-5a94",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:39:48 +0000",
-      "summary": "Generative Engine Optimization (GEO) in 2026: Architecting Multi-Entity Knowledge Graphs for AI Search Author: Will Sun (WillSun Agency) Published by: WillSun Agency Research Canonical URL: https://wi",
-      "score": 5,
-      "titleZh": "Generative Engine Optimization (GEO) in 2026: Architecting Multi-Entity Knowledge Graphs for AI Search"
-    },
-    {
-      "title": "Print-on-Demand Artwork Metadata Validation — A Practical Conversion Guide",
-      "link": "https://dev.to/colbyhayes3521/print-on-demand-artwork-metadata-validation-a-practical-conversion-guide-28pi",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:37:58 +0000",
-      "summary": "Short answer: validate print-on-demand artwork metadata first, then run an idempotent conversion worker; choose the image service by control and recovery needs, not by a feature checklist. For print-o",
-      "score": 5,
-      "titleZh": "Print-on-Demand Artwork Metadata Validation — A Practical Conversion Guide"
-    },
-    {
-      "title": "I Wasted Two Hours Prompting AI Before I Realized I Was Using the Wrong Tool",
-      "link": "https://dev.to/noah_miller_f28b7276c4435/i-wasted-two-hours-prompting-ai-before-i-realized-i-was-using-the-wrong-tool-i16",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 02:34:17 +0000",
-      "summary": "A real account of how I kept generating the wrong mug, and what finally fixed it. My product photo problem was embarrassingly specific: a ceramic mug, matte white, sitting on my kitchen counter in fro",
-      "score": 5,
-      "titleZh": "I Wasted Two Hours Prompting AI Before I Realized I Was Using the Wrong Tool"
+      "titleZh": "PAGI Edge Cases: When to Spec and When is Silence OK?"
     }
   ]
 }
