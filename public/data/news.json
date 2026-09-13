@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-11T14:03:47.244Z",
-  "date": "2026-09-11",
+  "updated": "2026-09-13T14:04:04.867Z",
+  "date": "2026-09-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "source": "HN·AI",
+      "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 10 Sep 2026 06:49:43 +0000",
-      "summary": "https://mathstodon.xyz/@andreasthom/117240536885387540 https://mathstodon.xyz/@andreasthom/117240537520615623 https://x.com/ValerioCapraro/status/2097791836269977996, https://xcancel.com/ValerioCaprar",
-      "score": 835,
-      "titleZh": "More questions about whether researchers can trust OpenAI with unpublished math"
+      "date": "2026-09-13T12:12:39.000Z",
+      "summary": "I’ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-param",
+      "score": 40,
+      "titleZh": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]"
     },
     {
-      "title": "OpenAI Agents API",
-      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "source": "HN·AI",
+      "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 10 Sep 2026 19:43:22 +0000",
-      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213",
-      "score": 298,
-      "titleZh": "OpenAI Agents API"
+      "date": "2026-09-13T10:42:53.000Z",
+      "summary": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG (https://arxiv.org/list/cs.LG/recent?skip=0&show=500). This is many times more papers than what a human be",
+      "score": 40,
+      "titleZh": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]"
     },
     {
-      "title": "Claude is no longer available for minors",
-      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "source": "HN·AI",
+      "title": "When NeurIPS'26 final decision release? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 11 Sep 2026 10:48:00 +0000",
-      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225",
-      "score": 215,
-      "titleZh": "Claude is no longer available for minors"
+      "date": "2026-09-13T10:38:50.000Z",
+      "summary": "Will it be strictly Sep'24 AoE? Is there any possibility for releasing before Sep'18 AoE, ICLR abstract submission date? submitted by /u/No_Fig_3372 [link] [comments]",
+      "score": 40,
+      "titleZh": "When NeurIPS'26 final decision release? [D]"
     },
     {
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "link": "https://news.ycombinator.com/item?id=49657850",
-      "source": "HN·AI",
+      "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 11 Sep 2026 13:11:04 +0000",
-      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because th",
-      "score": 210,
-      "titleZh": "Ask HN: Can we please limit the AI news flood?"
+      "date": "2026-09-12T21:45:25.000Z",
+      "summary": "Hi, I’m working on generating ~128×128 pixel art and trying to generate different poses of the same character. My current approach is roughly: Start with a reference image and preprocess it into clean",
+      "score": 40,
+      "titleZh": "How do you control different character pose in SDXL when using a reference image? [R][D]"
     },
     {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "source": "HN·AI",
+      "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 11 Sep 2026 11:17:50 +0000",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496",
-      "score": 196,
-      "titleZh": "The Waymo effect: how AI is quietly making research less collaborative"
+      "date": "2026-09-12T11:23:51.000Z",
+      "summary": "Note: this declaration was drafted by Mathematicians, and is mostly addressed to the mathematical community. It'd be interesting to discuss, among others, if what is written in the declaration may als",
+      "score": 40,
+      "titleZh": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]"
     },
     {
       "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
@@ -78,172 +78,172 @@
       "titleZh": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]"
     },
     {
-      "title": "Neurips 2026: site selection email [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
+      "title": "Teach ML! Community service project from Stanford [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-11T09:02:43.000Z",
-      "summary": "We just received the email for site selection for our neurips paper. Although it is obviously not an acceptance decision, I wonder whether every single non-withdrawn submission received this email, or",
+      "date": "2026-09-09T07:54:14.000Z",
+      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
       "score": 40,
-      "titleZh": "Neurips 2026: site selection email [D]"
+      "titleZh": "Teach ML! Community service project from Stanford [N]"
     },
     {
-      "title": "ACL Sustainable Reviewing Policy [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-11T05:38:02.000Z",
-      "summary": "ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it \"the proposal\". My understanding is that, in a nutshell, each submission sh",
+      "date": "2026-09-02T02:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "ACL Sustainable Reviewing Policy [D]"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
-      "source": "Reddit ML",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-11T04:27:12.000Z",
-      "summary": "I have a few web projects with pretty good UI/UX and I’m wondering if there’s any tool or workflow that can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.js",
-      "score": 40,
-      "titleZh": "Any tools to turn a codebase into a fine tuning dataset? [D]"
+      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "score": 5,
+      "titleZh": "Perplexity trusts GPT-6 Astra with end-to-end systems"
     },
     {
-      "title": "Why is TMLR so slow in recent times [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
-      "source": "Reddit ML",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-11T04:09:09.000Z",
-      "summary": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised ",
-      "score": 40,
-      "titleZh": "Why is TMLR so slow in recent times [D]"
+      "date": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "score": 5,
+      "titleZh": "Cognition helps Devin test its own work with GPT‑6 Astra"
     },
     {
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "link": "https://shopify.engineering/back-to-native",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 10 Sep 2026 14:09:31 +0000",
-      "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982",
-      "score": 1156,
-      "titleZh": "Shopify is moving from React Native back to Swift and Kotlin"
-    },
-    {
-      "title": "CSS Curiosities of the Past",
-      "link": "https://vale.rocks/posts/css-relics",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 11 Sep 2026 07:57:17 +0000",
-      "summary": "Article URL: https://vale.rocks/posts/css-relics Comments URL: https://news.ycombinator.com/item?id=49654962",
-      "score": 39,
-      "titleZh": "CSS Curiosities of the Past"
-    },
-    {
-      "title": "How to Scope a SaaS MVP Around One Complete User Task",
-      "link": "https://dev.to/urielbitton/how-to-scope-a-saas-mvp-around-one-complete-user-task-1h15",
+      "title": "Multi-tab canvas synchronization: Keeping design previews hot-reloaded across browser windows",
+      "link": "https://dev.to/achyut_srivastava_2a77b5d/multi-tab-canvas-synchronization-keeping-design-previews-hot-reloaded-across-browser-windows-4h68",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 14:01:40 +0000",
-      "summary": "A useful SaaS MVP lets one kind of user finish one important task. Start by writing down the result they need, then build the smallest complete path to that result. Cut extra features before you cut t",
+      "date": "Sun, 13 Sep 2026 14:02:27 +0000",
+      "summary": "Multi-tab canvas synchronization: Keeping design previews hot-reloaded across browser windows The Engineering Problem Modern AI paired programming and conversational UI generation struggle with contex",
       "score": 5,
-      "titleZh": "How to Scope a SaaS MVP Around One Complete User Task"
+      "titleZh": "Multi-tab canvas synchronization: Keeping design previews hot-reloaded across browser windows"
     },
     {
-      "title": "Improving Python AST Parsing & Multi-File Code Editing in LuxurAI Coder",
-      "link": "https://dev.to/achyut_srivastava_2a77b5d/improving-python-ast-parsing-multi-file-code-editing-in-luxurai-coder-32ok",
+      "title": "Generative Engine Optimization (GEO): The Developer Guide to Getting Cited by ChatGPT & Perplexity",
+      "link": "https://dev.to/sameer_hassan/generative-engine-optimization-geo-the-developer-guide-to-getting-cited-by-chatgpt-perplexity-2n4h",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 14:01:26 +0000",
-      "summary": "What We Built Today Today, we shipped significant improvements to LuxurAI Coder's AST parser, focusing on multi-file code editing loops and sandbox test runners. These enhancements aim to make LuxurAI",
+      "date": "Sun, 13 Sep 2026 13:58:01 +0000",
+      "summary": "Traditional SEO was about one simple objective: ranking on a 10-blue-links Google SERP page. In 2026, user search behavior has undergone its biggest transformation in 25 years. Developers and decision",
       "score": 5,
-      "titleZh": "Improving Python AST Parsing & Multi-File Code Editing in LuxurAI Coder"
+      "titleZh": "Generative Engine Optimization (GEO): The Developer Guide to Getting Cited by ChatGPT & Perplexity"
     },
     {
-      "title": "The Moment Your Tool Supports 100 Files, It Becomes a Different Product",
-      "link": "https://dev.to/muhayminbinmehmood/the-moment-your-tool-supports-100-files-it-becomes-a-different-product-23jh",
+      "title": "Polar sandbox vs live webhooks — why checkout works and entitlements do not",
+      "link": "https://dev.to/gumbosveins/polar-sandbox-vs-live-webhooks-why-checkout-works-and-entitlements-do-not-5gl2",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 13 Sep 2026 13:57:41 +0000",
+      "summary": "Polar sandbox vs live webhooks — why checkout works and entitlements do not Checkout can succeed and your app can still treat the buyer as a free user. On Polar that usually means the webhook landed i",
+      "score": 5,
+      "titleZh": "Polar sandbox vs live webhooks — why checkout works and entitlements do not"
+    },
+    {
+      "title": "How to Turn Any OpenAPI Specification into an MCP Tool for Claude Desktop (In 60 Seconds)",
+      "link": "https://dev.to/stormliveai/how-to-turn-any-openapi-specification-into-an-mcp-tool-for-claude-desktop-in-60-seconds-2f07",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 14:00:00 +0000",
-      "summary": "A tool that processes one file and a tool that processes 100 files may share the same conversion function. They are still different products. The moment users can drop a large batch into your app, alm",
+      "date": "Sun, 13 Sep 2026 13:45:14 +0000",
+      "summary": "The Model Context Protocol (MCP) has made it possible to connect Large Language Models directly to external environments. But if your team already has a REST API documented in OpenAPI v3 / Swagger, wr",
       "score": 5,
-      "titleZh": "The Moment Your Tool Supports 100 Files, It Becomes a Different Product"
+      "titleZh": "How to Turn Any OpenAPI Specification into an MCP Tool for Claude Desktop (In 60 Seconds)"
     },
     {
-      "title": "Extracting YouTube Shorts Metrics Without Scraping Full Video Lists",
-      "link": "https://dev.to/crawlerbros/extracting-youtube-shorts-metrics-without-scraping-full-video-lists-2knl",
+      "title": "The <ExperienceSlot /> pattern: Decoupling marketing copy from React components",
+      "link": "https://dev.to/pavan_s_poojary/the-pattern-decoupling-marketing-copy-from-react-components-39cj",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 13 Sep 2026 13:42:00 +0000",
+      "summary": "Every SaaS team starts the same way: a simple boolean column in PostgreSQL (has_seen_v2_modal), a useEffect hook, and a conditional modal component. Fast forward 6 months, and your frontend bundle is ",
+      "score": 5,
+      "titleZh": "The <ExperienceSlot /> pattern: Decoupling marketing copy from React components"
+    },
+    {
+      "title": "How to Stop Cursor from Hallucinating: 5 Production Rules Every AI Engineer Needs",
+      "link": "https://dev.to/aymanewebdev/how-to-stop-cursor-from-hallucinating-5-production-rules-every-ai-engineer-needs-18o9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 13:58:39 +0000",
-      "summary": "YouTube Shorts Data Retrieval Challenges YouTube treats vertical short-form video differently from standard long-form uploads. On YouTube channel pages, Shorts reside under a distinct tab and URI patt",
+      "date": "Sun, 13 Sep 2026 13:41:37 +0000",
+      "summary": "How to Stop Cursor from Hallucinating: 5 Production Rules Every AI Engineer Needs If you use Cursor, Claude Code, or GitHub Copilot on a non-trivial codebase, you've probably encountered the AI coding",
       "score": 5,
-      "titleZh": "Extracting YouTube Shorts Metrics Without Scraping Full Video Lists"
+      "titleZh": "How to Stop Cursor from Hallucinating: 5 Production Rules Every AI Engineer Needs"
     },
     {
-      "title": "The RLS Mistake That Exposed 170 Real Lovable Apps — 3 Checks You Can Run Today",
-      "link": "https://dev.to/jjames101103/the-rls-mistake-that-exposed-170-real-lovable-apps-3-checks-you-can-run-today-2inl",
-      "source": "Dev.to WebDev",
+      "title": "Compress PDFs in Your Browser — No Upload, No Server, Free",
+      "link": "https://dev.to/toolzip/compress-pdfs-in-your-browser-no-upload-no-server-free-1ako",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 13:52:58 +0000",
-      "summary": "If you built your app with Lovable, Bolt, Replit, v0, or Base44, there's a good chance you've never once looked at your database's access-control settings. Most people who build this way don't come fr",
+      "date": "Sun, 13 Sep 2026 13:41:06 +0000",
+      "summary": "PDF compression is one of those tasks that sounds simple but hides a surprising amount of complexity. Most online tools solve it by uploading your file to a server. That's fine for generic documents —",
       "score": 5,
-      "titleZh": "The RLS Mistake That Exposed 170 Real Lovable Apps — 3 Checks You Can Run Today"
+      "titleZh": "Compress PDFs in Your Browser — No Upload, No Server, Free"
     },
     {
-      "title": "GPT-6 Astra: A New Era of Machine Intelligence",
-      "link": "https://dev.to/thesiliconarchitect/gpt-6-astra-a-new-era-of-machine-intelligence-1h30",
-      "source": "Dev.to WebDev",
+      "title": "How Many Times Can You Compress a Video Before It Looks Bad?",
+      "link": "https://dev.to/maxslashwang/how-many-times-can-you-compress-a-video-before-it-looks-bad-ojc",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 13:51:57 +0000",
-      "summary": "Before I get into this, a quick apology — I’m a bit late to the party on writing this. My university semester just kicked back in and the first few weeks are always the kind of chaos that makes you fo",
+      "date": "Sun, 13 Sep 2026 13:37:11 +0000",
+      "summary": "If a compressed video looks worse than you expected, the problem usually isn't the compressor — it's that the file was already compressed once before you touched it. You compress a video, and it comes",
       "score": 5,
-      "titleZh": "GPT-6 Astra: A New Era of Machine Intelligence"
+      "titleZh": "How Many Times Can You Compress a Video Before It Looks Bad?"
     },
     {
-      "title": "Installing Hyperiux Vault in Next.js: From CLI to a Production-Ready Cursor Effect",
-      "link": "https://dev.to/hyperiux-immersion-labs/installing-hyperiux-vault-in-nextjs-from-cli-to-a-production-ready-cursor-effect-mk1",
-      "source": "Dev.to TS",
+      "title": "Angular vs React: Which Framework Saves You Time, Money, and Headaches?",
+      "link": "https://dev.to/adiba_parwez/angular-vs-react-which-framework-saves-you-time-money-and-headaches-41ab",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 13:46:51 +0000",
-      "summary": "Most React projects already have the structural UI covered: navigation, cards, grids, forms, responsive layouts. The harder part is often the interaction layer — cursor effects, text reveals, scroll s",
+      "date": "Sun, 13 Sep 2026 13:35:51 +0000",
+      "summary": "When comparing Angular vs React for a new application, the short answer is that neither is automatically better. React is often a strong choice when flexibility, faster UI development, and a large eco",
       "score": 5,
-      "titleZh": "Installing Hyperiux Vault in Next.js: From CLI to a Production-Ready Cursor Effect"
+      "titleZh": "Angular vs React: Which Framework Saves You Time, Money, and Headaches?"
     },
     {
-      "title": "PAGI Edge Cases: When to Spec and When is Silence OK?",
-      "link": "https://dev.to/jjn1056/pagi-edge-cases-when-to-spec-and-when-is-silence-ok-56j6",
-      "source": "Dev.to WebDev",
+      "title": "Don't fake the rider on the map",
+      "link": "https://dev.to/divyakush/dont-fake-the-rider-on-the-map-3o7o",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 11 Sep 2026 13:44:17 +0000",
-      "summary": "I spent two days this week arguing with myself (and with my pair) about one sentence. The question was what a PAGI application should get when it calls receive() after the client has already gone away",
+      "date": "Sun, 13 Sep 2026 13:35:40 +0000",
+      "summary": "Open almost any delivery app and watch the tracking screen. An icon edges along a route, a countdown ticks, the status flips to \"on the way.\" A surprising amount of that can be theatre — progress inte",
       "score": 5,
-      "titleZh": "PAGI Edge Cases: When to Spec and When is Silence OK?"
+      "titleZh": "Don't fake the rider on the map"
     }
   ]
 }
