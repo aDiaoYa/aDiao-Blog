@@ -1,10 +1,58 @@
 {
-  "updated": "2026-09-13T14:04:04.867Z",
-  "date": "2026-09-13",
+  "updated": "2026-09-14T03:25:38.212Z",
+  "date": "2026-09-14",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 11 Sep 2026 03:45:42 +0000",
+      "summary": "Article URL: https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace Comments URL: https://news.ycombinator.com/item?id=49653311",
+      "score": 64,
+      "titleZh": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
+    },
+    {
+      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-13T20:32:22.000Z",
+      "summary": "Hi 👋 long time lurker It’s been a few years since the last post about Horse Racing within this sub. A few years ago I was reading a popular science book and came across the story Bill Benter and the ",
+      "score": 40,
+      "titleZh": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]"
+    },
+    {
+      "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-13T18:54:18.000Z",
+      "summary": "I built a small library called whitetree for exact Mahalanobis nearest-neighbour search on low-dimensional sensor data that keeps arriving. The idea is old. Whiten with the Cholesky factor of the cova",
+      "score": 40,
+      "titleZh": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]"
+    },
+    {
+      "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-13T18:01:03.000Z",
+      "summary": "Hi r/MachineLearning, Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and you can start dropping your",
+      "score": 40,
+      "titleZh": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]"
+    },
     {
       "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
@@ -30,30 +78,6 @@
       "titleZh": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]"
     },
     {
-      "title": "When NeurIPS'26 final decision release? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-13T10:38:50.000Z",
-      "summary": "Will it be strictly Sep'24 AoE? Is there any possibility for releasing before Sep'18 AoE, ICLR abstract submission date? submitted by /u/No_Fig_3372 [link] [comments]",
-      "score": 40,
-      "titleZh": "When NeurIPS'26 final decision release? [D]"
-    },
-    {
-      "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-12T21:45:25.000Z",
-      "summary": "Hi, I’m working on generating ~128×128 pixel art and trying to generate different poses of the same character. My current approach is roughly: Start with a reference image and preprocess it into clean",
-      "score": 40,
-      "titleZh": "How do you control different character pose in SDXL when using a reference image? [R][D]"
-    },
-    {
       "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
       "source": "Reddit ML",
@@ -64,18 +88,6 @@
       "summary": "Note: this declaration was drafted by Mathematicians, and is mostly addressed to the mathematical community. It'd be interesting to discuss, among others, if what is written in the declaration may als",
       "score": 40,
       "titleZh": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]"
-    },
-    {
-      "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-11T13:00:11.000Z",
-      "summary": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3.5 days, one RTX PRO 6000, 4.2M images at 256²) mainly to understand the recipe end to end. Three measurements came out of",
-      "score": 40,
-      "titleZh": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]"
     },
     {
       "title": "Teach ML! Community service project from Stanford [N]",
@@ -102,148 +114,136 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
+      "title": "Open-Source AI and Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "score": 5,
-      "titleZh": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+      "date": "Mon, 14 Sep 2026 00:22:51 +0000",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260",
+      "score": 36,
+      "titleZh": "Open-Source AI and Open Models Reading List"
     },
     {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "score": 5,
-      "titleZh": "Cognition helps Devin test its own work with GPT‑6 Astra"
-    },
-    {
-      "title": "Multi-tab canvas synchronization: Keeping design previews hot-reloaded across browser windows",
-      "link": "https://dev.to/achyut_srivastava_2a77b5d/multi-tab-canvas-synchronization-keeping-design-previews-hot-reloaded-across-browser-windows-4h68",
+      "title": "Free Developer Roadmaps for 2026 🚀",
+      "link": "https://dev.to/xmus/free-developer-roadmaps-for-2026-1h8k",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 13 Sep 2026 14:02:27 +0000",
-      "summary": "Multi-tab canvas synchronization: Keeping design previews hot-reloaded across browser windows The Engineering Problem Modern AI paired programming and conversational UI generation struggle with contex",
+      "date": "Mon, 14 Sep 2026 03:21:19 +0000",
+      "summary": "I created free, step-by-step developer roadmaps on DevLearnHub to help you follow a clearer learning path. Currently available: 🎨 Frontend Developer — 15 sections, 61 topics Each roadmap is designed ",
       "score": 5,
-      "titleZh": "Multi-tab canvas synchronization: Keeping design previews hot-reloaded across browser windows"
+      "titleZh": "Free Developer Roadmaps for 2026 🚀"
     },
     {
-      "title": "Generative Engine Optimization (GEO): The Developer Guide to Getting Cited by ChatGPT & Perplexity",
-      "link": "https://dev.to/sameer_hassan/generative-engine-optimization-geo-the-developer-guide-to-getting-cited-by-chatgpt-perplexity-2n4h",
+      "title": "Top 10 SEO TOOLS APIs & Scrapers in 2026 — Ranked by Active Users",
+      "link": "https://dev.to/nick_davies_323125afbb05c/top-10-seo-tools-apis-scrapers-in-2026-ranked-by-active-users-3oo2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 13 Sep 2026 13:58:01 +0000",
-      "summary": "Traditional SEO was about one simple objective: ranking on a 10-blue-links Google SERP page. In 2026, user search behavior has undergone its biggest transformation in 25 years. Developers and decision",
+      "date": "Mon, 14 Sep 2026 03:20:47 +0000",
+      "summary": "Looking for the best seo tools tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 181K users | 4.7/5 rating | Pay per event Scrape Google Search Engine Resu",
       "score": 5,
-      "titleZh": "Generative Engine Optimization (GEO): The Developer Guide to Getting Cited by ChatGPT & Perplexity"
+      "titleZh": "Top 10 SEO TOOLS APIs & Scrapers in 2026 — Ranked by Active Users"
     },
     {
-      "title": "Polar sandbox vs live webhooks — why checkout works and entitlements do not",
-      "link": "https://dev.to/gumbosveins/polar-sandbox-vs-live-webhooks-why-checkout-works-and-entitlements-do-not-5gl2",
+      "title": "Amazon Scraping Tools Compared — Which One Should You Use in 2026?",
+      "link": "https://dev.to/nick_davies_323125afbb05c/amazon-scraping-tools-compared-which-one-should-you-use-in-2026-1h15",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:15:36 +0000",
+      "summary": "If you need to scrape Amazon data, there are multiple tools available. But which one should you pick? I compared the top 5 options. Tool Developer Rating Users Pricing Amazon Product Scraper Junglee 4",
+      "score": 5,
+      "titleZh": "Amazon Scraping Tools Compared — Which One Should You Use in 2026?"
+    },
+    {
+      "title": "Four Real x402 Settlements: What Actually Happens When an Agent Pays for a GPU",
+      "link": "https://dev.to/kilawattcloud/four-real-x402-settlements-what-actually-happens-when-an-agent-pays-for-a-gpu-4clo",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:13:44 +0000",
+      "summary": "We ran 4 real x402 settlements tonight against our production endpoint. Sharing the raw data, successes and one rejection included, because this community tends to want the receipts, not the summary. ",
+      "score": 5,
+      "titleZh": "Four Real x402 Settlements: What Actually Happens When an Agent Pays for a GPU"
+    },
+    {
+      "title": "How to Scrape Google Search Results Without Getting Blocked",
+      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-scrape-google-search-results-without-getting-blocked-5f4m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:10:25 +0000",
+      "summary": "Need SERP data at scale? Forget proxies and headless browsers. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's ",
+      "score": 5,
+      "titleZh": "How to Scrape Google Search Results Without Getting Blocked"
+    },
+    {
+      "title": "Building a Sports Data Pipeline: Lessons from Today at the Test: Highlights from day four of third Test",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-today-at-the-test-highlights-from-day-four-of-third-561d",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:07:34 +0000",
+      "summary": "Building a Sports Data Pipeline: Lessons from Today at the Test: Highlights from day four of third Test TL;DR: 744 words, three sections, tags only. Facts verified against ESPNcricinfo, Sky Sports and",
+      "score": 5,
+      "titleZh": "Building a Sports Data Pipeline: Lessons from Today at the Test: Highlights from day four of third Test"
+    },
+    {
+      "title": "Analyzing Tennis Data: Rybakina wins US Open to inflict further pain on Sabalenka — What the Numbers Say",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/analyzing-tennis-data-rybakina-wins-us-open-to-inflict-further-pain-on-sabalenka-what-the-e19",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:07:07 +0000",
+      "summary": "Analyzing Tennis Data: Rybakina wins US Open to inflict further pain on Sabalenka — What the Numbers Say TL;DR: 726 words, only /// tags, no wrappers. Built on the verified factbase from earlier today",
+      "score": 5,
+      "titleZh": "Analyzing Tennis Data: Rybakina wins US Open to inflict further pain on Sabalenka — What the Numbers Say"
+    },
+    {
+      "title": "Building a Formula 1 Data Pipeline: Lessons from Norris real opportunity after coming from nowhere with masterpiece lap",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-formula-1-data-pipeline-lessons-from-norris-real-opportunity-after-coming-from-nowhere-56al",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:06:53 +0000",
+      "summary": "Building a Formula 1 Data Pipeline: Lessons from Norris real opportunity after coming from nowhere with masterpiece lap TL;DR: Lando Norris was sixth after the opening runs in Q3 at the Madring, 0.446",
+      "score": 5,
+      "titleZh": "Building a Formula 1 Data Pipeline: Lessons from Norris real opportunity after coming from nowhere with masterpiece lap"
+    },
+    {
+      "title": "Building a Sports Data Pipeline: Lessons from Ukraines Koval joins new team after Russia controversy",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-ukraines-koval-joins-new-team-after-russia-controversy-2dhn",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 14 Sep 2026 03:06:27 +0000",
+      "summary": "Building a Sports Data Pipeline: Lessons from Ukraines Koval joins new team after Russia controversy TL;DR: Kate Koval played 35 games for LSU last season, started 17 of them and averaged 8.3 points a",
+      "score": 5,
+      "titleZh": "Building a Sports Data Pipeline: Lessons from Ukraines Koval joins new team after Russia controversy"
+    },
+    {
+      "title": "Next.js & AI Systems Architecture: Scaling Real-Time Agents (2026)",
+      "link": "https://dev.to/nainikmehta/nextjs-ai-systems-architecture-scaling-real-time-agents-2026-3k2p",
       "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 13 Sep 2026 13:57:41 +0000",
-      "summary": "Polar sandbox vs live webhooks — why checkout works and entitlements do not Checkout can succeed and your app can still treat the buyer as a free user. On Polar that usually means the webhook landed i",
+      "date": "Mon, 14 Sep 2026 03:01:04 +0000",
+      "summary": "The Hidden Bottleneck in AI Engineering In the rapidly evolving landscape of 2026, building AI-native applications is no longer just about prompt engineering. It is about systems architecture. We have",
       "score": 5,
-      "titleZh": "Polar sandbox vs live webhooks — why checkout works and entitlements do not"
-    },
-    {
-      "title": "How to Turn Any OpenAPI Specification into an MCP Tool for Claude Desktop (In 60 Seconds)",
-      "link": "https://dev.to/stormliveai/how-to-turn-any-openapi-specification-into-an-mcp-tool-for-claude-desktop-in-60-seconds-2f07",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:45:14 +0000",
-      "summary": "The Model Context Protocol (MCP) has made it possible to connect Large Language Models directly to external environments. But if your team already has a REST API documented in OpenAPI v3 / Swagger, wr",
-      "score": 5,
-      "titleZh": "How to Turn Any OpenAPI Specification into an MCP Tool for Claude Desktop (In 60 Seconds)"
-    },
-    {
-      "title": "The <ExperienceSlot /> pattern: Decoupling marketing copy from React components",
-      "link": "https://dev.to/pavan_s_poojary/the-pattern-decoupling-marketing-copy-from-react-components-39cj",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:42:00 +0000",
-      "summary": "Every SaaS team starts the same way: a simple boolean column in PostgreSQL (has_seen_v2_modal), a useEffect hook, and a conditional modal component. Fast forward 6 months, and your frontend bundle is ",
-      "score": 5,
-      "titleZh": "The <ExperienceSlot /> pattern: Decoupling marketing copy from React components"
-    },
-    {
-      "title": "How to Stop Cursor from Hallucinating: 5 Production Rules Every AI Engineer Needs",
-      "link": "https://dev.to/aymanewebdev/how-to-stop-cursor-from-hallucinating-5-production-rules-every-ai-engineer-needs-18o9",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:41:37 +0000",
-      "summary": "How to Stop Cursor from Hallucinating: 5 Production Rules Every AI Engineer Needs If you use Cursor, Claude Code, or GitHub Copilot on a non-trivial codebase, you've probably encountered the AI coding",
-      "score": 5,
-      "titleZh": "How to Stop Cursor from Hallucinating: 5 Production Rules Every AI Engineer Needs"
-    },
-    {
-      "title": "Compress PDFs in Your Browser — No Upload, No Server, Free",
-      "link": "https://dev.to/toolzip/compress-pdfs-in-your-browser-no-upload-no-server-free-1ako",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:41:06 +0000",
-      "summary": "PDF compression is one of those tasks that sounds simple but hides a surprising amount of complexity. Most online tools solve it by uploading your file to a server. That's fine for generic documents —",
-      "score": 5,
-      "titleZh": "Compress PDFs in Your Browser — No Upload, No Server, Free"
-    },
-    {
-      "title": "How Many Times Can You Compress a Video Before It Looks Bad?",
-      "link": "https://dev.to/maxslashwang/how-many-times-can-you-compress-a-video-before-it-looks-bad-ojc",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:37:11 +0000",
-      "summary": "If a compressed video looks worse than you expected, the problem usually isn't the compressor — it's that the file was already compressed once before you touched it. You compress a video, and it comes",
-      "score": 5,
-      "titleZh": "How Many Times Can You Compress a Video Before It Looks Bad?"
-    },
-    {
-      "title": "Angular vs React: Which Framework Saves You Time, Money, and Headaches?",
-      "link": "https://dev.to/adiba_parwez/angular-vs-react-which-framework-saves-you-time-money-and-headaches-41ab",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:35:51 +0000",
-      "summary": "When comparing Angular vs React for a new application, the short answer is that neither is automatically better. React is often a strong choice when flexibility, faster UI development, and a large eco",
-      "score": 5,
-      "titleZh": "Angular vs React: Which Framework Saves You Time, Money, and Headaches?"
-    },
-    {
-      "title": "Don't fake the rider on the map",
-      "link": "https://dev.to/divyakush/dont-fake-the-rider-on-the-map-3o7o",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 13 Sep 2026 13:35:40 +0000",
-      "summary": "Open almost any delivery app and watch the tracking screen. An icon edges along a route, a countdown ticks, the status flips to \"on the way.\" A surprising amount of that can be theatre — progress inte",
-      "score": 5,
-      "titleZh": "Don't fake the rider on the map"
+      "titleZh": "Next.js & AI Systems Architecture: Scaling Real-Time Agents (2026)"
     }
   ]
 }
