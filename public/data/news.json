@@ -1,45 +1,33 @@
 {
-  "updated": "2026-09-14T16:09:42.928Z",
-  "date": "2026-09-14",
+  "updated": "2026-09-15T03:26:32.535Z",
+  "date": "2026-09-15",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 14 Sep 2026 12:01:32 +0000",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409",
-      "score": 179,
-      "titleZh": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows"
-    },
-    {
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "link": "https://github.com/anuj0456/OpenArch",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 14 Sep 2026 07:55:19 +0000",
-      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384",
-      "score": 117,
-      "titleZh": "OpenArch – PyTorch implementations of modern LLM architectures"
-    },
-    {
-      "title": "Discovered computational structures that carry their own lineage from simulation into an FPGA bitstream [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg7ou3/discovered_computational_structures_that_carry/",
+      "title": "RSI is not happening [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-14T16:08:37.000Z",
-      "summary": "Most search or evolutionary systems find something useful, score it, and move on to the next run. The structure itself doesn't keep any record of how it got validated. I built Bind to work differently",
+      "date": "2026-09-14T18:03:41.000Z",
+      "summary": "A new paper (I'm not a coauthor BTW -- I just found it interesting) argues, basically, that RSI is not on the horizon, because current (at the time the study was done) agents cannot do open-ended ML r",
       "score": 40,
-      "titleZh": "Discovered computational structures that carry their own lineage from simulation into an FPGA bitstream [R]"
+      "titleZh": "RSI is not happening [R]"
+    },
+    {
+      "title": "How to automatically find the batch size when using Accelerate with FSDP2? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg9u62/how_to_automatically_find_the_batch_size_when/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-14T17:24:08.000Z",
+      "summary": "Hi, For single-GPU training, I’m using Hugging Face SFTTrainer with auto_find_batch_size=True, which automatically reduces the batch size after a CUDA OOM until it finds a batch size that works. I wou",
+      "score": 40,
+      "titleZh": "How to automatically find the batch size when using Accelerate with FSDP2? [D]"
     },
     {
       "title": "[P] Wine synthesis using VAE [P]",
@@ -52,18 +40,6 @@
       "summary": "I have created a VAE model using PyTorch on White Wine dataset. Basically, the main goal is to discover a brand-new white wine recipe. It puts all the wines into a latent space, finds the best part wh",
       "score": 40,
       "titleZh": "[P] Wine synthesis using VAE [P]"
-    },
-    {
-      "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-14T13:28:01.000Z",
-      "summary": "TLDR: I made \"poor man’s\" DSSM (Deep Structured Semantic Model) — the count-based translation table that can enrich the inverted index for full-text search. This trick can improve baseline BM25. So th",
-      "score": 40,
-      "titleZh": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]"
     },
     {
       "title": "ARR August Discussion [D]",
@@ -85,7 +61,7 @@
         "AI"
       ],
       "date": "2026-09-13T18:01:03.000Z",
-      "summary": "Hi r/MachineLearning, Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and you can start dropping your",
+      "summary": "EDIT: Thanks from the Waymo AI Team! A huge thank you to the r/MachineLearning community for all the thoughtful, deep-dive questions today. If you want to dive deeper into our technical research, chec",
       "score": 40,
       "titleZh": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]"
     },
@@ -126,124 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
-      "link": "https://github.com/Newspicel/sdrminusminus",
-      "source": "HN·前端",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 14 Sep 2026 19:00:00 +0000",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "score": 5,
+      "titleZh": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
+    },
+    {
+      "title": "DevFest is back",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 14 Sep 2026 16:00:00 +0000",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "score": 5,
+      "titleZh": "DevFest is back"
+    },
+    {
+      "title": "Building a Modern Browser-Based ID Photo Maker: Client-Side Face Detection, Smart Cropping & Background Processing",
+      "link": "https://dev.to/jojo_willnn_/building-a-modern-browser-based-id-photo-maker-client-side-face-detection-smart-cropping--46kj",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 12:35:56 +0000",
-      "summary": "Article URL: https://github.com/Newspicel/sdrminusminus Comments URL: https://news.ycombinator.com/item?id=49695805",
-      "score": 34,
-      "titleZh": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI"
+      "date": "Tue, 15 Sep 2026 03:23:02 +0000",
+      "summary": "The web browser has evolved into a remarkably powerful platform for high-performance computer vision. In this guide, we will walk through how to build a fully client-side ID photo maker and background",
+      "score": 5,
+      "titleZh": "Building a Modern Browser-Based ID Photo Maker: Client-Side Face Detection, Smart Cropping & Background Processing"
     },
     {
-      "title": "I replaced $700/month of SaaS with Google Apps Script. Here's what broke first.",
-      "link": "https://dev.to/stack_c285afb2fa0bef/i-replaced-700month-of-saas-with-google-apps-script-heres-what-broke-first-4pa6",
+      "title": "How to Validate Phone Numbers via API — Global Coverage",
+      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-validate-phone-numbers-via-api-global-coverage-2h9m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 15 Sep 2026 03:22:46 +0000",
+      "summary": "Bad phone data kills conversion rates. Fix it at the source. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's a ",
+      "score": 5,
+      "titleZh": "How to Validate Phone Numbers via API — Global Coverage"
+    },
+    {
+      "title": "How I Cut 45,000 Next.js Error Tokens to 118 in <0.2ms Using a Rust MCP Server",
+      "link": "https://dev.to/daffa2555/how-i-cut-45000-nextjs-error-tokens-to-118-in-02msusing-a-rust-mcp-server-1c7j",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 15 Sep 2026 03:19:09 +0000",
+      "summary": "If you use Cursor, Claude Desktop, or Cline daily, A Next.js build fails or a Python script panics, and your terminal vomits 500 lines of stack traces. The node_modules machinery, webpack bundles, and",
+      "score": 5,
+      "titleZh": "How I Cut 45,000 Next.js Error Tokens to 118 in <0.2ms Using a Rust MCP Server"
+    },
+    {
+      "title": "Instagram Scraping Tools Compared — Which One Should You Use in 2026?",
+      "link": "https://dev.to/nick_davies_323125afbb05c/instagram-scraping-tools-compared-which-one-should-you-use-in-2026-1kbm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 15 Sep 2026 03:17:35 +0000",
+      "summary": "If you need to scrape Instagram data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing Instagram Scraper Apify 4.7 3",
+      "score": 5,
+      "titleZh": "Instagram Scraping Tools Compared — Which One Should You Use in 2026?"
+    },
+    {
+      "title": "I measured third-party weight on 51 B2B SaaS homepages. The median page is 34.6 percent someone else's code.",
+      "link": "https://dev.to/hanaharness/i-measured-third-party-weight-on-51-b2b-saas-homepages-the-median-page-is-346-percent-someone-10jf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 16:06:55 +0000",
-      "summary": "A while back I looked at a stack of SaaS subscriptions that were, between them, doing something fairly unglamorous: moving rows of data from one system into another and doing arithmetic on them. The c",
+      "date": "Tue, 15 Sep 2026 03:15:34 +0000",
+      "summary": "On 15 September 2026 I measured 51 B2B SaaS homepages with Lighthouse 12.8.2 under applied 4G throttling and grouped every network request by registrable domain. I wanted one number: how much of a mod",
       "score": 5,
-      "titleZh": "I replaced $700/month of SaaS with Google Apps Script. Here's what broke first."
+      "titleZh": "I measured third-party weight on 51 B2B SaaS homepages. The median page is 34.6 percent someone else's code."
     },
     {
-      "title": "What if API testing worked like Terraform? (An experiment in Go)",
-      "link": "https://dev.to/budment/what-if-api-testing-worked-like-terraform-an-experiment-in-go-5ep5",
+      "title": "Meine Claude-Code-Quota ist zweimal pro Woche gestorben. Ich habe ein Forensik-Tool geschrieben, um herauszufinden, warum.",
+      "link": "https://dev.to/agentguard/meine-claude-code-quota-ist-zweimal-pro-woche-gestorben-ich-habe-ein-forensik-tool-geschrieben-um-397l",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 16:06:55 +0000",
-      "summary": "I’ve been learning Go recently and wanted to try a Terraform-like workflow for API testing: write scenarios as code, compile them into a static plan, then execute that plan. So I built a small project",
+      "date": "Tue, 15 Sep 2026 03:14:05 +0000",
+      "summary": "Meine Claude-Code-Quota verbrennt schnell — und die Zähler haben es nie erklärt. Sie beantworten wie viel. Nicht wo, nicht Also habe ich ein Skript auf meine lokalen Session-Transkripte (~/.claude/pro",
       "score": 5,
-      "titleZh": "What if API testing worked like Terraform? (An experiment in Go)"
+      "titleZh": "Meine Claude-Code-Quota ist zweimal pro Woche gestorben. Ich habe ein Forensik-Tool geschrieben, um herauszufinden, warum."
     },
     {
-      "title": "pip value calculator AI: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/pip-value-calculator-ai-ki-trading-guide-29ng",
+      "title": "Threads Scraper - Posts, Profiles & Search — 5K Users Can't Be Wrong",
+      "link": "https://dev.to/nick_davies_323125afbb05c/threads-scraper-posts-profiles-search-5k-users-cant-be-wrong-3fb3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 16:06:48 +0000",
-      "summary": "pip value calculator AI: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/pip-value-position-ai/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Pip value and",
+      "date": "Tue, 15 Sep 2026 03:12:24 +0000",
+      "summary": "Are you spending hours writing custom scrapers? There's probably an actor for that already. Search Threads posts by keyword, or grab any profile's posts, replies and reposts. Export engagement, views ",
       "score": 5,
-      "titleZh": "pip value calculator AI: KI-Trading-Guide"
+      "titleZh": "Threads Scraper - Posts, Profiles & Search — 5K Users Can't Be Wrong"
     },
     {
-      "title": "demo trading metrics: KI-Trading-Guide",
-      "link": "https://dev.to/meridiantrade/demo-trading-metrics-ki-trading-guide-1efg",
+      "title": "My Claude Code quota died twice a week. I wrote a forensics tool to find out why.",
+      "link": "https://dev.to/agentguard/my-claude-code-quota-died-twice-a-week-i-wrote-a-forensics-tool-to-find-out-why-3jmi",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 16:06:48 +0000",
-      "summary": "demo trading metrics: KI-Trading-Guide Originally published at https://meridiantradeai.com/de/blog/demo-metrics-to-trust/ — canonical URL for SEO. Leitfaden für KI-gestütztes Trading. Which demo metri",
+      "date": "Tue, 15 Sep 2026 03:12:05 +0000",
+      "summary": "I burn through Claude Code quota fast — and the counters never explained it. They answer how much. Not where, not why. So I pointed a script at my local session transcripts (~/.claude/projects/**/*.js",
       "score": 5,
-      "titleZh": "demo trading metrics: KI-Trading-Guide"
+      "titleZh": "My Claude Code quota died twice a week. I wrote a forensics tool to find out why."
     },
     {
-      "title": "pip value calculator AI: Guida trading AI",
-      "link": "https://dev.to/meridiantrade/pip-value-calculator-ai-guida-trading-ai-5dc8",
+      "title": "Google Gmail Data Breach Warning: A Practical Guide to Securing Your Account",
+      "link": "https://dev.to/zprostudio/google-gmail-data-breach-warning-a-practical-guide-to-securing-your-account-27k6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 16:06:12 +0000",
-      "summary": "pip value calculator AI: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/pip-value-position-ai/ — canonical URL for SEO. Guida al trading automatizzato con AI. Pip value a",
+      "date": "Tue, 15 Sep 2026 03:11:57 +0000",
+      "summary": "A Google Gmail data breach warning can immediately make you wonder: “Was my Gmail account hacked?” Not necessarily. A breach warning can mean that a password associated with your Gmail address appeare",
       "score": 5,
-      "titleZh": "pip value calculator AI: Guida trading AI"
+      "titleZh": "Google Gmail Data Breach Warning: A Practical Guide to Securing Your Account"
     },
     {
-      "title": "demo trading metrics: Guida trading AI",
-      "link": "https://dev.to/meridiantrade/demo-trading-metrics-guida-trading-ai-26m4",
-      "source": "Dev.to WebDev",
+      "title": "Analyzing Nba Data: USA women win fifth basketball World Cup in a row — What the Numbers Say",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/analyzing-nba-data-usa-women-win-fifth-basketball-world-cup-in-a-row-what-the-numbers-say-3mlk",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 14 Sep 2026 16:06:11 +0000",
-      "summary": "demo trading metrics: Guida trading AI Originally published at https://meridiantradeai.com/it/blog/demo-metrics-to-trust/ — canonical URL for SEO. Guida al trading automatizzato con AI. Which demo met",
+      "date": "Tue, 15 Sep 2026 03:06:38 +0000",
+      "summary": "Analyzing Nba Data: USA women win fifth basketball World Cup in a row — What the Numbers Say TL;DR: The United States trailed by 14 points in Berlin on Sunday and still won a World Cup final by 18. Br",
       "score": 5,
-      "titleZh": "demo trading metrics: Guida trading AI"
-    },
-    {
-      "title": "Supio's Long-Horizon Agents: Redefining Law Firm O…",
-      "link": "https://dev.to/norviktech/supios-long-horizon-agents-redefining-law-firm-o-24ff",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 14 Sep 2026 16:06:00 +0000",
-      "summary": "Originally published at norvik.tech Explore how Supio's long-horizon agents are transforming operational models for law firms and what it means for tech development. Supio's long-horizon agents repres",
-      "score": 5,
-      "titleZh": "Supio's Long-Horizon Agents: Redefining Law Firm O…"
-    },
-    {
-      "title": "pip value calculator AI: Guía de trading IA",
-      "link": "https://dev.to/meridiantrade/pip-value-calculator-ai-guia-de-trading-ia-3ice",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 14 Sep 2026 16:05:36 +0000",
-      "summary": "pip value calculator AI: Guía de trading IA Originally published at https://meridiantradeai.com/es/blog/pip-value-position-ai/ — canonical URL for SEO. Guía sobre trading automatizado con IA. Pip valu",
-      "score": 5,
-      "titleZh": "pip value calculator AI: Guía de trading IA"
-    },
-    {
-      "title": "Embedding Claude-SEO Skills into Next.js 16: An Open-Source Technical Audit Blueprint",
-      "link": "https://dev.to/sameer_hassan/embedding-claude-seo-skills-into-nextjs-16-an-open-source-technical-audit-blueprint-4lhp",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 14 Sep 2026 16:02:32 +0000",
-      "summary": "The popular AgriciDaniel/claude-seo project demonstrated that modern AI models, when equipped with specialized domain prompts and systematic heuristics, can execute SEO audits comparable to senior tec",
-      "score": 5,
-      "titleZh": "Embedding Claude-SEO Skills into Next.js 16: An Open-Source Technical Audit Blueprint"
+      "titleZh": "Analyzing Nba Data: USA women win fifth basketball World Cup in a row — What the Numbers Say"
     }
   ]
 }
