@@ -1,10 +1,106 @@
 {
-  "updated": "2026-09-15T14:38:36.005Z",
-  "date": "2026-09-15",
+  "updated": "2026-09-16T03:22:33.708Z",
+  "date": "2026-09-16",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 14 Sep 2026 21:15:01 +0000",
+      "summary": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132",
+      "score": 505,
+      "titleZh": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 15 Sep 2026 17:38:18 +0000",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947",
+      "score": 331,
+      "titleZh": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+    },
+    {
+      "title": "Open Source Appreciation Post",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post/",
+      "source": "Reddit LLaMA",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-16T01:20:59.000Z",
+      "summary": "It's late at night in the lab, I've been working on a basic script for a virology project, and holy hell the safeguards have been pissing me off. Mirroring detectEVE data over rsync to my laptop by ma",
+      "score": 40,
+      "titleZh": "Open Source Appreciation Post"
+    },
+    {
+      "title": "Don’t buy a $9K RTX 5090.... instead.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead/",
+      "source": "Reddit LLaMA",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-15T22:36:44.000Z",
+      "summary": "Fly to Taipei. Round-trip from Orlando: $1,081. Go to the largest retailer in Taiwan to Spend NT$129,990 ≈ US$4,093. Hang out in Taiwan for two weeks. Eat good food. Touch international grass. Fly hom",
+      "score": 40,
+      "titleZh": "Don’t buy a $9K RTX 5090.... instead."
+    },
+    {
+      "title": "Apple Foundation Models: local AI natively on MacOS 27",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on/",
+      "source": "Reddit LLaMA",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-15T16:37:28.000Z",
+      "summary": "Maybe some of you know but I didn’t see any post about this. Apple just made available their AFM model on MacOS 27 natively. Just run fm chat in a terminal. Disclaimer: I’m an open weight person. I pr",
+      "score": 40,
+      "titleZh": "Apple Foundation Models: local AI natively on MacOS 27"
+    },
+    {
+      "title": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5elt/cut_qwen3827b_reasoning_tokens_by_40_38/",
+      "source": "Reddit LLaMA",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-15T16:36:21.000Z",
+      "summary": "EDIT: Sorry for the unclear title. This model is UkisAI's Swift-Qwen3.8-27B, not a new version of BottleCap AI's 3.6-ThinkingCap. All credit goes to UkisAI for making great fine-tune, and I made this ",
+      "score": 40,
+      "titleZh": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!"
+    },
+    {
+      "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-15T16:18:50.000Z",
+      "summary": "Prior Labs released their latest tabular foundation model, TabPFN-3.5 today. The model is top of both TabArena and BeyondArena and SOTA for 1M rows and up to 20k features It comes with: - TabPFN-3.5-F",
+      "score": 40,
+      "titleZh": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]"
+    },
+    {
+      "title": "Koboldcpp v1.121 released",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/",
+      "source": "Reddit LLaMA",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-15T15:57:35.000Z",
+      "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+      "score": 40,
+      "titleZh": "Koboldcpp v1.121 released"
+    },
     {
       "title": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
@@ -30,220 +126,124 @@
       "titleZh": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]"
     },
     {
-      "title": "How much work in progress can a workshop submission be [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
-      "source": "Reddit ML",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "link": "https://withcapsule.app/",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-09-15T09:13:12.000Z",
-      "summary": "Hi, let's suppose I am working on an algorithm that uses principles x to solve problems A and B. I already implemented a very basic algorithm that used principle \"x mini\" to just solve problem A, ran ",
-      "score": 40,
-      "titleZh": "How much work in progress can a workshop submission be [R]"
+      "date": "Tue, 15 Sep 2026 13:31:40 +0000",
+      "summary": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months,",
+      "score": 295,
+      "titleZh": "Show HN: Capsule – Single-file web apps that save their data into SQLite"
     },
     {
-      "title": "[D] How do you get preprocessed dataset of a paper [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgutx6/d_how_do_you_get_preprocessed_dataset_of_a_paper_d/",
-      "source": "Reddit ML",
+      "title": "Weatherstack — Real-time & historical world weather data API",
+      "link": "https://dev.to/nick_davies_323125afbb05c/weatherstack-real-time-historical-world-weather-data-api-6a",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-09-15T08:50:58.000Z",
-      "summary": "Hi all, I'm trying to reproduce a paper where the reported dataset statistics in Table 1 don't match what I get from the public raw data, even after implementing the preprocessing exactly as described",
-      "score": 40,
-      "titleZh": "[D] How do you get preprocessed dataset of a paper [D]"
-    },
-    {
-      "title": "RSI is not happening [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-14T18:03:41.000Z",
-      "summary": "A new paper (I'm not a coauthor BTW -- I just found it interesting) argues, basically, that RSI1 is not on the horizon2, because current (at the time the study was done) agents cannot do open-ended ML",
-      "score": 40,
-      "titleZh": "RSI is not happening [R]"
-    },
-    {
-      "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-13T18:01:03.000Z",
-      "summary": "EDIT: Thanks from the Waymo AI Team! A huge thank you to the r/MachineLearning community for all the thoughtful, deep-dive questions today. If you want to dive deeper into our technical research, chec",
-      "score": 40,
-      "titleZh": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]"
-    },
-    {
-      "title": "Teach ML! Community service project from Stanford [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-09T07:54:14.000Z",
-      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
-      "score": 40,
-      "titleZh": "Teach ML! Community service project from Stanford [N]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "date": "Wed, 16 Sep 2026 03:14:14 +0000",
+      "summary": "Looking for a reliable weather API? Weatherstack might be exactly what you need. Real-time, historical, and forecast weather data for any location. Covers temperature, wind, humidity, pressure, UV ind",
       "score": 5,
-      "titleZh": "New insights from Google’s AI & Economy ATLAS"
+      "titleZh": "Weatherstack — Real-time & historical world weather data API"
     },
     {
-      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-      "source": "AI News",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 15 Sep 2026 11:15:57 +0000",
-      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy ri",
-      "score": 5,
-      "titleZh": "Pony.ai unveils autonomous electric truck for logistics fleets"
-    },
-    {
-      "title": "React interview practice: explain a stale search result before fixing it",
-      "link": "https://dev.to/rwadile/react-interview-practice-explain-a-stale-search-result-before-fixing-it-4i7b",
+      "title": "A Minimal Client-Side Link Safety Checker Without Tracking Users",
+      "link": "https://dev.to/xingchen6264ops/a-minimal-client-side-link-safety-checker-without-tracking-users-3fe3",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 15 Sep 2026 14:35:57 +0000",
-      "summary": "A user searches for “react”, then quickly changes the search to “react hooks”. The second request finishes first. A moment later, results for the older search replace the current results. The network ",
+      "date": "Wed, 16 Sep 2026 03:12:19 +0000",
+      "summary": "When a site links to third-party destinations, a small pre-navigation check can reduce accidental exposure without collecting browsing history. This tutorial builds a lightweight checker that runs ent",
       "score": 5,
-      "titleZh": "React interview practice: explain a stale search result before fixing it"
+      "titleZh": "A Minimal Client-Side Link Safety Checker Without Tracking Users"
     },
     {
-      "title": "Build a Business With AI Bots",
-      "link": "https://dev.to/orion_vance/build-a-business-with-ai-bots-3224",
+      "title": "Migraciones en Laravel - Convención de Nombres",
+      "link": "https://dev.to/javier_ee5cb8a318b2596536/migraciones-en-laravel-convencion-de-nombres-1042",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 15 Sep 2026 14:34:27 +0000",
-      "summary": "👉 AI Bot helped to earn $6,596 in 7 days: https://srt3.com/InYeQ I’ve been thinking about something that could completely change the way we work with AI… Most of us use AI like this: Ask a question →",
+      "date": "Wed, 16 Sep 2026 03:12:07 +0000",
+      "summary": "Uno de los aspectos más difíciles en el mundo del desarrollo es elegir un nombre apropiado para los diferentes elementos que componen nuestro código: variables, clases, funciones, interfaces, etc, lo ",
       "score": 5,
-      "titleZh": "Build a Business With AI Bots"
+      "titleZh": "Migraciones en Laravel - Convención de Nombres"
     },
     {
-      "title": "AI trends 2026: What will build your business and what could break it",
-      "link": "https://dev.to/tobyskt2/ai-trends-2026-what-will-build-your-business-and-what-could-break-it-26nj",
+      "title": "Google Search Results (~$0.05/1K Results) — 10K Users Can't Be Wrong",
+      "link": "https://dev.to/nick_davies_323125afbb05c/google-search-results-0051k-results-10k-users-cant-be-wrong-14ld",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 15 Sep 2026 14:34:04 +0000",
-      "summary": "Artificial intelligence continues to reshape how companies operate, but adopting every new technology is rarely a good strategy. In 2026, the focus is shifting from experimentation toward practical ap",
+      "date": "Wed, 16 Sep 2026 03:09:03 +0000",
+      "summary": "Are you spending hours writing custom scrapers? There's probably an actor for that already. 🔥 ~$0.05/1K results ($0.50/1,000 SERPs) 🔥 CHEAPEST Google Search Results (SERP) Scraper with real-time SER",
       "score": 5,
-      "titleZh": "AI trends 2026: What will build your business and what could break it"
+      "titleZh": "Google Search Results (~$0.05/1K Results) — 10K Users Can't Be Wrong"
     },
     {
-      "title": "Visual Friction Bounding Boxes: The Mathematics of Calculating Real Dollar Loss on Web Forms",
-      "link": "https://dev.to/sameer_hassan/visual-friction-bounding-boxes-the-mathematics-of-calculating-real-dollar-loss-on-web-forms-509n",
+      "title": "Analyzing Football Data: Unplayable & almost perfect Calvert-Lewin set for England recall? — What the Numbers Say",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/analyzing-football-data-unplayable-almost-perfect-calvert-lewin-set-for-england-recall-what-30mj",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 15 Sep 2026 14:32:12 +0000",
-      "summary": "Whenever a design or product team tells engineers: \"The checkout page feels a bit clunky, can we make it cleaner?\", engineering usually responds with: \"What specifically needs to change, and what is t",
+      "date": "Wed, 16 Sep 2026 03:06:46 +0000",
+      "summary": "Analyzing Football Data: Unplayable & almost perfect Calvert-Lewin set for England recall? — What the Numbers Say TL;DR: `html Dominic Calvert-Lewin left the Elland Road pitch on Monday night to a sta",
       "score": 5,
-      "titleZh": "Visual Friction Bounding Boxes: The Mathematics of Calculating Real Dollar Loss on Web Forms"
+      "titleZh": "Analyzing Football Data: Unplayable & almost perfect Calvert-Lewin set for England recall? — What the Numbers Say"
     },
     {
-      "title": "Container Queries Are Here and They're a Game Changer",
-      "link": "https://dev.to/letusai15/container-queries-are-here-and-theyre-a-game-changer-7fb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 15 Sep 2026 14:30:00 +0000",
-      "summary": "Media queries have always felt wrong — why does a sidebar card care about the browser window width? Container queries solve this elegantly and they're now supported everywhere. For years, we hacked ar",
-      "score": 5,
-      "titleZh": "Container Queries Are Here and They're a Game Changer"
-    },
-    {
-      "title": "The URL on the flyer doesn't know your app changed",
-      "link": "https://dev.to/goodbarber/the-url-on-the-flyer-doesnt-know-your-app-changed-9kn",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 15 Sep 2026 14:29:50 +0000",
-      "summary": "A link leaves your system the moment it's printed. The QR code on a restaurant's counter card, the URL at the bottom of a club's poster, the link a shop put on its packaging three seasons ago — none o",
-      "score": 5,
-      "titleZh": "The URL on the flyer doesn't know your app changed"
-    },
-    {
-      "title": "I Automated Cross-Posting to 5 Platforms and Broke 3 Things",
-      "link": "https://dev.to/techlabautodev/i-automated-cross-posting-to-5-platforms-and-broke-3-things-772",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 15 Sep 2026 14:29:28 +0000",
-      "summary": "Last month I built a small pipeline that takes one draft and publishes it to five platforms with per-site formatting. The idea was to write once, publish everywhere. What I got instead was three disti",
-      "score": 5,
-      "titleZh": "I Automated Cross-Posting to 5 Platforms and Broke 3 Things"
-    },
-    {
-      "title": "Building a Maintainable PrestaShop Store: Architecture, Performance, and Developer Practices",
-      "link": "https://dev.to/peter0001/building-a-maintainable-prestashop-store-architecture-performance-and-developer-practices-24jc",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 15 Sep 2026 14:27:44 +0000",
-      "summary": "Building an online store is not only about creating product pages and adding a payment gateway. As an eCommerce application grows, the codebase can become difficult to maintain if the project is not s",
-      "score": 5,
-      "titleZh": "Building a Maintainable PrestaShop Store: Architecture, Performance, and Developer Practices"
-    },
-    {
-      "title": "React: rendimiento que también se puede usar",
-      "link": "https://dev.to/silviutech/react-rendimiento-que-tambien-se-puede-usar-4dda",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 15 Sep 2026 14:22:59 +0000",
-      "summary": "Cuando se habla de rendimiento frontend, casi siempre aparecen los mismos números: tiempo de carga, tamaño del bundle y Core Web Vitals. Son útiles, pero no cuentan toda la historia. Una pantalla pued",
-      "score": 5,
-      "titleZh": "React: rendimiento que también se puede usar"
-    },
-    {
-      "title": "3 More Free Web Hosting Solutions for Static and Dynamic Sites",
-      "link": "https://dev.to/anticoder03/3-more-free-web-hosting-solutions-for-static-and-dynamic-sites-2e7c",
+      "title": "Why Zverev caps transformational year with US Open triumph Matters for Sports Data Engineers",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/why-zverev-caps-transformational-year-with-us-open-triumph-matters-for-sports-data-engineers-19l2",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 15 Sep 2026 14:21:44 +0000",
-      "summary": "3 More Free Web Hosting Solutions for Static and Dynamic Sites In my previous article, “10 Free Web Hosting Solutions for Static and Dynamic Sites,” I covered several platforms that developers can use",
+      "date": "Wed, 16 Sep 2026 03:06:32 +0000",
+      "summary": "Why Zverev caps transformational year with US Open triumph Matters for Sports Data Engineers TL;DR: Alexander Zverev was so deep inside the match that he did not notice he had won it. After striking t",
       "score": 5,
-      "titleZh": "3 More Free Web Hosting Solutions for Static and Dynamic Sites"
+      "titleZh": "Why Zverev caps transformational year with US Open triumph Matters for Sports Data Engineers"
+    },
+    {
+      "title": "Why Why Pietersen will add unfiltered challenge that England need Finn Matters for Sports Data Engineers",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/why-why-pietersen-will-add-unfiltered-challenge-that-england-need-finn-matters-for-sports-data-55h6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 16 Sep 2026 03:06:05 +0000",
+      "summary": "Why Why Pietersen will add unfiltered challenge that England need Finn Matters for Sports Data Engineers TL;DR: Kevin Pietersen pulled on an England shirt at the Rose Bowl on Monday for the first time",
+      "score": 5,
+      "titleZh": "Why Why Pietersen will add unfiltered challenge that England need Finn Matters for Sports Data Engineers"
+    },
+    {
+      "title": "Analyzing the Agent Economy: What the Forecasts Re…",
+      "link": "https://dev.to/norviktech/analyzing-the-agent-economy-what-the-forecasts-re-1jmk",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 16 Sep 2026 03:05:54 +0000",
+      "summary": "Originally published at norvik.tech Deep dive into the agent economy forecasts, exploring implications for businesses and technology development. The agent economy refers to the ecosystem where autono",
+      "score": 5,
+      "titleZh": "Analyzing the Agent Economy: What the Forecasts Re…"
+    },
+    {
+      "title": "Building Resilient Edge Agents with LBH: A PWA Heartbeat System Running on Android",
+      "link": "https://dev.to/thrumanshow/building-resilient-edge-agents-with-lbh-a-pwa-heartbeat-system-running-on-android-51m",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 16 Sep 2026 03:05:45 +0000",
+      "summary": "Most edge demos look great on a laptop. They tend to fall apart the moment you put them on a real Android phone, switch apps, or lock the screen. I'm currently building HormigasAIS, a lightweight edge",
+      "score": 5,
+      "titleZh": "Building Resilient Edge Agents with LBH: A PWA Heartbeat System Running on Android"
     }
   ]
 }
