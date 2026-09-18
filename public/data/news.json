@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T03:14:17.176Z",
+  "updated": "2026-09-18T14:06:26.651Z",
   "date": "2026-09-18",
   "count": 20,
   "aiCount": 10,
@@ -14,32 +14,104 @@
       ],
       "date": "Thu, 17 Sep 2026 20:36:13 +0000",
       "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163",
-      "score": 335,
+      "score": 532,
       "titleZh": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
     },
     {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "link": "https://mysetup.ai/",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 17 Sep 2026 13:01:44 +0000",
-      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out t",
-      "score": 198,
-      "titleZh": "Show HN: Share your AI Setup, Learn from others"
+      "date": "Fri, 18 Sep 2026 09:45:07 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/i",
+      "score": 474,
+      "titleZh": "Microsoft exec called AI scraping 'the largest theft of labor in human history'"
     },
     {
-      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "link": "https://news.ycombinator.com/item?id=49743049",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "link": "https://www.hacktron.ai/blog/hacking-openai",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 17 Sep 2026 16:22:15 +0000",
-      "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync (https://skillsync.com) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are current",
-      "score": 52,
-      "titleZh": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents"
+      "date": "Fri, 18 Sep 2026 02:47:24 +0000",
+      "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656",
+      "score": 389,
+      "titleZh": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070",
+      "score": 228,
+      "titleZh": "How to Write with an LLM"
+    },
+    {
+      "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-18T12:36:07.000Z",
+      "summary": "Github repo : https://github.com/YouCele/nhanes-chd-classification I built a project that predicts self-reported, physician-diagnosed coronary heart disease using four cycles of NHANES data (2011-2012",
+      "score": 40,
+      "titleZh": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]"
+    },
+    {
+      "title": "How competitive are journals compared to top ai conferences? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-18T11:36:57.000Z",
+      "summary": "Hi everyone, The NeurIPS results aren’t out yet, but I’m expecting my paper to be rejected, so I’m considering submitting it to a journal instead. My scores were 2/3/3 (3/4/4). I feel like I would pro",
+      "score": 40,
+      "titleZh": "How competitive are journals compared to top ai conferences? [D]"
+    },
+    {
+      "title": "augmenting large datasets to have more edge case data for training [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-18T11:24:11.000Z",
+      "summary": "I have this idea I'd like feedback on. most camera footage for training, is sunny daytime, because that's what cameras record most of the time. The edge cases models actually struggles with, like nigh",
+      "score": 40,
+      "titleZh": "augmenting large datasets to have more edge case data for training [D]"
+    },
+    {
+      "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-18T10:01:58.000Z",
+      "summary": "I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget — and I'd rather hear that it's already set",
+      "score": 40,
+      "titleZh": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]"
+    },
+    {
+      "title": "AAAI-27 Phase 1 Results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-18T05:36:32.000Z",
+      "summary": "AAAI-27 Phase 1 results are expected on September 24. Anyone else waiting for the decision? Would be useful to keep this thread for updates when people start receiving notifications. submitted by /u/B",
+      "score": 40,
+      "titleZh": "AAAI-27 Phase 1 Results [D]"
     },
     {
       "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
@@ -54,196 +126,124 @@
       "titleZh": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]"
     },
     {
-      "title": "ICLR 2027 Edits Allowance [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-17T11:25:00.000Z",
-      "summary": "Can we edit our title, abstract and other details till the main paper submission deadline? submitted by /u/CplusplusSupremacy [link] [comments]",
-      "score": 40,
-      "titleZh": "ICLR 2027 Edits Allowance [D]"
-    },
-    {
-      "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-16T23:20:58.000Z",
-      "summary": "You can read more here: https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0 The results are (imho) concerning. Taken from the article: Of the ten submissions: Authors of one",
-      "score": 40,
-      "titleZh": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]"
-    },
-    {
-      "title": "Question about TMLR [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-16T21:26:05.000Z",
-      "summary": "I have a submission under review in TMLR. Less than a month after submission, I have already received 2 reviews. However, a month has passed since those two reviews, and I still haven't received the t",
-      "score": 40,
-      "titleZh": "Question about TMLR [D]"
-    },
-    {
-      "title": "GoBench: Evaluating LLMs on the game of Go [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-16T18:54:35.000Z",
-      "summary": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman. It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0.83 correlation), ",
-      "score": 40,
-      "titleZh": "GoBench: Evaluating LLMs on the game of Go [R]"
-    },
-    {
-      "title": "LARA: small, composable behaviours for frozen LLMs [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-16T13:28:40.000Z",
-      "summary": "GitHub: https://github.com/pfekin/LARA I've been working on LARA (Lightweight Additive Residual Adaptation), a research project on making post-training modular for frozen language models. I've also de",
-      "score": 40,
-      "titleZh": "LARA: small, composable behaviours for frozen LLMs [P]"
-    },
-    {
-      "title": "Teach ML! Community service project from Stanford [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-09T07:54:14.000Z",
-      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
-      "score": 40,
-      "titleZh": "Teach ML! Community service project from Stanford [N]"
-    },
-    {
-      "title": "Fixing Laravel PHP 8.5 Deprecation Warnings: A Practical Dependency Debugging Guide",
-      "link": "https://dev.to/vincenttommi/fixing-laravel-php-85-deprecation-warnings-a-practical-dependency-debugging-guide-30jp",
+      "title": "A full motion design studio in a browser tab, free, on Mac, Windows, Linux and iPad",
+      "link": "https://dev.to/codeideal/a-full-motion-design-studio-in-a-browser-tab-free-on-mac-windows-linux-and-ipad-1b03",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:12:06 +0000",
-      "summary": "Upgrading PHP can expose compatibility problems in older Laravel projects. I recently encountered this while running a Laravel 10 application on PHP 8.5.4. The application was working, but the termina",
+      "date": "Fri, 18 Sep 2026 14:01:59 +0000",
+      "summary": "AtomCut is a free motion design and video editor that runs in the browser: a Figma-style infinite canvas with a real multi-track timeline underneath it, in one window, with no account and no install. ",
       "score": 5,
-      "titleZh": "Fixing Laravel PHP 8.5 Deprecation Warnings: A Practical Dependency Debugging Guide"
+      "titleZh": "A full motion design studio in a browser tab, free, on Mac, Windows, Linux and iPad"
     },
     {
-      "title": "ทดสอบ Claude Code, Codex และ Antigravity สร้างเว็บเดียวกัน ใครชนะ",
-      "link": "https://dev.to/sarantoon/thdsb-claude-code-codex-aela-antigravity-sraangewbediiywkan-aikhrchna-4aj5",
+      "title": "Rebuilding Encarta showed me exactly where AI-written code breaks",
+      "link": "https://dev.to/jlmartel/rebuilding-encarta-showed-me-exactly-where-ai-written-code-breaks-3oj0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:12:00 +0000",
-      "summary": "ทดสอบ Claude Code, Codex และ Antigravity สร้างเว็บเดียวกัน ใครชนะ โดย Nokka (นก-กา) | 15 กันยายน 2026 บทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จา",
+      "date": "Fri, 18 Sep 2026 14:01:00 +0000",
+      "summary": "The bug that froze the window was type-correct. It compiled, cargo check passed, the tests passed, and the operating system reported the application as not responding. It was a Save As dialog called t",
       "score": 5,
-      "titleZh": "ทดสอบ Claude Code, Codex และ Antigravity สร้างเว็บเดียวกัน ใครชนะ"
+      "titleZh": "Rebuilding Encarta showed me exactly where AI-written code breaks"
     },
     {
-      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
-      "link": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-4bo4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 03:10:46 +0000",
-      "summary": "If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scraper Streamers 4.8 1",
-      "score": 5,
-      "titleZh": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?"
-    },
-    {
-      "title": "Analyzing Formula 1 Data: Verstappen passes 100 amateur karters in 14 laps in exhibition race — What the Numbers Say",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/analyzing-formula-1-data-verstappen-passes-100-amateur-karters-in-14-laps-in-exhibition-race--6lj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 03:07:20 +0000",
-      "summary": "Analyzing Formula 1 Data: Verstappen passes 100 amateur karters in 14 laps in exhibition race — What the Numbers Say TL;DR: Max Verstappen needed 14 laps and 35 minutes to overtake 100 amateur drivers",
-      "score": 5,
-      "titleZh": "Analyzing Formula 1 Data: Verstappen passes 100 amateur karters in 14 laps in exhibition race — What the Numbers Say"
-    },
-    {
-      "title": "How I Built a Real-Time Cricket Stats Tracker: Englands Donald ready to savour Welsh homecoming",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-cricket-stats-tracker-englands-donald-ready-to-savour-welsh-homecoming-59jh",
+      "title": "🚀 Free tool alert: Base64 🧰 (Free · No Signup)",
+      "link": "https://dev.to/codepackr/free-tool-alert-base64-free-no-signup-17og",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:06:53 +0000",
-      "summary": "How I Built a Real-Time Cricket Stats Tracker: Englands Donald ready to savour Welsh homecoming TL;DR: Story verified against Sky Sports, ESPNcricinfo, Wikipedia and match reports — Donald is real, de",
+      "date": "Fri, 18 Sep 2026 14:00:16 +0000",
+      "summary": "Hey folks 👋 Need a fast Base64 encoder/decoder? I built a free online one on CodePackr. Encode and decode Base64 in one click Great when you're dealing with tokens, files, and data URIs Flow: encode ",
       "score": 5,
-      "titleZh": "How I Built a Real-Time Cricket Stats Tracker: Englands Donald ready to savour Welsh homecoming"
+      "titleZh": "🚀 Free tool alert: Base64 🧰 (Free · No Signup)"
     },
     {
-      "title": "How I Built a Real-Time Tennis Stats Tracker: Six-time Grand Slam champion Salisbury retires",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-tennis-stats-tracker-six-time-grand-slam-champion-salisbury-retires-36g1",
+      "title": "Build a Dispatch Command Centre with ToolJet MCP",
+      "link": "https://dev.to/tooljet/build-a-dispatch-command-centre-with-tooljet-mcp-233c",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 18 Sep 2026 13:59:37 +0000",
+      "summary": "Introduction You build a dispatch command centre with ToolJet MCP for a regional broadband operator when technician locations, open jobs, and outage zones all change at once. The result is a structure",
+      "score": 5,
+      "titleZh": "Build a Dispatch Command Centre with ToolJet MCP"
+    },
+    {
+      "title": "🙌 Free online utility: Connection String Parser 🧰 (Free · No Signup)",
+      "link": "https://dev.to/codepackr/free-online-utility-connection-string-parser-free-no-signup-24bh",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:06:39 +0000",
-      "summary": "How I Built a Real-Time Tennis Stats Tracker: Six-time Grand Slam champion Salisbury retires TL;DR: Joe Salisburys last act as a professional was a 6-3, 6-4 defeat by Kevin Krawietz and Tim Pütz in th",
+      "date": "Fri, 18 Sep 2026 13:59:25 +0000",
+      "summary": "Hey folks 👋 Need a fast Connection String Parser? I built a free online one on CodePackr. Break down DB connection strings safely Great when you're dealing with debugging Postgres/MySQL/SQL Server UR",
       "score": 5,
-      "titleZh": "How I Built a Real-Time Tennis Stats Tracker: Six-time Grand Slam champion Salisbury retires"
+      "titleZh": "🙌 Free online utility: Connection String Parser 🧰 (Free · No Signup)"
     },
     {
-      "title": "I Scraped 100 Sports Matches — Here Is What I Found: Kostyuk into Guadalajara last eight without playing a point",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-kostyuk-into-guadalajara-last-eight-without-38oh",
-      "source": "Dev.to WebDev",
+      "title": "🧰 Keep this in your tab bar: JS Minifier 🧰 (Free · No Signup)",
+      "link": "https://dev.to/codepackr/keep-this-in-your-tab-bar-js-minifier-free-no-signup-1nnm",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:06:12 +0000",
-      "summary": "I Scraped 100 Sports Matches — Here Is What I Found: Kostyuk into Guadalajara last eight without playing a point TL;DR: Verified across five sources — the story is real, and the detail is stronger tha",
+      "date": "Fri, 18 Sep 2026 13:58:33 +0000",
+      "summary": "Hey folks 👋 Need a fast JS Minifier? I built a free online one on CodePackr. Minify JavaScript to shrink payloads Great when you're dealing with shipping smaller front-end bundles Flow: paste → minif",
       "score": 5,
-      "titleZh": "I Scraped 100 Sports Matches — Here Is What I Found: Kostyuk into Guadalajara last eight without playing a point"
+      "titleZh": "🧰 Keep this in your tab bar: JS Minifier 🧰 (Free · No Signup)"
     },
     {
-      "title": "In-Depth Analysis: Noetive's $41M Launch in AI for…",
-      "link": "https://dev.to/norviktech/in-depth-analysis-noetives-41m-launch-in-ai-for-2mjd",
-      "source": "Dev.to WebDev",
+      "title": "Free Next.js Cursor Rules and Agent Config Starter Pack",
+      "link": "https://dev.to/vildandenai/free-nextjs-cursor-rules-and-agent-config-starter-pack-372k",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:05:58 +0000",
-      "summary": "Originally published at norvik.tech Explore Noetive's innovative approach to self-improving AI in factories and logistics, and its implications for the industry. Noetive recently announced a significa",
+      "date": "Fri, 18 Sep 2026 13:58:10 +0000",
+      "summary": "If you are starting a Next.js App Router project, a small set of practical AI coding rules can make every prompt more consistent. The free Vildanden Agent Config sample includes a ready-to-copy AGENTS",
       "score": 5,
-      "titleZh": "In-Depth Analysis: Noetive's $41M Launch in AI for…"
+      "titleZh": "Free Next.js Cursor Rules and Agent Config Starter Pack"
     },
     {
-      "title": "How to Add IP Geolocation to Your App in 5 Minutes",
-      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-add-ip-geolocation-to-your-app-in-5-minutes-1cj5",
-      "source": "Dev.to WebDev",
+      "title": "💡 One-click helper: YAML Formatter 🧰 (Free · No Signup)",
+      "link": "https://dev.to/codepackr/one-click-helper-yaml-formatter-free-no-signup-4n3p",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:05:34 +0000",
-      "summary": "Know where your users are — without asking them. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's a middle groun",
+      "date": "Fri, 18 Sep 2026 13:57:28 +0000",
+      "summary": "Hey folks 👋 Need a fast YAML Formatter? I built a free online one on CodePackr. Clean YAML for configs and CI Great when you're dealing with Kubernetes manifests and app configs Flow: paste → format ",
       "score": 5,
-      "titleZh": "How to Add IP Geolocation to Your App in 5 Minutes"
+      "titleZh": "💡 One-click helper: YAML Formatter 🧰 (Free · No Signup)"
     },
     {
-      "title": "When the Gateway Goes Dark: Postmortem of an AI Gateway Channel Eviction",
-      "link": "https://dev.to/power_zhong/when-the-gateway-goes-dark-postmortem-of-an-ai-gateway-channel-eviction-598i",
-      "source": "Dev.to React",
+      "title": "Dynamic Schema.org & JSON-LD Entity Graphs: Making Your App Machine-Readable for AI Crawlers",
+      "link": "https://dev.to/sameer_hassan/dynamic-schemaorg-json-ld-entity-graphs-making-your-app-machine-readable-for-ai-crawlers-51ap",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 03:03:06 +0000",
-      "summary": "At 3:18 AM, our automated UI generation pipeline stalled, triggering an on-call alert that every solo SaaS founder dreads: user conversion queues were backing up, payment webhooks were hanging, and cl",
+      "date": "Fri, 18 Sep 2026 13:57:23 +0000",
+      "summary": "Most web developers treat JSON-LD and Schema.org as an afterthought—maybe pasting a static <script type=\"application/ld+json\"> on their homepage and forgetting about it. In the era of Generative AI Se",
       "score": 5,
-      "titleZh": "When the Gateway Goes Dark: Postmortem of an AI Gateway Channel Eviction"
+      "titleZh": "Dynamic Schema.org & JSON-LD Entity Graphs: Making Your App Machine-Readable for AI Crawlers"
+    },
+    {
+      "title": "🔥 Built for busy builders: XML Formatter 🧰 (Free · No Signup)",
+      "link": "https://dev.to/codepackr/built-for-busy-builders-xml-formatter-free-no-signup-3ofa",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 18 Sep 2026 13:55:02 +0000",
+      "summary": "Hey folks 👋 Need a fast XML Formatter? I built a free online one on CodePackr. Indent and clarify XML documents Great when you're dealing with SOAP, configs, and EDI-adjacent XML Flow: paste → format",
+      "score": 5,
+      "titleZh": "🔥 Built for busy builders: XML Formatter 🧰 (Free · No Signup)"
     }
   ]
 }
