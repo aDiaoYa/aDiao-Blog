@@ -1,249 +1,249 @@
 {
-  "updated": "2026-09-16T03:22:33.708Z",
-  "date": "2026-09-16",
+  "updated": "2026-09-18T03:14:17.176Z",
+  "date": "2026-09-18",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "link": "https://www.effort.news/irregular",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 14 Sep 2026 21:15:01 +0000",
-      "summary": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132",
-      "score": 505,
-      "titleZh": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals"
+      "date": "Thu, 17 Sep 2026 20:36:13 +0000",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163",
+      "score": 335,
+      "titleZh": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
     },
     {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "link": "https://mysetup.ai/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 15 Sep 2026 17:38:18 +0000",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947",
-      "score": 331,
-      "titleZh": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      "date": "Thu, 17 Sep 2026 13:01:44 +0000",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out t",
+      "score": 198,
+      "titleZh": "Show HN: Share your AI Setup, Learn from others"
     },
     {
-      "title": "Open Source Appreciation Post",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post/",
-      "source": "Reddit LLaMA",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "link": "https://news.ycombinator.com/item?id=49743049",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-16T01:20:59.000Z",
-      "summary": "It's late at night in the lab, I've been working on a basic script for a virology project, and holy hell the safeguards have been pissing me off. Mirroring detectEVE data over rsync to my laptop by ma",
-      "score": 40,
-      "titleZh": "Open Source Appreciation Post"
+      "date": "Thu, 17 Sep 2026 16:22:15 +0000",
+      "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync (https://skillsync.com) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are current",
+      "score": 52,
+      "titleZh": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents"
     },
     {
-      "title": "Don’t buy a $9K RTX 5090.... instead.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead/",
-      "source": "Reddit LLaMA",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-15T22:36:44.000Z",
-      "summary": "Fly to Taipei. Round-trip from Orlando: $1,081. Go to the largest retailer in Taiwan to Spend NT$129,990 ≈ US$4,093. Hang out in Taiwan for two weeks. Eat good food. Touch international grass. Fly hom",
-      "score": 40,
-      "titleZh": "Don’t buy a $9K RTX 5090.... instead."
-    },
-    {
-      "title": "Apple Foundation Models: local AI natively on MacOS 27",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on/",
-      "source": "Reddit LLaMA",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-15T16:37:28.000Z",
-      "summary": "Maybe some of you know but I didn’t see any post about this. Apple just made available their AFM model on MacOS 27 natively. Just run fm chat in a terminal. Disclaimer: I’m an open weight person. I pr",
-      "score": 40,
-      "titleZh": "Apple Foundation Models: local AI natively on MacOS 27"
-    },
-    {
-      "title": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5elt/cut_qwen3827b_reasoning_tokens_by_40_38/",
-      "source": "Reddit LLaMA",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-15T16:36:21.000Z",
-      "summary": "EDIT: Sorry for the unclear title. This model is UkisAI's Swift-Qwen3.8-27B, not a new version of BottleCap AI's 3.6-ThinkingCap. All credit goes to UkisAI for making great fine-tune, and I made this ",
-      "score": 40,
-      "titleZh": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!"
-    },
-    {
-      "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
+      "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-15T16:18:50.000Z",
-      "summary": "Prior Labs released their latest tabular foundation model, TabPFN-3.5 today. The model is top of both TabArena and BeyondArena and SOTA for 1M rows and up to 20k features It comes with: - TabPFN-3.5-F",
+      "date": "2026-09-17T21:55:47.000Z",
+      "summary": "I'm at a crossroads with two grad school options that would take me in somewhat different research directions, and I wanted some general advice on these fields, their growth, and industry alignment. I",
       "score": 40,
-      "titleZh": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]"
+      "titleZh": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]"
     },
     {
-      "title": "Koboldcpp v1.121 released",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/",
-      "source": "Reddit LLaMA",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-15T15:57:35.000Z",
-      "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
-      "score": 40,
-      "titleZh": "Koboldcpp v1.121 released"
-    },
-    {
-      "title": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
+      "title": "ICLR 2027 Edits Allowance [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-15T13:48:40.000Z",
-      "summary": "There has been a recent post acknowledging that NeurIPS passes for Sydney sold out in minutes. For paper authors (guaranteed 1 pass at their designated location) — we recently received forms to select",
+      "date": "2026-09-17T11:25:00.000Z",
+      "summary": "Can we edit our title, abstract and other details till the main paper submission deadline? submitted by /u/CplusplusSupremacy [link] [comments]",
       "score": 40,
-      "titleZh": "NeurIPS 2026: handling of multiple venue locations seems bad [D]"
+      "titleZh": "ICLR 2027 Edits Allowance [D]"
     },
     {
-      "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
+      "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-15T12:59:37.000Z",
-      "summary": "Three weeks back , i posted SHADOW-250M here. It got 360 upvotes, 293 on r/LocalLLaMA and 94 GitHub stars. Thank you. That model was 60 MB, ran around 400 tok/s on CPU and could retrieve records from ",
+      "date": "2026-09-16T23:20:58.000Z",
+      "summary": "You can read more here: https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0 The results are (imho) concerning. Taken from the article: Of the ten submissions: Authors of one",
       "score": 40,
-      "titleZh": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]"
+      "titleZh": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]"
     },
     {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "link": "https://withcapsule.app/",
-      "source": "HN·前端",
+      "title": "Question about TMLR [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Tue, 15 Sep 2026 13:31:40 +0000",
-      "summary": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months,",
-      "score": 295,
-      "titleZh": "Show HN: Capsule – Single-file web apps that save their data into SQLite"
+      "date": "2026-09-16T21:26:05.000Z",
+      "summary": "I have a submission under review in TMLR. Less than a month after submission, I have already received 2 reviews. However, a month has passed since those two reviews, and I still haven't received the t",
+      "score": 40,
+      "titleZh": "Question about TMLR [D]"
     },
     {
-      "title": "Weatherstack — Real-time & historical world weather data API",
-      "link": "https://dev.to/nick_davies_323125afbb05c/weatherstack-real-time-historical-world-weather-data-api-6a",
+      "title": "GoBench: Evaluating LLMs on the game of Go [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-16T18:54:35.000Z",
+      "summary": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman. It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0.83 correlation), ",
+      "score": 40,
+      "titleZh": "GoBench: Evaluating LLMs on the game of Go [R]"
+    },
+    {
+      "title": "LARA: small, composable behaviours for frozen LLMs [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-16T13:28:40.000Z",
+      "summary": "GitHub: https://github.com/pfekin/LARA I've been working on LARA (Lightweight Additive Residual Adaptation), a research project on making post-training modular for frozen language models. I've also de",
+      "score": 40,
+      "titleZh": "LARA: small, composable behaviours for frozen LLMs [P]"
+    },
+    {
+      "title": "Teach ML! Community service project from Stanford [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-09T07:54:14.000Z",
+      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
+      "score": 40,
+      "titleZh": "Teach ML! Community service project from Stanford [N]"
+    },
+    {
+      "title": "Fixing Laravel PHP 8.5 Deprecation Warnings: A Practical Dependency Debugging Guide",
+      "link": "https://dev.to/vincenttommi/fixing-laravel-php-85-deprecation-warnings-a-practical-dependency-debugging-guide-30jp",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 16 Sep 2026 03:14:14 +0000",
-      "summary": "Looking for a reliable weather API? Weatherstack might be exactly what you need. Real-time, historical, and forecast weather data for any location. Covers temperature, wind, humidity, pressure, UV ind",
+      "date": "Fri, 18 Sep 2026 03:12:06 +0000",
+      "summary": "Upgrading PHP can expose compatibility problems in older Laravel projects. I recently encountered this while running a Laravel 10 application on PHP 8.5.4. The application was working, but the termina",
       "score": 5,
-      "titleZh": "Weatherstack — Real-time & historical world weather data API"
+      "titleZh": "Fixing Laravel PHP 8.5 Deprecation Warnings: A Practical Dependency Debugging Guide"
     },
     {
-      "title": "A Minimal Client-Side Link Safety Checker Without Tracking Users",
-      "link": "https://dev.to/xingchen6264ops/a-minimal-client-side-link-safety-checker-without-tracking-users-3fe3",
+      "title": "ทดสอบ Claude Code, Codex และ Antigravity สร้างเว็บเดียวกัน ใครชนะ",
+      "link": "https://dev.to/sarantoon/thdsb-claude-code-codex-aela-antigravity-sraangewbediiywkan-aikhrchna-4aj5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 18 Sep 2026 03:12:00 +0000",
+      "summary": "ทดสอบ Claude Code, Codex และ Antigravity สร้างเว็บเดียวกัน ใครชนะ โดย Nokka (นก-กา) | 15 กันยายน 2026 บทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จา",
+      "score": 5,
+      "titleZh": "ทดสอบ Claude Code, Codex และ Antigravity สร้างเว็บเดียวกัน ใครชนะ"
+    },
+    {
+      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
+      "link": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-4bo4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 18 Sep 2026 03:10:46 +0000",
+      "summary": "If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scraper Streamers 4.8 1",
+      "score": 5,
+      "titleZh": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?"
+    },
+    {
+      "title": "Analyzing Formula 1 Data: Verstappen passes 100 amateur karters in 14 laps in exhibition race — What the Numbers Say",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/analyzing-formula-1-data-verstappen-passes-100-amateur-karters-in-14-laps-in-exhibition-race--6lj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 18 Sep 2026 03:07:20 +0000",
+      "summary": "Analyzing Formula 1 Data: Verstappen passes 100 amateur karters in 14 laps in exhibition race — What the Numbers Say TL;DR: Max Verstappen needed 14 laps and 35 minutes to overtake 100 amateur drivers",
+      "score": 5,
+      "titleZh": "Analyzing Formula 1 Data: Verstappen passes 100 amateur karters in 14 laps in exhibition race — What the Numbers Say"
+    },
+    {
+      "title": "How I Built a Real-Time Cricket Stats Tracker: Englands Donald ready to savour Welsh homecoming",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-cricket-stats-tracker-englands-donald-ready-to-savour-welsh-homecoming-59jh",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 16 Sep 2026 03:12:19 +0000",
-      "summary": "When a site links to third-party destinations, a small pre-navigation check can reduce accidental exposure without collecting browsing history. This tutorial builds a lightweight checker that runs ent",
+      "date": "Fri, 18 Sep 2026 03:06:53 +0000",
+      "summary": "How I Built a Real-Time Cricket Stats Tracker: Englands Donald ready to savour Welsh homecoming TL;DR: Story verified against Sky Sports, ESPNcricinfo, Wikipedia and match reports — Donald is real, de",
       "score": 5,
-      "titleZh": "A Minimal Client-Side Link Safety Checker Without Tracking Users"
+      "titleZh": "How I Built a Real-Time Cricket Stats Tracker: Englands Donald ready to savour Welsh homecoming"
     },
     {
-      "title": "Migraciones en Laravel - Convención de Nombres",
-      "link": "https://dev.to/javier_ee5cb8a318b2596536/migraciones-en-laravel-convencion-de-nombres-1042",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 16 Sep 2026 03:12:07 +0000",
-      "summary": "Uno de los aspectos más difíciles en el mundo del desarrollo es elegir un nombre apropiado para los diferentes elementos que componen nuestro código: variables, clases, funciones, interfaces, etc, lo ",
-      "score": 5,
-      "titleZh": "Migraciones en Laravel - Convención de Nombres"
-    },
-    {
-      "title": "Google Search Results (~$0.05/1K Results) — 10K Users Can't Be Wrong",
-      "link": "https://dev.to/nick_davies_323125afbb05c/google-search-results-0051k-results-10k-users-cant-be-wrong-14ld",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 16 Sep 2026 03:09:03 +0000",
-      "summary": "Are you spending hours writing custom scrapers? There's probably an actor for that already. 🔥 ~$0.05/1K results ($0.50/1,000 SERPs) 🔥 CHEAPEST Google Search Results (SERP) Scraper with real-time SER",
-      "score": 5,
-      "titleZh": "Google Search Results (~$0.05/1K Results) — 10K Users Can't Be Wrong"
-    },
-    {
-      "title": "Analyzing Football Data: Unplayable & almost perfect Calvert-Lewin set for England recall? — What the Numbers Say",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/analyzing-football-data-unplayable-almost-perfect-calvert-lewin-set-for-england-recall-what-30mj",
+      "title": "How I Built a Real-Time Tennis Stats Tracker: Six-time Grand Slam champion Salisbury retires",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-tennis-stats-tracker-six-time-grand-slam-champion-salisbury-retires-36g1",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 16 Sep 2026 03:06:46 +0000",
-      "summary": "Analyzing Football Data: Unplayable & almost perfect Calvert-Lewin set for England recall? — What the Numbers Say TL;DR: `html Dominic Calvert-Lewin left the Elland Road pitch on Monday night to a sta",
+      "date": "Fri, 18 Sep 2026 03:06:39 +0000",
+      "summary": "How I Built a Real-Time Tennis Stats Tracker: Six-time Grand Slam champion Salisbury retires TL;DR: Joe Salisburys last act as a professional was a 6-3, 6-4 defeat by Kevin Krawietz and Tim Pütz in th",
       "score": 5,
-      "titleZh": "Analyzing Football Data: Unplayable & almost perfect Calvert-Lewin set for England recall? — What the Numbers Say"
+      "titleZh": "How I Built a Real-Time Tennis Stats Tracker: Six-time Grand Slam champion Salisbury retires"
     },
     {
-      "title": "Why Zverev caps transformational year with US Open triumph Matters for Sports Data Engineers",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/why-zverev-caps-transformational-year-with-us-open-triumph-matters-for-sports-data-engineers-19l2",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 16 Sep 2026 03:06:32 +0000",
-      "summary": "Why Zverev caps transformational year with US Open triumph Matters for Sports Data Engineers TL;DR: Alexander Zverev was so deep inside the match that he did not notice he had won it. After striking t",
-      "score": 5,
-      "titleZh": "Why Zverev caps transformational year with US Open triumph Matters for Sports Data Engineers"
-    },
-    {
-      "title": "Why Why Pietersen will add unfiltered challenge that England need Finn Matters for Sports Data Engineers",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/why-why-pietersen-will-add-unfiltered-challenge-that-england-need-finn-matters-for-sports-data-55h6",
+      "title": "I Scraped 100 Sports Matches — Here Is What I Found: Kostyuk into Guadalajara last eight without playing a point",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/i-scraped-100-sports-matches-here-is-what-i-found-kostyuk-into-guadalajara-last-eight-without-38oh",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 16 Sep 2026 03:06:05 +0000",
-      "summary": "Why Why Pietersen will add unfiltered challenge that England need Finn Matters for Sports Data Engineers TL;DR: Kevin Pietersen pulled on an England shirt at the Rose Bowl on Monday for the first time",
+      "date": "Fri, 18 Sep 2026 03:06:12 +0000",
+      "summary": "I Scraped 100 Sports Matches — Here Is What I Found: Kostyuk into Guadalajara last eight without playing a point TL;DR: Verified across five sources — the story is real, and the detail is stronger tha",
       "score": 5,
-      "titleZh": "Why Why Pietersen will add unfiltered challenge that England need Finn Matters for Sports Data Engineers"
+      "titleZh": "I Scraped 100 Sports Matches — Here Is What I Found: Kostyuk into Guadalajara last eight without playing a point"
     },
     {
-      "title": "Analyzing the Agent Economy: What the Forecasts Re…",
-      "link": "https://dev.to/norviktech/analyzing-the-agent-economy-what-the-forecasts-re-1jmk",
+      "title": "In-Depth Analysis: Noetive's $41M Launch in AI for…",
+      "link": "https://dev.to/norviktech/in-depth-analysis-noetives-41m-launch-in-ai-for-2mjd",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 16 Sep 2026 03:05:54 +0000",
-      "summary": "Originally published at norvik.tech Deep dive into the agent economy forecasts, exploring implications for businesses and technology development. The agent economy refers to the ecosystem where autono",
+      "date": "Fri, 18 Sep 2026 03:05:58 +0000",
+      "summary": "Originally published at norvik.tech Explore Noetive's innovative approach to self-improving AI in factories and logistics, and its implications for the industry. Noetive recently announced a significa",
       "score": 5,
-      "titleZh": "Analyzing the Agent Economy: What the Forecasts Re…"
+      "titleZh": "In-Depth Analysis: Noetive's $41M Launch in AI for…"
     },
     {
-      "title": "Building Resilient Edge Agents with LBH: A PWA Heartbeat System Running on Android",
-      "link": "https://dev.to/thrumanshow/building-resilient-edge-agents-with-lbh-a-pwa-heartbeat-system-running-on-android-51m",
-      "source": "Dev.to JS",
+      "title": "How to Add IP Geolocation to Your App in 5 Minutes",
+      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-add-ip-geolocation-to-your-app-in-5-minutes-1cj5",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 16 Sep 2026 03:05:45 +0000",
-      "summary": "Most edge demos look great on a laptop. They tend to fall apart the moment you put them on a real Android phone, switch apps, or lock the screen. I'm currently building HormigasAIS, a lightweight edge",
+      "date": "Fri, 18 Sep 2026 03:05:34 +0000",
+      "summary": "Know where your users are — without asking them. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's a middle groun",
       "score": 5,
-      "titleZh": "Building Resilient Edge Agents with LBH: A PWA Heartbeat System Running on Android"
+      "titleZh": "How to Add IP Geolocation to Your App in 5 Minutes"
+    },
+    {
+      "title": "When the Gateway Goes Dark: Postmortem of an AI Gateway Channel Eviction",
+      "link": "https://dev.to/power_zhong/when-the-gateway-goes-dark-postmortem-of-an-ai-gateway-channel-eviction-598i",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 18 Sep 2026 03:03:06 +0000",
+      "summary": "At 3:18 AM, our automated UI generation pipeline stalled, triggering an on-call alert that every solo SaaS founder dreads: user conversion queues were backing up, payment webhooks were hanging, and cl",
+      "score": 5,
+      "titleZh": "When the Gateway Goes Dark: Postmortem of an AI Gateway Channel Eviction"
     }
   ]
 }
