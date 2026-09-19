@@ -1,57 +1,57 @@
 {
-  "updated": "2026-09-18T14:06:26.651Z",
-  "date": "2026-09-18",
+  "updated": "2026-09-19T03:10:54.210Z",
+  "date": "2026-09-19",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "link": "https://bend-lang.com/",
-      "source": "HN·AI",
+      "title": "JMLR submission experience [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 17 Sep 2026 20:36:13 +0000",
-      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163",
-      "score": 532,
-      "titleZh": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+      "date": "2026-09-19T02:11:32.000Z",
+      "summary": "Hi just wondering has anyone submitted anything to JMLR before? Especially in the last 2 years? What is the experience like? Background: I am a Comp Sci PhD student, but my secondary supervisor (the o",
+      "score": 40,
+      "titleZh": "JMLR submission experience [D]"
     },
     {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "HN·AI",
+      "title": "How is RLCD (jev) RL? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 18 Sep 2026 09:45:07 +0000",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/i",
-      "score": 474,
-      "titleZh": "Microsoft exec called AI scraping 'the largest theft of labor in human history'"
+      "date": "2026-09-18T23:54:25.000Z",
+      "summary": "Just saw the YouTube presentation and I was left wondering this question. If jev only outputs Choice, Score, or Noul … well those are all perfectly differentiable. (Cross entropy or mse) I don’t know ",
+      "score": 40,
+      "titleZh": "How is RLCD (jev) RL? [D]"
     },
     {
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "link": "https://www.hacktron.ai/blog/hacking-openai",
-      "source": "HN·AI",
+      "title": "ICLR SUBMISSION 47647 how that possible? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 18 Sep 2026 02:47:24 +0000",
-      "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656",
-      "score": 389,
-      "titleZh": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos"
+      "date": "2026-09-18T19:12:42.000Z",
+      "summary": "I just submitted my paper number to ICLR, and my id number is 47k submitted by /u/Practical_Pomelo_636 [link] [comments]",
+      "score": 40,
+      "titleZh": "ICLR SUBMISSION 47647 how that possible? [D]"
     },
     {
-      "title": "How to Write with an LLM",
-      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "source": "HN·AI",
+      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 17 Sep 2026 21:48:38 +0000",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070",
-      "score": 228,
-      "titleZh": "How to Write with an LLM"
+      "date": "2026-09-18T16:13:30.000Z",
+      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
+      "score": 40,
+      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
     },
     {
       "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
@@ -78,30 +78,6 @@
       "titleZh": "How competitive are journals compared to top ai conferences? [D]"
     },
     {
-      "title": "augmenting large datasets to have more edge case data for training [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T11:24:11.000Z",
-      "summary": "I have this idea I'd like feedback on. most camera footage for training, is sunny daytime, because that's what cameras record most of the time. The edge cases models actually struggles with, like nigh",
-      "score": 40,
-      "titleZh": "augmenting large datasets to have more edge case data for training [D]"
-    },
-    {
-      "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T10:01:58.000Z",
-      "summary": "I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget — and I'd rather hear that it's already set",
-      "score": 40,
-      "titleZh": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]"
-    },
-    {
       "title": "AAAI-27 Phase 1 Results [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
       "source": "Reddit ML",
@@ -114,136 +90,160 @@
       "titleZh": "AAAI-27 Phase 1 Results [D]"
     },
     {
-      "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
+      "title": "Teach ML! Community service project from Stanford [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-17T21:55:47.000Z",
-      "summary": "I'm at a crossroads with two grad school options that would take me in somewhat different research directions, and I wanted some general advice on these fields, their growth, and industry alignment. I",
+      "date": "2026-09-09T07:54:14.000Z",
+      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
       "score": 40,
-      "titleZh": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]"
+      "titleZh": "Teach ML! Community service project from Stanford [N]"
     },
     {
-      "title": "A full motion design studio in a browser tab, free, on Mac, Windows, Linux and iPad",
-      "link": "https://dev.to/codeideal/a-full-motion-design-studio-in-a-browser-tab-free-on-mac-windows-linux-and-ipad-1b03",
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "score": 5,
+      "titleZh": "New experts join Google’s AI & Economy team"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "score": 5,
+      "titleZh": "Co-creating the future of fashion with Google"
+    },
+    {
+      "title": "How I Built a Real-Time Formula 1 Stats Tracker: Former Mercedes design boss Elliott joins Alpine",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-formula-1-stats-tracker-former-mercedes-design-boss-elliott-joins-alpine-1ch3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 03:07:06 +0000",
+      "summary": "How I Built a Real-Time Formula 1 Stats Tracker: Former Mercedes design boss Elliott joins Alpine TL;DR: Verified: Alpine announced Elliott as CTO on 17 September 2026. Heres the article. `html Alpine",
+      "score": 5,
+      "titleZh": "How I Built a Real-Time Formula 1 Stats Tracker: Former Mercedes design boss Elliott joins Alpine"
+    },
+    {
+      "title": "How I Built a Secure React Native Local Vault App with Biometric Auth & Encrypted Storage",
+      "link": "https://dev.to/ankur_artist_47b3573a62cf/how-i-built-a-secure-react-native-local-vault-app-with-biometric-auth-encrypted-storage-85g",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 03:06:31 +0000",
+      "summary": "Hey everyone! 👋 While building cross-platform mobile apps with React Native, I realized how much time goes into setting up repetitive boilerplate code—things like secure local storage, biometric auth",
+      "score": 5,
+      "titleZh": "How I Built a Secure React Native Local Vault App with Biometric Auth & Encrypted Storage"
+    },
+    {
+      "title": "Mediastack — Live news & blog articles REST API",
+      "link": "https://dev.to/nick_davies_323125afbb05c/mediastack-live-news-blog-articles-rest-api-1ef9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 14:01:59 +0000",
-      "summary": "AtomCut is a free motion design and video editor that runs in the browser: a Figma-style infinite canvas with a real multi-track timeline underneath it, in one window, with no account and no install. ",
+      "date": "Sat, 19 Sep 2026 02:58:17 +0000",
+      "summary": "Looking for a reliable news API? Mediastack might be exactly what you need. Free REST API for live news and blog articles from 7,500+ sources worldwide. Filter by keyword, category, language, country,",
       "score": 5,
-      "titleZh": "A full motion design studio in a browser tab, free, on Mac, Windows, Linux and iPad"
+      "titleZh": "Mediastack — Live news & blog articles REST API"
     },
     {
-      "title": "Rebuilding Encarta showed me exactly where AI-written code breaks",
-      "link": "https://dev.to/jlmartel/rebuilding-encarta-showed-me-exactly-where-ai-written-code-breaks-3oj0",
+      "title": "Final Exam Weight Calculator Guide: Target Scores and Course Grades",
+      "link": "https://dev.to/shahid7863/final-exam-weight-calculator-guide-target-scores-and-course-grades-2989",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 14:01:00 +0000",
-      "summary": "The bug that froze the window was type-correct. It compiled, cargo check passed, the tests passed, and the operating system reported the application as not responding. It was a Save As dialog called t",
+      "date": "Sat, 19 Sep 2026 02:55:53 +0000",
+      "summary": "When semester deadlines approach, students often face a high-stakes academic challenge: determining exactly what performance is required on the final exam to secure a desired course grade. A final exa",
       "score": 5,
-      "titleZh": "Rebuilding Encarta showed me exactly where AI-written code breaks"
+      "titleZh": "Final Exam Weight Calculator Guide: Target Scores and Course Grades"
     },
     {
-      "title": "🚀 Free tool alert: Base64 🧰 (Free · No Signup)",
-      "link": "https://dev.to/codepackr/free-tool-alert-base64-free-no-signup-17og",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 14:00:16 +0000",
-      "summary": "Hey folks 👋 Need a fast Base64 encoder/decoder? I built a free online one on CodePackr. Encode and decode Base64 in one click Great when you're dealing with tokens, files, and data URIs Flow: encode ",
-      "score": 5,
-      "titleZh": "🚀 Free tool alert: Base64 🧰 (Free · No Signup)"
-    },
-    {
-      "title": "Build a Dispatch Command Centre with ToolJet MCP",
-      "link": "https://dev.to/tooljet/build-a-dispatch-command-centre-with-tooljet-mcp-233c",
+      "title": "Best Finance APIs for Developers in 2026",
+      "link": "https://dev.to/nick_davies_323125afbb05c/best-finance-apis-for-developers-in-2026-4ppk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 13:59:37 +0000",
-      "summary": "Introduction You build a dispatch command centre with ToolJet MCP for a regional broadband operator when technician locations, open jobs, and outage zones all change at once. The result is a structure",
+      "date": "Sat, 19 Sep 2026 02:53:06 +0000",
+      "summary": "Need finance data for your app? Here are the best APIs available on APILayer for finance. Real-time, intraday & historical stock market data Stock market data API covering 30,000+ tickers across 500,0",
       "score": 5,
-      "titleZh": "Build a Dispatch Command Centre with ToolJet MCP"
+      "titleZh": "Best Finance APIs for Developers in 2026"
     },
     {
-      "title": "🙌 Free online utility: Connection String Parser 🧰 (Free · No Signup)",
-      "link": "https://dev.to/codepackr/free-online-utility-connection-string-parser-free-no-signup-24bh",
+      "title": "How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience",
+      "link": "https://dev.to/sam_raisinghani_b6dec128c/how-the-vflo-indexs-free-cash-flow-screen-has-captured-saas-resilience-1n5e",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 02:52:50 +0000",
+      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience - ETF Database for ",
+      "score": 5,
+      "titleZh": "How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience"
+    },
+    {
+      "title": "Z Image Turbo: Fast, Controllable AI Image Generation Online",
+      "link": "https://dev.to/_fd865412cb1d3ed7d55730/z-image-turbo-fast-controllable-ai-image-generation-online-3ldp",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 02:40:32 +0000",
+      "summary": "Z Image Turbo is an online AI image generator for creators, designers, marketers, ecommerce teams, and developers who want to turn text prompts into production-ready visuals. It supports photorealisti",
+      "score": 5,
+      "titleZh": "Z Image Turbo: Fast, Controllable AI Image Generation Online"
+    },
+    {
+      "title": "How to Get Remote Job Listings From Multiple Boards in One API Call",
+      "link": "https://dev.to/noah_1875549ab71ac4ada029/how-to-get-remote-job-listings-from-multiple-boards-in-one-api-call-4fp3",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 02:33:25 +0000",
+      "summary": "If you've tried to build anything on top of remote job data — a niche job board, a salary tracker, a newsletter, an internal hiring dashboard — you've hit the same wall: every board publishes a differ",
+      "score": 5,
+      "titleZh": "How to Get Remote Job Listings From Multiple Boards in One API Call"
+    },
+    {
+      "title": "The Architecture of Live Video Streaming: How HLS, DASH, and CDNs Actually Work",
+      "link": "https://dev.to/cianosdev/the-architecture-of-live-video-streaming-how-hls-dash-and-cdns-actually-work-df6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 02:26:58 +0000",
+      "summary": "Live video streaming has become the backbone of modern entertainment infrastructure. Whether a user is watching a football match, joining a video conference, or consuming on-demand content, the underl",
+      "score": 5,
+      "titleZh": "The Architecture of Live Video Streaming: How HLS, DASH, and CDNs Actually Work"
+    },
+    {
+      "title": "Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value",
+      "link": "https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 18 Sep 2026 13:59:25 +0000",
-      "summary": "Hey folks 👋 Need a fast Connection String Parser? I built a free online one on CodePackr. Break down DB connection strings safely Great when you're dealing with debugging Postgres/MySQL/SQL Server UR",
+      "date": "Sat, 19 Sep 2026 02:26:42 +0000",
+      "summary": "That's not a broken await — it's JavaScript reporting exactly what the promise's state was the instant you logged it. Here's why the value isn't there yet, and how to actually wait for it. Adapted fro",
       "score": 5,
-      "titleZh": "🙌 Free online utility: Connection String Parser 🧰 (Free · No Signup)"
-    },
-    {
-      "title": "🧰 Keep this in your tab bar: JS Minifier 🧰 (Free · No Signup)",
-      "link": "https://dev.to/codepackr/keep-this-in-your-tab-bar-js-minifier-free-no-signup-1nnm",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 13:58:33 +0000",
-      "summary": "Hey folks 👋 Need a fast JS Minifier? I built a free online one on CodePackr. Minify JavaScript to shrink payloads Great when you're dealing with shipping smaller front-end bundles Flow: paste → minif",
-      "score": 5,
-      "titleZh": "🧰 Keep this in your tab bar: JS Minifier 🧰 (Free · No Signup)"
-    },
-    {
-      "title": "Free Next.js Cursor Rules and Agent Config Starter Pack",
-      "link": "https://dev.to/vildandenai/free-nextjs-cursor-rules-and-agent-config-starter-pack-372k",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 13:58:10 +0000",
-      "summary": "If you are starting a Next.js App Router project, a small set of practical AI coding rules can make every prompt more consistent. The free Vildanden Agent Config sample includes a ready-to-copy AGENTS",
-      "score": 5,
-      "titleZh": "Free Next.js Cursor Rules and Agent Config Starter Pack"
-    },
-    {
-      "title": "💡 One-click helper: YAML Formatter 🧰 (Free · No Signup)",
-      "link": "https://dev.to/codepackr/one-click-helper-yaml-formatter-free-no-signup-4n3p",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 13:57:28 +0000",
-      "summary": "Hey folks 👋 Need a fast YAML Formatter? I built a free online one on CodePackr. Clean YAML for configs and CI Great when you're dealing with Kubernetes manifests and app configs Flow: paste → format ",
-      "score": 5,
-      "titleZh": "💡 One-click helper: YAML Formatter 🧰 (Free · No Signup)"
-    },
-    {
-      "title": "Dynamic Schema.org & JSON-LD Entity Graphs: Making Your App Machine-Readable for AI Crawlers",
-      "link": "https://dev.to/sameer_hassan/dynamic-schemaorg-json-ld-entity-graphs-making-your-app-machine-readable-for-ai-crawlers-51ap",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 13:57:23 +0000",
-      "summary": "Most web developers treat JSON-LD and Schema.org as an afterthought—maybe pasting a static <script type=\"application/ld+json\"> on their homepage and forgetting about it. In the era of Generative AI Se",
-      "score": 5,
-      "titleZh": "Dynamic Schema.org & JSON-LD Entity Graphs: Making Your App Machine-Readable for AI Crawlers"
-    },
-    {
-      "title": "🔥 Built for busy builders: XML Formatter 🧰 (Free · No Signup)",
-      "link": "https://dev.to/codepackr/built-for-busy-builders-xml-formatter-free-no-signup-3ofa",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 18 Sep 2026 13:55:02 +0000",
-      "summary": "Hey folks 👋 Need a fast XML Formatter? I built a free online one on CodePackr. Indent and clarify XML documents Great when you're dealing with SOAP, configs, and EDI-adjacent XML Flow: paste → format",
-      "score": 5,
-      "titleZh": "🔥 Built for busy builders: XML Formatter 🧰 (Free · No Signup)"
+      "titleZh": "Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value"
     }
   ]
 }
