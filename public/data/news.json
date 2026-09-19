@@ -1,10 +1,118 @@
 {
-  "updated": "2026-09-19T03:10:54.210Z",
+  "updated": "2026-09-19T13:41:46.053Z",
   "date": "2026-09-19",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070",
+      "score": 528,
+      "titleZh": "How to Write with an LLM"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 19 Sep 2026 09:20:58 +0000",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791",
+      "score": 438,
+      "titleZh": "AI-generated posters don’t have to be horrible"
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "link": "https://cactuscompute.com/needle",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 18 Sep 2026 00:11:44 +0000",
+      "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to m",
+      "score": 207,
+      "titleZh": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 19 Sep 2026 06:41:44 +0000",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987",
+      "score": 184,
+      "titleZh": "GPT-6 Astra Solves a WWI German Radio Cipher"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 18 Sep 2026 23:04:17 +0000",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432",
+      "score": 153,
+      "titleZh": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip"
+    },
+    {
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 19 Sep 2026 04:44:35 +0000",
+      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379",
+      "score": 43,
+      "titleZh": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model"
+    },
+    {
+      "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-19T12:54:13.000Z",
+      "summary": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. Covers the full stack: - Classical ML (scikit-learn, XGBoost) - Deep Learning (TensorFlow/Keras — AN",
+      "score": 40,
+      "titleZh": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]"
+    },
+    {
+      "title": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wkgx2y/acm_taps_moved_my_cameraready_to_support_deadline/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-19T08:45:58.000Z",
+      "summary": "My paper got accepted at an ACM conference and I'm doing the camera-ready through TAPS. The PDF compiled fine, but TAPS flagged a \"source to HTML conversion issue\" and moved the file to TAPS Support. ",
+      "score": 40,
+      "titleZh": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]"
+    },
+    {
+      "title": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-19T05:41:20.000Z",
+      "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+      "score": 40,
+      "titleZh": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]"
+    },
     {
       "title": "JMLR submission experience [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
@@ -18,232 +126,124 @@
       "titleZh": "JMLR submission experience [D]"
     },
     {
-      "title": "How is RLCD (jev) RL? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T23:54:25.000Z",
-      "summary": "Just saw the YouTube presentation and I was left wondering this question. If jev only outputs Choice, Score, or Noul … well those are all perfectly differentiable. (Cross entropy or mse) I don’t know ",
-      "score": 40,
-      "titleZh": "How is RLCD (jev) RL? [D]"
-    },
-    {
-      "title": "ICLR SUBMISSION 47647 how that possible? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T19:12:42.000Z",
-      "summary": "I just submitted my paper number to ICLR, and my id number is 47k submitted by /u/Practical_Pomelo_636 [link] [comments]",
-      "score": 40,
-      "titleZh": "ICLR SUBMISSION 47647 how that possible? [D]"
-    },
-    {
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T16:13:30.000Z",
-      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
-      "score": 40,
-      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
-    },
-    {
-      "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T12:36:07.000Z",
-      "summary": "Github repo : https://github.com/YouCele/nhanes-chd-classification I built a project that predicts self-reported, physician-diagnosed coronary heart disease using four cycles of NHANES data (2011-2012",
-      "score": 40,
-      "titleZh": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]"
-    },
-    {
-      "title": "How competitive are journals compared to top ai conferences? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T11:36:57.000Z",
-      "summary": "Hi everyone, The NeurIPS results aren’t out yet, but I’m expecting my paper to be rejected, so I’m considering submitting it to a journal instead. My scores were 2/3/3 (3/4/4). I feel like I would pro",
-      "score": 40,
-      "titleZh": "How competitive are journals compared to top ai conferences? [D]"
-    },
-    {
-      "title": "AAAI-27 Phase 1 Results [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T05:36:32.000Z",
-      "summary": "AAAI-27 Phase 1 results are expected on September 24. Anyone else waiting for the decision? Would be useful to keep this thread for updates when people start receiving notifications. submitted by /u/B",
-      "score": 40,
-      "titleZh": "AAAI-27 Phase 1 Results [D]"
-    },
-    {
-      "title": "Teach ML! Community service project from Stanford [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-09T07:54:14.000Z",
-      "summary": "Hi r/machinelearning. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th ",
-      "score": 40,
-      "titleZh": "Teach ML! Community service project from Stanford [N]"
-    },
-    {
-      "title": "New experts join Google’s AI & Economy team",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "score": 5,
-      "titleZh": "New experts join Google’s AI & Economy team"
-    },
-    {
-      "title": "Co-creating the future of fashion with Google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "score": 5,
-      "titleZh": "Co-creating the future of fashion with Google"
-    },
-    {
-      "title": "How I Built a Real-Time Formula 1 Stats Tracker: Former Mercedes design boss Elliott joins Alpine",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-formula-1-stats-tracker-former-mercedes-design-boss-elliott-joins-alpine-1ch3",
+      "title": "Four filings that leave a record",
+      "link": "https://dev.to/kyisaiah47/four-filings-that-leave-a-record-4064",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 03:07:06 +0000",
-      "summary": "How I Built a Real-Time Formula 1 Stats Tracker: Former Mercedes design boss Elliott joins Alpine TL;DR: Verified: Alpine announced Elliott as CTO on 17 September 2026. Heres the article. `html Alpine",
+      "date": "Sat, 19 Sep 2026 13:40:30 +0000",
+      "summary": "Four filings, each ending in a document someone can use. These products turn rule-heavy work into certificates, workpapers, binders, and policy documents. Product For What you get CertScope Product im",
       "score": 5,
-      "titleZh": "How I Built a Real-Time Formula 1 Stats Tracker: Former Mercedes design boss Elliott joins Alpine"
+      "titleZh": "Four filings that leave a record"
     },
     {
-      "title": "How I Built a Secure React Native Local Vault App with Biometric Auth & Encrypted Storage",
-      "link": "https://dev.to/ankur_artist_47b3573a62cf/how-i-built-a-secure-react-native-local-vault-app-with-biometric-auth-encrypted-storage-85g",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 19 Sep 2026 03:06:31 +0000",
-      "summary": "Hey everyone! 👋 While building cross-platform mobile apps with React Native, I realized how much time goes into setting up repetitive boilerplate code—things like secure local storage, biometric auth",
-      "score": 5,
-      "titleZh": "How I Built a Secure React Native Local Vault App with Biometric Auth & Encrypted Storage"
-    },
-    {
-      "title": "Mediastack — Live news & blog articles REST API",
-      "link": "https://dev.to/nick_davies_323125afbb05c/mediastack-live-news-blog-articles-rest-api-1ef9",
+      "title": "Multi-Tenant Database Architecture: Row-Level Security (RLS) & PostgreSQL Isolation",
+      "link": "https://dev.to/sameer_hassan/multi-tenant-database-architecture-row-level-security-rls-postgresql-isolation-24oe",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:58:17 +0000",
-      "summary": "Looking for a reliable news API? Mediastack might be exactly what you need. Free REST API for live news and blog articles from 7,500+ sources worldwide. Filter by keyword, category, language, country,",
+      "date": "Sat, 19 Sep 2026 13:33:06 +0000",
+      "summary": "When engineering a modern SaaS platform, guaranteeing customer data isolation is your single highest security mandate. In early-stage development, engineering teams frequently rely on application-leve",
       "score": 5,
-      "titleZh": "Mediastack — Live news & blog articles REST API"
+      "titleZh": "Multi-Tenant Database Architecture: Row-Level Security (RLS) & PostgreSQL Isolation"
     },
     {
-      "title": "Final Exam Weight Calculator Guide: Target Scores and Course Grades",
-      "link": "https://dev.to/shahid7863/final-exam-weight-calculator-guide-target-scores-and-course-grades-2989",
+      "title": "15 Free Tools, No Signup, Every Link",
+      "link": "https://dev.to/pranjulrathour/15-free-tools-no-signup-every-link-nng",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:55:53 +0000",
-      "summary": "When semester deadlines approach, students often face a high-stakes academic challenge: determining exactly what performance is required on the final exam to secure a desired course grade. A final exa",
+      "date": "Sat, 19 Sep 2026 13:32:35 +0000",
+      "summary": "15 free tools, no signup, every link inside. SEO: schema + FAQ generators, UTM builder, ROI calculator, speed test. Business: invoices (GST/VAT, 8 currencies), names, slogans, email signatures. Dev/de",
       "score": 5,
-      "titleZh": "Final Exam Weight Calculator Guide: Target Scores and Course Grades"
+      "titleZh": "15 Free Tools, No Signup, Every Link"
     },
     {
-      "title": "Best Finance APIs for Developers in 2026",
-      "link": "https://dev.to/nick_davies_323125afbb05c/best-finance-apis-for-developers-in-2026-4ppk",
+      "title": "Buy Verified Kraken Accounts",
+      "link": "https://dev.to/air654wallex/buy-verified-kraken-accounts-1kae",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:53:06 +0000",
-      "summary": "Need finance data for your app? Here are the best APIs available on APILayer for finance. Real-time, intraday & historical stock market data Stock market data API covering 30,000+ tickers across 500,0",
+      "date": "Sat, 19 Sep 2026 13:30:26 +0000",
+      "summary": "What is Kraken? Buy Verified Kraken Accounts is a leading cryptocurrency exchange known for its high level of security and reliability. With a wide range of cryptocurrencies available for trading and ",
       "score": 5,
-      "titleZh": "Best Finance APIs for Developers in 2026"
+      "titleZh": "Buy Verified Kraken Accounts"
     },
     {
-      "title": "How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience",
-      "link": "https://dev.to/sam_raisinghani_b6dec128c/how-the-vflo-indexs-free-cash-flow-screen-has-captured-saas-resilience-1n5e",
+      "title": "SEO Services in Hyderabad: A Practical Guide for Better Online Visibility",
+      "link": "https://dev.to/sysprola-tech/seo-services-in-hyderabad-a-practical-guide-for-better-online-visibility-jki",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:52:50 +0000",
-      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience - ETF Database for ",
+      "date": "Sat, 19 Sep 2026 13:29:44 +0000",
+      "summary": "SEO Services in Hyderabad: A Practical Guide for Better Online Visibility For businesses in Hyderabad, having a strong online presence can make it easier for potential customers to discover their prod",
       "score": 5,
-      "titleZh": "How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience"
+      "titleZh": "SEO Services in Hyderabad: A Practical Guide for Better Online Visibility"
     },
     {
-      "title": "Z Image Turbo: Fast, Controllable AI Image Generation Online",
-      "link": "https://dev.to/_fd865412cb1d3ed7d55730/z-image-turbo-fast-controllable-ai-image-generation-online-3ldp",
+      "title": "Pull the tenant from the auth context, not the request body",
+      "link": "https://dev.to/authbyexample1/pull-the-tenant-from-the-auth-context-not-the-request-body-dag",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:40:32 +0000",
-      "summary": "Z Image Turbo is an online AI image generator for creators, designers, marketers, ecommerce teams, and developers who want to turn text prompts into production-ready visuals. It supports photorealisti",
+      "date": "Sat, 19 Sep 2026 13:29:32 +0000",
+      "summary": "In multi-tenant apps, a common bug is reading tenant_id from the JSON body or query string and then authorizing against that value. Anyone can send tenant_id=other-customer. The tenant for an authoriz",
       "score": 5,
-      "titleZh": "Z Image Turbo: Fast, Controllable AI Image Generation Online"
+      "titleZh": "Pull the tenant from the auth context, not the request body"
     },
     {
-      "title": "How to Get Remote Job Listings From Multiple Boards in One API Call",
-      "link": "https://dev.to/noah_1875549ab71ac4ada029/how-to-get-remote-job-listings-from-multiple-boards-in-one-api-call-4fp3",
+      "title": "Buy Verified Airwallex Business Account",
+      "link": "https://dev.to/air654wallex/buy-verified-airwallex-business-account-ni",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:33:25 +0000",
-      "summary": "If you've tried to build anything on top of remote job data — a niche job board, a salary tracker, a newsletter, an internal hiring dashboard — you've hit the same wall: every board publishes a differ",
+      "date": "Sat, 19 Sep 2026 13:29:27 +0000",
+      "summary": "What is an Airwallex Business Account? Buy Airwallex Business Account could be the perfect solution for you. In this article, we will explore what an Buy Airwallex Business Account is, how it works, a",
       "score": 5,
-      "titleZh": "How to Get Remote Job Listings From Multiple Boards in One API Call"
+      "titleZh": "Buy Verified Airwallex Business Account"
     },
     {
-      "title": "The Architecture of Live Video Streaming: How HLS, DASH, and CDNs Actually Work",
-      "link": "https://dev.to/cianosdev/the-architecture-of-live-video-streaming-how-hls-dash-and-cdns-actually-work-df6",
+      "title": "Hello DEV Community! 👋 Building Web Apps & Sharing My Journey",
+      "link": "https://dev.to/moeez_irshad_dev/hello-dev-community-building-web-apps-sharing-my-journey-33jd",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:26:58 +0000",
-      "summary": "Live video streaming has become the backbone of modern entertainment infrastructure. Whether a user is watching a football match, joining a video conference, or consuming on-demand content, the underl",
+      "date": "Sat, 19 Sep 2026 13:29:12 +0000",
+      "summary": "Hey everyone! 👋 I'm super excited to officially join the DEV community! 🚀 I'm a Full-Stack Developer passionate about building modern, responsive, and scalable web applications. My core stack revolv",
       "score": 5,
-      "titleZh": "The Architecture of Live Video Streaming: How HLS, DASH, and CDNs Actually Work"
+      "titleZh": "Hello DEV Community! 👋 Building Web Apps & Sharing My Journey"
     },
     {
-      "title": "Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value",
-      "link": "https://dev.to/systemcraftdev/why-consolelog-shows-promise-instead-of-your-actual-value-1c60",
+      "title": "A money field should refuse an ambiguous amount, not guess it",
+      "link": "https://dev.to/shipmindlabs/a-money-field-should-refuse-an-ambiguous-amount-not-guess-it-36g2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 19 Sep 2026 13:27:52 +0000",
+      "summary": "Three things go wrong in every money input, and only the first one is well known. Floats: 0.1 + 0.2 is 0.30000000000000004, and a total ends up a cent off for reasons the user cannot see. Minor units:",
+      "score": 5,
+      "titleZh": "A money field should refuse an ambiguous amount, not guess it"
+    },
+    {
+      "title": "Optimizing Browser-Use Element Targeting: Free DOM & XPath Generator",
+      "link": "https://dev.to/kairo_v2/optimizing-browser-use-element-targeting-free-dom-xpath-generator-455j",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 02:26:42 +0000",
-      "summary": "That's not a broken await — it's JavaScript reporting exactly what the promise's state was the instant you logged it. Here's why the value isn't there yet, and how to actually wait for it. Adapted fro",
+      "date": "Sat, 19 Sep 2026 13:23:20 +0000",
+      "summary": "Selecting robust elements for high-performance agentic browser automation is critical for minimizing execution retries. The Browser-Use DOM Selector & XPath Generator provides a lightweight, zero-depe",
       "score": 5,
-      "titleZh": "Why console.log Shows 'Promise {<pending>}' Instead of Your Actual Value"
+      "titleZh": "Optimizing Browser-Use Element Targeting: Free DOM & XPath Generator"
     }
   ]
 }
