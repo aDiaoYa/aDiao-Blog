@@ -1,81 +1,69 @@
 {
-  "updated": "2026-09-19T13:41:46.053Z",
-  "date": "2026-09-19",
+  "updated": "2026-09-20T03:27:05.321Z",
+  "date": "2026-09-20",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "How to Write with an LLM",
-      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "source": "HN·AI",
+      "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 17 Sep 2026 21:48:38 +0000",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070",
-      "score": 528,
-      "titleZh": "How to Write with an LLM"
+      "date": "2026-09-20T00:43:46.000Z",
+      "summary": "Hi all! i am currently working as a software engineer for a pretty big enterprise fintech company here in the states. In the the last 12 months at my job there has been a huge push for developers to u",
+      "score": 40,
+      "titleZh": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]"
     },
     {
-      "title": "AI-generated posters don’t have to be horrible",
-      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "source": "HN·AI",
+      "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Sat, 19 Sep 2026 09:20:58 +0000",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791",
-      "score": 438,
-      "titleZh": "AI-generated posters don’t have to be horrible"
+      "date": "2026-09-19T23:35:28.000Z",
+      "summary": "Given the recent interest in tools like Jev, I wanted to share ProgramAsWeights (PAW), an open-source research project I'm working on at the University of Waterloo. You describe a text function in Eng",
+      "score": 40,
+      "titleZh": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]"
     },
     {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "link": "https://cactuscompute.com/needle",
-      "source": "HN·AI",
+      "title": "I wanted to watch a neural network learn [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 18 Sep 2026 00:11:44 +0000",
-      "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to m",
-      "score": 207,
-      "titleZh": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
+      "date": "2026-09-19T23:12:48.000Z",
+      "summary": "I wanted to really see how a neural network learns different functions, so built an interactive demo. You can change the architecture of the network and the function it will try to approximate. A full",
+      "score": 40,
+      "titleZh": "I wanted to watch a neural network learn [P]"
     },
     {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "source": "HN·AI",
+      "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Sat, 19 Sep 2026 06:41:44 +0000",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987",
-      "score": 184,
-      "titleZh": "GPT-6 Astra Solves a WWI German Radio Cipher"
+      "date": "2026-09-19T17:34:49.000Z",
+      "summary": "Hey everyone! I want to share the results of a small language model architecture experiment I’ve been running as a side project. The ultimate goal is to test an approach to reduce the number of the mo",
+      "score": 40,
+      "titleZh": "Experimenting with hypersurface-constrained dynamic weight updating [P]"
     },
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "source": "HN·AI",
+      "title": "ICLR 2027 submission 50k+[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 18 Sep 2026 23:04:17 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432",
-      "score": 153,
-      "titleZh": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip"
-    },
-    {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 19 Sep 2026 04:44:35 +0000",
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379",
-      "score": 43,
-      "titleZh": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model"
+      "date": "2026-09-19T17:23:30.000Z",
+      "summary": "Its 13 hours for the closure of abstract submission, my submission # is close to 51k. OMG submitted by /u/Invariant_n_Cauchy [link] [comments]",
+      "score": 40,
+      "titleZh": "ICLR 2027 submission 50k+[D]"
     },
     {
       "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
@@ -90,160 +78,172 @@
       "titleZh": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]"
     },
     {
-      "title": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wkgx2y/acm_taps_moved_my_cameraready_to_support_deadline/",
+      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-19T08:45:58.000Z",
-      "summary": "My paper got accepted at an ACM conference and I'm doing the camera-ready through TAPS. The PDF compiled fine, but TAPS flagged a \"source to HTML conversion issue\" and moved the file to TAPS Support. ",
+      "date": "2026-09-18T16:13:30.000Z",
+      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
       "score": 40,
-      "titleZh": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]"
+      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
     },
     {
-      "title": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-19T05:41:20.000Z",
-      "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+      "date": "2026-09-02T02:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "JMLR submission experience [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
-      "source": "Reddit ML",
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-19T02:11:32.000Z",
-      "summary": "Hi just wondering has anyone submitted anything to JMLR before? Especially in the last 2 years? What is the experience like? Background: I am a Comp Sci PhD student, but my secondary supervisor (the o",
-      "score": 40,
-      "titleZh": "JMLR submission experience [D]"
+      "date": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "score": 5,
+      "titleZh": "New experts join Google’s AI & Economy team"
     },
     {
-      "title": "Four filings that leave a record",
-      "link": "https://dev.to/kyisaiah47/four-filings-that-leave-a-record-4064",
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "score": 5,
+      "titleZh": "Co-creating the future of fashion with Google"
+    },
+    {
+      "title": "The @forge/bridge import that kills your resolver, and why nothing warns you",
+      "link": "https://dev.to/mihai_leanzero/the-forgebridge-import-that-kills-your-resolver-and-why-nothing-warns-you-2j2",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:40:30 +0000",
-      "summary": "Four filings, each ending in a document someone can use. These products turn rule-heavy work into certificates, workpapers, binders, and policy documents. Product For What you get CertScope Product im",
+      "date": "Sun, 20 Sep 2026 03:26:23 +0000",
+      "summary": "The @forge/bridge import that kills your resolver, and why nothing warns you Key takeaways @forge/bridge throws at IMPORT time, not call time. A handler that imports a poisoned module and never calls ",
       "score": 5,
-      "titleZh": "Four filings that leave a record"
+      "titleZh": "The @forge/bridge import that kills your resolver, and why nothing warns you"
     },
     {
-      "title": "Multi-Tenant Database Architecture: Row-Level Security (RLS) & PostgreSQL Isolation",
-      "link": "https://dev.to/sameer_hassan/multi-tenant-database-architecture-row-level-security-rls-postgresql-isolation-24oe",
+      "title": "How I Turn a Child's Idea Into a Printable Coloring Page With AI",
+      "link": "https://dev.to/taorobotics/how-i-turn-a-childs-idea-into-a-printable-coloring-page-with-ai-4hkg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:33:06 +0000",
-      "summary": "When engineering a modern SaaS platform, guaranteeing customer data isolation is your single highest security mandate. In early-stage development, engineering teams frequently rely on application-leve",
+      "date": "Sun, 20 Sep 2026 03:24:29 +0000",
+      "summary": "Why printable pages still matter A coloring page is a small product with a surprisingly clear job: it gives a child a calm, offline activity that can be printed at home. The hard part is making a page",
       "score": 5,
-      "titleZh": "Multi-Tenant Database Architecture: Row-Level Security (RLS) & PostgreSQL Isolation"
+      "titleZh": "How I Turn a Child's Idea Into a Printable Coloring Page With AI"
     },
     {
-      "title": "15 Free Tools, No Signup, Every Link",
-      "link": "https://dev.to/pranjulrathour/15-free-tools-no-signup-every-link-nng",
+      "title": "How to Scrape Google Search Results Without Getting Blocked",
+      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-scrape-google-search-results-without-getting-blocked-fm7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:32:35 +0000",
-      "summary": "15 free tools, no signup, every link inside. SEO: schema + FAQ generators, UTM builder, ROI calculator, speed test. Business: invoices (GST/VAT, 8 currencies), names, slogans, email signatures. Dev/de",
+      "date": "Sun, 20 Sep 2026 03:21:16 +0000",
+      "summary": "Need SERP data at scale? Forget proxies and headless browsers. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's ",
       "score": 5,
-      "titleZh": "15 Free Tools, No Signup, Every Link"
+      "titleZh": "How to Scrape Google Search Results Without Getting Blocked"
     },
     {
-      "title": "Buy Verified Kraken Accounts",
-      "link": "https://dev.to/air654wallex/buy-verified-kraken-accounts-1kae",
+      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
+      "link": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-55hg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:30:26 +0000",
-      "summary": "What is Kraken? Buy Verified Kraken Accounts is a leading cryptocurrency exchange known for its high level of security and reliability. With a wide range of cryptocurrencies available for trading and ",
+      "date": "Sun, 20 Sep 2026 03:16:05 +0000",
+      "summary": "If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scraper Streamers 4.8 1",
       "score": 5,
-      "titleZh": "Buy Verified Kraken Accounts"
+      "titleZh": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?"
     },
     {
-      "title": "SEO Services in Hyderabad: A Practical Guide for Better Online Visibility",
-      "link": "https://dev.to/sysprola-tech/seo-services-in-hyderabad-a-practical-guide-for-better-online-visibility-jki",
+      "title": "White or Transparent? A Practical Guide to Product Image Backgrounds",
+      "link": "https://dev.to/neo_xia_3f4c019330af5fb9d/white-or-transparent-a-practical-guide-to-product-image-backgrounds-33ko",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:29:44 +0000",
-      "summary": "SEO Services in Hyderabad: A Practical Guide for Better Online Visibility For businesses in Hyderabad, having a strong online presence can make it easier for potential customers to discover their prod",
+      "date": "Sun, 20 Sep 2026 03:14:32 +0000",
+      "summary": "Most product grids don't look broken because of bad photography. They look broken because the backgrounds don't agree with each other. One card with a warm beige backdrop in a row of pure-white cards ",
       "score": 5,
-      "titleZh": "SEO Services in Hyderabad: A Practical Guide for Better Online Visibility"
+      "titleZh": "White or Transparent? A Practical Guide to Product Image Backgrounds"
     },
     {
-      "title": "Pull the tenant from the auth context, not the request body",
-      "link": "https://dev.to/authbyexample1/pull-the-tenant-from-the-auth-context-not-the-request-body-dag",
+      "title": "How Image Translation Actually Works: From Pixels to Translated Text",
+      "link": "https://dev.to/bin_zeng_24e2a56bb9ed4a91/how-image-translation-actually-works-from-pixels-to-translated-text-5dnh",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:29:32 +0000",
-      "summary": "In multi-tenant apps, a common bug is reading tenant_id from the JSON body or query string and then authorizing against that value. Anyone can send tenant_id=other-customer. The tenant for an authoriz",
+      "date": "Sun, 20 Sep 2026 03:13:42 +0000",
+      "summary": "Translating text on a web page is easy. The browser already knows where the text is, what each sentence says, and how it should be displayed. Images are different. A screenshot, restaurant menu, produ",
       "score": 5,
-      "titleZh": "Pull the tenant from the auth context, not the request body"
+      "titleZh": "How Image Translation Actually Works: From Pixels to Translated Text"
     },
     {
-      "title": "Buy Verified Airwallex Business Account",
-      "link": "https://dev.to/air654wallex/buy-verified-airwallex-business-account-ni",
+      "title": "Top 10 NEWS APIs & Scrapers in 2026 — Ranked by Active Users",
+      "link": "https://dev.to/nick_davies_323125afbb05c/top-10-news-apis-scrapers-in-2026-ranked-by-active-users-6k1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:29:27 +0000",
-      "summary": "What is an Airwallex Business Account? Buy Airwallex Business Account could be the perfect solution for you. In this article, we will explore what an Buy Airwallex Business Account is, how it works, a",
+      "date": "Sun, 20 Sep 2026 03:10:53 +0000",
+      "summary": "Looking for the best news tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 43K users | 4.6/5 rating | Pay per event Pay Per Result, unlimited Reddit web s",
       "score": 5,
-      "titleZh": "Buy Verified Airwallex Business Account"
+      "titleZh": "Top 10 NEWS APIs & Scrapers in 2026 — Ranked by Active Users"
     },
     {
-      "title": "Hello DEV Community! 👋 Building Web Apps & Sharing My Journey",
-      "link": "https://dev.to/moeez_irshad_dev/hello-dev-community-building-web-apps-sharing-my-journey-33jd",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 19 Sep 2026 13:29:12 +0000",
-      "summary": "Hey everyone! 👋 I'm super excited to officially join the DEV community! 🚀 I'm a Full-Stack Developer passionate about building modern, responsive, and scalable web applications. My core stack revolv",
-      "score": 5,
-      "titleZh": "Hello DEV Community! 👋 Building Web Apps & Sharing My Journey"
-    },
-    {
-      "title": "A money field should refuse an ambiguous amount, not guess it",
-      "link": "https://dev.to/shipmindlabs/a-money-field-should-refuse-an-ambiguous-amount-not-guess-it-36g2",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 19 Sep 2026 13:27:52 +0000",
-      "summary": "Three things go wrong in every money input, and only the first one is well known. Floats: 0.1 + 0.2 is 0.30000000000000004, and a total ends up a cent off for reasons the user cannot see. Minor units:",
-      "score": 5,
-      "titleZh": "A money field should refuse an ambiguous amount, not guess it"
-    },
-    {
-      "title": "Optimizing Browser-Use Element Targeting: Free DOM & XPath Generator",
-      "link": "https://dev.to/kairo_v2/optimizing-browser-use-element-targeting-free-dom-xpath-generator-455j",
+      "title": "How I Built a Real-Time Sports Stats Tracker: GBs Samuel caught off guard on winning Davis Cup debut",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-sports-stats-tracker-gbs-samuel-caught-off-guard-on-winning-davis-cup-debut-5h9o",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 19 Sep 2026 13:23:20 +0000",
-      "summary": "Selecting robust elements for high-performance agentic browser automation is critical for minimizing execution retries. The Browser-Use DOM Selector & XPath Generator provides a lightweight, zero-depe",
+      "date": "Sun, 20 Sep 2026 03:07:10 +0000",
+      "summary": "How I Built a Real-Time Sports Stats Tracker: GBs Samuel caught off guard on winning Davis Cup debut TL;DR: Toby Samuel learned he would be making his Davis Cup debut on Thursday night. By Saturday af",
       "score": 5,
-      "titleZh": "Optimizing Browser-Use Element Targeting: Free DOM & XPath Generator"
+      "titleZh": "How I Built a Real-Time Sports Stats Tracker: GBs Samuel caught off guard on winning Davis Cup debut"
+    },
+    {
+      "title": "I Crawled 4 More Dev Sites. One Had 9 Orphan Pages Out Of 10",
+      "link": "https://dev.to/hermis_rf/i-crawled-4-more-dev-sites-one-had-9-orphan-pages-out-of-10-3pp5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 20 Sep 2026 03:06:59 +0000",
+      "summary": "Following up on last week's four-site crawl, I ran the same free crawler against four more sites developers use daily — nodejs.org, vuejs.org, digitalocean.com, and webpack.js.org — 10 pages each, sta",
+      "score": 5,
+      "titleZh": "I Crawled 4 More Dev Sites. One Had 9 Orphan Pages Out Of 10"
+    },
+    {
+      "title": "How I Built a Real-Time Nba Stats Tracker: London Lions set for NBA test as British basketball bids to step up",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-nba-stats-tracker-london-lions-set-for-nba-test-as-british-basketball-bids-1c0m",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 20 Sep 2026 03:06:57 +0000",
+      "summary": "How I Built a Real-Time Nba Stats Tracker: London Lions set for NBA test as British basketball bids to step up TL;DR: All key facts verified against BBC/Yahoo, Bristol Flyers, Newcastle Eagles, Hoopsf",
+      "score": 5,
+      "titleZh": "How I Built a Real-Time Nba Stats Tracker: London Lions set for NBA test as British basketball bids to step up"
     }
   ]
 }
