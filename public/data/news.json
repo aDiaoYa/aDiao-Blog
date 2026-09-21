@@ -1,33 +1,117 @@
 {
-  "updated": "2026-09-20T03:27:05.321Z",
-  "date": "2026-09-20",
+  "updated": "2026-09-21T16:12:17.075Z",
+  "date": "2026-09-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
-      "source": "Reddit ML",
+      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+      "link": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-20T00:43:46.000Z",
-      "summary": "Hi all! i am currently working as a software engineer for a pretty big enterprise fintech company here in the states. In the the last 12 months at my job there has been a huge push for developers to u",
-      "score": 40,
-      "titleZh": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]"
+      "date": "Mon, 21 Sep 2026 13:53:27 +0000",
+      "summary": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49787313",
+      "score": 89,
+      "titleZh": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents"
     },
     {
-      "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
+      "title": "Don't Use AI to Write",
+      "link": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 21 Sep 2026 08:54:44 +0000",
+      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816",
+      "score": 86,
+      "titleZh": "Don't Use AI to Write"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 21 Sep 2026 14:10:49 +0000",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535",
+      "score": 64,
+      "titleZh": "macOS 27: Workaround to avoid downloading AI models and save storage"
+    },
+    {
+      "title": "The Claude Delusion",
+      "link": "https://pluralistic.net/2026/09/21/sunsetting/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 21 Sep 2026 14:30:24 +0000",
+      "summary": "Article URL: https://pluralistic.net/2026/09/21/sunsetting/ Comments URL: https://news.ycombinator.com/item?id=49787765",
+      "score": 63,
+      "titleZh": "The Claude Delusion"
+    },
+    {
+      "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-19T23:35:28.000Z",
-      "summary": "Given the recent interest in tools like Jev, I wanted to share ProgramAsWeights (PAW), an open-source research project I'm working on at the University of Waterloo. You describe a text function in Eng",
+      "date": "2026-09-21T14:43:57.000Z",
+      "summary": "I am a graduate student looking to meet industry researchers at U.S. tech companies and labs. Does anyone if people from U.S. companies and labs will be going to Sydney or Paris mainly? submitted by /",
       "score": 40,
-      "titleZh": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]"
+      "titleZh": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]"
+    },
+    {
+      "title": "Systems for Machine Learning[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-21T14:21:01.000Z",
+      "summary": "I’m a computer engineering graduate and come from a traditional embedded systems background, with knowledge of microcontrollers, computer architecture and operating systems. Is knowledge of C and C++ ",
+      "score": 40,
+      "titleZh": "Systems for Machine Learning[D]"
+    },
+    {
+      "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-21T10:55:42.000Z",
+      "summary": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"A",
+      "score": 40,
+      "titleZh": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]"
+    },
+    {
+      "title": "Concerns about the ICLR review policy [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-21T03:21:43.000Z",
+      "summary": "The ICLR review policy says if your name appears on 3 or more papers, you will need to serve as a reviewer, and it did not say anything about qualifications. I only have 2 so this doesn't apply to me,",
+      "score": 40,
+      "titleZh": "Concerns about the ICLR review policy [D]"
+    },
+    {
+      "title": "How is your experience with ICLR LLM Feedback? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-20T16:19:10.000Z",
+      "summary": "Besides the ridiculous number of submissions, interesting to hear your experience with it. For me it had 1-2 valid points, and 3 pages of nitpicking. I have the time, so I can address both types of is",
+      "score": 40,
+      "titleZh": "How is your experience with ICLR LLM Feedback? [D]"
     },
     {
       "title": "I wanted to watch a neural network learn [P]",
@@ -42,208 +126,124 @@
       "titleZh": "I wanted to watch a neural network learn [P]"
     },
     {
-      "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
-      "source": "Reddit ML",
+      "title": "Why are APM SDKs still heavier than our actual UI components?",
+      "link": "https://dev.to/snaptrace009/why-are-apm-sdks-still-heavier-than-our-actual-ui-components-4452",
+      "source": "Dev.to Next.js",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-09-19T17:34:49.000Z",
-      "summary": "Hey everyone! I want to share the results of a small language model architecture experiment I’ve been running as a side project. The ultimate goal is to test an approach to reduce the number of the mo",
-      "score": 40,
-      "titleZh": "Experimenting with hypersurface-constrained dynamic weight updating [P]"
-    },
-    {
-      "title": "ICLR 2027 submission 50k+[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-19T17:23:30.000Z",
-      "summary": "Its 13 hours for the closure of abstract submission, my submission # is close to 51k. OMG submitted by /u/Invariant_n_Cauchy [link] [comments]",
-      "score": 40,
-      "titleZh": "ICLR 2027 submission 50k+[D]"
-    },
-    {
-      "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-19T12:54:13.000Z",
-      "summary": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. Covers the full stack: - Classical ML (scikit-learn, XGBoost) - Deep Learning (TensorFlow/Keras — AN",
-      "score": 40,
-      "titleZh": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]"
-    },
-    {
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T16:13:30.000Z",
-      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
-      "score": 40,
-      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "New experts join Google’s AI & Economy team",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "date": "Mon, 21 Sep 2026 16:08:49 +0000",
+      "summary": "Quick question for frontend engineers shipping code today: Why does capturing a client-side runtime exception require importing 120KB+ of minified JavaScript? At what point did monitoring our code bec",
       "score": 5,
-      "titleZh": "New experts join Google’s AI & Economy team"
+      "titleZh": "Why are APM SDKs still heavier than our actual UI components?"
     },
     {
-      "title": "Co-creating the future of fashion with Google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "score": 5,
-      "titleZh": "Co-creating the future of fashion with Google"
-    },
-    {
-      "title": "The @forge/bridge import that kills your resolver, and why nothing warns you",
-      "link": "https://dev.to/mihai_leanzero/the-forgebridge-import-that-kills-your-resolver-and-why-nothing-warns-you-2j2",
+      "title": "How I built an Agentic AI UI with React and Gemini API (and handled the 503 Overload Error)",
+      "link": "https://dev.to/koliabondar/how-i-built-an-agentic-ai-ui-with-react-and-gemini-api-and-handled-the-503-overload-error-3mmn",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 20 Sep 2026 03:26:23 +0000",
-      "summary": "The @forge/bridge import that kills your resolver, and why nothing warns you Key takeaways @forge/bridge throws at IMPORT time, not call time. A handler that imports a poisoned module and never calls ",
+      "date": "Mon, 21 Sep 2026 16:02:09 +0000",
+      "summary": "Building a wrapper around an AI API is easy. Building an \"Agentic UI\" where the AI actually controls the interface is much harder. The Problem: AI Server Overloads The Solution: Graceful Error Handlin",
       "score": 5,
-      "titleZh": "The @forge/bridge import that kills your resolver, and why nothing warns you"
+      "titleZh": "How I built an Agentic AI UI with React and Gemini API (and handled the 503 Overload Error)"
     },
     {
-      "title": "How I Turn a Child's Idea Into a Printable Coloring Page With AI",
-      "link": "https://dev.to/taorobotics/how-i-turn-a-childs-idea-into-a-printable-coloring-page-with-ai-4hkg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 20 Sep 2026 03:24:29 +0000",
-      "summary": "Why printable pages still matter A coloring page is a small product with a surprisingly clear job: it gives a child a calm, offline activity that can be printed at home. The hard part is making a page",
-      "score": 5,
-      "titleZh": "How I Turn a Child's Idea Into a Printable Coloring Page With AI"
-    },
-    {
-      "title": "How to Scrape Google Search Results Without Getting Blocked",
-      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-scrape-google-search-results-without-getting-blocked-fm7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 20 Sep 2026 03:21:16 +0000",
-      "summary": "Need SERP data at scale? Forget proxies and headless browsers. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's ",
-      "score": 5,
-      "titleZh": "How to Scrape Google Search Results Without Getting Blocked"
-    },
-    {
-      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
-      "link": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-55hg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 20 Sep 2026 03:16:05 +0000",
-      "summary": "If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scraper Streamers 4.8 1",
-      "score": 5,
-      "titleZh": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?"
-    },
-    {
-      "title": "White or Transparent? A Practical Guide to Product Image Backgrounds",
-      "link": "https://dev.to/neo_xia_3f4c019330af5fb9d/white-or-transparent-a-practical-guide-to-product-image-backgrounds-33ko",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 20 Sep 2026 03:14:32 +0000",
-      "summary": "Most product grids don't look broken because of bad photography. They look broken because the backgrounds don't agree with each other. One card with a warm beige backdrop in a row of pure-white cards ",
-      "score": 5,
-      "titleZh": "White or Transparent? A Practical Guide to Product Image Backgrounds"
-    },
-    {
-      "title": "How Image Translation Actually Works: From Pixels to Translated Text",
-      "link": "https://dev.to/bin_zeng_24e2a56bb9ed4a91/how-image-translation-actually-works-from-pixels-to-translated-text-5dnh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 20 Sep 2026 03:13:42 +0000",
-      "summary": "Translating text on a web page is easy. The browser already knows where the text is, what each sentence says, and how it should be displayed. Images are different. A screenshot, restaurant menu, produ",
-      "score": 5,
-      "titleZh": "How Image Translation Actually Works: From Pixels to Translated Text"
-    },
-    {
-      "title": "Top 10 NEWS APIs & Scrapers in 2026 — Ranked by Active Users",
-      "link": "https://dev.to/nick_davies_323125afbb05c/top-10-news-apis-scrapers-in-2026-ranked-by-active-users-6k1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 20 Sep 2026 03:10:53 +0000",
-      "summary": "Looking for the best news tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 43K users | 4.6/5 rating | Pay per event Pay Per Result, unlimited Reddit web s",
-      "score": 5,
-      "titleZh": "Top 10 NEWS APIs & Scrapers in 2026 — Ranked by Active Users"
-    },
-    {
-      "title": "How I Built a Real-Time Sports Stats Tracker: GBs Samuel caught off guard on winning Davis Cup debut",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-sports-stats-tracker-gbs-samuel-caught-off-guard-on-winning-davis-cup-debut-5h9o",
+      "title": "Building a Lightweight, Client-Side Sleep Cycle Calculator with Zero Telemetry",
+      "link": "https://dev.to/solangiwaqas077oss/building-a-lightweight-client-side-sleep-cycle-calculator-with-zero-telemetry-3g1c",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 20 Sep 2026 03:07:10 +0000",
-      "summary": "How I Built a Real-Time Sports Stats Tracker: GBs Samuel caught off guard on winning Davis Cup debut TL;DR: Toby Samuel learned he would be making his Davis Cup debut on Thursday night. By Saturday af",
+      "date": "Mon, 21 Sep 2026 15:59:48 +0000",
+      "summary": "Waking up feeling groggy even after 8 hours of sleep is usually caused by sleep inertia—waking up right in the middle of a deep REM sleep cycle. Human sleep naturally operates in roughly 90-minute cyc",
       "score": 5,
-      "titleZh": "How I Built a Real-Time Sports Stats Tracker: GBs Samuel caught off guard on winning Davis Cup debut"
+      "titleZh": "Building a Lightweight, Client-Side Sleep Cycle Calculator with Zero Telemetry"
     },
     {
-      "title": "I Crawled 4 More Dev Sites. One Had 9 Orphan Pages Out Of 10",
-      "link": "https://dev.to/hermis_rf/i-crawled-4-more-dev-sites-one-had-9-orphan-pages-out-of-10-3pp5",
+      "title": "Plagiarism Case Studies: What Would You Do in These Academic Situations?",
+      "link": "https://dev.to/martiinn/plagiarism-case-studies-what-would-you-do-in-these-academic-situations-2cl4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 20 Sep 2026 03:06:59 +0000",
-      "summary": "Following up on last week's four-site crawl, I ran the same free crawler against four more sites developers use daily — nodejs.org, vuejs.org, digitalocean.com, and webpack.js.org — 10 pages each, sta",
+      "date": "Mon, 21 Sep 2026 15:57:56 +0000",
+      "summary": "Plagiarism is easy to recognize when someone copies an entire essay and submits it under their own name. Real academic situations are rarely that simple. A student may use a source correctly in one pa",
       "score": 5,
-      "titleZh": "I Crawled 4 More Dev Sites. One Had 9 Orphan Pages Out Of 10"
+      "titleZh": "Plagiarism Case Studies: What Would You Do in These Academic Situations?"
     },
     {
-      "title": "How I Built a Real-Time Nba Stats Tracker: London Lions set for NBA test as British basketball bids to step up",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-nba-stats-tracker-london-lions-set-for-nba-test-as-british-basketball-bids-1c0m",
+      "title": "I wired Django to Next.js. Four things broke and only one of them threw an error.",
+      "link": "https://dev.to/remdore/i-wired-django-to-nextjs-four-things-broke-and-only-one-of-them-threw-an-error-1g02",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 21 Sep 2026 15:55:25 +0000",
+      "summary": "I wired a Django REST Framework API to a Next.js 16 front end this week — the most ordinary stack decision there is. Both sides worked. Every request returned 200. The page rendered, the styling was f",
+      "score": 5,
+      "titleZh": "I wired Django to Next.js. Four things broke and only one of them threw an error."
+    },
+    {
+      "title": "OpenArt AI Storyboard Generator: A Practical Look at AI-Powered Script-to-Storyboard Tools",
+      "link": "https://dev.to/blogai/openart-ai-storyboard-generator-a-practical-look-at-ai-powered-script-to-storyboard-tools-2fkd",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 21 Sep 2026 15:54:38 +0000",
+      "summary": "If you've ever tried to plan a video, short film, or animated sequence, you know the pre-production phase can eat up more time than the actual shoot. Sketching every shot by hand, or paying an artist ",
+      "score": 5,
+      "titleZh": "OpenArt AI Storyboard Generator: A Practical Look at AI-Powered Script-to-Storyboard Tools"
+    },
+    {
+      "title": "I built a PDF & image toolbox that never uploads your files — 100% client-side",
+      "link": "https://dev.to/mehdi_laalali2000_da46ad0/i-built-a-pdf-image-toolbox-that-never-uploads-your-files-100-client-side-4mma",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 20 Sep 2026 03:06:57 +0000",
-      "summary": "How I Built a Real-Time Nba Stats Tracker: London Lions set for NBA test as British basketball bids to step up TL;DR: All key facts verified against BBC/Yahoo, Bristol Flyers, Newcastle Eagles, Hoopsf",
+      "date": "Mon, 21 Sep 2026 15:54:07 +0000",
+      "summary": "Every \"free online tool\" works the same way: you upload your file to a server, hope for the best, and get a result back. I got tired of that model — both as a user (why does a PDF compressor need my d",
       "score": 5,
-      "titleZh": "How I Built a Real-Time Nba Stats Tracker: London Lions set for NBA test as British basketball bids to step up"
+      "titleZh": "I built a PDF & image toolbox that never uploads your files — 100% client-side"
+    },
+    {
+      "title": "Building Pasanaku: From Trusted to Trustless",
+      "link": "https://dev.to/rabuawad/building-pasanaku-from-trusted-to-trustless-2g20",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 21 Sep 2026 15:51:55 +0000",
+      "summary": "Putting pasanaku.fun onchain and online has been an amazing journey, and it is a journey that is still ongoing. The protocol has gone through many, many iterations. I’m grateful for all of them, becau",
+      "score": 5,
+      "titleZh": "Building Pasanaku: From Trusted to Trustless"
+    },
+    {
+      "title": "Plagiarism Myths Students Still Believe: True or False?",
+      "link": "https://dev.to/martiinn/plagiarism-myths-students-still-believe-true-or-false-nnm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 21 Sep 2026 15:50:45 +0000",
+      "summary": "Plagiarism sounds simple until you start dealing with real academic writing. Copying an entire paragraph from a website is an obvious example, but what about paraphrasing, using your own old work, tra",
+      "score": 5,
+      "titleZh": "Plagiarism Myths Students Still Believe: True or False?"
+    },
+    {
+      "title": "Marketing An Indie Game Is A Build Task, Not A Launch Task",
+      "link": "https://dev.to/paulcrinigan/marketing-an-indie-game-is-a-build-task-not-a-launch-task-4f4o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 21 Sep 2026 15:47:55 +0000",
+      "summary": "Every indie postmortem that ends badly reads the same way. Two years of work, a launch day announcement, and a download counter that never moves. The developer concludes the game was not good enough. ",
+      "score": 5,
+      "titleZh": "Marketing An Indie Game Is A Build Task, Not A Launch Task"
     }
   ]
 }
