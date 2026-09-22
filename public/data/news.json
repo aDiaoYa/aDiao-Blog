@@ -1,57 +1,33 @@
 {
-  "updated": "2026-09-21T16:12:17.075Z",
-  "date": "2026-09-21",
+  "updated": "2026-09-22T03:21:24.961Z",
+  "date": "2026-09-22",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-      "link": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "source": "HN·AI",
+      "title": "Jev's calibration was measured. The LLMs won [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wmre0b/jevs_calibration_was_measured_the_llms_won_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 21 Sep 2026 13:53:27 +0000",
-      "summary": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49787313",
-      "score": 89,
-      "titleZh": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents"
+      "date": "2026-09-21T22:20:52.000Z",
+      "summary": "Source: Jev Benchmarks Its training method is literally called \"Reinforcement Learning for Calibrated Decisions.\" Calibration gap vs human labels (lower = better): Yes/no: Jev 5.0, Gemini 3.8 Flash 2.",
+      "score": 40,
+      "titleZh": "Jev's calibration was measured. The LLMs won [D]"
     },
     {
-      "title": "Don't Use AI to Write",
-      "link": "https://paulbakker.io/writing/no-ai-for-writing/",
-      "source": "HN·AI",
+      "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 21 Sep 2026 08:54:44 +0000",
-      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816",
-      "score": 86,
-      "titleZh": "Don't Use AI to Write"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 21 Sep 2026 14:10:49 +0000",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535",
-      "score": 64,
-      "titleZh": "macOS 27: Workaround to avoid downloading AI models and save storage"
-    },
-    {
-      "title": "The Claude Delusion",
-      "link": "https://pluralistic.net/2026/09/21/sunsetting/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 21 Sep 2026 14:30:24 +0000",
-      "summary": "Article URL: https://pluralistic.net/2026/09/21/sunsetting/ Comments URL: https://news.ycombinator.com/item?id=49787765",
-      "score": 63,
-      "titleZh": "The Claude Delusion"
+      "date": "2026-09-21T19:44:28.000Z",
+      "summary": "Hey everyone, I wanted to share a project I’ve been working on called Jayce. The whole thing started because I was watching a toddler named learn the names of stuff He didn't need to completely rewire",
+      "score": 40,
+      "titleZh": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]"
     },
     {
       "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
@@ -102,148 +78,172 @@
       "titleZh": "Concerns about the ICLR review policy [D]"
     },
     {
-      "title": "How is your experience with ICLR LLM Feedback? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
+      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-20T16:19:10.000Z",
-      "summary": "Besides the ridiculous number of submissions, interesting to hear your experience with it. For me it had 1-2 valid points, and 3 pages of nitpicking. I have the time, so I can address both types of is",
+      "date": "2026-09-18T16:13:30.000Z",
+      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
       "score": 40,
-      "titleZh": "How is your experience with ICLR LLM Feedback? [D]"
+      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
     },
     {
-      "title": "I wanted to watch a neural network learn [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-19T23:12:48.000Z",
-      "summary": "I wanted to really see how a neural network learns different functions, so built an interactive demo. You can change the architecture of the network and the function it will try to approximate. A full",
+      "date": "2026-09-02T02:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "I wanted to watch a neural network learn [P]"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Why are APM SDKs still heavier than our actual UI components?",
-      "link": "https://dev.to/snaptrace009/why-are-apm-sdks-still-heavier-than-our-actual-ui-components-4452",
-      "source": "Dev.to Next.js",
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "source": "AI News",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 21 Sep 2026 15:32:54 +0000",
+      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predicti",
+      "score": 5,
+      "titleZh": "Multi-agent AI systems are taking over supply chain execution"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 21 Sep 2026 13:44:34 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
+    },
+    {
+      "title": "Best Marketing APIs for Developers in 2026",
+      "link": "https://dev.to/nick_davies_323125afbb05c/best-marketing-apis-for-developers-in-2026-4ocg",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 16:08:49 +0000",
-      "summary": "Quick question for frontend engineers shipping code today: Why does capturing a client-side runtime exception require importing 120KB+ of minified JavaScript? At what point did monitoring our code bec",
+      "date": "Tue, 22 Sep 2026 03:17:34 +0000",
+      "summary": "Need marketing data for your app? Here are the best APIs available on APILayer for marketing. Global phone number validation & lookup Validate phone numbers in real-time for 232 countries. Returns car",
       "score": 5,
-      "titleZh": "Why are APM SDKs still heavier than our actual UI components?"
+      "titleZh": "Best Marketing APIs for Developers in 2026"
     },
     {
-      "title": "How I built an Agentic AI UI with React and Gemini API (and handled the 503 Overload Error)",
-      "link": "https://dev.to/koliabondar/how-i-built-an-agentic-ai-ui-with-react-and-gemini-api-and-handled-the-503-overload-error-3mmn",
+      "title": "How to Build a Flight Tracker with Aviationstack API",
+      "link": "https://dev.to/nick_davies_323125afbb05c/how-to-build-a-flight-tracker-with-aviationstack-api-oce",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 22 Sep 2026 03:12:23 +0000",
+      "summary": "Track any flight in real-time with a single API call. Most developers either build custom solutions (slow, fragile) or pay for expensive enterprise APIs (overkill for most projects). There's a middle ",
+      "score": 5,
+      "titleZh": "How to Build a Flight Tracker with Aviationstack API"
+    },
+    {
+      "title": "Why Middlesex beat Leicestershire to win One-Day Cup Matters for Sports Data Engineers",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/why-middlesex-beat-leicestershire-to-win-one-day-cup-matters-for-sports-data-engineers-n0h",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 16:02:09 +0000",
-      "summary": "Building a wrapper around an AI API is easy. Building an \"Agentic UI\" where the AI actually controls the interface is much harder. The Problem: AI Server Overloads The Solution: Graceful Error Handlin",
+      "date": "Tue, 22 Sep 2026 03:08:11 +0000",
+      "summary": "Why Middlesex beat Leicestershire to win One-Day Cup Matters for Sports Data Engineers TL;DR: `html Middlesex ended a 36-year wait for a one-day trophy at Trent Bridge on Sunday, defending 231 to beat",
       "score": 5,
-      "titleZh": "How I built an Agentic AI UI with React and Gemini API (and handled the 503 Overload Error)"
+      "titleZh": "Why Middlesex beat Leicestershire to win One-Day Cup Matters for Sports Data Engineers"
     },
     {
-      "title": "Building a Lightweight, Client-Side Sleep Cycle Calculator with Zero Telemetry",
-      "link": "https://dev.to/solangiwaqas077oss/building-a-lightweight-client-side-sleep-cycle-calculator-with-zero-telemetry-3g1c",
+      "title": "How I Built a Real-Time Sports Stats Tracker: Middlesex win One Day Cup final after Horley ton",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-sports-stats-tracker-middlesex-win-one-day-cup-final-after-horley-ton-171d",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 22 Sep 2026 03:07:29 +0000",
+      "summary": "How I Built a Real-Time Sports Stats Tracker: Middlesex win One Day Cup final after Horley ton TL;DR: Saskia Horley produced one of the great one-day final performances to win Middlesex their first Wo",
+      "score": 5,
+      "titleZh": "How I Built a Real-Time Sports Stats Tracker: Middlesex win One Day Cup final after Horley ton"
+    },
+    {
+      "title": "Coinlayer — Real-time cryptocurrency exchange rates",
+      "link": "https://dev.to/nick_davies_323125afbb05c/coinlayer-real-time-cryptocurrency-exchange-rates-581",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 22 Sep 2026 03:07:13 +0000",
+      "summary": "Looking for a reliable finance API? Coinlayer might be exactly what you need. Real-time and historical crypto exchange rates for 385+ coins. Bitcoin, Ethereum, and altcoin data with minute-level granu",
+      "score": 5,
+      "titleZh": "Coinlayer — Real-time cryptocurrency exchange rates"
+    },
+    {
+      "title": "Building a Sports Data Pipeline: Lessons from Gibbs-White set to replace Palmer in England squad",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-sports-data-pipeline-lessons-from-gibbs-white-set-to-replace-palmer-in-england-squad-1lmn",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 15:59:48 +0000",
-      "summary": "Waking up feeling groggy even after 8 hours of sleep is usually caused by sleep inertia—waking up right in the middle of a deep REM sleep cycle. Human sleep naturally operates in roughly 90-minute cyc",
+      "date": "Tue, 22 Sep 2026 03:07:02 +0000",
+      "summary": "Building a Sports Data Pipeline: Lessons from Gibbs-White set to replace Palmer in England squad TL;DR: `html Morgan Gibbs-White is set to join up with England on Monday as a replacement for Cole Palm",
       "score": 5,
-      "titleZh": "Building a Lightweight, Client-Side Sleep Cycle Calculator with Zero Telemetry"
+      "titleZh": "Building a Sports Data Pipeline: Lessons from Gibbs-White set to replace Palmer in England squad"
     },
     {
-      "title": "Plagiarism Case Studies: What Would You Do in These Academic Situations?",
-      "link": "https://dev.to/martiinn/plagiarism-case-studies-what-would-you-do-in-these-academic-situations-2cl4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 21 Sep 2026 15:57:56 +0000",
-      "summary": "Plagiarism is easy to recognize when someone copies an entire essay and submits it under their own name. Real academic situations are rarely that simple. A student may use a source correctly in one pa",
-      "score": 5,
-      "titleZh": "Plagiarism Case Studies: What Would You Do in These Academic Situations?"
-    },
-    {
-      "title": "I wired Django to Next.js. Four things broke and only one of them threw an error.",
-      "link": "https://dev.to/remdore/i-wired-django-to-nextjs-four-things-broke-and-only-one-of-them-threw-an-error-1g02",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 21 Sep 2026 15:55:25 +0000",
-      "summary": "I wired a Django REST Framework API to a Next.js 16 front end this week — the most ordinary stack decision there is. Both sides worked. Every request returned 200. The page rendered, the styling was f",
-      "score": 5,
-      "titleZh": "I wired Django to Next.js. Four things broke and only one of them threw an error."
-    },
-    {
-      "title": "OpenArt AI Storyboard Generator: A Practical Look at AI-Powered Script-to-Storyboard Tools",
-      "link": "https://dev.to/blogai/openart-ai-storyboard-generator-a-practical-look-at-ai-powered-script-to-storyboard-tools-2fkd",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 21 Sep 2026 15:54:38 +0000",
-      "summary": "If you've ever tried to plan a video, short film, or animated sequence, you know the pre-production phase can eat up more time than the actual shoot. Sketching every shot by hand, or paying an artist ",
-      "score": 5,
-      "titleZh": "OpenArt AI Storyboard Generator: A Practical Look at AI-Powered Script-to-Storyboard Tools"
-    },
-    {
-      "title": "I built a PDF & image toolbox that never uploads your files — 100% client-side",
-      "link": "https://dev.to/mehdi_laalali2000_da46ad0/i-built-a-pdf-image-toolbox-that-never-uploads-your-files-100-client-side-4mma",
+      "title": "Building a Formula 1 Data Pipeline: Lessons from How to follow Azerbaijan Grand Prix on the BBC",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-formula-1-data-pipeline-lessons-from-how-to-follow-azerbaijan-grand-prix-on-the-bbc-ne8",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 15:54:07 +0000",
-      "summary": "Every \"free online tool\" works the same way: you upload your file to a server, hope for the best, and get a result back. I got tired of that model — both as a user (why does a PDF compressor need my d",
+      "date": "Tue, 22 Sep 2026 03:06:48 +0000",
+      "summary": "Building a Formula 1 Data Pipeline: Lessons from How to follow Azerbaijan Grand Prix on the BBC TL;DR: Formula 1 arrives in Baku this week for a Grand Prix unlike any of the nine held there before: fo",
       "score": 5,
-      "titleZh": "I built a PDF & image toolbox that never uploads your files — 100% client-side"
+      "titleZh": "Building a Formula 1 Data Pipeline: Lessons from How to follow Azerbaijan Grand Prix on the BBC"
     },
     {
-      "title": "Building Pasanaku: From Trusted to Trustless",
-      "link": "https://dev.to/rabuawad/building-pasanaku-from-trusted-to-trustless-2g20",
+      "title": "Building a Nba Data Pipeline: Lessons from Britain beat Germany to win World Championship bronze",
+      "link": "https://dev.to/muhammad_binnazeer_6a810/building-a-nba-data-pipeline-lessons-from-britain-beat-germany-to-win-world-championship-bronze-1ge5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 15:51:55 +0000",
-      "summary": "Putting pasanaku.fun onchain and online has been an amazing journey, and it is a journey that is still ongoing. The protocol has gone through many, many iterations. I’m grateful for all of them, becau",
+      "date": "Tue, 22 Sep 2026 03:06:22 +0000",
+      "summary": "Building a Nba Data Pipeline: Lessons from Britain beat Germany to win World Championship bronze TL;DR: Great Britains mens wheelchair basketball team answered a painful semi-final defeat with a 67-56",
       "score": 5,
-      "titleZh": "Building Pasanaku: From Trusted to Trustless"
+      "titleZh": "Building a Nba Data Pipeline: Lessons from Britain beat Germany to win World Championship bronze"
     },
     {
-      "title": "Plagiarism Myths Students Still Believe: True or False?",
-      "link": "https://dev.to/martiinn/plagiarism-myths-students-still-believe-true-or-false-nnm",
+      "title": "Rethinking Airflow for Medalli…",
+      "link": "https://dev.to/norviktech/rethinking-airflow-for-medalli-3b3f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 15:50:45 +0000",
-      "summary": "Plagiarism sounds simple until you start dealing with real academic writing. Copying an entire paragraph from a website is an obvious example, but what about paraphrasing, using your own old work, tra",
+      "date": "Tue, 22 Sep 2026 03:05:33 +0000",
+      "summary": "Originally published at norvik.tech Explore the challenges of using Airflow for Medallion pipelines, and discover actionable insights for better orchestration. Airflow is often dubbed the 'universal o",
       "score": 5,
-      "titleZh": "Plagiarism Myths Students Still Believe: True or False?"
+      "titleZh": "Rethinking Airflow for Medalli…"
     },
     {
-      "title": "Marketing An Indie Game Is A Build Task, Not A Launch Task",
-      "link": "https://dev.to/paulcrinigan/marketing-an-indie-game-is-a-build-task-not-a-launch-task-4f4o",
-      "source": "Dev.to WebDev",
+      "title": "I Built a 4K Screen Recorder That Runs Entirely in the Browser — Here's How#webdev #javascript #showdev #opensource",
+      "link": "https://dev.to/waqar112/i-built-a-4k-screen-recorder-that-runs-entirely-in-the-browser-heres-howwebdev-javascript-fd7",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 21 Sep 2026 15:47:55 +0000",
-      "summary": "Every indie postmortem that ends badly reads the same way. Two years of work, a launch day announcement, and a download counter that never moves. The developer concludes the game was not good enough. ",
+      "date": "Tue, 22 Sep 2026 03:05:21 +0000",
+      "summary": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpxknj2",
       "score": 5,
-      "titleZh": "Marketing An Indie Game Is A Build Task, Not A Launch Task"
+      "titleZh": "I Built a 4K Screen Recorder That Runs Entirely in the Browser — Here's How#webdev #javascript #showdev #opensource"
     }
   ]
 }
