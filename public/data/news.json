@@ -1,249 +1,249 @@
 {
-  "updated": "2026-09-23T14:41:23.867Z",
-  "date": "2026-09-23",
+  "updated": "2026-09-24T14:38:09.779Z",
+  "date": "2026-09-24",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 22 Sep 2026 16:29:05 +0000",
-      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892",
-      "score": 1655,
-      "titleZh": "Claude Opus 5.5"
+      "date": "Wed, 23 Sep 2026 18:06:47 +0000",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134",
+      "score": 718,
+      "titleZh": "Claude discovers a novel enzyme system with CRISPR-like repeats"
     },
     {
-      "title": "GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 22 Sep 2026 18:00:34 +0000",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509",
-      "score": 1640,
-      "titleZh": "GPT-6 Sol and Luna"
+      "date": "Thu, 24 Sep 2026 08:23:03 +0000",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794",
+      "score": 443,
+      "titleZh": "Meta takes down a critical video about meta AI Glasses after filming at Meta"
     },
     {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 22 Sep 2026 13:52:15 +0000",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324",
-      "score": 702,
-      "titleZh": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005"
+      "date": "Thu, 24 Sep 2026 02:44:48 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/live/cvgl73pxgndwt Comments URL: https://news.ycombinator.com/item?id=49825580",
+      "score": 190,
+      "titleZh": "OpenAI agent hacked Australian government website, PM says"
     },
     {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 23 Sep 2026 12:15:33 +0000",
-      "summary": "Article URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/ Comments URL: https://news.ycombinator.com/item?id=49814947",
-      "score": 260,
-      "titleZh": "Claude Code reads AGENTS.md only when telemetry is on"
+      "date": "Thu, 24 Sep 2026 05:21:10 +0000",
+      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565",
+      "score": 186,
+      "titleZh": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
     },
     {
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 23 Sep 2026 12:32:00 +0000",
-      "summary": "Article URL: https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9 Comments URL: https://news.ycombinator.com/item?id=49815127",
-      "score": 148,
-      "titleZh": "OpenAI is enlisting an influencer army to make it look 'good for the world'"
+      "date": "Wed, 23 Sep 2026 22:16:19 +0000",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348",
+      "score": 137,
+      "titleZh": "Mercury 2.5 LLM hits 770 tokens per second"
     },
     {
-      "title": "NeurIPS Author Notifications Tomorrow [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wo3kr4/neurips_author_notifications_tomorrow_d/",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 24 Sep 2026 11:54:38 +0000",
+      "summary": "Article URL: https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073 Comments URL: https://news.ycombinator.com/item?id=49829387",
+      "score": 58,
+      "titleZh": "Hackers influence ChatGPT and Gemini to direct users to scam centers"
+    },
+    {
+      "title": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wox8kt/arxiv_receives_multiyear_philanthropic/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-23T11:39:23.000Z",
-      "summary": "With NeurIPS author notifications coming up, I’m realizing that I’m way more stressed than I expected to be. I know the usual advice: reviews are noisy, one paper doesn’t define your research, there a",
+      "date": "2026-09-24T09:43:05.000Z",
+      "summary": "$17.2 million investment, spanning three to five years from Simons Foundation International, XTX Markets, and Siegel Family Endowment#Philanthropy) https://blog.arxiv.org/2026/09/23/arxiv-receives-mul",
       "score": 40,
-      "titleZh": "NeurIPS Author Notifications Tomorrow [D]"
+      "titleZh": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]"
     },
     {
-      "title": "ICLR main paper + Supplementary in 1 submission [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wnry1d/iclr_main_paper_supplementary_in_1_submission_r/",
+      "title": "NeurIPS Decisions in Some Hourse to a Day [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1worn3k/neurips_decisions_in_some_hourse_to_a_day_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-23T01:15:59.000Z",
-      "summary": "Can you attach the supplementary material along with my paper when uploading it? Or would the paper be desk-rejected if I do so? I don’t want to split it into two separate files: the main paper and th",
+      "date": "2026-09-24T04:09:18.000Z",
+      "summary": "Just some hours or a day for NeurIPS decisions. How you guys are feeling ? Anybody got any decisions ? Would be great to know ballpark submission # and post-rebuttal ratings, if you get any decision. ",
       "score": 40,
-      "titleZh": "ICLR main paper + Supplementary in 1 submission [R]"
+      "titleZh": "NeurIPS Decisions in Some Hourse to a Day [D]"
     },
     {
-      "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
+      "title": "EACL Reviewers no response [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1woox4w/eacl_reviewers_no_response_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-22T16:49:55.000Z",
-      "summary": "play here Play games like poker, risk, diplomacy with friends or alone against AI models, guess what, you can talk to them and change strategies and outcomes. itss fun! submitted by /u/Expert_Cobbler8",
+      "date": "2026-09-24T01:55:46.000Z",
+      "summary": "The rebuttal is still ongoing so this could also change, but my reviewers have not responded back to my responses yet. I know they have the right not to reply. One of the reviewers gave a 2 with a 5 c",
       "score": 40,
-      "titleZh": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]"
+      "titleZh": "EACL Reviewers no response [D]"
     },
     {
-      "title": "LinearSolveBench: new benchmark for linear solvers [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/",
+      "title": "I’m not sure which education path to choose [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wocrgu/im_not_sure_which_education_path_to_choose_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-22T15:34:58.000Z",
-      "summary": "LinearSolverBench measures the ability of a model or harness to write fast, accurate, and general numerical solvers for large sparse linear systems in C. The goal is to encourage algorithmic advances ",
+      "date": "2026-09-23T17:40:15.000Z",
+      "summary": "I’m 28 and trying to make a pretty major career decision. I currently have the option of finishing an MD. I have about 2 years left, but I genuinely dislike medicine and don’t want to practice clinica",
       "score": 40,
-      "titleZh": "LinearSolveBench: new benchmark for linear solvers [P]"
+      "titleZh": "I’m not sure which education path to choose [D]"
     },
     {
-      "title": "Understanding and Enhancing Kimi Delta Attention [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-22T10:34:43.000Z",
-      "summary": "TLDR: We demonstrate and explain the difference in expressivity of Gated Deltanet (GDN) and Kimi Delta Attention (KDA). We show how the full diagonal gate in KDA can act as a reflection allowing 2D ro",
-      "score": 40,
-      "titleZh": "Understanding and Enhancing Kimi Delta Attention [R]"
-    },
-    {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "link": "https://github.com/pkimpel/retro-1620",
-      "source": "HN·前端",
+      "title": "Chunking: Getting the First Cut Right",
+      "link": "https://dev.to/sekharendu_dey/chunking-getting-the-first-cut-right-pbc",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 00:06:25 +0000",
-      "summary": "Article URL: https://github.com/pkimpel/retro-1620 Comments URL: https://news.ycombinator.com/item?id=49809935",
-      "score": 7,
-      "titleZh": "Web-based IBM 1620 emulator and IPL-V from 1963"
+      "date": "Thu, 24 Sep 2026 14:30:48 +0000",
+      "summary": "Let's start with an inconvenient truth: your carefully built RAG system, the one you're quietly proud of, might be sabotaging itself at step one. Not at retrieval. Not at generation. At the very first",
+      "score": 5,
+      "titleZh": "Chunking: Getting the First Cut Right"
     },
     {
-      "title": "Claude Opus 5.5 Migration: Four Errors You'll See and Three You Won't",
-      "link": "https://dev.to/cursuri-ai/claude-opus-55-migration-four-errors-youll-see-and-three-you-wont-202p",
+      "title": "Supabase Connection String: IPv6, ENOTFOUND, and the Transaction Pooler Fix",
+      "link": "https://dev.to/not_varunkv/supabase-connection-string-ipv6-enotfound-and-the-transaction-pooler-fix-17pk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:37:27 +0000",
-      "summary": "Anthropic released Claude Opus 5.5 on 22 September 2026. It costs less than Opus 5 ($4/$20 per million input/output tokens, down from $5/$25), cache reads dropped from $0.50 to $0.20, and in Anthropic",
+      "date": "Thu, 24 Sep 2026 14:30:00 +0000",
+      "summary": "The short version Supabase uses IPv6 by default. Most local dev environments and many hosting providers don't support IPv6, so DNS resolution fails with ENOTFOUND or hangs with ETIMEDOUT. The fix: use",
       "score": 5,
-      "titleZh": "Claude Opus 5.5 Migration: Four Errors You'll See and Three You Won't"
+      "titleZh": "Supabase Connection String: IPv6, ENOTFOUND, and the Transaction Pooler Fix"
     },
     {
-      "title": "Buy Verified Cash App Accounts for Business: Complete Guide",
-      "link": "https://dev.to/md_nasir_93c62402ffce2db/buy-verified-cash-app-accounts-for-business-complete-guide-1hnp",
+      "title": "Lazy loading, optimistic UI and more in Rails with Attractive.js",
+      "link": "https://dev.to/railsdesigner/lazy-loading-optimistic-ui-and-more-in-rails-with-attractivejs-2n38",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:36:15 +0000",
-      "summary": "Our Others Services In today’s fast-paced digital world, a strong Social Media Marketing (SMM) presence is no longer a luxury cash app it is the absolute foundation of success for any business, brand,",
+      "date": "Thu, 24 Sep 2026 14:30:00 +0000",
+      "summary": "This is the last article of a series where I introduce Attractive.js 1.0.0 (in pre-release now). Attractive.js 1.0.0: interactive HTML without one line of JavaScript Custom Actions in Attractive.js: o",
       "score": 5,
-      "titleZh": "Buy Verified Cash App Accounts for Business: Complete Guide"
+      "titleZh": "Lazy loading, optimistic UI and more in Rails with Attractive.js"
     },
     {
-      "title": "E-E-A-T Scoring Automation: Evaluating Author Credibility & First-Party Proof",
-      "link": "https://dev.to/sameer_hassan/e-e-a-t-scoring-automation-evaluating-author-credibility-first-party-proof-b70",
+      "title": "Why Heat Pump Calculations Fail: Modeling DOE Appendix M1 HSPF2 Derates, Sub-Zero COP Decay, and Fuel Parity in TypeScript",
+      "link": "https://dev.to/miad_ea7faef80e5125861119/why-heat-pump-calculations-fail-modeling-doe-appendix-m1-hspf2-derates-sub-zero-cop-decay-and-onp",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 24 Sep 2026 14:27:46 +0000",
+      "summary": "If you have ever used a generic \"heat pump vs. gas furnace\" web calculator, you have almost certainly encountered an oversimplified static model. Most online tools perform a simplistic calculation: th",
+      "score": 5,
+      "titleZh": "Why Heat Pump Calculations Fail: Modeling DOE Appendix M1 HSPF2 Derates, Sub-Zero COP Decay, and Fuel Parity in TypeScript"
+    },
+    {
+      "title": "They Needed to See It. They Didn't Need a Copy.",
+      "link": "https://dev.to/ella_brooks/they-needed-to-see-it-they-didnt-need-a-copy-4lfo",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:30:56 +0000",
-      "summary": "Google's Search Quality Rater Guidelines heavily revolve around E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness). Furthermore, AI Answer Engines (Perplexity, ChatGPT, Claude) pl",
+      "date": "Thu, 24 Sep 2026 14:25:22 +0000",
+      "summary": "A client asks to review a contract. A lawyer needs to check one clause. A partner wants to see the numbers before a meeting. The usual answer is simple. Send the file. And just like that, a review bec",
       "score": 5,
-      "titleZh": "E-E-A-T Scoring Automation: Evaluating Author Credibility & First-Party Proof"
+      "titleZh": "They Needed to See It. They Didn't Need a Copy."
     },
     {
-      "title": "I built Json To Toon — Save 40-60% on AI tokens instantly by converting your JSON to TOON.",
-      "link": "https://dev.to/getinfotoyou/i-built-json-to-toon-save-40-60-on-ai-tokens-instantly-by-converting-your-json-to-toon-2e5p",
+      "title": "5 Erros que Destroem a Conversão da Sua Landing Page (e Como Corrigir)",
+      "link": "https://dev.to/fabio_vitorio_e87860b2679/5-erros-que-destroem-a-conversao-da-sua-landing-page-e-como-corrigir-2i7n",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:30:21 +0000",
-      "summary": "error: invalid model selection (--model \"Gemini 3.5 Flash (High)\" --effort \"\"): model Gemini 3.5 Flash (High) is not recognized as a known model or custom model in settings Available models: Gemini 3.",
+      "date": "Thu, 24 Sep 2026 14:25:11 +0000",
+      "summary": "Um estudo da Unbounce mostrou que a taxa média de conversão de landing pages é de apenas 3,75%. Isso significa que 96,25% dos visitantes saem sem converter. O pior? A maioria dos problemas é fácil de ",
       "score": 5,
-      "titleZh": "I built Json To Toon — Save 40-60% on AI tokens instantly by converting your JSON to TOON."
+      "titleZh": "5 Erros que Destroem a Conversão da Sua Landing Page (e Como Corrigir)"
     },
     {
-      "title": "Can a Developer Ship a Frontend With No DNS or Centralized Backend?",
-      "link": "https://dev.to/daniel-seed-digital/can-a-developer-ship-a-frontend-with-no-dns-or-centralized-backend-g17",
+      "title": "React: estados de email que sí se pueden probar",
+      "link": "https://dev.to/silviutech/react-estados-de-email-que-si-se-pueden-probar-3n58",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 24 Sep 2026 14:24:46 +0000",
+      "summary": "Un formulario de registro puede parecer correcto y aun así hacer pasar un mal rato: el botón se queda bloqueado, el mensaje de error aparece tarde y un lector de pantalla no anuncia si el correo ya fu",
+      "score": 5,
+      "titleZh": "React: estados de email que sí se pueden probar"
+    },
+    {
+      "title": "browser tool to sharpen, upscale and restore photos",
+      "link": "https://dev.to/xbhog/browser-tool-to-sharpen-upscale-and-restore-photos-7dk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:29:20 +0000",
-      "summary": "The short answer is yes, and it has been possible for years. The longer answer is that \"no DNS, no backend\" describes a spectrum rather than a binary, and most projects that claim to have reached the ",
+      "date": "Thu, 24 Sep 2026 14:23:57 +0000",
+      "summary": "I built Picture Enhancer for photos that are almost usable: camera shake, missed focus, tiny screenshots, or old scans with scratches and faded color. There are three modes instead of one \"enhance\" bu",
       "score": 5,
-      "titleZh": "Can a Developer Ship a Frontend With No DNS or Centralized Backend?"
+      "titleZh": "browser tool to sharpen, upscale and restore photos"
     },
     {
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 23 Sep 2026 14:23:57 +0000",
-      "summary": "Hoi hoi! 👋 I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small island in the Netherlands. 😸🏝️ Today, let's talk about a type guard that looks completely safe. const",
-      "score": 5,
-      "titleZh": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧"
-    },
-    {
-      "title": "Designing Better Backend Systems for Data That Cannot Be Lost",
-      "link": "https://dev.to/chich2/designing-better-backend-systems-for-data-that-cannot-be-lost-4727",
+      "title": "The people an accessibility overlay is for rate it worse than everybody else",
+      "link": "https://dev.to/jagheteralex/the-people-an-accessibility-overlay-is-for-rate-it-worse-than-everybody-else-4792",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:20:18 +0000",
-      "summary": "Some application data can be recreated without much trouble. A cached API response can be generated again. A temporary session can expire. A search result can be requested another time. Other informat",
+      "date": "Thu, 24 Sep 2026 14:22:41 +0000",
+      "summary": "The pitch is close to irresistible. One line of JavaScript, no engineering work, There is a lot of argument about whether it works. There is less argument among The WebAIM survey of web accessibility ",
       "score": 5,
-      "titleZh": "Designing Better Backend Systems for Data That Cannot Be Lost"
+      "titleZh": "The people an accessibility overlay is for rate it worse than everybody else"
     },
     {
-      "title": "𝐂𝐥𝐚𝐬𝐬 𝐀𝐜𝐭𝐢𝐨𝐧 𝐖𝐚𝐠𝐞 𝐚𝐧𝐝 𝐇𝐨𝐮𝐫 𝐋𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐌𝐚𝐬𝐬𝐚𝐜𝐡𝐮𝐬𝐞𝐭𝐭𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐜𝐮𝐭: 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐚𝐥 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐫 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞",
-      "link": "https://dev.to/mattewsi/-4eoj",
+      "title": "Glossary of Key Terms for Developers (Part I)",
+      "link": "https://dev.to/ayka_code/glossary-of-key-terms-for-developers-part-i-4kdb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 23 Sep 2026 14:15:08 +0000",
-      "summary": "𝐂𝐥𝐚𝐬𝐬 𝐚𝐜𝐭𝐢𝐨𝐧 𝐰𝐚𝐠𝐞 𝐚𝐧𝐝 𝐡𝐨𝐮𝐫 𝐜𝐚𝐬𝐞𝐬 𝐢𝐧 𝐌𝐚𝐬𝐬𝐚𝐜𝐡𝐮𝐬𝐞𝐭𝐭𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐜𝐮𝐭 𝐜𝐚𝐧 𝐡𝐢𝐭 𝐲𝐨𝐮 𝐡𝐚𝐫𝐝. 𝐎𝐧𝐞 𝐦𝐢𝐬𝐬𝐞𝐝 𝐛𝐫𝐞𝐚𝐤 𝐫𝐮𝐥𝐞 𝐨𝐫 𝐩",
+      "date": "Thu, 24 Sep 2026 14:20:12 +0000",
+      "summary": "Glossary of Key Terms for Developers (Part I) Term Definition APR (Automated Program Repair) Techniques (search-based, learning-based, etc.) used to identify and fix bugs in software code through auto",
       "score": 5,
-      "titleZh": "𝐂𝐥𝐚𝐬𝐬 𝐀𝐜𝐭𝐢𝐨𝐧 𝐖𝐚𝐠𝐞 𝐚𝐧𝐝 𝐇𝐨𝐮𝐫 𝐋𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐌𝐚𝐬𝐬𝐚𝐜𝐡𝐮𝐬𝐞𝐭𝐭𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐜𝐮𝐭: 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐚𝐥 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐫 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞"
-    },
-    {
-      "title": "Monster Maker! It's like Daily Doodle but with 100 percent more Monsters",
-      "link": "https://dev.to/plaidscientist/monster-maker-its-like-daily-doodle-but-with-100-percent-more-monsters-e7g",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 23 Sep 2026 14:09:00 +0000",
-      "summary": "Disco Doodle is my hobby site — free, no-signup drawing prompt generators, a division of my little umbrella brand Plaid Labs. Daily Doodle was the original: pick a few categories (animal, occupation, ",
-      "score": 5,
-      "titleZh": "Monster Maker! It's like Daily Doodle but with 100 percent more Monsters"
+      "titleZh": "Glossary of Key Terms for Developers (Part I)"
     }
   ]
 }
