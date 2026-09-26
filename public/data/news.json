@@ -1,249 +1,249 @@
 {
-  "updated": "2026-09-24T14:38:09.779Z",
-  "date": "2026-09-24",
+  "updated": "2026-09-26T14:06:36.419Z",
+  "date": "2026-09-26",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 23 Sep 2026 18:06:47 +0000",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134",
-      "score": 718,
-      "titleZh": "Claude discovers a novel enzyme system with CRISPR-like repeats"
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 24 Sep 2026 08:23:03 +0000",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794",
-      "score": 443,
-      "titleZh": "Meta takes down a critical video about meta AI Glasses after filming at Meta"
-    },
-    {
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 24 Sep 2026 02:44:48 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/live/cvgl73pxgndwt Comments URL: https://news.ycombinator.com/item?id=49825580",
-      "score": 190,
-      "titleZh": "OpenAI agent hacked Australian government website, PM says"
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "link": "https://transluce.org/agent-activity",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 24 Sep 2026 05:21:10 +0000",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565",
-      "score": 186,
-      "titleZh": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
-    },
-    {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "link": "https://artificialanalysis.ai/models/mercury-2-5",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 23 Sep 2026 22:16:19 +0000",
-      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348",
-      "score": 137,
-      "titleZh": "Mercury 2.5 LLM hits 770 tokens per second"
-    },
-    {
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 24 Sep 2026 11:54:38 +0000",
-      "summary": "Article URL: https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073 Comments URL: https://news.ycombinator.com/item?id=49829387",
-      "score": 58,
-      "titleZh": "Hackers influence ChatGPT and Gemini to direct users to scam centers"
-    },
-    {
-      "title": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wox8kt/arxiv_receives_multiyear_philanthropic/",
+      "title": "Has anyone used the Forrester function?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-24T09:43:05.000Z",
-      "summary": "$17.2 million investment, spanning three to five years from Simons Foundation International, XTX Markets, and Siegel Family Endowment#Philanthropy) https://blog.arxiv.org/2026/09/23/arxiv-receives-mul",
+      "date": "2026-09-26T09:24:09.000Z",
+      "summary": "Hey guys, I came across the Forrester function recently while studying mathematics, and I started wondering if there’s more to it than just being a mathematical function. I have a feeling I’ve seen it",
       "score": 40,
-      "titleZh": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]"
+      "titleZh": "Has anyone used the Forrester function?[D]"
     },
     {
-      "title": "NeurIPS Decisions in Some Hourse to a Day [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1worn3k/neurips_decisions_in_some_hourse_to_a_day_d/",
+      "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-24T04:09:18.000Z",
-      "summary": "Just some hours or a day for NeurIPS decisions. How you guys are feeling ? Anybody got any decisions ? Would be great to know ballpark submission # and post-rebuttal ratings, if you get any decision. ",
+      "date": "2026-09-26T07:10:45.000Z",
+      "summary": "Distributed Training and Inference both involves having a fundamental understanding of how distributed systems work in general Distributed Parallelism Tensor Parallelism Pipeline Parallelism Model Par",
       "score": 40,
-      "titleZh": "NeurIPS Decisions in Some Hourse to a Day [D]"
+      "titleZh": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]"
     },
     {
-      "title": "EACL Reviewers no response [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1woox4w/eacl_reviewers_no_response_d/",
+      "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-24T01:55:46.000Z",
-      "summary": "The rebuttal is still ongoing so this could also change, but my reviewers have not responded back to my responses yet. I know they have the right not to reply. One of the reviewers gave a 2 with a 5 c",
+      "date": "2026-09-26T00:12:30.000Z",
+      "summary": "This is how ridiculous things have become submitted by /u/Even-Inevitable-7243 [link] [comments]",
       "score": 40,
-      "titleZh": "EACL Reviewers no response [D]"
+      "titleZh": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]"
     },
     {
-      "title": "I’m not sure which education path to choose [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wocrgu/im_not_sure_which_education_path_to_choose_d/",
+      "title": "iclr 2027 de anonymization [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-23T17:40:15.000Z",
-      "summary": "I’m 28 and trying to make a pretty major career decision. I currently have the option of finishing an MD. I have about 2 years left, but I genuinely dislike medicine and don’t want to practice clinica",
+      "date": "2026-09-25T11:26:22.000Z",
+      "summary": "Wyhy this keeps happening to iclr? https://openreview.net/forum/user%7Cstatement_regarding_iclr_2027_submission_exposure_to_program_committee_members submitted by /u/Striking-Warning9533 [link] [comme",
       "score": 40,
-      "titleZh": "I’m not sure which education path to choose [D]"
+      "titleZh": "iclr 2027 de anonymization [D]"
     },
     {
-      "title": "Chunking: Getting the First Cut Right",
-      "link": "https://dev.to/sekharendu_dey/chunking-getting-the-first-cut-right-pbc",
+      "title": "NeurIPS Accept, but Confusing Final Justification, Is This Normal? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wpouvt/neurips_accept_but_confusing_final_justification/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-25T06:19:43.000Z",
+      "summary": "Just got an Accept at NeurIPS with initial scores of 5/5/4! The initial meta-review was pretty positive, but the final justification was entirely negative, raising concerns about AI use and suggesting",
+      "score": 40,
+      "titleZh": "NeurIPS Accept, but Confusing Final Justification, Is This Normal? [D]"
+    },
+    {
+      "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-25T05:56:33.000Z",
+      "summary": "Welp, NeurIPS is a wrap for those of us who got rejected 😭 Off we go to ICLR or whatever the next venue is, hopefully after making some meaningful changes to the paper. For people who are resubmittin",
+      "score": 40,
+      "titleZh": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]"
+    },
+    {
+      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-18T16:13:30.000Z",
+      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
+      "score": 40,
+      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-02T02:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "score": 5,
+      "titleZh": "Proaction boosts sales 60% and saves 75+ hours with Codex"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 24 Sep 2026 14:08:57 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Accelerating vision-language models with LFM2.5-VL-DSpark"
+    },
+    {
+      "title": "Teaching a World Model to Play…",
+      "link": "https://dev.to/norviktech/teaching-a-world-model-to-play-2dpb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 14:05:33 +0000",
+      "summary": "Originally published at norvik.tech Dive deep into the mechanisms of training a world model on Pokémon Red. Understand its impact on AI and web development. World models are essential in the realm of ",
+      "score": 5,
+      "titleZh": "Teaching a World Model to Play…"
+    },
+    {
+      "title": "# “The Struggle for Basic Facilities: A Citizen’s Concern”",
+      "link": "https://dev.to/anshbajaj01/-the-struggle-for-basic-facilities-a-citizens-concern-5f3a",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 14:04:25 +0000",
+      "summary": "",
+      "score": 5,
+      "titleZh": "# “The Struggle for Basic Facilities: A Citizen’s Concern”"
+    },
+    {
+      "title": "Reverse-engineering Cloudflare Turnstile to protect AI endpoints from bot abuse",
+      "link": "https://dev.to/achyut_srivastava_2a77b5d/reverse-engineering-cloudflare-turnstile-to-protect-ai-endpoints-from-bot-abuse-gnd",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 14:02:48 +0000",
+      "summary": "Reverse-engineering Cloudflare Turnstile to protect AI endpoints from bot abuse The Engineering Problem Modern AI paired programming and conversational UI generation struggle with context bloat and ca",
+      "score": 5,
+      "titleZh": "Reverse-engineering Cloudflare Turnstile to protect AI endpoints from bot abuse"
+    },
+    {
+      "title": "Over a million chess reviews a month, and the engine runs on your phone, not my server",
+      "link": "https://dev.to/mehdibenhaddou/over-a-million-chess-reviews-a-month-and-the-engine-runs-on-your-phone-not-my-server-3oah",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 14:01:39 +0000",
+      "summary": "Most chess sites limit free game review for a boring reason: running a chess engine over every move of every game costs real CPU, and someone has to pay for it. If a review takes 20 seconds of server ",
+      "score": 5,
+      "titleZh": "Over a million chess reviews a month, and the engine runs on your phone, not my server"
+    },
+    {
+      "title": "Autonomous Heading Hierarchy Auditing: Semantic Structure for Humans & Machines",
+      "link": "https://dev.to/sameer_hassan/autonomous-heading-hierarchy-auditing-semantic-structure-for-humans-machines-5c13",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 13:57:13 +0000",
+      "summary": "In modern web development, styling frameworks like Tailwind CSS make it deceptively easy to choose HTML tags based on visual font size rather than document semantics: <!-- ❌ ANTI-PATTERN: Jumps from H",
+      "score": 5,
+      "titleZh": "Autonomous Heading Hierarchy Auditing: Semantic Structure for Humans & Machines"
+    },
+    {
+      "title": "Vite+ — Chapter 5: Should You Use Vite+?",
+      "link": "https://dev.to/othmane_nemli/vite-chapter-5-should-you-use-vite-4l8b",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 13:56:21 +0000",
+      "summary": "We've reached the final chapter. Now comes the question every developer eventually asks when evaluating a new tool: Should I actually use it? The answer depends on your project. Vite+ isn't something ",
+      "score": 5,
+      "titleZh": "Vite+ — Chapter 5: Should You Use Vite+?"
+    },
+    {
+      "title": "Building Trusted Location Intelligence with LeeX: Infrastructure Profiles, Location Identity, Location Profiles",
+      "link": "https://dev.to/leexcity/building-trusted-location-intelligence-with-leex-infrastructure-profiles-location-identity-20jk",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 26 Sep 2026 13:55:35 +0000",
+      "summary": "A useful city discovery system needs more than a collection of names and coordinates. People need to understand what a place is, where it belongs, what information describes it and whether that inform",
+      "score": 5,
+      "titleZh": "Building Trusted Location Intelligence with LeeX: Infrastructure Profiles, Location Identity, Location Profiles"
+    },
+    {
+      "title": "OpenAI vs Gemini vs Perplexity Deep Research",
+      "link": "https://dev.to/diflowrin/openai-vs-gemini-vs-perplexity-deep-research-1nk2",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 24 Sep 2026 14:30:48 +0000",
-      "summary": "Let's start with an inconvenient truth: your carefully built RAG system, the one you're quietly proud of, might be sabotaging itself at step one. Not at retrieval. Not at generation. At the very first",
+      "date": "Sat, 26 Sep 2026 13:55:08 +0000",
+      "summary": "Everyone is arguing about OpenAI Deep Research vs Gemini Deep Research vs Perplexity Research, and almost nobody asks the only question that matters: what are you actually paying for, and what do you ",
       "score": 5,
-      "titleZh": "Chunking: Getting the First Cut Right"
+      "titleZh": "OpenAI vs Gemini vs Perplexity Deep Research"
     },
     {
-      "title": "Supabase Connection String: IPv6, ENOTFOUND, and the Transaction Pooler Fix",
-      "link": "https://dev.to/not_varunkv/supabase-connection-string-ipv6-enotfound-and-the-transaction-pooler-fix-17pk",
+      "title": "Web Application Scalability Explained: A Guide for Founders and CTOs",
+      "link": "https://dev.to/sadique_anwar_b90373bc79c/web-application-scalability-explained-a-guide-for-founders-and-ctos-52ej",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 24 Sep 2026 14:30:00 +0000",
-      "summary": "The short version Supabase uses IPv6 by default. Most local dev environments and many hosting providers don't support IPv6, so DNS resolution fails with ENOTFOUND or hangs with ETIMEDOUT. The fix: use",
+      "date": "Sat, 26 Sep 2026 13:53:33 +0000",
+      "summary": "A web application can perform perfectly with a few hundred users and then struggle when traffic suddenly increases. For founders and CTOs, scalability is therefore not simply a technical concern. It d",
       "score": 5,
-      "titleZh": "Supabase Connection String: IPv6, ENOTFOUND, and the Transaction Pooler Fix"
+      "titleZh": "Web Application Scalability Explained: A Guide for Founders and CTOs"
     },
     {
-      "title": "Lazy loading, optimistic UI and more in Rails with Attractive.js",
-      "link": "https://dev.to/railsdesigner/lazy-loading-optimistic-ui-and-more-in-rails-with-attractivejs-2n38",
+      "title": "Building FoxyInvoice — Appendix: Glossary & Checklists",
+      "link": "https://dev.to/seolith/building-foxyinvoice-appendix-glossary-checklists-72f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 24 Sep 2026 14:30:00 +0000",
-      "summary": "This is the last article of a series where I introduce Attractive.js 1.0.0 (in pre-release now). Attractive.js 1.0.0: interactive HTML without one line of JavaScript Custom Actions in Attractive.js: o",
+      "date": "Sat, 26 Sep 2026 13:53:23 +0000",
+      "summary": "This series is written in the open, from a real production system. This closing reference page collects every term the series used and the two checklists that turn it into a launch. [All chapters and ",
       "score": 5,
-      "titleZh": "Lazy loading, optimistic UI and more in Rails with Attractive.js"
-    },
-    {
-      "title": "Why Heat Pump Calculations Fail: Modeling DOE Appendix M1 HSPF2 Derates, Sub-Zero COP Decay, and Fuel Parity in TypeScript",
-      "link": "https://dev.to/miad_ea7faef80e5125861119/why-heat-pump-calculations-fail-modeling-doe-appendix-m1-hspf2-derates-sub-zero-cop-decay-and-onp",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:27:46 +0000",
-      "summary": "If you have ever used a generic \"heat pump vs. gas furnace\" web calculator, you have almost certainly encountered an oversimplified static model. Most online tools perform a simplistic calculation: th",
-      "score": 5,
-      "titleZh": "Why Heat Pump Calculations Fail: Modeling DOE Appendix M1 HSPF2 Derates, Sub-Zero COP Decay, and Fuel Parity in TypeScript"
-    },
-    {
-      "title": "They Needed to See It. They Didn't Need a Copy.",
-      "link": "https://dev.to/ella_brooks/they-needed-to-see-it-they-didnt-need-a-copy-4lfo",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:25:22 +0000",
-      "summary": "A client asks to review a contract. A lawyer needs to check one clause. A partner wants to see the numbers before a meeting. The usual answer is simple. Send the file. And just like that, a review bec",
-      "score": 5,
-      "titleZh": "They Needed to See It. They Didn't Need a Copy."
-    },
-    {
-      "title": "5 Erros que Destroem a Conversão da Sua Landing Page (e Como Corrigir)",
-      "link": "https://dev.to/fabio_vitorio_e87860b2679/5-erros-que-destroem-a-conversao-da-sua-landing-page-e-como-corrigir-2i7n",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:25:11 +0000",
-      "summary": "Um estudo da Unbounce mostrou que a taxa média de conversão de landing pages é de apenas 3,75%. Isso significa que 96,25% dos visitantes saem sem converter. O pior? A maioria dos problemas é fácil de ",
-      "score": 5,
-      "titleZh": "5 Erros que Destroem a Conversão da Sua Landing Page (e Como Corrigir)"
-    },
-    {
-      "title": "React: estados de email que sí se pueden probar",
-      "link": "https://dev.to/silviutech/react-estados-de-email-que-si-se-pueden-probar-3n58",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:24:46 +0000",
-      "summary": "Un formulario de registro puede parecer correcto y aun así hacer pasar un mal rato: el botón se queda bloqueado, el mensaje de error aparece tarde y un lector de pantalla no anuncia si el correo ya fu",
-      "score": 5,
-      "titleZh": "React: estados de email que sí se pueden probar"
-    },
-    {
-      "title": "browser tool to sharpen, upscale and restore photos",
-      "link": "https://dev.to/xbhog/browser-tool-to-sharpen-upscale-and-restore-photos-7dk",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:23:57 +0000",
-      "summary": "I built Picture Enhancer for photos that are almost usable: camera shake, missed focus, tiny screenshots, or old scans with scratches and faded color. There are three modes instead of one \"enhance\" bu",
-      "score": 5,
-      "titleZh": "browser tool to sharpen, upscale and restore photos"
-    },
-    {
-      "title": "The people an accessibility overlay is for rate it worse than everybody else",
-      "link": "https://dev.to/jagheteralex/the-people-an-accessibility-overlay-is-for-rate-it-worse-than-everybody-else-4792",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:22:41 +0000",
-      "summary": "The pitch is close to irresistible. One line of JavaScript, no engineering work, There is a lot of argument about whether it works. There is less argument among The WebAIM survey of web accessibility ",
-      "score": 5,
-      "titleZh": "The people an accessibility overlay is for rate it worse than everybody else"
-    },
-    {
-      "title": "Glossary of Key Terms for Developers (Part I)",
-      "link": "https://dev.to/ayka_code/glossary-of-key-terms-for-developers-part-i-4kdb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 24 Sep 2026 14:20:12 +0000",
-      "summary": "Glossary of Key Terms for Developers (Part I) Term Definition APR (Automated Program Repair) Techniques (search-based, learning-based, etc.) used to identify and fix bugs in software code through auto",
-      "score": 5,
-      "titleZh": "Glossary of Key Terms for Developers (Part I)"
+      "titleZh": "Building FoxyInvoice — Appendix: Glossary & Checklists"
     }
   ]
 }
