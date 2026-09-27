@@ -1,33 +1,69 @@
 {
-  "updated": "2026-09-26T14:06:36.419Z",
-  "date": "2026-09-26",
+  "updated": "2026-09-27T03:43:24.978Z",
+  "date": "2026-09-27",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Has anyone used the Forrester function?[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
+      "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-26T09:24:09.000Z",
-      "summary": "Hey guys, I came across the Forrester function recently while studying mathematics, and I started wondering if there’s more to it than just being a mathematical function. I have a feeling I’ve seen it",
+      "date": "2026-09-27T03:38:07.000Z",
+      "summary": "Hey r/MachineLearning! I’ve been working on a new optimizer called Tauon (turns out there is already \"teon\" but well if you have better idea, - i will gladly accept it! Anyway the core idea of optimiz",
       "score": 40,
-      "titleZh": "Has anyone used the Forrester function?[D]"
+      "titleZh": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]"
     },
     {
-      "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
+      "title": "Teaching Neural Nets to Fight with RL [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-26T07:10:45.000Z",
-      "summary": "Distributed Training and Inference both involves having a fundamental understanding of how distributed systems work in general Distributed Parallelism Tensor Parallelism Pipeline Parallelism Model Par",
+      "date": "2026-09-27T03:10:39.000Z",
+      "summary": "In this project I wanted to see if we could discover any interesting emergent behaviors if we trained two agents to play a streetfighter-like game. It turns out that the agents are really good at rewa",
       "score": 40,
-      "titleZh": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]"
+      "titleZh": "Teaching Neural Nets to Fight with RL [P]"
+    },
+    {
+      "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-27T02:16:26.000Z",
+      "summary": "Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS. I would really like to come to Sydney to present my work. However, I am not sur",
+      "score": 40,
+      "titleZh": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]"
+    },
+    {
+      "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-26T18:38:38.000Z",
+      "summary": "Hi everyone, I built an educational tool that shows what happens inside a small MLP while it trains, and I'd like some feedback from people who teach ML. Everything is plain NumPy, no autograd: manual",
+      "score": 40,
+      "titleZh": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]"
+    },
+    {
+      "title": "Publication potential [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-26T18:23:31.000Z",
+      "summary": "Hi all, I may be being silly but I have just finished my masters thesis which benchmarked three deep learning architectures (one of which is novel), across varying preprocessing pipelines for the purp",
+      "score": 40,
+      "titleZh": "Publication potential [D]"
     },
     {
       "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
@@ -42,54 +78,6 @@
       "titleZh": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]"
     },
     {
-      "title": "iclr 2027 de anonymization [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-25T11:26:22.000Z",
-      "summary": "Wyhy this keeps happening to iclr? https://openreview.net/forum/user%7Cstatement_regarding_iclr_2027_submission_exposure_to_program_committee_members submitted by /u/Striking-Warning9533 [link] [comme",
-      "score": 40,
-      "titleZh": "iclr 2027 de anonymization [D]"
-    },
-    {
-      "title": "NeurIPS Accept, but Confusing Final Justification, Is This Normal? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wpouvt/neurips_accept_but_confusing_final_justification/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-25T06:19:43.000Z",
-      "summary": "Just got an Accept at NeurIPS with initial scores of 5/5/4! The initial meta-review was pretty positive, but the final justification was entirely negative, raising concerns about AI use and suggesting",
-      "score": 40,
-      "titleZh": "NeurIPS Accept, but Confusing Final Justification, Is This Normal? [D]"
-    },
-    {
-      "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-25T05:56:33.000Z",
-      "summary": "Welp, NeurIPS is a wrap for those of us who got rejected 😭 Off we go to ICLR or whatever the next venue is, hopefully after making some meaningful changes to the paper. For people who are resubmittin",
-      "score": 40,
-      "titleZh": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]"
-    },
-    {
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-18T16:13:30.000Z",
-      "summary": "Hi r/MachineLearning! I'm James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistan",
-      "score": 40,
-      "titleZh": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -100,6 +88,18 @@
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
       "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-08-31T02:30:17.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -126,124 +126,124 @@
       "titleZh": "Accelerating vision-language models with LFM2.5-VL-DSpark"
     },
     {
-      "title": "Teaching a World Model to Play…",
-      "link": "https://dev.to/norviktech/teaching-a-world-model-to-play-2dpb",
-      "source": "Dev.to WebDev",
+      "title": "Building dogsbod: A quadruped robot",
+      "link": "https://www.reddit.com/r/programming/comments/1wqw5n3/building_dogsbod_a_quadruped_robot/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 14:05:33 +0000",
-      "summary": "Originally published at norvik.tech Dive deep into the mechanisms of training a world model on Pokémon Red. Understand its impact on AI and web development. World models are essential in the realm of ",
-      "score": 5,
-      "titleZh": "Teaching a World Model to Play…"
+      "date": "2026-09-26T17:22:53.000Z",
+      "summary": "A hand written technical write-up of the process I went through designing, building and programming dogsbod, a quadruped robot. submitted by /u/zanders3 [link] [comments]",
+      "score": 40,
+      "titleZh": "Building dogsbod: A quadruped robot"
     },
     {
-      "title": "# “The Struggle for Basic Facilities: A Citizen’s Concern”",
-      "link": "https://dev.to/anshbajaj01/-the-struggle-for-basic-facilities-a-citizens-concern-5f3a",
-      "source": "Dev.to WebDev",
+      "title": "On programming, statistics, and Java",
+      "link": "https://www.reddit.com/r/programming/comments/1wqvxt6/on_programming_statistics_and_java/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 14:04:25 +0000",
-      "summary": "",
-      "score": 5,
-      "titleZh": "# “The Struggle for Basic Facilities: A Citizen’s Concern”"
+      "date": "2026-09-26T17:14:07.000Z",
+      "summary": "submitted by /u/Mihai4544 [link] [comments]",
+      "score": 40,
+      "titleZh": "On programming, statistics, and Java"
     },
     {
-      "title": "Reverse-engineering Cloudflare Turnstile to protect AI endpoints from bot abuse",
-      "link": "https://dev.to/achyut_srivastava_2a77b5d/reverse-engineering-cloudflare-turnstile-to-protect-ai-endpoints-from-bot-abuse-gnd",
-      "source": "Dev.to WebDev",
+      "title": "The Cloudflare Blog – Brought to you by EmDash",
+      "link": "https://www.reddit.com/r/programming/comments/1wqv795/the_cloudflare_blog_brought_to_you_by_emdash/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 14:02:48 +0000",
-      "summary": "Reverse-engineering Cloudflare Turnstile to protect AI endpoints from bot abuse The Engineering Problem Modern AI paired programming and conversational UI generation struggle with context bloat and ca",
-      "score": 5,
-      "titleZh": "Reverse-engineering Cloudflare Turnstile to protect AI endpoints from bot abuse"
+      "date": "2026-09-26T16:44:56.000Z",
+      "summary": "Migration from wordpress to internal tool submitted by /u/Ok_Stomach6651 [link] [comments]",
+      "score": 40,
+      "titleZh": "The Cloudflare Blog – Brought to you by EmDash"
     },
     {
-      "title": "Over a million chess reviews a month, and the engine runs on your phone, not my server",
-      "link": "https://dev.to/mehdibenhaddou/over-a-million-chess-reviews-a-month-and-the-engine-runs-on-your-phone-not-my-server-3oah",
-      "source": "Dev.to WebDev",
+      "title": "Optimizing a Lock-Free Ring Buffer",
+      "link": "https://www.reddit.com/r/programming/comments/1wqok1x/optimizing_a_lockfree_ring_buffer/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 14:01:39 +0000",
-      "summary": "Most chess sites limit free game review for a boring reason: running a chess engine over every move of every game costs real CPU, and someone has to pay for it. If a review takes 20 seconds of server ",
-      "score": 5,
-      "titleZh": "Over a million chess reviews a month, and the engine runs on your phone, not my server"
+      "date": "2026-09-26T11:49:56.000Z",
+      "summary": "submitted by /u/david-alvarez-rosa [link] [comments]",
+      "score": 40,
+      "titleZh": "Optimizing a Lock-Free Ring Buffer"
     },
     {
-      "title": "Autonomous Heading Hierarchy Auditing: Semantic Structure for Humans & Machines",
-      "link": "https://dev.to/sameer_hassan/autonomous-heading-hierarchy-auditing-semantic-structure-for-humans-machines-5c13",
-      "source": "Dev.to WebDev",
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "link": "https://www.reddit.com/r/programming/comments/1wqkpth/fourier_analysis_drawing_llamas_with_circles/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 13:57:13 +0000",
-      "summary": "In modern web development, styling frameworks like Tailwind CSS make it deceptively easy to choose HTML tags based on visual font size rather than document semantics: <!-- ❌ ANTI-PATTERN: Jumps from H",
-      "score": 5,
-      "titleZh": "Autonomous Heading Hierarchy Auditing: Semantic Structure for Humans & Machines"
+      "date": "2026-09-26T07:54:30.000Z",
+      "summary": "submitted by /u/lelanthran [link] [comments]",
+      "score": 40,
+      "titleZh": "Fourier Analysis: Drawing Llamas with Circles"
     },
     {
-      "title": "Vite+ — Chapter 5: Should You Use Vite+?",
-      "link": "https://dev.to/othmane_nemli/vite-chapter-5-should-you-use-vite-4l8b",
-      "source": "Dev.to JS",
+      "title": "A Lean Proof Printing Python Union Find",
+      "link": "https://www.reddit.com/r/programming/comments/1wqan1r/a_lean_proof_printing_python_union_find/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 13:56:21 +0000",
-      "summary": "We've reached the final chapter. Now comes the question every developer eventually asks when evaluating a new tool: Should I actually use it? The answer depends on your project. Vite+ isn't something ",
-      "score": 5,
-      "titleZh": "Vite+ — Chapter 5: Should You Use Vite+?"
+      "date": "2026-09-25T23:02:12.000Z",
+      "summary": "submitted by /u/mttd [link] [comments]",
+      "score": 40,
+      "titleZh": "A Lean Proof Printing Python Union Find"
     },
     {
-      "title": "Building Trusted Location Intelligence with LeeX: Infrastructure Profiles, Location Identity, Location Profiles",
-      "link": "https://dev.to/leexcity/building-trusted-location-intelligence-with-leex-infrastructure-profiles-location-identity-20jk",
-      "source": "Dev.to WebDev",
+      "title": "Microservices are organizational debt disguised as architecture.",
+      "link": "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 13:55:35 +0000",
-      "summary": "A useful city discovery system needs more than a collection of names and coordinates. People need to understand what a place is, where it belongs, what information describes it and whether that inform",
-      "score": 5,
-      "titleZh": "Building Trusted Location Intelligence with LeeX: Infrastructure Profiles, Location Identity, Location Profiles"
+      "date": "2026-09-25T21:35:37.000Z",
+      "summary": "Every time I’ve seen microservices pitched, it sounds great on paper. Independent teams, clean ownership, scale only what you need. Then a year later you’ve got dozens of services, three different dep",
+      "score": 40,
+      "titleZh": "Microservices are organizational debt disguised as architecture."
     },
     {
-      "title": "OpenAI vs Gemini vs Perplexity Deep Research",
-      "link": "https://dev.to/diflowrin/openai-vs-gemini-vs-perplexity-deep-research-1nk2",
+      "title": "We still maintain a development tool first released in 1993. Here’s what 30+ years of backwards compatibility looks like",
+      "link": "https://www.reddit.com/r/programming/comments/1wpuggf/we_still_maintain_a_development_tool_first/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-25T12:00:31.000Z",
+      "summary": "submitted by /u/luissinlios [link] [comments]",
+      "score": 40,
+      "titleZh": "We still maintain a development tool first released in 1993. Here’s what 30+ years of backwards compatibility looks like"
+    },
+    {
+      "title": "The same word can be an answer or a silence signal",
+      "link": "https://dev.to/zackchew/the-same-word-can-be-an-answer-or-a-silence-signal-1mag",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 13:55:08 +0000",
-      "summary": "Everyone is arguing about OpenAI Deep Research vs Gemini Deep Research vs Perplexity Research, and almost nobody asks the only question that matters: what are you actually paying for, and what do you ",
+      "date": "Sun, 27 Sep 2026 03:39:55 +0000",
+      "summary": "An agent answering a yes-or-no question with NO can have its answer classified as silence in the group-turn implementation examined here. Change that answer to No, and the silence check returns false.",
       "score": 5,
-      "titleZh": "OpenAI vs Gemini vs Perplexity Deep Research"
+      "titleZh": "The same word can be an answer or a silence signal"
     },
     {
-      "title": "Web Application Scalability Explained: A Guide for Founders and CTOs",
-      "link": "https://dev.to/sadique_anwar_b90373bc79c/web-application-scalability-explained-a-guide-for-founders-and-ctos-52ej",
+      "title": "Best Books and Resources to Learn Nuxt",
+      "link": "https://dev.to/nick_davies_323125afbb05c/best-books-and-resources-to-learn-nuxt-1f8a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 26 Sep 2026 13:53:33 +0000",
-      "summary": "A web application can perform perfectly with a few hundred users and then struggle when traffic suddenly increases. For founders and CTOs, scalability is therefore not simply a technical concern. It d",
+      "date": "Sun, 27 Sep 2026 03:31:37 +0000",
+      "summary": "Nuxt has become the go‑to framework for building server‑side rendered Vue applications, but mastering it takes more than just reading the official docs. Below are some tried‑and‑true books that cover ",
       "score": 5,
-      "titleZh": "Web Application Scalability Explained: A Guide for Founders and CTOs"
-    },
-    {
-      "title": "Building FoxyInvoice — Appendix: Glossary & Checklists",
-      "link": "https://dev.to/seolith/building-foxyinvoice-appendix-glossary-checklists-72f",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 26 Sep 2026 13:53:23 +0000",
-      "summary": "This series is written in the open, from a real production system. This closing reference page collects every term the series used and the two checklists that turn it into a launch. [All chapters and ",
-      "score": 5,
-      "titleZh": "Building FoxyInvoice — Appendix: Glossary & Checklists"
+      "titleZh": "Best Books and Resources to Learn Nuxt"
     }
   ]
 }
