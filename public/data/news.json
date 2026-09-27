@@ -1,21 +1,81 @@
 {
-  "updated": "2026-09-27T03:43:24.978Z",
+  "updated": "2026-09-27T15:00:01.841Z",
   "date": "2026-09-27",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 27 Sep 2026 06:19:33 +0000",
+      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864",
+      "score": 508,
+      "titleZh": "OpenAI Feared \"Optics\" of what might appear on Hacker News"
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 26 Sep 2026 18:22:41 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112",
+      "score": 291,
+      "titleZh": "DeepSeek Elastic Compute (DSec)"
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 24 Sep 2026 20:51:50 +0000",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579",
+      "score": 256,
+      "titleZh": "How I changed teaching after AI managed to do all my homework assignments"
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "link": "https://arxiv.org/abs/2609.25021",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 27 Sep 2026 10:26:25 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343",
+      "score": 80,
+      "titleZh": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice"
+    },
+    {
+      "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-27T03:38:07.000Z",
-      "summary": "Hey r/MachineLearning! I’ve been working on a new optimizer called Tauon (turns out there is already \"teon\" but well if you have better idea, - i will gladly accept it! Anyway the core idea of optimiz",
+      "date": "2026-09-27T12:30:00.000Z",
+      "summary": "The opponent plans by simulation: every second it scores each candidate play by running the match 10 seconds ahead in the engine. Our PPO agent learned to park its Cannon behind its own King. Losing a",
       "score": 40,
-      "titleZh": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]"
+      "titleZh": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]"
+    },
+    {
+      "title": "When do ICLR submissions and reviews become public? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-27T06:27:37.000Z",
+      "summary": "Hi everyone, I have a question about ICLR’s open review process. I have experience with ICML/NeurIPS/AAAI, but this is my first time submitting to ICLR, and I understand that its public review process",
+      "score": 40,
+      "titleZh": "When do ICLR submissions and reviews become public? [D]"
     },
     {
       "title": "Teaching Neural Nets to Fight with RL [P]",
@@ -25,7 +85,7 @@
         "AI"
       ],
       "date": "2026-09-27T03:10:39.000Z",
-      "summary": "In this project I wanted to see if we could discover any interesting emergent behaviors if we trained two agents to play a streetfighter-like game. It turns out that the agents are really good at rewa",
+      "summary": "In this project I wanted to see if any interesting emergent behaviors would appear if we trained two agents to play a streetfighter-like game using RL. Maybe obvious in retrospect, but the agents are ",
       "score": 40,
       "titleZh": "Teaching Neural Nets to Fight with RL [P]"
     },
@@ -66,184 +126,124 @@
       "titleZh": "Publication potential [D]"
     },
     {
-      "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-26T00:12:30.000Z",
-      "summary": "This is how ridiculous things have become submitted by /u/Even-Inevitable-7243 [link] [comments]",
-      "score": 40,
-      "titleZh": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-31T02:30:17.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "score": 5,
-      "titleZh": "Proaction boosts sales 60% and saves 75+ hours with Codex"
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 24 Sep 2026 14:08:57 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Accelerating vision-language models with LFM2.5-VL-DSpark"
-    },
-    {
-      "title": "Building dogsbod: A quadruped robot",
-      "link": "https://www.reddit.com/r/programming/comments/1wqw5n3/building_dogsbod_a_quadruped_robot/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-26T17:22:53.000Z",
-      "summary": "A hand written technical write-up of the process I went through designing, building and programming dogsbod, a quadruped robot. submitted by /u/zanders3 [link] [comments]",
-      "score": 40,
-      "titleZh": "Building dogsbod: A quadruped robot"
-    },
-    {
-      "title": "On programming, statistics, and Java",
-      "link": "https://www.reddit.com/r/programming/comments/1wqvxt6/on_programming_statistics_and_java/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-26T17:14:07.000Z",
-      "summary": "submitted by /u/Mihai4544 [link] [comments]",
-      "score": 40,
-      "titleZh": "On programming, statistics, and Java"
-    },
-    {
-      "title": "The Cloudflare Blog – Brought to you by EmDash",
-      "link": "https://www.reddit.com/r/programming/comments/1wqv795/the_cloudflare_blog_brought_to_you_by_emdash/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-26T16:44:56.000Z",
-      "summary": "Migration from wordpress to internal tool submitted by /u/Ok_Stomach6651 [link] [comments]",
-      "score": 40,
-      "titleZh": "The Cloudflare Blog – Brought to you by EmDash"
-    },
-    {
-      "title": "Optimizing a Lock-Free Ring Buffer",
-      "link": "https://www.reddit.com/r/programming/comments/1wqok1x/optimizing_a_lockfree_ring_buffer/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-26T11:49:56.000Z",
-      "summary": "submitted by /u/david-alvarez-rosa [link] [comments]",
-      "score": 40,
-      "titleZh": "Optimizing a Lock-Free Ring Buffer"
-    },
-    {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "link": "https://www.reddit.com/r/programming/comments/1wqkpth/fourier_analysis_drawing_llamas_with_circles/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-26T07:54:30.000Z",
-      "summary": "submitted by /u/lelanthran [link] [comments]",
-      "score": 40,
-      "titleZh": "Fourier Analysis: Drawing Llamas with Circles"
-    },
-    {
-      "title": "A Lean Proof Printing Python Union Find",
-      "link": "https://www.reddit.com/r/programming/comments/1wqan1r/a_lean_proof_printing_python_union_find/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-25T23:02:12.000Z",
-      "summary": "submitted by /u/mttd [link] [comments]",
-      "score": 40,
-      "titleZh": "A Lean Proof Printing Python Union Find"
-    },
-    {
-      "title": "Microservices are organizational debt disguised as architecture.",
-      "link": "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-25T21:35:37.000Z",
-      "summary": "Every time I’ve seen microservices pitched, it sounds great on paper. Independent teams, clean ownership, scale only what you need. Then a year later you’ve got dozens of services, three different dep",
-      "score": 40,
-      "titleZh": "Microservices are organizational debt disguised as architecture."
-    },
-    {
-      "title": "We still maintain a development tool first released in 1993. Here’s what 30+ years of backwards compatibility looks like",
-      "link": "https://www.reddit.com/r/programming/comments/1wpuggf/we_still_maintain_a_development_tool_first/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-25T12:00:31.000Z",
-      "summary": "submitted by /u/luissinlios [link] [comments]",
-      "score": 40,
-      "titleZh": "We still maintain a development tool first released in 1993. Here’s what 30+ years of backwards compatibility looks like"
-    },
-    {
-      "title": "The same word can be an answer or a silence signal",
-      "link": "https://dev.to/zackchew/the-same-word-can-be-an-answer-or-a-silence-signal-1mag",
+      "title": "How to Build a WNBA Live Score Tracker with Sportmicro",
+      "link": "https://dev.to/mihailove123/how-to-build-a-wnba-live-score-tracker-with-sportmicro-2ln6",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 27 Sep 2026 03:39:55 +0000",
-      "summary": "An agent answering a yes-or-no question with NO can have its answer classified as silence in the group-turn implementation examined here. Change that answer to No, and the silence check returns false.",
+      "date": "Sun, 27 Sep 2026 14:57:50 +0000",
+      "summary": "I wanted a small but realistic way to explore WNBA data without turning the app into a toy demo. The goal of this project was to build a clean, production-style live score tracker that shows how a dev",
       "score": 5,
-      "titleZh": "The same word can be an answer or a silence signal"
+      "titleZh": "How to Build a WNBA Live Score Tracker with Sportmicro"
     },
     {
-      "title": "Best Books and Resources to Learn Nuxt",
-      "link": "https://dev.to/nick_davies_323125afbb05c/best-books-and-resources-to-learn-nuxt-1f8a",
+      "title": "Worker Exceeded CPU Time Limit? Split the Job to Fix It",
+      "link": "https://dev.to/ronency/worker-exceeded-cpu-time-limit-split-the-job-to-fix-it-1i7e",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:56:51 +0000",
+      "summary": "Your Worker runs fine on small inputs. Then you point it at the full dataset and it dies mid-run with: Error 1102: Worker exceeded CPU time limit Nothing's wrong with your logic — you've hit a per-inv",
+      "score": 5,
+      "titleZh": "Worker Exceeded CPU Time Limit? Split the Job to Fix It"
+    },
+    {
+      "title": "How to Get More Views on YouTube Shorts for a Small Channel in 2026",
+      "link": "https://dev.to/shahid7863/how-to-get-more-views-on-youtube-shorts-for-a-small-channel-in-2026-1ap",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 27 Sep 2026 03:31:37 +0000",
-      "summary": "Nuxt has become the go‑to framework for building server‑side rendered Vue applications, but mastering it takes more than just reading the official docs. Below are some tried‑and‑true books that cover ",
+      "date": "Sun, 27 Sep 2026 14:55:52 +0000",
+      "summary": "How to Get More Views on YouTube Shorts for a Small Channel in 2026 You upload a YouTube Short, wait for the views to arrive, and then discover that it received only a handful of views. If this keeps ",
       "score": 5,
-      "titleZh": "Best Books and Resources to Learn Nuxt"
+      "titleZh": "How to Get More Views on YouTube Shorts for a Small Channel in 2026"
+    },
+    {
+      "title": "Programmatic SEO at Scale: Generating 1,000 High-Converting Pages Without Penalties",
+      "link": "https://dev.to/sameer_hassan/programmatic-seo-at-scale-generating-1000-high-converting-pages-without-penalties-2mb9",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:53:50 +0000",
+      "summary": "Programmatic SEO (pSEO) is one of the most potent distribution flywheels for technical SaaS products. By generating landing pages dynamically from structured datasets (such as competitor comparison ma",
+      "score": 5,
+      "titleZh": "Programmatic SEO at Scale: Generating 1,000 High-Converting Pages Without Penalties"
+    },
+    {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "link": "https://dev.to/sam_raisinghani_b6dec128c/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services-41j5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:50:46 +0000",
+      "summary": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Ema raises $77M as AI starts eating into enterprise software and services - TechCrunch for ",
+      "score": 5,
+      "titleZh": "Ema raises $77M as AI starts eating into enterprise software and services"
+    },
+    {
+      "title": "We rebuilt CoinMarketCap-style markets pages on free data — here's the stack",
+      "link": "https://dev.to/verixia_233e4721792ce3390/we-rebuilt-coinmarketcap-style-markets-pages-on-free-data-heres-the-stack-2mpi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:50:02 +0000",
+      "summary": "Every crypto team's landing page eventually wants a markets table: price, 24h volume, liquidity, holders, per-chain breakdown. The usual answer is \"pay CoinGecko/CMC $300+/mo and pray the rate limit h",
+      "score": 5,
+      "titleZh": "We rebuilt CoinMarketCap-style markets pages on free data — here's the stack"
+    },
+    {
+      "title": "I built OmniBoard Pro: A free, zero-signup infinite whiteboard for STEM",
+      "link": "https://dev.to/panache-baghla/i-built-omniboard-pro-a-free-zero-signup-infinite-whiteboard-for-stem-10gn",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:47:34 +0000",
+      "summary": "I built OmniBoard Pro because most digital whiteboards are either locked behind paywalls, require mandatory sign-ups, or get sluggish when sketching quick equations and diagrams. Whether you're workin",
+      "score": 5,
+      "titleZh": "I built OmniBoard Pro: A free, zero-signup infinite whiteboard for STEM"
+    },
+    {
+      "title": "Building Small-Business Sites That AI Assistants Actually Cite",
+      "link": "https://dev.to/jam-techcirkle/building-small-business-sites-that-ai-assistants-actually-cite-1na7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:42:29 +0000",
+      "summary": "If you build sites for small businesses, the deliverable changed and the brief probably did not. Clients still ask for pages. What determines whether those pages do anything is now largely machine-rea",
+      "score": 5,
+      "titleZh": "Building Small-Business Sites That AI Assistants Actually Cite"
+    },
+    {
+      "title": "API Idempotency Keys: Stopping Duplicate Writes in Laravel",
+      "link": "https://dev.to/aqib_javaid/api-idempotency-keys-stopping-duplicate-writes-in-laravel-2cel",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:41:58 +0000",
+      "summary": "Introduction: \"Just Retry\" Is Where Duplicate Charges Come From A mobile client on a flaky connection sends POST /api/wallet/topup, the request reaches the server, the charge goes through, and the res",
+      "score": 5,
+      "titleZh": "API Idempotency Keys: Stopping Duplicate Writes in Laravel"
+    },
+    {
+      "title": "Cardio-Oncology: Bridging Heart Health and Cancer Care",
+      "link": "https://dev.to/dr_minatiucg_2c13d3a496/cardio-oncology-bridging-heart-health-and-cancer-care-2gf5",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 27 Sep 2026 14:38:07 +0000",
+      "summary": "Cancer treatment has advanced significantly over the past several decades, helping millions of patients achieve longer survival and improved quality of life. However, as cancer therapies become more e",
+      "score": 5,
+      "titleZh": "Cardio-Oncology: Bridging Heart Health and Cancer Care"
     }
   ]
 }
