@@ -1,21 +1,105 @@
 {
-  "updated": "2026-09-28T03:42:06.035Z",
+  "updated": "2026-09-28T17:57:48.376Z",
   "date": "2026-09-28",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wrxabu/twostage_shelf_audit_yolo_finds_the_products/",
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 28 Sep 2026 16:11:42 +0000",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312",
+      "score": 253,
+      "titleZh": "The problem is not AI code, but not knowing about system architecture or intent"
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "link": "https://arxiv.org/abs/2110.01834",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 28 Sep 2026 03:23:53 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241",
+      "score": 163,
+      "titleZh": "Thinking fast and slow in AI: The role of metacognition (2021)"
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 28 Sep 2026 11:02:12 +0000",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148",
+      "score": 57,
+      "titleZh": "What Would a Serious AI Product Look Like?"
+    },
+    {
+      "title": "How are you guys getting youtube training data at scale ?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wskuh8/how_are_you_guys_getting_youtube_training_data_at/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-27T22:13:14.000Z",
-      "summary": "Help: Project l'm building a shelf audit tool. A photo goes through YOLO, which crops each product, and then I embed the crop and search a small gallery of reference photos to get the SKU. New product",
+      "date": "2026-09-28T17:24:06.000Z",
+      "summary": "Working on a project where i need transcripts from a few thousand youtube videos as part of a training corpus. Mostly educational content, lectures, conference talks, that kind of thing. Started with ",
       "score": 40,
-      "titleZh": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]"
+      "titleZh": "How are you guys getting youtube training data at scale ?[D]"
+    },
+    {
+      "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-28T14:06:42.000Z",
+      "summary": "Yesterday I shared our open-source Clash Royale simulator and its recurrent PPO agent here. A training loop is easier to understand when you can watch it, so we put a small interactive version online:",
+      "score": 40,
+      "titleZh": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]"
+    },
+    {
+      "title": "Functional Gradient Descent with Adaptive Representations [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-28T13:23:54.000Z",
+      "summary": "Sharing our recent work, now accepted at NeurIPS: Functional Gradient Descent with Adaptive Representations. Functional GD algorithms generally outperform neural nets, but are hard to accurately imple",
+      "score": 40,
+      "titleZh": "Functional Gradient Descent with Adaptive Representations [R]"
+    },
+    {
+      "title": "Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-28T11:11:59.000Z",
+      "summary": "I benchmarked Qwen3-VL 8B Instruct (Q4_K_M, Ollama, M5 24GB, ~30s/doc) against Claude Opus 5.5, Sonnet 5 and GPT-5.6 Terra on: - receipts: CORD (Indonesia) and SROIE (Malaysia), 30 each - 20 scanned 1",
+      "score": 40,
+      "titleZh": "Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]"
+    },
+    {
+      "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-28T05:49:38.000Z",
+      "summary": "AI Engineering from Scratch is an MIT-licensed curriculum: 523 lessons across 20 phases, from linear algebra and backprop to transformers, LLMs, agents, and production serving. The code is stdlib-firs",
+      "score": 40,
+      "titleZh": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]"
     },
     {
       "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
@@ -30,54 +114,6 @@
       "titleZh": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]"
     },
     {
-      "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-27T12:30:00.000Z",
-      "summary": "The opponent plans by simulation: every second it scores each candidate play by running the match 10 seconds ahead in the engine. Our PPO agent learned to park its Cannon behind its own King. Losing a",
-      "score": 40,
-      "titleZh": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]"
-    },
-    {
-      "title": "When do ICLR submissions and reviews become public? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-27T06:27:37.000Z",
-      "summary": "Hi everyone, I have a question about ICLR’s open review process. I have experience with ICML/NeurIPS/AAAI, but this is my first time submitting to ICLR, and I understand that its public review process",
-      "score": 40,
-      "titleZh": "When do ICLR submissions and reviews become public? [D]"
-    },
-    {
-      "title": "Teaching Neural Nets to Fight with RL [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-27T03:10:39.000Z",
-      "summary": "In this project I wanted to see if any interesting emergent behaviors would appear if we trained two agents to play a streetfighter-like game using RL. Maybe obvious in retrospect, but the agents are ",
-      "score": 40,
-      "titleZh": "Teaching Neural Nets to Fight with RL [P]"
-    },
-    {
-      "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-26T18:38:38.000Z",
-      "summary": "Hi everyone, I built an educational tool that shows what happens inside a small MLP while it trains, and I'd like some feedback from people who teach ML. Everything is plain NumPy, no autograd: manual",
-      "score": 40,
-      "titleZh": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -90,42 +126,6 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-08-31T02:30:17.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "score": 5,
-      "titleZh": "Proaction boosts sales 60% and saves 75+ hours with Codex"
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 24 Sep 2026 14:08:57 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Accelerating vision-language models with LFM2.5-VL-DSpark"
-    },
-    {
       "title": "Self-Hosting on the Dark Web",
       "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
       "source": "HN·前端",
@@ -134,116 +134,116 @@
       ],
       "date": "Sun, 27 Sep 2026 20:03:36 +0000",
       "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295",
-      "score": 84,
+      "score": 320,
       "titleZh": "Self-Hosting on the Dark Web"
     },
     {
-      "title": "مراجعة منى الحازمي لخدمة التصميم والهوية البصرية من سلطان فيرست — تجربة محل ساعات فخمة في عرعر بعد 9 أشهر",
-      "link": "https://dev.to/__32a29f7485a94d/mrj-mn-lhzmy-lkhdm-ltsmym-wlhwy-lbsry-mn-sltn-fyrst-tjrb-mhl-st-fkhm-fy-rr-bd-1lik",
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "link": "https://github.com/seamusc/papermono-shopping-list",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 28 Sep 2026 10:14:41 +0000",
+      "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++. This is a great wee device! BLE, Wi-Fi an",
+      "score": 86,
+      "titleZh": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page"
+    },
+    {
+      "title": "10 Python One-Liners That Will Blow Your Mind (With Real Examples)",
+      "link": "https://dev.to/syncore/10-python-one-liners-that-will-blow-your-mind-with-real-examples-29n5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:38:42 +0000",
-      "summary": "التاريخ: يوليو 2025 المراجِع: منى الحازمي — صاحبة محل ساعات فخمة في عرعر الخدمة: التصميم والهوية البصرية (https://sultanfirst.com/design-visual-identity.html) مدة التجربة: 9 أشهر المقالة التي بين يديك",
+      "date": "Mon, 28 Sep 2026 17:51:57 +0000",
+      "summary": "3 min read · 525 words Python is famous for letting you express complex ideas in just a few lines of code. But some one-liners go beyond clean syntax—they completely change how you think about solving",
       "score": 5,
-      "titleZh": "مراجعة منى الحازمي لخدمة التصميم والهوية البصرية من سلطان فيرست — تجربة محل ساعات فخمة في عرعر بعد 9 أشهر"
+      "titleZh": "10 Python One-Liners That Will Blow Your Mind (With Real Examples)"
     },
     {
-      "title": "Managing Regulator Interactions: How to Handle Inquiries and Examinations with Confidence",
-      "link": "https://dev.to/itechgrc_solutions/managing-regulator-interactions-how-to-handle-inquiries-and-examinations-with-confidence-495b",
+      "title": "Drizzle ORM vs Prisma: Real-World Performance & Migration in High-Throughput SaaS",
+      "link": "https://dev.to/sameer_hassan/drizzle-orm-vs-prisma-real-world-performance-migration-in-high-throughput-saas-p0j",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 28 Sep 2026 17:51:50 +0000",
+      "summary": "When building a full-stack TypeScript application on Next.js or Node.js, choosing your database abstraction layer is one of the most critical foundational decisions. For years, Prisma has been the def",
+      "score": 5,
+      "titleZh": "Drizzle ORM vs Prisma: Real-World Performance & Migration in High-Throughput SaaS"
+    },
+    {
+      "title": "I Tried to Make AI Build a Complete Website From One Sentence. Here’s What Broke",
+      "link": "https://dev.to/emanuil_vg/i-tried-to-make-ai-build-a-complete-website-from-one-sentence-heres-what-broke-4lem",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:38:03 +0000",
-      "summary": "Few moments test a compliance function like a regulator's inquiry. A letter arrives with a deadline, a list of questions, and an expectation of complete, accurate answers. Behind the scenes, someone h",
+      "date": "Mon, 28 Sep 2026 17:49:46 +0000",
+      "summary": "I Tried to Make AI Build a Complete Website From One Sentence. Here’s What Broke A few seconds later, you have a homepage. a hero section service descriptions an About section testimonials FAQs calls ",
       "score": 5,
-      "titleZh": "Managing Regulator Interactions: How to Handle Inquiries and Examinations with Confidence"
+      "titleZh": "I Tried to Make AI Build a Complete Website From One Sentence. Here’s What Broke"
     },
     {
-      "title": "Why Your AI Agent Keeps Failing in Production (It's Not the Model)",
-      "link": "https://dev.to/aibughunter/why-your-ai-agent-keeps-failing-in-production-its-not-the-model-4cbe",
+      "title": "AI tools kept inventing skills on my resume, so I built an anti-hallucination MCP pipeline",
+      "link": "https://dev.to/ambuj_tripathi/ai-tools-kept-inventing-skills-on-my-resume-so-i-built-an-anti-hallucination-mcp-pipeline-2ko9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:35:06 +0000",
-      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "date": "Mon, 28 Sep 2026 17:48:06 +0000",
+      "summary": "I was applying for jobs last month and tried 3 different \"AI cover letter generators.\" Every single one invented skills I don't have. One told a recruiter I had \"5+ years of Kubernetes orchestration e",
       "score": 5,
-      "titleZh": "Why Your AI Agent Keeps Failing in Production (It's Not the Model)"
+      "titleZh": "AI tools kept inventing skills on my resume, so I built an anti-hallucination MCP pipeline"
     },
     {
-      "title": "The LLM Nobody Talks About That Keeps Showing Up in Production Stacks",
-      "link": "https://dev.to/aibughunter/the-llm-nobody-talks-about-that-keeps-showing-up-in-production-stacks-4g12",
+      "title": "Before you build a scraper: a public-data CSV scope card that keeps one-offs honest",
+      "link": "https://dev.to/kzahiri/before-you-build-a-scraper-a-public-data-csv-scope-card-that-keeps-one-offs-honest-2mh4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:33:45 +0000",
-      "summary": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the demos show and what production systems act",
+      "date": "Mon, 28 Sep 2026 17:47:57 +0000",
+      "summary": "Most “quick scrapes” fail the same way: unclear fields, no row cap, and silent nulls after pagination. Before you open Playwright (or hire someone), write this scope card for any public source: URL pa",
       "score": 5,
-      "titleZh": "The LLM Nobody Talks About That Keeps Showing Up in Production Stacks"
+      "titleZh": "Before you build a scraper: a public-data CSV scope card that keeps one-offs honest"
     },
     {
-      "title": "لماذا اخترت سلطان فيرست لخدمة برمجة المواقع؟ تحليل صادق من ماجد الحازمي",
-      "link": "https://dev.to/__32a29f7485a94d/lmdh-khtrt-sltn-fyrst-lkhdm-brmj-lmwq-thlyl-sdq-mn-mjd-lhzmy-1i0b",
+      "title": "Engineering a Low-Latency WebSocket Pipeline for Live PSX Market Feeds",
+      "link": "https://dev.to/usman_khan_io/engineering-a-low-latency-websocket-pipeline-for-live-psx-market-feeds-468a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:33:20 +0000",
-      "summary": "في السطور القادمة، لن أُبالغ ولن أُقلّل، بل سأنقل الواقع كما رأيته وعشته. أُقدّم مسبقاً توضيحاً: لا علاقة لي بترويج مدفوع. أعمل في صيدلية داخل جدة، وأكتب بعد 7 أشهر من التعامل معهم. الفجوة بين ما أريد",
+      "date": "Mon, 28 Sep 2026 17:46:35 +0000",
+      "summary": "When handling high-frequency market data from the Pakistan Stock Exchange (PSX), standard HTTP polling introduces intolerable latency, redundant server overhead, and rate-limiting bottlenecks. To deli",
       "score": 5,
-      "titleZh": "لماذا اخترت سلطان فيرست لخدمة برمجة المواقع؟ تحليل صادق من ماجد الحازمي"
+      "titleZh": "Engineering a Low-Latency WebSocket Pipeline for Live PSX Market Feeds"
     },
     {
-      "title": "دراسة حالة: تحويل منصة خدمة عملاء رقمية في حفر الباطن بخدمة الشات بوت",
-      "link": "https://dev.to/__32a29f7485a94d/drs-hl-thwyl-mns-khdm-ml-rqmy-fy-hfr-lbtn-bkhdm-lsht-bwt-51ji",
+      "title": "Hindsight finds the bug reports. My code decides what's true.",
+      "link": "https://dev.to/ekansh2008/hindsight-finds-the-bug-reports-my-code-decides-whats-true-360f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:30:38 +0000",
-      "summary": "نظرة عامة العميل: منصة خدمة عملاء رقمية الموقع: حفر الباطن، المملكة العربية السعودية الخدمة المقدّمة: روبوتات المحادثة — https://sultanfirst.com/chatbots.html مدة المشروع: 6 أشهر تاريخ الإطلاق: أبريل ",
+      "date": "Mon, 28 Sep 2026 17:44:07 +0000",
+      "summary": "Hindsight finds the bug reports. My code decides what's true. The first real answer our upgrade agent gave me looked perfect: a numbered list of things that break when you move a Next.js app from 14.1",
       "score": 5,
-      "titleZh": "دراسة حالة: تحويل منصة خدمة عملاء رقمية في حفر الباطن بخدمة الشات بوت"
+      "titleZh": "Hindsight finds the bug reports. My code decides what's true."
     },
     {
-      "title": "Full Stack Developer Reading List 2026",
-      "link": "https://dev.to/nick_davies_323125afbb05c/full-stack-developer-reading-list-2026-4b52",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 28 Sep 2026 03:28:54 +0000",
-      "summary": "1. Designing Data-Intensive Applications — Martin Kleppmann 616 pages · 2017 · system design Get it on Amazon 322 pages · 2020 · system design Get it on Amazon 434 pages · 2022 · system design Get it ",
-      "score": 5,
-      "titleZh": "Full Stack Developer Reading List 2026"
-    },
-    {
-      "title": "Three bugs that reported success: what \"exit 0\" doesn't tell you",
-      "link": "https://dev.to/wonderfulian/three-bugs-that-reported-success-what-exit-0-doesnt-tell-you-1dcf",
+      "title": "The New Data Explorer: Supplier Data You Can Actually Read",
+      "link": "https://dev.to/psrestful/the-new-data-explorer-supplier-data-you-can-actually-read-40gb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 28 Sep 2026 03:28:51 +0000",
-      "summary": "Last week I wrote about shipping a paid API for AI agents and getting two real calls in a week. The follow-up was supposed to be about fixing the product. It turned into something else, because in the",
+      "date": "Mon, 28 Sep 2026 17:40:51 +0000",
+      "summary": "The Data Explorer is the part of the PSRESTful dashboard where you point at one supplier and one product and see exactly what their PromoStandards services return: product data, inventory, media and p",
       "score": 5,
-      "titleZh": "Three bugs that reported success: what \"exit 0\" doesn't tell you"
-    },
-    {
-      "title": "How I Built a Real-Time Football Stats Tracker: Man City? I feel cheated when do Stoke City get our FA Cup?",
-      "link": "https://dev.to/muhammad_binnazeer_6a810/how-i-built-a-real-time-football-stats-tracker-man-city-i-feel-cheated-when-do-stoke-city-get-our-1j4g",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 28 Sep 2026 03:08:27 +0000",
-      "summary": "How I Built a Real-Time Football Stats Tracker: Man City? I feel cheated when do Stoke City get our FA Cup? TL;DR: Facts check out — the verdict (reported 25 Sep 2026) and Puliss BBC column are both r",
-      "score": 5,
-      "titleZh": "How I Built a Real-Time Football Stats Tracker: Man City? I feel cheated when do Stoke City get our FA Cup?"
+      "titleZh": "The New Data Explorer: Supplier Data You Can Actually Read"
     }
   ]
 }
