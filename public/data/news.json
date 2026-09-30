@@ -1,81 +1,93 @@
 {
-  "updated": "2026-09-29T16:20:30.451Z",
-  "date": "2026-09-29",
+  "updated": "2026-09-30T16:15:43.009Z",
+  "date": "2026-09-30",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Limited compute, targeting CVPR: rerun experiments for statistically strong numbers or focus on writing? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wt9w3s/limited_compute_targeting_cvpr_rerun_experiments/",
-      "source": "Reddit ML",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-29T13:18:06.000Z",
-      "summary": "Hi everyone, I'm preparing a submission for CVPR and would appreciate your advice. I am happy with my current results, but compute is a real constraint. My institute isn't a research-focused one, and ",
-      "score": 40,
-      "titleZh": "Limited compute, targeting CVPR: rerun experiments for statistically strong numbers or focus on writing? [D]"
+      "date": "Tue, 29 Sep 2026 17:06:45 +0000",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586",
+      "score": 1029,
+      "titleZh": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
     },
     {
-      "title": "NeurIPS Education Track [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wt77wj/neurips_education_track_d/",
+      "title": "Isolation Forest performs best with 1.0 as max_samples [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu8m1a/isolation_forest_performs_best_with_10_as_max/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-29T11:08:09.000Z",
-      "summary": "Any other one have applied for the Education Track? It seems they'll announce the result soon. submitted by /u/Sufficient-Dream7676 [link] [comments]",
+      "date": "2026-09-30T15:54:58.000Z",
+      "summary": "I am currently using the dataset CICIDS2017 to train an Isolation Forest model for anomaly detection, I am currently using a split that consists of 70% of ONLY BENIGN traffic for training, 15% BENIGN ",
       "score": 40,
-      "titleZh": "NeurIPS Education Track [D]"
+      "titleZh": "Isolation Forest performs best with 1.0 as max_samples [R]"
     },
     {
-      "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
+      "title": "I added 48 free build-from-scratch AI engineering projects where a grader checks every stage you write [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu7rfo/i_added_48_free_buildfromscratch_ai_engineering/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-29T10:35:53.000Z",
-      "summary": "I’ve spent the last few months writing something I wish I had when I started working on ML performance engineering. It’s called How to Make Your Model Fast: A Systems View of Efficient Machine Learnin",
+      "date": "2026-09-30T15:21:08.000Z",
+      "summary": "I maintain AI Engineering from Scratch, an MIT-licensed curriculum on GitHub. Until now it was lessons. I just added a Projects section, because reading about an agent loop and building one that survi",
       "score": 40,
-      "titleZh": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]"
+      "titleZh": "I added 48 free build-from-scratch AI engineering projects where a grader checks every stage you write [P]"
     },
     {
-      "title": "Advice on choosing university for PhD [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wt54tz/advice_on_choosing_university_for_phd_d/",
+      "title": "Which API for general real-time LLM agents [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-29T09:02:43.000Z",
-      "summary": "Hey guys, I got really into research a year ago during my final year of undergrad and maneged to get a first author paper accepted at Neurips 2026. It is a pretty impressive achievement obviously but ",
+      "date": "2026-09-30T15:14:07.000Z",
+      "summary": "[based on AsyncLLM, System 1 LLMs, interaction models, inference libs] I've noticed many projects (academic, startups, pet, etc) are trying to make LLMs work in real-time world where things happen whi",
       "score": 40,
-      "titleZh": "Advice on choosing university for PhD [D]"
+      "titleZh": "Which API for general real-time LLM agents [D]"
     },
     {
-      "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
+      "title": "Open-sourcing RightWayUp - a 360-degree image rotation model, and a JPEG shortcut we found in a common benchmark [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu6reb/opensourcing_rightwayup_a_360degree_image/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-29T02:58:39.000Z",
-      "summary": "I want to attend and present my findings in Atlanta. How is the vibe there? Are people overly critical or are people generally open-minded? submitted by /u/XxCotHGxX [link] [comments]",
+      "date": "2026-09-30T14:42:15.000Z",
+      "summary": "We are open-sourcing RightWayUp - a new image rotation detection model. I work at ORTUS AI (we develop video analytics). We needed to tell from a single CCTV frame whether a camera had been rotated or",
       "score": 40,
-      "titleZh": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]"
+      "titleZh": "Open-sourcing RightWayUp - a 360-degree image rotation model, and a JPEG shortcut we found in a common benchmark [P]"
     },
     {
-      "title": "Functional Gradient Descent with Adaptive Representations [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/",
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-28T13:23:54.000Z",
-      "summary": "Sharing our recent work, now accepted at NeurIPS: Functional Gradient Descent with Adaptive Representations. Functional GD algorithms generally outperform neural nets, but are hard to accurately imple",
+      "date": "2026-09-30T07:28:34.000Z",
+      "summary": "coupled-jump.github.io Hi everyone, I’m happy to share our recent NeurIPS 2026 paper, a collaboration across Google, Google DeepMind and Stony Brook University. We study a mismatch in joint text and i",
       "score": 40,
-      "titleZh": "Functional Gradient Descent with Adaptive Representations [R]"
+      "titleZh": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]"
+    },
+    {
+      "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-09-30T07:19:45.000Z",
+      "summary": "I post-trained Qwen3-4B to spend 44% fewer tokens on reasoning, keeping its knowledge and answer style. The whole pipeline ran on one GPU. folks, you can check it out on : https://5ivatej.com/lessthin",
+      "score": 40,
+      "titleZh": "LessThink-Qwen3-4B: the same model, with far less thinking [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +114,136 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "HuggingFace",
+      "title": "The AI Race Just Got Awkward",
+      "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 29 Sep 2026 15:30:38 GMT",
-      "summary": "",
+      "date": "Wed, 30 Sep 2026 15:50:11 +0000",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553",
+      "score": 30,
+      "titleZh": "The AI Race Just Got Awkward"
+    },
+    {
+      "title": "Annuity vs Equal Principal: Building Both Amortization Schedules in TypeScript",
+      "link": "https://dev.to/daikuantool/annuity-vs-equal-principal-building-both-amortization-schedules-in-typescript-2iok",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:13:32 +0000",
+      "summary": "Two loans can have the same principal, rate, and term while producing very different monthly bills. The difference is often the amortization method: Annuity (also called a fixed-payment or level-payme",
       "score": 5,
-      "titleZh": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
+      "titleZh": "Annuity vs Equal Principal: Building Both Amortization Schedules in TypeScript"
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 29 Sep 2026 13:07:00 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
-    },
-    {
-      "title": "There's no reason to not use C exclusively now !",
-      "link": "https://www.reddit.com/r/programming/comments/1wtde0i/theres_no_reason_to_not_use_c_exclusively_now/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-29T15:36:07.000Z",
-      "summary": "Since AI now handles code comprehension and the headache of pointer management, we can use C for everything to maximize performance and minimize overhead. Software will finally feel as blazingly fast ",
-      "score": 40,
-      "titleZh": "There's no reason to not use C exclusively now !"
-    },
-    {
-      "title": "Java vs Groovy: 7 differences + what Groovy 6.0 brings",
-      "link": "https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-29T14:08:59.000Z",
-      "summary": "submitted by /u/henk53 [link] [comments]",
-      "score": 40,
-      "titleZh": "Java vs Groovy: 7 differences + what Groovy 6.0 brings"
-    },
-    {
-      "title": "nine npm packages shipping worm that spread by itself over SSH",
-      "link": "https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-29T12:23:17.000Z",
-      "summary": "submitted by /u/BattleRemote3157 [link] [comments]",
-      "score": 40,
-      "titleZh": "nine npm packages shipping worm that spread by itself over SSH"
-    },
-    {
-      "title": "Needed 1+1, Built a Functional Programming Language",
-      "link": "https://www.reddit.com/r/programming/comments/1wsx9fe/needed_11_built_a_functional_programming_language/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-29T01:43:29.000Z",
-      "summary": "submitted by /u/GenericAHHyoutuber [link] [comments]",
-      "score": 40,
-      "titleZh": "Needed 1+1, Built a Functional Programming Language"
-    },
-    {
-      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-      "link": "https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-28T23:59:55.000Z",
-      "summary": "submitted by /u/Ok_Stomach6651 [link] [comments]",
-      "score": 40,
-      "titleZh": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen"
-    },
-    {
-      "title": "What good is a best-effort exclusive lock, anyway?",
-      "link": "https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-28T21:04:43.000Z",
-      "summary": "submitted by /u/broken_broken_ [link] [comments]",
-      "score": 40,
-      "titleZh": "What good is a best-effort exclusive lock, anyway?"
-    },
-    {
-      "title": "Fast Primality Testing for 32-bit integers via Forisek and Jancina",
-      "link": "https://www.reddit.com/r/programming/comments/1wsaolh/fast_primality_testing_for_32bit_integers_via/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-28T10:11:33.000Z",
-      "summary": "submitted by /u/DataBaeBee [link] [comments]",
-      "score": 40,
-      "titleZh": "Fast Primality Testing for 32-bit integers via Forisek and Jancina"
-    },
-    {
-      "title": "Don't couple your Go code to GitHub",
-      "link": "https://www.reddit.com/r/programming/comments/1wrnyer/dont_couple_your_go_code_to_github/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-27T16:02:56.000Z",
-      "summary": "submitted by /u/Sir_KnowItAll [link] [comments]",
-      "score": 40,
-      "titleZh": "Don't couple your Go code to GitHub"
-    },
-    {
-      "title": "How I scaled agent memory using Hindsight and FastAPI",
-      "link": "https://dev.to/sravani_cc3df7881fe7de1e3/how-i-scaled-agent-memory-using-hindsight-and-fastapi-4gbm",
+      "title": "XML Sitemap Issues in WordPress: 10 Common Fixes",
+      "link": "https://dev.to/raj_jaiswal62/xml-sitemap-issues-in-wordpress-10-common-fixes-4a89",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 29 Sep 2026 16:15:03 +0000",
-      "summary": "When you start building production-ready AI agents, you quickly realize that stateless LLM calls hit a brick wall the moment your users expect historical context. I ran into this bottleneck while deve",
+      "date": "Wed, 30 Sep 2026 16:12:57 +0000",
+      "summary": "An XML sitemap helps search engines discover important URLs on your WordPress website. But when a sitemap returns a 404 error, “Couldn’t fetch” message, outdated URLs, or invalid XML, the problem can ",
       "score": 5,
-      "titleZh": "How I scaled agent memory using Hindsight and FastAPI"
+      "titleZh": "XML Sitemap Issues in WordPress: 10 Common Fixes"
     },
     {
-      "title": "**Breakout AI Review: My Honest Experience With the Passive System That Claims to Work Better When You Ignore It**",
-      "link": "https://dev.to/al_beruni_6f2dfaf29b51d96/breakout-ai-review-my-honest-experience-with-the-passive-system-that-claims-to-work-better-when-41pl",
-      "source": "Dev.to WebDev",
+      "title": "Adding a second language to a static Next.js site without changing a single URL",
+      "link": "https://dev.to/shibowen336/adding-a-second-language-to-a-static-nextjs-site-without-changing-a-single-url-kp5",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 29 Sep 2026 16:13:59 +0000",
-      "summary": "As a freelance digital marketer who has tested more automated income tools, AI platforms, and trading-related systems than I care to count, I approach big passive-income claims with caution. When I re",
+      "date": "Wed, 30 Sep 2026 16:10:37 +0000",
+      "summary": "My small quiz site started English-only: a Next.js App Router project, output: 'export', deployed as static files. When I added a French version, I had three rules: No English URL could change. They w",
       "score": 5,
-      "titleZh": "**Breakout AI Review: My Honest Experience With the Passive System That Claims to Work Better When You Ignore It**"
+      "titleZh": "Adding a second language to a static Next.js site without changing a single URL"
+    },
+    {
+      "title": "Designing the AI Investigation Layer for WorkMemory AI",
+      "link": "https://dev.to/rithika_gudla_0ae61289b82/designing-the-ai-investigation-layer-for-workmemory-ai-2fph",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:09:34 +0000",
+      "summary": "An AI assistant can generate an answer in seconds, but that answer is much more useful when it has access to the team's own previous experiences. While working on WorkMemory AI, I focused on the AI an",
+      "score": 5,
+      "titleZh": "Designing the AI Investigation Layer for WorkMemory AI"
+    },
+    {
+      "title": "OpenGraph, Twitter Cards & Dynamic Social Previews in Next.js 16",
+      "link": "https://dev.to/sameer_hassan/opengraph-twitter-cards-dynamic-social-previews-in-nextjs-16-dn",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:09:04 +0000",
+      "summary": "When developers and tech leads share links to your application on X (Twitter), LinkedIn, Discord, or Slack, the OpenGraph social card is your primary visual billboard. Yet, most projects rely on stati",
+      "score": 5,
+      "titleZh": "OpenGraph, Twitter Cards & Dynamic Social Previews in Next.js 16"
+    },
+    {
+      "title": "AI Agent 多代理人自動化開發實作：讓 Agents 夜巡，協作開發 SVG 圓形連線工具",
+      "link": "https://dev.to/letswrite/ai-agent-duo-dai-li-ren-zi-dong-hua-kai-fa-shi-zuo-rang-agents-ye-xun-xie-zuo-kai-fa-svg-yuan-xing-lian-xian-gong-ju-5037",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:07:45 +0000",
+      "summary": "本篇要解決的問題 上週為了在 Grok Bot 的 7 天試用期內，看可以玩些什麼，搜了一下網路，看到一個有趣的用法：讓 Agents 在半夜自己「夜巡」，找題目、做出有趣的東西。 覺得這很有趣，很像每天在開盲盒或抽一番賞一樣，所以 August 也建了一個夜巡 Team，看會寫出什麼有趣的功能。 這篇就拿其中一個成果來介紹，主要是一個讓你拉動滑桿，把圓圈上的線變成不同圖案的功能。 成果放上 Gi",
+      "score": 5,
+      "titleZh": "AI Agent 多代理人自動化開發實作：讓 Agents 夜巡，協作開發 SVG 圓形連線工具"
+    },
+    {
+      "title": "javascript Learning:Objects and Arrows Functions.",
+      "link": "https://dev.to/surya_surya_03f1faed79db3/javascript-learningobjects-and-arrows-functions-2lka",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:06:57 +0000",
+      "summary": "Today, I spent some time revising two important JavaScript concepts: Objects and Arrow Functions. JavaScript Objects JavaScript objects are used to store related data and functionality together using ",
+      "score": 5,
+      "titleZh": "javascript Learning:Objects and Arrows Functions."
+    },
+    {
+      "title": "Hardening the Edge: Defeating SSRF, Redirect Traps, and Compression Bombs in Next.js Dynamic OpenGraph Generators",
+      "link": "https://dev.to/arpan_singh_121/hardening-the-edge-defeating-ssrf-redirect-traps-and-compression-bombs-in-nextjs-dynamic-266h",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:06:16 +0000",
+      "summary": "Dynamic OpenGraph (OG) image generation is standard practice in modern web applications. Every blog post, product page, and user profile needs a crisp, auto-generated 1200x630 social preview image for",
+      "score": 5,
+      "titleZh": "Hardening the Edge: Defeating SSRF, Redirect Traps, and Compression Bombs in Next.js Dynamic OpenGraph Generators"
+    },
+    {
+      "title": "Prevent Cart Desync: Build a Next.js Mini App Shop with MainButton Checkout",
+      "link": "https://dev.to/serhii_a9c08345ac360cf5c8/prevent-cart-desync-build-a-nextjs-mini-app-shop-with-mainbutton-checkout-2ahl",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:02:16 +0000",
+      "summary": "Building an e-commerce shop inside a Telegram Mini App using Next.js App Router offers a highly integrated user experience. However, developers often face critical integration hurdles. If you treat a ",
+      "score": 5,
+      "titleZh": "Prevent Cart Desync: Build a Next.js Mini App Shop with MainButton Checkout"
+    },
+    {
+      "title": "I didn't want Redis + workers just to run an HTTP request later",
+      "link": "https://dev.to/heydavy/i-didnt-want-redis-workers-just-to-run-an-http-request-later-1b9n",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 30 Sep 2026 16:00:11 +0000",
+      "summary": "A common requirement in backend applications sounds simple: \"Do this later.\" Maybe it's sending an email, processing an order, calling another service, generating something asynchronously or retrying ",
+      "score": 5,
+      "titleZh": "I didn't want Redis + workers just to run an HTTP request later"
     }
   ]
 }
