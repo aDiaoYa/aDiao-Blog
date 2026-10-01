@@ -1,249 +1,249 @@
 {
-  "updated": "2026-09-30T16:15:43.009Z",
-  "date": "2026-09-30",
+  "updated": "2026-10-01T16:53:16.034Z",
+  "date": "2026-10-01",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 29 Sep 2026 17:06:45 +0000",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586",
-      "score": 1029,
-      "titleZh": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
-    },
-    {
-      "title": "Isolation Forest performs best with 1.0 as max_samples [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu8m1a/isolation_forest_performs_best_with_10_as_max/",
+      "title": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv2jpi/wm_pai_workshop_at_neurips_confused_about_the/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-30T15:54:58.000Z",
-      "summary": "I am currently using the dataset CICIDS2017 to train an Isolation Forest model for anomaly detection, I am currently using a split that consists of 70% of ONLY BENIGN traffic for training, 15% BENIGN ",
+      "date": "2026-10-01T15:31:49.000Z",
+      "summary": "I submitted a paper to the WM PAI workshop at NeurIPS and can now see the reviews and decision on OpenReview, but I didn't receive an official acceptance/rejection email. My reviewer scores were 8, 5,",
       "score": 40,
-      "titleZh": "Isolation Forest performs best with 1.0 as max_samples [R]"
+      "titleZh": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]"
     },
     {
-      "title": "I added 48 free build-from-scratch AI engineering projects where a grader checks every stage you write [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu7rfo/i_added_48_free_buildfromscratch_ai_engineering/",
+      "title": "[D] Simple Questions Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1pyw/d_simple_questions_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-30T15:21:08.000Z",
-      "summary": "I maintain AI Engineering from Scratch, an MIT-licensed curriculum on GitHub. Until now it was lessons. I just added a Projects section, because reading about an agent loop and building one that survi",
+      "date": "2026-10-01T15:00:28.000Z",
+      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after ",
       "score": 40,
-      "titleZh": "I added 48 free build-from-scratch AI engineering projects where a grader checks every stage you write [P]"
+      "titleZh": "[D] Simple Questions Thread"
     },
     {
-      "title": "Which API for general real-time LLM agents [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/",
+      "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-30T15:14:07.000Z",
-      "summary": "[based on AsyncLLM, System 1 LLMs, interaction models, inference libs] I've noticed many projects (academic, startups, pet, etc) are trying to make LLMs work in real-time world where things happen whi",
+      "date": "2026-10-01T14:45:25.000Z",
+      "summary": "I'm one of the authors. We kept seeing models that hold their ground when the user insists on a wrong answer, yet change their answer when the same claim is framed as coming from a \"verified source\". ",
       "score": 40,
-      "titleZh": "Which API for general real-time LLM agents [D]"
+      "titleZh": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]"
     },
     {
-      "title": "Open-sourcing RightWayUp - a 360-degree image rotation model, and a JPEG shortcut we found in a common benchmark [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wu6reb/opensourcing_rightwayup_a_360degree_image/",
+      "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-09-30T14:42:15.000Z",
-      "summary": "We are open-sourcing RightWayUp - a new image rotation detection model. I work at ORTUS AI (we develop video analytics). We needed to tell from a single CCTV frame whether a camera had been rotated or",
+      "date": "2026-10-01T13:12:08.000Z",
+      "summary": "Can training of nonlinear RNNs be efficiently parallelized, ensuring fast convergence even on very long time series from chaotic systems? In our #NeurIPS2026 spotlight “Parallel-in-Time Training of Re",
       "score": 40,
-      "titleZh": "Open-sourcing RightWayUp - a 360-degree image rotation model, and a JPEG shortcut we found in a common benchmark [P]"
-    },
-    {
-      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-30T07:28:34.000Z",
-      "summary": "coupled-jump.github.io Hi everyone, I’m happy to share our recent NeurIPS 2026 paper, a collaboration across Google, Google DeepMind and Stony Brook University. We study a mismatch in joint text and i",
-      "score": 40,
-      "titleZh": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]"
-    },
-    {
-      "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-30T07:19:45.000Z",
-      "summary": "I post-trained Qwen3-4B to spend 44% fewer tokens on reasoning, keeping its knowledge and answer style. The whole pipeline ran on one GPU. folks, you can check it out on : https://5ivatej.com/lessthin",
-      "score": 40,
-      "titleZh": "LessThink-Qwen3-4B: the same model, with far less thinking [P]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-02T02:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-08-31T02:30:17.000Z",
+      "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "The AI Race Just Got Awkward",
-      "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "source": "HN·AI",
+      "title": "How to address novelty concerns in top ai conference? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 30 Sep 2026 15:50:11 +0000",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553",
-      "score": 30,
-      "titleZh": "The AI Race Just Got Awkward"
+      "date": "2026-10-01T01:20:35.000Z",
+      "summary": "Hi, I’m a researcher working in computer vision. Over the past few years, I’ve submitted several papers to top-tier conferences such as NeurIPS, ICLR, and CVPR, and one concern that seems to come up r",
+      "score": 40,
+      "titleZh": "How to address novelty concerns in top ai conference? [D]"
     },
     {
-      "title": "Annuity vs Equal Principal: Building Both Amortization Schedules in TypeScript",
-      "link": "https://dev.to/daikuantool/annuity-vs-equal-principal-building-both-amortization-schedules-in-typescript-2iok",
-      "source": "Dev.to JS",
+      "title": "Tokenization: A Survey for Modern NLP [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 30 Sep 2026 16:13:32 +0000",
-      "summary": "Two loans can have the same principal, rate, and term while producing very different monthly bills. The difference is often the amortization method: Annuity (also called a fixed-payment or level-payme",
-      "score": 5,
-      "titleZh": "Annuity vs Equal Principal: Building Both Amortization Schedules in TypeScript"
+      "date": "2026-09-30T18:13:45.000Z",
+      "summary": "Tokenization is a wildly understudied area of language modeling despite it having effects across all of NLP. Over the past ~8 months, 32 (!) tokenizer researchers put together the most comprehensive s",
+      "score": 40,
+      "titleZh": "Tokenization: A Survey for Modern NLP [R]"
     },
     {
-      "title": "XML Sitemap Issues in WordPress: 10 Common Fixes",
-      "link": "https://dev.to/raj_jaiswal62/xml-sitemap-issues-in-wordpress-10-common-fixes-4a89",
-      "source": "Dev.to WebDev",
+      "title": "For those who just submit to workshop [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 30 Sep 2026 16:12:57 +0000",
-      "summary": "An XML sitemap helps search engines discover important URLs on your WordPress website. But when a sitemap returns a 404 error, “Couldn’t fetch” message, outdated URLs, or invalid XML, the problem can ",
-      "score": 5,
-      "titleZh": "XML Sitemap Issues in WordPress: 10 Common Fixes"
+      "date": "2026-09-30T18:08:26.000Z",
+      "summary": "More recently, I am seeing a lot of posts on the sub regarding the workshop acceptance, with lack of funds to attend the conference. I unfortunately want to just say that workshop papers are not given",
+      "score": 40,
+      "titleZh": "For those who just submit to workshop [D]"
     },
     {
-      "title": "Adding a second language to a static Next.js site without changing a single URL",
-      "link": "https://dev.to/shibowen336/adding-a-second-language-to-a-static-nextjs-site-without-changing-a-single-url-kp5",
-      "source": "Dev.to Next.js",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 30 Sep 2026 16:10:37 +0000",
-      "summary": "My small quiz site started English-only: a Next.js App Router project, output: 'export', deployed as static files. When I added a French version, I had three rules: No English URL could change. They w",
+      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "score": 5,
-      "titleZh": "Adding a second language to a static Next.js site without changing a single URL"
+      "titleZh": "How Albertsons Companies is reimagining retail from the inside out"
     },
     {
-      "title": "Designing the AI Investigation Layer for WorkMemory AI",
-      "link": "https://dev.to/rithika_gudla_0ae61289b82/designing-the-ai-investigation-layer-for-workmemory-ai-2fph",
-      "source": "Dev.to JS",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "HuggingFace",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Wed, 30 Sep 2026 16:09:34 +0000",
-      "summary": "An AI assistant can generate an answer in seconds, but that answer is much more useful when it has access to the team's own previous experiences. While working on WorkMemory AI, I focused on the AI an",
+      "date": "Thu, 01 Oct 2026 15:01:43 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "Designing the AI Investigation Layer for WorkMemory AI"
+      "titleZh": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
     },
     {
-      "title": "OpenGraph, Twitter Cards & Dynamic Social Previews in Next.js 16",
-      "link": "https://dev.to/sameer_hassan/opengraph-twitter-cards-dynamic-social-previews-in-nextjs-16-dn",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 30 Sep 2026 16:09:04 +0000",
-      "summary": "When developers and tech leads share links to your application on X (Twitter), LinkedIn, Discord, or Slack, the OpenGraph social card is your primary visual billboard. Yet, most projects rely on stati",
-      "score": 5,
-      "titleZh": "OpenGraph, Twitter Cards & Dynamic Social Previews in Next.js 16"
-    },
-    {
-      "title": "AI Agent 多代理人自動化開發實作：讓 Agents 夜巡，協作開發 SVG 圓形連線工具",
-      "link": "https://dev.to/letswrite/ai-agent-duo-dai-li-ren-zi-dong-hua-kai-fa-shi-zuo-rang-agents-ye-xun-xie-zuo-kai-fa-svg-yuan-xing-lian-xian-gong-ju-5037",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 30 Sep 2026 16:07:45 +0000",
-      "summary": "本篇要解決的問題 上週為了在 Grok Bot 的 7 天試用期內，看可以玩些什麼，搜了一下網路，看到一個有趣的用法：讓 Agents 在半夜自己「夜巡」，找題目、做出有趣的東西。 覺得這很有趣，很像每天在開盲盒或抽一番賞一樣，所以 August 也建了一個夜巡 Team，看會寫出什麼有趣的功能。 這篇就拿其中一個成果來介紹，主要是一個讓你拉動滑桿，把圓圈上的線變成不同圖案的功能。 成果放上 Gi",
-      "score": 5,
-      "titleZh": "AI Agent 多代理人自動化開發實作：讓 Agents 夜巡，協作開發 SVG 圓形連線工具"
-    },
-    {
-      "title": "javascript Learning:Objects and Arrows Functions.",
-      "link": "https://dev.to/surya_surya_03f1faed79db3/javascript-learningobjects-and-arrows-functions-2lka",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 30 Sep 2026 16:06:57 +0000",
-      "summary": "Today, I spent some time revising two important JavaScript concepts: Objects and Arrow Functions. JavaScript Objects JavaScript objects are used to store related data and functionality together using ",
-      "score": 5,
-      "titleZh": "javascript Learning:Objects and Arrows Functions."
-    },
-    {
-      "title": "Hardening the Edge: Defeating SSRF, Redirect Traps, and Compression Bombs in Next.js Dynamic OpenGraph Generators",
-      "link": "https://dev.to/arpan_singh_121/hardening-the-edge-defeating-ssrf-redirect-traps-and-compression-bombs-in-nextjs-dynamic-266h",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 30 Sep 2026 16:06:16 +0000",
-      "summary": "Dynamic OpenGraph (OG) image generation is standard practice in modern web applications. Every blog post, product page, and user profile needs a crisp, auto-generated 1200x630 social preview image for",
-      "score": 5,
-      "titleZh": "Hardening the Edge: Defeating SSRF, Redirect Traps, and Compression Bombs in Next.js Dynamic OpenGraph Generators"
-    },
-    {
-      "title": "Prevent Cart Desync: Build a Next.js Mini App Shop with MainButton Checkout",
-      "link": "https://dev.to/serhii_a9c08345ac360cf5c8/prevent-cart-desync-build-a-nextjs-mini-app-shop-with-mainbutton-checkout-2ahl",
+      "title": "TXT vs CNAME Verification Explained — Proving Domain Control Without Conflicts",
+      "link": "https://dev.to/rainerbarrett4745/txt-vs-cname-verification-explained-proving-domain-control-without-conflicts-3pme",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 30 Sep 2026 16:02:16 +0000",
-      "summary": "Building an e-commerce shop inside a Telegram Mini App using Next.js App Router offers a highly integrated user experience. However, developers often face critical integration hurdles. If you treat a ",
+      "date": "Thu, 01 Oct 2026 16:47:19 +0000",
+      "summary": "Use TXT for automated tenant-domain proof unless the verifier explicitly demands a CNAME. TXT can sit beside existing records. A CNAME cannot: at the same owner name, it excludes every other record an",
       "score": 5,
-      "titleZh": "Prevent Cart Desync: Build a Next.js Mini App Shop with MainButton Checkout"
+      "titleZh": "TXT vs CNAME Verification Explained — Proving Domain Control Without Conflicts"
     },
     {
-      "title": "I didn't want Redis + workers just to run an HTTP request later",
-      "link": "https://dev.to/heydavy/i-didnt-want-redis-workers-just-to-run-an-http-request-later-1b9n",
+      "title": "Vite+ 1.0 and Oxlint: The Speedup Claims I'll Test Before Switching",
+      "link": "https://dev.to/abyzgenic/vite-10-and-oxlint-the-speedup-claims-ill-test-before-switching-3jj9",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 30 Sep 2026 16:00:11 +0000",
-      "summary": "A common requirement in backend applications sounds simple: \"Do this later.\" Maybe it's sending an email, processing an order, calling another service, generating something asynchronously or retrying ",
+      "date": "Thu, 01 Oct 2026 16:38:10 +0000",
+      "summary": "Confession: I have been putting off a lint cleanup for four months. Not because it's hard, but because every time I run the type-aware ESLint pass on a mid-sized TypeScript project, I go make coffee, ",
       "score": 5,
-      "titleZh": "I didn't want Redis + workers just to run an HTTP request later"
+      "titleZh": "Vite+ 1.0 and Oxlint: The Speedup Claims I'll Test Before Switching"
+    },
+    {
+      "title": "Xeno.JS vs NestJS: Different Approaches to TypeScript Application Architecture",
+      "link": "https://dev.to/mattiacarcione/xenojs-vs-nestjs-different-approaches-to-typescript-application-architecture-2f5j",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:37:34 +0000",
+      "summary": "Xeno.JS vs NestJS: Different Approaches to TypeScript Application Architecture If you are building a large TypeScript or Node.js application, you have probably encountered NestJS. NestJS is a mature b",
+      "score": 5,
+      "titleZh": "Xeno.JS vs NestJS: Different Approaches to TypeScript Application Architecture"
+    },
+    {
+      "title": "Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators",
+      "link": "https://dev.to/muhammad_ahmed_6631d2cc13/architecting-an-all-in-one-utility-suite-scaling-react-static-pre-rendering-to-30-calculators-3n7b",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:32:15 +0000",
+      "summary": "When scaling a utility site or web tool platform, performance and search engine crawlability are paramount. Standard client-side rendering (CSR) applications often suffer from blank initial HTML respo",
+      "score": 5,
+      "titleZh": "Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators"
+    },
+    {
+      "title": "QR Code Best Practices: Size, Contrast, Error Correction, and Testing",
+      "link": "https://dev.to/pulkitgovrani/qr-code-best-practices-size-contrast-error-correction-and-testing-21e1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:30:00 +0000",
+      "summary": "A QR code that won't scan is worse than no QR code at all. Most failures come from a handful of avoidable mistakes: too small, too little contrast, too much data, or a logo that covers too much. These",
+      "score": 5,
+      "titleZh": "QR Code Best Practices: Size, Contrast, Error Correction, and Testing"
+    },
+    {
+      "title": "Web3 Frontend Position",
+      "link": "https://dev.to/xentrolance/web3-frontend-position-2omc",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:25:12 +0000",
+      "summary": "About the Project Role Overview Key Responsibilities Design, develop, and deploy responsive, high-performance frontend applications for model discovery, purchases, licensing, and royalty dashboards Bu",
+      "score": 5,
+      "titleZh": "Web3 Frontend Position"
+    },
+    {
+      "title": "Accessible Toast Notifications: Keep the Result Clear",
+      "link": "https://dev.to/urielbitton/accessible-toast-notifications-keep-the-result-clear-mgj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:23:45 +0000",
+      "summary": "Accessible toast notifications need two kinds of clarity: people must be able to learn that an action finished, and they must be able to find its result after the message disappears. For routine updat",
+      "score": 5,
+      "titleZh": "Accessible Toast Notifications: Keep the Result Clear"
+    },
+    {
+      "title": "Next.js SEO: A Practical Guide to Making Your Website Search-Engine Friendly",
+      "link": "https://dev.to/iktushar01/nextjs-seo-a-practical-guide-to-making-your-website-search-engine-friendly-3604",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:21:19 +0000",
+      "summary": "If you are building websites with Next.js, you have probably heard the word SEO many times. SEO means Search Engine Optimization. In simple words, SEO helps search engines like Google understand your ",
+      "score": 5,
+      "titleZh": "Next.js SEO: A Practical Guide to Making Your Website Search-Engine Friendly"
+    },
+    {
+      "title": "PNG to WebP for Screenshots: Preserve Readable Text in Your Tutorials",
+      "link": "https://dev.to/amilsam_4b09cd/png-to-webp-for-screenshots-preserve-readable-text-in-your-tutorials-16in",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:19:38 +0000",
+      "summary": "An image optimization workflow for UI screenshots, documentation, and code examples. When converting PNG screenshots to WebP, treat text readability as an acceptance criterion alongside file size. Her",
+      "score": 5,
+      "titleZh": "PNG to WebP for Screenshots: Preserve Readable Text in Your Tutorials"
+    },
+    {
+      "title": "US passport photo costs in 2026: Walgreens, USPS, PhotoAiD and a DIY option",
+      "link": "https://dev.to/pixtidy/us-passport-photo-costs-in-2026-walgreens-usps-photoaid-and-a-diy-option-52of",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 01 Oct 2026 16:18:52 +0000",
+      "summary": "I built pixtidy, one of the options below. I'm its solo developer. This comparison includes my product, with its limits alongside the paid alternatives. Buy the format your application needs, rather t",
+      "score": 5,
+      "titleZh": "US passport photo costs in 2026: Walgreens, USPS, PhotoAiD and a DIY option"
     }
   ]
 }
