@@ -1,21 +1,33 @@
 {
-  "updated": "2026-10-03T03:50:19.104Z",
+  "updated": "2026-10-03T14:33:59.879Z",
   "date": "2026-10-03",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
+      "title": "What’s next after Jev? Metacache: Reasoning by Construction [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwocvg/whats_next_after_jev_metacache_reasoning_by/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-02T21:18:22.000Z",
-      "summary": "Suppose you’re recording a human plugging a cable into a socket to collect demonstrations for robot learning. The hand tracker captures the approach accurately. Then occlusion causes the hand estimate",
+      "date": "2026-10-03T14:17:05.000Z",
+      "summary": "Jev has made a profound mark on the AI industry; this article offers a glimpse into what lies ahead. Jev shows where the industry is heading: away from monolithic models, and toward compound systems w",
       "score": 40,
-      "titleZh": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?"
+      "titleZh": "What’s next after Jev? Metacache: Reasoning by Construction [D]"
+    },
+    {
+      "title": "NeurIPS Free Passes [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-03T11:03:24.000Z",
+      "summary": "Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I’ll admit that I wasn’t super organized about registering on day one because I was semi-consc",
+      "score": 40,
+      "titleZh": "NeurIPS Free Passes [D]"
     },
     {
       "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
@@ -66,18 +78,6 @@
       "titleZh": "arXiv now limits submitters to up to two submissions per calendar month [N]"
     },
     {
-      "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T14:45:25.000Z",
-      "summary": "I'm one of the authors. We kept seeing models that hold their ground when the user insists on a wrong answer, yet change their answer when the same claim is framed as coming from a \"verified source\". ",
-      "score": 40,
-      "titleZh": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]"
-    },
-    {
       "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
       "source": "Reddit ML",
@@ -126,124 +126,124 @@
       "titleZh": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
     },
     {
-      "title": "The biggest problem in the world",
-      "link": "https://www.reddit.com/r/programming/comments/1wwa9f3/the_biggest_problem_in_the_world/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-03T01:00:36.000Z",
-      "summary": "submitted by /u/IcaJalapenos [link] [comments]",
-      "score": 40,
-      "titleZh": "The biggest problem in the world"
-    },
-    {
-      "title": "<input type=\"password\" maxlength=\"20\"> is considered harmful, and why I couldn't login into Vanguard",
-      "link": "https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-02T23:14:57.000Z",
-      "summary": "submitted by /u/tanin47 [link] [comments]",
-      "score": 40,
-      "titleZh": "<input type=\"password\" maxlength=\"20\"> is considered harmful, and why I couldn't login into Vanguard"
-    },
-    {
-      "title": "0.17.0 Release Notes â¡ The Zig Programming Language",
-      "link": "https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-02T21:52:43.000Z",
-      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
-      "score": 40,
-      "titleZh": "0.17.0 Release Notes â¡ The Zig Programming Language"
-    },
-    {
-      "title": "GPU-Initiated Communication: Dissecting Down to the Bone",
-      "link": "https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-02T21:04:44.000Z",
-      "summary": "submitted by /u/mttd [link] [comments]",
-      "score": 40,
-      "titleZh": "GPU-Initiated Communication: Dissecting Down to the Bone"
-    },
-    {
-      "title": "A Minsky machine in ncurses terminfo",
-      "link": "https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-02T16:18:03.000Z",
-      "summary": "ncurses terminfo can simulate a two-counter Minsky machine, making repeated parameter expansion computationally universal. Demo: a parasitic Fibonacci computation inside /usr/bin/top submitted by /u/D",
-      "score": 40,
-      "titleZh": "A Minsky machine in ncurses terminfo"
-    },
-    {
-      "title": "Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial",
-      "link": "https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-02T13:03:34.000Z",
-      "summary": "submitted by /u/grashalm01 [link] [comments]",
-      "score": 40,
-      "titleZh": "Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial"
-    },
-    {
-      "title": "Robert Seacord: \"Unsafe Rust\" | RustConf 2026",
-      "link": "https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-01T23:57:25.000Z",
-      "summary": "submitted by /u/_bijan_ [link] [comments]",
-      "score": 40,
-      "titleZh": "Robert Seacord: \"Unsafe Rust\" | RustConf 2026"
-    },
-    {
-      "title": "New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!",
-      "link": "https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-01T16:45:33.000Z",
-      "summary": "The new releases announced today, including EOL for 3.10.x: https://blog.python.org/2026/10/python-31022-31117/ Note: The post above doesn't mention 3.15 - assuming they will do a separate post later ",
-      "score": 40,
-      "titleZh": "New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!"
-    },
-    {
-      "title": "From JavaScript Basics to Deployed Websites: A Structured Learning Path for Aspiring Web Developers",
-      "link": "https://dev.to/ilyatech/from-javascript-basics-to-deployed-websites-a-structured-learning-path-for-aspiring-web-developers-cf2",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 03:41:19 +0000",
-      "summary": "Technical Reconstruction: From JavaScript Basics to Deployed Websites Transitioning from basic JavaScript knowledge to building and deploying a functional website is a complex journey that demands a s",
-      "score": 5,
-      "titleZh": "From JavaScript Basics to Deployed Websites: A Structured Learning Path for Aspiring Web Developers"
-    },
-    {
-      "title": "Can AI crawlers read your site? I checked mine",
-      "link": "https://dev.to/yappatyih/can-ai-crawlers-read-your-site-i-checked-mine-p0i",
+      "title": "I Built a CSS Framework Without Using Classes",
+      "link": "https://dev.to/devadetayo/i-built-a-css-framework-without-using-classes-3542",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 03 Oct 2026 03:38:07 +0000",
-      "summary": "First published on yappatyih.com. An AI crawler access check is a test of whether the bots behind ChatGPT, Claude, Perplexity and the others can fetch your pages, by requesting a page with each bot's ",
+      "date": "Sat, 03 Oct 2026 14:33:13 +0000",
+      "summary": "I've been working on a CSS framework called AtomAttr, but I didn't want to build another framework that simply followed the same patterns everyone already knows. So I tried something different. Instea",
       "score": 5,
-      "titleZh": "Can AI crawlers read your site? I checked mine"
+      "titleZh": "I Built a CSS Framework Without Using Classes"
+    },
+    {
+      "title": "How AI Chatbots Capture Inbound Leads: Training on Customer Site Content",
+      "link": "https://dev.to/sameer_hassan/how-ai-chatbots-capture-inbound-leads-training-on-customer-site-content-5fd7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:27:41 +0000",
+      "summary": "Most website visitors never fill out a contact form. When potential enterprise buyers arrive on your landing page, they have specific, high-intent technical questions: \"Does your platform support Post",
+      "score": 5,
+      "titleZh": "How AI Chatbots Capture Inbound Leads: Training on Customer Site Content"
+    },
+    {
+      "title": "叫我驱魔男神 (2026) — 高清电影 | 1080P / 4K | 在线观看",
+      "link": "https://dev.to/doubantv_fullversion/jiao-wo-qu-mo-nan-shen-2026-gao-qing-dian-ying-1080p-4k-zai-xian-guan-kan-2opi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:21:25 +0000",
+      "summary": "叫我驱魔男神 导演：陈玫君 主演：林哲熹,阿尔詹·巴杰瓦,雷嘉汭,高捷,张怀秋,游安顺 类型：动作片 地区：中国台湾 / 印度 语言：汉语普通话,英语 年份：2026 更新：HD 《叫我驱魔男神》电影上映于2025,这是一部热门火爆的动作片电影,《叫我驱魔男神》电影主演是：林哲熹,阿尔詹·巴杰瓦,雷嘉汭,高捷,张怀秋,游安顺，想看更多:叫我驱魔男神免费观看可投屏,叫我驱魔男神免费观看国语版,叫我驱",
+      "score": 5,
+      "titleZh": "叫我驱魔男神 (2026) — 高清电影 | 1080P / 4K | 在线观看"
+    },
+    {
+      "title": "真火神探刘横顺 (2026) — 高清电影 | 1080P / 4K | 在线观看",
+      "link": "https://dev.to/doubantv_fullversion/zhen-huo-shen-tan-liu-heng-shun-2026-gao-qing-dian-ying-1080p-4k-zai-xian-guan-kan-23e5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:15:01 +0000",
+      "summary": "*真火神探刘横顺 导演：潘安子 主演：胡先煦,何与,苏晓彤 类型：国产剧 地区：大陆 语言：国语 年份：2026 更新：已完结 《真火神探刘横顺》电视剧上映于2026,这是一部热门火爆的国产剧电视剧,《真火神探刘横顺》电视剧主演是：胡先煦,何与,苏晓彤，想看更多:真火神探刘横顺免费下载观看,真火神探刘横顺国语在线观看完整免费,真火神探刘横顺在线播放完整版,真火神探刘横顺免费观看电视剧高清在线，就来",
+      "score": 5,
+      "titleZh": "真火神探刘横顺 (2026) — 高清电影 | 1080P / 4K | 在线观看"
+    },
+    {
+      "title": "Your Funnel Should Start With a Question, Not a Form",
+      "link": "https://dev.to/rawan_atef/your-funnel-should-start-with-a-question-not-a-form-45b0",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:11:30 +0000",
+      "summary": "AI shouldn’t mean giving up control. If you already know exactly which events you want to use, you can still build the funnel yourself through Set the events myself. The difference is that manual conf",
+      "score": 5,
+      "titleZh": "Your Funnel Should Start With a Question, Not a Form"
+    },
+    {
+      "title": "重生之门：源起 (2026) — 高清电影 | 1080P / 4K | 在线观看",
+      "link": "https://dev.to/doubantv_fullversion/zhong-sheng-zhi-men-yuan-qi-2026-gao-qing-dian-ying-1080p-4k-zai-xian-guan-kan-4em5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:05:39 +0000",
+      "summary": "重生之门：源起 导演：高炳权 主演：吴谨言,肖顺尧,尚新月,康一鸣 类型：国产剧 地区：大陆 语言：国语 年份：2026 更新：已完结 《重生之门：源起》电视剧上映于2026,这是一部热门火爆的国产剧电视剧,《重生之门：源起》电视剧主演是：吴谨言,肖顺尧,尚新月,康一鸣，想看更多:重生之门：源起在线观看国语百度云,重生之门：源起免费高清在线观看最新,重生之门：源起在线观看网盘,重生之门：源起全集完",
+      "score": 5,
+      "titleZh": "重生之门：源起 (2026) — 高清电影 | 1080P / 4K | 在线观看"
+    },
+    {
+      "title": "Five AI Agent Wallets Compared: Which One Fits Your Agent?",
+      "link": "https://dev.to/openclawcash/five-ai-agent-wallets-compared-which-one-fits-your-agent-2k5b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:01:42 +0000",
+      "summary": "Your agent can plan and call tools. The moment it has to pay for one of those tools, you have to decide how it holds money. Five products let an agent spend without ever holding a private key: Coinbas",
+      "score": 5,
+      "titleZh": "Five AI Agent Wallets Compared: Which One Fits Your Agent?"
+    },
+    {
+      "title": "How to Detect Lightbox on Any Website (2026 Guide)",
+      "link": "https://dev.to/detectzestack/how-to-detect-lightbox-on-any-website-2026-guide-1mao",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:00:27 +0000",
+      "summary": "Click a thumbnail on a portfolio site, the page dims, and the full-size image floats in the middle of the screen with a close button and next/previous arrows. There is a good chance that overlay is Li",
+      "score": 5,
+      "titleZh": "How to Detect Lightbox on Any Website (2026 Guide)"
+    },
+    {
+      "title": "I Built a Tool to Turn Messy Bank Statement PDFs Into Spreadsheets",
+      "link": "https://dev.to/aftandevelops/i-built-a-tool-to-turn-messy-bank-statement-pdfs-into-spreadsheets-1hgh",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 14:00:25 +0000",
+      "summary": "I Built a Browser-Based PDF Bank Statement Parser I recently built and launched SheetParse, a browser-based tool that converts bank statement PDFs into spreadsheet-ready data. https://sheetparse.com T",
+      "score": 5,
+      "titleZh": "I Built a Tool to Turn Messy Bank Statement PDFs Into Spreadsheets"
+    },
+    {
+      "title": "I built a tool that grades the benchmark instead of the model",
+      "link": "https://dev.to/aniruddhaadak/i-built-a-tool-that-grades-the-benchmark-instead-of-the-model-aj0",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 03 Oct 2026 13:49:09 +0000",
+      "summary": "I built a tool that grades the benchmark instead of the model A deterministic grader for LLM benchmark tasks, with a hash chain anyone can replay. Live app · Source on GitHub · API health · Agent cons",
+      "score": 5,
+      "titleZh": "I built a tool that grades the benchmark instead of the model"
     }
   ]
 }
