@@ -1,33 +1,69 @@
 {
-  "updated": "2026-10-01T16:53:16.034Z",
-  "date": "2026-10-01",
+  "updated": "2026-10-03T03:50:19.104Z",
+  "date": "2026-10-03",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv2jpi/wm_pai_workshop_at_neurips_confused_about_the/",
+      "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-01T15:31:49.000Z",
-      "summary": "I submitted a paper to the WM PAI workshop at NeurIPS and can now see the reviews and decision on OpenReview, but I didn't receive an official acceptance/rejection email. My reviewer scores were 8, 5,",
+      "date": "2026-10-02T21:18:22.000Z",
+      "summary": "Suppose you’re recording a human plugging a cable into a socket to collect demonstrations for robot learning. The hand tracker captures the approach accurately. Then occlusion causes the hand estimate",
       "score": 40,
-      "titleZh": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]"
+      "titleZh": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?"
     },
     {
-      "title": "[D] Simple Questions Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1pyw/d_simple_questions_thread/",
+      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-01T15:00:28.000Z",
-      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after ",
+      "date": "2026-10-02T15:25:22.000Z",
+      "summary": "In our #NeurIPS2026 paper “Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction” (preprint: https://arxiv.org/abs/2606.22969) we try to address a fundamental issue in dynamical",
       "score": 40,
-      "titleZh": "[D] Simple Questions Thread"
+      "titleZh": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]"
+    },
+    {
+      "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-02T12:04:05.000Z",
+      "summary": "I am one of the authors of FLEET - an algorithm that enhances Best-of-N generation by attributing external rewards to particular tokens and then uses MCTS to adjust logits during the next run. I find ",
+      "score": 40,
+      "titleZh": "Adding memory to search instead of sampling in reward maximization tasks [R]"
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-02T02:15:05.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-02T00:47:10.000Z",
+      "summary": "submitted by /u/Nunki08 [link] [comments]",
+      "score": 40,
+      "titleZh": "arXiv now limits submitters to up to two submissions per calendar month [N]"
     },
     {
       "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
@@ -66,184 +102,148 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "How to address novelty concerns in top ai conference? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T01:20:35.000Z",
-      "summary": "Hi, I’m a researcher working in computer vision. Over the past few years, I’ve submitted several papers to top-tier conferences such as NeurIPS, ICLR, and CVPR, and one concern that seems to come up r",
-      "score": 40,
-      "titleZh": "How to address novelty concerns in top ai conference? [D]"
-    },
-    {
-      "title": "Tokenization: A Survey for Modern NLP [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-30T18:13:45.000Z",
-      "summary": "Tokenization is a wildly understudied area of language modeling despite it having effects across all of NLP. Over the past ~8 months, 32 (!) tokenizer researchers put together the most comprehensive s",
-      "score": 40,
-      "titleZh": "Tokenization: A Survey for Modern NLP [R]"
-    },
-    {
-      "title": "For those who just submit to workshop [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-09-30T18:08:26.000Z",
-      "summary": "More recently, I am seeing a lot of posts on the sub regarding the workshop acceptance, with lack of funds to attend the conference. I unfortunately want to just say that workshop papers are not given",
-      "score": 40,
-      "titleZh": "For those who just submit to workshop [D]"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "score": 5,
-      "titleZh": "How Albertsons Companies is reimagining retail from the inside out"
+      "titleZh": "A model guide for the GPT-6 family"
     },
     {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
       "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 01 Oct 2026 15:01:43 GMT",
+      "date": "Fri, 02 Oct 2026 15:19:50 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
+      "titleZh": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
     },
     {
-      "title": "TXT vs CNAME Verification Explained — Proving Domain Control Without Conflicts",
-      "link": "https://dev.to/rainerbarrett4745/txt-vs-cname-verification-explained-proving-domain-control-without-conflicts-3pme",
-      "source": "Dev.to TS",
+      "title": "The biggest problem in the world",
+      "link": "https://www.reddit.com/r/programming/comments/1wwa9f3/the_biggest_problem_in_the_world/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 01 Oct 2026 16:47:19 +0000",
-      "summary": "Use TXT for automated tenant-domain proof unless the verifier explicitly demands a CNAME. TXT can sit beside existing records. A CNAME cannot: at the same owner name, it excludes every other record an",
-      "score": 5,
-      "titleZh": "TXT vs CNAME Verification Explained — Proving Domain Control Without Conflicts"
+      "date": "2026-10-03T01:00:36.000Z",
+      "summary": "submitted by /u/IcaJalapenos [link] [comments]",
+      "score": 40,
+      "titleZh": "The biggest problem in the world"
     },
     {
-      "title": "Vite+ 1.0 and Oxlint: The Speedup Claims I'll Test Before Switching",
-      "link": "https://dev.to/abyzgenic/vite-10-and-oxlint-the-speedup-claims-ill-test-before-switching-3jj9",
+      "title": "<input type=\"password\" maxlength=\"20\"> is considered harmful, and why I couldn't login into Vanguard",
+      "link": "https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-02T23:14:57.000Z",
+      "summary": "submitted by /u/tanin47 [link] [comments]",
+      "score": 40,
+      "titleZh": "<input type=\"password\" maxlength=\"20\"> is considered harmful, and why I couldn't login into Vanguard"
+    },
+    {
+      "title": "0.17.0 Release Notes â¡ The Zig Programming Language",
+      "link": "https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-02T21:52:43.000Z",
+      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
+      "score": 40,
+      "titleZh": "0.17.0 Release Notes â¡ The Zig Programming Language"
+    },
+    {
+      "title": "GPU-Initiated Communication: Dissecting Down to the Bone",
+      "link": "https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-02T21:04:44.000Z",
+      "summary": "submitted by /u/mttd [link] [comments]",
+      "score": 40,
+      "titleZh": "GPU-Initiated Communication: Dissecting Down to the Bone"
+    },
+    {
+      "title": "A Minsky machine in ncurses terminfo",
+      "link": "https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-02T16:18:03.000Z",
+      "summary": "ncurses terminfo can simulate a two-counter Minsky machine, making repeated parameter expansion computationally universal. Demo: a parasitic Fibonacci computation inside /usr/bin/top submitted by /u/D",
+      "score": 40,
+      "titleZh": "A Minsky machine in ncurses terminfo"
+    },
+    {
+      "title": "Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial",
+      "link": "https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-02T13:03:34.000Z",
+      "summary": "submitted by /u/grashalm01 [link] [comments]",
+      "score": 40,
+      "titleZh": "Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial"
+    },
+    {
+      "title": "Robert Seacord: \"Unsafe Rust\" | RustConf 2026",
+      "link": "https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-01T23:57:25.000Z",
+      "summary": "submitted by /u/_bijan_ [link] [comments]",
+      "score": 40,
+      "titleZh": "Robert Seacord: \"Unsafe Rust\" | RustConf 2026"
+    },
+    {
+      "title": "New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!",
+      "link": "https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-01T16:45:33.000Z",
+      "summary": "The new releases announced today, including EOL for 3.10.x: https://blog.python.org/2026/10/python-31022-31117/ Note: The post above doesn't mention 3.15 - assuming they will do a separate post later ",
+      "score": 40,
+      "titleZh": "New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!"
+    },
+    {
+      "title": "From JavaScript Basics to Deployed Websites: A Structured Learning Path for Aspiring Web Developers",
+      "link": "https://dev.to/ilyatech/from-javascript-basics-to-deployed-websites-a-structured-learning-path-for-aspiring-web-developers-cf2",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 01 Oct 2026 16:38:10 +0000",
-      "summary": "Confession: I have been putting off a lint cleanup for four months. Not because it's hard, but because every time I run the type-aware ESLint pass on a mid-sized TypeScript project, I go make coffee, ",
+      "date": "Sat, 03 Oct 2026 03:41:19 +0000",
+      "summary": "Technical Reconstruction: From JavaScript Basics to Deployed Websites Transitioning from basic JavaScript knowledge to building and deploying a functional website is a complex journey that demands a s",
       "score": 5,
-      "titleZh": "Vite+ 1.0 and Oxlint: The Speedup Claims I'll Test Before Switching"
+      "titleZh": "From JavaScript Basics to Deployed Websites: A Structured Learning Path for Aspiring Web Developers"
     },
     {
-      "title": "Xeno.JS vs NestJS: Different Approaches to TypeScript Application Architecture",
-      "link": "https://dev.to/mattiacarcione/xenojs-vs-nestjs-different-approaches-to-typescript-application-architecture-2f5j",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:37:34 +0000",
-      "summary": "Xeno.JS vs NestJS: Different Approaches to TypeScript Application Architecture If you are building a large TypeScript or Node.js application, you have probably encountered NestJS. NestJS is a mature b",
-      "score": 5,
-      "titleZh": "Xeno.JS vs NestJS: Different Approaches to TypeScript Application Architecture"
-    },
-    {
-      "title": "Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators",
-      "link": "https://dev.to/muhammad_ahmed_6631d2cc13/architecting-an-all-in-one-utility-suite-scaling-react-static-pre-rendering-to-30-calculators-3n7b",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:32:15 +0000",
-      "summary": "When scaling a utility site or web tool platform, performance and search engine crawlability are paramount. Standard client-side rendering (CSR) applications often suffer from blank initial HTML respo",
-      "score": 5,
-      "titleZh": "Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators"
-    },
-    {
-      "title": "QR Code Best Practices: Size, Contrast, Error Correction, and Testing",
-      "link": "https://dev.to/pulkitgovrani/qr-code-best-practices-size-contrast-error-correction-and-testing-21e1",
+      "title": "Can AI crawlers read your site? I checked mine",
+      "link": "https://dev.to/yappatyih/can-ai-crawlers-read-your-site-i-checked-mine-p0i",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 01 Oct 2026 16:30:00 +0000",
-      "summary": "A QR code that won't scan is worse than no QR code at all. Most failures come from a handful of avoidable mistakes: too small, too little contrast, too much data, or a logo that covers too much. These",
+      "date": "Sat, 03 Oct 2026 03:38:07 +0000",
+      "summary": "First published on yappatyih.com. An AI crawler access check is a test of whether the bots behind ChatGPT, Claude, Perplexity and the others can fetch your pages, by requesting a page with each bot's ",
       "score": 5,
-      "titleZh": "QR Code Best Practices: Size, Contrast, Error Correction, and Testing"
-    },
-    {
-      "title": "Web3 Frontend Position",
-      "link": "https://dev.to/xentrolance/web3-frontend-position-2omc",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:25:12 +0000",
-      "summary": "About the Project Role Overview Key Responsibilities Design, develop, and deploy responsive, high-performance frontend applications for model discovery, purchases, licensing, and royalty dashboards Bu",
-      "score": 5,
-      "titleZh": "Web3 Frontend Position"
-    },
-    {
-      "title": "Accessible Toast Notifications: Keep the Result Clear",
-      "link": "https://dev.to/urielbitton/accessible-toast-notifications-keep-the-result-clear-mgj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:23:45 +0000",
-      "summary": "Accessible toast notifications need two kinds of clarity: people must be able to learn that an action finished, and they must be able to find its result after the message disappears. For routine updat",
-      "score": 5,
-      "titleZh": "Accessible Toast Notifications: Keep the Result Clear"
-    },
-    {
-      "title": "Next.js SEO: A Practical Guide to Making Your Website Search-Engine Friendly",
-      "link": "https://dev.to/iktushar01/nextjs-seo-a-practical-guide-to-making-your-website-search-engine-friendly-3604",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:21:19 +0000",
-      "summary": "If you are building websites with Next.js, you have probably heard the word SEO many times. SEO means Search Engine Optimization. In simple words, SEO helps search engines like Google understand your ",
-      "score": 5,
-      "titleZh": "Next.js SEO: A Practical Guide to Making Your Website Search-Engine Friendly"
-    },
-    {
-      "title": "PNG to WebP for Screenshots: Preserve Readable Text in Your Tutorials",
-      "link": "https://dev.to/amilsam_4b09cd/png-to-webp-for-screenshots-preserve-readable-text-in-your-tutorials-16in",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:19:38 +0000",
-      "summary": "An image optimization workflow for UI screenshots, documentation, and code examples. When converting PNG screenshots to WebP, treat text readability as an acceptance criterion alongside file size. Her",
-      "score": 5,
-      "titleZh": "PNG to WebP for Screenshots: Preserve Readable Text in Your Tutorials"
-    },
-    {
-      "title": "US passport photo costs in 2026: Walgreens, USPS, PhotoAiD and a DIY option",
-      "link": "https://dev.to/pixtidy/us-passport-photo-costs-in-2026-walgreens-usps-photoaid-and-a-diy-option-52of",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 01 Oct 2026 16:18:52 +0000",
-      "summary": "I built pixtidy, one of the options below. I'm its solo developer. This comparison includes my product, with its limits alongside the paid alternatives. Buy the format your application needs, rather t",
-      "score": 5,
-      "titleZh": "US passport photo costs in 2026: Walgreens, USPS, PhotoAiD and a DIY option"
+      "titleZh": "Can AI crawlers read your site? I checked mine"
     }
   ]
 }
