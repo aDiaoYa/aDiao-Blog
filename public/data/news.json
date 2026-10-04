@@ -1,21 +1,57 @@
 {
-  "updated": "2026-10-03T14:33:59.879Z",
-  "date": "2026-10-03",
+  "updated": "2026-10-04T04:21:23.160Z",
+  "date": "2026-10-04",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "What’s next after Jev? Metacache: Reasoning by Construction [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwocvg/whats_next_after_jev_metacache_reasoning_by/",
+      "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-03T14:17:05.000Z",
-      "summary": "Jev has made a profound mark on the AI industry; this article offers a glimpse into what lies ahead. Jev shows where the industry is heading: away from monolithic models, and toward compound systems w",
+      "date": "2026-10-03T23:57:28.000Z",
+      "summary": "\"TypeSafe AI sells Jev as a frontier-class reasoner that cannot hallucinate, built by the co-inventor of ChatGPT - fast, and almost free. We ran it live on 16,379 benchmark requests, measured its late",
       "score": 40,
-      "titleZh": "What’s next after Jev? Metacache: Reasoning by Construction [D]"
+      "titleZh": "Jev: Not Frontier, But Still Worth Your Attention [R]"
+    },
+    {
+      "title": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-03T21:55:48.000Z",
+      "summary": "On the NeurIPS 2026 Dates site it says that there is 1 day remaining for the \"Accepted papers must be imported\" deadline. This is my first research paper ever and I couldn't find anything about how to",
+      "score": 40,
+      "titleZh": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]"
+    },
+    {
+      "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-03T18:04:32.000Z",
+      "summary": "I recently finished The Principles of Diffusion Models, and honestly I think it’s exceptional. The authors strike a really good balance between mathematical rigor and intuition, with dedicated appendi",
+      "score": 40,
+      "titleZh": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]"
+    },
+    {
+      "title": "ICLR 2027 Reviewing Scores [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-03T16:10:08.000Z",
+      "summary": "I got my three papers to review, and it seems like they have changed the review score range again this year? It is now: –––––––––––––––––––––––––––––––––––– Based on your overall assessment of the sub",
+      "score": 40,
+      "titleZh": "ICLR 2027 Reviewing Scores [D]"
     },
     {
       "title": "NeurIPS Free Passes [D]",
@@ -28,30 +64,6 @@
       "summary": "Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I’ll admit that I wasn’t super organized about registering on day one because I was semi-consc",
       "score": 40,
       "titleZh": "NeurIPS Free Passes [D]"
-    },
-    {
-      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-02T15:25:22.000Z",
-      "summary": "In our #NeurIPS2026 paper “Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction” (preprint: https://arxiv.org/abs/2606.22969) we try to address a fundamental issue in dynamical",
-      "score": 40,
-      "titleZh": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]"
-    },
-    {
-      "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-02T12:04:05.000Z",
-      "summary": "I am one of the authors of FLEET - an algorithm that enhances Best-of-N generation by attributing external rewards to particular tokens and then uses MCTS to adjust logits during the next run. I find ",
-      "score": 40,
-      "titleZh": "Adding memory to search instead of sampling in reward maximization tasks [R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -78,18 +90,6 @@
       "titleZh": "arXiv now limits submitters to up to two submissions per calendar month [N]"
     },
     {
-      "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T13:12:08.000Z",
-      "summary": "Can training of nonlinear RNNs be efficiently parallelized, ensuring fast convergence even on very long time series from chaotic systems? In our #NeurIPS2026 spotlight “Parallel-in-Time Training of Re",
-      "score": 40,
-      "titleZh": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]"
-    },
-    {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
@@ -100,6 +100,18 @@
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "The Agent Said It Was Done. The Database Disagreed."
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -114,136 +126,124 @@
       "titleZh": "A model guide for the GPT-6 family"
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "link": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 02 Oct 2026 15:19:50 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
-    },
-    {
-      "title": "I Built a CSS Framework Without Using Classes",
-      "link": "https://dev.to/devadetayo/i-built-a-css-framework-without-using-classes-3542",
+      "title": "Cloud storage for a small business in 2026: the lifetime plan changes the math",
+      "link": "https://dev.to/tanit365/cloud-storage-for-a-small-business-in-2026-the-lifetime-plan-changes-the-math-28pi",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 03 Oct 2026 14:33:13 +0000",
-      "summary": "I've been working on a CSS framework called AtomAttr, but I didn't want to build another framework that simply followed the same patterns everyone already knows. So I tried something different. Instea",
+      "date": "Sun, 04 Oct 2026 04:12:14 +0000",
+      "summary": "Most cloud storage guides compare free gigabytes and monthly prices. For a small business that keeps invoices, contracts and client files in the cloud for years, the number that matters most is the on",
       "score": 5,
-      "titleZh": "I Built a CSS Framework Without Using Classes"
+      "titleZh": "Cloud storage for a small business in 2026: the lifetime plan changes the math"
     },
     {
-      "title": "How AI Chatbots Capture Inbound Leads: Training on Customer Site Content",
-      "link": "https://dev.to/sameer_hassan/how-ai-chatbots-capture-inbound-leads-training-on-customer-site-content-5fd7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:27:41 +0000",
-      "summary": "Most website visitors never fill out a contact form. When potential enterprise buyers arrive on your landing page, they have specific, high-intent technical questions: \"Does your platform support Post",
-      "score": 5,
-      "titleZh": "How AI Chatbots Capture Inbound Leads: Training on Customer Site Content"
-    },
-    {
-      "title": "叫我驱魔男神 (2026) — 高清电影 | 1080P / 4K | 在线观看",
-      "link": "https://dev.to/doubantv_fullversion/jiao-wo-qu-mo-nan-shen-2026-gao-qing-dian-ying-1080p-4k-zai-xian-guan-kan-2opi",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:21:25 +0000",
-      "summary": "叫我驱魔男神 导演：陈玫君 主演：林哲熹,阿尔詹·巴杰瓦,雷嘉汭,高捷,张怀秋,游安顺 类型：动作片 地区：中国台湾 / 印度 语言：汉语普通话,英语 年份：2026 更新：HD 《叫我驱魔男神》电影上映于2025,这是一部热门火爆的动作片电影,《叫我驱魔男神》电影主演是：林哲熹,阿尔詹·巴杰瓦,雷嘉汭,高捷,张怀秋,游安顺，想看更多:叫我驱魔男神免费观看可投屏,叫我驱魔男神免费观看国语版,叫我驱",
-      "score": 5,
-      "titleZh": "叫我驱魔男神 (2026) — 高清电影 | 1080P / 4K | 在线观看"
-    },
-    {
-      "title": "真火神探刘横顺 (2026) — 高清电影 | 1080P / 4K | 在线观看",
-      "link": "https://dev.to/doubantv_fullversion/zhen-huo-shen-tan-liu-heng-shun-2026-gao-qing-dian-ying-1080p-4k-zai-xian-guan-kan-23e5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:15:01 +0000",
-      "summary": "*真火神探刘横顺 导演：潘安子 主演：胡先煦,何与,苏晓彤 类型：国产剧 地区：大陆 语言：国语 年份：2026 更新：已完结 《真火神探刘横顺》电视剧上映于2026,这是一部热门火爆的国产剧电视剧,《真火神探刘横顺》电视剧主演是：胡先煦,何与,苏晓彤，想看更多:真火神探刘横顺免费下载观看,真火神探刘横顺国语在线观看完整免费,真火神探刘横顺在线播放完整版,真火神探刘横顺免费观看电视剧高清在线，就来",
-      "score": 5,
-      "titleZh": "真火神探刘横顺 (2026) — 高清电影 | 1080P / 4K | 在线观看"
-    },
-    {
-      "title": "Your Funnel Should Start With a Question, Not a Form",
-      "link": "https://dev.to/rawan_atef/your-funnel-should-start-with-a-question-not-a-form-45b0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:11:30 +0000",
-      "summary": "AI shouldn’t mean giving up control. If you already know exactly which events you want to use, you can still build the funnel yourself through Set the events myself. The difference is that manual conf",
-      "score": 5,
-      "titleZh": "Your Funnel Should Start With a Question, Not a Form"
-    },
-    {
-      "title": "重生之门：源起 (2026) — 高清电影 | 1080P / 4K | 在线观看",
-      "link": "https://dev.to/doubantv_fullversion/zhong-sheng-zhi-men-yuan-qi-2026-gao-qing-dian-ying-1080p-4k-zai-xian-guan-kan-4em5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:05:39 +0000",
-      "summary": "重生之门：源起 导演：高炳权 主演：吴谨言,肖顺尧,尚新月,康一鸣 类型：国产剧 地区：大陆 语言：国语 年份：2026 更新：已完结 《重生之门：源起》电视剧上映于2026,这是一部热门火爆的国产剧电视剧,《重生之门：源起》电视剧主演是：吴谨言,肖顺尧,尚新月,康一鸣，想看更多:重生之门：源起在线观看国语百度云,重生之门：源起免费高清在线观看最新,重生之门：源起在线观看网盘,重生之门：源起全集完",
-      "score": 5,
-      "titleZh": "重生之门：源起 (2026) — 高清电影 | 1080P / 4K | 在线观看"
-    },
-    {
-      "title": "Five AI Agent Wallets Compared: Which One Fits Your Agent?",
-      "link": "https://dev.to/openclawcash/five-ai-agent-wallets-compared-which-one-fits-your-agent-2k5b",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:01:42 +0000",
-      "summary": "Your agent can plan and call tools. The moment it has to pay for one of those tools, you have to decide how it holds money. Five products let an agent spend without ever holding a private key: Coinbas",
-      "score": 5,
-      "titleZh": "Five AI Agent Wallets Compared: Which One Fits Your Agent?"
-    },
-    {
-      "title": "How to Detect Lightbox on Any Website (2026 Guide)",
-      "link": "https://dev.to/detectzestack/how-to-detect-lightbox-on-any-website-2026-guide-1mao",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 03 Oct 2026 14:00:27 +0000",
-      "summary": "Click a thumbnail on a portfolio site, the page dims, and the full-size image floats in the middle of the screen with a close button and next/previous arrows. There is a good chance that overlay is Li",
-      "score": 5,
-      "titleZh": "How to Detect Lightbox on Any Website (2026 Guide)"
-    },
-    {
-      "title": "I Built a Tool to Turn Messy Bank Statement PDFs Into Spreadsheets",
-      "link": "https://dev.to/aftandevelops/i-built-a-tool-to-turn-messy-bank-statement-pdfs-into-spreadsheets-1hgh",
+      "title": "how i group traffic sources without cookies",
+      "link": "https://dev.to/omyvnss/how-i-group-traffic-sources-without-cookies-dmb",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 03 Oct 2026 14:00:25 +0000",
-      "summary": "I Built a Browser-Based PDF Bank Statement Parser I recently built and launched SheetParse, a browser-based tool that converts bank statement PDFs into spreadsheet-ready data. https://sheetparse.com T",
+      "date": "Sun, 04 Oct 2026 04:11:43 +0000",
+      "summary": "every dashboard has a \"top traffic sources\" chart. almost none of them will tell you how it got made. i'm om yaduvanshi. i'm 18, an applied ai developer building cloudline, a cookieless google analyti",
       "score": 5,
-      "titleZh": "I Built a Tool to Turn Messy Bank Statement PDFs Into Spreadsheets"
+      "titleZh": "how i group traffic sources without cookies"
     },
     {
-      "title": "I built a tool that grades the benchmark instead of the model",
-      "link": "https://dev.to/aniruddhaadak/i-built-a-tool-that-grades-the-benchmark-instead-of-the-model-aj0",
+      "title": "Disable stream compression and encryption overhead for high throughput",
+      "link": "https://dev.to/instatunnel/disable-stream-compression-and-encryption-overhead-for-high-throughput-39j7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 04:04:41 +0000",
+      "summary": "use_encryption = false Using pure type = tcp mode instead of type = http bypasses FRP’s internal layer-7 HTTP parsing proxy entirely, converting the tunnel into a raw layer-4 TCP stream. This eliminat",
+      "score": 5,
+      "titleZh": "Disable stream compression and encryption overhead for high throughput"
+    },
+    {
+      "title": "Compress Image to 100KB Online — No Upload",
+      "link": "https://dev.to/nawalshrestha/compress-image-to-100kb-online-no-upload-9pk",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 03:58:14 +0000",
+      "summary": "Visa portals, exam forms, and job applications all ask for the same thing: a photo under 100KB. Most compressors hand you a quality slider and wish you luck — you export at 60%, check the size, re-exp",
+      "score": 5,
+      "titleZh": "Compress Image to 100KB Online — No Upload"
+    },
+    {
+      "title": "Best AppSumo Lifetime Deals in 2026: How to Pick Software Worth Your Cash (And What to Skip)",
+      "link": "https://dev.to/ltdreviewhub/best-appsumo-lifetime-deals-in-2026-how-to-pick-software-worth-your-cash-and-what-to-skip-139o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 03:56:05 +0000",
+      "summary": "Buying software on a one-time payment sounds like the easiest way to cut monthly SaaS bills, until you end up with five unused license codes sitting in your account. Every week, dozens of new tools la",
+      "score": 5,
+      "titleZh": "Best AppSumo Lifetime Deals in 2026: How to Pick Software Worth Your Cash (And What to Skip)"
+    },
+    {
+      "title": "I Built a QR-Code File Transfer App with Spring Boot and Vanilla JavaScript",
+      "link": "https://dev.to/arshisabah/i-built-a-qr-code-file-transfer-app-with-spring-boot-and-vanilla-javascript-kem",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 03:43:52 +0000",
+      "summary": "What if you could send a file from one device to another with no cable, no Bluetooth and no cloud upload, using only a screen and a camera? That was the idea behind QR File Transfer, a small project I",
+      "score": 5,
+      "titleZh": "I Built a QR-Code File Transfer App with Spring Boot and Vanilla JavaScript"
+    },
+    {
+      "title": "The Buyer’s Guide to SOC 2 Compliance for Software Partners",
+      "link": "https://dev.to/sairaaslam-coder/the-buyers-guide-to-soc-2-compliance-for-software-partners-16c9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 03:29:56 +0000",
+      "summary": "When businesses choose a software partner, price, features, and technical capabilities are important—but security and data protection are equally critical. A software provider may handle customer info",
+      "score": 5,
+      "titleZh": "The Buyer’s Guide to SOC 2 Compliance for Software Partners"
+    },
+    {
+      "title": "Someone Asked If My CSV Export Worked in Excel. It Didn't.",
+      "link": "https://dev.to/glenn_ree_c3534b3ab234d93/someone-asked-if-my-csv-export-worked-in-excel-it-didnt-8in",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 03:25:10 +0000",
+      "summary": "Someone asked me a question about a small feature I shipped. Seven words: \"Is the exported file OK in Excel?\" I said yes. The CSV was valid. RFC 4180 compliant. Every field quoted, every embedded quot",
+      "score": 5,
+      "titleZh": "Someone Asked If My CSV Export Worked in Excel. It Didn't."
+    },
+    {
+      "title": "Centre Crop vs Content-Aware Crop — 4 Image Quality Trust Boundaries",
+      "link": "https://dev.to/viggoknight2318/centre-crop-vs-content-aware-crop-4-image-quality-trust-boundaries-1f3a",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 03 Oct 2026 13:49:09 +0000",
-      "summary": "I built a tool that grades the benchmark instead of the model A deterministic grader for LLM benchmark tasks, with a hash chain anyone can replay. Live app · Source on GitHub · API health · Agent cons",
+      "date": "Sun, 04 Oct 2026 03:15:38 +0000",
+      "summary": "Use content-aware cropping for faces and plated dishes, keep center crop as the predictable baseline, and always retain a manual adjustment path. TL;DR: For an e-commerce system turning recipe photos ",
       "score": 5,
-      "titleZh": "I built a tool that grades the benchmark instead of the model"
+      "titleZh": "Centre Crop vs Content-Aware Crop — 4 Image Quality Trust Boundaries"
+    },
+    {
+      "title": "Manus gives every task its own cloud computer. Build it as a durable workflow on Vercel",
+      "link": "https://dev.to/burrowbox/manus-gives-every-task-its-own-cloud-computer-build-it-as-a-durable-workflow-on-vercel-45gm",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 04 Oct 2026 02:49:46 +0000",
+      "summary": "What Manus does Manus is an agent that takes a goal and works on it by itself. Its January 2026 post on the Manus Sandbox explains the computing side (Manus): Manus allocates a fully isolated cloud vi",
+      "score": 5,
+      "titleZh": "Manus gives every task its own cloud computer. Build it as a durable workflow on Vercel"
     }
   ]
 }
