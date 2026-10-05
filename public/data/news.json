@@ -1,69 +1,117 @@
 {
-  "updated": "2026-10-04T04:21:23.160Z",
-  "date": "2026-10-04",
+  "updated": "2026-10-05T04:06:01.326Z",
+  "date": "2026-10-05",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
-      "source": "Reddit ML",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-03T23:57:28.000Z",
-      "summary": "\"TypeSafe AI sells Jev as a frontier-class reasoner that cannot hallucinate, built by the co-inventor of ChatGPT - fast, and almost free. We ran it live on 16,379 benchmark requests, measured its late",
-      "score": 40,
-      "titleZh": "Jev: Not Frontier, But Still Worth Your Attention [R]"
+      "date": "Sun, 04 Oct 2026 09:24:52 +0000",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111",
+      "score": 144,
+      "titleZh": "Show HN: AI search for every photo and every frame of video on macOS"
     },
     {
-      "title": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/",
-      "source": "Reddit ML",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-03T21:55:48.000Z",
-      "summary": "On the NeurIPS 2026 Dates site it says that there is 1 day remaining for the \"Accepted papers must be imported\" deadline. This is my first research paper ever and I couldn't find anything about how to",
-      "score": 40,
-      "titleZh": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]"
+      "date": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.y",
+      "score": 62,
+      "titleZh": "Homa: The end of TCP for AI clusters [video]"
     },
     {
-      "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
-      "source": "Reddit ML",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-03T18:04:32.000Z",
-      "summary": "I recently finished The Principles of Diffusion Models, and honestly I think it’s exceptional. The authors strike a really good balance between mathematical rigor and intuition, with dedicated appendi",
-      "score": 40,
-      "titleZh": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]"
+      "date": "Sun, 04 Oct 2026 08:41:58 +0000",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891",
+      "score": 62,
+      "titleZh": "How to scale intent, quality, and artistry with AI [video]"
     },
     {
-      "title": "ICLR 2027 Reviewing Scores [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
+      "title": "ASRN Adaptive Sparse Recurrence Network [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxs8qq/asrn_adaptive_sparse_recurrence_network_n/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-03T16:10:08.000Z",
-      "summary": "I got my three papers to review, and it seems like they have changed the review score range again this year? It is now: –––––––––––––––––––––––––––––––––––– Based on your overall assessment of the sub",
+      "date": "2026-10-04T22:17:54.000Z",
+      "summary": "A copy layer for language models that finds earlier occurrences of the current context with learned hash tables and copies what came next — with memory linear in sequence length. submitted by /u/Mean-",
       "score": 40,
-      "titleZh": "ICLR 2027 Reviewing Scores [D]"
+      "titleZh": "ASRN Adaptive Sparse Recurrence Network [N]"
     },
     {
-      "title": "NeurIPS Free Passes [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
+      "title": "NeurIPS Workshops [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-03T11:03:24.000Z",
-      "summary": "Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I’ll admit that I wasn’t super organized about registering on day one because I was semi-consc",
+      "date": "2026-10-04T20:08:41.000Z",
+      "summary": "Anyone going to WMHS, Physworld AI or Vercodegen? Would love to get to know some people beforehand! submitted by /u/navalsaras [link] [comments]",
       "score": 40,
-      "titleZh": "NeurIPS Free Passes [D]"
+      "titleZh": "NeurIPS Workshops [D]"
+    },
+    {
+      "title": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-04T12:49:40.000Z",
+      "summary": "In our #NeurIPS2026 paper “A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems (DS)” (preprint: https://arxiv.org/abs/2607.14937) we reduce a DS foundation model to ",
+      "score": 40,
+      "titleZh": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]"
+    },
+    {
+      "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-04T12:15:28.000Z",
+      "summary": "i work on reference checking stuff so i was reading through the ICLR 2027 author guidelines and style files this week the sample .bib that ships with the template has the Deep Learning book as \"Goodfe",
+      "score": 40,
+      "titleZh": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]"
+    },
+    {
+      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-04T10:24:58.000Z",
+      "summary": "https://preview.redd.it/gkjgii48gfth1.png?width=575&format=png&auto=webp&s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use",
+      "score": 40,
+      "titleZh": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]"
+    },
+    {
+      "title": "Working with an AI Company That Does Things You Disagree With [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-04T08:41:09.000Z",
+      "summary": "I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent",
+      "score": 40,
+      "titleZh": "Working with an AI Company That Does Things You Disagree With [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -78,172 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-02T00:47:10.000Z",
-      "summary": "submitted by /u/Nunki08 [link] [comments]",
-      "score": 40,
-      "titleZh": "arXiv now limits submitters to up to two submissions per calendar month [N]"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 03 Oct 2026 22:56:48 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "The Agent Said It Was Done. The Database Disagreed."
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "score": 5,
-      "titleZh": "A model guide for the GPT-6 family"
-    },
-    {
-      "title": "Cloud storage for a small business in 2026: the lifetime plan changes the math",
-      "link": "https://dev.to/tanit365/cloud-storage-for-a-small-business-in-2026-the-lifetime-plan-changes-the-math-28pi",
+      "title": "Why Automating Shopify Admin is a Nightmare (And How We Solved It)",
+      "link": "https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 04 Oct 2026 04:12:14 +0000",
-      "summary": "Most cloud storage guides compare free gigabytes and monthly prices. For a small business that keeps invoices, contracts and client files in the cloud for years, the number that matters most is the on",
+      "date": "Mon, 05 Oct 2026 03:57:50 +0000",
+      "summary": "Shopify is one of the harder platforms to automate reliably, and not for the reasons most teams expect. Creating a product or syncing a feed isn't complex logic. The hard part is everything around it.",
       "score": 5,
-      "titleZh": "Cloud storage for a small business in 2026: the lifetime plan changes the math"
+      "titleZh": "Why Automating Shopify Admin is a Nightmare (And How We Solved It)"
     },
     {
-      "title": "how i group traffic sources without cookies",
-      "link": "https://dev.to/omyvnss/how-i-group-traffic-sources-without-cookies-dmb",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 04 Oct 2026 04:11:43 +0000",
-      "summary": "every dashboard has a \"top traffic sources\" chart. almost none of them will tell you how it got made. i'm om yaduvanshi. i'm 18, an applied ai developer building cloudline, a cookieless google analyti",
-      "score": 5,
-      "titleZh": "how i group traffic sources without cookies"
-    },
-    {
-      "title": "Disable stream compression and encryption overhead for high throughput",
-      "link": "https://dev.to/instatunnel/disable-stream-compression-and-encryption-overhead-for-high-throughput-39j7",
+      "title": "The 429 Your Agent Client Can't Read: designing rate limits for machine callers",
+      "link": "https://dev.to/minia2a/the-429-your-agent-client-cant-read-designing-rate-limits-for-machine-callers-3925",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 04 Oct 2026 04:04:41 +0000",
-      "summary": "use_encryption = false Using pure type = tcp mode instead of type = http bypasses FRP’s internal layer-7 HTTP parsing proxy entirely, converting the tunnel into a raw layer-4 TCP stream. This eliminat",
+      "date": "Mon, 05 Oct 2026 03:55:30 +0000",
+      "summary": "The 429 Your Agent Client Can't Read A rate-limit response has two readers: a human debugging it in a terminal, and a retry loop parsing it in a program. Most APIs write it for the first reader and fo",
       "score": 5,
-      "titleZh": "Disable stream compression and encryption overhead for high throughput"
+      "titleZh": "The 429 Your Agent Client Can't Read: designing rate limits for machine callers"
     },
     {
-      "title": "Compress Image to 100KB Online — No Upload",
-      "link": "https://dev.to/nawalshrestha/compress-image-to-100kb-online-no-upload-9pk",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 04 Oct 2026 03:58:14 +0000",
-      "summary": "Visa portals, exam forms, and job applications all ask for the same thing: a photo under 100KB. Most compressors hand you a quality slider and wish you luck — you export at 60%, check the size, re-exp",
-      "score": 5,
-      "titleZh": "Compress Image to 100KB Online — No Upload"
-    },
-    {
-      "title": "Best AppSumo Lifetime Deals in 2026: How to Pick Software Worth Your Cash (And What to Skip)",
-      "link": "https://dev.to/ltdreviewhub/best-appsumo-lifetime-deals-in-2026-how-to-pick-software-worth-your-cash-and-what-to-skip-139o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 04 Oct 2026 03:56:05 +0000",
-      "summary": "Buying software on a one-time payment sounds like the easiest way to cut monthly SaaS bills, until you end up with five unused license codes sitting in your account. Every week, dozens of new tools la",
-      "score": 5,
-      "titleZh": "Best AppSumo Lifetime Deals in 2026: How to Pick Software Worth Your Cash (And What to Skip)"
-    },
-    {
-      "title": "I Built a QR-Code File Transfer App with Spring Boot and Vanilla JavaScript",
-      "link": "https://dev.to/arshisabah/i-built-a-qr-code-file-transfer-app-with-spring-boot-and-vanilla-javascript-kem",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 04 Oct 2026 03:43:52 +0000",
-      "summary": "What if you could send a file from one device to another with no cable, no Bluetooth and no cloud upload, using only a screen and a camera? That was the idea behind QR File Transfer, a small project I",
-      "score": 5,
-      "titleZh": "I Built a QR-Code File Transfer App with Spring Boot and Vanilla JavaScript"
-    },
-    {
-      "title": "The Buyer’s Guide to SOC 2 Compliance for Software Partners",
-      "link": "https://dev.to/sairaaslam-coder/the-buyers-guide-to-soc-2-compliance-for-software-partners-16c9",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 04 Oct 2026 03:29:56 +0000",
-      "summary": "When businesses choose a software partner, price, features, and technical capabilities are important—but security and data protection are equally critical. A software provider may handle customer info",
-      "score": 5,
-      "titleZh": "The Buyer’s Guide to SOC 2 Compliance for Software Partners"
-    },
-    {
-      "title": "Someone Asked If My CSV Export Worked in Excel. It Didn't.",
-      "link": "https://dev.to/glenn_ree_c3534b3ab234d93/someone-asked-if-my-csv-export-worked-in-excel-it-didnt-8in",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 04 Oct 2026 03:25:10 +0000",
-      "summary": "Someone asked me a question about a small feature I shipped. Seven words: \"Is the exported file OK in Excel?\" I said yes. The CSV was valid. RFC 4180 compliant. Every field quoted, every embedded quot",
-      "score": 5,
-      "titleZh": "Someone Asked If My CSV Export Worked in Excel. It Didn't."
-    },
-    {
-      "title": "Centre Crop vs Content-Aware Crop — 4 Image Quality Trust Boundaries",
-      "link": "https://dev.to/viggoknight2318/centre-crop-vs-content-aware-crop-4-image-quality-trust-boundaries-1f3a",
+      "title": "I asked an AI agent to test my framework. It found the bugs I couldn't see, then built me a debugger.",
+      "link": "https://dev.to/nekutuzov/i-asked-an-ai-agent-to-test-my-framework-it-found-the-bugs-i-couldnt-see-then-built-me-a-2c2d",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 04 Oct 2026 03:15:38 +0000",
-      "summary": "Use content-aware cropping for faces and plated dishes, keep center crop as the predictable baseline, and always retain a manual adjustment path. TL;DR: For an e-commerce system turning recipe photos ",
+      "date": "Mon, 05 Oct 2026 03:55:02 +0000",
+      "summary": "This is part 3. Part 1 is about converting vibe-coded MVPs. Part 2 is the origin story. UECA-React was my first real TypeScript work. A year or so after the first version, I looked at it critically. I",
       "score": 5,
-      "titleZh": "Centre Crop vs Content-Aware Crop — 4 Image Quality Trust Boundaries"
+      "titleZh": "I asked an AI agent to test my framework. It found the bugs I couldn't see, then built me a debugger."
     },
     {
-      "title": "Manus gives every task its own cloud computer. Build it as a durable workflow on Vercel",
-      "link": "https://dev.to/burrowbox/manus-gives-every-task-its-own-cloud-computer-build-it-as-a-durable-workflow-on-vercel-45gm",
+      "title": "title: How to split a large JSON file in the browser (without uploading it anywhere) published: false",
+      "link": "https://dev.to/kb7822836hash/title-how-to-split-a-large-json-file-in-the-browser-without-uploading-it-anywhere-published-39jk",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 05 Oct 2026 03:54:02 +0000",
+      "summary": "ometimes you get a huge JSON array, a few thousand records in one file, and you need it in smaller pieces. Maybe an API only accepts 500 items at a time, or your editor chokes on the file. The easy wa",
+      "score": 5,
+      "titleZh": "title: How to split a large JSON file in the browser (without uploading it anywhere) published: false"
+    },
+    {
+      "title": "لماذا موقعك لا يحصل على عملاء: المعايير المعتمدة وخطة التنفيذ الكاملة لعام 2026",
+      "link": "https://dev.to/mohamed_halawa_b4b6494a25/lmdh-mwqk-l-yhsl-l-ml-lmyyr-lmtmd-wkht-ltnfydh-lkml-lm-2026-9e2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 05 Oct 2026 03:53:16 +0000",
+      "summary": "لماذا موقعك لا يحصل على عملاء: المعايير المعتمدة وخطة التنفيذ الكاملة لعام 2026 دليل وشرح شامل وعملي تم إعداده لزوار مدونة المستقل. لمتابعة المقال بالكامل مع كافة التفاصيل والخطوات: لماذا موقعك لا يحص",
+      "score": 5,
+      "titleZh": "لماذا موقعك لا يحصل على عملاء: المعايير المعتمدة وخطة التنفيذ الكاملة لعام 2026"
+    },
+    {
+      "title": "[Boost]",
+      "link": "https://dev.to/mark_bobsin_4e0df2235bbc9/-3me3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 05 Oct 2026 03:46:35 +0000",
+      "summary": "Step-by-Step Guide: Migrating Your React Applications to Version 18 Shrihari Sep 12 '23 #react #reactjsdevelopment #javascript #frontend 1 reaction Add Comment 4 min read",
+      "score": 5,
+      "titleZh": "[Boost]"
+    },
+    {
+      "title": "How a struggling React project and an old Delphi habit led me to build a framework",
+      "link": "https://dev.to/nekutuzov/how-a-struggling-react-project-and-an-old-delphi-habit-led-me-to-build-a-framework-1a09",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 04 Oct 2026 02:49:46 +0000",
-      "summary": "What Manus does Manus is an agent that takes a goal and works on it by itself. Its January 2026 post on the Manus Sandbox explains the computing side (Manus): Manus allocates a fully isolated cloud vi",
+      "date": "Mon, 05 Oct 2026 03:46:03 +0000",
+      "summary": "This is part 2. Part 1 shows how to turn a vibe-coded MVP into something an AI agent can keep extending. Here is where UECA-React came from. In 2022 my company was rewriting a legacy web app: .NET Cor",
       "score": 5,
-      "titleZh": "Manus gives every task its own cloud computer. Build it as a durable workflow on Vercel"
+      "titleZh": "How a struggling React project and an old Delphi habit led me to build a framework"
+    },
+    {
+      "title": "React Props",
+      "link": "https://dev.to/jaisurya/react-props-4f51",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 05 Oct 2026 03:39:55 +0000",
+      "summary": "Props stand for \"Properties.\" They are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one",
+      "score": 5,
+      "titleZh": "React Props"
+    },
+    {
+      "title": "كيف تختار استضافة للمتجر الكبير: شرح عملي خطوة بخطوة للمبتدئين والمحترفين (2026)",
+      "link": "https://dev.to/mohamed_halawa_b4b6494a25/kyf-tkhtr-stdf-llmtjr-lkbyr-shrh-mly-khtw-bkhtw-llmbtdyyn-wlmhtrfyn-2026-3lj2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 05 Oct 2026 03:34:54 +0000",
+      "summary": "كيف تختار استضافة للمتجر الكبير: شرح عملي خطوة بخطوة للمبتدئين والمحترفين (2026) دليل وشرح شامل وعملي تم إعداده لزوار مدونة المستقل. لمتابعة المقال بالكامل مع كافة التفاصيل والخطوات: كيف تختار استضافة",
+      "score": 5,
+      "titleZh": "كيف تختار استضافة للمتجر الكبير: شرح عملي خطوة بخطوة للمبتدئين والمحترفين (2026)"
+    },
+    {
+      "title": "Tracking Google Flights prices with Python (a fare watcher in 40 lines)",
+      "link": "https://dev.to/rel8ble/tracking-google-flights-prices-with-python-a-fare-watcher-in-40-lines-2375",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 05 Oct 2026 03:32:16 +0000",
+      "summary": "I built this actor; it's a paid tool on Apify with a free trial credit. Google shut down its QPX Express flight API in 2018, and there's no public Google Flights API to replace it. If you want to watc",
+      "score": 5,
+      "titleZh": "Tracking Google Flights prices with Python (a fare watcher in 40 lines)"
     }
   ]
 }
