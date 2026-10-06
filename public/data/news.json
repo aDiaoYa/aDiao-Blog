@@ -1,117 +1,81 @@
 {
-  "updated": "2026-10-05T04:06:01.326Z",
-  "date": "2026-10-05",
+  "updated": "2026-10-06T04:55:01.657Z",
+  "date": "2026-10-06",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "link": "https://github.com/allenv0/SCM",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 04 Oct 2026 09:24:52 +0000",
-      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111",
-      "score": 144,
-      "titleZh": "Show HN: AI search for every photo and every frame of video on macOS"
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 04 Oct 2026 19:42:25 +0000",
-      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.y",
-      "score": 62,
-      "titleZh": "Homa: The end of TCP for AI clusters [video]"
-    },
-    {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 04 Oct 2026 08:41:58 +0000",
-      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891",
-      "score": 62,
-      "titleZh": "How to scale intent, quality, and artistry with AI [video]"
-    },
-    {
-      "title": "ASRN Adaptive Sparse Recurrence Network [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxs8qq/asrn_adaptive_sparse_recurrence_network_n/",
+      "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-04T22:17:54.000Z",
-      "summary": "A copy layer for language models that finds earlier occurrences of the current context with learned hash tables and copies what came next — with memory linear in sequence length. submitted by /u/Mean-",
+      "date": "2026-10-06T00:51:26.000Z",
+      "summary": "I've been working on a font searching tool for about a year now, and my investigations have centered around pre-training neural networks to produce embeddings of each font. I usually then need to post",
       "score": 40,
-      "titleZh": "ASRN Adaptive Sparse Recurrence Network [N]"
+      "titleZh": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]"
     },
     {
-      "title": "NeurIPS Workshops [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/",
+      "title": "A chunking lib in Rust that is ~20x faster [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-04T20:08:41.000Z",
-      "summary": "Anyone going to WMHS, Physworld AI or Vercodegen? Would love to get to know some people beforehand! submitted by /u/navalsaras [link] [comments]",
+      "date": "2026-10-05T18:11:15.000Z",
+      "summary": "Hey, I wanted a faster chunking library for my system without affecting the overall accuracy. Did not find many options. So I've build https://github.com/d1pankarmedhi/chunkr It has most of the chunki",
       "score": 40,
-      "titleZh": "NeurIPS Workshops [D]"
+      "titleZh": "A chunking lib in Rust that is ~20x faster [P]"
     },
     {
-      "title": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/",
+      "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-04T12:49:40.000Z",
-      "summary": "In our #NeurIPS2026 paper “A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems (DS)” (preprint: https://arxiv.org/abs/2607.14937) we reduce a DS foundation model to ",
+      "date": "2026-10-05T13:58:31.000Z",
+      "summary": "This is related to my previous post where I shared an encoder-only transformer model trained on ohiot1dm + shanghait1dm + azt1d datasets. This time I trained the model on the outputs of my T1DM patien",
       "score": 40,
-      "titleZh": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]"
+      "titleZh": "I have trained a model to predict my blood sugar (Part 2) [P]"
     },
     {
-      "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
+      "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-04T12:15:28.000Z",
-      "summary": "i work on reference checking stuff so i was reading through the ICLR 2027 author guidelines and style files this week the sample .bib that ships with the template has the Deep Learning book as \"Goodfe",
+      "date": "2026-10-05T10:07:52.000Z",
+      "summary": "Our production recommender at Yandex Music has 15+ candidate generators feeding pre-ranking and ranking models with hundreds of features. LLMs showed that one end-to-end model can take over work that ",
       "score": 40,
-      "titleZh": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]"
+      "titleZh": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]"
     },
     {
-      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+      "title": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-04T10:24:58.000Z",
-      "summary": "https://preview.redd.it/gkjgii48gfth1.png?width=575&format=png&auto=webp&s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use",
+      "date": "2026-10-05T07:40:27.000Z",
+      "summary": "Hi everyone, I recently had a paper accepted at ACML 2026, but I just found out that I have absolutely no funding to cover the registration fee or travel expenses. Because of this, I need to withdraw ",
       "score": 40,
-      "titleZh": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]"
+      "titleZh": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]"
     },
     {
-      "title": "Working with an AI Company That Does Things You Disagree With [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+      "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-04T08:41:09.000Z",
-      "summary": "I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent",
+      "date": "2026-10-05T04:11:48.000Z",
+      "summary": "In this project, I distilled the Stockfish value function into a ResNet/ViT model using 1 billion positions from the Gigafish dataset. The 3.9 billion position dataset is available on huggingface: htt",
       "score": 40,
-      "titleZh": "Working with an AI Company That Does Things You Disagree With [D]"
+      "titleZh": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -126,124 +90,160 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Why Automating Shopify Admin is a Nightmare (And How We Solved It)",
-      "link": "https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo",
-      "source": "Dev.to WebDev",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Mon, 05 Oct 2026 03:57:50 +0000",
-      "summary": "Shopify is one of the harder platforms to automate reliably, and not for the reasons most teams expect. Creating a product or syncing a feed isn't complex logic. The hard part is everything around it.",
-      "score": 5,
-      "titleZh": "Why Automating Shopify Admin is a Nightmare (And How We Solved It)"
+      "date": "2026-10-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "The 429 Your Agent Client Can't Read: designing rate limits for machine callers",
-      "link": "https://dev.to/minia2a/the-429-your-agent-client-cant-read-designing-rate-limits-for-machine-callers-3925",
-      "source": "Dev.to WebDev",
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Mon, 05 Oct 2026 03:55:30 +0000",
-      "summary": "The 429 Your Agent Client Can't Read A rate-limit response has two readers: a human debugging it in a terminal, and a retry loop parsing it in a program. Most APIs write it for the first reader and fo",
+      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "score": 5,
-      "titleZh": "The 429 Your Agent Client Can't Read: designing rate limits for machine callers"
+      "titleZh": "Our approach to EU text provenance rules"
     },
     {
-      "title": "I asked an AI agent to test my framework. It found the bugs I couldn't see, then built me a debugger.",
-      "link": "https://dev.to/nekutuzov/i-asked-an-ai-agent-to-test-my-framework-it-found-the-bugs-i-couldnt-see-then-built-me-a-2c2d",
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "score": 5,
+      "titleZh": "Building advertising for the way people use AI"
+    },
+    {
+      "title": "4 Ways Image Metadata Carries Privacy Risk — Why GPS Coordinates Matter",
+      "link": "https://dev.to/judsonrhodes1569/4-ways-image-metadata-carries-privacy-risk-why-gps-coordinates-matter-4k8i",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 05 Oct 2026 03:55:02 +0000",
-      "summary": "This is part 3. Part 1 is about converting vibe-coded MVPs. Part 2 is the origin story. UECA-React was my first real TypeScript work. A year or so after the first version, I looked at it critically. I",
+      "date": "Tue, 06 Oct 2026 04:37:40 +0000",
+      "summary": "An untouched camera upload can reveal where a product photo was taken. The operational constraint is blunt: reading metadata can help an image pipeline, but sending the original file to a public URL c",
       "score": 5,
-      "titleZh": "I asked an AI agent to test my framework. It found the bugs I couldn't see, then built me a debugger."
+      "titleZh": "4 Ways Image Metadata Carries Privacy Risk — Why GPS Coordinates Matter"
     },
     {
-      "title": "title: How to split a large JSON file in the browser (without uploading it anywhere) published: false",
-      "link": "https://dev.to/kb7822836hash/title-how-to-split-a-large-json-file-in-the-browser-without-uploading-it-anywhere-published-39jk",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 05 Oct 2026 03:54:02 +0000",
-      "summary": "ometimes you get a huge JSON array, a few thousand records in one file, and you need it in smaller pieces. Maybe an API only accepts 500 items at a time, or your editor chokes on the file. The easy wa",
-      "score": 5,
-      "titleZh": "title: How to split a large JSON file in the browser (without uploading it anywhere) published: false"
-    },
-    {
-      "title": "لماذا موقعك لا يحصل على عملاء: المعايير المعتمدة وخطة التنفيذ الكاملة لعام 2026",
-      "link": "https://dev.to/mohamed_halawa_b4b6494a25/lmdh-mwqk-l-yhsl-l-ml-lmyyr-lmtmd-wkht-ltnfydh-lkml-lm-2026-9e2",
+      "title": "I built T-Zero V3, an open-source MCP Server that cures LLM hallucinations and cuts token context costs by up to 95% 🚀",
+      "link": "https://dev.to/toprak_a/i-built-t-zero-v3-an-open-source-mcp-server-that-cures-llm-hallucinations-and-cuts-token-context-4d0o",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 05 Oct 2026 03:53:16 +0000",
-      "summary": "لماذا موقعك لا يحصل على عملاء: المعايير المعتمدة وخطة التنفيذ الكاملة لعام 2026 دليل وشرح شامل وعملي تم إعداده لزوار مدونة المستقل. لمتابعة المقال بالكامل مع كافة التفاصيل والخطوات: لماذا موقعك لا يحص",
+      "date": "Tue, 06 Oct 2026 04:37:37 +0000",
+      "summary": "Hey everyone 👋, If you are using AI coding agents (Cursor, Claude, Copilot) on large codebases, you probably face two massive problems: Token Exhaustion: Sending your entire workspace into the contex",
       "score": 5,
-      "titleZh": "لماذا موقعك لا يحصل على عملاء: المعايير المعتمدة وخطة التنفيذ الكاملة لعام 2026"
+      "titleZh": "I built T-Zero V3, an open-source MCP Server that cures LLM hallucinations and cuts token context costs by up to 95% 🚀"
     },
     {
-      "title": "[Boost]",
-      "link": "https://dev.to/mark_bobsin_4e0df2235bbc9/-3me3",
-      "source": "Dev.to JS",
+      "title": "The Hard Part of an AI Image Tool Is Not the Model",
+      "link": "https://dev.to/cj_z_a708d57a934800ff57be/the-hard-part-of-an-ai-image-tool-is-not-the-model-24mo",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 05 Oct 2026 03:46:35 +0000",
-      "summary": "Step-by-Step Guide: Migrating Your React Applications to Version 18 Shrihari Sep 12 '23 #react #reactjsdevelopment #javascript #frontend 1 reaction Add Comment 4 min read",
+      "date": "Tue, 06 Oct 2026 04:36:23 +0000",
+      "summary": "A lot of AI image products begin with the same demo: Upload an image. Call a model. Show the result. That flow looks simple in a product demo. In a real application, it is usually the easiest part. Th",
       "score": 5,
-      "titleZh": "[Boost]"
+      "titleZh": "The Hard Part of an AI Image Tool Is Not the Model"
     },
     {
-      "title": "How a struggling React project and an old Delphi habit led me to build a framework",
-      "link": "https://dev.to/nekutuzov/how-a-struggling-react-project-and-an-old-delphi-habit-led-me-to-build-a-framework-1a09",
+      "title": "Cổng thanh toán quét QR, báo biến động đa kênh",
+      "link": "https://dev.to/anhanh_anime/cong-thanh-toan-quet-qr-bao-bien-dong-da-kenh-1c2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 06 Oct 2026 04:32:39 +0000",
+      "summary": "Với nhiều cửa hàng online, việc nhận thanh toán chuyển khoản vẫn làm thủ công. Khách chuyển tiền rồi gửi ảnh chụp màn hình. Người bán mở ứng dụng ngân hàng dò từng giao dịch, sau đó mới xác nhận đơn. ",
+      "score": 5,
+      "titleZh": "Cổng thanh toán quét QR, báo biến động đa kênh"
+    },
+    {
+      "title": "Multilingual Support API: Summarize Tickets, Emails, and Meeting Notes Reliably",
+      "link": "https://dev.to/elowenveil9067/multilingual-support-api-summarize-tickets-emails-and-meeting-notes-reliably-fi7",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 05 Oct 2026 03:46:03 +0000",
-      "summary": "This is part 2. Part 1 shows how to turn a vibe-coded MVP into something an AI agent can keep extending. Here is where UECA-React came from. In 2022 my company was rewriting a legacy web app: .NET Cor",
+      "date": "Tue, 06 Oct 2026 04:30:57 +0000",
+      "summary": "TL;DR: Use a standard chat completions API to turn messy multilingual product descriptions, tickets, emails, and meeting notes into catalog summaries. Start synchronous for live edits. Move historical",
       "score": 5,
-      "titleZh": "How a struggling React project and an old Delphi habit led me to build a framework"
+      "titleZh": "Multilingual Support API: Summarize Tickets, Emails, and Meeting Notes Reliably"
     },
     {
-      "title": "React Props",
-      "link": "https://dev.to/jaisurya/react-props-4f51",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 05 Oct 2026 03:39:55 +0000",
-      "summary": "Props stand for \"Properties.\" They are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one",
-      "score": 5,
-      "titleZh": "React Props"
-    },
-    {
-      "title": "كيف تختار استضافة للمتجر الكبير: شرح عملي خطوة بخطوة للمبتدئين والمحترفين (2026)",
-      "link": "https://dev.to/mohamed_halawa_b4b6494a25/kyf-tkhtr-stdf-llmtjr-lkbyr-shrh-mly-khtw-bkhtw-llmbtdyyn-wlmhtrfyn-2026-3lj2",
+      "title": "CSS Flexbox Cheatsheet: Every Property Explained with Examples",
+      "link": "https://dev.to/pulkitgovrani/css-flexbox-cheatsheet-every-property-explained-with-examples-5efg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 05 Oct 2026 03:34:54 +0000",
-      "summary": "كيف تختار استضافة للمتجر الكبير: شرح عملي خطوة بخطوة للمبتدئين والمحترفين (2026) دليل وشرح شامل وعملي تم إعداده لزوار مدونة المستقل. لمتابعة المقال بالكامل مع كافة التفاصيل والخطوات: كيف تختار استضافة",
+      "date": "Tue, 06 Oct 2026 04:30:00 +0000",
+      "summary": "Flexbox is a one-dimensional layout system: it lays items out along a single row or column and gives you control over their size, spacing, and alignment. Most of what you'll ever need fits in a short ",
       "score": 5,
-      "titleZh": "كيف تختار استضافة للمتجر الكبير: شرح عملي خطوة بخطوة للمبتدئين والمحترفين (2026)"
+      "titleZh": "CSS Flexbox Cheatsheet: Every Property Explained with Examples"
     },
     {
-      "title": "Tracking Google Flights prices with Python (a fare watcher in 40 lines)",
-      "link": "https://dev.to/rel8ble/tracking-google-flights-prices-with-python-a-fare-watcher-in-40-lines-2375",
+      "title": "Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your Wallet Be?",
+      "link": "https://dev.to/baba_yaga_dee9f44c728109e/your-money-in-2026-ai-budgeting-apps-vs-human-advisors-where-should-your-wallet-be-1537",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 06 Oct 2026 04:27:35 +0000",
+      "summary": "Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your Wallet Be? Original Engineering Publication: Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your W",
+      "score": 5,
+      "titleZh": "Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your Wallet Be?"
+    },
+    {
+      "title": "Why I Chose a Structured Summary JSON Output API — Clear CRM Actions",
+      "link": "https://dev.to/noahhayes7250/why-i-chose-a-structured-summary-json-output-api-clear-crm-actions-28bl",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 06 Oct 2026 04:26:36 +0000",
+      "summary": "A structured summary JSON output API can turn a sales-call transcript into a title, bullets, key takeaways, and CRM actions, but it should not own the audio boundary too. Audio becomes a transcript un",
+      "score": 5,
+      "titleZh": "Why I Chose a Structured Summary JSON Output API — Clear CRM Actions"
+    },
+    {
+      "title": "Thiết Kế Website Chuyên Nghiệp Tăng Doanh Thu Ngay",
+      "link": "https://dev.to/thietkewebchuyennghiep/thiet-ke-website-chuyen-nghiep-tang-doanh-thu-ngay-1l7e",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 05 Oct 2026 03:32:16 +0000",
-      "summary": "I built this actor; it's a paid tool on Apify with a free trial credit. Google shut down its QPX Express flight API in 2018, and there's no public Google Flights API to replace it. If you want to watc",
+      "date": "Tue, 06 Oct 2026 04:25:22 +0000",
+      "summary": "Thiết Kế Website Chuyên Nghiệp Tăng Doanh Thu Ngay Nhiều doanh nghiệp bỏ ra hàng chục triệu đồng xây dựng website rồi thắc mắc tại sao khách vào rồi thoát ngay, tỉ lệ chuyển đổi gần bằng không. Vấn đề",
       "score": 5,
-      "titleZh": "Tracking Google Flights prices with Python (a fare watcher in 40 lines)"
+      "titleZh": "Thiết Kế Website Chuyên Nghiệp Tăng Doanh Thu Ngay"
+    },
+    {
+      "title": "I Am 12. I Built an AI Ecosystem on a $150 Phone That Beats Claude Code at Max Effort. (Benchmark Report Inside)",
+      "link": "https://dev.to/koda2026/i-am-12-i-built-an-ai-ecosystem-on-a-150-phone-that-beats-claude-code-at-max-effort-benchmark-5gh1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 06 Oct 2026 04:25:17 +0000",
+      "summary": "i am 12 years old. i don't have a macbook pro. i don't have a $100/month cloud budget. i code on a $150 poco c55 phone. when you code on a device with 4gb of ram, you learn very quickly that bloat is ",
+      "score": 5,
+      "titleZh": "I Am 12. I Built an AI Ecosystem on a $150 Phone That Beats Claude Code at Max Effort. (Benchmark Report Inside)"
     }
   ]
 }
