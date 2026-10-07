@@ -1,10 +1,70 @@
 {
-  "updated": "2026-10-06T04:55:01.657Z",
-  "date": "2026-10-06",
+  "updated": "2026-10-07T04:21:37.490Z",
+  "date": "2026-10-07",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "NeurIPS workshop registration for registered author [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzhpnz/neurips_workshop_registration_for_registered/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-06T23:36:51.000Z",
+      "summary": "For NeurIPS, I already registered a few months ago (for Atlanta) when there were news that Sydney is sold out. However, I forgot to register for the workshop. Now, when I go to register just for the w",
+      "score": 40,
+      "titleZh": "NeurIPS workshop registration for registered author [D]"
+    },
+    {
+      "title": "ML PHD without A* Publications [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-06T21:26:18.000Z",
+      "summary": "I know top ML PhD admissions are insanely competitive, so I’m trying to figure out if it’s even worth applying or if I should just focus seriously on jobs instead. For context, I’m doing my MS at a to",
+      "score": 40,
+      "titleZh": "ML PHD without A* Publications [D]"
+    },
+    {
+      "title": "AFP-GIC: Controllable Generative Image Compression [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-06T19:12:58.000Z",
+      "summary": "Hi ML Community, I am excited to share our latest framework, AFP-GIC, officially published in IEEE Access (2026). We have released the deployment codebase and hosted an interactive visual playground. ",
+      "score": 40,
+      "titleZh": "AFP-GIC: Controllable Generative Image Compression [R]"
+    },
+    {
+      "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-06T16:27:09.000Z",
+      "summary": "Someone who has always loved looking at the space between different AI techniques, this time I went a little deeper into the memory trade-offs between RNNs, Transformers and SSMs. I found it interesti",
+      "score": 40,
+      "titleZh": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]"
+    },
+    {
+      "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-06T10:50:30.000Z",
+      "summary": "Learning from data as we observe it is easy for humans, but most machine learning models have limited ability to learn from new data that they have not seen during training. Prior-fitted networks (the",
+      "score": 40,
+      "titleZh": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]"
+    },
     {
       "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/",
@@ -16,66 +76,6 @@
       "summary": "I've been working on a font searching tool for about a year now, and my investigations have centered around pre-training neural networks to produce embeddings of each font. I usually then need to post",
       "score": 40,
       "titleZh": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]"
-    },
-    {
-      "title": "A chunking lib in Rust that is ~20x faster [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-05T18:11:15.000Z",
-      "summary": "Hey, I wanted a faster chunking library for my system without affecting the overall accuracy. Did not find many options. So I've build https://github.com/d1pankarmedhi/chunkr It has most of the chunki",
-      "score": 40,
-      "titleZh": "A chunking lib in Rust that is ~20x faster [P]"
-    },
-    {
-      "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-05T13:58:31.000Z",
-      "summary": "This is related to my previous post where I shared an encoder-only transformer model trained on ohiot1dm + shanghait1dm + azt1d datasets. This time I trained the model on the outputs of my T1DM patien",
-      "score": 40,
-      "titleZh": "I have trained a model to predict my blood sugar (Part 2) [P]"
-    },
-    {
-      "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-05T10:07:52.000Z",
-      "summary": "Our production recommender at Yandex Music has 15+ candidate generators feeding pre-ranking and ranking models with hundreds of features. LLMs showed that one end-to-end model can take over work that ",
-      "score": 40,
-      "titleZh": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]"
-    },
-    {
-      "title": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-05T07:40:27.000Z",
-      "summary": "Hi everyone, I recently had a paper accepted at ACML 2026, but I just found out that I have absolutely no funding to cover the registration fee or travel expenses. Because of this, I need to withdraw ",
-      "score": 40,
-      "titleZh": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]"
-    },
-    {
-      "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-05T04:11:48.000Z",
-      "summary": "In this project, I distilled the Stockfish value function into a ResNet/ViT model using 1 billion positions from the Gigafish dataset. The 3.9 billion position dataset is available on huggingface: htt",
-      "score": 40,
-      "titleZh": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "link": "https://arxiv.org/abs/2610.06910",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation",
       "score": 5,
-      "titleZh": "Our approach to EU text provenance rules"
+      "titleZh": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets"
     },
     {
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "link": "https://arxiv.org/abs/2610.06914",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin ",
       "score": 5,
-      "titleZh": "Building advertising for the way people use AI"
+      "titleZh": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain"
     },
     {
-      "title": "4 Ways Image Metadata Carries Privacy Risk — Why GPS Coordinates Matter",
-      "link": "https://dev.to/judsonrhodes1569/4-ways-image-metadata-carries-privacy-risk-why-gps-coordinates-matter-4k8i",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 06 Oct 2026 04:37:40 +0000",
-      "summary": "An untouched camera upload can reveal where a product photo was taken. The operational constraint is blunt: reading metadata can help an image pipeline, but sending the original file to a public URL c",
-      "score": 5,
-      "titleZh": "4 Ways Image Metadata Carries Privacy Risk — Why GPS Coordinates Matter"
-    },
-    {
-      "title": "I built T-Zero V3, an open-source MCP Server that cures LLM hallucinations and cuts token context costs by up to 95% 🚀",
-      "link": "https://dev.to/toprak_a/i-built-t-zero-v3-an-open-source-mcp-server-that-cures-llm-hallucinations-and-cuts-token-context-4d0o",
+      "title": "A free digital business card is a vCard with the right Content-Type",
+      "link": "https://dev.to/karuha/a-free-digital-business-card-is-a-vcard-with-the-right-content-type-1fbd",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 06 Oct 2026 04:37:37 +0000",
-      "summary": "Hey everyone 👋, If you are using AI coding agents (Cursor, Claude, Copilot) on large codebases, you probably face two massive problems: Token Exhaustion: Sending your entire workspace into the contex",
+      "date": "Wed, 07 Oct 2026 04:20:39 +0000",
+      "summary": "A digital business card is three files stacked together: a web page, a QR code that points at that page, and a vCard a phone can save. Most \"free\" plans are generous about the first two and quiet abou",
       "score": 5,
-      "titleZh": "I built T-Zero V3, an open-source MCP Server that cures LLM hallucinations and cuts token context costs by up to 95% 🚀"
+      "titleZh": "A free digital business card is a vCard with the right Content-Type"
     },
     {
-      "title": "The Hard Part of an AI Image Tool Is Not the Model",
-      "link": "https://dev.to/cj_z_a708d57a934800ff57be/the-hard-part-of-an-ai-image-tool-is-not-the-model-24mo",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 06 Oct 2026 04:36:23 +0000",
-      "summary": "A lot of AI image products begin with the same demo: Upload an image. Call a model. Show the result. That flow looks simple in a product demo. In a real application, it is usually the easiest part. Th",
-      "score": 5,
-      "titleZh": "The Hard Part of an AI Image Tool Is Not the Model"
-    },
-    {
-      "title": "Cổng thanh toán quét QR, báo biến động đa kênh",
-      "link": "https://dev.to/anhanh_anime/cong-thanh-toan-quet-qr-bao-bien-dong-da-kenh-1c2",
+      "title": "Designing a Disc Condition Log That Separates Appearance from Playback",
+      "link": "https://dev.to/wo_ytao_734002744cb9586f0/designing-a-disc-condition-log-that-separates-appearance-from-playback-1ffo",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 06 Oct 2026 04:32:39 +0000",
-      "summary": "Với nhiều cửa hàng online, việc nhận thanh toán chuyển khoản vẫn làm thủ công. Khách chuyển tiền rồi gửi ảnh chụp màn hình. Người bán mở ứng dụng ngân hàng dò từng giao dịch, sau đó mới xác nhận đơn. ",
+      "date": "Wed, 07 Oct 2026 04:09:40 +0000",
+      "summary": "A collection app can become misleading with one innocent-looking field: “Condition: Good.” Does that mean the case is tidy, the disc looks unmarked, or somebody watched the entire feature without an i",
       "score": 5,
-      "titleZh": "Cổng thanh toán quét QR, báo biến động đa kênh"
+      "titleZh": "Designing a Disc Condition Log That Separates Appearance from Playback"
     },
     {
-      "title": "Multilingual Support API: Summarize Tickets, Emails, and Meeting Notes Reliably",
-      "link": "https://dev.to/elowenveil9067/multilingual-support-api-summarize-tickets-emails-and-meeting-notes-reliably-fi7",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 06 Oct 2026 04:30:57 +0000",
-      "summary": "TL;DR: Use a standard chat completions API to turn messy multilingual product descriptions, tickets, emails, and meeting notes into catalog summaries. Start synchronous for live edits. Move historical",
-      "score": 5,
-      "titleZh": "Multilingual Support API: Summarize Tickets, Emails, and Meeting Notes Reliably"
-    },
-    {
-      "title": "CSS Flexbox Cheatsheet: Every Property Explained with Examples",
-      "link": "https://dev.to/pulkitgovrani/css-flexbox-cheatsheet-every-property-explained-with-examples-5efg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 06 Oct 2026 04:30:00 +0000",
-      "summary": "Flexbox is a one-dimensional layout system: it lays items out along a single row or column and gives you control over their size, spacing, and alignment. Most of what you'll ever need fits in a short ",
-      "score": 5,
-      "titleZh": "CSS Flexbox Cheatsheet: Every Property Explained with Examples"
-    },
-    {
-      "title": "Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your Wallet Be?",
-      "link": "https://dev.to/baba_yaga_dee9f44c728109e/your-money-in-2026-ai-budgeting-apps-vs-human-advisors-where-should-your-wallet-be-1537",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 06 Oct 2026 04:27:35 +0000",
-      "summary": "Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your Wallet Be? Original Engineering Publication: Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your W",
-      "score": 5,
-      "titleZh": "Your Money in 2026: AI Budgeting Apps vs. Human Advisors – Where Should Your Wallet Be?"
-    },
-    {
-      "title": "Why I Chose a Structured Summary JSON Output API — Clear CRM Actions",
-      "link": "https://dev.to/noahhayes7250/why-i-chose-a-structured-summary-json-output-api-clear-crm-actions-28bl",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 06 Oct 2026 04:26:36 +0000",
-      "summary": "A structured summary JSON output API can turn a sales-call transcript into a title, bullets, key takeaways, and CRM actions, but it should not own the audio boundary too. Audio becomes a transcript un",
-      "score": 5,
-      "titleZh": "Why I Chose a Structured Summary JSON Output API — Clear CRM Actions"
-    },
-    {
-      "title": "Thiết Kế Website Chuyên Nghiệp Tăng Doanh Thu Ngay",
-      "link": "https://dev.to/thietkewebchuyennghiep/thiet-ke-website-chuyen-nghiep-tang-doanh-thu-ngay-1l7e",
+      "title": "Company name website, logo and stock ticker for free: Wikidata is the enrichment API nobody mentions",
+      "link": "https://dev.to/swiftkit_dev/company-name-website-logo-and-stock-ticker-for-free-wikidata-is-the-enrichment-api-nobody-3dmo",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 06 Oct 2026 04:25:22 +0000",
-      "summary": "Thiết Kế Website Chuyên Nghiệp Tăng Doanh Thu Ngay Nhiều doanh nghiệp bỏ ra hàng chục triệu đồng xây dựng website rồi thắc mắc tại sao khách vào rồi thoát ngay, tỉ lệ chuyển đổi gần bằng không. Vấn đề",
+      "date": "Wed, 07 Oct 2026 04:03:56 +0000",
+      "summary": "\"I have 2,000 company names in a spreadsheet and need their websites\" is a surprisingly common request. Paid enrichment APIs exist, but for well-known and mid-size companies there's a free, openly lic",
       "score": 5,
-      "titleZh": "Thiết Kế Website Chuyên Nghiệp Tăng Doanh Thu Ngay"
+      "titleZh": "Company name website, logo and stock ticker for free: Wikidata is the enrichment API nobody mentions"
     },
     {
-      "title": "I Am 12. I Built an AI Ecosystem on a $150 Phone That Beats Claude Code at Max Effort. (Benchmark Report Inside)",
-      "link": "https://dev.to/koda2026/i-am-12-i-built-an-ai-ecosystem-on-a-150-phone-that-beats-claude-code-at-max-effort-benchmark-5gh1",
+      "title": "The Empty Example: a discovery layer that hands your agent a call it cannot make",
+      "link": "https://dev.to/minia2a/the-empty-example-a-discovery-layer-that-hands-your-agent-a-call-it-cannot-make-4jcl",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 06 Oct 2026 04:25:17 +0000",
-      "summary": "i am 12 years old. i don't have a macbook pro. i don't have a $100/month cloud budget. i code on a $150 poco c55 phone. when you code on a device with 4gb of ram, you learn very quickly that bloat is ",
+      "date": "Wed, 07 Oct 2026 04:02:02 +0000",
+      "summary": "The Empty Example: a discovery layer that hands your agent a call it cannot make October 7, 2026 When an x402 resource wants to be called, it advertises itself in a 402 response. For a machine caller ",
       "score": 5,
-      "titleZh": "I Am 12. I Built an AI Ecosystem on a $150 Phone That Beats Claude Code at Max Effort. (Benchmark Report Inside)"
+      "titleZh": "The Empty Example: a discovery layer that hands your agent a call it cannot make"
+    },
+    {
+      "title": "Read the hidden author, comments and tracked changes in a .docx with plain JavaScript",
+      "link": "https://dev.to/hexloomlabs/read-the-hidden-author-comments-and-tracked-changes-in-a-docx-with-plain-javascript-116n",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 07 Oct 2026 04:01:35 +0000",
+      "summary": "A .docx file is a zip archive of XML files. That is why a Word document you send to a client can carry the name of its author, the name of the last person who saved it, every comment, and every tracke",
+      "score": 5,
+      "titleZh": "Read the hidden author, comments and tracked changes in a .docx with plain JavaScript"
+    },
+    {
+      "title": "How to Convert HEIC Images to PNG in Seconds (Free & Browser-Based)",
+      "link": "https://dev.to/solodev_tools/how-to-convert-heic-images-to-png-in-seconds-free-browser-based-5f4o",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 07 Oct 2026 04:01:09 +0000",
+      "summary": "When working on web applications, design projects, or simply backing up photos from iPhones to a Windows PC, Apple's default HEIC (High Efficiency Image Format) quickly becomes a major pain point. Mos",
+      "score": 5,
+      "titleZh": "How to Convert HEIC Images to PNG in Seconds (Free & Browser-Based)"
+    },
+    {
+      "title": "How to Buy Verified PayPal Accounts in 2026: Top Sites, Step",
+      "link": "https://dev.to/pvacreative11/how-to-buy-verified-paypal-accounts-in-2026-top-sites-step-18nj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 07 Oct 2026 03:59:34 +0000",
+      "summary": "Buy Verified PayPal Accounts If you want to know about our Service pvacreatives@gmail.com Click The Blue Line Below To Send A Request pvacreatives@gmail.com Understanding PayPal's Official Verificatio",
+      "score": 5,
+      "titleZh": "How to Buy Verified PayPal Accounts in 2026: Top Sites, Step"
+    },
+    {
+      "title": "Hello World! 👋 Full-Stack & Mobile Dev checking in",
+      "link": "https://dev.to/priyanshu_kumar_eaec7edf7/hello-world-full-stack-mobile-dev-checking-in-4iac",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 07 Oct 2026 03:59:27 +0000",
+      "summary": "Hey everyone! 👋 I'm a computer engineering student and developer passionate about building smooth, scalable applications across web and mobile. My day-to-day stack usually revolves around React, Next",
+      "score": 5,
+      "titleZh": "Hello World! 👋 Full-Stack & Mobile Dev checking in"
+    },
+    {
+      "title": "Top 15 Sites To Buy Verified PayPal Accounts (personal And business)",
+      "link": "https://dev.to/pvacreative11/top-15-sites-to-buy-verified-paypal-accounts-personal-and-business-4p1p",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 07 Oct 2026 03:54:00 +0000",
+      "summary": "Buy Verified PayPal Accounts If you want to know about our Service pvacreatives@gmail.com The internet is flooded with advertisements promising instant access to verified PayPal accounts for sale. The",
+      "score": 5,
+      "titleZh": "Top 15 Sites To Buy Verified PayPal Accounts (personal And business)"
+    },
+    {
+      "title": "I Built a Data-Driven Palworld Breeding Calculator for Version 1.0",
+      "link": "https://dev.to/airball_nick_f1598c78e1cd/i-built-a-data-driven-palworld-breeding-calculator-for-version-10-dg0",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 07 Oct 2026 03:53:36 +0000",
+      "summary": "Palworld breeding looks simple when you are just putting two Pals into the farm. I built and maintain a free Palworld Breeding Calculator for Palworld 1.0. It lets players pick two parents and see the",
+      "score": 5,
+      "titleZh": "I Built a Data-Driven Palworld Breeding Calculator for Version 1.0"
     }
   ]
 }
