@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-07T17:15:53.351Z",
-  "date": "2026-10-07",
+  "updated": "2026-10-09T04:36:50.471Z",
+  "date": "2026-10-09",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "How much of AutoResearch is research, and how much is search?[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzxqze/how_much_of_autoresearch_is_research_and_how_much/",
+      "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-07T14:18:44.000Z",
-      "summary": "I've recently been working part-time on an AutoResearch-style project. The setup is roughly: humans take recent work from top-tier ML/AI conferences, turn part of it into a well-defined task with an e",
+      "date": "2026-10-09T00:50:36.000Z",
+      "summary": "Figure 1b from our paper Disclosure: I'm one of the authors (Microsoft). The paper, code, dataset are public and ThinkingBox is on Hugging Face OpenEnv as well. Raw evaluation trajectories are not rel",
       "score": 40,
-      "titleZh": "AutoResearch 有多少是研究，有多少是搜索？[D]"
+      "titleZh": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]"
     },
     {
-      "title": "NeurIPS 26 Event Metadata Deadline [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzrj5l/neurips_26_event_metadata_deadline_d/",
+      "title": "Should I optimize for ML conference publications? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x14lwj/should_i_optimize_for_ml_conference_publications_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-07T08:52:39.000Z",
-      "summary": "Hi All, Does anyone know when is the deadline to fill in event metadata? (the screenshot below) Is it the same time as camera-ready? Or there is a deadline for it? And is everyone's topic None? The ma",
+      "date": "2026-10-08T22:21:08.000Z",
+      "summary": "Hi!I am a fourth year PhD student in USA and have not had much luck with top ML conference publications. In the last two years of my PhD, I am wondering if I should optimize for ML publications at top",
       "score": 40,
-      "titleZh": "NeurIPS 26 事件元数据截止日期 [D]"
+      "titleZh": "Should I optimize for ML conference publications? [D]"
     },
     {
-      "title": "Looking for developer-friendly inference providers who give you enough API credits to experiment [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzqmka/looking_for_developerfriendly_inference_providers/",
+      "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-07T07:51:07.000Z",
-      "summary": "I’m hitting rate limits on Together AI. For context, I’ve been working on an agentic repository indexing and benchmark generation tool, and I’m running multiple agents in parallel across models like L",
+      "date": "2026-10-08T20:28:20.000Z",
+      "summary": "UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, consistently outperform most standard Transformer-based Large Language models (LLMs) by a ",
       "score": 40,
-      "titleZh": "寻找开发人员友好的推理提供商，为您提供足够的 API 积分来进行实验 [D]"
+      "titleZh": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]"
     },
     {
-      "title": "Saw this on Rednote, WTF [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzpzh3/saw_this_on_rednote_wtf_d/",
+      "title": "Whatever happened to BABA is AI from 2024? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-07T07:08:36.000Z",
-      "summary": "https://preview.redd.it/t7wxguxqvzth1.png?width=1314&format=png&auto=webp&s=0ba382fb88894c6e687d5bb9a4b14a85334eae67 Guess we have a dataset for sycophancy and AI content detection submitted by /u/Str",
+      "date": "2026-10-08T20:00:11.000Z",
+      "summary": "We test three state-of-the-art multi-modal large language models (GPT-4o, Gemini-1.5-Pro, Gemini-1.5-Flash) and find that they fail dramatically when generalization requires that the rules of the game",
       "score": 40,
-      "titleZh": "在 Rednote 上看到这个，WTF [D]"
+      "titleZh": "Whatever happened to BABA is AI from 2024? [D]"
     },
     {
-      "title": "ML PHD without A* Publications [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
+      "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-06T21:26:18.000Z",
-      "summary": "I know top ML PhD admissions are insanely competitive, so I’m trying to figure out if it’s even worth applying or if I should just focus seriously on jobs instead. For context, I’m doing my MS at a to",
+      "date": "2026-10-08T19:03:32.000Z",
+      "summary": "UCLA’s Trustworthy AI Lab is running a tournament on October 16 where AI agents compete in Pokémon Showdown, Werewolf, Red Alert, and Honor of Kings. It’s open to everyone, including remote participan",
       "score": 40,
-      "titleZh": "没有 A* 出版物的 ML PHD [D]"
+      "titleZh": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]"
     },
     {
-      "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
+      "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-06T16:27:09.000Z",
-      "summary": "Someone who has always loved looking at the space between different AI techniques, this time I went a little deeper into the memory trade-offs between RNNs, Transformers and SSMs. I found it interesti",
+      "date": "2026-10-08T04:58:15.000Z",
+      "summary": "Here is the story: Nvidia has published this work (with source code available) called dreamDojo which is a world model for robotics based of their prior work Cosmos 2.5 which is cited about 100 times ",
       "score": 40,
-      "titleZh": "Transformer、RNN、SSM：内存实际上位于哪里？ [D]"
+      "titleZh": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,7 +87,7 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销帖子"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -99,151 +99,151 @@
       "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Multimodal open d1 decision models for the edge",
-      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "HuggingFace",
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "link": "https://arxiv.org/abs/2610.10541",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 07 Oct 2026 16:54:33 GMT",
-      "summary": "",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In me",
       "score": 5,
-      "titleZh": "边缘的多模态开放 d1 决策模型"
+      "titleZh": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment"
     },
     {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "HuggingFace",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "link": "https://arxiv.org/abs/2610.10549",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 07 Oct 2026 12:45:31 GMT",
-      "summary": "",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and leg",
       "score": 5,
-      "titleZh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron"
+      "titleZh": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction"
     },
     {
-      "title": "# 15 Essential Free In-Browser Developer Utilities with Zero Server Uploads",
-      "link": "https://dev.to/freelancernearby/-15-essential-free-in-browser-developer-utilities-with-zero-server-uploads-2i1k",
-      "source": "Dev.to JS",
+      "title": "Calquza: Free Online Calculators and Useful Calculation Tools",
+      "link": "https://dev.to/calquza/calquza-free-online-calculators-and-useful-calculation-tools-5bc5",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 07 Oct 2026 17:10:48 +0000",
-      "summary": "As developers, we frequently need quick online tools to format JSON, compress assets, test regular expressions, or generate hashes. However, uploading sensitive tokens or customer data to random cloud",
+      "date": "Fri, 09 Oct 2026 04:33:45 +0000",
+      "summary": "Calquza: Useful Online Calculators and Free Calculation Tools Looking for simple and convenient online calculators? Calquza helps users perform everyday calculations quickly with easy-to-use online to",
       "score": 5,
-      "titleZh": "# 15 个基本的免费浏览器内开发实用程序，零服务器上传"
+      "titleZh": "Calquza: Free Online Calculators and Useful Calculation Tools"
     },
     {
-      "title": "Never Execute the Translation: Build Language-Safe Slash Commands for Tencent RTC Chat",
-      "link": "https://dev.to/susiewang/never-execute-the-translation-build-language-safe-slash-commands-for-tencent-rtc-chat-31p4",
+      "title": "I built a homepage where vibe-coded apps compete for 5 upvotes",
+      "link": "https://dev.to/riantogo/i-built-a-homepage-where-vibe-coded-apps-compete-for-5-upvotes-ak8",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 09 Oct 2026 04:30:07 +0000",
+      "summary": "You know the drill. You spend a weekend vibe coding something genuinely useful, you post it on Reddit, it gets eleven upvotes and two comments (\"cool project!\"), and then it dies in the feed. The buil",
+      "score": 5,
+      "titleZh": "I built a homepage where vibe-coded apps compete for 5 upvotes"
+    },
+    {
+      "title": "Markdown Cheatsheet: Every Syntax You Need (With Examples)",
+      "link": "https://dev.to/pulkitgovrani/markdown-cheatsheet-every-syntax-you-need-with-examples-3i1h",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 09 Oct 2026 04:30:00 +0000",
+      "summary": "Markdown is a lightweight way to write formatted text using plain characters. It's used for README files, documentation, notes, forum posts, and blogs. The basics take minutes to learn, and this cheat",
+      "score": 5,
+      "titleZh": "Markdown Cheatsheet: Every Syntax You Need (With Examples)"
+    },
+    {
+      "title": "From Beginner to Builder: My Coding Journey Begins",
+      "link": "https://dev.to/dhruvsingla24/from-beginner-to-builder-my-coding-journey-begins-9gb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 09 Oct 2026 04:28:53 +0000",
+      "summary": "Hello, Dev Community! I'm starting my developer journey Hey everyone! I'm a first-year B.Tech CSE (AI & ML) student, and I'm excited to start sharing my learning journey here. Currently, I'm focusing ",
+      "score": 5,
+      "titleZh": "From Beginner to Builder: My Coding Journey Begins"
+    },
+    {
+      "title": "Why in-memory MCP sessions fail behind a load balancer (NestJS demo)",
+      "link": "https://dev.to/shilpamareddy06-ops/why-in-memory-mcp-sessions-fail-behind-a-load-balancer-nestjs-demo-3fj0",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 07 Oct 2026 17:10:14 +0000",
-      "summary": "A slash command looks like ordinary text, but it is not ordinary text. Consider this message in a multilingual community: /report msg_481 \"personal attack in the second paragraph\" The sender expects a",
+      "date": "Fri, 09 Oct 2026 04:27:46 +0000",
+      "summary": "By Shilpa Mareddy Two copies of an MCP (Model Context Protocol) server (a server that AI applications call tools on) sit behind a round-robin load balancer (it sends each request to the next server in",
       "score": 5,
-      "titleZh": "从不执行翻译：为腾讯 RTC 聊天构建语言安全的斜杠命令"
+      "titleZh": "Why in-memory MCP sessions fail behind a load balancer (NestJS demo)"
     },
     {
-      "title": "Buy GitHub Accounts: Verified & Ready-to-Use GitHub Accounts for Developers and Teams",
-      "link": "https://dev.to/localpvashop033/buy-github-accounts-verified-ready-to-use-github-accounts-for-developers-and-teams-4286",
+      "title": "title: How I built an ATS resume scorer with Groq + Gemini fallback (and what's still rough)",
+      "link": "https://dev.to/gaur-j/title-how-i-built-an-ats-resume-scorer-with-groq-gemini-fallback-and-whats-still-rough-1jce",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 09 Oct 2026 04:26:20 +0000",
+      "summary": "I got ATS-rejected a lot, so I built a tool to find out why. This post covers the technical decisions and the mistakes. Stack: Next.js, Supabase for auth and data, Groq (Llama 3.3) for fast, cheap ana",
+      "score": 5,
+      "titleZh": "title: How I built an ATS resume scorer with Groq + Gemini fallback (and what's still rough)"
+    },
+    {
+      "title": "How AI-Powered Coding Is Transforming Software Development (And Why You Should Embrace It)",
+      "link": "https://dev.to/chamod_madhushan/how-ai-powered-coding-is-transforming-software-development-and-why-you-should-embrace-it-47l0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 07 Oct 2026 17:08:20 +0000",
-      "summary": "Buy GitHub Accounts – A Complete Guide to Verified & Ready-to-Use GitHub Accounts Welcome to LocalPvaShop 24-hour reply & contact https://localpvashop.com/product/buy-github-accounts/ localpvashop@gma",
+      "date": "Fri, 09 Oct 2026 04:26:06 +0000",
+      "summary": "The developer workflow is evolving faster than ever. Gone are the days when hours were spent writing repetitive boilerplate code or searching through pages of documentation for a single syntax error. ",
       "score": 5,
-      "titleZh": "购买 GitHub 帐户：为开发人员和团队提供经过验证且随时可用的 GitHub 帐户"
+      "titleZh": "How AI-Powered Coding Is Transforming Software Development (And Why You Should Embrace It)"
     },
     {
-      "title": "Free AI Video and Image Generator without Watermark",
-      "link": "https://dev.to/veosnap_ai_de00344fc75e02/free-ai-video-and-image-generator-without-watermark-15jn",
+      "title": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)",
+      "link": "https://dev.to/nitish_mane_2c399ba312e53/i-built-scrapers-that-heal-themselves-and-won-an-nvidia-dgx-spark-k13",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 07 Oct 2026 17:08:07 +0000",
-      "summary": "If you are looking for a free tool to generate AI videos and images from text prompts or photos, check out VeoSnap AI. Key Features: Text to Video generation Image to Video creation No watermark & no ",
+      "date": "Fri, 09 Oct 2026 04:24:11 +0000",
+      "summary": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark) Scraper Factory took first place at the WeMakeDevs Zero Downtime Hackathon in San Francisco. On the surface it is a small product: i",
       "score": 5,
-      "titleZh": "免费的无水印人工智能视频和图像生成器"
+      "titleZh": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)"
     },
     {
-      "title": "Automated Sitemap & robots.txt Auditing: Catching Critical Indexing Traps",
-      "link": "https://dev.to/sameer_hassan/automated-sitemap-robotstxt-auditing-catching-critical-indexing-traps-341o",
+      "title": "Frontend Checkout Error Tracking: How to Capture Failures Without an SDK",
+      "link": "https://dev.to/chrysostomhayes8537/frontend-checkout-error-tracking-how-to-capture-failures-without-an-sdk-5h47",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 07 Oct 2026 17:04:42 +0000",
-      "summary": "It is every engineering and SEO team's worst nightmare: a developer pushes a staging configuration to production, and within 48 hours, organic search impressions crash to zero. The culprit? A single f",
+      "date": "Fri, 09 Oct 2026 04:22:43 +0000",
+      "summary": "Short answer: capture React render failures with an error boundary, capture uncaught runtime failures with error and unhandledrejection listeners, and send one small, versioned event to your own backe",
       "score": 5,
-      "titleZh": "自动化站点地图和 robots.txt 审核：捕获关键索引陷阱"
+      "titleZh": "Frontend Checkout Error Tracking: How to Capture Failures Without an SDK"
     },
     {
-      "title": "Multi-Tab Session Sync in a PKCE SPA with `okta-auth-js`",
-      "link": "https://dev.to/prathamesh_phadke_02/multi-tab-session-sync-in-a-pkce-spa-with-okta-auth-js-1bgc",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 07 Oct 2026 17:03:05 +0000",
-      "summary": "The problem Every tab runs its own OktaAuth instance with its own timers and its own in-memory auth state, but they all share one localStorage. Tokens become shared mutable state with concurrent write",
-      "score": 5,
-      "titleZh": "使用“okta-auth-js”在 PKCE SPA 中进行多选项卡会话同步"
-    },
-    {
-      "title": "We turned handmade art dolls into playable 3D characters in the browser",
-      "link": "https://dev.to/likeart/we-turned-handmade-art-dolls-into-playable-3d-characters-in-the-browser-2gjl",
+      "title": "How to write a security.txt (RFC 9116), and why EU software makers now need one",
+      "link": "https://dev.to/tanod/how-to-write-a-securitytxt-rfc-9116-and-why-eu-software-makers-now-need-one-56og",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 07 Oct 2026 17:02:21 +0000",
-      "summary": "Like Art is a marketplace for handmade art dolls - a bit under 3,000 pieces from 700+ independent artists. Every one of them is a physical object: sculpted, sewn, painted and photographed by the perso",
+      "date": "Fri, 09 Oct 2026 04:15:44 +0000",
+      "summary": "A security.txt file tells security researchers how to reach you when they find a vulnerability. It is a plain text file at /.well-known/security.txt, defined by RFC 9116. Since 11 September 2026 it ha",
       "score": 5,
-      "titleZh": "我们将手工制作的艺术娃娃变成了可在浏览器中播放的 3D 角色"
-    },
-    {
-      "title": "Aeon Connect: start an aeon agent from your browser",
-      "link": "https://dev.to/nurstar__ac8b784c29de45d/aeon-connect-start-an-aeon-agent-from-your-browser-3531",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 07 Oct 2026 17:02:06 +0000",
-      "summary": "Aeon Connect is live at www.aeon.fun/connect. Sign in with GitHub, connect a model, pick skills. No clone, no terminal, and the agent still lives in your repo. You can now start an Aeon agent without ",
-      "score": 5,
-      "titleZh": "Aeon Connect：从浏览器启动 aeon 代理"
-    },
-    {
-      "title": "Three Judges Scored the Same Project Twice. They Disagreed With Themselves by 1.11 Points.",
-      "link": "https://dev.to/realist/three-judges-scored-the-same-project-twice-they-disagreed-with-themselves-by-111-points-4cdi",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 07 Oct 2026 17:01:19 +0000",
-      "summary": "Why Evenhand ranks 40 hackathon projects in 2 groups, and shows its receipts. A hackathon ranking is forty claims that each project beat the one below it. We wanted to know how many of those claims th",
-      "score": 5,
-      "titleZh": "三位评委对同一项目两次评分。他们与自己的观点不一致 1.11 分。"
-    },
-    {
-      "title": "Extracting a Production Hover Preview: Audio, Canvas EQ, and Consent-First Design",
-      "link": "https://dev.to/bryanhamiltondev/extracting-a-production-hover-preview-audio-canvas-eq-and-consent-first-design-2lac",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 07 Oct 2026 17:00:58 +0000",
-      "summary": "1. The Problem 2. The iTunes Search API — Free Audio 3. Web Audio API Analyser — Real EQ, Not a Fake 4. The Race Condition Guard 5. Consent-First Design — The \"No\" States 6. Extras That Come Free 7. T",
-      "score": 5,
-      "titleZh": "提取制作悬停预览：音频、Canvas EQ 和同意优先设计"
+      "titleZh": "How to write a security.txt (RFC 9116), and why EU software makers now need one"
     }
   ]
 }
