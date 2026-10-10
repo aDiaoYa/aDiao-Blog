@@ -1,69 +1,117 @@
 {
-  "updated": "2026-10-09T04:36:50.471Z",
-  "date": "2026-10-09",
+  "updated": "2026-10-10T04:22:58.317Z",
+  "date": "2026-10-10",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
-      "source": "Reddit ML",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-09T00:50:36.000Z",
-      "summary": "Figure 1b from our paper Disclosure: I'm one of the authors (Microsoft). The paper, code, dataset are public and ThinkingBox is on Hugging Face OpenEnv as well. Raw evaluation trajectories are not rel",
-      "score": 40,
-      "titleZh": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]"
+      "date": "Fri, 09 Oct 2026 17:02:31 +0000",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450",
+      "score": 303,
+      "titleZh": "Typesafe AI raises $870M at $7.5B"
     },
     {
-      "title": "Should I optimize for ML conference publications? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x14lwj/should_i_optimize_for_ml_conference_publications_d/",
-      "source": "Reddit ML",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-08T22:21:08.000Z",
-      "summary": "Hi!I am a fourth year PhD student in USA and have not had much luck with top ML conference publications. In the last two years of my PhD, I am wondering if I should optimize for ML publications at top",
-      "score": 40,
-      "titleZh": "Should I optimize for ML conference publications? [D]"
+      "date": "Fri, 09 Oct 2026 11:36:20 +0000",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056",
+      "score": 125,
+      "titleZh": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more"
     },
     {
-      "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
-      "source": "Reddit ML",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-08T20:28:20.000Z",
-      "summary": "UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, consistently outperform most standard Transformer-based Large Language models (LLMs) by a ",
-      "score": 40,
-      "titleZh": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]"
+      "date": "Fri, 09 Oct 2026 22:00:35 +0000",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118",
+      "score": 105,
+      "titleZh": "Anthropic AI model submits false tip on unsolved Philly murder"
     },
     {
-      "title": "Whatever happened to BABA is AI from 2024? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
-      "source": "Reddit ML",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-08T20:00:11.000Z",
-      "summary": "We test three state-of-the-art multi-modal large language models (GPT-4o, Gemini-1.5-Pro, Gemini-1.5-Flash) and find that they fail dramatically when generalization requires that the rules of the game",
-      "score": 40,
-      "titleZh": "Whatever happened to BABA is AI from 2024? [D]"
+      "date": "Fri, 09 Oct 2026 17:42:12 +0000",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=",
+      "score": 59,
+      "titleZh": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
     },
     {
-      "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
+      "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-08T19:03:32.000Z",
-      "summary": "UCLA’s Trustworthy AI Lab is running a tournament on October 16 where AI agents compete in Pokémon Showdown, Werewolf, Red Alert, and Honor of Kings. It’s open to everyone, including remote participan",
+      "date": "2026-10-09T19:52:54.000Z",
+      "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. ",
       "score": 40,
-      "titleZh": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]"
+      "titleZh": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]"
+    },
+    {
+      "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-09T18:59:11.000Z",
+      "summary": "Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!). It is open-so",
+      "score": 40,
+      "titleZh": "Integrum - Reflection based MCP server from any Python Module/Library [P]"
+    },
+    {
+      "title": "Clarification ARR Commitment [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-09T13:36:48.000Z",
+      "summary": "I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf. Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accep",
+      "score": 40,
+      "titleZh": "Clarification ARR Commitment [D]"
+    },
+    {
+      "title": "ARR Oct Discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-09T12:44:04.000Z",
+      "summary": "Are there actually fewer submissions this cycle or are people waiting for ARR Aug Meta to be out? I saw an 1.8k submission ID yesterday. submitted by /u/StriderKing27 [link] [comments]",
+      "score": 40,
+      "titleZh": "ARR Oct Discussion [D]"
+    },
+    {
+      "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-09T08:05:23.000Z",
+      "summary": "I built MaRN (Mapping Networks), a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: M",
+      "score": 40,
+      "titleZh": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]"
     },
     {
       "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
@@ -78,172 +126,124 @@
       "titleZh": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]"
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-02T02:15:05.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "link": "https://arxiv.org/abs/2610.10541",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In me",
-      "score": 5,
-      "titleZh": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "link": "https://arxiv.org/abs/2610.10549",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and leg",
-      "score": 5,
-      "titleZh": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction"
-    },
-    {
-      "title": "Calquza: Free Online Calculators and Useful Calculation Tools",
-      "link": "https://dev.to/calquza/calquza-free-online-calculators-and-useful-calculation-tools-5bc5",
+      "title": "I built a $99 SaaS Landing Page in 4 hours from my phone in Angola",
+      "link": "https://dev.to/wilsonbacolo/i-built-a-99-saas-landing-page-in-4-hours-from-my-phone-in-angola-4133",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 09 Oct 2026 04:33:45 +0000",
-      "summary": "Calquza: Useful Online Calculators and Free Calculation Tools Looking for simple and convenient online calculators? Calquza helps users perform everyday calculations quickly with easy-to-use online to",
+      "date": "Sat, 10 Oct 2026 04:16:51 +0000",
+      "summary": "I'm Wilson from Luanda, Angola 🇦🇴 Last night I built a complete SaaS landing page with Tailwind CSS, pricing section ($29/$99/$299), and conversion-focused copy. All from my phone. 4:49 AM. 7% batte",
       "score": 5,
-      "titleZh": "Calquza: Free Online Calculators and Useful Calculation Tools"
+      "titleZh": "I built a $99 SaaS Landing Page in 4 hours from my phone in Angola"
     },
     {
-      "title": "I built a homepage where vibe-coded apps compete for 5 upvotes",
-      "link": "https://dev.to/riantogo/i-built-a-homepage-where-vibe-coded-apps-compete-for-5-upvotes-ak8",
+      "title": "The Wording-Diff Alert: Alerting on Sentences That Changed, Not Documents That Arrived",
+      "link": "https://dev.to/yuhehe/the-wording-diff-alert-alerting-on-sentences-that-changed-not-documents-that-arrived-3in4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 09 Oct 2026 04:30:07 +0000",
-      "summary": "You know the drill. You spend a weekend vibe coding something genuinely useful, you post it on Reddit, it gets eleven upvotes and two comments (\"cool project!\"), and then it dies in the feed. The buil",
+      "date": "Sat, 10 Oct 2026 04:14:25 +0000",
+      "summary": "Every organization that publishes advisories writes the same document twice: once when nothing happened, and once when something did. The intelligence is not in the document. It is in the delta betwee",
       "score": 5,
-      "titleZh": "I built a homepage where vibe-coded apps compete for 5 upvotes"
+      "titleZh": "The Wording-Diff Alert: Alerting on Sentences That Changed, Not Documents That Arrived"
     },
     {
-      "title": "Markdown Cheatsheet: Every Syntax You Need (With Examples)",
-      "link": "https://dev.to/pulkitgovrani/markdown-cheatsheet-every-syntax-you-need-with-examples-3i1h",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 09 Oct 2026 04:30:00 +0000",
-      "summary": "Markdown is a lightweight way to write formatted text using plain characters. It's used for README files, documentation, notes, forum posts, and blogs. The basics take minutes to learn, and this cheat",
-      "score": 5,
-      "titleZh": "Markdown Cheatsheet: Every Syntax You Need (With Examples)"
-    },
-    {
-      "title": "From Beginner to Builder: My Coding Journey Begins",
-      "link": "https://dev.to/dhruvsingla24/from-beginner-to-builder-my-coding-journey-begins-9gb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 09 Oct 2026 04:28:53 +0000",
-      "summary": "Hello, Dev Community! I'm starting my developer journey Hey everyone! I'm a first-year B.Tech CSE (AI & ML) student, and I'm excited to start sharing my learning journey here. Currently, I'm focusing ",
-      "score": 5,
-      "titleZh": "From Beginner to Builder: My Coding Journey Begins"
-    },
-    {
-      "title": "Why in-memory MCP sessions fail behind a load balancer (NestJS demo)",
-      "link": "https://dev.to/shilpamareddy06-ops/why-in-memory-mcp-sessions-fail-behind-a-load-balancer-nestjs-demo-3fj0",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 09 Oct 2026 04:27:46 +0000",
-      "summary": "By Shilpa Mareddy Two copies of an MCP (Model Context Protocol) server (a server that AI applications call tools on) sit behind a round-robin load balancer (it sends each request to the next server in",
-      "score": 5,
-      "titleZh": "Why in-memory MCP sessions fail behind a load balancer (NestJS demo)"
-    },
-    {
-      "title": "title: How I built an ATS resume scorer with Groq + Gemini fallback (and what's still rough)",
-      "link": "https://dev.to/gaur-j/title-how-i-built-an-ats-resume-scorer-with-groq-gemini-fallback-and-whats-still-rough-1jce",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 09 Oct 2026 04:26:20 +0000",
-      "summary": "I got ATS-rejected a lot, so I built a tool to find out why. This post covers the technical decisions and the mistakes. Stack: Next.js, Supabase for auth and data, Groq (Llama 3.3) for fast, cheap ana",
-      "score": 5,
-      "titleZh": "title: How I built an ATS resume scorer with Groq + Gemini fallback (and what's still rough)"
-    },
-    {
-      "title": "How AI-Powered Coding Is Transforming Software Development (And Why You Should Embrace It)",
-      "link": "https://dev.to/chamod_madhushan/how-ai-powered-coding-is-transforming-software-development-and-why-you-should-embrace-it-47l0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 09 Oct 2026 04:26:06 +0000",
-      "summary": "The developer workflow is evolving faster than ever. Gone are the days when hours were spent writing repetitive boilerplate code or searching through pages of documentation for a single syntax error. ",
-      "score": 5,
-      "titleZh": "How AI-Powered Coding Is Transforming Software Development (And Why You Should Embrace It)"
-    },
-    {
-      "title": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)",
-      "link": "https://dev.to/nitish_mane_2c399ba312e53/i-built-scrapers-that-heal-themselves-and-won-an-nvidia-dgx-spark-k13",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 09 Oct 2026 04:24:11 +0000",
-      "summary": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark) Scraper Factory took first place at the WeMakeDevs Zero Downtime Hackathon in San Francisco. On the surface it is a small product: i",
-      "score": 5,
-      "titleZh": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)"
-    },
-    {
-      "title": "Frontend Checkout Error Tracking: How to Capture Failures Without an SDK",
-      "link": "https://dev.to/chrysostomhayes8537/frontend-checkout-error-tracking-how-to-capture-failures-without-an-sdk-5h47",
+      "title": "my analytics deletes your data after 13 months. on purpose.",
+      "link": "https://dev.to/omyvnss/my-analytics-deletes-your-data-after-13-months-on-purpose-2enb",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 09 Oct 2026 04:22:43 +0000",
-      "summary": "Short answer: capture React render failures with an error boundary, capture uncaught runtime failures with error and unhandledrejection listeners, and send one small, versioned event to your own backe",
+      "date": "Sat, 10 Oct 2026 04:11:11 +0000",
+      "summary": "most analytics tools keep every visitor's data forever. mine deletes all of it after 13 months. i'm om yaduvanshi, 18, an applied ai developer building cloudline, a cookieless analytics tool. day 15 o",
       "score": 5,
-      "titleZh": "Frontend Checkout Error Tracking: How to Capture Failures Without an SDK"
+      "titleZh": "my analytics deletes your data after 13 months. on purpose."
     },
     {
-      "title": "How to write a security.txt (RFC 9116), and why EU software makers now need one",
-      "link": "https://dev.to/tanod/how-to-write-a-securitytxt-rfc-9116-and-why-eu-software-makers-now-need-one-56og",
+      "title": "How to Convert Word to JPG Online: A Simple Guide for Clear, Shareable Images",
+      "link": "https://dev.to/olivia_johnson_600f4dc93b/how-to-convert-word-to-jpg-online-a-simple-guide-for-clear-shareable-images-1pc5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 09 Oct 2026 04:15:44 +0000",
-      "summary": "A security.txt file tells security researchers how to reach you when they find a vulnerability. It is a plain text file at /.well-known/security.txt, defined by RFC 9116. Since 11 September 2026 it ha",
+      "date": "Sat, 10 Oct 2026 04:08:09 +0000",
+      "summary": "Microsoft Word is one of the most popular tools for creating documents, reports, assignments, notes, and professional content. However, Word files are not always the most convenient format for sharing",
       "score": 5,
-      "titleZh": "How to write a security.txt (RFC 9116), and why EU software makers now need one"
+      "titleZh": "How to Convert Word to JPG Online: A Simple Guide for Clear, Shareable Images"
+    },
+    {
+      "title": "How to Buy Telegram Accounts in USA: A Simple Checklist",
+      "link": "https://dev.to/laurafmasterson/how-to-buy-telegram-accounts-in-usa-a-simple-checklist-5cii",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 10 Oct 2026 04:08:04 +0000",
+      "summary": "How to Buy Telegram Accounts in USA: A Simple Checklist Buying a Telegram account may seem like a quick way to start using the messaging platform without going through the entire registration process.",
+      "score": 5,
+      "titleZh": "How to Buy Telegram Accounts in USA: A Simple Checklist"
+    },
+    {
+      "title": "Single-file HTML is underrated: lessons from shipping 50+ one-page sites",
+      "link": "https://dev.to/htmlput/single-file-html-is-underrated-lessons-from-shipping-50-one-page-sites-3gj9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 10 Oct 2026 04:05:22 +0000",
+      "summary": "Everyone I know reaches for a framework before they've finished the sentence describing what they're building. Next.js for a landing page. A full CMS for a project retrospective. I've done it too. But",
+      "score": 5,
+      "titleZh": "Single-file HTML is underrated: lessons from shipping 50+ one-page sites"
+    },
+    {
+      "title": "What Existed Before Express?",
+      "link": "https://dev.to/neel-vekariya/what-existed-before-express-2b38",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 10 Oct 2026 04:04:14 +0000",
+      "summary": "I already made a post about what Express really is and which problem Express tries to solve. But do you think about what existed before Express? How did developers build servers in the JavaScript ecos",
+      "score": 5,
+      "titleZh": "What Existed Before Express?"
+    },
+    {
+      "title": "Arche + React",
+      "link": "https://dev.to/richytong/arche-react-1j4e",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 10 Oct 2026 03:52:25 +0000",
+      "summary": "Hello. I am the author of Arche. Arche is a library for vanilla microfrontends, a new paradigm for frontend development. Vanilla microfrontends says: A web page is a render of an HTML document. An HTM",
+      "score": 5,
+      "titleZh": "Arche + React"
+    },
+    {
+      "title": "Dev News Digest: 10 Oct 2026, 06:00",
+      "link": "https://dev.to/magnus_ferm/dev-news-digest-10-oct-2026-0600-4ad4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 10 Oct 2026 03:47:17 +0000",
+      "summary": "A quick roundup of developer news since the last digest. Microsoft introduces Decision-1: Microsoft published Decision-1, a model aimed at fast decision-making, available through its model foundry. It",
+      "score": 5,
+      "titleZh": "Dev News Digest: 10 Oct 2026, 06:00"
+    },
+    {
+      "title": "Three washers. One job. Zero locks.",
+      "link": "https://dev.to/rakno/three-washers-one-job-zero-locks-1khl",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 10 Oct 2026 03:30:00 +0000",
+      "summary": "A driver parks, opens ParkEase and books a car wash. The job goes out to up to three nearby washers at once, because the first one might be on a break and the driver shouldn't wait. All three see it. ",
+      "score": 5,
+      "titleZh": "Three washers. One job. Zero locks."
     }
   ]
 }
