@@ -1,57 +1,69 @@
 {
-  "updated": "2026-10-10T04:22:58.317Z",
-  "date": "2026-10-10",
+  "updated": "2026-10-11T04:03:03.334Z",
+  "date": "2026-10-11",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
-      "source": "HN·AI",
+      "title": "Has machine learning research gotten more \"wordy\"? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 09 Oct 2026 17:02:31 +0000",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450",
-      "score": 303,
-      "titleZh": "Typesafe AI raises $870M at $7.5B"
+      "date": "2026-10-11T00:39:07.000Z",
+      "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research pape",
+      "score": 40,
+      "titleZh": "Has machine learning research gotten more \"wordy\"? [D]"
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "source": "HN·AI",
+      "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 09 Oct 2026 11:36:20 +0000",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056",
-      "score": 125,
-      "titleZh": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more"
+      "date": "2026-10-10T18:08:33.000Z",
+      "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM wit",
+      "score": 40,
+      "titleZh": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]"
     },
     {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "HN·AI",
+      "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 09 Oct 2026 22:00:35 +0000",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118",
-      "score": 105,
-      "titleZh": "Anthropic AI model submits false tip on unsolved Philly murder"
+      "date": "2026-10-10T10:51:44.000Z",
+      "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep -> fit -> eval -> t",
+      "score": 40,
+      "titleZh": "Are .ipynb notebooks already outdated in the agentic era? [D]"
     },
     {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "source": "HN·AI",
+      "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 09 Oct 2026 17:42:12 +0000",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=",
-      "score": 59,
-      "titleZh": "What mathematicians should know about the Lean Theorem Prover: reliability & AI"
+      "date": "2026-10-10T04:02:27.000Z",
+      "summary": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays u",
+      "score": 40,
+      "titleZh": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]"
+    },
+    {
+      "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-10T01:45:08.000Z",
+      "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, Py",
+      "score": 40,
+      "titleZh": "Woven by Toyota MLE Interview - PyTorch Debugging [D]"
     },
     {
       "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
@@ -66,184 +78,172 @@
       "titleZh": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]"
     },
     {
-      "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-09T18:59:11.000Z",
-      "summary": "Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!). It is open-so",
+      "date": "2026-10-02T02:15:05.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "Integrum - Reflection based MCP server from any Python Module/Library [P]"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Clarification ARR Commitment [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-09T13:36:48.000Z",
-      "summary": "I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf. Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accep",
+      "date": "2026-10-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "Clarification ARR Commitment [D]"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "ARR Oct Discussion [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
-      "source": "Reddit ML",
+      "title": "Impactful scheduling for GPU clusters",
+      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-09T12:44:04.000Z",
-      "summary": "Are there actually fewer submissions this cycle or are people waiting for ARR Aug Meta to be out? I saw an 1.8k submission ID yesterday. submitted by /u/StriderKing27 [link] [comments]",
-      "score": 40,
-      "titleZh": "ARR Oct Discussion [D]"
+      "date": "Fri, 09 Oct 2026 15:20:29 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Impactful scheduling for GPU clusters"
     },
     {
-      "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
-      "source": "Reddit ML",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-09T08:05:23.000Z",
-      "summary": "I built MaRN (Mapping Networks), a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: M",
-      "score": 40,
-      "titleZh": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]"
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "score": 5,
+      "titleZh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
     },
     {
-      "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-08T04:58:15.000Z",
-      "summary": "Here is the story: Nvidia has published this work (with source code available) called dreamDojo which is a world model for robotics based of their prior work Cosmos 2.5 which is cited about 100 times ",
-      "score": 40,
-      "titleZh": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]"
-    },
-    {
-      "title": "I built a $99 SaaS Landing Page in 4 hours from my phone in Angola",
-      "link": "https://dev.to/wilsonbacolo/i-built-a-99-saas-landing-page-in-4-hours-from-my-phone-in-angola-4133",
+      "title": "I built a one-photo Burning Bridges video generator",
+      "link": "https://dev.to/jy_wang_2c4d36f4d66adea80/i-built-a-one-photo-burning-bridges-video-generator-1ja1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 04:16:51 +0000",
-      "summary": "I'm Wilson from Luanda, Angola 🇦🇴 Last night I built a complete SaaS landing page with Tailwind CSS, pricing section ($29/$99/$299), and conversion-focused copy. All from my phone. 4:49 AM. 7% batte",
+      "date": "Sun, 11 Oct 2026 03:59:51 +0000",
+      "summary": "I built Drake Burning Bridges AI, a small web app that takes one portrait and generates a personal version of the Burning Bridges party scene. You choose the main character with your photo. I’ve confi",
       "score": 5,
-      "titleZh": "I built a $99 SaaS Landing Page in 4 hours from my phone in Angola"
+      "titleZh": "I built a one-photo Burning Bridges video generator"
     },
     {
-      "title": "The Wording-Diff Alert: Alerting on Sentences That Changed, Not Documents That Arrived",
-      "link": "https://dev.to/yuhehe/the-wording-diff-alert-alerting-on-sentences-that-changed-not-documents-that-arrived-3in4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 10 Oct 2026 04:14:25 +0000",
-      "summary": "Every organization that publishes advisories writes the same document twice: once when nothing happened, and once when something did. The intelligence is not in the document. It is in the delta betwee",
-      "score": 5,
-      "titleZh": "The Wording-Diff Alert: Alerting on Sentences That Changed, Not Documents That Arrived"
-    },
-    {
-      "title": "my analytics deletes your data after 13 months. on purpose.",
-      "link": "https://dev.to/omyvnss/my-analytics-deletes-your-data-after-13-months-on-purpose-2enb",
+      "title": "Do you still install uuid, qs or Moment out of habit? I checked 10 built-in browser APIs against MDN and tested the examples in Chrome, and noted when to keep the package.",
+      "link": "https://dev.to/loknath_patel_aafc07267d5/do-you-still-install-uuid-qs-or-moment-out-of-habit-i-checked-10-built-in-browser-apis-against-o50",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 04:11:11 +0000",
-      "summary": "most analytics tools keep every visitor's data forever. mine deletes all of it after 13 months. i'm om yaduvanshi, 18, an applied ai developer building cloudline, a cookieless analytics tool. day 15 o",
+      "date": "Sun, 11 Oct 2026 03:56:30 +0000",
+      "summary": "10 Browser APIs That Can Replace npm Packages (and When They Can't) Loknath Patel Oct 11 #javascript #webdev #frontend #tutorial 6 reactions Add Comment 8 min read",
       "score": 5,
-      "titleZh": "my analytics deletes your data after 13 months. on purpose."
+      "titleZh": "Do you still install uuid, qs or Moment out of habit? I checked 10 built-in browser APIs against MDN and tested the examples in Chrome, and noted when to keep the package."
     },
     {
-      "title": "How to Convert Word to JPG Online: A Simple Guide for Clear, Shareable Images",
-      "link": "https://dev.to/olivia_johnson_600f4dc93b/how-to-convert-word-to-jpg-online-a-simple-guide-for-clear-shareable-images-1pc5",
+      "title": "I built AI Zombie: two photos, a 15-second zombie love story",
+      "link": "https://dev.to/jy_wang_2c4d36f4d66adea80/i-built-ai-zombie-two-photos-a-15-second-zombie-love-story-29pc",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 04:08:09 +0000",
-      "summary": "Microsoft Word is one of the most popular tools for creating documents, reports, assignments, notes, and professional content. However, Word files are not always the most convenient format for sharing",
+      "date": "Sun, 11 Oct 2026 03:55:02 +0000",
+      "summary": "I built AI Zombie, a web app that turns two photos into a 15-second zombie love story with sound. The story starts with a survivor facing someone they care about who has become a zombie. Instead of sh",
       "score": 5,
-      "titleZh": "How to Convert Word to JPG Online: A Simple Guide for Clear, Shareable Images"
+      "titleZh": "I built AI Zombie: two photos, a 15-second zombie love story"
     },
     {
-      "title": "How to Buy Telegram Accounts in USA: A Simple Checklist",
-      "link": "https://dev.to/laurafmasterson/how-to-buy-telegram-accounts-in-usa-a-simple-checklist-5cii",
+      "title": "10 Browser APIs That Can Replace npm Packages (and When They Can't)",
+      "link": "https://dev.to/loknath_patel_aafc07267d5/10-browser-apis-that-can-replace-npm-packages-and-when-they-cant-1gl3",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 04:08:04 +0000",
-      "summary": "How to Buy Telegram Accounts in USA: A Simple Checklist Buying a Telegram account may seem like a quick way to start using the messaging platform without going through the entire registration process.",
+      "date": "Sun, 11 Oct 2026 03:53:43 +0000",
+      "summary": "Many of us type npm install without thinking twice. But browsers keep adding built-in APIs that can handle tasks we once needed a package for. Sometimes, those packages stay in our projects simply bec",
       "score": 5,
-      "titleZh": "How to Buy Telegram Accounts in USA: A Simple Checklist"
+      "titleZh": "10 Browser APIs That Can Replace npm Packages (and When They Can't)"
     },
     {
-      "title": "Single-file HTML is underrated: lessons from shipping 50+ one-page sites",
-      "link": "https://dev.to/htmlput/single-file-html-is-underrated-lessons-from-shipping-50-one-page-sites-3gj9",
+      "title": "Let's walk: An AI powered Scenic walking Companion",
+      "link": "https://dev.to/quincy_akuboye_39cb83a60/lets-walk-an-ai-powered-scenic-walking-companion-1n9b",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 04:05:22 +0000",
-      "summary": "Everyone I know reaches for a framework before they've finished the sentence describing what they're building. Next.js for a landing page. A full CMS for a project retrospective. I've done it too. But",
+      "date": "Sun, 11 Oct 2026 03:50:16 +0000",
+      "summary": "For the Hacktoberfest Open-Source AI Challenge, I vibe coded Let’s Walk with help from ChatGPT and GitHub Copilot (AI assistant), a walking companion that helps people plan a pedestrian loop around th",
       "score": 5,
-      "titleZh": "Single-file HTML is underrated: lessons from shipping 50+ one-page sites"
+      "titleZh": "Let's walk: An AI powered Scenic walking Companion"
     },
     {
-      "title": "What Existed Before Express?",
-      "link": "https://dev.to/neel-vekariya/what-existed-before-express-2b38",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 10 Oct 2026 04:04:14 +0000",
-      "summary": "I already made a post about what Express really is and which problem Express tries to solve. But do you think about what existed before Express? How did developers build servers in the JavaScript ecos",
-      "score": 5,
-      "titleZh": "What Existed Before Express?"
-    },
-    {
-      "title": "Arche + React",
-      "link": "https://dev.to/richytong/arche-react-1j4e",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 10 Oct 2026 03:52:25 +0000",
-      "summary": "Hello. I am the author of Arche. Arche is a library for vanilla microfrontends, a new paradigm for frontend development. Vanilla microfrontends says: A web page is a render of an HTML document. An HTM",
-      "score": 5,
-      "titleZh": "Arche + React"
-    },
-    {
-      "title": "Dev News Digest: 10 Oct 2026, 06:00",
-      "link": "https://dev.to/magnus_ferm/dev-news-digest-10-oct-2026-0600-4ad4",
+      "title": "Dev News Digest: 11 Oct 2026, 06:00",
+      "link": "https://dev.to/magnus_ferm/dev-news-digest-11-oct-2026-0600-27mi",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 03:47:17 +0000",
-      "summary": "A quick roundup of developer news since the last digest. Microsoft introduces Decision-1: Microsoft published Decision-1, a model aimed at fast decision-making, available through its model foundry. It",
+      "date": "Sun, 11 Oct 2026 03:47:23 +0000",
+      "summary": "A quick roundup of developer news since the last digest. Cloudflare acquires Deno: Both Cloudflare and Deno announced that Deno, the JavaScript and TypeScript runtime created by Node.js author Ryan Da",
       "score": 5,
-      "titleZh": "Dev News Digest: 10 Oct 2026, 06:00"
+      "titleZh": "Dev News Digest: 11 Oct 2026, 06:00"
     },
     {
-      "title": "Three washers. One job. Zero locks.",
-      "link": "https://dev.to/rakno/three-washers-one-job-zero-locks-1khl",
+      "title": "I turned my accessibility checker into an MCP server, so the agent that writes the HTML can also fix it",
+      "link": "https://dev.to/perceivable/i-turned-my-accessibility-checker-into-an-mcp-server-so-the-agent-that-writes-the-html-can-also-1n7i",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 11 Oct 2026 03:46:58 +0000",
+      "summary": "Last week I wrote about running my WCAG checker against gov.uk and finding that every one of the 72 \"violations\" was a bug in my checker. Fixing those left me with an engine I trust on real sites, pac",
+      "score": 5,
+      "titleZh": "I turned my accessibility checker into an MCP server, so the agent that writes the HTML can also fix it"
+    },
+    {
+      "title": "Replit App Not Working? Why It Breaks After You Publish, and How to Fix It",
+      "link": "https://dev.to/tusharbhendarkar/replit-app-not-working-why-it-breaks-after-you-publish-and-how-to-fix-it-ko0",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 11 Oct 2026 03:46:39 +0000",
+      "summary": "Most of the Replit apps I could find that founders had launched in public are already gone. I collected 126 of them from Hacker News, Replit's community forum, its gallery and its customer stories, an",
+      "score": 5,
+      "titleZh": "Replit App Not Working? Why It Breaks After You Publish, and How to Fix It"
+    },
+    {
+      "title": "Helix Foundry: Connecting Scattered Company Data into One Local Ontology",
+      "link": "https://dev.to/sun_young_517829fc09d0c05/helix-foundry-connecting-scattered-company-data-into-one-local-ontology-362l",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 10 Oct 2026 03:30:00 +0000",
-      "summary": "A driver parks, opens ParkEase and books a car wash. The job goes out to up to three nearby washers at once, because the first one might be on a break and the driver shouldn't wait. All three see it. ",
+      "date": "Sun, 11 Oct 2026 03:44:04 +0000",
+      "summary": "There's a question I keep hearing in delivery work that has nothing to do with models: \"Our data lives in the ERP, the CRM, the finance system, and a few spreadsheets. How are we supposed to do AI?\" I",
       "score": 5,
-      "titleZh": "Three washers. One job. Zero locks."
+      "titleZh": "Helix Foundry: Connecting Scattered Company Data into One Local Ontology"
+    },
+    {
+      "title": "The Dual-Plane Problem: Syncing Discount Data Across Shopify's Two Isolated Worlds",
+      "link": "https://dev.to/yuntongsoft/the-dual-plane-problem-syncing-discount-data-across-shopifys-two-isolated-worlds-4mgb",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 11 Oct 2026 03:41:35 +0000",
+      "summary": "Shopify apps that offer both checkout-time discounts and storefront widgets face an architectural problem that is rarely discussed systematically: the Function runtime and the Theme Extension runtime ",
+      "score": 5,
+      "titleZh": "The Dual-Plane Problem: Syncing Discount Data Across Shopify's Two Isolated Worlds"
     }
   ]
 }
