@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-13T05:31:16.639Z",
+  "updated": "2026-10-13T17:22:01.308Z",
   "date": "2026-10-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
+      "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-12T20:51:32.000Z",
-      "summary": "learnc tunes named constants in unmodified C code against a score function you write in C, and writes the same file back with new values. Results, both on held-out data: JPEG, stb_image_write.h (128 q",
+      "date": "2026-10-13T16:06:10.000Z",
+      "summary": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way? submitted by /u/Hope999991 [link] [comm",
       "score": 40,
-      "titleZh": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]"
+      "titleZh": "ICLR 审稿人，你们是用 AI 审稿还是还在用老派的方式审稿？ [D]"
     },
     {
-      "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
+      "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-12T19:09:27.000Z",
-      "summary": "Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we're on the way right now, and that things will be incredibly different afterward. The only q",
+      "date": "2026-10-13T15:47:53.000Z",
+      "summary": "I'm a first year ML PhD at a T5 ML program in the US. I managed to get a first author paper accepted to NeurIPS Main Track last month and thought I'd start applying for PhD research internships since ",
       "score": 40,
-      "titleZh": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]"
+      "titleZh": "对于哪些行业正在寻找 ML 博士有什么建议吗？ [D]"
     },
     {
-      "title": "Looped Diffusion Transformer: the same blocks run several times inside each denoising step, and loop depth can be changed at sampling time [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x49d61/looped_diffusion_transformer_the_same_blocks_run/",
+      "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-12T18:13:49.000Z",
-      "summary": "Paper: Looped Diffusion Transformer (arXiv 2609.40305, 30 Sep). Instead of making a text-to-image DiT bigger, it runs a shared group of transformer blocks several times inside each denoising step. The",
+      "date": "2026-10-13T15:35:48.000Z",
+      "summary": "I started Flama in 2018 to take a trained model to a production API with as little ceremony as possible. With 2.0 LLMs became first-class alongside classic models, and together with Miguel Durán-Olive",
       "score": 40,
-      "titleZh": "Looped Diffusion Transformer: the same blocks run several times inside each denoising step, and loop depth can be changed at sampling time [R]"
+      "titleZh": "Flama：用 8 年时间构建了一个 Python 框架，其中 ML 模型和 LLM 都是一流的，现在写在 arXiv 上 [P]"
     },
     {
-      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
+      "title": "Is human evaluation through surveys common in ML research?[R][D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-12T15:10:34.000Z",
-      "summary": "If you build on open-weight reasoning models, you have probably wanted a \"how sure is the model about this answer?\" signal that does not cost 5x sampling, a judge model, or a labeled dataset. Hence, w",
+      "date": "2026-10-13T15:16:50.000Z",
+      "summary": "Hi, I am a master's student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs from Qwen/OpenAI APIs on the same images. My",
       "score": 40,
-      "titleZh": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]"
+      "titleZh": "通过调查进行人类评估在机器学习研究中常见吗？[R][D]"
     },
     {
-      "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
+      "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-12T07:46:00.000Z",
-      "summary": "CALL FOR CONTRIBUTIONS CL4SM session at ELLIs UnConference, a NeurIPS Paris pre-event: https://badulion.github.io/cl4sm\\_2026/ Machine learning models of scientific and engineering systems can fit the",
+      "date": "2026-10-13T13:50:38.000Z",
+      "summary": "https://preview.redd.it/m5e9anluo8vh1.png?width=1080&format=png&auto=webp&s=4c80687e6fe40036843a97ed8975ce46eaab0662 I am excited to share a project I have been working on during the past few years du",
       "score": 40,
-      "titleZh": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]"
+      "titleZh": "我按照 timm 标准构建了一个 3D 点云预训练模型的 pytorch 库 [P]"
     },
     {
-      "title": "How's ICLR reviewing going for you? Any observations? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
+      "title": "Machine Learning Tutorial/Workshop [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-12T07:22:41.000Z",
-      "summary": "I know it's early but I've been browsing through ICLR OpenReview and I see a lot of good papers! Maybe the first big conference with automated research submission and it is increasingly becoming harde",
+      "date": "2026-10-13T07:34:40.000Z",
+      "summary": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths. The place is nice, people are cool and helpful, and as ",
       "score": 40,
-      "titleZh": "How's ICLR reviewing going for you? Any observations? [D]"
+      "titleZh": "机器学习教程/研讨会 [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,7 +87,7 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "[D] 自我推销主题"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -99,151 +99,151 @@
       "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "link": "https://arxiv.org/abs/2610.12493",
-      "source": "ArXiv AI",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of t",
+      "date": "Tue, 13 Oct 2026 17:05:48 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance"
+      "titleZh": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理"
     },
     {
-      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-      "link": "https://arxiv.org/abs/2610.12536",
-      "source": "ArXiv AI",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 13 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solution",
+      "date": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "score": 5,
-      "titleZh": "EliteTable: Self-Improving Program Search for Executable Control Policies"
+      "titleZh": "Gemini 4 Argon：专为解决您最棘手的问题而打造"
     },
     {
-      "title": "React JS Course for Beginners: Learn to Build Modern Web Applications",
-      "link": "https://dev.to/red_white/react-js-course-for-beginners-learn-to-build-modern-web-applications-202b",
+      "title": "Look-ahead bias hides in the bars you did not load",
+      "link": "https://dev.to/elitepropx/look-ahead-bias-hides-in-the-bars-you-did-not-load-554d",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 05:24:37 +0000",
-      "summary": "Modern websites need interactive interfaces that respond quickly to user actions. React JS is a JavaScript library that helps developers build these interfaces using reusable components. If you are le",
-      "score": 5,
-      "titleZh": "React JS Course for Beginners: Learn to Build Modern Web Applications"
+      "date": "Tue, 13 Oct 2026 16:40:12 +0000",
+      "summary": "There is a class of backtest bug that leaves no stack trace, produces plausible numbers, and is invisible in a code review. It happens when your simulator uses a price it could not have known at the t",
+      "score": 60,
+      "titleZh": "前瞻偏差隐藏在您未加载的条中"
     },
     {
-      "title": "LINK UTAMA • INFO TERBARU • LIVE CHAT • WHATSAPP ADMIN",
-      "link": "https://dev.to/angkamas/link-utama-info-terbaru-live-chat-whatsapp-admin-22on",
+      "title": "Real-Time Magic: Building Interactive Apps with WebRTC, Next.js, and Node.js",
+      "link": "https://dev.to/mtahir27/real-time-magic-building-interactive-apps-with-webrtc-nextjs-and-nodejs-ida",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 17:17:30 +0000",
+      "summary": "Introduction: The Dawn of True Real-Time Interaction In today's fast-paced digital world, users demand instant communication and seamless interaction. From video conferencing to collaborative editing ",
+      "score": 5,
+      "titleZh": "实时魔法：使用 WebRTC、Next.js 和 Node.js 构建交互式应用程序"
+    },
+    {
+      "title": "Why We Replaced Cloud Brotli Stream Utility - Merchant Privacy & Data Utility with Zero-Egress WebAssembly & Client-Side Local RAM",
+      "link": "https://dev.to/xvibelabs/why-we-replaced-cloud-brotli-stream-utility-merchant-privacy-data-utility-with-zero-egress-430f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 05:22:18 +0000",
-      "summary": "Semua informasi dan akses layanan tersedia melalui tautan berikut: 🔗 LINK UTAMA INFO TERBARU LIVE CHAT WHATSAPP ADMIN Info Game • Update • Live Chat • WhatsApp Admin Simpan tautan ini untuk memudahka",
+      "date": "Tue, 13 Oct 2026 17:17:18 +0000",
+      "summary": "In modern web development, countless daily utility tasks needlessly upload sensitive user data to unverified SaaS servers. When engineering teams format confidential JSON, inspect Brotli archives, or ",
       "score": 5,
-      "titleZh": "LINK UTAMA • INFO TERBARU • LIVE CHAT • WHATSAPP ADMIN"
+      "titleZh": "为什么我们用零出口 WebAssembly 和客户端本地 RAM 替换 Cloud Brotli Stream Utility - 商家隐私和数据实用程序"
     },
     {
-      "title": "How to Convert PDF to PNG Online: A Simple Guide to High-Quality Images",
-      "link": "https://dev.to/olivia_johnson_600f4dc93b/how-to-convert-pdf-to-png-online-a-simple-guide-to-high-quality-images-4367",
+      "title": "SEO for Premium Builders & Construction Companies: What Actually Ranks in NY, SoCal, and Beyond",
+      "link": "https://dev.to/namanvashisht/seo-for-premium-builders-construction-companies-what-actually-ranks-in-ny-socal-and-beyond-48n6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 05:21:14 +0000",
-      "summary": "PDF files are ideal for sharing documents, reports, presentations, and other important information. However, there are times when you need an individual page from a PDF as an image. For example, you m",
+      "date": "Tue, 13 Oct 2026 17:15:18 +0000",
+      "summary": "SEO for Premium Builders & Construction Companies: What Actually Ranks in NY, SoCal, and Beyond I do SEO for home-service contractors — pool builders, remodelers, landscapers, HVAC — the premium end, ",
       "score": 5,
-      "titleZh": "How to Convert PDF to PNG Online: A Simple Guide to High-Quality Images"
+      "titleZh": "优质建筑商和建筑公司的 SEO：在纽约、南加州及其他地区的实际排名"
     },
     {
-      "title": "Architecting Programmatic SEO with Next.js 16: Scaling 500+ High-Performance Routes",
-      "link": "https://dev.to/moznu/architecting-programmatic-seo-with-nextjs-16-scaling-500-high-performance-routes-4o7j",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 05:17:04 +0000",
-      "summary": "Programmatic SEO sounds simple in theory: take a structured dataset, map it to a parameterized URL template, and generate hundreds of targeted landing pages. In practice, scaling programmatic SEO in m",
-      "score": 5,
-      "titleZh": "Architecting Programmatic SEO with Next.js 16: Scaling 500+ High-Performance Routes"
-    },
-    {
-      "title": "Is Web Scraping Legal? A Practical Guide for Businesses",
-      "link": "https://dev.to/aqib_javaid/is-web-scraping-legal-a-practical-guide-for-businesses-2fjn",
+      "title": "Why We Replaced Cloud Spatial Privacy Utility - Merchant Privacy & Data Utility with Zero-Egress WebAssembly & Client-Side Local RAM",
+      "link": "https://dev.to/xvibelabs/why-we-replaced-cloud-spatial-privacy-utility-merchant-privacy-data-utility-with-zero-egress-48jg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 05:16:58 +0000",
-      "summary": "If you are asking is web scraping legal for business, the short answer is: collecting publicly available data is often lawful, but \"often\" is doing a lot of work in that sentence. The risk depends on ",
+      "date": "Tue, 13 Oct 2026 17:10:57 +0000",
+      "summary": "In modern web development, countless daily utility tasks needlessly upload sensitive user data to unverified SaaS servers. When engineering teams format confidential JSON, inspect Brotli archives, or ",
       "score": 5,
-      "titleZh": "Is Web Scraping Legal? A Practical Guide for Businesses"
+      "titleZh": "为什么我们用零出口 WebAssembly 和客户端本地 RAM 替换云空间隐私实用程序 - 商家隐私和数据实用程序"
     },
     {
-      "title": "Boost Your Organic Reach: Essential Off-Page SEO Strategies for Developers and Creators",
-      "link": "https://dev.to/adil_narikode_7208c9d4548/boost-your-organic-reach-essential-off-page-seo-strategies-for-developers-and-creators-3lh4",
+      "title": "A arquitetura do futuro: evolutiva, autônoma, orientada a intenções e imutável por contrato",
+      "link": "https://dev.to/fullagenticstack/a-arquitetura-do-futuro-evolutiva-autonoma-orientada-a-intencoes-e-imutavel-por-contrato-1kg1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 05:14:22 +0000",
-      "summary": "As developers and creators, we often spend 90% of our time perfecting the code, optimizing site speed, and ensuring our UI/UX is buttery smooth. But once the project is live, the hardest truth sets in",
+      "date": "Tue, 13 Oct 2026 17:09:29 +0000",
+      "summary": "A sua visão parte de uma mudança fundamental na maneira de desenvolver software: em vez de construir sistemas que precisam ser modificados a cada nova necessidade, construir uma arquitetura capaz de a",
       "score": 5,
-      "titleZh": "Boost Your Organic Reach: Essential Off-Page SEO Strategies for Developers and Creators"
+      "titleZh": "未来的建筑：进化、自治、方向和契约"
     },
     {
-      "title": "Convert JSON to Laravel, TypeScript, PHP DTO, or CSV in your browser",
-      "link": "https://dev.to/ameenusman/convert-json-to-laravel-typescript-php-dto-or-csv-in-your-browser-3g0j",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 05:00:38 +0000",
-      "summary": "I kept needing the same thing during Laravel and TypeScript work: paste some API JSON, get a clean Laravel array, a TypeScript interface, a PHP DTO, or CSV — without sending that payload to a random w",
-      "score": 5,
-      "titleZh": "Convert JSON to Laravel, TypeScript, PHP DTO, or CSV in your browser"
-    },
-    {
-      "title": "What if learning to code felt more like a game than studying? 🚀",
-      "link": "https://dev.to/harsha_nandi_d66568aa75c4/what-if-learning-to-code-felt-more-like-a-game-than-studying-cjg",
+      "title": "Why We Replaced Cloud Geojson Geometry Redactor - Merchant Privacy & Data Utility with Zero-Egress WebAssembly & Client-Side Local RAM",
+      "link": "https://dev.to/xvibelabs/why-we-replaced-cloud-geojson-geometry-redactor-merchant-privacy-data-utility-with-zero-egress-3lc5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 04:57:43 +0000",
-      "summary": "I’ve been working on a project called CosmoDex, and I wanted to share the idea with fellow developers and coding learners. We all know the struggle: you start learning a new programming language, solv",
+      "date": "Tue, 13 Oct 2026 17:07:59 +0000",
+      "summary": "In modern web development, countless daily utility tasks needlessly upload sensitive user data to unverified SaaS servers. When engineering teams format confidential JSON, inspect Brotli archives, or ",
       "score": 5,
-      "titleZh": "What if learning to code felt more like a game than studying? 🚀"
+      "titleZh": "为什么我们用零出口 WebAssembly 和客户端本地 RAM 替换 Cloud Geojson Geometry Redactor - 商家隐私和数据实用程序"
     },
     {
-      "title": "Best 86 Sites to Buy Edu Email for Student Discounts | PDF",
-      "link": "https://dev.to/usasvcit526/best-86-sites-to-buy-edu-email-for-student-discounts-pdf-5a05",
-      "source": "Dev.to JS",
+      "title": "Building a Text-to-SQL Evaluation Pipeline: Test AI Queries Before Trusting Them",
+      "link": "https://dev.to/rootlenses/building-a-text-to-sql-evaluation-pipeline-test-ai-queries-before-trusting-them-3opp",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 04:53:39 +0000",
-      "summary": "Best 86 Sites to Buy Edu Email for Student Discounts | PDF ➤ WhatsApp: +1 (903) 702-9701 @usasvcit usasvcit@gmail.com Professional academic communication Students learn how to write clear subject line",
+      "date": "Tue, 13 Oct 2026 17:07:04 +0000",
+      "summary": "Large language models can translate natural-language questions into SQL queries, making business data more accessible to people who do not know SQL. But generating a query that looks correct is not th",
       "score": 5,
-      "titleZh": "Best 86 Sites to Buy Edu Email for Student Discounts | PDF"
+      "titleZh": "构建文本到 SQL 评估管道：在信任 AI 查询之前对其进行测试"
     },
     {
-      "title": "my analytics knows where visitors give up. not who.",
-      "link": "https://dev.to/omyvnss/my-analytics-knows-where-visitors-give-up-not-who-3ak2",
-      "source": "Dev.to JS",
+      "title": "We gave an AI assistant one paragraph and our backend. It built a working app in 16 minutes, on the second try",
+      "link": "https://dev.to/supero/we-gave-an-ai-assistant-one-paragraph-and-our-backend-it-built-a-working-app-in-16-minutes-on-the-4l59",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 04:51:22 +0000",
-      "summary": "your checkout page is a leaky bucket. everyone knows the bucket leaks. the useful number is where. i'm om yaduvanshi, 18, an applied ai developer building cloudline, a cookieless analytics tool. day 1",
+      "date": "Tue, 13 Oct 2026 17:06:19 +0000",
+      "summary": "Last week we tried something we had been telling people was possible. We connected an AI coding assistant to our platform, gave it one paragraph describing a book club app, and stepped back. This is w",
       "score": 5,
-      "titleZh": "my analytics knows where visitors give up. not who."
+      "titleZh": "我们给了一位人工智能助手一段话和我们的后端。第二次尝试时，它在 16 分钟内构建了一个可以运行的应用程序"
+    },
+    {
+      "title": "How I Use AI in My Dev Workflow (and Where It Fails)??",
+      "link": "https://dev.to/abu_shahed/how-i-use-ai-in-my-dev-workflow-and-where-it-fails-1o23",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 17:05:54 +0000",
+      "summary": "I've been using AI tools in my daily work for 2 years. Some uses saved me hours. Others cost me hours. Here's an honest breakdown. **Where AI genuinely helps --> 1. Boilerplate and repetitive code Con",
+      "score": 5,
+      "titleZh": "我如何在我的开发工作流程中使用人工智能（以及失败的地方）？"
     }
   ]
 }
