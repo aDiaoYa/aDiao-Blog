@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-11T04:03:03.334Z",
-  "date": "2026-10-11",
+  "updated": "2026-10-13T05:31:16.639Z",
+  "date": "2026-10-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Has machine learning research gotten more \"wordy\"? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+      "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-11T00:39:07.000Z",
-      "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research pape",
+      "date": "2026-10-12T20:51:32.000Z",
+      "summary": "learnc tunes named constants in unmodified C code against a score function you write in C, and writes the same file back with new values. Results, both on held-out data: JPEG, stb_image_write.h (128 q",
       "score": 40,
-      "titleZh": "Has machine learning research gotten more \"wordy\"? [D]"
+      "titleZh": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]"
     },
     {
-      "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+      "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-10T18:08:33.000Z",
-      "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM wit",
+      "date": "2026-10-12T19:09:27.000Z",
+      "summary": "Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we're on the way right now, and that things will be incredibly different afterward. The only q",
       "score": 40,
-      "titleZh": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]"
+      "titleZh": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]"
     },
     {
-      "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+      "title": "Looped Diffusion Transformer: the same blocks run several times inside each denoising step, and loop depth can be changed at sampling time [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x49d61/looped_diffusion_transformer_the_same_blocks_run/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-10T10:51:44.000Z",
-      "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep -> fit -> eval -> t",
+      "date": "2026-10-12T18:13:49.000Z",
+      "summary": "Paper: Looped Diffusion Transformer (arXiv 2609.40305, 30 Sep). Instead of making a text-to-image DiT bigger, it runs a shared group of transformer blocks several times inside each denoising step. The",
       "score": 40,
-      "titleZh": "Are .ipynb notebooks already outdated in the agentic era? [D]"
+      "titleZh": "Looped Diffusion Transformer: the same blocks run several times inside each denoising step, and loop depth can be changed at sampling time [R]"
     },
     {
-      "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-10T04:02:27.000Z",
-      "summary": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays u",
+      "date": "2026-10-12T15:10:34.000Z",
+      "summary": "If you build on open-weight reasoning models, you have probably wanted a \"how sure is the model about this answer?\" signal that does not cost 5x sampling, a judge model, or a labeled dataset. Hence, w",
       "score": 40,
-      "titleZh": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]"
+      "titleZh": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]"
     },
     {
-      "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+      "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-10T01:45:08.000Z",
-      "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, Py",
+      "date": "2026-10-12T07:46:00.000Z",
+      "summary": "CALL FOR CONTRIBUTIONS CL4SM session at ELLIs UnConference, a NeurIPS Paris pre-event: https://badulion.github.io/cl4sm\\_2026/ Machine learning models of scientific and engineering systems can fit the",
       "score": 40,
-      "titleZh": "Woven by Toyota MLE Interview - PyTorch Debugging [D]"
+      "titleZh": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]"
     },
     {
-      "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+      "title": "How's ICLR reviewing going for you? Any observations? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-09T19:52:54.000Z",
-      "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. ",
+      "date": "2026-10-12T07:22:41.000Z",
+      "summary": "I know it's early but I've been browsing through ICLR OpenReview and I see a lot of good papers! Maybe the first big conference with automated research submission and it is increasingly becoming harde",
       "score": 40,
-      "titleZh": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]"
+      "titleZh": "How's ICLR reviewing going for you? Any observations? [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
-      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "HuggingFace",
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "link": "https://arxiv.org/abs/2610.12493",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 09 Oct 2026 15:20:29 GMT",
-      "summary": "",
+      "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of t",
       "score": 5,
-      "titleZh": "Impactful scheduling for GPU clusters"
+      "titleZh": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance"
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "source": "OpenAI",
+      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "link": "https://arxiv.org/abs/2610.12536",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "Tue, 13 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solution",
       "score": 5,
-      "titleZh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+      "titleZh": "EliteTable: Self-Improving Program Search for Executable Control Policies"
     },
     {
-      "title": "I built a one-photo Burning Bridges video generator",
-      "link": "https://dev.to/jy_wang_2c4d36f4d66adea80/i-built-a-one-photo-burning-bridges-video-generator-1ja1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 11 Oct 2026 03:59:51 +0000",
-      "summary": "I built Drake Burning Bridges AI, a small web app that takes one portrait and generates a personal version of the Burning Bridges party scene. You choose the main character with your photo. I’ve confi",
-      "score": 5,
-      "titleZh": "I built a one-photo Burning Bridges video generator"
-    },
-    {
-      "title": "Do you still install uuid, qs or Moment out of habit? I checked 10 built-in browser APIs against MDN and tested the examples in Chrome, and noted when to keep the package.",
-      "link": "https://dev.to/loknath_patel_aafc07267d5/do-you-still-install-uuid-qs-or-moment-out-of-habit-i-checked-10-built-in-browser-apis-against-o50",
+      "title": "React JS Course for Beginners: Learn to Build Modern Web Applications",
+      "link": "https://dev.to/red_white/react-js-course-for-beginners-learn-to-build-modern-web-applications-202b",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 11 Oct 2026 03:56:30 +0000",
-      "summary": "10 Browser APIs That Can Replace npm Packages (and When They Can't) Loknath Patel Oct 11 #javascript #webdev #frontend #tutorial 6 reactions Add Comment 8 min read",
+      "date": "Tue, 13 Oct 2026 05:24:37 +0000",
+      "summary": "Modern websites need interactive interfaces that respond quickly to user actions. React JS is a JavaScript library that helps developers build these interfaces using reusable components. If you are le",
       "score": 5,
-      "titleZh": "Do you still install uuid, qs or Moment out of habit? I checked 10 built-in browser APIs against MDN and tested the examples in Chrome, and noted when to keep the package."
+      "titleZh": "React JS Course for Beginners: Learn to Build Modern Web Applications"
     },
     {
-      "title": "I built AI Zombie: two photos, a 15-second zombie love story",
-      "link": "https://dev.to/jy_wang_2c4d36f4d66adea80/i-built-ai-zombie-two-photos-a-15-second-zombie-love-story-29pc",
+      "title": "LINK UTAMA • INFO TERBARU • LIVE CHAT • WHATSAPP ADMIN",
+      "link": "https://dev.to/angkamas/link-utama-info-terbaru-live-chat-whatsapp-admin-22on",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 11 Oct 2026 03:55:02 +0000",
-      "summary": "I built AI Zombie, a web app that turns two photos into a 15-second zombie love story with sound. The story starts with a survivor facing someone they care about who has become a zombie. Instead of sh",
+      "date": "Tue, 13 Oct 2026 05:22:18 +0000",
+      "summary": "Semua informasi dan akses layanan tersedia melalui tautan berikut: 🔗 LINK UTAMA INFO TERBARU LIVE CHAT WHATSAPP ADMIN Info Game • Update • Live Chat • WhatsApp Admin Simpan tautan ini untuk memudahka",
       "score": 5,
-      "titleZh": "I built AI Zombie: two photos, a 15-second zombie love story"
+      "titleZh": "LINK UTAMA • INFO TERBARU • LIVE CHAT • WHATSAPP ADMIN"
     },
     {
-      "title": "10 Browser APIs That Can Replace npm Packages (and When They Can't)",
-      "link": "https://dev.to/loknath_patel_aafc07267d5/10-browser-apis-that-can-replace-npm-packages-and-when-they-cant-1gl3",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 11 Oct 2026 03:53:43 +0000",
-      "summary": "Many of us type npm install without thinking twice. But browsers keep adding built-in APIs that can handle tasks we once needed a package for. Sometimes, those packages stay in our projects simply bec",
-      "score": 5,
-      "titleZh": "10 Browser APIs That Can Replace npm Packages (and When They Can't)"
-    },
-    {
-      "title": "Let's walk: An AI powered Scenic walking Companion",
-      "link": "https://dev.to/quincy_akuboye_39cb83a60/lets-walk-an-ai-powered-scenic-walking-companion-1n9b",
+      "title": "How to Convert PDF to PNG Online: A Simple Guide to High-Quality Images",
+      "link": "https://dev.to/olivia_johnson_600f4dc93b/how-to-convert-pdf-to-png-online-a-simple-guide-to-high-quality-images-4367",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 11 Oct 2026 03:50:16 +0000",
-      "summary": "For the Hacktoberfest Open-Source AI Challenge, I vibe coded Let’s Walk with help from ChatGPT and GitHub Copilot (AI assistant), a walking companion that helps people plan a pedestrian loop around th",
+      "date": "Tue, 13 Oct 2026 05:21:14 +0000",
+      "summary": "PDF files are ideal for sharing documents, reports, presentations, and other important information. However, there are times when you need an individual page from a PDF as an image. For example, you m",
       "score": 5,
-      "titleZh": "Let's walk: An AI powered Scenic walking Companion"
+      "titleZh": "How to Convert PDF to PNG Online: A Simple Guide to High-Quality Images"
     },
     {
-      "title": "Dev News Digest: 11 Oct 2026, 06:00",
-      "link": "https://dev.to/magnus_ferm/dev-news-digest-11-oct-2026-0600-27mi",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 11 Oct 2026 03:47:23 +0000",
-      "summary": "A quick roundup of developer news since the last digest. Cloudflare acquires Deno: Both Cloudflare and Deno announced that Deno, the JavaScript and TypeScript runtime created by Node.js author Ryan Da",
-      "score": 5,
-      "titleZh": "Dev News Digest: 11 Oct 2026, 06:00"
-    },
-    {
-      "title": "I turned my accessibility checker into an MCP server, so the agent that writes the HTML can also fix it",
-      "link": "https://dev.to/perceivable/i-turned-my-accessibility-checker-into-an-mcp-server-so-the-agent-that-writes-the-html-can-also-1n7i",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 11 Oct 2026 03:46:58 +0000",
-      "summary": "Last week I wrote about running my WCAG checker against gov.uk and finding that every one of the 72 \"violations\" was a bug in my checker. Fixing those left me with an engine I trust on real sites, pac",
-      "score": 5,
-      "titleZh": "I turned my accessibility checker into an MCP server, so the agent that writes the HTML can also fix it"
-    },
-    {
-      "title": "Replit App Not Working? Why It Breaks After You Publish, and How to Fix It",
-      "link": "https://dev.to/tusharbhendarkar/replit-app-not-working-why-it-breaks-after-you-publish-and-how-to-fix-it-ko0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 11 Oct 2026 03:46:39 +0000",
-      "summary": "Most of the Replit apps I could find that founders had launched in public are already gone. I collected 126 of them from Hacker News, Replit's community forum, its gallery and its customer stories, an",
-      "score": 5,
-      "titleZh": "Replit App Not Working? Why It Breaks After You Publish, and How to Fix It"
-    },
-    {
-      "title": "Helix Foundry: Connecting Scattered Company Data into One Local Ontology",
-      "link": "https://dev.to/sun_young_517829fc09d0c05/helix-foundry-connecting-scattered-company-data-into-one-local-ontology-362l",
+      "title": "Architecting Programmatic SEO with Next.js 16: Scaling 500+ High-Performance Routes",
+      "link": "https://dev.to/moznu/architecting-programmatic-seo-with-nextjs-16-scaling-500-high-performance-routes-4o7j",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 11 Oct 2026 03:44:04 +0000",
-      "summary": "There's a question I keep hearing in delivery work that has nothing to do with models: \"Our data lives in the ERP, the CRM, the finance system, and a few spreadsheets. How are we supposed to do AI?\" I",
+      "date": "Tue, 13 Oct 2026 05:17:04 +0000",
+      "summary": "Programmatic SEO sounds simple in theory: take a structured dataset, map it to a parameterized URL template, and generate hundreds of targeted landing pages. In practice, scaling programmatic SEO in m",
       "score": 5,
-      "titleZh": "Helix Foundry: Connecting Scattered Company Data into One Local Ontology"
+      "titleZh": "Architecting Programmatic SEO with Next.js 16: Scaling 500+ High-Performance Routes"
     },
     {
-      "title": "The Dual-Plane Problem: Syncing Discount Data Across Shopify's Two Isolated Worlds",
-      "link": "https://dev.to/yuntongsoft/the-dual-plane-problem-syncing-discount-data-across-shopifys-two-isolated-worlds-4mgb",
+      "title": "Is Web Scraping Legal? A Practical Guide for Businesses",
+      "link": "https://dev.to/aqib_javaid/is-web-scraping-legal-a-practical-guide-for-businesses-2fjn",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 05:16:58 +0000",
+      "summary": "If you are asking is web scraping legal for business, the short answer is: collecting publicly available data is often lawful, but \"often\" is doing a lot of work in that sentence. The risk depends on ",
+      "score": 5,
+      "titleZh": "Is Web Scraping Legal? A Practical Guide for Businesses"
+    },
+    {
+      "title": "Boost Your Organic Reach: Essential Off-Page SEO Strategies for Developers and Creators",
+      "link": "https://dev.to/adil_narikode_7208c9d4548/boost-your-organic-reach-essential-off-page-seo-strategies-for-developers-and-creators-3lh4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 05:14:22 +0000",
+      "summary": "As developers and creators, we often spend 90% of our time perfecting the code, optimizing site speed, and ensuring our UI/UX is buttery smooth. But once the project is live, the hardest truth sets in",
+      "score": 5,
+      "titleZh": "Boost Your Organic Reach: Essential Off-Page SEO Strategies for Developers and Creators"
+    },
+    {
+      "title": "Convert JSON to Laravel, TypeScript, PHP DTO, or CSV in your browser",
+      "link": "https://dev.to/ameenusman/convert-json-to-laravel-typescript-php-dto-or-csv-in-your-browser-3g0j",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 11 Oct 2026 03:41:35 +0000",
-      "summary": "Shopify apps that offer both checkout-time discounts and storefront widgets face an architectural problem that is rarely discussed systematically: the Function runtime and the Theme Extension runtime ",
+      "date": "Tue, 13 Oct 2026 05:00:38 +0000",
+      "summary": "I kept needing the same thing during Laravel and TypeScript work: paste some API JSON, get a clean Laravel array, a TypeScript interface, a PHP DTO, or CSV — without sending that payload to a random w",
       "score": 5,
-      "titleZh": "The Dual-Plane Problem: Syncing Discount Data Across Shopify's Two Isolated Worlds"
+      "titleZh": "Convert JSON to Laravel, TypeScript, PHP DTO, or CSV in your browser"
+    },
+    {
+      "title": "What if learning to code felt more like a game than studying? 🚀",
+      "link": "https://dev.to/harsha_nandi_d66568aa75c4/what-if-learning-to-code-felt-more-like-a-game-than-studying-cjg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 04:57:43 +0000",
+      "summary": "I’ve been working on a project called CosmoDex, and I wanted to share the idea with fellow developers and coding learners. We all know the struggle: you start learning a new programming language, solv",
+      "score": 5,
+      "titleZh": "What if learning to code felt more like a game than studying? 🚀"
+    },
+    {
+      "title": "Best 86 Sites to Buy Edu Email for Student Discounts | PDF",
+      "link": "https://dev.to/usasvcit526/best-86-sites-to-buy-edu-email-for-student-discounts-pdf-5a05",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 04:53:39 +0000",
+      "summary": "Best 86 Sites to Buy Edu Email for Student Discounts | PDF ➤ WhatsApp: +1 (903) 702-9701 @usasvcit usasvcit@gmail.com Professional academic communication Students learn how to write clear subject line",
+      "score": 5,
+      "titleZh": "Best 86 Sites to Buy Edu Email for Student Discounts | PDF"
+    },
+    {
+      "title": "my analytics knows where visitors give up. not who.",
+      "link": "https://dev.to/omyvnss/my-analytics-knows-where-visitors-give-up-not-who-3ak2",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 13 Oct 2026 04:51:22 +0000",
+      "summary": "your checkout page is a leaky bucket. everyone knows the bucket leaks. the useful number is where. i'm om yaduvanshi, 18, an applied ai developer building cloudline, a cookieless analytics tool. day 1",
+      "score": 5,
+      "titleZh": "my analytics knows where visitors give up. not who."
     }
   ]
 }
