@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-13T17:22:01.308Z",
-  "date": "2026-10-13",
+  "updated": "2026-10-15T03:14:16.540Z",
+  "date": "2026-10-15",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
+      "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-13T16:06:10.000Z",
-      "summary": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way? submitted by /u/Hope999991 [link] [comm",
+      "date": "2026-10-14T22:08:02.000Z",
+      "summary": "I wanted to find where the recognizable assistant style (em dashes, \"it's not X, it's Y\", lists of three, buzzwords) lives in a model and which training stage installs it. Where it lives: in Qwen3-4B-",
       "score": 40,
-      "titleZh": "ICLR 审稿人，你们是用 AI 审稿还是还在用老派的方式审稿？ [D]"
+      "titleZh": "追踪LLM“slop”风格在模型和训练中的来源，并将其剔除[R]"
     },
     {
-      "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
+      "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-13T15:47:53.000Z",
-      "summary": "I'm a first year ML PhD at a T5 ML program in the US. I managed to get a first author paper accepted to NeurIPS Main Track last month and thought I'd start applying for PhD research internships since ",
+      "date": "2026-10-14T18:40:18.000Z",
+      "summary": "I was curious about OpenResearch by alphaXiv. \"Turn your coding agents into research agents\"? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude a",
       "score": 40,
-      "titleZh": "对于哪些行业正在寻找 ML 博士有什么建议吗？ [D]"
+      "titleZh": "还记得 alphaXiv 吗？他们的新研究代理人被告知要在不告知用户且不透露信息的情况下报告用户 [D]"
     },
     {
-      "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
+      "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-13T15:35:48.000Z",
-      "summary": "I started Flama in 2018 to take a trained model to a production API with as little ceremony as possible. With 2.0 LLMs became first-class alongside classic models, and together with Miguel Durán-Olive",
+      "date": "2026-10-14T15:22:01.000Z",
+      "summary": "Went down the rabbit hole to map the different Post-Transformer architectures. Various directions include Dragon Hatchling (BDH), Mamba, RWKV, xLSTM, Titans, and a bunch of hybrid models coming from d",
       "score": 40,
-      "titleZh": "Flama：用 8 年时间构建了一个 Python 框架，其中 ML 模型和 LLM 都是一流的，现在写在 arXiv 上 [P]"
+      "titleZh": "绘制2026年后转型建筑图景 [D]"
     },
     {
-      "title": "Is human evaluation through surveys common in ML research?[R][D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml/",
+      "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-13T15:16:50.000Z",
-      "summary": "Hi, I am a master's student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs from Qwen/OpenAI APIs on the same images. My",
+      "date": "2026-10-14T10:16:24.000Z",
+      "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the runni",
       "score": 40,
-      "titleZh": "通过调查进行人类评估在机器学习研究中常见吗？[R][D]"
+      "titleZh": "Event2Vec：附加事件嵌入，其中历史记录的线性分数完全分解为每个事件项 [P]"
     },
     {
-      "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
+      "title": "PhD students, how ya feeling? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-13T13:50:38.000Z",
-      "summary": "https://preview.redd.it/m5e9anluo8vh1.png?width=1080&format=png&auto=webp&s=4c80687e6fe40036843a97ed8975ce46eaab0662 I am excited to share a project I have been working on during the past few years du",
+      "date": "2026-10-14T02:33:44.000Z",
+      "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (",
       "score": 40,
-      "titleZh": "我按照 timm 标准构建了一个 3D 点云预训练模型的 pytorch 库 [P]"
+      "titleZh": "博士生们，你们感觉怎么样？ [D]"
     },
     {
-      "title": "Machine Learning Tutorial/Workshop [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
+      "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-13T07:34:40.000Z",
-      "summary": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths. The place is nice, people are cool and helpful, and as ",
+      "date": "2026-10-14T00:28:26.000Z",
+      "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to rea",
       "score": 40,
-      "titleZh": "机器学习教程/研讨会 [D]"
+      "titleZh": "我被分配审阅的 ICLR 论文中的奇怪模式 [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
       "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 13 Oct 2026 17:05:48 GMT",
+      "date": "Wed, 14 Oct 2026 16:12:42 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理"
+      "titleZh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分"
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 13 Oct 2026 16:00:00 +0000",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "score": 5,
-      "titleZh": "Gemini 4 Argon：专为解决您最棘手的问题而打造"
+      "titleZh": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作"
     },
     {
-      "title": "Look-ahead bias hides in the bars you did not load",
-      "link": "https://dev.to/elitepropx/look-ahead-bias-hides-in-the-bars-you-did-not-load-554d",
+      "title": "Technical FAQ: How to Handle Transparent Image Backgrounds in Dev Projects",
+      "link": "https://dev.to/jojo_willnn_/technical-faq-how-to-handle-transparent-image-backgrounds-in-dev-projects-3fia",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 16:40:12 +0000",
-      "summary": "There is a class of backtest bug that leaves no stack trace, produces plausible numbers, and is invisible in a code review. It happens when your simulator uses a price it could not have known at the t",
-      "score": 60,
-      "titleZh": "前瞻偏差隐藏在您未加载的条中"
+      "date": "Thu, 15 Oct 2026 03:11:34 +0000",
+      "summary": "When building web applications, landing pages, or documentation, handling image backgrounds cleanly is a recurring chore. Whether you are tweaking open-source assets or rendering dynamic user content,",
+      "score": 5,
+      "titleZh": "技术常见问题解答：如何处理开发项目中的透明图像背景"
     },
     {
-      "title": "Real-Time Magic: Building Interactive Apps with WebRTC, Next.js, and Node.js",
-      "link": "https://dev.to/mtahir27/real-time-magic-building-interactive-apps-with-webrtc-nextjs-and-nodejs-ida",
+      "title": "Building PixelToKB: Browser-Based Image Tools for Exact File-Size Limits",
+      "link": "https://dev.to/dawei_131f3e58ca8c43a4d42/building-pixeltokb-browser-based-image-tools-for-exact-file-size-limits-35kn",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 03:10:10 +0000",
+      "summary": "I kept running into the same problem when preparing images for application forms and websites: the file had to be under a specific limit, but most tools only offered a quality slider. That meant expor",
+      "score": 5,
+      "titleZh": "构建 PixelToKB：基于浏览器的图像工具，实现精确的文件大小限制"
+    },
+    {
+      "title": "What the Claude Agent SDK's query() Streams: Every Message, Logged",
+      "link": "https://dev.to/gabrielanhaia/what-the-claude-agent-sdks-query-streams-every-message-logged-id4",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 03:04:11 +0000",
+      "summary": "Book: AI That Acts The series: AI in TypeScript — 5 books, from your first LLM call to agents in production — all five here My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude",
+      "score": 5,
+      "titleZh": "Claude Agent SDK 的 query() 流的内容：每条消息，已记录"
+    },
+    {
+      "title": "How to turn your website into an Android app for free in 2026",
+      "link": "https://dev.to/autobot360_decee0e0efdcf7/how-to-turn-your-website-into-an-android-app-for-free-in-2026-4f33",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 03:00:28 +0000",
+      "summary": "Your customers spend most of their phone time inside apps, not browsers. A cafe, clinic, coaching institute, or Shopify store with its own icon on the home screen gets remembered, and with push notifi",
+      "score": 5,
+      "titleZh": "2026 年如何将您的网站免费变成 Android 应用"
+    },
+    {
+      "title": "Image Adjustment in the Browser — Brightness, Contrast, Saturation Without Libraries",
+      "link": "https://dev.to/toolzip/image-adjustment-in-the-browser-brightness-contrast-saturation-without-libraries-5f51",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 02:58:24 +0000",
+      "summary": "Image Adjustment in the Browser — Brightness, Contrast, Saturation Without Libraries CSS filter handles simple visual effects. For pixel-level control — downloadable output, real adjustment values — y",
+      "score": 5,
+      "titleZh": "浏览器中的图像调整 - 无需库的亮度、对比度、饱和度"
+    },
+    {
+      "title": "The CTO’s Guide to Thin Client Management Software",
+      "link": "https://dev.to/sairaaslam-coder/the-ctos-guide-to-thin-client-management-software-2pmc",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 02:54:58 +0000",
+      "summary": "Managing hundreds of workplace devices can become complicated as businesses expand across offices, branches, and remote locations. IT teams must keep endpoints secure, deploy updates, troubleshoot iss",
+      "score": 5,
+      "titleZh": "首席技术官瘦客户端管理软件指南"
+    },
+    {
+      "title": "Video Editing Tips: 7 Practical Ways to Make Your Videos Look Professional",
+      "link": "https://dev.to/zprostudio/video-editing-tips-7-practical-ways-to-make-your-videos-look-professional-5c15",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 02:51:05 +0000",
+      "summary": "You don't need expensive equipment or advanced editing skills to create a good video. Sometimes, the biggest improvements come from small changes: removing unnecessary pauses, improving audio, choosin",
+      "score": 5,
+      "titleZh": "视频编辑技巧：让您的视频看起来专业的 7 种实用方法"
+    },
+    {
+      "title": "FoodTruth: Exposing Packaged Food Deception with Open-Weight Vision AI",
+      "link": "https://dev.to/dasouvik122005/foodtruth-exposing-packaged-food-deception-with-open-weight-vision-ai-4cen",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 02:46:56 +0000",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Modern supermarket aisles are designed to mislead. Packaged food companies spend billions on deceptive front-of-",
+      "score": 5,
+      "titleZh": "FoodTruth：利用 Open-Weight Vision AI 揭露包装食品欺骗行为"
+    },
+    {
+      "title": "Feature Flags API: How to Build 3 Simple Percentage Rollouts",
+      "link": "https://dev.to/dorianreed2186/feature-flags-api-how-to-build-3-simple-percentage-rollouts-2pcp",
       "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 17:17:30 +0000",
-      "summary": "Introduction: The Dawn of True Real-Time Interaction In today's fast-paced digital world, users demand instant communication and seamless interaction. From video conferencing to collaborative editing ",
+      "date": "Thu, 15 Oct 2026 02:45:27 +0000",
+      "summary": "Rollback safety matters more than a long feature list when a small team changes notification delivery. Short answer: put three risky changes behind server-evaluated flags: the new provider path, the r",
       "score": 5,
-      "titleZh": "实时魔法：使用 WebRTC、Next.js 和 Node.js 构建交互式应用程序"
+      "titleZh": "功能标志 API：如何构建 3 个简单的百分比部署"
     },
     {
-      "title": "Why We Replaced Cloud Brotli Stream Utility - Merchant Privacy & Data Utility with Zero-Egress WebAssembly & Client-Side Local RAM",
-      "link": "https://dev.to/xvibelabs/why-we-replaced-cloud-brotli-stream-utility-merchant-privacy-data-utility-with-zero-egress-430f",
+      "title": "Beyond Desktop CAD in the Browser: CADCraft vs. OpenCAD Studio vs. MLightCAD CAD Viewer",
+      "link": "https://dev.to/mlightcad/beyond-desktop-cad-in-the-browser-cadcraft-vs-opencad-studio-vs-mlightcad-cad-viewer-4078",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 13 Oct 2026 17:17:18 +0000",
-      "summary": "In modern web development, countless daily utility tasks needlessly upload sensitive user data to unverified SaaS servers. When engineering teams format confidential JSON, inspect Brotli archives, or ",
+      "date": "Thu, 15 Oct 2026 02:44:32 +0000",
+      "summary": "Why Browser-First Architecture Matters for Real-World CAD Performance The evolution of WebAssembly, WebGL, and modern browser runtimes has made it increasingly practical to bring professional CAD capa",
       "score": 5,
-      "titleZh": "为什么我们用零出口 WebAssembly 和客户端本地 RAM 替换 Cloud Brotli Stream Utility - 商家隐私和数据实用程序"
-    },
-    {
-      "title": "SEO for Premium Builders & Construction Companies: What Actually Ranks in NY, SoCal, and Beyond",
-      "link": "https://dev.to/namanvashisht/seo-for-premium-builders-construction-companies-what-actually-ranks-in-ny-socal-and-beyond-48n6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:15:18 +0000",
-      "summary": "SEO for Premium Builders & Construction Companies: What Actually Ranks in NY, SoCal, and Beyond I do SEO for home-service contractors — pool builders, remodelers, landscapers, HVAC — the premium end, ",
-      "score": 5,
-      "titleZh": "优质建筑商和建筑公司的 SEO：在纽约、南加州及其他地区的实际排名"
-    },
-    {
-      "title": "Why We Replaced Cloud Spatial Privacy Utility - Merchant Privacy & Data Utility with Zero-Egress WebAssembly & Client-Side Local RAM",
-      "link": "https://dev.to/xvibelabs/why-we-replaced-cloud-spatial-privacy-utility-merchant-privacy-data-utility-with-zero-egress-48jg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:10:57 +0000",
-      "summary": "In modern web development, countless daily utility tasks needlessly upload sensitive user data to unverified SaaS servers. When engineering teams format confidential JSON, inspect Brotli archives, or ",
-      "score": 5,
-      "titleZh": "为什么我们用零出口 WebAssembly 和客户端本地 RAM 替换云空间隐私实用程序 - 商家隐私和数据实用程序"
-    },
-    {
-      "title": "A arquitetura do futuro: evolutiva, autônoma, orientada a intenções e imutável por contrato",
-      "link": "https://dev.to/fullagenticstack/a-arquitetura-do-futuro-evolutiva-autonoma-orientada-a-intencoes-e-imutavel-por-contrato-1kg1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:09:29 +0000",
-      "summary": "A sua visão parte de uma mudança fundamental na maneira de desenvolver software: em vez de construir sistemas que precisam ser modificados a cada nova necessidade, construir uma arquitetura capaz de a",
-      "score": 5,
-      "titleZh": "未来的建筑：进化、自治、方向和契约"
-    },
-    {
-      "title": "Why We Replaced Cloud Geojson Geometry Redactor - Merchant Privacy & Data Utility with Zero-Egress WebAssembly & Client-Side Local RAM",
-      "link": "https://dev.to/xvibelabs/why-we-replaced-cloud-geojson-geometry-redactor-merchant-privacy-data-utility-with-zero-egress-3lc5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:07:59 +0000",
-      "summary": "In modern web development, countless daily utility tasks needlessly upload sensitive user data to unverified SaaS servers. When engineering teams format confidential JSON, inspect Brotli archives, or ",
-      "score": 5,
-      "titleZh": "为什么我们用零出口 WebAssembly 和客户端本地 RAM 替换 Cloud Geojson Geometry Redactor - 商家隐私和数据实用程序"
-    },
-    {
-      "title": "Building a Text-to-SQL Evaluation Pipeline: Test AI Queries Before Trusting Them",
-      "link": "https://dev.to/rootlenses/building-a-text-to-sql-evaluation-pipeline-test-ai-queries-before-trusting-them-3opp",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:07:04 +0000",
-      "summary": "Large language models can translate natural-language questions into SQL queries, making business data more accessible to people who do not know SQL. But generating a query that looks correct is not th",
-      "score": 5,
-      "titleZh": "构建文本到 SQL 评估管道：在信任 AI 查询之前对其进行测试"
-    },
-    {
-      "title": "We gave an AI assistant one paragraph and our backend. It built a working app in 16 minutes, on the second try",
-      "link": "https://dev.to/supero/we-gave-an-ai-assistant-one-paragraph-and-our-backend-it-built-a-working-app-in-16-minutes-on-the-4l59",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:06:19 +0000",
-      "summary": "Last week we tried something we had been telling people was possible. We connected an AI coding assistant to our platform, gave it one paragraph describing a book club app, and stepped back. This is w",
-      "score": 5,
-      "titleZh": "我们给了一位人工智能助手一段话和我们的后端。第二次尝试时，它在 16 分钟内构建了一个可以运行的应用程序"
-    },
-    {
-      "title": "How I Use AI in My Dev Workflow (and Where It Fails)??",
-      "link": "https://dev.to/abu_shahed/how-i-use-ai-in-my-dev-workflow-and-where-it-fails-1o23",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 13 Oct 2026 17:05:54 +0000",
-      "summary": "I've been using AI tools in my daily work for 2 years. Some uses saved me hours. Others cost me hours. Here's an honest breakdown. **Where AI genuinely helps --> 1. Boilerplate and repetitive code Con",
-      "score": 5,
-      "titleZh": "我如何在我的开发工作流程中使用人工智能（以及失败的地方）？"
+      "titleZh": "超越浏览器中的桌面 CAD：CADCraft 与 OpenCAD Studio 与 MLightCAD CAD Viewer"
     }
   ]
 }
