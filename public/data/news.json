@@ -1,21 +1,33 @@
 {
-  "updated": "2026-10-15T03:14:16.540Z",
+  "updated": "2026-10-15T14:40:24.081Z",
   "date": "2026-10-15",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
+      "title": "How artificial neural networks build their own learning machinery [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-14T22:08:02.000Z",
-      "summary": "I wanted to find where the recognizable assistant style (em dashes, \"it's not X, it's Y\", lists of three, buzzwords) lives in a model and which training stage installs it. Where it lives: in Qwen3-4B-",
+      "date": "2026-10-15T10:01:47.000Z",
+      "summary": "MIT coverage (13 October 2026): https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013 Paper: “How Biological Synapses Self-Assemble Gradient Learning” (PNAS,",
       "score": 40,
-      "titleZh": "追踪LLM“slop”风格在模型和训练中的来源，并将其剔除[R]"
+      "titleZh": "How artificial neural networks build their own learning machinery [R]"
+    },
+    {
+      "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-15T06:06:50.000Z",
+      "summary": "PhD student here. My university’s GPU cluster has apparently become a luxury resort. I submit a job requesting a couple of GPUs, and it takes 3–4 business days just to START running. Meanwhile, my int",
+      "score": 40,
+      "titleZh": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]"
     },
     {
       "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
@@ -27,7 +39,7 @@
       "date": "2026-10-14T18:40:18.000Z",
       "summary": "I was curious about OpenResearch by alphaXiv. \"Turn your coding agents into research agents\"? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude a",
       "score": 40,
-      "titleZh": "还记得 alphaXiv 吗？他们的新研究代理人被告知要在不告知用户且不透露信息的情况下报告用户 [D]"
+      "titleZh": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]"
     },
     {
       "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
@@ -39,7 +51,7 @@
       "date": "2026-10-14T15:22:01.000Z",
       "summary": "Went down the rabbit hole to map the different Post-Transformer architectures. Various directions include Dragon Hatchling (BDH), Mamba, RWKV, xLSTM, Titans, and a bunch of hybrid models coming from d",
       "score": 40,
-      "titleZh": "绘制2026年后转型建筑图景 [D]"
+      "titleZh": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]"
     },
     {
       "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
@@ -51,7 +63,7 @@
       "date": "2026-10-14T10:16:24.000Z",
       "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the runni",
       "score": 40,
-      "titleZh": "Event2Vec：附加事件嵌入，其中历史记录的线性分数完全分解为每个事件项 [P]"
+      "titleZh": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]"
     },
     {
       "title": "PhD students, how ya feeling? [D]",
@@ -63,19 +75,7 @@
       "date": "2026-10-14T02:33:44.000Z",
       "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (",
       "score": 40,
-      "titleZh": "博士生们，你们感觉怎么样？ [D]"
-    },
-    {
-      "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-14T00:28:26.000Z",
-      "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to rea",
-      "score": 40,
-      "titleZh": "我被分配审阅的 ICLR 论文中的奇怪模式 [D]"
+      "titleZh": "PhD students, how ya feeling? [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,7 +87,7 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -99,151 +99,151 @@
       "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 14 Oct 2026 16:12:42 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "score": 5,
-      "titleZh": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作"
+      "titleZh": "Teaching students to think and learn through questions"
     },
     {
-      "title": "Technical FAQ: How to Handle Transparent Image Backgrounds in Dev Projects",
-      "link": "https://dev.to/jojo_willnn_/technical-faq-how-to-handle-transparent-image-backgrounds-in-dev-projects-3fia",
+      "title": "Apertus 1.5 Release Notes",
+      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Apertus 1.5 Release Notes"
+    },
+    {
+      "title": "How to Validate i18next JSON Locale Files in CI",
+      "link": "https://dev.to/olly_08beff75f1fe547dcb92/how-to-validate-i18next-json-locale-files-in-ci-9d",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 03:11:34 +0000",
-      "summary": "When building web applications, landing pages, or documentation, handling image backgrounds cleanly is a recurring chore. Whether you are tweaking open-source assets or rendering dynamic user content,",
+      "date": "Thu, 15 Oct 2026 14:34:04 +0000",
+      "summary": "Turn broken locale files into pull-request failures instead of runtime bugs. i18next JSON files are code-adjacent. A translated string can be linguistically fine and still break a UI if it drops {{cou",
       "score": 5,
-      "titleZh": "技术常见问题解答：如何处理开发项目中的透明图像背景"
+      "titleZh": "How to Validate i18next JSON Locale Files in CI"
     },
     {
-      "title": "Building PixelToKB: Browser-Based Image Tools for Exact File-Size Limits",
-      "link": "https://dev.to/dawei_131f3e58ca8c43a4d42/building-pixeltokb-browser-based-image-tools-for-exact-file-size-limits-35kn",
+      "title": "React state has no type of its own. I gave it one, and it compiles away",
+      "link": "https://dev.to/mm1995tk/react-state-has-no-type-of-its-own-i-gave-it-one-and-it-compiles-away-4kcp",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 03:10:10 +0000",
-      "summary": "I kept running into the same problem when preparing images for application forms and websites: the file had to be under a specific limit, but most tools only offered a quality slider. That meant expor",
+      "date": "Thu, 15 Oct 2026 14:29:15 +0000",
+      "summary": "In Vue, Solid, and Angular, state has a type of its own: Ref<T>, Accessor<T>, Signal<T>. In React, the count from useState is just a number. Nothing in the type tells you: that it re-renders the compo",
       "score": 5,
-      "titleZh": "构建 PixelToKB：基于浏览器的图像工具，实现精确的文件大小限制"
+      "titleZh": "React state has no type of its own. I gave it one, and it compiles away"
     },
     {
-      "title": "What the Claude Agent SDK's query() Streams: Every Message, Logged",
-      "link": "https://dev.to/gabrielanhaia/what-the-claude-agent-sdks-query-streams-every-message-logged-id4",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 15 Oct 2026 03:04:11 +0000",
-      "summary": "Book: AI That Acts The series: AI in TypeScript — 5 books, from your first LLM call to agents in production — all five here My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude",
-      "score": 5,
-      "titleZh": "Claude Agent SDK 的 query() 流的内容：每条消息，已记录"
-    },
-    {
-      "title": "How to turn your website into an Android app for free in 2026",
-      "link": "https://dev.to/autobot360_decee0e0efdcf7/how-to-turn-your-website-into-an-android-app-for-free-in-2026-4f33",
+      "title": "Website Redesign: 7 Signs Your Business Website Needs a Refresh",
+      "link": "https://dev.to/ehsanabedi_dev/website-redesign-7-signs-your-business-website-needs-a-refresh-22nh",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 03:00:28 +0000",
-      "summary": "Your customers spend most of their phone time inside apps, not browsers. A cafe, clinic, coaching institute, or Shopify store with its own icon on the home screen gets remembered, and with push notifi",
+      "date": "Thu, 15 Oct 2026 14:29:08 +0000",
+      "summary": "A website redesign is one of the best investments a growing business can make, but knowing when the time has come is not always easy. Your website may still work, yet quietly lose visitors to competit",
       "score": 5,
-      "titleZh": "2026 年如何将您的网站免费变成 Android 应用"
+      "titleZh": "Website Redesign: 7 Signs Your Business Website Needs a Refresh"
     },
     {
-      "title": "Image Adjustment in the Browser — Brightness, Contrast, Saturation Without Libraries",
-      "link": "https://dev.to/toolzip/image-adjustment-in-the-browser-brightness-contrast-saturation-without-libraries-5f51",
+      "title": "AI Tools Daily Briefing — 2026-10-14",
+      "link": "https://dev.to/h_list_fc1ff64d18fcfc172c/ai-tools-daily-briefing-2026-10-14-kc8",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 14:28:35 +0000",
+      "summary": "2026-10-14: 10 New AI Tools Worth a Look Every day we scan GitHub Trending and HuggingFace for genuinely new AI tools, verify them against their official sites, and publish a bilingual briefing. Today",
+      "score": 5,
+      "titleZh": "AI Tools Daily Briefing — 2026-10-14"
+    },
+    {
+      "title": "300 Installs of DX Toolkit 🚀",
+      "link": "https://dev.to/coddio_develop/300-installs-of-dx-toolkit-1k49",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 15 Oct 2026 14:24:32 +0000",
+      "summary": "Last week, I shared an update when DX Toolkit crossed its first major milestone. Today, we've officially reached 300 installations on the Chrome Web Store. For a free, zero-marketing browser extension",
+      "score": 5,
+      "titleZh": "300 Installs of DX Toolkit 🚀"
+    },
+    {
+      "title": "How to Preserve Placeholders in JSON Translations",
+      "link": "https://dev.to/olly_08beff75f1fe547dcb92/how-to-preserve-placeholders-in-json-translations-3bk7",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 02:58:24 +0000",
-      "summary": "Image Adjustment in the Browser — Brightness, Contrast, Saturation Without Libraries CSS filter handles simple visual effects. For pixel-level control — downloadable output, real adjustment values — y",
+      "date": "Thu, 15 Oct 2026 14:24:10 +0000",
+      "summary": "Keep runtime variables intact while still moving quickly through localization work. Placeholders are easy for translators and models to misread because they look like natural language fragments. If {{",
       "score": 5,
-      "titleZh": "浏览器中的图像调整 - 无需库的亮度、对比度、饱和度"
+      "titleZh": "How to Preserve Placeholders in JSON Translations"
     },
     {
-      "title": "The CTO’s Guide to Thin Client Management Software",
-      "link": "https://dev.to/sairaaslam-coder/the-ctos-guide-to-thin-client-management-software-2pmc",
+      "title": "How to measure share of voice in AI search",
+      "link": "https://dev.to/pineprompt/how-to-measure-share-of-voice-in-ai-search-3o9l",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 02:54:58 +0000",
-      "summary": "Managing hundreds of workplace devices can become complicated as businesses expand across offices, branches, and remote locations. IT teams must keep endpoints secure, deploy updates, troubleshoot iss",
+      "date": "Thu, 15 Oct 2026 14:23:43 +0000",
+      "summary": "Share of voice in AI search is your brand's portion of all brand mentions in AI answers to a fixed set of prompts. If assistants name four brands a total of 400 times and yours 60 times, your share is",
       "score": 5,
-      "titleZh": "首席技术官瘦客户端管理软件指南"
+      "titleZh": "How to measure share of voice in AI search"
     },
     {
-      "title": "Video Editing Tips: 7 Practical Ways to Make Your Videos Look Professional",
-      "link": "https://dev.to/zprostudio/video-editing-tips-7-practical-ways-to-make-your-videos-look-professional-5c15",
+      "title": "PostgreSQL Index Bloat at Scale",
+      "link": "https://dev.to/software_mvp-factory/postgresql-index-bloat-at-scale-5cka",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 02:51:05 +0000",
-      "summary": "You don't need expensive equipment or advanced editing skills to create a good video. Sometimes, the biggest improvements come from small changes: removing unnecessary pauses, improving audio, choosin",
+      "date": "Thu, 15 Oct 2026 14:21:28 +0000",
+      "summary": "--- title: \"PostgreSQL index bloat: the silent query killer at scale\" published: true description: \"MVCC causes index bloat that silently kills query performance. Learn to detect bloat with pgstattupl",
       "score": 5,
-      "titleZh": "视频编辑技巧：让您的视频看起来专业的 7 种实用方法"
+      "titleZh": "PostgreSQL Index Bloat at Scale"
     },
     {
-      "title": "FoodTruth: Exposing Packaged Food Deception with Open-Weight Vision AI",
-      "link": "https://dev.to/dasouvik122005/foodtruth-exposing-packaged-food-deception-with-open-weight-vision-ai-4cen",
-      "source": "Dev.to WebDev",
+      "title": "Stop Reinventing the Wheel: Launch Your SaaS in Days",
+      "link": "https://dev.to/gkhnbuilds/stop-reinventing-the-wheel-launch-your-saas-in-days-ke6",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 02:46:56 +0000",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Modern supermarket aisles are designed to mislead. Packaged food companies spend billions on deceptive front-of-",
+      "date": "Thu, 15 Oct 2026 14:21:25 +0000",
+      "summary": "Every time you start a new SaaS or e-commerce side project, you spend the first 30 hours setting up the same repetitive features: Authentication flow Payment gateway integrations Database schemas UI c",
       "score": 5,
-      "titleZh": "FoodTruth：利用 Open-Weight Vision AI 揭露包装食品欺骗行为"
+      "titleZh": "Stop Reinventing the Wheel: Launch Your SaaS in Days"
     },
     {
-      "title": "Feature Flags API: How to Build 3 Simple Percentage Rollouts",
-      "link": "https://dev.to/dorianreed2186/feature-flags-api-how-to-build-3-simple-percentage-rollouts-2pcp",
-      "source": "Dev.to Next.js",
+      "title": "How to Translate i18next JSON Without Breaking Keys, Nesting, or Interpolation",
+      "link": "https://dev.to/olly_08beff75f1fe547dcb92/how-to-translate-i18next-json-without-breaking-keys-nesting-or-interpolation-45f8",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 02:45:27 +0000",
-      "summary": "Rollback safety matters more than a long feature list when a small team changes notification delivery. Short answer: put three risky changes behind server-evaluated flags: the new provider path, the r",
+      "date": "Thu, 15 Oct 2026 14:20:57 +0000",
+      "summary": "Use JSON Translate on real locale files without damaging the parts your app depends on. i18next files usually mix real UI copy with tokens that must survive translation exactly as written. That includ",
       "score": 5,
-      "titleZh": "功能标志 API：如何构建 3 个简单的百分比部署"
-    },
-    {
-      "title": "Beyond Desktop CAD in the Browser: CADCraft vs. OpenCAD Studio vs. MLightCAD CAD Viewer",
-      "link": "https://dev.to/mlightcad/beyond-desktop-cad-in-the-browser-cadcraft-vs-opencad-studio-vs-mlightcad-cad-viewer-4078",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 15 Oct 2026 02:44:32 +0000",
-      "summary": "Why Browser-First Architecture Matters for Real-World CAD Performance The evolution of WebAssembly, WebGL, and modern browser runtimes has made it increasingly practical to bring professional CAD capa",
-      "score": 5,
-      "titleZh": "超越浏览器中的桌面 CAD：CADCraft 与 OpenCAD Studio 与 MLightCAD CAD Viewer"
+      "titleZh": "How to Translate i18next JSON Without Breaking Keys, Nesting, or Interpolation"
     }
   ]
 }
