@@ -1,10 +1,46 @@
 {
-  "updated": "2026-10-15T14:40:24.081Z",
-  "date": "2026-10-15",
+  "updated": "2026-10-16T03:10:34.676Z",
+  "date": "2026-10-16",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 15 Oct 2026 14:35:15 +0000",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299",
+      "score": 128,
+      "titleZh": "Using AI to reverse engineer hardware"
+    },
+    {
+      "title": "Resources for learning to write production grade python code [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-15T21:41:08.000Z",
+      "summary": "I am a data scientist with a very strong background in Stats and ML algos. I am struggling with the production ready code. Though I can build models which are awesome and tuned to perfection and addre",
+      "score": 40,
+      "titleZh": "Resources for learning to write production grade python code [N]"
+    },
+    {
+      "title": "NeurIPS 2026 - waitlist [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-15T15:42:47.000Z",
+      "summary": "Hey everyone, I am trying to register for NeurIPS 2026 in Sydney, they mentioned more tickets would be out mid October and I am registered for the waitlist, however I still haven't heard from them. An",
+      "score": 40,
+      "titleZh": "NeurIPS 2026 - waitlist [R]"
+    },
     {
       "title": "How artificial neural networks build their own learning machinery [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
@@ -42,18 +78,6 @@
       "titleZh": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]"
     },
     {
-      "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-14T15:22:01.000Z",
-      "summary": "Went down the rabbit hole to map the different Post-Transformer architectures. Various directions include Dragon Hatchling (BDH), Mamba, RWKV, xLSTM, Titans, and a bunch of hybrid models coming from d",
-      "score": 40,
-      "titleZh": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]"
-    },
-    {
       "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
       "source": "Reddit ML",
@@ -64,18 +88,6 @@
       "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the runni",
       "score": 40,
       "titleZh": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]"
-    },
-    {
-      "title": "PhD students, how ya feeling? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-14T02:33:44.000Z",
-      "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (",
-      "score": 40,
-      "titleZh": "PhD students, how ya feeling? [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +114,136 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "score": 5,
-      "titleZh": "Teaching students to think and learn through questions"
-    },
-    {
-      "title": "Apertus 1.5 Release Notes",
-      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "date": "Fri, 16 Oct 2026 01:44:47 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "Apertus 1.5 Release Notes"
+      "titleZh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
     },
     {
-      "title": "How to Validate i18next JSON Locale Files in CI",
-      "link": "https://dev.to/olly_08beff75f1fe547dcb92/how-to-validate-i18next-json-locale-files-in-ci-9d",
+      "title": "TypeScript 7 Has No Stable Compiler API Yet. That's Why typescript-eslint Won't Install",
+      "link": "https://dev.to/gabrielanhaia/typescript-7-has-no-stable-compiler-api-yet-thats-why-typescript-eslint-wont-install-4pa",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:34:04 +0000",
-      "summary": "Turn broken locale files into pull-request failures instead of runtime bugs. i18next JSON files are code-adjacent. A translated string can be linguistically fine and still break a UI if it drops {{cou",
+      "date": "Fri, 16 Oct 2026 03:01:30 +0000",
+      "summary": "Book: TypeScript in Production Also by me: The TypeScript Library — the 5-book collection My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude Code and other AI coding tools Me",
       "score": 5,
-      "titleZh": "How to Validate i18next JSON Locale Files in CI"
+      "titleZh": "TypeScript 7 Has No Stable Compiler API Yet. That's Why typescript-eslint Won't Install"
     },
     {
-      "title": "React state has no type of its own. I gave it one, and it compiles away",
-      "link": "https://dev.to/mm1995tk/react-state-has-no-type-of-its-own-i-gave-it-one-and-it-compiles-away-4kcp",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 15 Oct 2026 14:29:15 +0000",
-      "summary": "In Vue, Solid, and Angular, state has a type of its own: Ref<T>, Accessor<T>, Signal<T>. In React, the count from useState is just a number. Nothing in the type tells you: that it re-renders the compo",
-      "score": 5,
-      "titleZh": "React state has no type of its own. I gave it one, and it compiles away"
-    },
-    {
-      "title": "Website Redesign: 7 Signs Your Business Website Needs a Refresh",
-      "link": "https://dev.to/ehsanabedi_dev/website-redesign-7-signs-your-business-website-needs-a-refresh-22nh",
+      "title": "My First Post on DEV: Learning, Building, and Exploring Open Source 🚀",
+      "link": "https://dev.to/bgobala_krishnan_d5f4699/my-first-post-on-dev-learning-building-and-exploring-open-source-4abk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:29:08 +0000",
-      "summary": "A website redesign is one of the best investments a growing business can make, but knowing when the time has come is not always easy. Your website may still work, yet quietly lose visitors to competit",
+      "date": "Fri, 16 Oct 2026 02:58:24 +0000",
+      "summary": "Hey everyone! 👋 I'm Gobala Krishnan, a Software Engineer from India. I work with technologies like React, Java, Spring Boot, PostgreSQL, and AWS. I enjoy building web applications, solving real-world",
       "score": 5,
-      "titleZh": "Website Redesign: 7 Signs Your Business Website Needs a Refresh"
+      "titleZh": "My First Post on DEV: Learning, Building, and Exploring Open Source 🚀"
     },
     {
-      "title": "AI Tools Daily Briefing — 2026-10-14",
-      "link": "https://dev.to/h_list_fc1ff64d18fcfc172c/ai-tools-daily-briefing-2026-10-14-kc8",
+      "title": "Benchmarking Model Context Protocol (MCP) in GitLab: Why AI Agents Are Leaving REST Behind",
+      "link": "https://dev.to/hrlpavan/benchmarking-model-context-protocol-mcp-in-gitlab-why-ai-agents-are-leaving-rest-behind-1kj9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:28:35 +0000",
-      "summary": "2026-10-14: 10 New AI Tools Worth a Look Every day we scan GitHub Trending and HuggingFace for genuinely new AI tools, verify them against their official sites, and publish a bilingual briefing. Today",
+      "date": "Fri, 16 Oct 2026 02:55:26 +0000",
+      "summary": "Benchmarking Model Context Protocol (MCP) in GitLab: Why AI Agents Are Leaving REST Behind For over a decade, REST APIs have been the undisputed backbone of developer tooling and integrations. When yo",
       "score": 5,
-      "titleZh": "AI Tools Daily Briefing — 2026-10-14"
+      "titleZh": "Benchmarking Model Context Protocol (MCP) in GitLab: Why AI Agents Are Leaving REST Behind"
     },
     {
-      "title": "300 Installs of DX Toolkit 🚀",
-      "link": "https://dev.to/coddio_develop/300-installs-of-dx-toolkit-1k49",
+      "title": "Supercharging Code Reviews: Deploying Ephemeral Environments with GitLab Review Apps",
+      "link": "https://dev.to/hrlpavan/supercharging-code-reviews-deploying-ephemeral-environments-with-gitlab-review-apps-597a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:24:32 +0000",
-      "summary": "Last week, I shared an update when DX Toolkit crossed its first major milestone. Today, we've officially reached 300 installations on the Chrome Web Store. For a free, zero-marketing browser extension",
+      "date": "Fri, 16 Oct 2026 02:52:29 +0000",
+      "summary": "Supercharging Code Reviews: Deploying Ephemeral Environments with GitLab Review Apps How many times has your engineering team seen a pull request with 100% passing unit tests, only to merge it and rea",
       "score": 5,
-      "titleZh": "300 Installs of DX Toolkit 🚀"
+      "titleZh": "Supercharging Code Reviews: Deploying Ephemeral Environments with GitLab Review Apps"
     },
     {
-      "title": "How to Preserve Placeholders in JSON Translations",
-      "link": "https://dev.to/olly_08beff75f1fe547dcb92/how-to-preserve-placeholders-in-json-translations-3bk7",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 15 Oct 2026 14:24:10 +0000",
-      "summary": "Keep runtime variables intact while still moving quickly through localization work. Placeholders are easy for translators and models to misread because they look like natural language fragments. If {{",
-      "score": 5,
-      "titleZh": "How to Preserve Placeholders in JSON Translations"
-    },
-    {
-      "title": "How to measure share of voice in AI search",
-      "link": "https://dev.to/pineprompt/how-to-measure-share-of-voice-in-ai-search-3o9l",
+      "title": "Node.js Duplicate Chat Messages After Reconnect: Trace History and Live Overlap",
+      "link": "https://dev.to/judsonrhodes1569/nodejs-duplicate-chat-messages-after-reconnect-trace-history-and-live-overlap-4ml7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:23:43 +0000",
-      "summary": "Share of voice in AI search is your brand's portion of all brand mentions in AI answers to a fixed set of prompts. If assistants name four brands a total of 400 times and yours 60 times, your share is",
+      "date": "Fri, 16 Oct 2026 02:41:41 +0000",
+      "summary": "Short answer: If classroom chat repeats a question after reconnect, overlap history backfill with the live subscription and reconcile both by the same stable message ID. An exact handoff boundary acro",
       "score": 5,
-      "titleZh": "How to measure share of voice in AI search"
+      "titleZh": "Node.js Duplicate Chat Messages After Reconnect: Trace History and Live Overlap"
     },
     {
-      "title": "PostgreSQL Index Bloat at Scale",
-      "link": "https://dev.to/software_mvp-factory/postgresql-index-bloat-at-scale-5cka",
+      "title": "Do not disable pinch zoom on your landing page: a one-line viewport check",
+      "link": "https://dev.to/mercerk17/do-not-disable-pinch-zoom-on-your-landing-page-a-one-line-viewport-check-2n1i",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:21:28 +0000",
-      "summary": "--- title: \"PostgreSQL index bloat: the silent query killer at scale\" published: true description: \"MVCC causes index bloat that silently kills query performance. Learn to detect bloat with pgstattupl",
+      "date": "Fri, 16 Oct 2026 02:40:50 +0000",
+      "summary": "A lot of landing page templates ship with a viewport tag like this: <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"> It stops pinch zoom, usually",
       "score": 5,
-      "titleZh": "PostgreSQL Index Bloat at Scale"
+      "titleZh": "Do not disable pinch zoom on your landing page: a one-line viewport check"
     },
     {
-      "title": "Stop Reinventing the Wheel: Launch Your SaaS in Days",
-      "link": "https://dev.to/gkhnbuilds/stop-reinventing-the-wheel-launch-your-saas-in-days-ke6",
-      "source": "Dev.to JS",
+      "title": "Building Offline-First Invoicing Software: Why Local Storage Matters for Freelancers",
+      "link": "https://dev.to/vladshiyan/building-offline-first-invoicing-software-why-local-storage-matters-for-freelancers-4e6i",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:21:25 +0000",
-      "summary": "Every time you start a new SaaS or e-commerce side project, you spend the first 30 hours setting up the same repetitive features: Authentication flow Payment gateway integrations Database schemas UI c",
+      "date": "Fri, 16 Oct 2026 02:40:26 +0000",
+      "summary": "This article was originally published on the LockMargin blog. I'm Vlad Shiyan, founder and developer of LockMargin — a local-first Financial OS for freelancers who are tired of renting their tools. Be",
       "score": 5,
-      "titleZh": "Stop Reinventing the Wheel: Launch Your SaaS in Days"
+      "titleZh": "Building Offline-First Invoicing Software: Why Local Storage Matters for Freelancers"
     },
     {
-      "title": "How to Translate i18next JSON Without Breaking Keys, Nesting, or Interpolation",
-      "link": "https://dev.to/olly_08beff75f1fe547dcb92/how-to-translate-i18next-json-without-breaking-keys-nesting-or-interpolation-45f8",
-      "source": "Dev.to JS",
+      "title": "How I Built a Beginner-Friendly SaaS Starter with Edge Computing",
+      "link": "https://dev.to/sellermind/how-i-built-a-beginner-friendly-saas-starter-with-edge-computing-289a",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 15 Oct 2026 14:20:57 +0000",
-      "summary": "Use JSON Translate on real locale files without damaging the parts your app depends on. i18next files usually mix real UI copy with tokens that must survive translation exactly as written. That includ",
+      "date": "Fri, 16 Oct 2026 02:32:25 +0000",
+      "summary": "When I first decided to build my own SaaS, I had a grand vision. I wanted to solve a specific problem for creators and build a sustainable indie business. But a few weeks in, I hit a massive wall. I w",
       "score": 5,
-      "titleZh": "How to Translate i18next JSON Without Breaking Keys, Nesting, or Interpolation"
+      "titleZh": "How I Built a Beginner-Friendly SaaS Starter with Edge Computing"
+    },
+    {
+      "title": "Maintainability is a Lie (And We're Chasing the Wrong Goal)",
+      "link": "https://dev.to/chris_lee_5e58cce05f5d01d/maintainability-is-a-lie-and-were-chasing-the-wrong-goal-40dp",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 16 Oct 2026 02:31:35 +0000",
+      "summary": "Let's stop talking about \"maintainable code\" and start talking about readable code. The term \"maintainable\" is a phantom, a goalpost that constantly shifts. Today's \"maintainable\" architecture, full o",
+      "score": 5,
+      "titleZh": "Maintainability is a Lie (And We're Chasing the Wrong Goal)"
+    },
+    {
+      "title": "Automating Tedious SEO Audits with Cloudflare Workers and Next.js",
+      "link": "https://dev.to/sellermind/automating-tedious-seo-audits-with-cloudflare-workers-and-nextjs-h6i",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 16 Oct 2026 02:30:49 +0000",
+      "summary": "When I first started shipping side projects and indie SaaS products, the most tedious part of the process wasn't writing the actual application code—it was the pre-launch checklist. Specifically, audi",
+      "score": 5,
+      "titleZh": "Automating Tedious SEO Audits with Cloudflare Workers and Next.js"
     }
   ]
 }
