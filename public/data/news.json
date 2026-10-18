@@ -1,93 +1,81 @@
 {
-  "updated": "2026-10-16T03:10:34.676Z",
-  "date": "2026-10-16",
+  "updated": "2026-10-18T03:03:43.475Z",
+  "date": "2026-10-18",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Using AI to reverse engineer hardware",
-      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 15 Oct 2026 14:35:15 +0000",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299",
-      "score": 128,
-      "titleZh": "Using AI to reverse engineer hardware"
-    },
-    {
-      "title": "Resources for learning to write production grade python code [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
+      "title": "What is wrong with AI writing - ICLR edition [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-15T21:41:08.000Z",
-      "summary": "I am a data scientist with a very strong background in Stats and ML algos. I am struggling with the production ready code. Though I can build models which are awesome and tuned to perfection and addre",
+      "date": "2026-10-17T23:40:03.000Z",
+      "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on t",
       "score": 40,
-      "titleZh": "Resources for learning to write production grade python code [N]"
+      "titleZh": "What is wrong with AI writing - ICLR edition [D]"
     },
     {
-      "title": "NeurIPS 2026 - waitlist [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
+      "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-15T15:42:47.000Z",
-      "summary": "Hey everyone, I am trying to register for NeurIPS 2026 in Sydney, they mentioned more tickets would be out mid October and I am registered for the waitlist, however I still haven't heard from them. An",
+      "date": "2026-10-17T19:41:19.000Z",
+      "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
       "score": 40,
-      "titleZh": "NeurIPS 2026 - waitlist [R]"
+      "titleZh": "17 个 AI，7,700 手扑克：前沿 vs 廉价 vs 本地 vs Jev [P]"
     },
     {
-      "title": "How artificial neural networks build their own learning machinery [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
+      "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-15T10:01:47.000Z",
-      "summary": "MIT coverage (13 October 2026): https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013 Paper: “How Biological Synapses Self-Assemble Gradient Learning” (PNAS,",
+      "date": "2026-10-17T14:48:25.000Z",
+      "summary": "Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data p",
       "score": 40,
-      "titleZh": "How artificial neural networks build their own learning machinery [R]"
+      "titleZh": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]"
     },
     {
-      "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
+      "title": "Go to neurIPS just for a workshop. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-15T06:06:50.000Z",
-      "summary": "PhD student here. My university’s GPU cluster has apparently become a luxury resort. I submit a job requesting a couple of GPUs, and it takes 3–4 business days just to START running. Meanwhile, my int",
+      "date": "2026-10-17T09:56:53.000Z",
+      "summary": "Hi, I just finished my masters and got a neurIPS workshop acception. Unfortunately the lab I did it with do not want to fund neither the registration nor flights and accommodation. I am thinking about",
       "score": 40,
-      "titleZh": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]"
+      "titleZh": "去 neurIPS 只是为了参加一个研讨会。 [D]"
     },
     {
-      "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
+      "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-14T18:40:18.000Z",
-      "summary": "I was curious about OpenResearch by alphaXiv. \"Turn your coding agents into research agents\"? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude a",
+      "date": "2026-10-17T08:17:31.000Z",
+      "summary": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which ",
       "score": 40,
-      "titleZh": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]"
+      "titleZh": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]"
     },
     {
-      "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
+      "title": "How many of you have seen this honest ICLR submission? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-14T10:16:24.000Z",
-      "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the runni",
+      "date": "2026-10-17T04:43:32.000Z",
+      "summary": "Makes me think how many submissions are just better than this one by quietly removing that line... submitted by /u/fighraccoon [link] [comments]",
       "score": 40,
-      "titleZh": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]"
+      "titleZh": "你们中有多少人看过这份诚实的 ICLR 提交材料？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -111,7 +99,19 @@
       "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "score": 5,
+      "titleZh": "How Itaú is building generative AI for its entire customer base"
     },
     {
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -123,127 +123,127 @@
       "date": "Fri, 16 Oct 2026 01:44:47 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+      "titleZh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道"
     },
     {
-      "title": "TypeScript 7 Has No Stable Compiler API Yet. That's Why typescript-eslint Won't Install",
-      "link": "https://dev.to/gabrielanhaia/typescript-7-has-no-stable-compiler-api-yet-thats-why-typescript-eslint-wont-install-4pa",
+      "title": "The MCP registry tripled in 14 days. I probed 300 of the newcomers.",
+      "link": "https://dev.to/pennyforgehq/the-mcp-registry-tripled-in-14-days-i-probed-300-of-the-newcomers-29bd",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 18 Oct 2026 02:50:02 +0000",
+      "summary": "Two weeks ago I walked the official MCP registry end to end and counted: 53,068 name:version pairs across 16,993 distinct server names. On 17 October I walked it again. It now holds 156,994 pairs acro",
+      "score": 2026,
+      "titleZh": "The MCP registry tripled in 14 days. I probed 300 of the newcomers."
+    },
+    {
+      "title": "AI Dev Tool: Cloudflare Workers Hono + D1 Multi-Tenant Auth Boilerplate — Architecture, Benchmarks & Python/Edge Implementation",
+      "link": "https://dev.to/mr_pr0cess/ai-dev-tool-cloudflare-workers-hono-d1-multi-tenant-auth-boilerplate-architecture-benchmarks-942",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 18 Oct 2026 03:01:11 +0000",
+      "summary": "1. The Production Bottleneck When scaling Cloudflare Workers Hono + D1 Multi-Tenant Auth Boilerplate in production environments, naive implementations routinely fail under burst concurrency: upstream ",
+      "score": 5,
+      "titleZh": "AI 开发工具：Cloudflare Workers Hono + D1 多租户身份验证样板 — 架构、基准测试和 Python/Edge 实施"
+    },
+    {
+      "title": "Polling Long-Running AI Jobs on Mobile Web: Retries, Backoff, and the visibilitychange Trick",
+      "link": "https://dev.to/_d56ee71434515ebe5ebd7f/polling-long-running-ai-jobs-on-mobile-web-retries-backoff-and-the-visibilitychange-trick-24jm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 18 Oct 2026 03:00:46 +0000",
+      "summary": "Most AI features I've shipped have the same shape: the user uploads something, the server kicks off a job that takes anywhere from a few seconds to a minute, and the client has to wait. In Belle AI (a",
+      "score": 5,
+      "titleZh": "Polling Long-Running AI Jobs on Mobile Web: Retries, Backoff, and the visibilitychange Trick"
+    },
+    {
+      "title": "25 B2B Workflows Clients Actually Pay to Automate (With n8n Node Breakdown & Pricing)",
+      "link": "https://dev.to/brian_a2eebd5059c1c2/25-b2b-workflows-clients-actually-pay-to-automate-with-n8n-node-breakdown-pricing-4b1b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 18 Oct 2026 02:59:40 +0000",
+      "summary": "When developers try to freelance or sell automation services, the biggest mistake is pitching \"I can build custom AI workflows.\" Clients don't buy vague capability—they buy specific fixes for bottlene",
+      "score": 5,
+      "titleZh": "客户实际付费实现自动化的 25 个 B2B 工作流程（包含 n8n 节点细分和定价）"
+    },
+    {
+      "title": "Introducing @zervonex/baileys - A Tailored Fork of the Baileys WhatsApp Web API",
+      "link": "https://dev.to/zervonex/introducing-zervonexbaileys-a-tailored-fork-of-the-baileys-whatsapp-web-api-4enn",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 16 Oct 2026 03:01:30 +0000",
-      "summary": "Book: TypeScript in Production Also by me: The TypeScript Library — the 5-book collection My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude Code and other AI coding tools Me",
+      "date": "Sun, 18 Oct 2026 02:52:58 +0000",
+      "summary": "As developers working heavily with automation, we often rely on the incredible WhiskeySockets/Baileys library to interact directly with the WhatsApp Web API. However, maintaining long-term stability, ",
       "score": 5,
-      "titleZh": "TypeScript 7 Has No Stable Compiler API Yet. That's Why typescript-eslint Won't Install"
+      "titleZh": "Introducing @zervonex/baileys - A Tailored Fork of the Baileys WhatsApp Web API"
     },
     {
-      "title": "My First Post on DEV: Learning, Building, and Exploring Open Source 🚀",
-      "link": "https://dev.to/bgobala_krishnan_d5f4699/my-first-post-on-dev-learning-building-and-exploring-open-source-4abk",
+      "title": "Next.js ~Prefetching~",
+      "link": "https://dev.to/kkr0423/nextjs-prefetching-2cjl",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 18 Oct 2026 02:51:43 +0000",
+      "summary": "In this section, I gann talk about story about App Router that is enabled to use Cache Components + Partial Prefetching (cacheComponents: true and partialPrefetching: true are set in next.config.ts). ",
+      "score": 5,
+      "titleZh": "Next.js ~预取~"
+    },
+    {
+      "title": "Compress PDF: Free Online PDF Compressor — How-To Guide",
+      "link": "https://dev.to/layoffatlas/compress-pdf-free-online-pdf-compressor-how-to-guide-49o",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 16 Oct 2026 02:58:24 +0000",
-      "summary": "Hey everyone! 👋 I'm Gobala Krishnan, a Software Engineer from India. I work with technologies like React, Java, Spring Boot, PostgreSQL, and AWS. I enjoy building web applications, solving real-world",
+      "date": "Sun, 18 Oct 2026 02:44:56 +0000",
+      "summary": "Compress PDF: Free Online PDF Compressor — How-To Guide Big PDF files are a headache. They bounce back from email inboxes, get rejected by upload portals with strict size limits, and eat up storage. T",
       "score": 5,
-      "titleZh": "My First Post on DEV: Learning, Building, and Exploring Open Source 🚀"
+      "titleZh": "Compress PDF: Free Online PDF Compressor — How-To Guide"
     },
     {
-      "title": "Benchmarking Model Context Protocol (MCP) in GitLab: Why AI Agents Are Leaving REST Behind",
-      "link": "https://dev.to/hrlpavan/benchmarking-model-context-protocol-mcp-in-gitlab-why-ai-agents-are-leaving-rest-behind-1kj9",
+      "title": "40 Verified Directories and Communities to Submit Your SaaS or Dev Tool (Sorted by Domain Rating)",
+      "link": "https://dev.to/brian_a2eebd5059c1c2/40-verified-directories-and-communities-to-submit-your-saas-or-dev-tool-sorted-by-domain-rating-51l7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 16 Oct 2026 02:55:26 +0000",
-      "summary": "Benchmarking Model Context Protocol (MCP) in GitLab: Why AI Agents Are Leaving REST Behind For over a decade, REST APIs have been the undisputed backbone of developer tooling and integrations. When yo",
+      "date": "Sun, 18 Oct 2026 02:43:04 +0000",
+      "summary": "Shipping the code for a small SaaS, CLI, or developer utility is usually the easy part. The part where most solo projects stall is getting the first 50 external backlinks and initial users without spe",
       "score": 5,
-      "titleZh": "Benchmarking Model Context Protocol (MCP) in GitLab: Why AI Agents Are Leaving REST Behind"
+      "titleZh": "40 个用于提交 SaaS 或开发工具的经过验证的目录和社区（按域名评级排序）"
     },
     {
-      "title": "Supercharging Code Reviews: Deploying Ephemeral Environments with GitLab Review Apps",
-      "link": "https://dev.to/hrlpavan/supercharging-code-reviews-deploying-ephemeral-environments-with-gitlab-review-apps-597a",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 16 Oct 2026 02:52:29 +0000",
-      "summary": "Supercharging Code Reviews: Deploying Ephemeral Environments with GitLab Review Apps How many times has your engineering team seen a pull request with 100% passing unit tests, only to merge it and rea",
-      "score": 5,
-      "titleZh": "Supercharging Code Reviews: Deploying Ephemeral Environments with GitLab Review Apps"
-    },
-    {
-      "title": "Node.js Duplicate Chat Messages After Reconnect: Trace History and Live Overlap",
-      "link": "https://dev.to/judsonrhodes1569/nodejs-duplicate-chat-messages-after-reconnect-trace-history-and-live-overlap-4ml7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 16 Oct 2026 02:41:41 +0000",
-      "summary": "Short answer: If classroom chat repeats a question after reconnect, overlap history backfill with the live subscription and reconcile both by the same stable message ID. An exact handoff boundary acro",
-      "score": 5,
-      "titleZh": "Node.js Duplicate Chat Messages After Reconnect: Trace History and Live Overlap"
-    },
-    {
-      "title": "Do not disable pinch zoom on your landing page: a one-line viewport check",
-      "link": "https://dev.to/mercerk17/do-not-disable-pinch-zoom-on-your-landing-page-a-one-line-viewport-check-2n1i",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 16 Oct 2026 02:40:50 +0000",
-      "summary": "A lot of landing page templates ship with a viewport tag like this: <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"> It stops pinch zoom, usually",
-      "score": 5,
-      "titleZh": "Do not disable pinch zoom on your landing page: a one-line viewport check"
-    },
-    {
-      "title": "Building Offline-First Invoicing Software: Why Local Storage Matters for Freelancers",
-      "link": "https://dev.to/vladshiyan/building-offline-first-invoicing-software-why-local-storage-matters-for-freelancers-4e6i",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 16 Oct 2026 02:40:26 +0000",
-      "summary": "This article was originally published on the LockMargin blog. I'm Vlad Shiyan, founder and developer of LockMargin — a local-first Financial OS for freelancers who are tired of renting their tools. Be",
-      "score": 5,
-      "titleZh": "Building Offline-First Invoicing Software: Why Local Storage Matters for Freelancers"
-    },
-    {
-      "title": "How I Built a Beginner-Friendly SaaS Starter with Edge Computing",
-      "link": "https://dev.to/sellermind/how-i-built-a-beginner-friendly-saas-starter-with-edge-computing-289a",
+      "title": "Building Your First MCP Server: Exposing Internal Tools to AI Agents Safely (TypeScript)",
+      "link": "https://dev.to/nextctl/building-your-first-mcp-server-exposing-internal-tools-to-ai-agents-safely-typescript-5704",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 16 Oct 2026 02:32:25 +0000",
-      "summary": "When I first decided to build my own SaaS, I had a grand vision. I wanted to solve a specific problem for creators and build a sustainable indie business. But a few weeks in, I hit a massive wall. I w",
+      "date": "Sun, 18 Oct 2026 02:40:52 +0000",
+      "summary": "The Model Context Protocol (MCP) has become the default way to connect AI assistants and agents to tools and data. Instead of writing a custom integration for every model and every client, you write o",
       "score": 5,
-      "titleZh": "How I Built a Beginner-Friendly SaaS Starter with Edge Computing"
+      "titleZh": "Building Your First MCP Server: Exposing Internal Tools to AI Agents Safely (TypeScript)"
     },
     {
-      "title": "Maintainability is a Lie (And We're Chasing the Wrong Goal)",
-      "link": "https://dev.to/chris_lee_5e58cce05f5d01d/maintainability-is-a-lie-and-were-chasing-the-wrong-goal-40dp",
-      "source": "Dev.to WebDev",
+      "title": "No Backend? No Problem: How I Built a Static Crypto Checkout Using eth_call",
+      "link": "https://dev.to/renev3408/no-backend-no-problem-how-i-built-a-static-crypto-checkout-using-ethcall-539c",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 16 Oct 2026 02:31:35 +0000",
-      "summary": "Let's stop talking about \"maintainable code\" and start talking about readable code. The term \"maintainable\" is a phantom, a goalpost that constantly shifts. Today's \"maintainable\" architecture, full o",
+      "date": "Sun, 18 Oct 2026 02:39:15 +0000",
+      "summary": "No Backend? No Problem: How I Built a Static Crypto Checkout Using eth_call Accepting crypto payments usually means running a server to watch the blockchain. But what if you could do it all from a sta",
       "score": 5,
-      "titleZh": "Maintainability is a Lie (And We're Chasing the Wrong Goal)"
-    },
-    {
-      "title": "Automating Tedious SEO Audits with Cloudflare Workers and Next.js",
-      "link": "https://dev.to/sellermind/automating-tedious-seo-audits-with-cloudflare-workers-and-nextjs-h6i",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 16 Oct 2026 02:30:49 +0000",
-      "summary": "When I first started shipping side projects and indie SaaS products, the most tedious part of the process wasn't writing the actual application code—it was the pre-launch checklist. Specifically, audi",
-      "score": 5,
-      "titleZh": "Automating Tedious SEO Audits with Cloudflare Workers and Next.js"
+      "titleZh": "没有后端？没问题：我如何使用 eth_call 构建静态加密签出"
     }
   ]
 }
