@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-18T03:03:43.475Z",
-  "date": "2026-10-18",
+  "updated": "2026-10-19T16:48:02.280Z",
+  "date": "2026-10-19",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "What is wrong with AI writing - ICLR edition [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+      "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-17T23:40:03.000Z",
-      "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on t",
+      "date": "2026-10-19T05:36:23.000Z",
+      "summary": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation. So I built one. What it ",
       "score": 40,
-      "titleZh": "What is wrong with AI writing - ICLR edition [D]"
+      "titleZh": "SteerTTS：23M 参数的英语 TTS，您可以用数字（音高、速率、响度等作为 z 分数）进行引导，在 CPU 上实时运行 [P]"
     },
     {
-      "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+      "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-17T19:41:19.000Z",
-      "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
+      "date": "2026-10-19T04:57:13.000Z",
+      "summary": "Worked on this for about a month. I experimented a lot with resnets (pretrained on Imagenet) which performed quite well, pure ViT which performed worse. ConvNext DINOv3 performed the best. For data I ",
       "score": 40,
-      "titleZh": "17 个 AI，7,700 手扑克：前沿 vs 廉价 vs 本地 vs Jev [P]"
+      "titleZh": "使用在 DINOv3 上预训练的 ConvNext 进行箭头检测 [P]"
     },
     {
-      "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+      "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-17T14:48:25.000Z",
-      "summary": "Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data p",
+      "date": "2026-10-19T01:34:31.000Z",
+      "summary": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to w",
       "score": 40,
-      "titleZh": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]"
+      "titleZh": "我从网络培训转向部署优化，并开始认为这是一个正确的决定 [D]"
     },
     {
-      "title": "Go to neurIPS just for a workshop. [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
+      "title": "Conference papers are cooked! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-17T09:56:53.000Z",
-      "summary": "Hi, I just finished my masters and got a neurIPS workshop acception. Unfortunately the lab I did it with do not want to fund neither the registration nor flights and accommodation. I am thinking about",
+      "date": "2026-10-18T22:12:15.000Z",
+      "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues. A ",
       "score": 40,
-      "titleZh": "去 neurIPS 只是为了参加一个研讨会。 [D]"
+      "titleZh": "会议论文已熟！ [D]"
     },
     {
-      "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+      "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-17T08:17:31.000Z",
-      "summary": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which ",
+      "date": "2026-10-18T20:52:02.000Z",
+      "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse. Wh",
       "score": 40,
-      "titleZh": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]"
+      "titleZh": "还有其他人因为过于浓缩的人工智能语言而出现大脑滞后吗？ [D]"
     },
     {
-      "title": "How many of you have seen this honest ICLR submission? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+      "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-17T04:43:32.000Z",
-      "summary": "Makes me think how many submissions are just better than this one by quietly removing that line... submitted by /u/fighraccoon [link] [comments]",
+      "date": "2026-10-18T19:34:36.000Z",
+      "summary": "submitted by /u/ToraxXx [link] [comments]",
       "score": 40,
-      "titleZh": "你们中有多少人看过这份诚实的 ICLR 提交材料？ [D]"
+      "titleZh": "在一台桌面上通过自我对弈强化学习击败《魔兽争霸 III》的疯狂人工智能 [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,7 +87,7 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "[D] 自我推销主题"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
+      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+      "link": "https://arxiv.org/abs/2610.22373",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level ",
       "score": 5,
-      "titleZh": "How Itaú is building generative AI for its entire customer base"
+      "titleZh": "结构化权限注入：通过类型化 MCP 覆盖对 LLM 代理进行持续的人为控制"
     },
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "HuggingFace",
+      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+      "link": "https://arxiv.org/abs/2610.22400",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 16 Oct 2026 01:44:47 GMT",
-      "summary": "",
+      "date": "Mon, 19 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through au",
       "score": 5,
-      "titleZh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道"
+      "titleZh": "重新思考用户编码器：场景自适应用户表示的路由扩散状态"
     },
     {
-      "title": "The MCP registry tripled in 14 days. I probed 300 of the newcomers.",
-      "link": "https://dev.to/pennyforgehq/the-mcp-registry-tripled-in-14-days-i-probed-300-of-the-newcomers-29bd",
+      "title": "CSS Analyzer: Free Online CSS Audit Tool — How-To Guide",
+      "link": "https://dev.to/layoffatlas/css-analyzer-free-online-css-audit-tool-how-to-guide-2akf",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 02:50:02 +0000",
-      "summary": "Two weeks ago I walked the official MCP registry end to end and counted: 53,068 name:version pairs across 16,993 distinct server names. On 17 October I walked it again. It now holds 156,994 pairs acro",
-      "score": 2026,
-      "titleZh": "The MCP registry tripled in 14 days. I probed 300 of the newcomers."
+      "date": "Mon, 19 Oct 2026 16:43:25 +0000",
+      "summary": "CSS Analyzer: Free Online CSS Audit Tool — How-To Guide CSS files grow quietly. A few extra rules here, a duplicated declaration there — and before long, your stylesheet is hundreds of lines heavier t",
+      "score": 5,
+      "titleZh": "CSS Analyzer：免费在线 CSS 审核工具 — 操作指南"
     },
     {
-      "title": "AI Dev Tool: Cloudflare Workers Hono + D1 Multi-Tenant Auth Boilerplate — Architecture, Benchmarks & Python/Edge Implementation",
-      "link": "https://dev.to/mr_pr0cess/ai-dev-tool-cloudflare-workers-hono-d1-multi-tenant-auth-boilerplate-architecture-benchmarks-942",
+      "title": "umux 1.7.6: a quieter interface and a crash class, deleted",
+      "link": "https://dev.to/crystalstudio/umux-176-a-quieter-interface-and-a-crash-class-deleted-157m",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 03:01:11 +0000",
-      "summary": "1. The Production Bottleneck When scaling Cloudflare Workers Hono + D1 Multi-Tenant Auth Boilerplate in production environments, naive implementations routinely fail under burst concurrency: upstream ",
+      "date": "Mon, 19 Oct 2026 16:42:58 +0000",
+      "summary": "This cycle ran bugs first, features second, both in one version. The bugs came from a real machine. The features came from using the app. Landing: https://umux.pages.dev https://github.com/CrystalPlat",
       "score": 5,
-      "titleZh": "AI 开发工具：Cloudflare Workers Hono + D1 多租户身份验证样板 — 架构、基准测试和 Python/Edge 实施"
+      "titleZh": "umux 1.7.6：更安静的界面和崩溃类，已删除"
     },
     {
-      "title": "Polling Long-Running AI Jobs on Mobile Web: Retries, Backoff, and the visibilitychange Trick",
-      "link": "https://dev.to/_d56ee71434515ebe5ebd7f/polling-long-running-ai-jobs-on-mobile-web-retries-backoff-and-the-visibilitychange-trick-24jm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 18 Oct 2026 03:00:46 +0000",
-      "summary": "Most AI features I've shipped have the same shape: the user uploads something, the server kicks off a job that takes anywhere from a few seconds to a minute, and the client has to wait. In Belle AI (a",
-      "score": 5,
-      "titleZh": "Polling Long-Running AI Jobs on Mobile Web: Retries, Backoff, and the visibilitychange Trick"
-    },
-    {
-      "title": "25 B2B Workflows Clients Actually Pay to Automate (With n8n Node Breakdown & Pricing)",
-      "link": "https://dev.to/brian_a2eebd5059c1c2/25-b2b-workflows-clients-actually-pay-to-automate-with-n8n-node-breakdown-pricing-4b1b",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 18 Oct 2026 02:59:40 +0000",
-      "summary": "When developers try to freelance or sell automation services, the biggest mistake is pitching \"I can build custom AI workflows.\" Clients don't buy vague capability—they buy specific fixes for bottlene",
-      "score": 5,
-      "titleZh": "客户实际付费实现自动化的 25 个 B2B 工作流程（包含 n8n 节点细分和定价）"
-    },
-    {
-      "title": "Introducing @zervonex/baileys - A Tailored Fork of the Baileys WhatsApp Web API",
-      "link": "https://dev.to/zervonex/introducing-zervonexbaileys-a-tailored-fork-of-the-baileys-whatsapp-web-api-4enn",
+      "title": "False Affordance in WordPress (4wp.dev Methodologies): When UI Promises What Code Doesn't Deliver",
+      "link": "https://dev.to/adovgun/false-affordance-in-wordpress-4wpdev-methodologies-when-ui-promises-what-code-doesnt-deliver-4jh8",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 02:52:58 +0000",
-      "summary": "As developers working heavily with automation, we often rely on the incredible WhiskeySockets/Baileys library to interact directly with the WhatsApp Web API. However, maintaining long-term stability, ",
+      "date": "Mon, 19 Oct 2026 16:41:44 +0000",
+      "summary": "A \"Show more\" button on my own portfolio showed nothing, and the console stayed clean. This post is the write-up: what a false affordance is, why it slips into WordPress themes and plugins, and how to",
       "score": 5,
-      "titleZh": "Introducing @zervonex/baileys - A Tailored Fork of the Baileys WhatsApp Web API"
+      "titleZh": "WordPress 中的错误可供性（4wp.dev 方法）：当 UI 承诺代码无法提供的内容时"
     },
     {
-      "title": "Next.js ~Prefetching~",
-      "link": "https://dev.to/kkr0423/nextjs-prefetching-2cjl",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 18 Oct 2026 02:51:43 +0000",
-      "summary": "In this section, I gann talk about story about App Router that is enabled to use Cache Components + Partial Prefetching (cacheComponents: true and partialPrefetching: true are set in next.config.ts). ",
-      "score": 5,
-      "titleZh": "Next.js ~预取~"
-    },
-    {
-      "title": "Compress PDF: Free Online PDF Compressor — How-To Guide",
-      "link": "https://dev.to/layoffatlas/compress-pdf-free-online-pdf-compressor-how-to-guide-49o",
+      "title": "Move video verification to OMID with evidence from the destination.",
+      "link": "https://dev.to/aleksuix/move-video-verification-to-omid-with-evidence-from-the-destination-40j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 02:44:56 +0000",
-      "summary": "Compress PDF: Free Online PDF Compressor — How-To Guide Big PDF files are a headache. They bounce back from email inboxes, get rejected by upload portals with strict size limits, and eat up storage. T",
+      "date": "Mon, 19 Oct 2026 16:40:36 +0000",
+      "summary": "Originally published on VASTLint. This article is part of the Migrate video standards with evidence series. A buyer can approve the creative and still reject the delivery plan if the inventory cannot ",
       "score": 5,
-      "titleZh": "Compress PDF: Free Online PDF Compressor — How-To Guide"
+      "titleZh": "使用来自目的地的证据将视频验证移至 OMID。"
     },
     {
-      "title": "40 Verified Directories and Communities to Submit Your SaaS or Dev Tool (Sorted by Domain Rating)",
-      "link": "https://dev.to/brian_a2eebd5059c1c2/40-verified-directories-and-communities-to-submit-your-saas-or-dev-tool-sorted-by-domain-rating-51l7",
+      "title": "Python Type Hints Cheat Sheet for Working Developers",
+      "link": "https://dev.to/syncore/python-type-hints-cheat-sheet-for-working-developers-40le",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 02:43:04 +0000",
-      "summary": "Shipping the code for a small SaaS, CLI, or developer utility is usually the easy part. The part where most solo projects stall is getting the first 50 external backlinks and initial users without spe",
+      "date": "Mon, 19 Oct 2026 16:38:50 +0000",
+      "summary": "3 min read · 512 words Python’s type hinting system has evolved from a quiet PEP into an indispensable tool for growing codebases. If you are still writing raw Python without type hints, you are missi",
       "score": 5,
-      "titleZh": "40 个用于提交 SaaS 或开发工具的经过验证的目录和社区（按域名评级排序）"
+      "titleZh": "为工作开发人员提供的 Python 类型提示备忘单"
     },
     {
-      "title": "Building Your First MCP Server: Exposing Internal Tools to AI Agents Safely (TypeScript)",
-      "link": "https://dev.to/nextctl/building-your-first-mcp-server-exposing-internal-tools-to-ai-agents-safely-typescript-5704",
+      "title": "I turned my Hono API into an MCP server by changing one import",
+      "link": "https://dev.to/serikshaikamalov/i-turned-my-hono-api-into-an-mcp-server-by-changing-one-import-3nkf",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 02:40:52 +0000",
-      "summary": "The Model Context Protocol (MCP) has become the default way to connect AI assistants and agents to tools and data. Instead of writing a custom integration for every model and every client, you write o",
+      "date": "Mon, 19 Oct 2026 16:37:46 +0000",
+      "summary": "I have a travel-agency backend on Hono: tours, bookings, payments. I wanted AI agents to use it too, so that a manager could tell Claude \"find March tours under $2000 and book the first one for Ali Al",
       "score": 5,
-      "titleZh": "Building Your First MCP Server: Exposing Internal Tools to AI Agents Safely (TypeScript)"
+      "titleZh": "我通过更改一个导入将我的 Hono API 变成了 MCP 服务器"
     },
     {
-      "title": "No Backend? No Problem: How I Built a Static Crypto Checkout Using eth_call",
-      "link": "https://dev.to/renev3408/no-backend-no-problem-how-i-built-a-static-crypto-checkout-using-ethcall-539c",
-      "source": "Dev.to JS",
+      "title": "VideoAny AI: a multi-model image and video studio",
+      "link": "https://dev.to/videoanyai/videoany-ai-a-multi-model-image-and-video-studio-2mg0",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 18 Oct 2026 02:39:15 +0000",
-      "summary": "No Backend? No Problem: How I Built a Static Crypto Checkout Using eth_call Accepting crypto payments usually means running a server to watch the blockchain. But what if you could do it all from a sta",
+      "date": "Mon, 19 Oct 2026 16:35:42 +0000",
+      "summary": "VideoAny AI is a multi-model image and video studio in the browser. Pick models such as Seedream, Wan, or Grok Imagine, start from a reusable template, and create or edit images and short videos in on",
       "score": 5,
-      "titleZh": "没有后端？没问题：我如何使用 eth_call 构建静态加密签出"
+      "titleZh": "VideoAny AI：多模型图像和视频工作室"
+    },
+    {
+      "title": "GraphHacks Hackathon Wrap Up",
+      "link": "https://dev.to/notadim2/graphhacks-hackathon-wrap-up-3539",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 19 Oct 2026 16:35:13 +0000",
+      "summary": "Just wrapped up my GraphHacks experience! 🚀 I participated in the hackathon, worked on my project, and submitted it. One thing I'm realizing as I explore AI and build projects is that having an idea ",
+      "score": 5,
+      "titleZh": "GraphHacks 黑客马拉松总结"
+    },
+    {
+      "title": "How to resize and watermark product photos with just a URL",
+      "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-resize-and-watermark-product-photos-with-just-a-url-563",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 19 Oct 2026 16:32:55 +0000",
+      "summary": "TL;DR What you get: one upload per photo, and every thumbnail, WebP version and watermarked copy from a URL like …/image?w=400&h=400&fit=cover&format=webp. Who it's for: shops, marketplaces and apps t",
+      "score": 5,
+      "titleZh": "如何仅使用 URL 调整产品照片大小并为其添加水印"
+    },
+    {
+      "title": "Microservices Interview Questions for Senior Developers in 2026 — Boundaries, Saga & Consistency, Resilience & Observability (Deep Answers)",
+      "link": "https://dev.to/kirandeepjassalcrypto/microservices-interview-questions-for-senior-developers-in-2026-boundaries-saga-consistency-4beb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 19 Oct 2026 16:31:27 +0000",
+      "summary": "Junior microservices interviews ask \"what is a microservice.\" Senior interviews ask why your services share a database (so they're really one service that can't deploy independently), what happens whe",
+      "score": 5,
+      "titleZh": "2026 年高级开发人员微服务面试问题 — 边界、传奇与一致性、弹性与可观察性（深度答案）"
     }
   ]
 }
