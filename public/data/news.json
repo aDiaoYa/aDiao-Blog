@@ -1,45 +1,105 @@
 {
-  "updated": "2026-10-19T16:48:02.280Z",
-  "date": "2026-10-19",
+  "updated": "2026-10-20T14:40:25.609Z",
+  "date": "2026-10-20",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
-      "source": "Reddit ML",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-19T05:36:23.000Z",
-      "summary": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation. So I built one. What it ",
-      "score": 40,
-      "titleZh": "SteerTTS：23M 参数的英语 TTS，您可以用数字（音高、速率、响度等作为 z 分数）进行引导，在 CPU 上实时运行 [P]"
+      "date": "Tue, 20 Oct 2026 09:08:54 +0000",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277",
+      "score": 1240,
+      "titleZh": "DeepSeek just open-sourced its inference engine"
     },
     {
-      "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
-      "source": "Reddit ML",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-19T04:57:13.000Z",
-      "summary": "Worked on this for about a month. I experimented a lot with resnets (pretrained on Imagenet) which performed quite well, pure ViT which performed worse. ConvNext DINOv3 performed the best. For data I ",
-      "score": 40,
-      "titleZh": "使用在 DINOv3 上预训练的 ConvNext 进行箭头检测 [P]"
+      "date": "Mon, 19 Oct 2026 23:22:18 +0000",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341",
+      "score": 630,
+      "titleZh": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
     },
     {
-      "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 19 Oct 2026 16:16:46 +0000",
+      "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244",
+      "score": 432,
+      "titleZh": "DeepSeek banned from U.S. federal civilian agencies under new DHS order"
+    },
+    {
+      "title": "Regarding CVPR 2027 Submission [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-19T01:34:31.000Z",
-      "summary": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to w",
+      "date": "2026-10-20T12:49:39.000Z",
+      "summary": "Does anyone have the author kit for CVPR 2027? The official website doesn't seem to have it yet, unlike in previous years. Please correct me if I'm wrong. submitted by /u/Maleficent_Reply_471 [link] [",
       "score": 40,
-      "titleZh": "我从网络培训转向部署优化，并开始认为这是一个正确的决定 [D]"
+      "titleZh": "Regarding CVPR 2027 Submission [D]"
+    },
+    {
+      "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-20T10:00:43.000Z",
+      "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation. I need to la",
+      "score": 40,
+      "titleZh": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]"
+    },
+    {
+      "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-19T18:15:18.000Z",
+      "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan",
+      "score": 40,
+      "titleZh": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]"
+    },
+    {
+      "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-19T17:50:49.000Z",
+      "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testi",
+      "score": 40,
+      "titleZh": "AI generates research ideas faster than I can test them. Anyone else? [R]"
+    },
+    {
+      "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-19T17:13:35.000Z",
+      "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees ",
+      "score": 40,
+      "titleZh": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]"
     },
     {
       "title": "Conference papers are cooked! [D]",
@@ -51,31 +111,7 @@
       "date": "2026-10-18T22:12:15.000Z",
       "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues. A ",
       "score": 40,
-      "titleZh": "会议论文已熟！ [D]"
-    },
-    {
-      "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-18T20:52:02.000Z",
-      "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse. Wh",
-      "score": 40,
-      "titleZh": "还有其他人因为过于浓缩的人工智能语言而出现大脑滞后吗？ [D]"
-    },
-    {
-      "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-18T19:34:36.000Z",
-      "summary": "submitted by /u/ToraxXx [link] [comments]",
-      "score": 40,
-      "titleZh": "在一台桌面上通过自我对弈强化学习击败《魔兽争霸 III》的疯狂人工智能 [P]"
+      "titleZh": "Conference papers are cooked! [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,163 +123,127 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
-    },
-    {
-      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-      "link": "https://arxiv.org/abs/2610.22373",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level ",
-      "score": 5,
-      "titleZh": "结构化权限注入：通过类型化 MCP 覆盖对 LLM 代理进行持续的人为控制"
-    },
-    {
-      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-      "link": "https://arxiv.org/abs/2610.22400",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 19 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through au",
-      "score": 5,
-      "titleZh": "重新思考用户编码器：场景自适应用户表示的路由扩散状态"
-    },
-    {
-      "title": "CSS Analyzer: Free Online CSS Audit Tool — How-To Guide",
-      "link": "https://dev.to/layoffatlas/css-analyzer-free-online-css-audit-tool-how-to-guide-2akf",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 19 Oct 2026 16:43:25 +0000",
-      "summary": "CSS Analyzer: Free Online CSS Audit Tool — How-To Guide CSS files grow quietly. A few extra rules here, a duplicated declaration there — and before long, your stylesheet is hundreds of lines heavier t",
-      "score": 5,
-      "titleZh": "CSS Analyzer：免费在线 CSS 审核工具 — 操作指南"
-    },
-    {
-      "title": "umux 1.7.6: a quieter interface and a crash class, deleted",
-      "link": "https://dev.to/crystalstudio/umux-176-a-quieter-interface-and-a-crash-class-deleted-157m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 19 Oct 2026 16:42:58 +0000",
-      "summary": "This cycle ran bugs first, features second, both in one version. The bugs came from a real machine. The features came from using the app. Landing: https://umux.pages.dev https://github.com/CrystalPlat",
-      "score": 5,
-      "titleZh": "umux 1.7.6：更安静的界面和崩溃类，已删除"
-    },
-    {
-      "title": "False Affordance in WordPress (4wp.dev Methodologies): When UI Promises What Code Doesn't Deliver",
-      "link": "https://dev.to/adovgun/false-affordance-in-wordpress-4wpdev-methodologies-when-ui-promises-what-code-doesnt-deliver-4jh8",
+      "title": "EU AI Act Article 50(1): adding a chatbot AI-disclosure notice in 20 lines",
+      "link": "https://dev.to/rulereddy/eu-ai-act-article-501-adding-a-chatbot-ai-disclosure-notice-in-20-lines-881",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:41:44 +0000",
-      "summary": "A \"Show more\" button on my own portfolio showed nothing, and the console stayed clean. This post is the write-up: what a false affordance is, why it slips into WordPress themes and plugins, and how to",
+      "date": "Tue, 20 Oct 2026 14:38:17 +0000",
+      "summary": "Article 50 of the EU AI Act (Regulation (EU) 2024/1689) has applied since 2 August 2026. If your product lets people chat with an AI system and those people are in the EU, Article 50(1) is the rule th",
       "score": 5,
-      "titleZh": "WordPress 中的错误可供性（4wp.dev 方法）：当 UI 承诺代码无法提供的内容时"
+      "titleZh": "EU AI Act Article 50(1): adding a chatbot AI-disclosure notice in 20 lines"
     },
     {
-      "title": "Move video verification to OMID with evidence from the destination.",
-      "link": "https://dev.to/aleksuix/move-video-verification-to-omid-with-evidence-from-the-destination-40j",
+      "title": "Build the engine, not the posts",
+      "link": "https://dev.to/spicanet/build-the-engine-not-the-posts-oed",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:40:36 +0000",
-      "summary": "Originally published on VASTLint. This article is part of the Migrate video standards with evidence series. A buyer can approve the creative and still reject the delivery plan if the inventory cannot ",
+      "date": "Tue, 20 Oct 2026 14:32:00 +0000",
+      "summary": "Update (Oct 2026): CryptoCardCompass now lists 54 cards. Around twenty of our own sites, one person deciding what they say. You can keep writing every page by hand and drown politely, or you can build",
       "score": 5,
-      "titleZh": "使用来自目的地的证据将视频验证移至 OMID。"
+      "titleZh": "Build the engine, not the posts"
     },
     {
-      "title": "Python Type Hints Cheat Sheet for Working Developers",
-      "link": "https://dev.to/syncore/python-type-hints-cheat-sheet-for-working-developers-40le",
+      "title": "I fuzzed 50,000 dollar amounts across my Python JS ports and found a silent 1.2% rounding bug",
+      "link": "https://dev.to/member_fb93637b/i-fuzzed-50000-dollar-amounts-across-my-python-js-ports-and-found-a-silent-12-rounding-bug-ld0",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 20 Oct 2026 14:31:14 +0000",
+      "summary": "I maintain ~10 small zero-dependency CLI tools for freelancer admin (invoicing, late fees, currency conversion, tax estimates) — some in Python, some ported to Node so people can npx them without inst",
+      "score": 5,
+      "titleZh": "I fuzzed 50,000 dollar amounts across my Python JS ports and found a silent 1.2% rounding bug"
+    },
+    {
+      "title": "Three ideas, nine builds: GPT-6.1 Sol, Claude Opus 5.5 and Gemini Argon 4",
+      "link": "https://dev.to/billiem/three-ideas-nine-builds-gpt-61-sol-claude-opus-55-and-gemini-argon-4-13a4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:38:50 +0000",
-      "summary": "3 min read · 512 words Python’s type hinting system has evolved from a quiet PEP into an indispensable tool for growing codebases. If you are still writing raw Python without type hints, you are missi",
+      "date": "Tue, 20 Oct 2026 14:31:09 +0000",
+      "summary": "The bell-ringing prototype I preferred was not the technical reviewer’s winner. Claude’s cascading timing challenge felt nicer to me; the review favoured Sol’s more reliable connection between the blo",
       "score": 5,
-      "titleZh": "为工作开发人员提供的 Python 类型提示备忘单"
+      "titleZh": "Three ideas, nine builds: GPT-6.1 Sol, Claude Opus 5.5 and Gemini Argon 4"
     },
     {
-      "title": "I turned my Hono API into an MCP server by changing one import",
-      "link": "https://dev.to/serikshaikamalov/i-turned-my-hono-api-into-an-mcp-server-by-changing-one-import-3nkf",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 19 Oct 2026 16:37:46 +0000",
-      "summary": "I have a travel-agency backend on Hono: tours, bookings, payments. I wanted AI agents to use it too, so that a manager could tell Claude \"find March tours under $2000 and book the first one for Ali Al",
-      "score": 5,
-      "titleZh": "我通过更改一个导入将我的 Hono API 变成了 MCP 服务器"
-    },
-    {
-      "title": "VideoAny AI: a multi-model image and video studio",
-      "link": "https://dev.to/videoanyai/videoany-ai-a-multi-model-image-and-video-studio-2mg0",
+      "title": "How We'll Measure the Agent Economy",
+      "link": "https://dev.to/johnnyko/how-well-measure-the-agent-economy-415k",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:35:42 +0000",
-      "summary": "VideoAny AI is a multi-model image and video studio in the browser. Pick models such as Seedream, Wan, or Grok Imagine, start from a reusable template, and create or edit images and short videos in on",
+      "date": "Tue, 20 Oct 2026 14:30:25 +0000",
+      "summary": "The x402 ecosystem has a counting problem. By Q3 2026 there were 138 million cumulative x402 transactions on Base, and 87% of them were under $0.10. Depending on who you ask, that's either the birth o",
       "score": 5,
-      "titleZh": "VideoAny AI：多模型图像和视频工作室"
+      "titleZh": "How We'll Measure the Agent Economy"
     },
     {
-      "title": "GraphHacks Hackathon Wrap Up",
-      "link": "https://dev.to/notadim2/graphhacks-hackathon-wrap-up-3539",
+      "title": "REST API Security Essentials: OWASP API Security Top 10 Illustrated",
+      "link": "https://dev.to/devanshu_patil/rest-api-security-essentials-owasp-api-security-top-10-illustrated-2pl2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:35:13 +0000",
-      "summary": "Just wrapped up my GraphHacks experience! 🚀 I participated in the hackathon, worked on my project, and submitted it. One thing I'm realizing as I explore AI and build projects is that having an idea ",
+      "date": "Tue, 20 Oct 2026 14:30:00 +0000",
+      "summary": "title: \"REST API Security Essentials: OWASP API Security Top 10 Illustrated\" In modern software development, REST API Security Essentials: OWASP API Security Top 10 Illustrated is a critical subject t",
       "score": 5,
-      "titleZh": "GraphHacks 黑客马拉松总结"
+      "titleZh": "REST API Security Essentials: OWASP API Security Top 10 Illustrated"
     },
     {
-      "title": "How to resize and watermark product photos with just a URL",
-      "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-resize-and-watermark-product-photos-with-just-a-url-563",
+      "title": "Vite in production: the Azure pod checklist nobody gives you",
+      "link": "https://dev.to/letusai15/vite-in-production-the-azure-pod-checklist-nobody-gives-you-595m",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:32:55 +0000",
-      "summary": "TL;DR What you get: one upload per photo, and every thumbnail, WebP version and watermarked copy from a URL like …/image?w=400&h=400&fit=cover&format=webp. Who it's for: shops, marketplaces and apps t",
+      "date": "Tue, 20 Oct 2026 14:30:00 +0000",
+      "summary": "Part 2 of the CRA→Vite series. The code migration is done — but six things in the deployment layer will still break your AKS pod. Build output dir, Node version, environment variable baking, ConfigMap",
       "score": 5,
-      "titleZh": "如何仅使用 URL 调整产品照片大小并为其添加水印"
+      "titleZh": "Vite in production: the Azure pod checklist nobody gives you"
     },
     {
-      "title": "Microservices Interview Questions for Senior Developers in 2026 — Boundaries, Saga & Consistency, Resilience & Observability (Deep Answers)",
-      "link": "https://dev.to/kirandeepjassalcrypto/microservices-interview-questions-for-senior-developers-in-2026-boundaries-saga-consistency-4beb",
-      "source": "Dev.to WebDev",
+      "title": "How I Built an Autonomous Website Audit & Discovery Tool with FastAPI, React 19 & Google Gemini",
+      "link": "https://dev.to/prajwalthecoder/how-i-built-an-autonomous-website-audit-discovery-tool-with-fastapi-react-19-google-gemini-2l1l",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 19 Oct 2026 16:31:27 +0000",
-      "summary": "Junior microservices interviews ask \"what is a microservice.\" Senior interviews ask why your services share a database (so they're really one service that can't deploy independently), what happens whe",
+      "date": "Tue, 20 Oct 2026 14:28:08 +0000",
+      "summary": "Cold outreach in 2026 is broken. Business owners get flooded every day with generic template spam like \"Hey, I noticed your website could use an upgrade...\"—with zero proof and zero personalization. I",
       "score": 5,
-      "titleZh": "2026 年高级开发人员微服务面试问题 — 边界、传奇与一致性、弹性与可观察性（深度答案）"
+      "titleZh": "How I Built an Autonomous Website Audit & Discovery Tool with FastAPI, React 19 & Google Gemini"
+    },
+    {
+      "title": "Everything Client-Side: How I Built 50+ Free Browser Tools That Never Upload Your Files",
+      "link": "https://dev.to/jazitech/everything-client-side-how-i-built-50-free-browser-tools-that-never-upload-your-files-5g6p",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 20 Oct 2026 14:24:44 +0000",
+      "summary": "When I started building SegaFlash, I made one architectural decision that shaped everything: if a file can be processed in the browser, it never touches a server. No upload queues. No \"your file will ",
+      "score": 5,
+      "titleZh": "Everything Client-Side: How I Built 50+ Free Browser Tools That Never Upload Your Files"
+    },
+    {
+      "title": "AnyChart JS 9.0.0 Released with New Chart Types and Features",
+      "link": "https://dev.to/anychart/meet-anychart-js-900-seven-new-chart-types-features-20h3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 20 Oct 2026 14:23:10 +0000",
+      "summary": "AnyChart JS 9.0.0 is out, and this version of our JavaScript charting library is a big one for new chart types. Dependency wheels and arc diagrams map connections. Org charts lay out hierarchies. Stre",
+      "score": 5,
+      "titleZh": "AnyChart JS 9.0.0 Released with New Chart Types and Features"
     }
   ]
 }
