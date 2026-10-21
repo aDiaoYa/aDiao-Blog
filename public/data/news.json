@@ -1,45 +1,21 @@
 {
-  "updated": "2026-10-20T14:40:25.609Z",
-  "date": "2026-10-20",
+  "updated": "2026-10-21T03:21:35.456Z",
+  "date": "2026-10-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "HN·AI",
+      "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 20 Oct 2026 09:08:54 +0000",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277",
-      "score": 1240,
-      "titleZh": "DeepSeek just open-sourced its inference engine"
-    },
-    {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 19 Oct 2026 23:22:18 +0000",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341",
-      "score": 630,
-      "titleZh": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
-    },
-    {
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 19 Oct 2026 16:16:46 +0000",
-      "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244",
-      "score": 432,
-      "titleZh": "DeepSeek banned from U.S. federal civilian agencies under new DHS order"
+      "date": "2026-10-21T01:13:32.000Z",
+      "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer pos",
+      "score": 40,
+      "titleZh": "Will our paper be removed from EMNLP because of no-show? [D]"
     },
     {
       "title": "Regarding CVPR 2027 Submission [D]",
@@ -102,18 +78,6 @@
       "titleZh": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]"
     },
     {
-      "title": "Conference papers are cooked! [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-18T22:12:15.000Z",
-      "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues. A ",
-      "score": 40,
-      "titleZh": "Conference papers are cooked! [D]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -126,124 +90,160 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "EU AI Act Article 50(1): adding a chatbot AI-disclosure notice in 20 lines",
-      "link": "https://dev.to/rulereddy/eu-ai-act-article-501-adding-a-chatbot-ai-disclosure-notice-in-20-lines-881",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+    },
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 20 Oct 2026 18:17:47 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
+    },
+    {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "link": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+    },
+    {
+      "title": "Generating Image Sitemaps, RSS and a Pinterest Feed in Next.js Route Handlers",
+      "link": "https://dev.to/_d56ee71434515ebe5ebd7f/generating-image-sitemaps-rss-and-a-pinterest-feed-in-nextjs-route-handlers-4fae",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 21 Oct 2026 03:19:53 +0000",
+      "summary": "For a content-heavy site, you want your pages and images discoverable on as many channels as possible: Google (including image search), RSS readers, and Pinterest. On Belle AI, I generate all three fr",
+      "score": 5,
+      "titleZh": "Generating Image Sitemaps, RSS and a Pinterest Feed in Next.js Route Handlers"
+    },
+    {
+      "title": "Building AOE Scout: A Player Analytics and Battle Simulation Platform for Age of Empires II, III, and IV",
+      "link": "https://dev.to/talha_zahid_9f5c8003e6696/building-aoe-scout-a-player-analytics-and-battle-simulation-platform-for-age-of-empires-ii-iii-fpe",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 21 Oct 2026 03:10:54 +0000",
+      "summary": "Building AOE Scout: A Player Analytics and Battle Simulation Platform for Age of Empires Age of Empires has always been more than just building an army and attacking your opponent. Understanding civil",
+      "score": 5,
+      "titleZh": "Building AOE Scout: A Player Analytics and Battle Simulation Platform for Age of Empires II, III, and IV"
+    },
+    {
+      "title": "Selling time, not files: hosts, multi-host carts and a 10-minute Join window",
+      "link": "https://dev.to/nazma_akter/selling-time-not-files-hosts-multi-host-carts-and-a-10-minute-join-window-8l0",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 21 Oct 2026 03:07:14 +0000",
+      "summary": "A course is a file you can sell a thousand times. An appointment is an hour that can only be sold once. That one difference shapes most of the booking system in VeloxonHub. The 30-second reel shows th",
+      "score": 5,
+      "titleZh": "Selling time, not files: hosts, multi-host carts and a 10-minute Join window"
+    },
+    {
+      "title": "AI crawlers found your site. Are they sending visitors back?",
+      "link": "https://dev.to/webdecoy/ai-crawlers-found-your-site-are-they-sending-visitors-back-10gm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 21 Oct 2026 03:06:20 +0000",
+      "summary": "You can fix your sitemap, improve your headings, and make your content easier for machines to read. The next question is practical: are AI systems visiting, and are they sending people back? We built ",
+      "score": 5,
+      "titleZh": "AI crawlers found your site. Are they sending visitors back?"
+    },
+    {
+      "title": "Compress Any Image to Exactly 100KB: A Binary-Search Trick",
+      "link": "https://dev.to/bowentse/compress-any-image-to-exactly-100kb-a-binary-search-trick-4kh4",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 20 Oct 2026 14:38:17 +0000",
-      "summary": "Article 50 of the EU AI Act (Regulation (EU) 2024/1689) has applied since 2 August 2026. If your product lets people chat with an AI system and those people are in the EU, Article 50(1) is the rule th",
+      "date": "Wed, 21 Oct 2026 03:04:48 +0000",
+      "summary": "Every web developer has lived this exact loop: A form says \"upload must be under 100KB\". You export your image at quality 80. It's 340KB. You drop to 60. It's 61KB — nice. Or it's 134KB — not nice. Yo",
       "score": 5,
-      "titleZh": "EU AI Act Article 50(1): adding a chatbot AI-disclosure notice in 20 lines"
+      "titleZh": "Compress Any Image to Exactly 100KB: A Binary-Search Trick"
     },
     {
-      "title": "Build the engine, not the posts",
-      "link": "https://dev.to/spicanet/build-the-engine-not-the-posts-oed",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 20 Oct 2026 14:32:00 +0000",
-      "summary": "Update (Oct 2026): CryptoCardCompass now lists 54 cards. Around twenty of our own sites, one person deciding what they say. You can keep writing every page by hand and drown politely, or you can build",
-      "score": 5,
-      "titleZh": "Build the engine, not the posts"
-    },
-    {
-      "title": "I fuzzed 50,000 dollar amounts across my Python JS ports and found a silent 1.2% rounding bug",
-      "link": "https://dev.to/member_fb93637b/i-fuzzed-50000-dollar-amounts-across-my-python-js-ports-and-found-a-silent-12-rounding-bug-ld0",
+      "title": "Debugging Tesla Paint Shop UV placement with a labeled grid",
+      "link": "https://dev.to/peng_zou_f806f0ca300e4449/debugging-tesla-paint-shop-uv-placement-with-a-labeled-grid-43mg",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 20 Oct 2026 14:31:14 +0000",
-      "summary": "I maintain ~10 small zero-dependency CLI tools for freelancer admin (invoicing, late fees, currency conversion, tax estimates) — some in Python, some ported to Node so people can npx them without inst",
+      "date": "Wed, 21 Oct 2026 03:02:04 +0000",
+      "summary": "A wrap PNG can decode correctly and still place a logo across a door seam or turn lettering sideways. File validation cannot tell you which part of a flat image lands on the hood. A labeled UV grid is",
       "score": 5,
-      "titleZh": "I fuzzed 50,000 dollar amounts across my Python JS ports and found a silent 1.2% rounding bug"
+      "titleZh": "Debugging Tesla Paint Shop UV placement with a labeled grid"
     },
     {
-      "title": "Three ideas, nine builds: GPT-6.1 Sol, Claude Opus 5.5 and Gemini Argon 4",
-      "link": "https://dev.to/billiem/three-ideas-nine-builds-gpt-61-sol-claude-opus-55-and-gemini-argon-4-13a4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 20 Oct 2026 14:31:09 +0000",
-      "summary": "The bell-ringing prototype I preferred was not the technical reviewer’s winner. Claude’s cascading timing challenge felt nicer to me; the review favoured Sol’s more reliable connection between the blo",
-      "score": 5,
-      "titleZh": "Three ideas, nine builds: GPT-6.1 Sol, Claude Opus 5.5 and Gemini Argon 4"
-    },
-    {
-      "title": "How We'll Measure the Agent Economy",
-      "link": "https://dev.to/johnnyko/how-well-measure-the-agent-economy-415k",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 20 Oct 2026 14:30:25 +0000",
-      "summary": "The x402 ecosystem has a counting problem. By Q3 2026 there were 138 million cumulative x402 transactions on Base, and 87% of them were under $0.10. Depending on who you ask, that's either the birth o",
-      "score": 5,
-      "titleZh": "How We'll Measure the Agent Economy"
-    },
-    {
-      "title": "REST API Security Essentials: OWASP API Security Top 10 Illustrated",
-      "link": "https://dev.to/devanshu_patil/rest-api-security-essentials-owasp-api-security-top-10-illustrated-2pl2",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 20 Oct 2026 14:30:00 +0000",
-      "summary": "title: \"REST API Security Essentials: OWASP API Security Top 10 Illustrated\" In modern software development, REST API Security Essentials: OWASP API Security Top 10 Illustrated is a critical subject t",
-      "score": 5,
-      "titleZh": "REST API Security Essentials: OWASP API Security Top 10 Illustrated"
-    },
-    {
-      "title": "Vite in production: the Azure pod checklist nobody gives you",
-      "link": "https://dev.to/letusai15/vite-in-production-the-azure-pod-checklist-nobody-gives-you-595m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 20 Oct 2026 14:30:00 +0000",
-      "summary": "Part 2 of the CRA→Vite series. The code migration is done — but six things in the deployment layer will still break your AKS pod. Build output dir, Node version, environment variable baking, ConfigMap",
-      "score": 5,
-      "titleZh": "Vite in production: the Azure pod checklist nobody gives you"
-    },
-    {
-      "title": "How I Built an Autonomous Website Audit & Discovery Tool with FastAPI, React 19 & Google Gemini",
-      "link": "https://dev.to/prajwalthecoder/how-i-built-an-autonomous-website-audit-discovery-tool-with-fastapi-react-19-google-gemini-2l1l",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 20 Oct 2026 14:28:08 +0000",
-      "summary": "Cold outreach in 2026 is broken. Business owners get flooded every day with generic template spam like \"Hey, I noticed your website could use an upgrade...\"—with zero proof and zero personalization. I",
-      "score": 5,
-      "titleZh": "How I Built an Autonomous Website Audit & Discovery Tool with FastAPI, React 19 & Google Gemini"
-    },
-    {
-      "title": "Everything Client-Side: How I Built 50+ Free Browser Tools That Never Upload Your Files",
-      "link": "https://dev.to/jazitech/everything-client-side-how-i-built-50-free-browser-tools-that-never-upload-your-files-5g6p",
+      "title": "Beyond the 'Golden Ratio': How Modern Computer Vision Analyzes Facial Proportions",
+      "link": "https://dev.to/chang_zhong_2c82ccf7fb888/beyond-the-golden-ratio-how-modern-computer-vision-analyzes-facial-proportions-1g0j",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 20 Oct 2026 14:24:44 +0000",
-      "summary": "When I started building SegaFlash, I made one architectural decision that shaped everything: if a file can be processed in the browser, it never touches a server. No upload queues. No \"your file will ",
+      "date": "Wed, 21 Oct 2026 03:01:23 +0000",
+      "summary": "When building appearance or aesthetic measurement tools, the default pop-science temptation is to cite the ancient \"Golden Ratio\" (Phi ≈ 1.618) as a universal truth. However, anyone who has worked wit",
       "score": 5,
-      "titleZh": "Everything Client-Side: How I Built 50+ Free Browser Tools That Never Upload Your Files"
+      "titleZh": "Beyond the 'Golden Ratio': How Modern Computer Vision Analyzes Facial Proportions"
     },
     {
-      "title": "AnyChart JS 9.0.0 Released with New Chart Types and Features",
-      "link": "https://dev.to/anychart/meet-anychart-js-900-seven-new-chart-types-features-20h3",
-      "source": "Dev.to JS",
+      "title": "..",
+      "link": "https://dev.to/angelinacruzpro/-d8k",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 20 Oct 2026 14:23:10 +0000",
-      "summary": "AnyChart JS 9.0.0 is out, and this version of our JavaScript charting library is a big one for new chart types. Dependency wheels and arc diagrams map connections. Org charts lay out hierarchies. Stre",
+      "date": "Wed, 21 Oct 2026 03:00:28 +0000",
+      "summary": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fandytmc",
       "score": 5,
-      "titleZh": "AnyChart JS 9.0.0 Released with New Chart Types and Features"
+      "titleZh": ".."
+    },
+    {
+      "title": "주소모음 서비스를 만들면서 사이트 탐색 UX를 단순화한 방법",
+      "link": "https://dev.to/mraustinblake/jusomoeum-seobiseureul-mandeulmyeonseo-saiteu-tamsaeg-uxreul-dansunhwahan-bangbeob-i3g",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 21 Oct 2026 02:59:52 +0000",
+      "summary": "주소모음 서비스를 만들면서 사이트 탐색 UX를 단순화한 방법 웹사이트를 만들 때 처음에는 콘텐츠가 많을수록 사용자에게 도움이 될 거라고 생각했습니다. 그래서 다양한 사이트를 한 화면에 최대한 많이 보여주려고 했습니다. 그런데 실제로 운영하면서 반대 문제가 생겼습니다. 사이트가 많아질수록 사용자는 선택하기 어려워졌고, 원하는 사이트를 찾으려면 화면을 계속 내",
+      "score": 5,
+      "titleZh": "주소모음 서비스를 만들면서 사이트 탐색 UX를 단순화한 방법"
+    },
+    {
+      "title": "I built an AI resume screener where every score has reasons",
+      "link": "https://dev.to/bohdan_shymov/i-built-an-ai-resume-screener-where-every-score-has-reasons-2a71",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 21 Oct 2026 02:54:58 +0000",
+      "summary": "I'm a solo developer, and I built an AI resume screener where every score comes with reasons. Here are the engineering decisions that mattered, including a few I got wrong at first. The tool is called",
+      "score": 5,
+      "titleZh": "I built an AI resume screener where every score has reasons"
     }
   ]
 }
