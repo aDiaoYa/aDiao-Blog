@@ -1,10 +1,58 @@
 {
-  "updated": "2026-10-21T03:21:35.456Z",
+  "updated": "2026-10-21T14:51:18.824Z",
   "date": "2026-10-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 21 Oct 2026 13:43:19 +0000",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-php-rce Comments URL: https://news.ycombinator.com/item?id=50180836",
+      "score": 145,
+      "titleZh": "PHP2Shell：AI 发现 PHP 中的关键 RCE"
+    },
+    {
+      "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-21T10:09:55.000Z",
+      "summary": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cel",
+      "score": 40,
+      "titleZh": "模拟模拟交叉开关中的很少读取故障定位：稀疏恢复解码器与读取每个单元（带有失败的声明）[R]"
+    },
+    {
+      "title": "A 34-point win for my memristor-crossbar repair method came from an unfair baseline; tuned, step-matched baselines removed it [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbj5i0/a_34point_win_for_my_memristorcrossbar_repair/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-21T10:08:11.000Z",
+      "summary": "TL;DR (a confession): I was ready to celebrate a big win. Then I tuned the rival. I built a repair controller for memristor crossbars with stuck cells. At first it led a rival by 34.0 points. After I ",
+      "score": 40,
+      "titleZh": "我的忆阻器横杆修复方法获得 34 分的胜利来自于不公平的基线；调整后的、步进匹配的基线将其删除[R]"
+    },
+    {
+      "title": "Need access to TPUs for ML mapping project [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbhyq1/need_access_to_tpus_for_ml_mapping_project_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-21T08:54:53.000Z",
+      "summary": "I am working on a project where I am building a analytical mapping/compilation tool for transformer workloads into hardware platforms that have software managed scratchpads. I got hold of a few chips ",
+      "score": 40,
+      "titleZh": "需要访问 TPU 来进行 ML 映射项目 [R]"
+    },
     {
       "title": "Will our paper be removed from EMNLP because of no-show? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
@@ -15,7 +63,7 @@
       "date": "2026-10-21T01:13:32.000Z",
       "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer pos",
       "score": 40,
-      "titleZh": "Will our paper be removed from EMNLP because of no-show? [D]"
+      "titleZh": "我们的论文会因为缺席而被 EMNLP 删除吗？ [D]"
     },
     {
       "title": "Regarding CVPR 2027 Submission [D]",
@@ -27,7 +75,7 @@
       "date": "2026-10-20T12:49:39.000Z",
       "summary": "Does anyone have the author kit for CVPR 2027? The official website doesn't seem to have it yet, unlike in previous years. Please correct me if I'm wrong. submitted by /u/Maleficent_Reply_471 [link] [",
       "score": 40,
-      "titleZh": "Regarding CVPR 2027 Submission [D]"
+      "titleZh": "关于CVPR 2027提交[D]"
     },
     {
       "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
@@ -39,43 +87,7 @@
       "date": "2026-10-20T10:00:43.000Z",
       "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation. I need to la",
       "score": 40,
-      "titleZh": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]"
-    },
-    {
-      "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-19T18:15:18.000Z",
-      "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan",
-      "score": 40,
-      "titleZh": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]"
-    },
-    {
-      "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-19T17:50:49.000Z",
-      "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testi",
-      "score": 40,
-      "titleZh": "AI generates research ideas faster than I can test them. Anyone else? [R]"
-    },
-    {
-      "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-19T17:13:35.000Z",
-      "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees ",
-      "score": 40,
-      "titleZh": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]"
+      "titleZh": "准确注释 500 张图像以微调 Meta DETR 的最佳方法？[P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -87,7 +99,7 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "[D] 自我推销主题"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -99,151 +111,139 @@
       "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "HuggingFace",
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "link": "https://layerfs.ai/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 20 Oct 2026 18:17:47 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
+      "date": "Wed, 21 Oct 2026 12:34:46 +0000",
+      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857",
+      "score": 37,
+      "titleZh": "LayerFS：AI 编码代理的文件系统"
     },
     {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "link": "https://huggingface.co/blog/allenai/fairstress",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 20 Oct 2026 16:09:19 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "FairStress: A deeper evaluation of fairness in LLM decision-making"
-    },
-    {
-      "title": "Generating Image Sitemaps, RSS and a Pinterest Feed in Next.js Route Handlers",
-      "link": "https://dev.to/_d56ee71434515ebe5ebd7f/generating-image-sitemaps-rss-and-a-pinterest-feed-in-nextjs-route-handlers-4fae",
-      "source": "Dev.to Next.js",
+      "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+      "link": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 21 Oct 2026 03:19:53 +0000",
-      "summary": "For a content-heavy site, you want your pages and images discoverable on as many channels as possible: Google (including image search), RSS readers, and Pinterest. On Belle AI, I generate all three fr",
-      "score": 5,
-      "titleZh": "Generating Image Sitemaps, RSS and a Pinterest Feed in Next.js Route Handlers"
+      "date": "2026-10-21T14:03:22.000Z",
+      "summary": "submitted by /u/sagitz_ [link] [comments]",
+      "score": 40,
+      "titleZh": "PHP2Shell：网络主干中的严重漏洞"
     },
     {
-      "title": "Building AOE Scout: A Player Analytics and Battle Simulation Platform for Age of Empires II, III, and IV",
-      "link": "https://dev.to/talha_zahid_9f5c8003e6696/building-aoe-scout-a-player-analytics-and-battle-simulation-platform-for-age-of-empires-ii-iii-fpe",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "link": "https://www.reddit.com/r/programming/comments/1xbl8y1/eight_bits_of_trust_emudhras_ca_keys_cracked_in/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-21T12:01:54.000Z",
+      "summary": "submitted by /u/Dear-Economics-315 [link] [comments]",
+      "score": 40,
+      "titleZh": "八位信任； eMudhra 的 CA 密钥在几毫秒内被破解"
+    },
+    {
+      "title": "Critical Vulnerabilities in PHP",
+      "link": "https://www.reddit.com/r/programming/comments/1xbcv7y/critical_vulnerabilities_in_php/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-21T03:48:54.000Z",
+      "summary": "submitted by /u/LordAlfredo [link] [comments]",
+      "score": 40,
+      "titleZh": "PHP 中的严重漏洞"
+    },
+    {
+      "title": "C vs C#: racing VLC's Gaussian blur",
+      "link": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-21T02:43:02.000Z",
+      "summary": "submitted by /u/mtz94 [link] [comments]",
+      "score": 40,
+      "titleZh": "C 与 C#：竞赛 VLC 的高斯模糊"
+    },
+    {
+      "title": "Make yourself replaceable",
+      "link": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-20T23:42:16.000Z",
+      "summary": "submitted by /u/maroun-baydoun [link] [comments]",
+      "score": 40,
+      "titleZh": "让自己成为可替代的人"
+    },
+    {
+      "title": "eMudhra Intermediate CA Compromise",
+      "link": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-20T20:21:30.000Z",
+      "summary": "submitted by /u/the_gnarts [link] [comments]",
+      "score": 40,
+      "titleZh": "eMudhra 中级 CA 妥协"
+    },
+    {
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "link": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-20T12:58:00.000Z",
+      "summary": "submitted by /u/359Panda3U [link] [comments]",
+      "score": 40,
+      "titleZh": "Go 发布紧急更新，因未公开的安全问题阻止 8 个 CA 密钥"
+    },
+    {
+      "title": "SSH keys on macOS with Touch ID",
+      "link": "https://www.reddit.com/r/programming/comments/1xaqyzu/ssh_keys_on_macos_with_touch_id/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-20T12:35:52.000Z",
+      "summary": "I've recently discovered that you can use Touch ID (rather, the Mac's Secure Enclave) for SSH authentication. I'm the author of the post, feel free to ask any questions and if there are any experts I'",
+      "score": 40,
+      "titleZh": "macOS 上带 Touch ID 的 SSH 密钥"
+    },
+    {
+      "title": "Days to Hours: Free Online Days to Hours Converter — How-To Guide",
+      "link": "https://dev.to/layoffatlas/days-to-hours-free-online-days-to-hours-converter-how-to-guide-4nh1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 21 Oct 2026 03:10:54 +0000",
-      "summary": "Building AOE Scout: A Player Analytics and Battle Simulation Platform for Age of Empires Age of Empires has always been more than just building an army and attacking your opponent. Understanding civil",
+      "date": "Wed, 21 Oct 2026 14:50:35 +0000",
+      "summary": "Days to Hours: Free Online Days to Hours Converter — How-To Guide Try it free: Days to Hours How many hours is 2.5 days? One day is 24 hours, but quick conversions get awkward with fractions — 3.75 da",
       "score": 5,
-      "titleZh": "Building AOE Scout: A Player Analytics and Battle Simulation Platform for Age of Empires II, III, and IV"
+      "titleZh": "天到小时：免费在线天到小时转换器 — 操作指南"
     },
     {
-      "title": "Selling time, not files: hosts, multi-host carts and a 10-minute Join window",
-      "link": "https://dev.to/nazma_akter/selling-time-not-files-hosts-multi-host-carts-and-a-10-minute-join-window-8l0",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 03:07:14 +0000",
-      "summary": "A course is a file you can sell a thousand times. An appointment is an hour that can only be sold once. That one difference shapes most of the booking system in VeloxonHub. The 30-second reel shows th",
-      "score": 5,
-      "titleZh": "Selling time, not files: hosts, multi-host carts and a 10-minute Join window"
-    },
-    {
-      "title": "AI crawlers found your site. Are they sending visitors back?",
-      "link": "https://dev.to/webdecoy/ai-crawlers-found-your-site-are-they-sending-visitors-back-10gm",
+      "title": "A Practical Guide to Building a Sustainable Backlink Profile",
+      "link": "https://dev.to/yalla_jetski/a-practical-guide-to-building-a-sustainable-backlink-profile-26bf",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 21 Oct 2026 03:06:20 +0000",
-      "summary": "You can fix your sitemap, improve your headings, and make your content easier for machines to read. The next question is practical: are AI systems visiting, and are they sending people back? We built ",
+      "date": "Wed, 21 Oct 2026 14:49:05 +0000",
+      "summary": "A website can publish useful content and provide a good user experience yet still struggle to gain visibility in competitive search results. One reason may be that other relevant websites have not dis",
       "score": 5,
-      "titleZh": "AI crawlers found your site. Are they sending visitors back?"
-    },
-    {
-      "title": "Compress Any Image to Exactly 100KB: A Binary-Search Trick",
-      "link": "https://dev.to/bowentse/compress-any-image-to-exactly-100kb-a-binary-search-trick-4kh4",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 03:04:48 +0000",
-      "summary": "Every web developer has lived this exact loop: A form says \"upload must be under 100KB\". You export your image at quality 80. It's 340KB. You drop to 60. It's 61KB — nice. Or it's 134KB — not nice. Yo",
-      "score": 5,
-      "titleZh": "Compress Any Image to Exactly 100KB: A Binary-Search Trick"
-    },
-    {
-      "title": "Debugging Tesla Paint Shop UV placement with a labeled grid",
-      "link": "https://dev.to/peng_zou_f806f0ca300e4449/debugging-tesla-paint-shop-uv-placement-with-a-labeled-grid-43mg",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 03:02:04 +0000",
-      "summary": "A wrap PNG can decode correctly and still place a logo across a door seam or turn lettering sideways. File validation cannot tell you which part of a flat image lands on the hood. A labeled UV grid is",
-      "score": 5,
-      "titleZh": "Debugging Tesla Paint Shop UV placement with a labeled grid"
-    },
-    {
-      "title": "Beyond the 'Golden Ratio': How Modern Computer Vision Analyzes Facial Proportions",
-      "link": "https://dev.to/chang_zhong_2c82ccf7fb888/beyond-the-golden-ratio-how-modern-computer-vision-analyzes-facial-proportions-1g0j",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 03:01:23 +0000",
-      "summary": "When building appearance or aesthetic measurement tools, the default pop-science temptation is to cite the ancient \"Golden Ratio\" (Phi ≈ 1.618) as a universal truth. However, anyone who has worked wit",
-      "score": 5,
-      "titleZh": "Beyond the 'Golden Ratio': How Modern Computer Vision Analyzes Facial Proportions"
-    },
-    {
-      "title": "..",
-      "link": "https://dev.to/angelinacruzpro/-d8k",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 03:00:28 +0000",
-      "summary": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fandytmc",
-      "score": 5,
-      "titleZh": ".."
-    },
-    {
-      "title": "주소모음 서비스를 만들면서 사이트 탐색 UX를 단순화한 방법",
-      "link": "https://dev.to/mraustinblake/jusomoeum-seobiseureul-mandeulmyeonseo-saiteu-tamsaeg-uxreul-dansunhwahan-bangbeob-i3g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 02:59:52 +0000",
-      "summary": "주소모음 서비스를 만들면서 사이트 탐색 UX를 단순화한 방법 웹사이트를 만들 때 처음에는 콘텐츠가 많을수록 사용자에게 도움이 될 거라고 생각했습니다. 그래서 다양한 사이트를 한 화면에 최대한 많이 보여주려고 했습니다. 그런데 실제로 운영하면서 반대 문제가 생겼습니다. 사이트가 많아질수록 사용자는 선택하기 어려워졌고, 원하는 사이트를 찾으려면 화면을 계속 내",
-      "score": 5,
-      "titleZh": "주소모음 서비스를 만들면서 사이트 탐색 UX를 단순화한 방법"
-    },
-    {
-      "title": "I built an AI resume screener where every score has reasons",
-      "link": "https://dev.to/bohdan_shymov/i-built-an-ai-resume-screener-where-every-score-has-reasons-2a71",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 21 Oct 2026 02:54:58 +0000",
-      "summary": "I'm a solo developer, and I built an AI resume screener where every score comes with reasons. Here are the engineering decisions that mattered, including a few I got wrong at first. The tool is called",
-      "score": 5,
-      "titleZh": "I built an AI resume screener where every score has reasons"
+      "titleZh": "建立可持续反向链接配置文件的实用指南"
     }
   ]
 }
