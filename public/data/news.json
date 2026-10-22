@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-21T14:51:18.824Z",
-  "date": "2026-10-21",
+  "updated": "2026-10-22T03:19:49.596Z",
+  "date": "2026-10-22",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "link": "https://www.wiz.io/blog/php2shell-php-rce",
-      "source": "HN·AI",
+      "title": "Noun-verb-conjunction triads [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 21 Oct 2026 13:43:19 +0000",
-      "summary": "Article URL: https://www.wiz.io/blog/php2shell-php-rce Comments URL: https://news.ycombinator.com/item?id=50180836",
-      "score": 145,
-      "titleZh": "PHP2Shell：AI 发现 PHP 中的关键 RCE"
+      "date": "2026-10-21T17:44:08.000Z",
+      "summary": "The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one con",
+      "score": 40,
+      "titleZh": "Noun-verb-conjunction triads [D]"
     },
     {
       "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
@@ -27,31 +27,7 @@
       "date": "2026-10-21T10:09:55.000Z",
       "summary": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cel",
       "score": 40,
-      "titleZh": "模拟模拟交叉开关中的很少读取故障定位：稀疏恢复解码器与读取每个单元（带有失败的声明）[R]"
-    },
-    {
-      "title": "A 34-point win for my memristor-crossbar repair method came from an unfair baseline; tuned, step-matched baselines removed it [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbj5i0/a_34point_win_for_my_memristorcrossbar_repair/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-21T10:08:11.000Z",
-      "summary": "TL;DR (a confession): I was ready to celebrate a big win. Then I tuned the rival. I built a repair controller for memristor crossbars with stuck cells. At first it led a rival by 34.0 points. After I ",
-      "score": 40,
-      "titleZh": "我的忆阻器横杆修复方法获得 34 分的胜利来自于不公平的基线；调整后的、步进匹配的基线将其删除[R]"
-    },
-    {
-      "title": "Need access to TPUs for ML mapping project [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbhyq1/need_access_to_tpus_for_ml_mapping_project_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-21T08:54:53.000Z",
-      "summary": "I am working on a project where I am building a analytical mapping/compilation tool for transformer workloads into hardware platforms that have software managed scratchpads. I got hold of a few chips ",
-      "score": 40,
-      "titleZh": "需要访问 TPU 来进行 ML 映射项目 [R]"
+      "titleZh": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]"
     },
     {
       "title": "Will our paper be removed from EMNLP because of no-show? [D]",
@@ -63,7 +39,19 @@
       "date": "2026-10-21T01:13:32.000Z",
       "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer pos",
       "score": 40,
-      "titleZh": "我们的论文会因为缺席而被 EMNLP 删除吗？ [D]"
+      "titleZh": "Will our paper be removed from EMNLP because of no-show? [D]"
+    },
+    {
+      "title": "When eight systems share a benchmark top score, what should the table show?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-20T17:47:15.000Z",
+      "summary": "I have been thinking about how result tables get read when the interesting part is how close everyone is. The Agent Memory Leaderboard's public board from August is a nice case. On the Cycle 1 coding ",
+      "score": 40,
+      "titleZh": "When eight systems share a benchmark top score, what should the table show?[D]"
     },
     {
       "title": "Regarding CVPR 2027 Submission [D]",
@@ -75,7 +63,7 @@
       "date": "2026-10-20T12:49:39.000Z",
       "summary": "Does anyone have the author kit for CVPR 2027? The official website doesn't seem to have it yet, unlike in previous years. Please correct me if I'm wrong. submitted by /u/Maleficent_Reply_471 [link] [",
       "score": 40,
-      "titleZh": "关于CVPR 2027提交[D]"
+      "titleZh": "Regarding CVPR 2027 Submission [D]"
     },
     {
       "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
@@ -87,7 +75,7 @@
       "date": "2026-10-20T10:00:43.000Z",
       "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation. I need to la",
       "score": 40,
-      "titleZh": "准确注释 500 张图像以微调 Meta DETR 的最佳方法？[P]"
+      "titleZh": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -99,7 +87,7 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -111,139 +99,151 @@
       "date": "2026-10-01T02:30:09.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "link": "https://layerfs.ai/",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "link": "https://github.com/omnara-ai/omnara",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 21 Oct 2026 12:34:46 +0000",
-      "summary": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857",
-      "score": 37,
-      "titleZh": "LayerFS：AI 编码代理的文件系统"
+      "date": "Wed, 21 Oct 2026 16:44:53 +0000",
+      "summary": "Hey all, Kartik from Omnara (https://omnara.com) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the age",
+      "score": 28,
+      "titleZh": "Show HN: Omnara – Open-source alternative to Claude Managed Agents"
     },
     {
-      "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
-      "link": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
-      "source": "Reddit Prog",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 21 Oct 2026 04:27:51 +0000",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082",
+      "score": 14,
+      "titleZh": "Using LLM for confidence scoring is a bad idea"
+    },
+    {
+      "title": "How to Test Multipart File Uploads & Cloud Storage CDN in React Without an S3 Bucket",
+      "link": "https://dev.to/nileslabs/how-to-test-multipart-file-uploads-cloud-storage-cdn-in-react-without-an-s3-bucket-4mi8",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "2026-10-21T14:03:22.000Z",
-      "summary": "submitted by /u/sagitz_ [link] [comments]",
-      "score": 40,
-      "titleZh": "PHP2Shell：网络主干中的严重漏洞"
+      "date": "Thu, 22 Oct 2026 03:15:00 +0000",
+      "summary": "Building drag-and-drop file upload interfaces in React often hits a major hurdle during development: where do the files actually go? Setting up AWS S3 pre-signed URLs or Cloudinary credentials just to",
+      "score": 5,
+      "titleZh": "How to Test Multipart File Uploads & Cloud Storage CDN in React Without an S3 Bucket"
     },
     {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "link": "https://www.reddit.com/r/programming/comments/1xbl8y1/eight_bits_of_trust_emudhras_ca_keys_cracked_in/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-21T12:01:54.000Z",
-      "summary": "submitted by /u/Dear-Economics-315 [link] [comments]",
-      "score": 40,
-      "titleZh": "八位信任； eMudhra 的 CA 密钥在几毫秒内被破解"
-    },
-    {
-      "title": "Critical Vulnerabilities in PHP",
-      "link": "https://www.reddit.com/r/programming/comments/1xbcv7y/critical_vulnerabilities_in_php/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-21T03:48:54.000Z",
-      "summary": "submitted by /u/LordAlfredo [link] [comments]",
-      "score": 40,
-      "titleZh": "PHP 中的严重漏洞"
-    },
-    {
-      "title": "C vs C#: racing VLC's Gaussian blur",
-      "link": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-21T02:43:02.000Z",
-      "summary": "submitted by /u/mtz94 [link] [comments]",
-      "score": 40,
-      "titleZh": "C 与 C#：竞赛 VLC 的高斯模糊"
-    },
-    {
-      "title": "Make yourself replaceable",
-      "link": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-20T23:42:16.000Z",
-      "summary": "submitted by /u/maroun-baydoun [link] [comments]",
-      "score": 40,
-      "titleZh": "让自己成为可替代的人"
-    },
-    {
-      "title": "eMudhra Intermediate CA Compromise",
-      "link": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-20T20:21:30.000Z",
-      "summary": "submitted by /u/the_gnarts [link] [comments]",
-      "score": 40,
-      "titleZh": "eMudhra 中级 CA 妥协"
-    },
-    {
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-20T12:58:00.000Z",
-      "summary": "submitted by /u/359Panda3U [link] [comments]",
-      "score": 40,
-      "titleZh": "Go 发布紧急更新，因未公开的安全问题阻止 8 个 CA 密钥"
-    },
-    {
-      "title": "SSH keys on macOS with Touch ID",
-      "link": "https://www.reddit.com/r/programming/comments/1xaqyzu/ssh_keys_on_macos_with_touch_id/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-20T12:35:52.000Z",
-      "summary": "I've recently discovered that you can use Touch ID (rather, the Mac's Secure Enclave) for SSH authentication. I'm the author of the post, feel free to ask any questions and if there are any experts I'",
-      "score": 40,
-      "titleZh": "macOS 上带 Touch ID 的 SSH 密钥"
-    },
-    {
-      "title": "Days to Hours: Free Online Days to Hours Converter — How-To Guide",
-      "link": "https://dev.to/layoffatlas/days-to-hours-free-online-days-to-hours-converter-how-to-guide-4nh1",
+      "title": "Slope Intercept Form Calculator: A Convenient Tool for Solving Linear Equations",
+      "link": "https://dev.to/sergiomoran/slope-intercept-form-calculator-a-convenient-tool-for-solving-linear-equations-2pn0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 21 Oct 2026 14:50:35 +0000",
-      "summary": "Days to Hours: Free Online Days to Hours Converter — How-To Guide Try it free: Days to Hours How many hours is 2.5 days? One day is 24 hours, but quick conversions get awkward with fractions — 3.75 da",
+      "date": "Thu, 22 Oct 2026 03:13:39 +0000",
+      "summary": "A Slope Intercept Form Calculator is a practical online tool that helps users find and understand the equation of a straight line. It is particularly useful for students, teachers, and anyone who want",
       "score": 5,
-      "titleZh": "天到小时：免费在线天到小时转换器 — 操作指南"
+      "titleZh": "Slope Intercept Form Calculator: A Convenient Tool for Solving Linear Equations"
     },
     {
-      "title": "A Practical Guide to Building a Sustainable Backlink Profile",
-      "link": "https://dev.to/yalla_jetski/a-practical-guide-to-building-a-sustainable-backlink-profile-26bf",
+      "title": "Lo que la API de Tiempo en pantalla de iOS puede y no puede hacer, y las tres formas que quedan para esconder los Reels",
+      "link": "https://dev.to/ayumu_kitabayashi_8e0de96/lo-que-la-api-de-tiempo-en-pantalla-de-ios-puede-y-no-puede-hacer-y-las-tres-formas-que-quedan-33h2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 21 Oct 2026 14:49:05 +0000",
-      "summary": "A website can publish useful content and provide a good user experience yet still struggle to gain visibility in competitive search results. One reason may be that other relevant websites have not dis",
+      "date": "Thu, 22 Oct 2026 02:55:28 +0000",
+      "summary": "Hola. Me llamo Ayumu Kitabayashi, vivo en Japón y desarrollo por mi cuenta minulo, una app para iPhone que oculta los Reels de Instagram, los Shorts de YouTube y la pestaña \"Para ti\" de TikTok, sin to",
       "score": 5,
-      "titleZh": "建立可持续反向链接配置文件的实用指南"
+      "titleZh": "Lo que la API de Tiempo en pantalla de iOS puede y no puede hacer, y las tres formas que quedan para esconder los Reels"
+    },
+    {
+      "title": "Esconder os Reels no iPhone com Expo: três caminhos (content blocker, extensão do Safari ou WebView) e o que cada um custa",
+      "link": "https://dev.to/ayumu_kitabayashi_8e0de96/esconder-os-reels-no-iphone-com-expo-tres-caminhos-content-blocker-extensao-do-safari-ou-h07",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:54:57 +0000",
+      "summary": "Oi, pessoal. Eu sou o Ayumu Kitabayashi, do Japão, e desenvolvo sozinho o minulo, um app de iPhone que tira da tela os Reels do Instagram, os Shorts do YouTube e o \"Para você\" do TikTok, mas deixa as ",
+      "score": 5,
+      "titleZh": "Esconder os Reels no iPhone com Expo: três caminhos (content blocker, extensão do Safari ou WebView) e o que cada um custa"
+    },
+    {
+      "title": "FigCraft Auto Layout: a flexible UI card that survives narrow widths",
+      "link": "https://dev.to/craftappsguide/figcraft-auto-layout-a-flexible-ui-card-that-survives-narrow-widths-19kj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:54:55 +0000",
+      "summary": "This is a condensed walkthrough of a layout test documented on Craft Apps Guide, an independent guide to ArtCraft apps. The example was checked with official FigCraft 0.7.0 on macOS 27.0.1 (Apple Sili",
+      "score": 5,
+      "titleZh": "FigCraft Auto Layout: a flexible UI card that survives narrow widths"
+    },
+    {
+      "title": "NAP Consistency Is a Data Integrity Problem, So Treat It Like One",
+      "link": "https://dev.to/housecallseo/nap-consistency-is-a-data-integrity-problem-so-treat-it-like-one-2f3m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:52:52 +0000",
+      "summary": "Name, Address, Phone. Three strings. Local SEO treats them as a ranking factor; developers should treat them as a distributed-systems consistency bug. Your business data is replicated across dozens of",
+      "score": 5,
+      "titleZh": "NAP Consistency Is a Data Integrity Problem, So Treat It Like One"
+    },
+    {
+      "title": "Sub-circuits by flattening: path ids, pins by position, and the bug I found while writing this",
+      "link": "https://dev.to/den0011/sub-circuits-by-flattening-path-ids-pins-by-position-and-the-bug-i-found-while-writing-this-10af",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:52:32 +0000",
+      "summary": "In the roadmap post Boolflow is a free browser logic simulator. A block is a flatten.js (108 lines, comments included) and the blockLibrary.js (172). Both are plain JavaScript with node. A block is an",
+      "score": 5,
+      "titleZh": "Sub-circuits by flattening: path ids, pins by position, and the bug I found while writing this"
+    },
+    {
+      "title": "Why We Built an Automated Expense Tracking Flow for SaaS & Dev Tools in 2026",
+      "link": "https://dev.to/jojo_willnn_/why-we-built-an-automated-expense-tracking-flow-for-saas-dev-tools-in-2026-190",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:51:02 +0000",
+      "summary": "If you're anything like me, your monthly tech subscriptions have probably spiraled out of control. Between cloud instances, API credits, LLM tokens, and dev productivity apps, tracking software spend ",
+      "score": 5,
+      "titleZh": "Why We Built an Automated Expense Tracking Flow for SaaS & Dev Tools in 2026"
+    },
+    {
+      "title": "Fixing Serverless Timeout Spikes in Next.js When Fetching YouTube Creator Metrics",
+      "link": "https://dev.to/aditya_ekka_f78d1e636c5fe/fixing-serverless-timeout-spikes-in-nextjs-when-fetching-youtube-creator-metrics-56g8",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:45:55 +0000",
+      "summary": "The Problem Every single time our Vercel cron job hit the YouTube Data API to fetch engagement rates and view counts for an incoming list of creator handles, half of our requests would time out or han",
+      "score": 5,
+      "titleZh": "Fixing Serverless Timeout Spikes in Next.js When Fetching YouTube Creator Metrics"
+    },
+    {
+      "title": "Why 6% isn't 6%: APY vs. nominal rate in JavaScript (and the double-compounding bug)",
+      "link": "https://dev.to/wozo/why-6-isnt-6-apy-vs-nominal-rate-in-javascript-and-the-double-compounding-bug-io4",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 02:43:22 +0000",
+      "summary": "I build small finance calculators that run entirely in the browser. The sneakiest bug in this kind of code isn't floating point. It's feeding the wrong kind of rate into the formula. Here's the short ",
+      "score": 5,
+      "titleZh": "Why 6% isn't 6%: APY vs. nominal rate in JavaScript (and the double-compounding bug)"
     }
   ]
 }
