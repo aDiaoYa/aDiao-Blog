@@ -1,10 +1,70 @@
 {
-  "updated": "2026-10-22T03:19:49.596Z",
+  "updated": "2026-10-22T14:52:36.120Z",
   "date": "2026-10-22",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 21 Oct 2026 19:14:01 +0000",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037",
+      "score": 482,
+      "titleZh": "Claude Duet"
+    },
+    {
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 22 Oct 2026 05:23:11 +0000",
+      "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507",
+      "score": 188,
+      "titleZh": "OpenAI CLI"
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 21 Oct 2026 04:27:51 +0000",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082",
+      "score": 143,
+      "titleZh": "Using LLM for confidence scoring is a bad idea"
+    },
+    {
+      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-22T12:32:56.000Z",
+      "summary": "Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302",
+      "score": 40,
+      "titleZh": "Carbon-X 是一个开放的 14.8B 模型，在 DNA 和文本上联合训练 [R]"
+    },
+    {
+      "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-22T07:10:18.000Z",
+      "summary": "I'm training text2asmr, a text-to-ASMR model (whispering plus trigger sounds like tapping, crinkling, brushing). The generator needs every training clip tagged with the sounds in it, and there are abo",
+      "score": 40,
+      "titleZh": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]"
+    },
     {
       "title": "Noun-verb-conjunction triads [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
@@ -15,7 +75,7 @@
       "date": "2026-10-21T17:44:08.000Z",
       "summary": "The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one con",
       "score": 40,
-      "titleZh": "Noun-verb-conjunction triads [D]"
+      "titleZh": "名词-动词-连词三元组 [D]"
     },
     {
       "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
@@ -39,31 +99,7 @@
       "date": "2026-10-21T01:13:32.000Z",
       "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer pos",
       "score": 40,
-      "titleZh": "Will our paper be removed from EMNLP because of no-show? [D]"
-    },
-    {
-      "title": "When eight systems share a benchmark top score, what should the table show?[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-20T17:47:15.000Z",
-      "summary": "I have been thinking about how result tables get read when the interesting part is how close everyone is. The Agent Memory Leaderboard's public board from August is a nice case. On the Cycle 1 coding ",
-      "score": 40,
-      "titleZh": "When eight systems share a benchmark top score, what should the table show?[D]"
-    },
-    {
-      "title": "Regarding CVPR 2027 Submission [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-20T12:49:39.000Z",
-      "summary": "Does anyone have the author kit for CVPR 2027? The official website doesn't seem to have it yet, unlike in previous years. Please correct me if I'm wrong. submitted by /u/Maleficent_Reply_471 [link] [",
-      "score": 40,
-      "titleZh": "Regarding CVPR 2027 Submission [D]"
+      "titleZh": "我们的论文会因为缺席而被 EMNLP 删除吗？ [D]"
     },
     {
       "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
@@ -87,163 +123,127 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "link": "https://github.com/omnara-ai/omnara",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 21 Oct 2026 16:44:53 +0000",
-      "summary": "Hey all, Kartik from Omnara (https://omnara.com) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the age",
-      "score": 28,
-      "titleZh": "Show HN: Omnara – Open-source alternative to Claude Managed Agents"
-    },
-    {
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 21 Oct 2026 04:27:51 +0000",
-      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082",
-      "score": 14,
-      "titleZh": "Using LLM for confidence scoring is a bad idea"
-    },
-    {
-      "title": "How to Test Multipart File Uploads & Cloud Storage CDN in React Without an S3 Bucket",
-      "link": "https://dev.to/nileslabs/how-to-test-multipart-file-uploads-cloud-storage-cdn-in-react-without-an-s3-bucket-4mi8",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 03:15:00 +0000",
-      "summary": "Building drag-and-drop file upload interfaces in React often hits a major hurdle during development: where do the files actually go? Setting up AWS S3 pre-signed URLs or Cloudinary credentials just to",
-      "score": 5,
-      "titleZh": "How to Test Multipart File Uploads & Cloud Storage CDN in React Without an S3 Bucket"
-    },
-    {
-      "title": "Slope Intercept Form Calculator: A Convenient Tool for Solving Linear Equations",
-      "link": "https://dev.to/sergiomoran/slope-intercept-form-calculator-a-convenient-tool-for-solving-linear-equations-2pn0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 03:13:39 +0000",
-      "summary": "A Slope Intercept Form Calculator is a practical online tool that helps users find and understand the equation of a straight line. It is particularly useful for students, teachers, and anyone who want",
-      "score": 5,
-      "titleZh": "Slope Intercept Form Calculator: A Convenient Tool for Solving Linear Equations"
-    },
-    {
-      "title": "Lo que la API de Tiempo en pantalla de iOS puede y no puede hacer, y las tres formas que quedan para esconder los Reels",
-      "link": "https://dev.to/ayumu_kitabayashi_8e0de96/lo-que-la-api-de-tiempo-en-pantalla-de-ios-puede-y-no-puede-hacer-y-las-tres-formas-que-quedan-33h2",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 02:55:28 +0000",
-      "summary": "Hola. Me llamo Ayumu Kitabayashi, vivo en Japón y desarrollo por mi cuenta minulo, una app para iPhone que oculta los Reels de Instagram, los Shorts de YouTube y la pestaña \"Para ti\" de TikTok, sin to",
-      "score": 5,
-      "titleZh": "Lo que la API de Tiempo en pantalla de iOS puede y no puede hacer, y las tres formas que quedan para esconder los Reels"
-    },
-    {
-      "title": "Esconder os Reels no iPhone com Expo: três caminhos (content blocker, extensão do Safari ou WebView) e o que cada um custa",
-      "link": "https://dev.to/ayumu_kitabayashi_8e0de96/esconder-os-reels-no-iphone-com-expo-tres-caminhos-content-blocker-extensao-do-safari-ou-h07",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 02:54:57 +0000",
-      "summary": "Oi, pessoal. Eu sou o Ayumu Kitabayashi, do Japão, e desenvolvo sozinho o minulo, um app de iPhone que tira da tela os Reels do Instagram, os Shorts do YouTube e o \"Para você\" do TikTok, mas deixa as ",
-      "score": 5,
-      "titleZh": "Esconder os Reels no iPhone com Expo: três caminhos (content blocker, extensão do Safari ou WebView) e o que cada um custa"
-    },
-    {
-      "title": "FigCraft Auto Layout: a flexible UI card that survives narrow widths",
-      "link": "https://dev.to/craftappsguide/figcraft-auto-layout-a-flexible-ui-card-that-survives-narrow-widths-19kj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 02:54:55 +0000",
-      "summary": "This is a condensed walkthrough of a layout test documented on Craft Apps Guide, an independent guide to ArtCraft apps. The example was checked with official FigCraft 0.7.0 on macOS 27.0.1 (Apple Sili",
-      "score": 5,
-      "titleZh": "FigCraft Auto Layout: a flexible UI card that survives narrow widths"
-    },
-    {
-      "title": "NAP Consistency Is a Data Integrity Problem, So Treat It Like One",
-      "link": "https://dev.to/housecallseo/nap-consistency-is-a-data-integrity-problem-so-treat-it-like-one-2f3m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 02:52:52 +0000",
-      "summary": "Name, Address, Phone. Three strings. Local SEO treats them as a ranking factor; developers should treat them as a distributed-systems consistency bug. Your business data is replicated across dozens of",
-      "score": 5,
-      "titleZh": "NAP Consistency Is a Data Integrity Problem, So Treat It Like One"
-    },
-    {
-      "title": "Sub-circuits by flattening: path ids, pins by position, and the bug I found while writing this",
-      "link": "https://dev.to/den0011/sub-circuits-by-flattening-path-ids-pins-by-position-and-the-bug-i-found-while-writing-this-10af",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 02:52:32 +0000",
-      "summary": "In the roadmap post Boolflow is a free browser logic simulator. A block is a flatten.js (108 lines, comments included) and the blockLibrary.js (172). Both are plain JavaScript with node. A block is an",
-      "score": 5,
-      "titleZh": "Sub-circuits by flattening: path ids, pins by position, and the bug I found while writing this"
-    },
-    {
-      "title": "Why We Built an Automated Expense Tracking Flow for SaaS & Dev Tools in 2026",
-      "link": "https://dev.to/jojo_willnn_/why-we-built-an-automated-expense-tracking-flow-for-saas-dev-tools-in-2026-190",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 02:51:02 +0000",
-      "summary": "If you're anything like me, your monthly tech subscriptions have probably spiraled out of control. Between cloud instances, API credits, LLM tokens, and dev productivity apps, tracking software spend ",
-      "score": 5,
-      "titleZh": "Why We Built an Automated Expense Tracking Flow for SaaS & Dev Tools in 2026"
-    },
-    {
-      "title": "Fixing Serverless Timeout Spikes in Next.js When Fetching YouTube Creator Metrics",
-      "link": "https://dev.to/aditya_ekka_f78d1e636c5fe/fixing-serverless-timeout-spikes-in-nextjs-when-fetching-youtube-creator-metrics-56g8",
+      "title": "The redaction you can't see is still in the text layer",
+      "link": "https://dev.to/openedfile/the-redaction-you-cant-see-is-still-in-the-text-layer-3k5b",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 02:45:55 +0000",
-      "summary": "The Problem Every single time our Vercel cron job hit the YouTube Data API to fetch engagement rates and view counts for an incoming list of creator handles, half of our requests would time out or han",
-      "score": 5,
-      "titleZh": "Fixing Serverless Timeout Spikes in Next.js When Fetching YouTube Creator Metrics"
+      "date": "Thu, 22 Oct 2026 13:57:35 +0000",
+      "summary": "You have probably heard this story before: someone \"redacts\" a PDF by drawing black boxes over names, and the names are still there, searchable and copyable, because the box only covers the picture. T",
+      "score": 20,
+      "titleZh": "The redaction you can't see is still in the text layer"
     },
     {
-      "title": "Why 6% isn't 6%: APY vs. nominal rate in JavaScript (and the double-compounding bug)",
-      "link": "https://dev.to/wozo/why-6-isnt-6-apy-vs-nominal-rate-in-javascript-and-the-double-compounding-bug-io4",
-      "source": "Dev.to JS",
+      "title": "PHP 8.2.35, 8.3.36, 8.4.27, 8.5.12: the version table for the 21 Oct 2026 security releases",
+      "link": "https://dev.to/mohammed_samaan_b256ef3f5/php-8235-8336-8427-8512-the-version-table-for-the-21-oct-2026-security-releases-3b4e",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 02:43:22 +0000",
-      "summary": "I build small finance calculators that run entirely in the browser. The sneakiest bug in this kind of code isn't floating point. It's feeding the wrong kind of rate into the formula. Here's the short ",
+      "date": "Thu, 22 Oct 2026 14:50:35 +0000",
+      "summary": "On 21 October 2026 PHP published four releases tagged \"security\": 8.5.12, 8.4.27, 8.3.36 and 8.2.35. They fix two critical remote-code-execution flaws, CVE-2026-109618 and CVE-2026-109619 (the OSV dat",
       "score": 5,
-      "titleZh": "Why 6% isn't 6%: APY vs. nominal rate in JavaScript (and the double-compounding bug)"
+      "titleZh": "PHP 8.2.35、8.3.36、8.4.27、8.5.12：2026 年 10 月 21 日安全版本的版本表"
+    },
+    {
+      "title": "CoinBoss Liquidations: Live Crypto Liquidation Data for Leverage Watchers",
+      "link": "https://dev.to/coinboss/coinboss-liquidations-live-crypto-liquidation-data-for-leverage-watchers-11f",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:50:22 +0000",
+      "summary": "Crypto traders who track forced closures already know the pattern: a sharp move hits thin liquidity, leveraged positions get wiped, and the next wave of orders can amplify the swing. The CoinBoss liqu",
+      "score": 5,
+      "titleZh": "CoinBoss Liquidations: Live Crypto Liquidation Data for Leverage Watchers"
+    },
+    {
+      "title": "Firefox 153 Local Mode: Open Local HTML Files Over HTTPS Without a Server",
+      "link": "https://dev.to/alanwest/firefox-153-local-mode-open-local-html-files-over-https-without-a-server-282b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:50:03 +0000",
+      "summary": "Firefox 153 added Local Mode to DevTools: it maps a folder on your disk to an https:// origin. You don't run npx serve or python -m http.server, and you don't touch mkcert. Open DevTools, point it at ",
+      "score": 5,
+      "titleZh": "Firefox 153本地模式：无需服务器即可通过HTTPS打开本地HTML文件"
+    },
+    {
+      "title": "React.memo in React",
+      "link": "https://dev.to/mahalakshmi_c_48a15c7871b/reactmemo-in-react-2ce1",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:49:45 +0000",
+      "summary": "What is React.memo? React.memo is a higher-order component in React that helps prevent unnecessary re-renders of a functional component when its props have not changed. Normally, when a parent compone",
+      "score": 5,
+      "titleZh": "React.memo in React"
+    },
+    {
+      "title": "The Evolution of the Internet: From ARPANET to AI",
+      "link": "https://dev.to/vincenttommi/the-evolution-of-the-internet-from-arpanet-to-ai-4af5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:48:00 +0000",
+      "summary": "The Internet is one of the most important technological developments in human history. Today, we use it to build software, communicate, learn, shop, and run businesses. But the Internet did not start ",
+      "score": 5,
+      "titleZh": "互联网的演变：从阿帕网到人工智能"
+    },
+    {
+      "title": "How to Introduce AI into Your Projects: A PractBuild Your First MERN Stack Project: A Beginner-Friendly Roadmap from React to MongoDB",
+      "link": "https://dev.to/shubham_goyal_6021ce8f983/how-to-introduce-ai-into-your-projects-a-practbuild-your-first-mern-stack-project-a-3ckb",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:47:28 +0000",
+      "summary": "If you are learning JavaScript and want to become a full stack developer, one of the best ways to improve is to build a complete application. The MERN Stack gives you a practical way to do this using ",
+      "score": 5,
+      "titleZh": "How to Introduce AI into Your Projects: A PractBuild Your First MERN Stack Project: A Beginner-Friendly Roadmap from React to MongoDB"
+    },
+    {
+      "title": "Email Generator: Free Online Test Email Address Maker — How-To Guide",
+      "link": "https://dev.to/layoffatlas/email-generator-free-online-test-email-address-maker-how-to-guide-2f2d",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:46:12 +0000",
+      "summary": "Email Generator: Free Online Test Email Address Maker — How-To Guide Try it free: Email Generator The Email Generator creates realistic test email addresses for prototypes, QA forms, seed files, docum",
+      "score": 5,
+      "titleZh": "电子邮件生成器：免费在线测试电子邮件地址生成器 — 操作指南"
+    },
+    {
+      "title": "A repeatable process for sitemaps and per-page meta that AI crawlers can actually use",
+      "link": "https://dev.to/aumcreate/a-repeatable-process-for-sitemaps-and-per-page-meta-that-ai-crawlers-can-actually-use-4gff",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:45:27 +0000",
+      "summary": "Most \"AI SEO\" advice is about prompts. The unglamorous truth is that an AI crawler has to do five boring things to your site before any of that matters: discover the URL, fetch it, parse the markup, c",
+      "score": 5,
+      "titleZh": "A repeatable process for sitemaps and per-page meta that AI crawlers can actually use"
+    },
+    {
+      "title": "I measured how much 66 shoe panels magnify one upload - and the number changed our file requirements",
+      "link": "https://dev.to/bukestudio/i-measured-how-much-66-shoe-panels-magnify-one-upload-and-the-number-changed-our-file-requirements-g0f",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 22 Oct 2026 14:45:21 +0000",
+      "summary": "People send us a 1200px PNG, it looks crisp in the browser preview, and then the printed shoe comes back with a slightly soft edge on one panel. Not all panels. One. That asymmetry is the interesting ",
+      "score": 5,
+      "titleZh": "我测量了 66 个鞋板可以放大一次上传的效果 - 这个数字改变了我们的文件要求"
     }
   ]
 }
