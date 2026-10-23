@@ -1,45 +1,57 @@
 {
-  "updated": "2026-10-22T14:52:36.120Z",
-  "date": "2026-10-22",
+  "updated": "2026-10-23T03:25:20.275Z",
+  "date": "2026-10-23",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
-      "source": "HN·AI",
+      "title": "Steered QWEN to be more \"evil\" and it started saying the n word, amongst other things [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcvil5/steered_qwen_to_be_more_evil_and_it_started/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 21 Oct 2026 19:14:01 +0000",
-      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037",
-      "score": 482,
-      "titleZh": "Claude Duet"
+      "date": "2026-10-22T21:33:56.000Z",
+      "summary": "Extracted a direction from “evil” versus “kind” persona prompts in Qwen2.5-1.5B-Instruct’s activations and steered the model towards evil submitted by /u/Thatmf482 [link] [comments]",
+      "score": 40,
+      "titleZh": "Steered QWEN to be more \"evil\" and it started saying the n word, amongst other things [P]"
     },
     {
-      "title": "OpenAI CLI",
-      "link": "https://github.com/openai/openai-cli",
-      "source": "HN·AI",
+      "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 22 Oct 2026 05:23:11 +0000",
-      "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507",
-      "score": 188,
-      "titleZh": "OpenAI CLI"
+      "date": "2026-10-22T21:03:28.000Z",
+      "summary": "TL;DR: When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc.) broke on fi",
+      "score": 40,
+      "titleZh": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]"
     },
     {
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "source": "HN·AI",
+      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 21 Oct 2026 04:27:51 +0000",
-      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082",
-      "score": 143,
-      "titleZh": "Using LLM for confidence scoring is a bad idea"
+      "date": "2026-10-22T20:57:42.000Z",
+      "summary": "A while back I posted SteerTTS v1, a small English TTS you steer with numbers (https://huggingface.co/WhissleAI/steer-tts). Today I am releasing the edge variant: https://huggingface.co/WhissleAI/stee",
+      "score": 40,
+      "titleZh": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]"
+    },
+    {
+      "title": "ICLR Text Editor [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-22T18:07:44.000Z",
+      "summary": "Have you looked at this iclr text detector? [https://opentextdetector.com/](https://opentextdetector.com/)) Do you think this will impact the review process? AI detectors are usually unreliable so I h",
+      "score": 40,
+      "titleZh": "ICLR Text Editor [D]"
     },
     {
       "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
@@ -51,7 +63,7 @@
       "date": "2026-10-22T12:32:56.000Z",
       "summary": "Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302",
       "score": 40,
-      "titleZh": "Carbon-X 是一个开放的 14.8B 模型，在 DNA 和文本上联合训练 [R]"
+      "titleZh": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]"
     },
     {
       "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
@@ -66,54 +78,6 @@
       "titleZh": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]"
     },
     {
-      "title": "Noun-verb-conjunction triads [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-21T17:44:08.000Z",
-      "summary": "The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one con",
-      "score": 40,
-      "titleZh": "名词-动词-连词三元组 [D]"
-    },
-    {
-      "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-21T10:09:55.000Z",
-      "summary": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cel",
-      "score": 40,
-      "titleZh": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]"
-    },
-    {
-      "title": "Will our paper be removed from EMNLP because of no-show? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-21T01:13:32.000Z",
-      "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer pos",
-      "score": 40,
-      "titleZh": "我们的论文会因为缺席而被 EMNLP 删除吗？ [D]"
-    },
-    {
-      "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-20T10:00:43.000Z",
-      "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation. I need to la",
-      "score": 40,
-      "titleZh": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
       "source": "Reddit ML",
@@ -123,127 +87,163 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] 自我推销主题"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "The redaction you can't see is still in the text layer",
-      "link": "https://dev.to/openedfile/the-redaction-you-cant-see-is-still-in-the-text-layer-3k5b",
-      "source": "Dev.to TS",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Thu, 22 Oct 2026 13:57:35 +0000",
-      "summary": "You have probably heard this story before: someone \"redacts\" a PDF by drawing black boxes over names, and the names are still there, searchable and copyable, because the box only covers the picture. T",
-      "score": 20,
-      "titleZh": "The redaction you can't see is still in the text layer"
+      "date": "2026-10-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "PHP 8.2.35, 8.3.36, 8.4.27, 8.5.12: the version table for the 21 Oct 2026 security releases",
-      "link": "https://dev.to/mohammed_samaan_b256ef3f5/php-8235-8336-8427-8512-the-version-table-for-the-21-oct-2026-security-releases-3b4e",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 22 Oct 2026 19:00:00 GMT",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "score": 5,
+      "titleZh": "Build more responsive apps with the Decisions API"
+    },
+    {
+      "title": "I Mapped My Entire One-Person Business on One Page — Here's the System",
+      "link": "https://dev.to/tobywater/i-mapped-my-entire-one-person-business-on-one-page-heres-the-system-3lg6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:50:35 +0000",
-      "summary": "On 21 October 2026 PHP published four releases tagged \"security\": 8.5.12, 8.4.27, 8.3.36 and 8.2.35. They fix two critical remote-code-execution flaws, CVE-2026-109618 and CVE-2026-109619 (the OSV dat",
+      "date": "Fri, 23 Oct 2026 03:20:05 +0000",
+      "summary": "I Mapped My Entire One-Person Business on One Page — Here's the System I run a small digital-products store by myself. No servers, no staff, no investors — just me, a stack of free tiers, and a set of",
       "score": 5,
-      "titleZh": "PHP 8.2.35、8.3.36、8.4.27、8.5.12：2026 年 10 月 21 日安全版本的版本表"
+      "titleZh": "I Mapped My Entire One-Person Business on One Page — Here's the System"
     },
     {
-      "title": "CoinBoss Liquidations: Live Crypto Liquidation Data for Leverage Watchers",
-      "link": "https://dev.to/coinboss/coinboss-liquidations-live-crypto-liquidation-data-for-leverage-watchers-11f",
+      "title": "Calculate drawImage crops from the source image dimensions",
+      "link": "https://dev.to/morphio/calculate-drawimage-crops-from-the-source-image-dimensions-472d",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 23 Oct 2026 03:18:29 +0000",
+      "summary": "A crop rectangle passed to drawImage() belongs to the source image. Calculate it from the intrinsic image dimensions, including when CSS makes the preview smaller. Suppose a decoded image has intrinsi",
+      "score": 5,
+      "titleZh": "Calculate drawImage crops from the source image dimensions"
+    },
+    {
+      "title": "FreeTube Web Unofficial",
+      "link": "https://dev.to/diekaiju/freetube-web-unofficial-54b2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:50:22 +0000",
-      "summary": "Crypto traders who track forced closures already know the pattern: a sharp move hits thin liquidity, leveraged positions get wiped, and the next wave of orders can amplify the swing. The CoinBoss liqu",
+      "date": "Fri, 23 Oct 2026 03:16:48 +0000",
+      "summary": "I’ve been working on a small project I’m excited to share: a privacy-focused, serverless YouTube client and browser extension ecosystem powered by FreeTube (Vue 3 client) and NewPipe Extractor compile",
       "score": 5,
-      "titleZh": "CoinBoss Liquidations: Live Crypto Liquidation Data for Leverage Watchers"
+      "titleZh": "FreeTube Web Unofficial"
     },
     {
-      "title": "Firefox 153 Local Mode: Open Local HTML Files Over HTTPS Without a Server",
-      "link": "https://dev.to/alanwest/firefox-153-local-mode-open-local-html-files-over-https-without-a-server-282b",
+      "title": "After 11 Days Frozen, Google Finally Re-read Our Sitemap — and the Indexed Count Went Down",
+      "link": "https://dev.to/lichris/after-11-days-frozen-google-finally-re-read-our-sitemap-and-the-indexed-count-went-down-4cje",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:50:03 +0000",
-      "summary": "Firefox 153 added Local Mode to DevTools: it maps a folder on your disk to an https:// origin. You don't run npx serve or python -m http.server, and you don't touch mkcert. Open DevTools, point it at ",
+      "date": "Fri, 23 Oct 2026 03:15:57 +0000",
+      "summary": "Our indexing coverage number had said the same thing for eleven straight days: 208 pages indexed, 2,270 not, 2,478 known. We kept pushing \"request indexing\" at every session we ran — no movement. This",
       "score": 5,
-      "titleZh": "Firefox 153本地模式：无需服务器即可通过HTTPS打开本地HTML文件"
+      "titleZh": "After 11 Days Frozen, Google Finally Re-read Our Sitemap — and the Indexed Count Went Down"
     },
     {
-      "title": "React.memo in React",
-      "link": "https://dev.to/mahalakshmi_c_48a15c7871b/reactmemo-in-react-2ce1",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 14:49:45 +0000",
-      "summary": "What is React.memo? React.memo is a higher-order component in React that helps prevent unnecessary re-renders of a functional component when its props have not changed. Normally, when a parent compone",
-      "score": 5,
-      "titleZh": "React.memo in React"
-    },
-    {
-      "title": "The Evolution of the Internet: From ARPANET to AI",
-      "link": "https://dev.to/vincenttommi/the-evolution-of-the-internet-from-arpanet-to-ai-4af5",
+      "title": "How to Test Cursor-Based Pagination & Infinite Scroll in React Without a Backend",
+      "link": "https://dev.to/nileslabs/how-to-test-cursor-based-pagination-infinite-scroll-in-react-without-a-backend-mpc",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:48:00 +0000",
-      "summary": "The Internet is one of the most important technological developments in human history. Today, we use it to build software, communicate, learn, shop, and run businesses. But the Internet did not start ",
+      "date": "Fri, 23 Oct 2026 03:15:00 +0000",
+      "summary": "Standard offset-based pagination (?page=2&limit=10) works fine for simple tables, but for modern infinite scroll feeds (Twitter, Instagram, Reddit style), offset pagination fails because: New items in",
       "score": 5,
-      "titleZh": "互联网的演变：从阿帕网到人工智能"
+      "titleZh": "How to Test Cursor-Based Pagination & Infinite Scroll in React Without a Backend"
     },
     {
-      "title": "How to Introduce AI into Your Projects: A PractBuild Your First MERN Stack Project: A Beginner-Friendly Roadmap from React to MongoDB",
-      "link": "https://dev.to/shubham_goyal_6021ce8f983/how-to-introduce-ai-into-your-projects-a-practbuild-your-first-mern-stack-project-a-3ckb",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 22 Oct 2026 14:47:28 +0000",
-      "summary": "If you are learning JavaScript and want to become a full stack developer, one of the best ways to improve is to build a complete application. The MERN Stack gives you a practical way to do this using ",
-      "score": 5,
-      "titleZh": "How to Introduce AI into Your Projects: A PractBuild Your First MERN Stack Project: A Beginner-Friendly Roadmap from React to MongoDB"
-    },
-    {
-      "title": "Email Generator: Free Online Test Email Address Maker — How-To Guide",
-      "link": "https://dev.to/layoffatlas/email-generator-free-online-test-email-address-maker-how-to-guide-2f2d",
+      "title": "Exploring Open-Source AI with Backboard and Render for Hacktoberfest 2026!",
+      "link": "https://dev.to/yizhe_lim_6afa86be2c5c34d/exploring-open-source-ai-with-backboard-and-render-for-hacktoberfest-2026-4jij",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:46:12 +0000",
-      "summary": "Email Generator: Free Online Test Email Address Maker — How-To Guide Try it free: Email Generator The Email Generator creates realistic test email addresses for prototypes, QA forms, seed files, docum",
+      "date": "Fri, 23 Oct 2026 03:14:28 +0000",
+      "summary": "Hello tech community! import asyncio async def main(): # Send a message — thread and assistant are auto-created response = await client.send_message( \"Hello! I'm excited to get started.\", memory=\"Auto",
       "score": 5,
-      "titleZh": "电子邮件生成器：免费在线测试电子邮件地址生成器 — 操作指南"
+      "titleZh": "Exploring Open-Source AI with Backboard and Render for Hacktoberfest 2026!"
     },
     {
-      "title": "A repeatable process for sitemaps and per-page meta that AI crawlers can actually use",
-      "link": "https://dev.to/aumcreate/a-repeatable-process-for-sitemaps-and-per-page-meta-that-ai-crawlers-can-actually-use-4gff",
+      "title": "My Expo web demos showed a blank page on slow networks. Here's what fixed it",
+      "link": "https://dev.to/migrant620/my-expo-web-demos-showed-a-blank-page-on-slow-networks-heres-what-fixed-it-4ffa",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 23 Oct 2026 03:10:08 +0000",
+      "summary": "I have six app UI clones (Airbnb, Threads, Luma, Suno, Tiimo, Structured) built with React Native + Expo and published as static web demos. On a good connection they open instantly. On a throttled 40 ",
+      "score": 5,
+      "titleZh": "My Expo web demos showed a blank page on slow networks. Here's what fixed it"
+    },
+    {
+      "title": "PHP2Shell: How AI-Assisted Research Is Changing Cybersecurity",
+      "link": "https://dev.to/pratik_12b3f8bf3b50e48bae/php2shell-how-ai-assisted-research-is-changing-cybersecurity-4omc",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:45:27 +0000",
-      "summary": "Most \"AI SEO\" advice is about prompts. The unglamorous truth is that an AI crawler has to do five boring things to your site before any of that matters: discover the URL, fetch it, parse the markup, c",
+      "date": "Fri, 23 Oct 2026 03:09:55 +0000",
+      "summary": "What every developer should know about AI-assisted vulnerability discovery, secure coding, and responsible disclosure. Introduction AI is changing how we build software. Developers use AI tools to gen",
       "score": 5,
-      "titleZh": "A repeatable process for sitemaps and per-page meta that AI crawlers can actually use"
+      "titleZh": "PHP2Shell: How AI-Assisted Research Is Changing Cybersecurity"
     },
     {
-      "title": "I measured how much 66 shoe panels magnify one upload - and the number changed our file requirements",
-      "link": "https://dev.to/bukestudio/i-measured-how-much-66-shoe-panels-magnify-one-upload-and-the-number-changed-our-file-requirements-g0f",
-      "source": "Dev.to WebDev",
+      "title": "How to Decide If a WAF Can Sit in Front of Next.js",
+      "link": "https://dev.to/_eb0609572b9efcf27472066/how-to-decide-if-a-waf-can-sit-in-front-of-nextjs-3kf1",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 22 Oct 2026 14:45:21 +0000",
-      "summary": "People send us a 1200px PNG, it looks crisp in the browser preview, and then the printed shoe comes back with a slightly soft edge on one panel. Not all panels. One. That asymmetry is the interesting ",
+      "date": "Fri, 23 Oct 2026 03:06:36 +0000",
+      "summary": "Protecting a Next.js app with a WAF starts with a placement decision, not a framework plugin. The SafeLine guides never mention Next.js, the App Router, the Pages Router, middleware, Server Actions, o",
       "score": 5,
-      "titleZh": "我测量了 66 个鞋板可以放大一次上传的效果 - 这个数字改变了我们的文件要求"
+      "titleZh": "How to Decide If a WAF Can Sit in Front of Next.js"
+    },
+    {
+      "title": "How to Protect a Next.js App with a WAF Before DNS Cutover",
+      "link": "https://dev.to/lialiago/how-to-protect-a-nextjs-app-with-a-waf-before-dns-cutover-2dg4",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 23 Oct 2026 03:06:35 +0000",
+      "summary": "A Next.js app is still a web application. Pages, Route Handlers, and server actions are reached over HTTP or HTTPS, which is the traffic a web application firewall is built to inspect. The official Sa",
+      "score": 5,
+      "titleZh": "How to Protect a Next.js App with a WAF Before DNS Cutover"
     }
   ]
 }
