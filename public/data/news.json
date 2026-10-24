@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-23T03:25:20.275Z",
-  "date": "2026-10-23",
+  "updated": "2026-10-24T03:19:21.661Z",
+  "date": "2026-10-24",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Steered QWEN to be more \"evil\" and it started saying the n word, amongst other things [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcvil5/steered_qwen_to_be_more_evil_and_it_started/",
+      "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-22T21:33:56.000Z",
-      "summary": "Extracted a direction from “evil” versus “kind” persona prompts in Qwen2.5-1.5B-Instruct’s activations and steered the model towards evil submitted by /u/Thatmf482 [link] [comments]",
+      "date": "2026-10-23T20:39:06.000Z",
+      "summary": "Long-context models can now handle hundreds of thousands, even millions of tokens. But I've been wondering if we're focusing too much on recall and not enough on what happens when information changes.",
       "score": 40,
-      "titleZh": "Steered QWEN to be more \"evil\" and it started saying the n word, amongst other things [P]"
+      "titleZh": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]"
     },
     {
-      "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
+      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-22T21:03:28.000Z",
-      "summary": "TL;DR: When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc.) broke on fi",
+      "date": "2026-10-23T15:37:23.000Z",
+      "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning ",
       "score": 40,
-      "titleZh": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]"
+      "titleZh": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits"
     },
     {
-      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+      "title": "Is symbolic ai dead? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-22T20:57:42.000Z",
-      "summary": "A while back I posted SteerTTS v1, a small English TTS you steer with numbers (https://huggingface.co/WhissleAI/steer-tts). Today I am releasing the edge variant: https://huggingface.co/WhissleAI/stee",
+      "date": "2026-10-23T13:49:16.000Z",
+      "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it",
       "score": 40,
-      "titleZh": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]"
+      "titleZh": "Is symbolic ai dead? [D]"
     },
     {
-      "title": "ICLR Text Editor [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
+      "title": "AAAI 2027 phase 2 reviews discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-22T18:07:44.000Z",
-      "summary": "Have you looked at this iclr text detector? [https://opentextdetector.com/](https://opentextdetector.com/)) Do you think this will impact the review process? AI detectors are usually unreliable so I h",
+      "date": "2026-10-23T12:58:18.000Z",
+      "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews! submitted by /u/Away-Cattle7081",
       "score": 40,
-      "titleZh": "ICLR Text Editor [D]"
+      "titleZh": "AAAI 2027 phase 2 reviews discussion [D]"
     },
     {
-      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+      "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-22T12:32:56.000Z",
-      "summary": "Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302",
+      "date": "2026-10-23T11:51:47.000Z",
+      "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv ",
       "score": 40,
-      "titleZh": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]"
+      "titleZh": "How does arXiv prepublishing work with ICLR's double-blind review? [R]"
     },
     {
-      "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+      "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-22T07:10:18.000Z",
-      "summary": "I'm training text2asmr, a text-to-ASMR model (whispering plus trigger sounds like tapping, crinkling, brushing). The generator needs every training clip tagged with the sounds in it, and there are abo",
+      "date": "2026-10-23T07:24:12.000Z",
+      "summary": "I've been learning how language models work, especially next-token prediction, and came across this paper on Next-Concept Modeling (NCM). The interesting part is how it generates text. Instead of pred",
       "score": 40,
-      "titleZh": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]"
+      "titleZh": "I just came across Next-Concept Modeling and the idea is fascinating[R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 22 Oct 2026 22:24:34 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 22 Oct 2026 19:00:00 GMT",
-      "summary": "Fast, focused, low-cost decisions for any application.",
+      "date": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
       "score": 5,
-      "titleZh": "Build more responsive apps with the Decisions API"
+      "titleZh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
     },
     {
-      "title": "I Mapped My Entire One-Person Business on One Page — Here's the System",
-      "link": "https://dev.to/tobywater/i-mapped-my-entire-one-person-business-on-one-page-heres-the-system-3lg6",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+    },
+    {
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "link": "https://swurf.org/",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 23 Oct 2026 06:54:52 +0000",
+      "summary": "Hello HN, Swurf allows you to swipe through the real web one page after another. It learns what you like and doesn’t show you the same page twice. The idea came naturally: there’s a seemingly infinite",
+      "score": 63,
+      "titleZh": "Show HN: Swurf – Swipe through the real web"
+    },
+    {
+      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+      "link": "https://rune.build/blog/rune-1-3-release",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 23 Oct 2026 19:42:01 +0000",
+      "summary": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325",
+      "score": 41,
+      "titleZh": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501"
+    },
+    {
+      "title": "Your Next User Is an Agent (100 Days of AI, Day 8)",
+      "link": "https://dev.to/karan047/your-next-user-is-an-agent-100-days-of-ai-day-8-4b67",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:20:05 +0000",
-      "summary": "I Mapped My Entire One-Person Business on One Page — Here's the System I run a small digital-products store by myself. No servers, no staff, no investors — just me, a stack of free tiers, and a set of",
+      "date": "Sat, 24 Oct 2026 03:09:13 +0000",
+      "summary": "Last night I co-hosted a workshop for small business owners in Toronto. While I was still in the room, I sent a few photos from my phone to my personal agent, Muse. Minutes later those photos were pub",
       "score": 5,
-      "titleZh": "I Mapped My Entire One-Person Business on One Page — Here's the System"
+      "titleZh": "Your Next User Is an Agent (100 Days of AI, Day 8)"
     },
     {
-      "title": "Calculate drawImage crops from the source image dimensions",
-      "link": "https://dev.to/morphio/calculate-drawimage-crops-from-the-source-image-dimensions-472d",
+      "title": "Making a Bulin 47 AI Video That Actually Looks Like You: What We Learned With Seedance 2.5",
+      "link": "https://dev.to/_60c801781dcabc6899088/making-a-bulin-47-ai-video-that-actually-looks-like-you-what-we-learned-with-seedance-25-2573",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 24 Oct 2026 03:04:03 +0000",
+      "summary": "If you have been on TikTok or Reels this October, you have seen the Bulin 47 clip: the Dominican artist Bulin 47 improvising a dembow freestyle on a street in Spain while Kevin Wai holds a portable sp",
+      "score": 5,
+      "titleZh": "Making a Bulin 47 AI Video That Actually Looks Like You: What We Learned With Seedance 2.5"
+    },
+    {
+      "title": "Building sentence-level alignment for bilingual audio",
+      "link": "https://dev.to/zxm9988/building-sentence-level-alignment-for-bilingual-audio-52jn",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:18:29 +0000",
-      "summary": "A crop rectangle passed to drawImage() belongs to the source image. Calculate it from the intrinsic image dimensions, including when CSS makes the preview smaller. Suppose a decoded image has intrinsi",
+      "date": "Sat, 24 Oct 2026 03:03:39 +0000",
+      "summary": "Most language-learning apps assume a text-first workflow: paste a paragraph, translate it, then generate audio. A harder and more useful case starts with two real recordings: the same story, lesson, o",
       "score": 5,
-      "titleZh": "Calculate drawImage crops from the source image dimensions"
+      "titleZh": "Building sentence-level alignment for bilingual audio"
     },
     {
-      "title": "FreeTube Web Unofficial",
-      "link": "https://dev.to/diekaiju/freetube-web-unofficial-54b2",
+      "title": "DigiDiksha|Digital Marketing Services for Business Growth",
+      "link": "https://dev.to/diksha_shukla_5232b2e5de1/digidikshadigital-marketing-services-for-business-growth-jpn",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:16:48 +0000",
-      "summary": "I’ve been working on a small project I’m excited to share: a privacy-focused, serverless YouTube client and browser extension ecosystem powered by FreeTube (Vue 3 client) and NewPipe Extractor compile",
+      "date": "Sat, 24 Oct 2026 03:02:50 +0000",
+      "summary": "Grow Faster. Rank Higher. Sell Smarter. Welcome to Digidiksha.info — where ideas turn into digital success and brands grow with purpose. We are a modern digital marketing agency dedicated to helping b",
       "score": 5,
-      "titleZh": "FreeTube Web Unofficial"
+      "titleZh": "DigiDiksha|Digital Marketing Services for Business Growth"
     },
     {
-      "title": "After 11 Days Frozen, Google Finally Re-read Our Sitemap — and the Indexed Count Went Down",
-      "link": "https://dev.to/lichris/after-11-days-frozen-google-finally-re-read-our-sitemap-and-the-indexed-count-went-down-4cje",
+      "title": "Hardening Enterprise SSO with Keycloak: SAML 2.0, OAuth2 PKCE, and Zero-Trust RBAC",
+      "link": "https://dev.to/hostingpodium/hardening-enterprise-sso-with-keycloak-saml-20-oauth2-pkce-and-zero-trust-rbac-4gp8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:15:57 +0000",
-      "summary": "Our indexing coverage number had said the same thing for eleven straight days: 208 pages indexed, 2,270 not, 2,478 known. We kept pushing \"request indexing\" at every session we ran — no movement. This",
+      "date": "Sat, 24 Oct 2026 03:02:13 +0000",
+      "summary": "Originally published on the HostingPodium Enterprise Engineering Blog. Free SRE & Developer Diagnostics: Test your stack live with our Free Website Speed Test & Core Web Vitals Checker, Free Website S",
       "score": 5,
-      "titleZh": "After 11 Days Frozen, Google Finally Re-read Our Sitemap — and the Indexed Count Went Down"
+      "titleZh": "Hardening Enterprise SSO with Keycloak: SAML 2.0, OAuth2 PKCE, and Zero-Trust RBAC"
     },
     {
-      "title": "How to Test Cursor-Based Pagination & Infinite Scroll in React Without a Backend",
-      "link": "https://dev.to/nileslabs/how-to-test-cursor-based-pagination-infinite-scroll-in-react-without-a-backend-mpc",
+      "title": "Scaling Multilingual Search: Our FastAPI + PostgreSQL Architecture for Translating Books",
+      "link": "https://dev.to/jacob_gong/scaling-multilingual-search-our-fastapi-postgresql-architecture-for-translating-books-ijj",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:15:00 +0000",
-      "summary": "Standard offset-based pagination (?page=2&limit=10) works fine for simple tables, but for modern infinite scroll feeds (Twitter, Instagram, Reddit style), offset pagination fails because: New items in",
+      "date": "Sat, 24 Oct 2026 03:01:07 +0000",
+      "summary": "How we built a multilingual book platform with FastAPI and PostgreSQL's full-text search to handle translations in multiple languages. When we started building LectuLibre, an AI-powered book translati",
       "score": 5,
-      "titleZh": "How to Test Cursor-Based Pagination & Infinite Scroll in React Without a Backend"
+      "titleZh": "Scaling Multilingual Search: Our FastAPI + PostgreSQL Architecture for Translating Books"
     },
     {
-      "title": "Exploring Open-Source AI with Backboard and Render for Hacktoberfest 2026!",
-      "link": "https://dev.to/yizhe_lim_6afa86be2c5c34d/exploring-open-source-ai-with-backboard-and-render-for-hacktoberfest-2026-4jij",
+      "title": "DEV·TV now runs real ads, and the first one is mine",
+      "link": "https://dev.to/shouvik12/devtv-now-runs-real-ads-and-the-first-one-is-mine-2gbg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:14:28 +0000",
-      "summary": "Hello tech community! import asyncio async def main(): # Send a message — thread and assistant are auto-created response = await client.send_message( \"Hello! I'm excited to get started.\", memory=\"Auto",
+      "date": "Sat, 24 Oct 2026 03:00:52 +0000",
+      "summary": "If you've left DEV·TV running on autopilot, you've probably sat through a commercial break. Static, then a full-screen ad for something that doesn't exist: Off-By-One Pizza (order 10 slices, get 9, or",
       "score": 5,
-      "titleZh": "Exploring Open-Source AI with Backboard and Render for Hacktoberfest 2026!"
+      "titleZh": "DEV·TV now runs real ads, and the first one is mine"
     },
     {
-      "title": "My Expo web demos showed a blank page on slow networks. Here's what fixed it",
-      "link": "https://dev.to/migrant620/my-expo-web-demos-showed-a-blank-page-on-slow-networks-heres-what-fixed-it-4ffa",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 23 Oct 2026 03:10:08 +0000",
-      "summary": "I have six app UI clones (Airbnb, Threads, Luma, Suno, Tiimo, Structured) built with React Native + Expo and published as static web demos. On a good connection they open instantly. On a throttled 40 ",
-      "score": 5,
-      "titleZh": "My Expo web demos showed a blank page on slow networks. Here's what fixed it"
-    },
-    {
-      "title": "PHP2Shell: How AI-Assisted Research Is Changing Cybersecurity",
-      "link": "https://dev.to/pratik_12b3f8bf3b50e48bae/php2shell-how-ai-assisted-research-is-changing-cybersecurity-4omc",
+      "title": "I Typed Four Sentences Into the USB Coding Expert Demo. I Got Back a Solidity Contract on the Python Tab",
+      "link": "https://dev.to/reggiebro/i-typed-four-sentences-into-the-usb-coding-expert-demo-i-got-back-a-solidity-contract-on-the-3cmp",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 03:09:55 +0000",
-      "summary": "What every developer should know about AI-assisted vulnerability discovery, secure coding, and responsible disclosure. Introduction AI is changing how we build software. Developers use AI tools to gen",
+      "date": "Sat, 24 Oct 2026 02:58:36 +0000",
+      "summary": "I typed four sentences into the demo. I got back a Solidity contract on the Python tab. Every page on WorkflowAlpha ships a working demo, and I keep coming back to that Live Demo — Code Generator: Des",
       "score": 5,
-      "titleZh": "PHP2Shell: How AI-Assisted Research Is Changing Cybersecurity"
-    },
-    {
-      "title": "How to Decide If a WAF Can Sit in Front of Next.js",
-      "link": "https://dev.to/_eb0609572b9efcf27472066/how-to-decide-if-a-waf-can-sit-in-front-of-nextjs-3kf1",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 23 Oct 2026 03:06:36 +0000",
-      "summary": "Protecting a Next.js app with a WAF starts with a placement decision, not a framework plugin. The SafeLine guides never mention Next.js, the App Router, the Pages Router, middleware, Server Actions, o",
-      "score": 5,
-      "titleZh": "How to Decide If a WAF Can Sit in Front of Next.js"
-    },
-    {
-      "title": "How to Protect a Next.js App with a WAF Before DNS Cutover",
-      "link": "https://dev.to/lialiago/how-to-protect-a-nextjs-app-with-a-waf-before-dns-cutover-2dg4",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 23 Oct 2026 03:06:35 +0000",
-      "summary": "A Next.js app is still a web application. Pages, Route Handlers, and server actions are reached over HTTP or HTTPS, which is the traffic a web application firewall is built to inspect. The official Sa",
-      "score": 5,
-      "titleZh": "How to Protect a Next.js App with a WAF Before DNS Cutover"
+      "titleZh": "I Typed Four Sentences Into the USB Coding Expert Demo. I Got Back a Solidity Contract on the Python Tab"
     }
   ]
 }
