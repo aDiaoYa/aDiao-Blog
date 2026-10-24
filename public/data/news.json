@@ -1,10 +1,58 @@
 {
-  "updated": "2026-10-24T03:19:21.661Z",
+  "updated": "2026-10-24T13:50:19.337Z",
   "date": "2026-10-24",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633",
+      "score": 307,
+      "titleZh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "link": "https://danielball.com/notes/ai_image_generation.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 20 Oct 2026 19:22:39 +0000",
+      "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379",
+      "score": 141,
+      "titleZh": "A practical guide to AI image generation, from diffusion to agents"
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 24 Oct 2026 11:18:54 +0000",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204",
+      "score": 48,
+      "titleZh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
+    },
+    {
+      "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-24T09:58:29.000Z",
+      "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music ",
+      "score": 40,
+      "titleZh": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]"
+    },
     {
       "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
@@ -54,18 +102,6 @@
       "titleZh": "AAAI 2027 phase 2 reviews discussion [D]"
     },
     {
-      "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-23T11:51:47.000Z",
-      "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv ",
-      "score": 40,
-      "titleZh": "How does arXiv prepublishing work with ICLR's double-blind review? [R]"
-    },
-    {
       "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
       "source": "Reddit ML",
@@ -90,160 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "Finding Flaws in Technical Documentation",
+      "link": "https://www.reddit.com/r/programming/comments/1xe854b/finding_flaws_in_technical_documentation/",
+      "source": "Reddit Prog",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-10-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "date": "2026-10-24T13:04:32.000Z",
+      "summary": "submitted by /u/Paddy3118 [link] [comments]",
       "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "titleZh": "Finding Flaws in Technical Documentation"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "score": 5,
-      "titleZh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "link": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 23 Oct 2026 16:15:50 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
-    },
-    {
-      "title": "Show HN: Swurf – Swipe through the real web",
-      "link": "https://swurf.org/",
-      "source": "HN·前端",
+      "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+      "link": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 06:54:52 +0000",
-      "summary": "Hello HN, Swurf allows you to swipe through the real web one page after another. It learns what you like and doesn’t show you the same page twice. The idea came naturally: there’s a seemingly infinite",
-      "score": 63,
-      "titleZh": "Show HN: Swurf – Swipe through the real web"
+      "date": "2026-10-24T12:28:14.000Z",
+      "summary": "submitted by /u/CircumspectCapybara [link] [comments]",
+      "score": 40,
+      "titleZh": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more"
     },
     {
-      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-      "link": "https://rune.build/blog/rune-1-3-release",
-      "source": "HN·前端",
+      "title": "How close can pure FP get to C?",
+      "link": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 23 Oct 2026 19:42:01 +0000",
-      "summary": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325",
-      "score": 41,
-      "titleZh": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501"
+      "date": "2026-10-23T17:04:36.000Z",
+      "summary": "Roc can achieve excellent performance as a pure FP language, I think people will enjoy reading this post which looks at a pure Roc implementation of libdeflate. submitted by /u/bosyluke [link] [commen",
+      "score": 40,
+      "titleZh": "How close can pure FP get to C?"
     },
     {
-      "title": "Your Next User Is an Agent (100 Days of AI, Day 8)",
-      "link": "https://dev.to/karan047/your-next-user-is-an-agent-100-days-of-ai-day-8-4b67",
+      "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
+      "link": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-23T15:25:01.000Z",
+      "summary": "submitted by /u/alexdmiller [link] [comments]",
+      "score": 40,
+      "titleZh": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)"
+    },
+    {
+      "title": "Code and Cake - Docker is weird",
+      "link": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-23T13:43:13.000Z",
+      "summary": "submitted by /u/Xaneris47 [link] [comments]",
+      "score": 40,
+      "titleZh": "Code and Cake - Docker is weird"
+    },
+    {
+      "title": "eMudhra's Press Release on the CA Compromise",
+      "link": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-23T09:55:46.000Z",
+      "summary": "submitted by /u/random8847 [link] [comments]",
+      "score": 40,
+      "titleZh": "eMudhra's Press Release on the CA Compromise"
+    },
+    {
+      "title": "Where did my freed memory (not) go?",
+      "link": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-22T22:27:08.000Z",
+      "summary": "submitted by /u/JameEnder [link] [comments]",
+      "score": 40,
+      "titleZh": "Where did my freed memory (not) go?"
+    },
+    {
+      "title": "examining the macOS gcc binary",
+      "link": "https://www.reddit.com/r/programming/comments/1xcwe3o/examining_the_macos_gcc_binary/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-10-22T22:09:53.000Z",
+      "summary": "submitted by /u/kiteska [link] [comments]",
+      "score": 40,
+      "titleZh": "examining the macOS gcc binary"
+    },
+    {
+      "title": "Why Does TCP Use a Sliding Window? (Flow Control vs BDP)",
+      "link": "https://dev.to/binarydose/why-does-tcp-use-a-sliding-window-flow-control-vs-bdp-d25",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 24 Oct 2026 03:09:13 +0000",
-      "summary": "Last night I co-hosted a workshop for small business owners in Toronto. While I was still in the room, I sent a few photos from my phone to my personal agent, Muse. Minutes later those photos were pub",
+      "date": "Sat, 24 Oct 2026 13:48:51 +0000",
+      "summary": "Why Does TCP Use a Sliding Window? Over high-latency networks, naive Stop-and-Wait throughput collapses because the physical pipe sits empty for most of the Round Trip Time (RTT). $$\\text{BDP} = \\text",
       "score": 5,
-      "titleZh": "Your Next User Is an Agent (100 Days of AI, Day 8)"
+      "titleZh": "Why Does TCP Use a Sliding Window? (Flow Control vs BDP)"
     },
     {
-      "title": "Making a Bulin 47 AI Video That Actually Looks Like You: What We Learned With Seedance 2.5",
-      "link": "https://dev.to/_60c801781dcabc6899088/making-a-bulin-47-ai-video-that-actually-looks-like-you-what-we-learned-with-seedance-25-2573",
+      "title": "Your MCP Tools Are an API for a Very Literal Intern",
+      "link": "https://dev.to/getmagnus/your-mcp-tools-are-an-api-for-a-very-literal-intern-1g4c",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 24 Oct 2026 03:04:03 +0000",
-      "summary": "If you have been on TikTok or Reels this October, you have seen the Bulin 47 clip: the Dominican artist Bulin 47 improvising a dembow freestyle on a street in Spain while Kevin Wai holds a portable sp",
+      "date": "Sat, 24 Oct 2026 13:48:03 +0000",
+      "summary": "Picture a tool called save that takes a content string. You ask an agent to save a 12-page document. It saves a 40 word summary, cheerfully reports success and moves on. Technically correct. Completel",
       "score": 5,
-      "titleZh": "Making a Bulin 47 AI Video That Actually Looks Like You: What We Learned With Seedance 2.5"
-    },
-    {
-      "title": "Building sentence-level alignment for bilingual audio",
-      "link": "https://dev.to/zxm9988/building-sentence-level-alignment-for-bilingual-audio-52jn",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 24 Oct 2026 03:03:39 +0000",
-      "summary": "Most language-learning apps assume a text-first workflow: paste a paragraph, translate it, then generate audio. A harder and more useful case starts with two real recordings: the same story, lesson, o",
-      "score": 5,
-      "titleZh": "Building sentence-level alignment for bilingual audio"
-    },
-    {
-      "title": "DigiDiksha|Digital Marketing Services for Business Growth",
-      "link": "https://dev.to/diksha_shukla_5232b2e5de1/digidikshadigital-marketing-services-for-business-growth-jpn",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 24 Oct 2026 03:02:50 +0000",
-      "summary": "Grow Faster. Rank Higher. Sell Smarter. Welcome to Digidiksha.info — where ideas turn into digital success and brands grow with purpose. We are a modern digital marketing agency dedicated to helping b",
-      "score": 5,
-      "titleZh": "DigiDiksha|Digital Marketing Services for Business Growth"
-    },
-    {
-      "title": "Hardening Enterprise SSO with Keycloak: SAML 2.0, OAuth2 PKCE, and Zero-Trust RBAC",
-      "link": "https://dev.to/hostingpodium/hardening-enterprise-sso-with-keycloak-saml-20-oauth2-pkce-and-zero-trust-rbac-4gp8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 24 Oct 2026 03:02:13 +0000",
-      "summary": "Originally published on the HostingPodium Enterprise Engineering Blog. Free SRE & Developer Diagnostics: Test your stack live with our Free Website Speed Test & Core Web Vitals Checker, Free Website S",
-      "score": 5,
-      "titleZh": "Hardening Enterprise SSO with Keycloak: SAML 2.0, OAuth2 PKCE, and Zero-Trust RBAC"
-    },
-    {
-      "title": "Scaling Multilingual Search: Our FastAPI + PostgreSQL Architecture for Translating Books",
-      "link": "https://dev.to/jacob_gong/scaling-multilingual-search-our-fastapi-postgresql-architecture-for-translating-books-ijj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 24 Oct 2026 03:01:07 +0000",
-      "summary": "How we built a multilingual book platform with FastAPI and PostgreSQL's full-text search to handle translations in multiple languages. When we started building LectuLibre, an AI-powered book translati",
-      "score": 5,
-      "titleZh": "Scaling Multilingual Search: Our FastAPI + PostgreSQL Architecture for Translating Books"
-    },
-    {
-      "title": "DEV·TV now runs real ads, and the first one is mine",
-      "link": "https://dev.to/shouvik12/devtv-now-runs-real-ads-and-the-first-one-is-mine-2gbg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 24 Oct 2026 03:00:52 +0000",
-      "summary": "If you've left DEV·TV running on autopilot, you've probably sat through a commercial break. Static, then a full-screen ad for something that doesn't exist: Off-By-One Pizza (order 10 slices, get 9, or",
-      "score": 5,
-      "titleZh": "DEV·TV now runs real ads, and the first one is mine"
-    },
-    {
-      "title": "I Typed Four Sentences Into the USB Coding Expert Demo. I Got Back a Solidity Contract on the Python Tab",
-      "link": "https://dev.to/reggiebro/i-typed-four-sentences-into-the-usb-coding-expert-demo-i-got-back-a-solidity-contract-on-the-3cmp",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 24 Oct 2026 02:58:36 +0000",
-      "summary": "I typed four sentences into the demo. I got back a Solidity contract on the Python tab. Every page on WorkflowAlpha ships a working demo, and I keep coming back to that Live Demo — Code Generator: Des",
-      "score": 5,
-      "titleZh": "I Typed Four Sentences Into the USB Coding Expert Demo. I Got Back a Solidity Contract on the Python Tab"
+      "titleZh": "Your MCP Tools Are an API for a Very Literal Intern"
     }
   ]
 }
