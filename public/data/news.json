@@ -1,45 +1,45 @@
 {
-  "updated": "2026-10-24T13:50:19.337Z",
-  "date": "2026-10-24",
+  "updated": "2026-10-25T03:14:48.485Z",
+  "date": "2026-10-25",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Sat, 24 Oct 2026 05:49:57 +0000",
-      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633",
-      "score": 307,
-      "titleZh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
+      "date": "Sat, 24 Oct 2026 23:11:54 +0000",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419",
+      "score": 208,
+      "titleZh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？"
     },
     {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "link": "https://danielball.com/notes/ai_image_generation.html",
-      "source": "HN·AI",
+      "title": "ASRN: Linear-memory long-range copying with learned proper-time clock [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 20 Oct 2026 19:22:39 +0000",
-      "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379",
-      "score": 141,
-      "titleZh": "A practical guide to AI image generation, from diffusion to agents"
+      "date": "2026-10-25T02:57:16.000Z",
+      "summary": "ASRN (Adaptive Sparse Recurrence Network, red de recurrencia dispersa adaptativa) es una capa de modelo de lenguaje que recupera apariciones anteriores exactas con trabajo acotado por pieza: cada piez",
+      "score": 40,
+      "titleZh": "ASRN：具有学习的原时时钟的线性内存远程复制 [p]"
     },
     {
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "source": "HN·AI",
+      "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Sat, 24 Oct 2026 11:18:54 +0000",
-      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204",
-      "score": 48,
-      "titleZh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
+      "date": "2026-10-24T14:18:07.000Z",
+      "summary": "What do you all think about this? It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor. As a graduate student, I find it both ",
+      "score": 40,
+      "titleZh": "在没有导师的情况下 A* 会议中 UG 作者的数量不断增加 [D]"
     },
     {
       "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
@@ -51,7 +51,7 @@
       "date": "2026-10-24T09:58:29.000Z",
       "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music ",
       "score": 40,
-      "titleZh": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]"
+      "titleZh": "有一个经过预训练的音乐变压器可以和我一起现场演奏，无需微调，只需控制采样 [P​​]"
     },
     {
       "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
@@ -63,7 +63,7 @@
       "date": "2026-10-23T20:39:06.000Z",
       "summary": "Long-context models can now handle hundreds of thousands, even millions of tokens. But I've been wondering if we're focusing too much on recall and not enough on what happens when information changes.",
       "score": 40,
-      "titleZh": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]"
+      "titleZh": "当真正的问题是知道要忘记什么时，我们是否通过记住更多来解决LLM记忆问题？[D]"
     },
     {
       "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
@@ -75,7 +75,7 @@
       "date": "2026-10-23T15:37:23.000Z",
       "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning ",
       "score": 40,
-      "titleZh": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits"
+      "titleZh": "[R] 蜂巢思维是单一强化学习代理：推导群体动力学与多臂强盗之间的精确等价"
     },
     {
       "title": "Is symbolic ai dead? [D]",
@@ -87,31 +87,7 @@
       "date": "2026-10-23T13:49:16.000Z",
       "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it",
       "score": 40,
-      "titleZh": "Is symbolic ai dead? [D]"
-    },
-    {
-      "title": "AAAI 2027 phase 2 reviews discussion [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-23T12:58:18.000Z",
-      "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews! submitted by /u/Away-Cattle7081",
-      "score": 40,
-      "titleZh": "AAAI 2027 phase 2 reviews discussion [D]"
-    },
-    {
-      "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-23T07:24:12.000Z",
-      "summary": "I've been learning how language models work, especially next-token prediction, and came across this paper on Next-Concept Modeling (NCM). The interesting part is how it generates text. Instead of pred",
-      "score": 40,
-      "titleZh": "I just came across Next-Concept Modeling and the idea is fascinating[R]"
+      "titleZh": "象征性的人工智能死了吗？ [D]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -123,127 +99,151 @@
       "date": "2026-10-02T02:15:05.000Z",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "[D] 自我推销主题"
     },
     {
-      "title": "Finding Flaws in Technical Documentation",
-      "link": "https://www.reddit.com/r/programming/comments/1xe854b/finding_flaws_in_technical_documentation/",
-      "source": "Reddit Prog",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "2026-10-24T13:04:32.000Z",
-      "summary": "submitted by /u/Paddy3118 [link] [comments]",
+      "date": "2026-10-01T02:30:09.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "Finding Flaws in Technical Documentation"
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
-      "link": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
-      "source": "Reddit Prog",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "source": "HN·AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "2026-10-24T12:28:14.000Z",
-      "summary": "submitted by /u/CircumspectCapybara [link] [comments]",
-      "score": 40,
-      "titleZh": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more"
+      "date": "Sat, 24 Oct 2026 15:35:17 +0000",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283",
+      "score": 38,
+      "titleZh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心"
     },
     {
-      "title": "How close can pure FP get to C?",
-      "link": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-23T17:04:36.000Z",
-      "summary": "Roc can achieve excellent performance as a pure FP language, I think people will enjoy reading this post which looks at a pure Roc implementation of libdeflate. submitted by /u/bosyluke [link] [commen",
-      "score": 40,
-      "titleZh": "How close can pure FP get to C?"
-    },
-    {
-      "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
-      "link": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-23T15:25:01.000Z",
-      "summary": "submitted by /u/alexdmiller [link] [comments]",
-      "score": 40,
-      "titleZh": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)"
-    },
-    {
-      "title": "Code and Cake - Docker is weird",
-      "link": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-23T13:43:13.000Z",
-      "summary": "submitted by /u/Xaneris47 [link] [comments]",
-      "score": 40,
-      "titleZh": "Code and Cake - Docker is weird"
-    },
-    {
-      "title": "eMudhra's Press Release on the CA Compromise",
-      "link": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-23T09:55:46.000Z",
-      "summary": "submitted by /u/random8847 [link] [comments]",
-      "score": 40,
-      "titleZh": "eMudhra's Press Release on the CA Compromise"
-    },
-    {
-      "title": "Where did my freed memory (not) go?",
-      "link": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-22T22:27:08.000Z",
-      "summary": "submitted by /u/JameEnder [link] [comments]",
-      "score": 40,
-      "titleZh": "Where did my freed memory (not) go?"
-    },
-    {
-      "title": "examining the macOS gcc binary",
-      "link": "https://www.reddit.com/r/programming/comments/1xcwe3o/examining_the_macos_gcc_binary/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-10-22T22:09:53.000Z",
-      "summary": "submitted by /u/kiteska [link] [comments]",
-      "score": 40,
-      "titleZh": "examining the macOS gcc binary"
-    },
-    {
-      "title": "Why Does TCP Use a Sliding Window? (Flow Control vs BDP)",
-      "link": "https://dev.to/binarydose/why-does-tcp-use-a-sliding-window-flow-control-vs-bdp-d25",
+      "title": "Building a Content Distribution Platform with FastAPI and Python",
+      "link": "https://dev.to/aravinda_krishnan/building-a-content-distribution-platform-with-fastapi-and-python-31m9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 24 Oct 2026 13:48:51 +0000",
-      "summary": "Why Does TCP Use a Sliding Window? Over high-latency networks, naive Stop-and-Wait throughput collapses because the physical pipe sits empty for most of the Round Trip Time (RTT). $$\\text{BDP} = \\text",
+      "date": "Sun, 25 Oct 2026 03:07:03 +0000",
+      "summary": "Building a Content Distribution Platform with FastAPI and Python Publishing content across multiple platforms can quickly become repetitive. Each platform has its own API, authentication requirements,",
       "score": 5,
-      "titleZh": "Why Does TCP Use a Sliding Window? (Flow Control vs BDP)"
+      "titleZh": "使用 FastAPI 和 Python 构建内容分发平台"
     },
     {
-      "title": "Your MCP Tools Are an API for a Very Literal Intern",
-      "link": "https://dev.to/getmagnus/your-mcp-tools-are-an-api-for-a-very-literal-intern-1g4c",
+      "title": "I Built a Water Eject Tool for a Muffled Phone Speaker—Here’s What I Refused to Promise",
+      "link": "https://dev.to/zack_e36e64fd6fcd12ebbc13/i-built-a-water-eject-tool-for-a-muffled-phone-speaker-heres-what-i-refused-to-promise-5cl2",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 03:06:50 +0000",
+      "summary": "The first version of my phone-speaker project had an attractive shortcut: play a low sound, call it a water ejector, and let the user decide what happens next. That shortcut was easy to code and hard ",
+      "score": 5,
+      "titleZh": "我为低沉的手机扬声器制作了一个喷水工具——这是我拒绝承诺的"
+    },
+    {
+      "title": "AI Agents and Autonomous AI: How They Work and What You Should Know",
+      "link": "https://dev.to/tenvyro/ai-agents-and-autonomous-ai-how-they-work-and-what-you-should-know-446f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 24 Oct 2026 13:48:03 +0000",
-      "summary": "Picture a tool called save that takes a content string. You ask an agent to save a 12-page document. It saves a 40 word summary, cheerfully reports success and moves on. Technically correct. Completel",
+      "date": "Sun, 25 Oct 2026 03:01:39 +0000",
+      "summary": "Imagine asking an AI system to prepare a competitor research report. Instead of simply suggesting search terms or writing a summary, it could potentially search the web, organize relevant information,",
       "score": 5,
-      "titleZh": "Your MCP Tools Are an API for a Very Literal Intern"
+      "titleZh": "人工智能代理和自主人工智能：它们如何工作以及您应该了解什么"
+    },
+    {
+      "title": "Tired of DevTools?😫 Reverse-Engineer Any Web Design in Seconds⚡",
+      "link": "https://dev.to/rajairfanahmed/tired-of-devtools-reverse-engineer-any-web-design-in-seconds-41ni",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 03:01:14 +0000",
+      "summary": "Every frontend developer knows this frustration: You see an award-winning site like Stripe, Linear, or Mobbin. You open Chrome DevTools. You start digging through nested <div> tags, copying hex codes,",
+      "score": 5,
+      "titleZh": "厌倦了 DevTools？😫 在几秒钟内对任何网页设计进行逆向工程⚡"
+    },
+    {
+      "title": "I Built a Client-Side JSON Formatter: 5 Lessons for Devs",
+      "link": "https://dev.to/bowentse/i-built-a-client-side-json-formatter-5-lessons-for-devs-2i34",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 03:00:29 +0000",
+      "summary": "Every developer has pasted a minified API response into a formatter and stared at one long line, wondering where the nesting went wrong. I built a client-side JSON formatter to solve that exact moment",
+      "score": 5,
+      "titleZh": "我构建了一个客户端 JSON 格式化程序：给开发人员的 5 堂课"
+    },
+    {
+      "title": "Vibe-coded UIs drift. I built Tavero to catch it.",
+      "link": "https://dev.to/taveroui/vibe-coded-uis-drift-i-built-tavero-to-catch-it-fk8",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 02:54:44 +0000",
+      "summary": "If you build React UI with a coding agent, you've probably seen this: every page looks fine on its own, but put them side by side and something's off. The Team page has a flat grey button with a 2px b",
+      "score": 5,
+      "titleZh": "Vibe 编码的 UI 会发生漂移。我建造了 Tavero 来捕捉它。"
+    },
+    {
+      "title": "HTML Encode: Free Online HTML Entity Encoder — How-To Guide",
+      "link": "https://dev.to/layoffatlas/html-encode-free-online-html-entity-encoder-how-to-guide-emh",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 02:49:16 +0000",
+      "summary": "HTML Encode: Free Online HTML Entity Encoder — How-To Guide If you have ever pasted a snippet of HTML into a blog post, a comment box, or a documentation page only to watch the browser swallow it — re",
+      "score": 5,
+      "titleZh": "HTML Encode：免费在线 HTML 实体编码器 — 操作指南"
+    },
+    {
+      "title": "The host's question kept landing under the guest's name: fixing speaker labels in a live tab transcriber",
+      "link": "https://dev.to/nicholachaus/the-hosts-question-kept-landing-under-the-guests-name-fixing-speaker-labels-in-a-live-tab-46bm",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 02:46:47 +0000",
+      "summary": "I build Transcribe Video to Text, a Chrome extension that turns any video playing in a tab into text while it plays: YouTube, course platforms, webinars, a local file opened in Chrome. For interviews ",
+      "score": 5,
+      "titleZh": "主持人的问题不断出现在嘉宾的名字下：修复实时标签转录器中的演讲者标签"
+    },
+    {
+      "title": "AI Is the Best Something-From-Nothing Trick There Is",
+      "link": "https://dev.to/doogee_doogeetoptop_1e/ai-is-the-best-something-from-nothing-trick-there-is-5do2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 02:39:44 +0000",
+      "summary": "AI is the best something-from-nothing trick there is! You can try it yourself: have AI generate something for you, then have it make money for you. What I've been studying all along is \"web going glob",
+      "score": 5,
+      "titleZh": "人工智能是最好的从无到有的技巧"
+    },
+    {
+      "title": "Building E-commerce Applications with React: A Practical Guide",
+      "link": "https://dev.to/ansh_sheladiya/building-e-commerce-applications-with-react-a-practical-guide-505d",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 25 Oct 2026 02:30:00 +0000",
+      "summary": "Building an e-commerce application with React involves much more than displaying products and adding a shopping cart. A production-ready storefront needs predictable state management, responsive produ",
+      "score": 5,
+      "titleZh": "使用 React 构建电子商务应用程序：实用指南"
     }
   ]
 }
