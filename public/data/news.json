@@ -1,105 +1,93 @@
 {
-  "updated": "2026-10-28T04:03:56.275Z",
-  "date": "2026-10-28",
+  "updated": "2026-10-31T04:06:54.091Z",
+  "date": "2026-10-31",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 27 Oct 2026 19:55:06 +0000",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853",
-      "score": 222,
-      "titleZh": "Survival LLM: AI assistant and emergency library that runs on your own computer"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "link": "https://www.anthropic.com/research/early-progress-drug-development",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 27 Oct 2026 20:50:42 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609",
-      "score": 162,
-      "titleZh": "Early progress on accelerating drug development with Claude"
-    },
-    {
-      "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-27T20:13:07.000Z",
-      "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link:",
+      "date": "2026-10-31T02:30:21.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
+      "title": "Paid Research Survey for conference papers [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-27T19:55:31.000Z",
-      "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title \"An Obituary of the Review Process\", but in the interest of not sounding too defeatist, I will just say \"Critical C",
+      "date": "2026-10-30T22:42:27.000Z",
+      "summary": "Sorry if the flair is wrong. I didn't see one that fit. Not sure if anyone else has been receiving these emails, but companies are offering money for you to submit some answers to questions based on h",
       "score": 40,
-      "titleZh": "The Paper Reviewing Process is Now in Critical Condition [D]"
+      "titleZh": "Paid Research Survey for conference papers [D]"
     },
     {
-      "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+      "title": "Multi-Token Prediction Done Right [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-27T19:20:08.000Z",
-      "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a ",
+      "date": "2026-10-30T18:53:20.000Z",
+      "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hi",
       "score": 40,
-      "titleZh": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]"
+      "titleZh": "Multi-Token Prediction Done Right [R]"
     },
     {
-      "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+      "title": "Advice on dealing with Cold Start forecasting [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-27T16:09:42.000Z",
-      "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, came",
+      "date": "2026-10-30T17:56:26.000Z",
+      "summary": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attribute",
       "score": 40,
-      "titleZh": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]"
+      "titleZh": "Advice on dealing with Cold Start forecasting [D]"
     },
     {
-      "title": "Teachers other than EMA for distillation ? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
+      "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-27T15:53:56.000Z",
-      "summary": "Hi guys, Self-distillation methods, see Self-Distillation Fine Tuning SDFT, usually use an EMA (Exponential Moving Average) teacher to get synced and stable targets. I wanted to ask the community for ",
+      "date": "2026-10-30T07:25:23.000Z",
+      "summary": "A friend of mine was doing a gap analysis as a project. The results he got weren't that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GO",
       "score": 40,
-      "titleZh": "Teachers other than EMA for distillation ? [R]"
+      "titleZh": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]"
     },
     {
-      "title": "Papers with Code is now open-source [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
+      "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-27T09:54:44.000Z",
-      "summary": "Papers with Code is now open-source with an Apache 2.0-license. The goal is to collaboratively create the best paper interface with the community! Over the past couple of months, I've been working wit",
+      "date": "2026-10-29T22:51:57.000Z",
+      "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagg",
       "score": 40,
-      "titleZh": "Papers with Code is now open-source [P]"
+      "titleZh": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]"
+    },
+    {
+      "title": "Old-school classifiers are still generally better than Jev [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-29T14:13:05.000Z",
+      "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach ",
+      "score": 40,
+      "titleZh": "Old-school classifiers are still generally better than Jev [P]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -114,136 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "link": "https://arxiv.org/abs/2610.37720",
+      "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-01T02:30:09.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottleneck",
+      "score": 5,
+      "titleZh": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes"
     },
     {
-      "title": "Why AI Coding Tools Made My Mental Load 5x Worse (And the TypeScript Pattern That Fixed It)",
-      "link": "https://dev.to/portalkinetic/why-ai-coding-tools-made-my-mental-load-5x-worse-and-the-typescript-pattern-that-fixed-it-56i5",
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "link": "https://arxiv.org/abs/2610.37731",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties ",
+      "score": 5,
+      "titleZh": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure"
+    },
+    {
+      "title": "How we deliver voice only to people nearby in a 2D virtual office (SFU subscription permissions, not mixing)",
+      "link": "https://dev.to/hotoriplace/how-we-deliver-voice-only-to-people-nearby-in-a-2d-virtual-office-sfu-subscription-permissions-40nl",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 28 Oct 2026 04:00:02 +0000",
-      "summary": "Over the past six months, every software engineer adopted AI coding assistants. Tools like Cursor, Copilot, and Claude Code allow us to produce code five times faster than we did two years ago. Yet al",
+      "date": "Sat, 31 Oct 2026 03:59:44 +0000",
+      "summary": "In our 2D virtual office, voice reaches only nearby people because the media server refuses to forward it to anyone else. The app server works out who is near whom and gives each speaker a list of all",
       "score": 5,
-      "titleZh": "Why AI Coding Tools Made My Mental Load 5x Worse (And the TypeScript Pattern That Fixed It)"
+      "titleZh": "How we deliver voice only to people nearby in a 2D virtual office (SFU subscription permissions, not mixing)"
     },
     {
-      "title": "Building a Resilient Number & String Sanitizer for Financial CSV Ingestion",
-      "link": "https://dev.to/nishant_shaligram/building-a-resilient-number-string-sanitizer-for-financial-csv-ingestion-3lbh",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 04:00:00 +0000",
-      "summary": "In fintech and accounting software, numeric sanitization is deceptively tricky. You cannot simply apply Number(input) or parseFloat() across raw user values and hope for the best. In financial ingesti",
-      "score": 5,
-      "titleZh": "Building a Resilient Number & String Sanitizer for Financial CSV Ingestion"
-    },
-    {
-      "title": "WordPress form triage: missing mail, spam-folder messages, and bot submissions",
-      "link": "https://dev.to/aumcreate/wordpress-form-triage-missing-mail-spam-folder-messages-and-bot-submissions-540a",
+      "title": "Building Visual Content Faster with an All-in-One AI Studio",
+      "link": "https://dev.to/vulcanfeynman/building-visual-content-faster-with-an-all-in-one-ai-studio-3pb5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 28 Oct 2026 03:58:48 +0000",
-      "summary": "A visitor says the form did nothing. The form plugin shows no entry. The inbox is empty, but there is one message in the spam folder from a different address. The access log shows POST requests to the",
+      "date": "Sat, 31 Oct 2026 03:59:31 +0000",
+      "summary": "Creating visual content used to mean juggling five tabs, three subscriptions and a lot of exporting. An all-in-one browser studio changes that. Here is the workflow I use to move from idea to finished",
       "score": 5,
-      "titleZh": "WordPress form triage: missing mail, spam-folder messages, and bot submissions"
+      "titleZh": "Building Visual Content Faster with an All-in-One AI Studio"
     },
     {
-      "title": "Cloudflare AI Crawler Allowlist for GEO-Focused Sites",
-      "link": "https://dev.to/pandawm/cloudflare-ai-crawler-allowlist-for-geo-focused-sites-2n6d",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 03:58:09 +0000",
-      "summary": "If you care about generative engine optimization, blocking every AI crawler by default can remove the very paths that get your pages into answer engines. Cloudflare and similar CDNs now expose control",
-      "score": 5,
-      "titleZh": "Cloudflare AI Crawler Allowlist for GEO-Focused Sites"
-    },
-    {
-      "title": "Translating pages built with a page builder: shortcodes, block attributes, and the strings that never reach the content filter",
-      "link": "https://dev.to/aumcreate/translating-pages-built-with-a-page-builder-shortcodes-block-attributes-and-the-strings-that-19ep",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 03:55:09 +0000",
-      "summary": "The report comes back as \"the Portuguese page still has English on it\". You open the translation screen, the body copy is fully translated, and the button in the hero still says \"Request a quote\". Tha",
-      "score": 5,
-      "titleZh": "Translating pages built with a page builder: shortcodes, block attributes, and the strings that never reach the content filter"
-    },
-    {
-      "title": "1,510 impressions, 6 clicks: what a 28-day Search Console teardown actually showed",
-      "link": "https://dev.to/hcxshh/1510-impressions-6-clicks-what-a-28-day-search-console-teardown-actually-showed-6nj",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 03:52:49 +0000",
-      "summary": "1,510 impressions, 6 clicks: what a 28-day Search Console teardown actually showed A small English site, roughly 70 posts, written for foreigners dealing with practical things in China. It is about th",
-      "score": 5,
-      "titleZh": "1,510 impressions, 6 clicks: what a 28-day Search Console teardown actually showed"
-    },
-    {
-      "title": "Before you switch PHP versions on a WordPress site: checks, a staging clone, and a rollback that survives a failed upgrade",
-      "link": "https://dev.to/aumcreate/before-you-switch-php-versions-on-a-wordpress-site-checks-a-staging-clone-and-a-rollback-that-2na8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 03:51:10 +0000",
-      "summary": "The host panel gives you a dropdown of PHP versions. Changing it takes one click. Finding out whether the site still works takes a morning, and if it doesn't, you're doing it in front of customers. Mo",
-      "score": 5,
-      "titleZh": "Before you switch PHP versions on a WordPress site: checks, a staging clone, and a rollback that survives a failed upgrade"
-    },
-    {
-      "title": "RemixMeme’s Main Character Hub: Flex & Celebrity AI Video Templates in One Place",
-      "link": "https://dev.to/remixmeme_mc/remixmemes-main-character-hub-flex-celebrity-ai-video-templates-in-one-place-574b",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 03:48:23 +0000",
-      "summary": "I keep seeing “main character” clips on TikTok and Reels—airport-star arrivals, champagne car windows, angel-wing runways—and I got tired of rebuilding the same CapCut timeline every time. RemixMeme j",
-      "score": 5,
-      "titleZh": "RemixMeme’s Main Character Hub: Flex & Celebrity AI Video Templates in One Place"
-    },
-    {
-      "title": "Architecting Enterprise Custom Web Applications: Modern Full-Stack Patterns & Zero-Bloat Scaling",
-      "link": "https://dev.to/uchitchakma/architecting-enterprise-custom-web-applications-modern-full-stack-patterns-zero-bloat-scaling-3c66",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 28 Oct 2026 03:47:05 +0000",
-      "summary": "Architecting Enterprise Custom Web Applications: Modern Full-Stack Patterns & Zero-Bloat Scaling In 2026, off-the-shelf website builders and generic CMS templates are no longer enough to build a scala",
-      "score": 5,
-      "titleZh": "Architecting Enterprise Custom Web Applications: Modern Full-Stack Patterns & Zero-Bloat Scaling"
-    },
-    {
-      "title": "Using spryte on its own: fast 2D drawing on any canvas",
-      "link": "https://dev.to/h0dson/using-spryte-on-its-own-fast-2d-drawing-on-any-canvas-4gk8",
+      "title": "Stop Modeling State With Booleans: Make Impossible States Impossible in TypeScript",
+      "link": "https://dev.to/anas_sheikh_2/stop-modeling-state-with-booleans-make-impossible-states-impossible-in-typescript-2ecf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 28 Oct 2026 03:36:31 +0000",
-      "summary": "spryte is the renderer inside debuff, but it doesn't need debuff. If you have a canvas (an editor, a visualisation, your own engine, a tiny game), it gives you fast 2D drawing with a small, explicit A",
+      "date": "Sat, 31 Oct 2026 03:56:59 +0000",
+      "summary": "Here is a type you have probably written: type UserState = { isLoading: boolean; error?: string; data?: User; }; It looks reasonable. Then one day your UI shows a spinner on top of an error message, a",
       "score": 5,
-      "titleZh": "Using spryte on its own: fast 2D drawing on any canvas"
+      "titleZh": "Stop Modeling State With Booleans: Make Impossible States Impossible in TypeScript"
+    },
+    {
+      "title": "150 TL per tank: six facts from one morning of Turkey's fuel prices",
+      "link": "https://dev.to/guncelakaryakitfiyatlari/150-tl-per-tank-six-facts-from-one-morning-of-turkeys-fuel-prices-4cbb",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:56:14 +0000",
+      "summary": "Filling a 50-litre diesel tank costs 150 TL more in Hakkâri than on Istanbul's Asian side. That is the entire spread of Turkey's diesel prices on 31 October 2026, and a tax step due the very next day ",
+      "score": 5,
+      "titleZh": "150 TL per tank: six facts from one morning of Turkey's fuel prices"
+    },
+    {
+      "title": "Checklist Memilih Jasa Pembuatan Website untuk UMKM (2026)",
+      "link": "https://dev.to/matobid/checklist-memilih-jasa-pembuatan-website-untuk-umkm-2026-2h07",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:54:55 +0000",
+      "summary": "Banyak UMKM akhirnya membayar mahal untuk website yang tidak pernah dipakai. Masalahnya biasanya bukan teknologi, tetapi salah memilih vendor sejak awal. Ini checklist yang saya pakai saat membantu kl",
+      "score": 5,
+      "titleZh": "Checklist Memilih Jasa Pembuatan Website untuk UMKM (2026)"
+    },
+    {
+      "title": "14 Sites To Buy Old GitHub Accounts (Aged or History's)",
+      "link": "https://dev.to/pvasmmmarket561/14-sites-to-buy-old-github-accounts-aged-or-historys-3a56",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:50:35 +0000",
+      "summary": "14 Sites To Buy Old GitHub Accounts (Aged or History's) ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Create separate repositories. Organize projects according to their purpose, p",
+      "score": 5,
+      "titleZh": "14 Sites To Buy Old GitHub Accounts (Aged or History's)"
+    },
+    {
+      "title": "Guide to Buying Old Gmail Accounts: Benefits and Risks",
+      "link": "https://dev.to/geralda_beck_c7160bc51860/guide-to-buying-old-gmail-accounts-benefits-and-risks-1jei",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:50:11 +0000",
+      "summary": "Guide to Buying Old Gmail Accounts: Benefits and Risks ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Understanding email account structure Students and everyday users can learn ho",
+      "score": 5,
+      "titleZh": "Guide to Buying Old Gmail Accounts: Benefits and Risks"
+    },
+    {
+      "title": "Top 5 Trusted Platforms to Buy and Sell USA Facebook …",
+      "link": "https://dev.to/pvasmmmarket561/top-5-trusted-platforms-to-buy-and-sell-usa-facebook--56l",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:50:00 +0000",
+      "summary": "Top 5 Trusted Platforms to Buy and Sell USA Facebook … ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Facebook has become an important part of modern digital communication. Million",
+      "score": 5,
+      "titleZh": "Top 5 Trusted Platforms to Buy and Sell USA Facebook …"
+    },
+    {
+      "title": "One Idea, Seven Image Models: Building a Model-Aware Prompt Layer (With a Fallback That Never Breaks)",
+      "link": "https://dev.to/ipg_prompt_lab/one-idea-seven-image-models-building-a-model-aware-prompt-layer-with-a-fallback-that-never-42g3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:47:59 +0000",
+      "summary": "Same subject, different wording per model: a small strategy-map pattern, plus a fallback for when the AI call fails If you generate images with more than one model, you have probably hit this: a promp",
+      "score": 5,
+      "titleZh": "One Idea, Seven Image Models: Building a Model-Aware Prompt Layer (With a Fallback That Never Breaks)"
+    },
+    {
+      "title": "Preventing Account Takeover (ATO) & Spam Floods: Email Risk-Scoring Explained",
+      "link": "https://dev.to/shawon_hossain1809256_/preventing-account-takeover-ato-spam-floods-email-risk-scoring-explained-3gd2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 03:46:37 +0000",
+      "summary": "Preventing Account Takeover (ATO) & Spam Floods: Email Risk-Scoring Explained Credential stuffing and automated bot registration account for over 60% of all authentication-related cyber incidents. Att",
+      "score": 5,
+      "titleZh": "Preventing Account Takeover (ATO) & Spam Floods: Email Risk-Scoring Explained"
     }
   ]
 }
