@@ -1,105 +1,45 @@
 {
-  "updated": "2026-10-31T04:06:54.091Z",
+  "updated": "2026-10-31T15:36:45.111Z",
   "date": "2026-10-31",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-31T02:30:21.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+      "date": "Fri, 30 Oct 2026 07:09:12 +0000",
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683",
+      "score": 935,
+      "titleZh": "Cursor Marketplace 上用于 VS Code 扩展的 Claude Code 中的后门"
     },
     {
-      "title": "Paid Research Survey for conference papers [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
-      "source": "Reddit ML",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-30T22:42:27.000Z",
-      "summary": "Sorry if the flair is wrong. I didn't see one that fit. Not sure if anyone else has been receiving these emails, but companies are offering money for you to submit some answers to questions based on h",
-      "score": 40,
-      "titleZh": "Paid Research Survey for conference papers [D]"
+      "date": "Fri, 30 Oct 2026 14:08:20 +0000",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=5",
+      "score": 243,
+      "titleZh": "思科为工程师提供无限的人工智能代币来重写遗留代码"
     },
     {
-      "title": "Multi-Token Prediction Done Right [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-      "source": "Reddit ML",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-30T18:53:20.000Z",
-      "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hi",
-      "score": 40,
-      "titleZh": "Multi-Token Prediction Done Right [R]"
-    },
-    {
-      "title": "Advice on dealing with Cold Start forecasting [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-30T17:56:26.000Z",
-      "summary": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attribute",
-      "score": 40,
-      "titleZh": "Advice on dealing with Cold Start forecasting [D]"
-    },
-    {
-      "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-30T07:25:23.000Z",
-      "summary": "A friend of mine was doing a gap analysis as a project. The results he got weren't that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GO",
-      "score": 40,
-      "titleZh": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]"
-    },
-    {
-      "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-29T22:51:57.000Z",
-      "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagg",
-      "score": 40,
-      "titleZh": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]"
-    },
-    {
-      "title": "Old-school classifiers are still generally better than Jev [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-29T14:13:05.000Z",
-      "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach ",
-      "score": 40,
-      "titleZh": "Old-school classifiers are still generally better than Jev [P]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-02T02:15:05.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "date": "Thu, 29 Oct 2026 15:29:48 +0000",
+      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652",
+      "score": 114,
+      "titleZh": "人工智能、精益和形式验证的未来，与精益创造者 Leo de Moura 合作"
     },
     {
       "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
@@ -111,7 +51,7 @@
       "date": "Sat, 31 Oct 2026 00:00:00 -0400",
       "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottleneck",
       "score": 5,
-      "titleZh": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes"
+      "titleZh": "LRMoE：需求侧负载重新校准，以在内存受限节点上进行高效 MoE 训练"
     },
     {
       "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
@@ -123,127 +63,187 @@
       "date": "Sat, 31 Oct 2026 00:00:00 -0400",
       "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties ",
       "score": 5,
-      "titleZh": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure"
+      "titleZh": "用于模型校准的摊销局部后验推理及其在海洋湍流闭合中的应用"
     },
     {
-      "title": "How we deliver voice only to people nearby in a 2D virtual office (SFU subscription permissions, not mixing)",
-      "link": "https://dev.to/hotoriplace/how-we-deliver-voice-only-to-people-nearby-in-a-2d-virtual-office-sfu-subscription-permissions-40nl",
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "link": "https://arxiv.org/abs/2610.37732",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabi",
+      "score": 5,
+      "titleZh": "ThinkJev：一个想法，每个预算，用于校准类型决策"
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "link": "https://arxiv.org/abs/2610.37739",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still m",
+      "score": 5,
+      "titleZh": "OpenFrontiers：开放研究问题的集合和科学重新发现的基准"
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "link": "https://arxiv.org/abs/2610.37786",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-",
+      "score": 5,
+      "titleZh": "WebAnything：从狂野的网络到可扩展的代理环境"
+    },
+    {
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "link": "https://arxiv.org/abs/2610.37809",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that ",
+      "score": 5,
+      "titleZh": "本体抓住什么？策划、LLM 生成和数据衍生的本体作为知识图谱上 LLM 代理的检查器"
+    },
+    {
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "link": "https://arxiv.org/abs/2610.37830",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters",
+      "score": 5,
+      "titleZh": "测量代理智能合约综合中意图丢失的位置"
+    },
+    {
+      "title": "The three things that break every Mercado Pago Pix webhook signature",
+      "link": "https://dev.to/marceloaraujodev/mercado-pago-has-no-stripe-trigger-heres-what-that-costs-you-1ja1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 15:34:47 +0000",
+      "summary": "The three things that break every Mercado Pago Pix webhook signature If you've integrated Stripe, you know stripe listen --forward-to localhost:3000/api/webhook and stripe trigger payment_intent.succe",
+      "score": 5,
+      "titleZh": "破坏每个 Mercado Pago Pix Webhook 签名的三件事"
+    },
+    {
+      "title": "Mastering Data Fetching in Next.js: Advanced Strategies for Scale and Performance",
+      "link": "https://dev.to/mtahir27/mastering-data-fetching-in-nextjs-advanced-strategies-for-scale-and-performance-1288",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 15:34:40 +0000",
+      "summary": "Introduction: The Cornerstone of High-Performance Next.js Applications In the world of modern web development, particularly with frameworks like Next.js, data fetching is more than just retrieving inf",
+      "score": 5,
+      "titleZh": "掌握 Next.js 中的数据获取：规模和性能的高级策略"
+    },
+    {
+      "title": "# Building a Reliable WhatsApp Webhook Handler with Node.js",
+      "link": "https://dev.to/pallab_das_71b2cda46b54f5/-building-a-reliable-whatsapp-webhook-handler-with-nodejs-2427",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 15:27:33 +0000",
+      "summary": "Receiving a webhook is easy. Processing it safely, handling duplicates, and recovering from failures is where production systems get interesting. When integrating a messaging API, it's tempting to bui",
+      "score": 5,
+      "titleZh": "# 使用 Node.js 构建可靠的 WhatsApp Webhook 处理程序"
+    },
+    {
+      "title": "I didn't want a stranger's code holding my Discord bot token, so I wrote my own MCP server",
+      "link": "https://dev.to/gautamsuthar/i-didnt-want-a-strangers-code-holding-my-discord-bot-token-so-i-wrote-my-own-mcp-server-2a0o",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 03:59:44 +0000",
-      "summary": "In our 2D virtual office, voice reaches only nearby people because the media server refuses to forward it to anyone else. The app server works out who is near whom and gives each speaker a list of all",
+      "date": "Sat, 31 Oct 2026 15:24:07 +0000",
+      "summary": "I wanted Claude Code to manage my Discord server. Create channels, sort out roles, clean up messages, check the audit log, the boring admin stuff. Community Discord MCP servers already exist. Every on",
       "score": 5,
-      "titleZh": "How we deliver voice only to people nearby in a 2D virtual office (SFU subscription permissions, not mixing)"
+      "titleZh": "我不想让陌生人的代码持有我的 Discord 机器人令牌，所以我编写了自己的 MCP 服务器"
     },
     {
-      "title": "Building Visual Content Faster with an All-in-One AI Studio",
-      "link": "https://dev.to/vulcanfeynman/building-visual-content-faster-with-an-all-in-one-ai-studio-3pb5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 03:59:31 +0000",
-      "summary": "Creating visual content used to mean juggling five tabs, three subscriptions and a lot of exporting. An all-in-one browser studio changes that. Here is the workflow I use to move from idea to finished",
-      "score": 5,
-      "titleZh": "Building Visual Content Faster with an All-in-One AI Studio"
-    },
-    {
-      "title": "Stop Modeling State With Booleans: Make Impossible States Impossible in TypeScript",
-      "link": "https://dev.to/anas_sheikh_2/stop-modeling-state-with-booleans-make-impossible-states-impossible-in-typescript-2ecf",
+      "title": "A 30-Line JavaScript Tone Checker for Text Messages (and Where Regex Breaks)",
+      "link": "https://dev.to/aniccaapp/a-30-line-javascript-tone-checker-for-text-messages-and-where-regex-breaks-gll",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 03:56:59 +0000",
-      "summary": "Here is a type you have probably written: type UserState = { isLoading: boolean; error?: string; data?: User; }; It looks reasonable. Then one day your UI shows a spinner on top of an error message, a",
+      "date": "Sat, 31 Oct 2026 15:23:35 +0000",
+      "summary": "Disclosure: I make Honne, an iPhone app mentioned at the end. The code below is a standalone toy and is not how Honne works. Most text-message fights don't start with what someone said. They start wit",
       "score": 5,
-      "titleZh": "Stop Modeling State With Booleans: Make Impossible States Impossible in TypeScript"
+      "titleZh": "用于文本消息的 30 行 JavaScript 语气检查器（以及正则表达式中断的地方）"
     },
     {
-      "title": "150 TL per tank: six facts from one morning of Turkey's fuel prices",
-      "link": "https://dev.to/guncelakaryakitfiyatlari/150-tl-per-tank-six-facts-from-one-morning-of-turkeys-fuel-prices-4cbb",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 03:56:14 +0000",
-      "summary": "Filling a 50-litre diesel tank costs 150 TL more in Hakkâri than on Istanbul's Asian side. That is the entire spread of Turkey's diesel prices on 31 October 2026, and a tax step due the very next day ",
-      "score": 5,
-      "titleZh": "150 TL per tank: six facts from one morning of Turkey's fuel prices"
-    },
-    {
-      "title": "Checklist Memilih Jasa Pembuatan Website untuk UMKM (2026)",
-      "link": "https://dev.to/matobid/checklist-memilih-jasa-pembuatan-website-untuk-umkm-2026-2h07",
+      "title": "Your Website Is Losing Customers: 6 Fixes From a 50-Site Audit",
+      "link": "https://dev.to/codenabler/your-website-is-losing-customers-6-fixes-from-a-50-site-audit-3h1a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 03:54:55 +0000",
-      "summary": "Banyak UMKM akhirnya membayar mahal untuk website yang tidak pernah dipakai. Masalahnya biasanya bukan teknologi, tetapi salah memilih vendor sejak awal. Ini checklist yang saya pakai saat membantu kl",
+      "date": "Sat, 31 Oct 2026 15:20:57 +0000",
+      "summary": "Most small-business websites do not lose customers because the business is bad. They lose them because the website makes the next step hard, slow, or hard to trust. During a recent review of 50 small-",
       "score": 5,
-      "titleZh": "Checklist Memilih Jasa Pembuatan Website untuk UMKM (2026)"
+      "titleZh": "您的网站正在失去客户：50 个站点审核中的 6 个修复方法"
     },
     {
-      "title": "14 Sites To Buy Old GitHub Accounts (Aged or History's)",
-      "link": "https://dev.to/pvasmmmarket561/14-sites-to-buy-old-github-accounts-aged-or-historys-3a56",
+      "title": "Trick or Type Guard? Surviving `unknown` with is-kit 🎃",
+      "link": "https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 31 Oct 2026 15:16:52 +0000",
+      "summary": "Hoi hoi! 👋 I'm @nyaomaru, a frontend engineer who is scared of horror things 🙀 Happy Halloween! 🎃👻 Tonight, we're exploring a haunted TypeScript project. There are zombies 🧟, ghosts 👻, mysteriou",
+      "score": 5,
+      "titleZh": "技巧还是类型保护？使用 is-kit 在“未知”中生存 🎃"
+    },
+    {
+      "title": "France's gigabyte tax, the ChatGPT shared-link account bug, Scribd's breach and Tangled's federated forge",
+      "link": "https://dev.to/axrisi/frances-gigabyte-tax-the-chatgpt-shared-link-account-bug-scribds-breach-and-tangleds-federated-bi9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 03:50:35 +0000",
-      "summary": "14 Sites To Buy Old GitHub Accounts (Aged or History's) ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Create separate repositories. Organize projects according to their purpose, p",
+      "date": "Sat, 31 Oct 2026 15:15:00 +0000",
+      "summary": "Four developer stories from Saturday, October 31, 2026, each read from its own primary source. The first is a French tax on gigabytes that passed the National Assembly by one vote. The video has the w",
       "score": 5,
-      "titleZh": "14 Sites To Buy Old GitHub Accounts (Aged or History's)"
+      "titleZh": "法国的千兆字节税、ChatGPT 共享链接帐户漏洞、Scribd 的泄露以及《魔发奇缘》的联合伪造"
     },
     {
-      "title": "Guide to Buying Old Gmail Accounts: Benefits and Risks",
-      "link": "https://dev.to/geralda_beck_c7160bc51860/guide-to-buying-old-gmail-accounts-benefits-and-risks-1jei",
+      "title": "Free AutoCAD LISP for Surveyors: Essential Tools to Simplify Surveying Workflows",
+      "link": "https://dev.to/ken_kazama_fbd68e3bbfae62/free-autocad-lisp-for-surveyors-essential-tools-to-simplify-surveying-workflows-4e9f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 03:50:11 +0000",
-      "summary": "Guide to Buying Old Gmail Accounts: Benefits and Risks ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Understanding email account structure Students and everyday users can learn ho",
+      "date": "Sat, 31 Oct 2026 15:14:18 +0000",
+      "summary": "Surveying plays an important role in civil engineering, construction, land development, and infrastructure planning. Surveyors regularly work with coordinate data, elevation points, topographic inform",
       "score": 5,
-      "titleZh": "Guide to Buying Old Gmail Accounts: Benefits and Risks"
+      "titleZh": "适合测量员的免费 AutoCAD LISP：简化测量工作流程的基本工具"
     },
     {
-      "title": "Top 5 Trusted Platforms to Buy and Sell USA Facebook …",
-      "link": "https://dev.to/pvasmmmarket561/top-5-trusted-platforms-to-buy-and-sell-usa-facebook--56l",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 03:50:00 +0000",
-      "summary": "Top 5 Trusted Platforms to Buy and Sell USA Facebook … ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Facebook has become an important part of modern digital communication. Million",
-      "score": 5,
-      "titleZh": "Top 5 Trusted Platforms to Buy and Sell USA Facebook …"
-    },
-    {
-      "title": "One Idea, Seven Image Models: Building a Model-Aware Prompt Layer (With a Fallback That Never Breaks)",
-      "link": "https://dev.to/ipg_prompt_lab/one-idea-seven-image-models-building-a-model-aware-prompt-layer-with-a-fallback-that-never-42g3",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 03:47:59 +0000",
-      "summary": "Same subject, different wording per model: a small strategy-map pattern, plus a fallback for when the AI call fails If you generate images with more than one model, you have probably hit this: a promp",
-      "score": 5,
-      "titleZh": "One Idea, Seven Image Models: Building a Model-Aware Prompt Layer (With a Fallback That Never Breaks)"
-    },
-    {
-      "title": "Preventing Account Takeover (ATO) & Spam Floods: Email Risk-Scoring Explained",
-      "link": "https://dev.to/shawon_hossain1809256_/preventing-account-takeover-ato-spam-floods-email-risk-scoring-explained-3gd2",
+      "title": "Container: Docker Production Setup support multiple project",
+      "link": "https://dev.to/aj686/container-docker-production-setup-support-multiple-project-4ae7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 03:46:37 +0000",
-      "summary": "Preventing Account Takeover (ATO) & Spam Floods: Email Risk-Scoring Explained Credential stuffing and automated bot registration account for over 60% of all authentication-related cyber incidents. Att",
+      "date": "Sat, 31 Oct 2026 15:10:53 +0000",
+      "summary": "Hi my name AJ, this year I have been use docker in my machine. Before docker, usually i use Laragon for my setup and Apache is too bad for me haha always have problem with sql issue. Laragon is good b",
       "score": 5,
-      "titleZh": "Preventing Account Takeover (ATO) & Spam Floods: Email Risk-Scoring Explained"
+      "titleZh": "容器：Docker 生产设置支持多个项目"
     }
   ]
 }
