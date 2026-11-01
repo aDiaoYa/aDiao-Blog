@@ -1,249 +1,249 @@
 {
-  "updated": "2026-10-31T15:36:45.111Z",
-  "date": "2026-10-31",
+  "updated": "2026-11-01T04:28:06.898Z",
+  "date": "2026-11-01",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title": "Question regarding a previous post[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xktat3/question_regarding_a_previous_postd/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-01T03:46:13.000Z",
+      "summary": "Hi, There was a post a few years ago on this forum that I came across - https://www.reddit.com/r/MachineLearning/comments/mx686k/p_torchpq_efficient_nearest_neighbor_search_and/ It seems really intere",
+      "score": 40,
+      "titleZh": "Question regarding a previous post[D]"
+    },
+    {
+      "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-01T00:07:04.000Z",
+      "summary": "I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-fr",
+      "score": 40,
+      "titleZh": "跨模式（文本、图像、音频）的 ML 技术是否存在基本的重复模式，可以让我们对它们进行分组？ [R]"
+    },
+    {
+      "title": "Is neuro-evolution relevant? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-31T18:09:53.000Z",
+      "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people a",
+      "score": 40,
+      "titleZh": "Is neuro-evolution relevant? [D]"
+    },
+    {
+      "title": "I built a scikit-learn for RSI [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-31T16:33:26.000Z",
+      "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new v",
+      "score": 40,
+      "titleZh": "我为 RSI 构建了一个 scikit-learn [P]"
+    },
+    {
+      "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-31T15:21:39.000Z",
+      "summary": "submitted by /u/rottoneuro [link] [comments]",
+      "score": 40,
+      "titleZh": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-31T02:30:21.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+    },
+    {
+      "title": "Multi-Token Prediction Done Right [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-30T18:53:20.000Z",
+      "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hi",
+      "score": 40,
+      "titleZh": "Multi-Token Prediction Done Right [R]"
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-02T02:15:05.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] 自我推销主题"
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 30 Oct 2026 07:09:12 +0000",
-      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683",
-      "score": 935,
-      "titleZh": "Cursor Marketplace 上用于 VS Code 扩展的 Claude Code 中的后门"
+      "date": "Sat, 31 Oct 2026 21:50:13 +0000",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599",
+      "score": 36,
+      "titleZh": "AI text watermarking and quality loss"
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "source": "HN·AI",
+      "title": "nemotron-halloween",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 30 Oct 2026 14:08:20 +0000",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=5",
-      "score": 243,
-      "titleZh": "思科为工程师提供无限的人工智能代币来重写遗留代码"
-    },
-    {
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 29 Oct 2026 15:29:48 +0000",
-      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652",
-      "score": 114,
-      "titleZh": "人工智能、精益和形式验证的未来，与精益创造者 Leo de Moura 合作"
-    },
-    {
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "link": "https://arxiv.org/abs/2610.37720",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottleneck",
+      "date": "Fri, 30 Oct 2026 17:57:24 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "LRMoE：需求侧负载重新校准，以在内存受限节点上进行高效 MoE 训练"
+      "titleZh": "Nemotron 万圣节"
     },
     {
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "link": "https://arxiv.org/abs/2610.37731",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties ",
-      "score": 5,
-      "titleZh": "用于模型校准的摊销局部后验推理及其在海洋湍流闭合中的应用"
-    },
-    {
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "link": "https://arxiv.org/abs/2610.37732",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabi",
-      "score": 5,
-      "titleZh": "ThinkJev：一个想法，每个预算，用于校准类型决策"
-    },
-    {
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "link": "https://arxiv.org/abs/2610.37739",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still m",
-      "score": 5,
-      "titleZh": "OpenFrontiers：开放研究问题的集合和科学重新发现的基准"
-    },
-    {
-      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "link": "https://arxiv.org/abs/2610.37786",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-",
-      "score": 5,
-      "titleZh": "WebAnything：从狂野的网络到可扩展的代理环境"
-    },
-    {
-      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "link": "https://arxiv.org/abs/2610.37809",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that ",
-      "score": 5,
-      "titleZh": "本体抓住什么？策划、LLM 生成和数据衍生的本体作为知识图谱上 LLM 代理的检查器"
-    },
-    {
-      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "link": "https://arxiv.org/abs/2610.37830",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
-      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters",
-      "score": 5,
-      "titleZh": "测量代理智能合约综合中意图丢失的位置"
-    },
-    {
-      "title": "The three things that break every Mercado Pago Pix webhook signature",
-      "link": "https://dev.to/marceloaraujodev/mercado-pago-has-no-stripe-trigger-heres-what-that-costs-you-1ja1",
+      "title": "stageshow skill: How to Make Clean Product UI Demos With Your AI Coding Agent",
+      "link": "https://dev.to/useaifix/stageshow-skill-how-to-make-clean-product-ui-demos-with-your-ai-coding-agent-3dkj",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 15:34:47 +0000",
-      "summary": "The three things that break every Mercado Pago Pix webhook signature If you've integrated Stripe, you know stripe listen --forward-to localhost:3000/api/webhook and stripe trigger payment_intent.succe",
+      "date": "Sun, 01 Nov 2026 04:25:28 +0000",
+      "summary": "The stageshow skill is a new add-on for AI coding agents that helps them build \"faux UI\": simplified product screens, feature cards, bento grids and short cursor animations for landing pages and docs.",
       "score": 5,
-      "titleZh": "破坏每个 Mercado Pago Pix Webhook 签名的三件事"
+      "titleZh": "stageshow skill: How to Make Clean Product UI Demos With Your AI Coding Agent"
     },
     {
-      "title": "Mastering Data Fetching in Next.js: Advanced Strategies for Scale and Performance",
-      "link": "https://dev.to/mtahir27/mastering-data-fetching-in-nextjs-advanced-strategies-for-scale-and-performance-1288",
-      "source": "Dev.to Next.js",
+      "title": "I built an AI studio that hands the unfinished parts to a human developer",
+      "link": "https://dev.to/zefir9191/i-built-an-ai-studio-that-hands-the-unfinished-parts-to-a-human-developer-5bgb",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 15:34:40 +0000",
-      "summary": "Introduction: The Cornerstone of High-Performance Next.js Applications In the world of modern web development, particularly with frameworks like Next.js, data fetching is more than just retrieving inf",
+      "date": "Sun, 01 Nov 2026 04:22:45 +0000",
+      "summary": "Most AI app builders end at the same place: you get a demo that looks great, then you open the code and realize someone still has to wire up payments, a database, email, auth. The tool pretends that p",
       "score": 5,
-      "titleZh": "掌握 Next.js 中的数据获取：规模和性能的高级策略"
+      "titleZh": "我建立了一个人工智能工作室，将未完成的部分交给人类开发人员"
     },
     {
-      "title": "# Building a Reliable WhatsApp Webhook Handler with Node.js",
-      "link": "https://dev.to/pallab_das_71b2cda46b54f5/-building-a-reliable-whatsapp-webhook-handler-with-nodejs-2427",
+      "title": "Building a Metro Guide That Works on aTest the Reading Journey Slow Connection",
+      "link": "https://dev.to/elite_homefurniturehub_/building-a-metro-guide-that-works-on-atest-the-reading-journey-slow-connection-44fi",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 01 Nov 2026 04:21:11 +0000",
+      "summary": "Someone opens a metro guide on their phone. They are trying to understand where to change trains, but the page starts with a large video, a full-screen promotion, and a map that has not finished loadi",
+      "score": 5,
+      "titleZh": "Building a Metro Guide That Works on aTest the Reading Journey Slow Connection"
+    },
+    {
+      "title": "Security Tip: How Attackers Find Vulnerable Websites (Before You Do)",
+      "link": "https://dev.to/vulnerabilitytools/security-tip-how-attackers-find-vulnerable-websites-before-you-do-1mb8",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 01 Nov 2026 04:19:05 +0000",
+      "summary": "Most website owners imagine a hacker sitting down and picking their site on purpose. In reality, attackers rarely pick anyone at all. They run automated tools that scan thousands of websites an hour, ",
+      "score": 5,
+      "titleZh": "安全提示：攻击者如何找到易受攻击的网站（在您之前）"
+    },
+    {
+      "title": "Website Security for Founders: A Developer's Guide to SSL, Backups and Updates",
+      "link": "https://dev.to/aimencoders/website-security-for-founders-a-developers-guide-to-ssl-backups-and-updates-4enm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 01 Nov 2026 04:13:39 +0000",
+      "summary": "For developers, this founder's guide is also a handover checklist: the same SSL, backup, update, and access checks you should be able to demonstrate before a client site goes live, in plain language t",
+      "score": 5,
+      "titleZh": "Website Security for Founders: A Developer's Guide to SSL, Backups and Updates"
+    },
+    {
+      "title": "2026 Express Tunnel Car Wash CRM, Heavy Equipment Rental ERP, Commercial Janitorial & Private K-12 School Audits (60 Calculators)",
+      "link": "https://dev.to/artem_varganich/2026-express-tunnel-car-wash-crm-heavy-equipment-rental-erp-commercial-janitorial-private-k-12-3ccb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 01 Nov 2026 04:11:40 +0000",
+      "summary": "We just reached the 60 interactive B2B TCO calculators milestone (v2026.10.31) on AI SaaS Compass, expanding our operational & engineering library to 111 comparison matrices, 97 evaluated enterprise p",
+      "score": 5,
+      "titleZh": "2026 年快速隧道洗车 CRM、重型设备租赁 ERP、商业清洁和私立 K-12 学校审核（60 个计算器）"
+    },
+    {
+      "title": "Before You Ship a Task App, Test Its Data Export",
+      "link": "https://dev.to/elite_homefurniturehub_/before-you-ship-a-task-app-test-its-data-export-3fhe",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 01 Nov 2026 04:07:41 +0000",
+      "summary": "A task app can look great during a demo. You create a task, assign it to someone, add a deadline, and move it across a board. Then you click Export. The download contains task titles and dates. The co",
+      "score": 5,
+      "titleZh": "Before You Ship a Task App, Test Its Data Export"
+    },
+    {
+      "title": "How We Turned 30 Restaurant Nutrition PDFs into Calculators",
+      "link": "https://dev.to/asifikhan25/how-we-turned-30-restaurant-nutrition-pdfs-into-calculators-2bam",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 15:27:33 +0000",
-      "summary": "Receiving a webhook is easy. Processing it safely, handling duplicates, and recovering from failures is where production systems get interesting. When integrating a messaging API, it's tempting to bui",
+      "date": "Sun, 01 Nov 2026 04:04:25 +0000",
+      "summary": "Restaurant chains publish their nutrition facts, but rarely in a form you can use while ordering. Chipotle's guide lists every ingredient on its own row. Domino's lists toppings per serving, separatel",
       "score": 5,
-      "titleZh": "# 使用 Node.js 构建可靠的 WhatsApp Webhook 处理程序"
+      "titleZh": "我们如何将 30 个餐厅营养 PDF 转化为计算器"
     },
     {
-      "title": "I didn't want a stranger's code holding my Discord bot token, so I wrote my own MCP server",
-      "link": "https://dev.to/gautamsuthar/i-didnt-want-a-strangers-code-holding-my-discord-bot-token-so-i-wrote-my-own-mcp-server-2a0o",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 15:24:07 +0000",
-      "summary": "I wanted Claude Code to manage my Discord server. Create channels, sort out roles, clean up messages, check the audit log, the boring admin stuff. Community Discord MCP servers already exist. Every on",
-      "score": 5,
-      "titleZh": "我不想让陌生人的代码持有我的 Discord 机器人令牌，所以我编写了自己的 MCP 服务器"
-    },
-    {
-      "title": "A 30-Line JavaScript Tone Checker for Text Messages (and Where Regex Breaks)",
-      "link": "https://dev.to/aniccaapp/a-30-line-javascript-tone-checker-for-text-messages-and-where-regex-breaks-gll",
+      "title": "1/11",
+      "link": "https://dev.to/learner666/111-5786",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 15:23:35 +0000",
-      "summary": "Disclosure: I make Honne, an iPhone app mentioned at the end. The code below is a standalone toy and is not how Honne works. Most text-message fights don't start with what someone said. They start wit",
+      "date": "Sun, 01 Nov 2026 03:48:27 +0000",
+      "summary": "1/11 Currently stuck with the logic of the Calculator app. Will keep working on it on Tuesday ( I have something to do on Monday ) I thought it would be easy but I guess not. Actually I once made a si",
       "score": 5,
-      "titleZh": "用于文本消息的 30 行 JavaScript 语气检查器（以及正则表达式中断的地方）"
+      "titleZh": "1/11"
     },
     {
-      "title": "Your Website Is Losing Customers: 6 Fixes From a 50-Site Audit",
-      "link": "https://dev.to/codenabler/your-website-is-losing-customers-6-fixes-from-a-50-site-audit-3h1a",
-      "source": "Dev.to WebDev",
+      "title": "Building a Zero-Tracking In-Browser ATS Resume Builder: Client-Side PDF Generation with PDF-Lib",
+      "link": "https://dev.to/uchitchakma/building-a-zero-tracking-in-browser-ats-resume-builder-client-side-pdf-generation-with-pdf-lib-3ofe",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 31 Oct 2026 15:20:57 +0000",
-      "summary": "Most small-business websites do not lose customers because the business is bad. They lose them because the website makes the next step hard, slow, or hard to trust. During a recent review of 50 small-",
+      "date": "Sun, 01 Nov 2026 03:42:15 +0000",
+      "summary": "Building a Zero-Tracking In-Browser ATS Resume Builder: Client-Side PDF Generation with PDF-Lib Modern job seekers face a frustrating dilemma: almost every online resume builder traps users behind agg",
       "score": 5,
-      "titleZh": "您的网站正在失去客户：50 个站点审核中的 6 个修复方法"
-    },
-    {
-      "title": "Trick or Type Guard? Surviving `unknown` with is-kit 🎃",
-      "link": "https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 15:16:52 +0000",
-      "summary": "Hoi hoi! 👋 I'm @nyaomaru, a frontend engineer who is scared of horror things 🙀 Happy Halloween! 🎃👻 Tonight, we're exploring a haunted TypeScript project. There are zombies 🧟, ghosts 👻, mysteriou",
-      "score": 5,
-      "titleZh": "技巧还是类型保护？使用 is-kit 在“未知”中生存 🎃"
-    },
-    {
-      "title": "France's gigabyte tax, the ChatGPT shared-link account bug, Scribd's breach and Tangled's federated forge",
-      "link": "https://dev.to/axrisi/frances-gigabyte-tax-the-chatgpt-shared-link-account-bug-scribds-breach-and-tangleds-federated-bi9",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 15:15:00 +0000",
-      "summary": "Four developer stories from Saturday, October 31, 2026, each read from its own primary source. The first is a French tax on gigabytes that passed the National Assembly by one vote. The video has the w",
-      "score": 5,
-      "titleZh": "法国的千兆字节税、ChatGPT 共享链接帐户漏洞、Scribd 的泄露以及《魔发奇缘》的联合伪造"
-    },
-    {
-      "title": "Free AutoCAD LISP for Surveyors: Essential Tools to Simplify Surveying Workflows",
-      "link": "https://dev.to/ken_kazama_fbd68e3bbfae62/free-autocad-lisp-for-surveyors-essential-tools-to-simplify-surveying-workflows-4e9f",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 15:14:18 +0000",
-      "summary": "Surveying plays an important role in civil engineering, construction, land development, and infrastructure planning. Surveyors regularly work with coordinate data, elevation points, topographic inform",
-      "score": 5,
-      "titleZh": "适合测量员的免费 AutoCAD LISP：简化测量工作流程的基本工具"
-    },
-    {
-      "title": "Container: Docker Production Setup support multiple project",
-      "link": "https://dev.to/aj686/container-docker-production-setup-support-multiple-project-4ae7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 31 Oct 2026 15:10:53 +0000",
-      "summary": "Hi my name AJ, this year I have been use docker in my machine. Before docker, usually i use Laragon for my setup and Apache is too bad for me haha always have problem with sql issue. Laragon is good b",
-      "score": 5,
-      "titleZh": "容器：Docker 生产设置支持多个项目"
+      "titleZh": "构建零跟踪浏览器内 ATS 简历生成器：使用 PDF-Lib 生成客户端 PDF"
     }
   ]
 }
