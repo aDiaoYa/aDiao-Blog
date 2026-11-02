@@ -1,69 +1,93 @@
 {
-  "updated": "2026-11-01T04:28:06.898Z",
-  "date": "2026-11-01",
+  "updated": "2026-11-02T20:00:27.397Z",
+  "date": "2026-11-02",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Question regarding a previous post[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xktat3/question_regarding_a_previous_postd/",
+      "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-01T03:46:13.000Z",
-      "summary": "Hi, There was a post a few years ago on this forum that I came across - https://www.reddit.com/r/MachineLearning/comments/mx686k/p_torchpq_efficient_nearest_neighbor_search_and/ It seems really intere",
+      "date": "2026-11-02T19:00:24.000Z",
+      "summary": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my n",
       "score": 40,
-      "titleZh": "Question regarding a previous post[D]"
+      "titleZh": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]"
     },
     {
-      "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+      "title": "To all ML PhDs, how are you guys doing these days? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-01T00:07:04.000Z",
-      "summary": "I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-fr",
+      "date": "2026-11-02T18:52:17.000Z",
+      "summary": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD",
       "score": 40,
-      "titleZh": "跨模式（文本、图像、音频）的 ML 技术是否存在基本的重复模式，可以让我们对它们进行分组？ [R]"
+      "titleZh": "各位机器学习博士们，你们最近过得怎么样？ [D]"
     },
     {
-      "title": "Is neuro-evolution relevant? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+      "title": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm3im8/operators_day_10_founders_hiring_for_founding_ml/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-31T18:09:53.000Z",
-      "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people a",
+      "date": "2026-11-02T17:28:16.000Z",
+      "summary": "Hi all! I'm part of the EWOR team and we're organising Operators Day this Thursday, November 5 (4:30 PM CET / 9 PM IST), online on Zoom. Ten founders will be pitching live, sharing what they're buildi",
       "score": 40,
-      "titleZh": "Is neuro-evolution relevant? [D]"
+      "titleZh": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]"
     },
     {
-      "title": "I built a scikit-learn for RSI [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+      "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-31T16:33:26.000Z",
-      "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new v",
+      "date": "2026-11-02T15:08:41.000Z",
+      "summary": "The paper claims text models align with image models faster when trained on \"good views\" (two different captions of one photo) than on bad views (one caption, words hidden) or next-token prediction. I",
       "score": 40,
-      "titleZh": "我为 RSI 构建了一个 scikit-learn [P]"
+      "titleZh": "“好的视图击败下一个标记预测”的小规模检查（Balestriero & LeCun 2026）：仅人工字幕，11M 参数编码器 [P]"
     },
     {
-      "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+      "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-31T15:21:39.000Z",
-      "summary": "submitted by /u/rottoneuro [link] [comments]",
+      "date": "2026-11-02T14:32:14.000Z",
+      "summary": "It was just before OpenAI started that I met Ilya, who you interviewed. One of the first things he said to me was — “Look. The models, they just want to learn. You have to understand this. The models,",
       "score": 40,
-      "titleZh": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]"
+      "titleZh": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]"
+    },
+    {
+      "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T10:04:25.000Z",
+      "summary": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI ",
+      "score": 40,
+      "titleZh": "机器学习博士：您愿意在人工智能聊天机器人兴起之前还是之后完成博士学位？ [D]"
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T03:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
@@ -78,172 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "Multi-Token Prediction Done Right [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-      "source": "Reddit ML",
+      "title": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-30T18:53:20.000Z",
-      "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hi",
-      "score": 40,
-      "titleZh": "Multi-Token Prediction Done Right [R]"
+      "date": "Mon, 02 Nov 2026 17:45:00 +0000",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "score": 5,
+      "titleZh": "The latest AI news we announced in October 2026"
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-      "source": "Reddit ML",
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "2026-10-02T02:15:05.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] 自我推销主题"
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 31 Oct 2026 21:50:13 +0000",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599",
-      "score": 36,
-      "titleZh": "AI text watermarking and quality loss"
-    },
-    {
-      "title": "nemotron-halloween",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 30 Oct 2026 17:57:24 GMT",
-      "summary": "",
+      "date": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "score": 5,
-      "titleZh": "Nemotron 万圣节"
+      "titleZh": "电网保护者计划简介"
     },
     {
-      "title": "stageshow skill: How to Make Clean Product UI Demos With Your AI Coding Agent",
-      "link": "https://dev.to/useaifix/stageshow-skill-how-to-make-clean-product-ui-demos-with-your-ai-coding-agent-3dkj",
-      "source": "Dev.to WebDev",
+      "title": "Your Next.js Site Has Four Copies of Every Page. Here Is How to Tell Google Which One Counts",
+      "link": "https://dev.to/levelupdmg/your-nextjs-site-has-four-copies-of-every-page-here-is-how-to-tell-google-which-one-counts-7km",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 01 Nov 2026 04:25:28 +0000",
-      "summary": "The stageshow skill is a new add-on for AI coding agents that helps them build \"faux UI\": simplified product screens, feature cards, bento grids and short cursor animations for landing pages and docs.",
+      "date": "Mon, 02 Nov 2026 19:58:20 +0000",
+      "summary": "You ship one page. Google can crawl it at four or five different URLs, and it treats every one of them as a separate document until you say otherwise. On a Next.js site deployed to Vercel, most of tho",
       "score": 5,
-      "titleZh": "stageshow skill: How to Make Clean Product UI Demos With Your AI Coding Agent"
+      "titleZh": "Your Next.js Site Has Four Copies of Every Page. Here Is How to Tell Google Which One Counts"
     },
     {
-      "title": "I built an AI studio that hands the unfinished parts to a human developer",
-      "link": "https://dev.to/zefir9191/i-built-an-ai-studio-that-hands-the-unfinished-parts-to-a-human-developer-5bgb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 01 Nov 2026 04:22:45 +0000",
-      "summary": "Most AI app builders end at the same place: you get a demo that looks great, then you open the code and realize someone still has to wire up payments, a database, email, auth. The tool pretends that p",
-      "score": 5,
-      "titleZh": "我建立了一个人工智能工作室，将未完成的部分交给人类开发人员"
-    },
-    {
-      "title": "Building a Metro Guide That Works on aTest the Reading Journey Slow Connection",
-      "link": "https://dev.to/elite_homefurniturehub_/building-a-metro-guide-that-works-on-atest-the-reading-journey-slow-connection-44fi",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 01 Nov 2026 04:21:11 +0000",
-      "summary": "Someone opens a metro guide on their phone. They are trying to understand where to change trains, but the page starts with a large video, a full-screen promotion, and a map that has not finished loadi",
-      "score": 5,
-      "titleZh": "Building a Metro Guide That Works on aTest the Reading Journey Slow Connection"
-    },
-    {
-      "title": "Security Tip: How Attackers Find Vulnerable Websites (Before You Do)",
-      "link": "https://dev.to/vulnerabilitytools/security-tip-how-attackers-find-vulnerable-websites-before-you-do-1mb8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 01 Nov 2026 04:19:05 +0000",
-      "summary": "Most website owners imagine a hacker sitting down and picking their site on purpose. In reality, attackers rarely pick anyone at all. They run automated tools that scan thousands of websites an hour, ",
-      "score": 5,
-      "titleZh": "安全提示：攻击者如何找到易受攻击的网站（在您之前）"
-    },
-    {
-      "title": "Website Security for Founders: A Developer's Guide to SSL, Backups and Updates",
-      "link": "https://dev.to/aimencoders/website-security-for-founders-a-developers-guide-to-ssl-backups-and-updates-4enm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 01 Nov 2026 04:13:39 +0000",
-      "summary": "For developers, this founder's guide is also a handover checklist: the same SSL, backup, update, and access checks you should be able to demonstrate before a client site goes live, in plain language t",
-      "score": 5,
-      "titleZh": "Website Security for Founders: A Developer's Guide to SSL, Backups and Updates"
-    },
-    {
-      "title": "2026 Express Tunnel Car Wash CRM, Heavy Equipment Rental ERP, Commercial Janitorial & Private K-12 School Audits (60 Calculators)",
-      "link": "https://dev.to/artem_varganich/2026-express-tunnel-car-wash-crm-heavy-equipment-rental-erp-commercial-janitorial-private-k-12-3ccb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 01 Nov 2026 04:11:40 +0000",
-      "summary": "We just reached the 60 interactive B2B TCO calculators milestone (v2026.10.31) on AI SaaS Compass, expanding our operational & engineering library to 111 comparison matrices, 97 evaluated enterprise p",
-      "score": 5,
-      "titleZh": "2026 年快速隧道洗车 CRM、重型设备租赁 ERP、商业清洁和私立 K-12 学校审核（60 个计算器）"
-    },
-    {
-      "title": "Before You Ship a Task App, Test Its Data Export",
-      "link": "https://dev.to/elite_homefurniturehub_/before-you-ship-a-task-app-test-its-data-export-3fhe",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 01 Nov 2026 04:07:41 +0000",
-      "summary": "A task app can look great during a demo. You create a task, assign it to someone, add a deadline, and move it across a board. Then you click Export. The download contains task titles and dates. The co",
-      "score": 5,
-      "titleZh": "Before You Ship a Task App, Test Its Data Export"
-    },
-    {
-      "title": "How We Turned 30 Restaurant Nutrition PDFs into Calculators",
-      "link": "https://dev.to/asifikhan25/how-we-turned-30-restaurant-nutrition-pdfs-into-calculators-2bam",
+      "title": "Remove a Photo Background in the Browser: An On-Device Model, No Upload",
+      "link": "https://dev.to/onepassapps/remove-a-photo-background-in-the-browser-an-on-device-model-no-upload-5h87",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 01 Nov 2026 04:04:25 +0000",
-      "summary": "Restaurant chains publish their nutrition facts, but rarely in a form you can use while ordering. Chipotle's guide lists every ingredient on its own row. Domino's lists toppings per serving, separatel",
+      "date": "Mon, 02 Nov 2026 19:57:45 +0000",
+      "summary": "I work on OnePassApps. We build browser studios that process files in the tab instead of uploading them, and this is the Image Studio's background remover. There is a specific reason this tool exists ",
       "score": 5,
-      "titleZh": "我们如何将 30 个餐厅营养 PDF 转化为计算器"
+      "titleZh": "删除浏览器中的照片背景：设备上模型，无需上传"
     },
     {
-      "title": "1/11",
-      "link": "https://dev.to/learner666/111-5786",
+      "title": "Buy TikTok Accounts: A Guide to Quick and Easy Account Access",
+      "link": "https://dev.to/arlene_carter_a4a9945e31d/buy-tiktok-accounts-a-guide-to-quick-and-easy-account-access-5bjk",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 01 Nov 2026 03:48:27 +0000",
-      "summary": "1/11 Currently stuck with the logic of the Calculator app. Will keep working on it on Tuesday ( I have something to do on Monday ) I thought it would be easy but I guess not. Actually I once made a si",
+      "date": "Mon, 02 Nov 2026 19:57:25 +0000",
+      "summary": "**Step-by-Step Guide to Trading TikTok Accounts on FameSwap 💥🔆🔆🔆 💥🔆🔆🔆 💥🔆🔆🔆 💥🔆🔆🔆 💥🔆🔆🔆 If you want more information, just contact us now. kycmarketusa@gmail.com 💥🔆🔆🔆 💥🔆🔆🔆 💥\ud83d",
       "score": 5,
-      "titleZh": "1/11"
+      "titleZh": "Buy TikTok Accounts: A Guide to Quick and Easy Account Access"
     },
     {
-      "title": "Building a Zero-Tracking In-Browser ATS Resume Builder: Client-Side PDF Generation with PDF-Lib",
-      "link": "https://dev.to/uchitchakma/building-a-zero-tracking-in-browser-ats-resume-builder-client-side-pdf-generation-with-pdf-lib-3ofe",
-      "source": "Dev.to JS",
+      "title": "Cómo encontrar licitaciones relevantes sin revisar miles de anuncios",
+      "link": "https://dev.to/pablotheblink/como-encontrar-licitaciones-relevantes-sin-revisar-miles-de-anuncios-goh",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 01 Nov 2026 03:42:15 +0000",
-      "summary": "Building a Zero-Tracking In-Browser ATS Resume Builder: Client-Side PDF Generation with PDF-Lib Modern job seekers face a frustrating dilemma: almost every online resume builder traps users behind agg",
+      "date": "Mon, 02 Nov 2026 19:53:16 +0000",
+      "summary": "Las licitaciones públicas pueden ser una oportunidad para una pyme. El problema es encontrar las que encajan con lo que la empresa realmente puede ofrecer. Buscar a mano entre cientos de anuncios llev",
       "score": 5,
-      "titleZh": "构建零跟踪浏览器内 ATS 简历生成器：使用 PDF-Lib 生成客户端 PDF"
+      "titleZh": "Cómo encontrar licitaciones relatedes sin revisar Miles de anuncios"
+    },
+    {
+      "title": "DMA Codes Explained: Mapping US Visitors to TV Markets",
+      "link": "https://dev.to/abdullah_afzal/dma-codes-explained-mapping-us-visitors-to-tv-markets-3o76",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 02 Nov 2026 19:52:28 +0000",
+      "summary": "A DMA code is a three-digit Nielsen identifier for one of 210 US television markets: 501 is New York, 803 is Los Angeles, 807 is San Francisco-Oakland-San Jose. Media buyers plan, price, and report lo",
+      "score": 5,
+      "titleZh": "DMA Codes Explained: Mapping US Visitors to TV Markets"
+    },
+    {
+      "title": "From sitemap.xml to a full audit report",
+      "link": "https://dev.to/calimero_projects/from-sitemapxml-to-a-full-audit-report-46c7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 02 Nov 2026 19:51:19 +0000",
+      "summary": "Most audits start with a crawl. That is usually the wrong first move: a crawl discovers what the crawler can reach, not what the site actually publishes. A sitemap is a better seed — the site's own li",
+      "score": 5,
+      "titleZh": "从 sitemap.xml 到完整的审核报告"
+    },
+    {
+      "title": "I audited 100 public-sector websites in the EU and the US. The regional ranking is noise.",
+      "link": "https://dev.to/calimero_projects/i-audited-100-public-sector-websites-in-the-eu-and-the-us-the-regional-ranking-is-noise-519p",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 02 Nov 2026 19:51:18 +0000",
+      "summary": "Fifty European and fifty US public-sector homepages, same static audit, same day. Seventy-nine were auditable. The average scores differ by 2.2 points. The failures are almost identical. My first EU-v",
+      "score": 5,
+      "titleZh": "I audited 100 public-sector websites in the EU and the US. The regional ranking is noise."
+    },
+    {
+      "title": "Your age gate shouldn't compare the estimate to 18",
+      "link": "https://dev.to/andrew_ai_search/your-age-gate-shouldnt-compare-the-estimate-to-18-fbe",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 02 Nov 2026 19:49:06 +0000",
+      "summary": "Since April 2026 the amended COPPA Rule treats a child's selfie as personal information. California and the EU are tightening age rules too. So a lot of teams are adding facial age estimation to signu",
+      "score": 5,
+      "titleZh": "您的年龄门不应将估算值与 18 岁进行比较"
+    },
+    {
+      "title": "A Guide to Node.js SMS OTP Resend Semantics Across Template Releases",
+      "link": "https://dev.to/leiferiksson8493/a-guide-to-nodejs-sms-otp-resend-semantics-across-template-releases-580h",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 02 Nov 2026 19:48:25 +0000",
+      "summary": "If the password-reset message needs Choose this system shape Preserve this invariant Wording released alongside application policy Application-owned template revisions plus an SMS adapter A resend sta",
+      "score": 5,
+      "titleZh": "A Guide to Node.js SMS OTP Resend Semantics Across Template Releases"
+    },
+    {
+      "title": "Fintech OTP Requests: 3 Evidence Records for Rate-Limited SMS-Based 2FA",
+      "link": "https://dev.to/noahhayes7250/fintech-otp-requests-3-evidence-records-for-rate-limited-sms-based-2fa-3p99",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 02 Nov 2026 19:44:40 +0000",
+      "summary": "Rate-limit OTP requests for SMS-based 2FA in your backend, and keep delivery evidence separate from recipient suppression. For a fintech login flow, choose a provider after deciding how those three re",
+      "score": 5,
+      "titleZh": "金融科技 OTP 请求：基于短信的限速 2FA 的 3 条证据记录"
     }
   ]
 }
