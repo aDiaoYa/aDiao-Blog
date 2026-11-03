@@ -1,10 +1,46 @@
 {
-  "updated": "2026-11-02T20:00:27.397Z",
-  "date": "2026-11-02",
+  "updated": "2026-11-03T05:24:36.826Z",
+  "date": "2026-11-03",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-03T05:09:18.000Z",
+      "summary": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled t",
+      "score": 40,
+      "titleZh": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]"
+    },
+    {
+      "title": "ICLR 2027 review results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T20:41:35.000Z",
+      "summary": "The reviews will be out this week. What are the expectations with 60K+ submissions and the small scale of review rating? submitted by /u/Old-Duck-3693 [link] [comments]",
+      "score": 40,
+      "titleZh": "ICLR 2027评审结果[D]"
+    },
+    {
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T20:18:26.000Z",
+      "summary": "Link: https://rikiyat.github.io/blog/weight-space-programming/ Snippet: “We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d ex",
+      "score": 40,
+      "titleZh": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]"
+    },
     {
       "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
@@ -15,7 +51,7 @@
       "date": "2026-11-02T19:00:24.000Z",
       "summary": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my n",
       "score": 40,
-      "titleZh": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]"
+      "titleZh": "无法使用自己的代码和设置重现已发表论文的数字。我该如何呈现这个？ [R]"
     },
     {
       "title": "To all ML PhDs, how are you guys doing these days? [D]",
@@ -27,43 +63,7 @@
       "date": "2026-11-02T18:52:17.000Z",
       "summary": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD",
       "score": 40,
-      "titleZh": "各位机器学习博士们，你们最近过得怎么样？ [D]"
-    },
-    {
-      "title": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm3im8/operators_day_10_founders_hiring_for_founding_ml/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T17:28:16.000Z",
-      "summary": "Hi all! I'm part of the EWOR team and we're organising Operators Day this Thursday, November 5 (4:30 PM CET / 9 PM IST), online on Zoom. Ten founders will be pitching live, sharing what they're buildi",
-      "score": 40,
-      "titleZh": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]"
-    },
-    {
-      "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T15:08:41.000Z",
-      "summary": "The paper claims text models align with image models faster when trained on \"good views\" (two different captions of one photo) than on bad views (one caption, words hidden) or next-token prediction. I",
-      "score": 40,
-      "titleZh": "“好的视图击败下一个标记预测”的小规模检查（Balestriero & LeCun 2026）：仅人工字幕，11M 参数编码器 [P]"
-    },
-    {
-      "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T14:32:14.000Z",
-      "summary": "It was just before OpenAI started that I met Ilya, who you interviewed. One of the first things he said to me was — “Look. The models, they just want to learn. You have to understand this. The models,",
-      "score": 40,
-      "titleZh": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]"
+      "titleZh": "To all ML PhDs, how are you guys doing these days? [D]"
     },
     {
       "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
@@ -102,148 +102,148 @@
       "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
     },
     {
-      "title": "The latest AI news we announced in October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 02 Nov 2026 17:45:00 +0000",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "score": 5,
-      "titleZh": "The latest AI news we announced in October 2026"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "score": 5,
-      "titleZh": "电网保护者计划简介"
+      "titleZh": "Rewarding defenders with bigger bug bounties"
     },
     {
-      "title": "Your Next.js Site Has Four Copies of Every Page. Here Is How to Tell Google Which One Counts",
-      "link": "https://dev.to/levelupdmg/your-nextjs-site-has-four-copies-of-every-page-here-is-how-to-tell-google-which-one-counts-7km",
-      "source": "Dev.to Next.js",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Mon, 02 Nov 2026 19:58:20 +0000",
-      "summary": "You ship one page. Google can crawl it at four or five different URLs, and it treats every one of them as a separate document until you say otherwise. On a Next.js site deployed to Vercel, most of tho",
+      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "score": 5,
-      "titleZh": "Your Next.js Site Has Four Copies of Every Page. Here Is How to Tell Google Which One Counts"
+      "titleZh": "准备下一次安全冲刺以强化 OpenAI"
     },
     {
-      "title": "Remove a Photo Background in the Browser: An On-Device Model, No Upload",
-      "link": "https://dev.to/onepassapps/remove-a-photo-background-in-the-browser-an-on-device-model-no-upload-5h87",
+      "title": "How I Got a WordPress News Site to a 96 Mobile PageSpeed Score Without Delaying JavaScript",
+      "link": "https://dev.to/timelyups/how-i-got-a-wordpress-news-site-to-a-96-mobile-pagespeed-score-without-delaying-javascript-4787",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:57:45 +0000",
-      "summary": "I work on OnePassApps. We build browser studios that process files in the tab instead of uploading them, and this is the Image Studio's background remover. There is a specific reason this tool exists ",
+      "date": "Tue, 03 Nov 2026 05:23:13 +0000",
+      "summary": "News sites are some of the hardest WordPress sites to make fast. Every article page carries a featured image, ads, share buttons, related posts, and a pile of plugin CSS and JavaScript — and readers o",
       "score": 5,
-      "titleZh": "删除浏览器中的照片背景：设备上模型，无需上传"
+      "titleZh": "How I Got a WordPress News Site to a 96 Mobile PageSpeed Score Without Delaying JavaScript"
     },
     {
-      "title": "Buy TikTok Accounts: A Guide to Quick and Easy Account Access",
-      "link": "https://dev.to/arlene_carter_a4a9945e31d/buy-tiktok-accounts-a-guide-to-quick-and-easy-account-access-5bjk",
+      "title": "Security Tip: Clickjacking — When a Hidden Button Tricks Your Visitors",
+      "link": "https://dev.to/vulnerabilitytools/security-tip-clickjacking-when-a-hidden-button-tricks-your-visitors-8m1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 03 Nov 2026 05:16:56 +0000",
+      "summary": "Imagine a visitor lands on a harmless-looking page, clicks what looks like a \"Play\" button — and unknowingly clicks \"Delete account\" or \"Confirm payment\" on your website instead. That is clickjacking,",
+      "score": 5,
+      "titleZh": "安全提示：点击劫持 - 当隐藏按钮欺骗您的访问者时"
+    },
+    {
+      "title": "Split a CSV in the Browser: Row Counts, Column Values and the Bytes You Get",
+      "link": "https://dev.to/onepassapps/split-a-csv-in-the-browser-row-counts-column-values-and-the-bytes-you-get-392c",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:57:25 +0000",
-      "summary": "**Step-by-Step Guide to Trading TikTok Accounts on FameSwap 💥🔆🔆🔆 💥🔆🔆🔆 💥🔆🔆🔆 💥🔆🔆🔆 💥🔆🔆🔆 If you want more information, just contact us now. kycmarketusa@gmail.com 💥🔆🔆🔆 💥🔆🔆🔆 💥\ud83d",
+      "date": "Tue, 03 Nov 2026 05:16:29 +0000",
+      "summary": "Full disclosure: I work on OnePassApps. Splitting a big CSV into smaller files usually starts with \"upload it here\" - and the file usually holds names, emails or order records you would rather not han",
       "score": 5,
-      "titleZh": "Buy TikTok Accounts: A Guide to Quick and Easy Account Access"
+      "titleZh": "Split a CSV in the Browser: Row Counts, Column Values and the Bytes You Get"
     },
     {
-      "title": "Cómo encontrar licitaciones relevantes sin revisar miles de anuncios",
-      "link": "https://dev.to/pablotheblink/como-encontrar-licitaciones-relevantes-sin-revisar-miles-de-anuncios-goh",
+      "title": "Two of 30 YouTube Channels Published an Email. The Hop to Their Websites Found 15",
+      "link": "https://dev.to/matveyg/two-of-30-youtube-channels-published-an-email-the-hop-to-their-websites-found-15-1gi7",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 03 Nov 2026 05:16:17 +0000",
+      "summary": "I run a visa agency in Bali; the other half of my week goes into Apify Actors. Both halves keep asking for the same thing: turn a topic into a list of people you can actually write to. For YouTube tha",
+      "score": 5,
+      "titleZh": "30 个 YouTube 频道中有两个发布了电子邮件。跳转到他们的网站发现 15"
+    },
+    {
+      "title": "Hosting Types for Developers: Which One Fits Which Project?",
+      "link": "https://dev.to/globalvior_9781/hosting-types-for-developers-which-one-fits-which-project-22b0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:53:16 +0000",
-      "summary": "Las licitaciones públicas pueden ser una oportunidad para una pyme. El problema es encontrar las que encajan con lo que la empresa realmente puede ofrecer. Buscar a mano entre cientos de anuncios llev",
+      "date": "Tue, 03 Nov 2026 05:14:21 +0000",
+      "summary": "Every few weeks, someone asks me where to deploy a client's site, and the honest answer is always \"it depends.\" So instead of a hot take, here is the mental model I use. The one variable that separate",
       "score": 5,
-      "titleZh": "Cómo encontrar licitaciones relatedes sin revisar Miles de anuncios"
+      "titleZh": "Hosting Types for Developers: Which One Fits Which Project?"
     },
     {
-      "title": "DMA Codes Explained: Mapping US Visitors to TV Markets",
-      "link": "https://dev.to/abdullah_afzal/dma-codes-explained-mapping-us-visitors-to-tv-markets-3o76",
+      "title": "5 Mobile Website Mistakes Small Businesses Make (and Quick Fixes)",
+      "link": "https://dev.to/enzora_official/5-mobile-website-mistakes-small-businesses-make-and-quick-fixes-4g80",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:52:28 +0000",
-      "summary": "A DMA code is a three-digit Nielsen identifier for one of 210 US television markets: 501 is New York, 803 is Los Angeles, 807 is San Francisco-Oakland-San Jose. Media buyers plan, price, and report lo",
+      "date": "Tue, 03 Nov 2026 05:11:14 +0000",
+      "summary": "For most local businesses, the majority of visitors arrive on a phone, often while standing in a parking lot deciding where to go. If the site is painful on a small screen, they hit back and pick the ",
       "score": 5,
-      "titleZh": "DMA Codes Explained: Mapping US Visitors to TV Markets"
+      "titleZh": "小型企业常犯的 5 个移动网站错误（以及快速修复方法）"
     },
     {
-      "title": "From sitemap.xml to a full audit report",
-      "link": "https://dev.to/calimero_projects/from-sitemapxml-to-a-full-audit-report-46c7",
+      "title": "8 Best Places to Buy EDU Emails for Student Discounts",
+      "link": "https://dev.to/pvasmmmarket65465/8-best-places-to-buy-edu-emails-for-student-discounts-2jno",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:51:19 +0000",
-      "summary": "Most audits start with a crawl. That is usually the wrong first move: a crawl discovers what the crawler can reach, not what the site actually publishes. A sitemap is a better seed — the site's own li",
+      "date": "Tue, 03 Nov 2026 05:10:59 +0000",
+      "summary": "8 Best Places to Buy EDU Emails for Student Discounts ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Check academic email regularly Create a predictable routine for reviewing insti",
       "score": 5,
-      "titleZh": "从 sitemap.xml 到完整的审核报告"
+      "titleZh": "8 Best Places to Buy EDU Emails for Student Discounts"
     },
     {
-      "title": "I audited 100 public-sector websites in the EU and the US. The regional ranking is noise.",
-      "link": "https://dev.to/calimero_projects/i-audited-100-public-sector-websites-in-the-eu-and-the-us-the-regional-ranking-is-noise-519p",
+      "title": "Web App Development Cost in 2026: Real Numbers for MVPs",
+      "link": "https://dev.to/muhammadmoiz269/web-app-development-cost-in-2026-real-numbers-for-mvps-ijp",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:51:18 +0000",
-      "summary": "Fifty European and fifty US public-sector homepages, same static audit, same day. Seventy-nine were auditable. The average scores differ by 2.2 points. The failures are almost identical. My first EU-v",
+      "date": "Tue, 03 Nov 2026 05:09:02 +0000",
+      "summary": "Originally published at muhammadmoiz.dev. Web app development cost depends on three things: how much you build, who builds it, and what it costs to run once it is live. There is no honest single numbe",
       "score": 5,
-      "titleZh": "I audited 100 public-sector websites in the EU and the US. The regional ranking is noise."
+      "titleZh": "2026 年 Web 应用程序开发成本：MVP 的真实数字"
     },
     {
-      "title": "Your age gate shouldn't compare the estimate to 18",
-      "link": "https://dev.to/andrew_ai_search/your-age-gate-shouldnt-compare-the-estimate-to-18-fbe",
+      "title": "When an AI SDK Installation Guide Doesn't Match Its Code Example",
+      "link": "https://dev.to/nwajichukwu_goodness_audit/when-an-ai-sdk-installation-guide-doesnt-match-its-code-example-2ib7",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 03 Nov 2026 05:08:32 +0000",
+      "summary": "Installing an SDK and following its integration guide should lead developers toward a compatible implementation. But what happens when the installation instructions and the code example appear to targ",
+      "score": 5,
+      "titleZh": "When an AI SDK Installation Guide Doesn't Match Its Code Example"
+    },
+    {
+      "title": "Time Zones Are Hard: Building a Converter with Intl.DateTimeFormat (DST Gaps, Folds and 5:45 Offsets)",
+      "link": "https://dev.to/md_shohan_102187760726951/time-zones-are-hard-building-a-converter-with-intldatetimeformat-dst-gaps-folds-and-545-903",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 02 Nov 2026 19:49:06 +0000",
-      "summary": "Since April 2026 the amended COPPA Rule treats a child's selfie as personal information. California and the EU are tightening age rules too. So a lot of teams are adding facial age estimation to signu",
+      "date": "Tue, 03 Nov 2026 05:02:11 +0000",
+      "summary": "Remote teams, international calls and API logs share one problem: a time that is perfectly clear in one city is ambiguous everywhere else. \"Let's meet at 3 pm\" is not a time until it has a zone attach",
       "score": 5,
-      "titleZh": "您的年龄门不应将估算值与 18 岁进行比较"
-    },
-    {
-      "title": "A Guide to Node.js SMS OTP Resend Semantics Across Template Releases",
-      "link": "https://dev.to/leiferiksson8493/a-guide-to-nodejs-sms-otp-resend-semantics-across-template-releases-580h",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 02 Nov 2026 19:48:25 +0000",
-      "summary": "If the password-reset message needs Choose this system shape Preserve this invariant Wording released alongside application policy Application-owned template revisions plus an SMS adapter A resend sta",
-      "score": 5,
-      "titleZh": "A Guide to Node.js SMS OTP Resend Semantics Across Template Releases"
-    },
-    {
-      "title": "Fintech OTP Requests: 3 Evidence Records for Rate-Limited SMS-Based 2FA",
-      "link": "https://dev.to/noahhayes7250/fintech-otp-requests-3-evidence-records-for-rate-limited-sms-based-2fa-3p99",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 02 Nov 2026 19:44:40 +0000",
-      "summary": "Rate-limit OTP requests for SMS-based 2FA in your backend, and keep delivery evidence separate from recipient suppression. For a fintech login flow, choose a provider after deciding how those three re",
-      "score": 5,
-      "titleZh": "金融科技 OTP 请求：基于短信的限速 2FA 的 3 条证据记录"
+      "titleZh": "时区很难：使用 Intl.DateTimeFormat 构建转换器（DST 间隙、折叠和 5:45 偏移）"
     }
   ]
 }
