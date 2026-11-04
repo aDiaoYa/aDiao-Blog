@@ -1,81 +1,81 @@
 {
-  "updated": "2026-11-03T05:24:36.826Z",
-  "date": "2026-11-03",
+  "updated": "2026-11-04T17:45:32.493Z",
+  "date": "2026-11-04",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+      "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-03T05:09:18.000Z",
-      "summary": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled t",
+      "date": "2026-11-04T16:26:12.000Z",
+      "summary": "Do looped transformers, which reuse the same weights at every iteration, also save HBM traffic? In my new post I cover the looped architecture (Huginn), then model and measure its performance on a B20",
       "score": 40,
-      "titleZh": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]"
+      "titleZh": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]"
     },
     {
-      "title": "ICLR 2027 review results [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
+      "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-02T20:41:35.000Z",
-      "summary": "The reviews will be out this week. What are the expectations with 60K+ submissions and the small scale of review rating? submitted by /u/Old-Duck-3693 [link] [comments]",
+      "date": "2026-11-04T16:17:39.000Z",
+      "summary": "As per the the 2027 CVPR guidelines: \"Maximum number of submissions (continuing from CVPR 2026): Each author may submit at most 25 papers. If an author enrolls more than 25 papers, the Program Chairs ",
       "score": 40,
-      "titleZh": "ICLR 2027评审结果[D]"
+      "titleZh": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]"
     },
     {
-      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+      "title": "A message to top tier conferences [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-02T20:18:26.000Z",
-      "summary": "Link: https://rikiyat.github.io/blog/weight-space-programming/ Snippet: “We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d ex",
+      "date": "2026-11-04T09:55:50.000Z",
+      "summary": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that \"AI cheaters\" didn't even read their own paper before presentation",
       "score": 40,
-      "titleZh": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]"
+      "titleZh": "A message to top tier conferences [D]"
     },
     {
-      "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
+      "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-02T19:00:24.000Z",
-      "summary": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my n",
+      "date": "2026-11-04T09:00:29.000Z",
+      "summary": "Hey everyone— we’re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0, an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences.",
       "score": 40,
-      "titleZh": "无法使用自己的代码和设置重现已发表论文的数字。我该如何呈现这个？ [R]"
+      "titleZh": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]"
     },
     {
-      "title": "To all ML PhDs, how are you guys doing these days? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
+      "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-02T18:52:17.000Z",
-      "summary": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD",
+      "date": "2026-11-04T06:24:54.000Z",
+      "summary": "I'm just wondering about visa processing situation for NeurIPS sydney attendees. Invitation letter and all valid docs are not really helping (one friend got rejected), processing time is tooo long (al",
       "score": 40,
-      "titleZh": "To all ML PhDs, how are you guys doing these days? [D]"
+      "titleZh": "Visa Situation for NeurIPS Sydney Attendees [D]"
     },
     {
-      "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
+      "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-02T10:04:25.000Z",
-      "summary": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI ",
+      "date": "2026-11-03T19:29:54.000Z",
+      "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a varie",
       "score": 40,
-      "titleZh": "机器学习博士：您愿意在人工智能聊天机器人兴起之前还是之后完成博士学位？ [D]"
+      "titleZh": "A new, open-weights 278M PII detection model and reference benchmark [R]"
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -99,151 +99,151 @@
       "date": "2026-10-31T02:30:21.000Z",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "score": 40,
-      "titleZh": "[D] 每月谁在招聘以及谁想被聘用？"
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "score": 5,
-      "titleZh": "Rewarding defenders with bigger bug bounties"
+      "titleZh": "OpenAI to acquire Pierre Computer Company, Inc."
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
       "score": 5,
-      "titleZh": "准备下一次安全冲刺以强化 OpenAI"
+      "titleZh": "Daybreak Red is now available in AWS GovCloud (US-East)"
     },
     {
-      "title": "How I Got a WordPress News Site to a 96 Mobile PageSpeed Score Without Delaying JavaScript",
-      "link": "https://dev.to/timelyups/how-i-got-a-wordpress-news-site-to-a-96-mobile-pagespeed-score-without-delaying-javascript-4787",
+      "title": "An end to buggy web apps",
+      "link": "https://replay.io/blog/an-end-to-buggy-web-apps",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 04 Nov 2026 17:01:44 +0000",
+      "summary": "Article URL: https://replay.io/blog/an-end-to-buggy-web-apps Comments URL: https://news.ycombinator.com/item?id=50368439",
+      "score": 22,
+      "titleZh": "An end to buggy web apps"
+    },
+    {
+      "title": "useContext in React",
+      "link": "https://dev.to/lokesh_a/usecontext-in-react-5098",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 03 Nov 2026 05:23:13 +0000",
-      "summary": "News sites are some of the hardest WordPress sites to make fast. Every article page carries a featured image, ads, share buttons, related posts, and a pile of plugin CSS and JavaScript — and readers o",
+      "date": "Wed, 04 Nov 2026 17:42:18 +0000",
+      "summary": "Imagine we are building a website with a dark mode feature. Multiple components may need to know whether dark mode is enabled or disabled. One way to share this data is through props. But passing prop",
       "score": 5,
-      "titleZh": "How I Got a WordPress News Site to a 96 Mobile PageSpeed Score Without Delaying JavaScript"
+      "titleZh": "useContext in React"
     },
     {
-      "title": "Security Tip: Clickjacking — When a Hidden Button Tricks Your Visitors",
-      "link": "https://dev.to/vulnerabilitytools/security-tip-clickjacking-when-a-hidden-button-tricks-your-visitors-8m1",
+      "title": "Mastering End-to-End Testing for Next.js: A Playwright Deep Dive",
+      "link": "https://dev.to/mtahir27/mastering-end-to-end-testing-for-nextjs-a-playwright-deep-dive-boc",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 04 Nov 2026 17:41:15 +0000",
+      "summary": "The Imperative of End-to-End Testing in Modern Next.js Applications In today's rapidly evolving web development landscape, frameworks like Next.js have become instrumental in building highly dynamic a",
+      "score": 5,
+      "titleZh": "Mastering End-to-End Testing for Next.js: A Playwright Deep Dive"
+    },
+    {
+      "title": "Signal Forms Over State Your SignalStore Owns",
+      "link": "https://dev.to/dimeloper/signal-forms-over-state-your-signalstore-owns-3n63",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 03 Nov 2026 05:16:56 +0000",
-      "summary": "Imagine a visitor lands on a harmless-looking page, clicks what looks like a \"Play\" button — and unknowingly clicks \"Delete account\" or \"Confirm payment\" on your website instead. That is clickjacking,",
+      "date": "Wed, 04 Nov 2026 17:39:53 +0000",
+      "summary": "In the previous post we moved the create form of our task board to Angular Signal Forms and made it submit into an event-driven NgRx Signal Store through a mutation. The board shows household tasks in",
       "score": 5,
-      "titleZh": "安全提示：点击劫持 - 当隐藏按钮欺骗您的访问者时"
+      "titleZh": "Signal Forms Over State Your SignalStore Owns"
     },
     {
-      "title": "Split a CSV in the Browser: Row Counts, Column Values and the Bytes You Get",
-      "link": "https://dev.to/onepassapps/split-a-csv-in-the-browser-row-counts-column-values-and-the-bytes-you-get-392c",
+      "title": "How Destructuring Is Used in React",
+      "link": "https://dev.to/lokesh_a/how-destructuring-is-used-in-react-2d4b",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 03 Nov 2026 05:16:29 +0000",
-      "summary": "Full disclosure: I work on OnePassApps. Splitting a big CSV into smaller files usually starts with \"upload it here\" - and the file usually holds names, emails or order records you would rather not han",
+      "date": "Wed, 04 Nov 2026 17:39:11 +0000",
+      "summary": "1. What Is Destructuring? Destructuring allows us to extract values from arrays and properties from objects and store them in separate variables. React uses destructuring in many places, especially wi",
       "score": 5,
-      "titleZh": "Split a CSV in the Browser: Row Counts, Column Values and the Bytes You Get"
+      "titleZh": "How Destructuring Is Used in React"
     },
     {
-      "title": "Two of 30 YouTube Channels Published an Email. The Hop to Their Websites Found 15",
-      "link": "https://dev.to/matveyg/two-of-30-youtube-channels-published-an-email-the-hop-to-their-websites-found-15-1gi7",
+      "title": "Why I Built \"Sarhne\": A Secure Anonymous Messaging Web App",
+      "link": "https://dev.to/a7med-salama/why-i-built-sarhne-a-secure-anonymous-messaging-web-app-1m76",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 03 Nov 2026 05:16:17 +0000",
-      "summary": "I run a visa agency in Bali; the other half of my week goes into Apify Actors. Both halves keep asking for the same thing: turn a topic into a list of people you can actually write to. For YouTube tha",
+      "date": "Wed, 04 Nov 2026 17:38:14 +0000",
+      "summary": "Hi everyone! 👋 I'm Ahmed, a Full-Stack Web Developer. Today, I'm excited to share my latest project with this amazing community: Sarhne (صارحني). What is Sarhne? Why did I build it? Tech Stack Fronte",
       "score": 5,
-      "titleZh": "30 个 YouTube 频道中有两个发布了电子邮件。跳转到他们的网站发现 15"
+      "titleZh": "Why I Built \"Sarhne\": A Secure Anonymous Messaging Web App"
     },
     {
-      "title": "Hosting Types for Developers: Which One Fits Which Project?",
-      "link": "https://dev.to/globalvior_9781/hosting-types-for-developers-which-one-fits-which-project-22b0",
+      "title": "Destructuring in JavaScript",
+      "link": "https://dev.to/lokesh_a/destructuring-in-javascript-57jd",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 04 Nov 2026 17:36:29 +0000",
+      "summary": "1. What Is Destructuring? Destructuring is a JavaScript feature that allows us to extract values from arrays and properties from objects and store them in separate variables. It helps us write cleaner",
+      "score": 5,
+      "titleZh": "Destructuring in JavaScript"
+    },
+    {
+      "title": "OWASP Top 10: Qué es y cómo aplicarlo día a día en tus proyectos",
+      "link": "https://dev.to/sergio_gmez_9533652d3b3c/owasp-top-10-que-es-y-como-aplicarlo-dia-a-dia-en-tus-proyectos-27ah",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 03 Nov 2026 05:14:21 +0000",
-      "summary": "Every few weeks, someone asks me where to deploy a client's site, and the honest answer is always \"it depends.\" So instead of a hot take, here is the mental model I use. The one variable that separate",
+      "date": "Wed, 04 Nov 2026 17:34:31 +0000",
+      "summary": "OWASP Top 10: Qué es y cómo aplicarlo día a día en tus proyectos El OWASP Top 10 es la referencia más utilizada por desarrolladores, equipos de seguridad y auditorías para identificar y mitigar las vu",
       "score": 5,
-      "titleZh": "Hosting Types for Developers: Which One Fits Which Project?"
+      "titleZh": "OWASP Top 10: Qué es y cómo aplicarlo día a día en tus proyectos"
     },
     {
-      "title": "5 Mobile Website Mistakes Small Businesses Make (and Quick Fixes)",
-      "link": "https://dev.to/enzora_official/5-mobile-website-mistakes-small-businesses-make-and-quick-fixes-4g80",
+      "title": "useEffect in React",
+      "link": "https://dev.to/lokesh_a/useeffect-in-react-4hf8",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 04 Nov 2026 17:31:21 +0000",
+      "summary": "1. What Is useEffect? useEffect is a React Hook used to handle side effects in functional components. A side effect is an operation that happens outside the normal process of displaying the UI. Some c",
+      "score": 5,
+      "titleZh": "useEffect in React"
+    },
+    {
+      "title": "How to Build and Deploy a Customer Churn Prediction Model using Scikit-Learn and FastAPI",
+      "link": "https://dev.to/fizaaltafbaig/how-to-build-and-deploy-a-customer-churn-prediction-model-using-scikit-learn-and-fastapi-4ok8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 03 Nov 2026 05:11:14 +0000",
-      "summary": "For most local businesses, the majority of visitors arrive on a phone, often while standing in a parking lot deciding where to go. If the site is painful on a small screen, they hit back and pick the ",
+      "date": "Wed, 04 Nov 2026 17:31:17 +0000",
+      "summary": "How to Build and Deploy a Customer Churn Prediction Model using Scikit-Learn and FastAPI Customer churn (customers leaving your product or service) is one of the most expensive problems a business fac",
       "score": 5,
-      "titleZh": "小型企业常犯的 5 个移动网站错误（以及快速修复方法）"
-    },
-    {
-      "title": "8 Best Places to Buy EDU Emails for Student Discounts",
-      "link": "https://dev.to/pvasmmmarket65465/8-best-places-to-buy-edu-emails-for-student-discounts-2jno",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 03 Nov 2026 05:10:59 +0000",
-      "summary": "8 Best Places to Buy EDU Emails for Student Discounts ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Check academic email regularly Create a predictable routine for reviewing insti",
-      "score": 5,
-      "titleZh": "8 Best Places to Buy EDU Emails for Student Discounts"
-    },
-    {
-      "title": "Web App Development Cost in 2026: Real Numbers for MVPs",
-      "link": "https://dev.to/muhammadmoiz269/web-app-development-cost-in-2026-real-numbers-for-mvps-ijp",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 03 Nov 2026 05:09:02 +0000",
-      "summary": "Originally published at muhammadmoiz.dev. Web app development cost depends on three things: how much you build, who builds it, and what it costs to run once it is live. There is no honest single numbe",
-      "score": 5,
-      "titleZh": "2026 年 Web 应用程序开发成本：MVP 的真实数字"
-    },
-    {
-      "title": "When an AI SDK Installation Guide Doesn't Match Its Code Example",
-      "link": "https://dev.to/nwajichukwu_goodness_audit/when-an-ai-sdk-installation-guide-doesnt-match-its-code-example-2ib7",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 03 Nov 2026 05:08:32 +0000",
-      "summary": "Installing an SDK and following its integration guide should lead developers toward a compatible implementation. But what happens when the installation instructions and the code example appear to targ",
-      "score": 5,
-      "titleZh": "When an AI SDK Installation Guide Doesn't Match Its Code Example"
-    },
-    {
-      "title": "Time Zones Are Hard: Building a Converter with Intl.DateTimeFormat (DST Gaps, Folds and 5:45 Offsets)",
-      "link": "https://dev.to/md_shohan_102187760726951/time-zones-are-hard-building-a-converter-with-intldatetimeformat-dst-gaps-folds-and-545-903",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 03 Nov 2026 05:02:11 +0000",
-      "summary": "Remote teams, international calls and API logs share one problem: a time that is perfectly clear in one city is ambiguous everywhere else. \"Let's meet at 3 pm\" is not a time until it has a zone attach",
-      "score": 5,
-      "titleZh": "时区很难：使用 Intl.DateTimeFormat 构建转换器（DST 间隙、折叠和 5:45 偏移）"
+      "titleZh": "How to Build and Deploy a Customer Churn Prediction Model using Scikit-Learn and FastAPI"
     }
   ]
 }
