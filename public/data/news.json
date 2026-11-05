@@ -1,249 +1,249 @@
 {
-  "updated": "2026-11-04T17:45:32.493Z",
-  "date": "2026-11-04",
+  "updated": "2026-11-05T05:09:25.204Z",
+  "date": "2026-11-05",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 04 Nov 2026 11:52:17 +0000",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336",
+      "score": 1129,
+      "titleZh": "AI is forcing us to pay off 40 years of technical debt"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "link": "https://openai.com/index/openai-to-acquire-pierre/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 04 Nov 2026 15:21:21 +0000",
+      "summary": "https://twitter.com/pierrecomputer/status/211799903617518818... Comments URL: https://news.ycombinator.com/item?id=50366863",
+      "score": 213,
+      "titleZh": "OpenAI to acquire Pierre Computer Company"
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "link": "https://news.ycombinator.com/item?id=50366117",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 04 Nov 2026 14:37:22 +0000",
+      "summary": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut ",
+      "score": 208,
+      "titleZh": "Ask HN: What's your current AI agentic setup?"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 04 Nov 2026 19:55:14 +0000",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654",
+      "score": 122,
+      "titleZh": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s"
+    },
+    {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 02 Nov 2026 15:48:45 +0000",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/ Comments URL: https://news.ycombinator.com/item?id=50338474",
+      "score": 98,
+      "titleZh": "Basically no one is using AI agents for their DoorDash orders"
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "link": "https://news.ycombinator.com/item?id=50368804",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 04 Nov 2026 17:31:53 +0000",
+      "summary": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are",
+      "score": 80,
+      "titleZh": "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
+    },
+    {
+      "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-04T16:26:12.000Z",
-      "summary": "Do looped transformers, which reuse the same weights at every iteration, also save HBM traffic? In my new post I cover the looped architecture (Huginn), then model and measure its performance on a B20",
+      "date": "2026-11-05T03:52:26.000Z",
+      "summary": "Hi. My AACL Main paper was just published on ACL Anthology, and I noticed that it appears as a Short Paper. My understanding that it was a long paper since that was what I selected during the ARR revi",
       "score": 40,
-      "titleZh": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]"
+      "titleZh": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]"
     },
     {
-      "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+      "title": "Anyone else tired of how expensive agent evaluations are? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-04T16:17:39.000Z",
-      "summary": "As per the the 2027 CVPR guidelines: \"Maximum number of submissions (continuing from CVPR 2026): Each author may submit at most 25 papers. If an author enrolls more than 25 papers, the Program Chairs ",
+      "date": "2026-11-05T03:33:01.000Z",
+      "summary": "So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes",
       "score": 40,
-      "titleZh": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]"
+      "titleZh": "Anyone else tired of how expensive agent evaluations are? [D]"
     },
     {
-      "title": "A message to top tier conferences [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+      "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-04T09:55:50.000Z",
-      "summary": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that \"AI cheaters\" didn't even read their own paper before presentation",
+      "date": "2026-11-05T02:55:15.000Z",
+      "summary": "I would assume LLMs have bumped this number, or maybe not. Which is why I am asking. If there are PIs on here, how many papers before you let your students graduate? Is the number different now than i",
       "score": 40,
-      "titleZh": "A message to top tier conferences [D]"
+      "titleZh": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]"
     },
     {
-      "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+      "title": "ICLR 2027 Reviews Discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-04T09:00:29.000Z",
-      "summary": "Hey everyone— we’re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0, an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences.",
+      "date": "2026-11-05T02:17:59.000Z",
+      "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these a",
       "score": 40,
-      "titleZh": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]"
+      "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-04T06:24:54.000Z",
-      "summary": "I'm just wondering about visa processing situation for NeurIPS sydney attendees. Invitation letter and all valid docs are not really helping (one friend got rejected), processing time is tooo long (al",
-      "score": 40,
-      "titleZh": "Visa Situation for NeurIPS Sydney Attendees [D]"
-    },
-    {
-      "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-03T19:29:54.000Z",
-      "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a varie",
-      "score": 40,
-      "titleZh": "A new, open-weights 278M PII detection model and reference benchmark [R]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T03:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-31T02:30:21.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 14:30:00 GMT",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "score": 5,
-      "titleZh": "OpenAI to acquire Pierre Computer Company, Inc."
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 07:00:00 GMT",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "score": 5,
-      "titleZh": "Daybreak Red is now available in AWS GovCloud (US-East)"
-    },
-    {
-      "title": "An end to buggy web apps",
-      "link": "https://replay.io/blog/an-end-to-buggy-web-apps",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:01:44 +0000",
-      "summary": "Article URL: https://replay.io/blog/an-end-to-buggy-web-apps Comments URL: https://news.ycombinator.com/item?id=50368439",
-      "score": 22,
-      "titleZh": "An end to buggy web apps"
-    },
-    {
-      "title": "useContext in React",
-      "link": "https://dev.to/lokesh_a/usecontext-in-react-5098",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:42:18 +0000",
-      "summary": "Imagine we are building a website with a dark mode feature. Multiple components may need to know whether dark mode is enabled or disabled. One way to share this data is through props. But passing prop",
-      "score": 5,
-      "titleZh": "useContext in React"
-    },
-    {
-      "title": "Mastering End-to-End Testing for Next.js: A Playwright Deep Dive",
-      "link": "https://dev.to/mtahir27/mastering-end-to-end-testing-for-nextjs-a-playwright-deep-dive-boc",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:41:15 +0000",
-      "summary": "The Imperative of End-to-End Testing in Modern Next.js Applications In today's rapidly evolving web development landscape, frameworks like Next.js have become instrumental in building highly dynamic a",
-      "score": 5,
-      "titleZh": "Mastering End-to-End Testing for Next.js: A Playwright Deep Dive"
-    },
-    {
-      "title": "Signal Forms Over State Your SignalStore Owns",
-      "link": "https://dev.to/dimeloper/signal-forms-over-state-your-signalstore-owns-3n63",
+      "title": "How to Download an X Space Recording (Free, No Login)",
+      "link": "https://dev.to/chavez_theresa_2723047923/how-to-download-an-x-space-recording-free-no-login-fp5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 04 Nov 2026 17:39:53 +0000",
-      "summary": "In the previous post we moved the create form of our task board to Angular Signal Forms and made it submit into an event-driven NgRx Signal Store through a mutation. The board shows household tasks in",
+      "date": "Thu, 05 Nov 2026 04:57:44 +0000",
+      "summary": "X Spaces are live audio conversations on X (formerly Twitter). A host opens a room, people join to talk or just listen, and when it's over, it's gone — unless someone saved it. X does keep a replay fo",
       "score": 5,
-      "titleZh": "Signal Forms Over State Your SignalStore Owns"
+      "titleZh": "How to Download an X Space Recording (Free, No Login)"
     },
     {
-      "title": "How Destructuring Is Used in React",
-      "link": "https://dev.to/lokesh_a/how-destructuring-is-used-in-react-2d4b",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:39:11 +0000",
-      "summary": "1. What Is Destructuring? Destructuring allows us to extract values from arrays and properties from objects and store them in separate variables. React uses destructuring in many places, especially wi",
-      "score": 5,
-      "titleZh": "How Destructuring Is Used in React"
-    },
-    {
-      "title": "Why I Built \"Sarhne\": A Secure Anonymous Messaging Web App",
-      "link": "https://dev.to/a7med-salama/why-i-built-sarhne-a-secure-anonymous-messaging-web-app-1m76",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:38:14 +0000",
-      "summary": "Hi everyone! 👋 I'm Ahmed, a Full-Stack Web Developer. Today, I'm excited to share my latest project with this amazing community: Sarhne (صارحني). What is Sarhne? Why did I build it? Tech Stack Fronte",
-      "score": 5,
-      "titleZh": "Why I Built \"Sarhne\": A Secure Anonymous Messaging Web App"
-    },
-    {
-      "title": "Destructuring in JavaScript",
-      "link": "https://dev.to/lokesh_a/destructuring-in-javascript-57jd",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:36:29 +0000",
-      "summary": "1. What Is Destructuring? Destructuring is a JavaScript feature that allows us to extract values from arrays and properties from objects and store them in separate variables. It helps us write cleaner",
-      "score": 5,
-      "titleZh": "Destructuring in JavaScript"
-    },
-    {
-      "title": "OWASP Top 10: Qué es y cómo aplicarlo día a día en tus proyectos",
-      "link": "https://dev.to/sergio_gmez_9533652d3b3c/owasp-top-10-que-es-y-como-aplicarlo-dia-a-dia-en-tus-proyectos-27ah",
+      "title": "How I Built a Free Favicon Generator for the Browser",
+      "link": "https://dev.to/usamafarooq/how-i-built-a-free-favicon-generator-for-the-browser-4mm5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 04 Nov 2026 17:34:31 +0000",
-      "summary": "OWASP Top 10: Qué es y cómo aplicarlo día a día en tus proyectos El OWASP Top 10 es la referencia más utilizada por desarrolladores, equipos de seguridad y auditorías para identificar y mitigar las vu",
+      "date": "Thu, 05 Nov 2026 04:56:22 +0000",
+      "summary": "How I Built a Free Favicon Generator for the Browser Every website needs a favicon — that tiny icon in the browser tab — yet making one properly means producing half a dozen files in different sizes a",
       "score": 5,
-      "titleZh": "OWASP Top 10: Qué es y cómo aplicarlo día a día en tus proyectos"
+      "titleZh": "How I Built a Free Favicon Generator for the Browser"
     },
     {
-      "title": "useEffect in React",
-      "link": "https://dev.to/lokesh_a/useeffect-in-react-4hf8",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 04 Nov 2026 17:31:21 +0000",
-      "summary": "1. What Is useEffect? useEffect is a React Hook used to handle side effects in functional components. A side effect is an operation that happens outside the normal process of displaying the UI. Some c",
-      "score": 5,
-      "titleZh": "useEffect in React"
-    },
-    {
-      "title": "How to Build and Deploy a Customer Churn Prediction Model using Scikit-Learn and FastAPI",
-      "link": "https://dev.to/fizaaltafbaig/how-to-build-and-deploy-a-customer-churn-prediction-model-using-scikit-learn-and-fastapi-4ok8",
+      "title": "Which Hosting Platforms Have an MCP Server So Claude Can Deploy Your App? (I Checked 5)",
+      "link": "https://dev.to/vikasprogrammer/which-hosting-platforms-have-an-mcp-server-so-claude-can-deploy-your-app-i-checked-5-dfk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 04 Nov 2026 17:31:17 +0000",
-      "summary": "How to Build and Deploy a Customer Churn Prediction Model using Scikit-Learn and FastAPI Customer churn (customers leaving your product or service) is one of the most expensive problems a business fac",
+      "date": "Thu, 05 Nov 2026 04:55:23 +0000",
+      "summary": "You built something with Claude. It works on your machine, or it only exists inside the chat as a pile of files. Now you want a URL you can send to someone. The question I kept seeing was: which hosti",
       "score": 5,
-      "titleZh": "How to Build and Deploy a Customer Churn Prediction Model using Scikit-Learn and FastAPI"
+      "titleZh": "Which Hosting Platforms Have an MCP Server So Claude Can Deploy Your App? (I Checked 5)"
+    },
+    {
+      "title": "How Can Developers Build Websites That Are Easy for Both Google and AI to Understand?",
+      "link": "https://dev.to/sameer_132f2fd384172fce41/how-can-developers-build-websites-that-are-easy-for-both-google-and-ai-to-understand-8bh",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:53:50 +0000",
+      "summary": "Building a website is no longer just about making it look attractive or adding the right keywords. In 2026, developers also need to think about how search engines and AI-powered search systems underst",
+      "score": 5,
+      "titleZh": "How Can Developers Build Websites That Are Easy for Both Google and AI to Understand?"
+    },
+    {
+      "title": "How I Built a Custom Anti-Spam Rate Limiter for My PHP Site (No Cloudflare",
+      "link": "https://dev.to/laing_lii_8c1214ffb0b60ec/how-i-built-a-custom-anti-spam-rate-limiter-for-my-php-site-no-cloudflare-5a5d",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:51:46 +0000",
+      "summary": "If you run a free directory, the bots will find you. Within 48 hours of launching my free toolbox, I was getting hammered by automated scripts. I decided to ditch heavy WAF rules and build a custom ra",
+      "score": 5,
+      "titleZh": "How I Built a Custom Anti-Spam Rate Limiter for My PHP Site (No Cloudflare"
+    },
+    {
+      "title": "How I Check a Download Is a Real MP4, Not an HTML Error Page Wearing a .mp4 Name",
+      "link": "https://dev.to/mobeenahmedgondal/how-i-check-a-download-is-a-real-mp4-not-an-html-error-page-wearing-a-mp4-name-1m9f",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:49:31 +0000",
+      "summary": "A download link can lie. I learned that the hard way while building ramrom.io, my little video downloader. A provider would return a 200 status, a filename ending in .mp4, and a body that was actually",
+      "score": 5,
+      "titleZh": "How I Check a Download Is a Real MP4, Not an HTML Error Page Wearing a .mp4 Name"
+    },
+    {
+      "title": "Dev News Digest: 5 Nov 2026, 06:00",
+      "link": "https://dev.to/magnus_ferm/dev-news-digest-5-nov-2026-0600-11e5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:47:16 +0000",
+      "summary": "A quick roundup of developer news since the last digest. Mobile phones infected via iOS and Android flaws: Attackers chained vulnerabilities in both major mobile platforms to compromise devices, so ma",
+      "score": 5,
+      "titleZh": "Dev News Digest: 5 Nov 2026, 06:00"
+    },
+    {
+      "title": "Can AI Search Replace Traditional SEO for Small Businesses?",
+      "link": "https://dev.to/sameer_132f2fd384172fce41/can-ai-search-replace-traditional-seo-for-small-businesses-1c6m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:46:45 +0000",
+      "summary": "The way people search for information online is changing rapidly. Earlier, customers mainly used Google to search for products, services, and nearby businesses. Today, many people are also using AI-po",
+      "score": 5,
+      "titleZh": "Can AI Search Replace Traditional SEO for Small Businesses?"
+    },
+    {
+      "title": "How to Make Your SaaS Docs and Product Pages Readable to AI Crawlers in 2027",
+      "link": "https://dev.to/searchaxe/how-to-make-your-saas-docs-and-product-pages-readable-to-ai-crawlers-in-2027-2bhm",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:42:46 +0000",
+      "summary": "Most AI crawlers read only the HTML your server sends on the first request, so a SaaS docs site or product page is readable to answer engines when its facts are in that HTML. In practice that means fo",
+      "score": 5,
+      "titleZh": "How to Make Your SaaS Docs and Product Pages Readable to AI Crawlers in 2027"
+    },
+    {
+      "title": "My AI agent's 34 tests passed. Then I broke the code 31 times.",
+      "link": "https://dev.to/trakshanmishra/my-ai-agents-34-tests-passed-then-i-broke-the-code-31-times-506k",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 04:41:22 +0000",
+      "summary": "\"All tests passing\" is the most common line in an AI agent's final summary. I wanted to know what it is worth. Disclosure first: this week I'm working with the team behind Lemon Code, a free coding ag",
+      "score": 5,
+      "titleZh": "My AI agent's 34 tests passed. Then I broke the code 31 times."
     }
   ]
 }
