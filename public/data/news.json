@@ -1,105 +1,45 @@
 {
-  "updated": "2026-11-05T05:09:25.204Z",
+  "updated": "2026-11-05T17:51:27.596Z",
   "date": "2026-11-05",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 11:52:17 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336",
-      "score": 1129,
-      "titleZh": "AI is forcing us to pay off 40 years of technical debt"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "link": "https://openai.com/index/openai-to-acquire-pierre/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 15:21:21 +0000",
-      "summary": "https://twitter.com/pierrecomputer/status/211799903617518818... Comments URL: https://news.ycombinator.com/item?id=50366863",
-      "score": 213,
-      "titleZh": "OpenAI to acquire Pierre Computer Company"
-    },
-    {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "link": "https://news.ycombinator.com/item?id=50366117",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 14:37:22 +0000",
-      "summary": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut ",
-      "score": 208,
-      "titleZh": "Ask HN: What's your current AI agentic setup?"
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 19:55:14 +0000",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654",
-      "score": 122,
-      "titleZh": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s"
-    },
-    {
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 02 Nov 2026 15:48:45 +0000",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/ Comments URL: https://news.ycombinator.com/item?id=50338474",
-      "score": 98,
-      "titleZh": "Basically no one is using AI agents for their DoorDash orders"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "link": "https://news.ycombinator.com/item?id=50368804",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 04 Nov 2026 17:31:53 +0000",
-      "summary": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are",
-      "score": 80,
-      "titleZh": "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
-    },
-    {
-      "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
+      "title": "Best approach for demand forecasting across 40 locations? Separate models or one global model? [p]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xohxyv/best_approach_for_demand_forecasting_across_40/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-05T03:52:26.000Z",
-      "summary": "Hi. My AACL Main paper was just published on ACL Anthology, and I noticed that it appears as a Short Paper. My understanding that it was a long paper since that was what I selected during the ARR revi",
+      "date": "2026-11-05T12:55:51.000Z",
+      "summary": "Hey everyone, I'm a final-year B.Tech CSE (AI/ML) student working on a multi-agent supply chain optimization project. I'm currently focusing on the Demand Forecasting Agent and would appreciate some a",
       "score": 40,
-      "titleZh": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]"
+      "titleZh": "Best approach for demand forecasting across 40 locations? Separate models or one global model? [p]"
     },
     {
-      "title": "Anyone else tired of how expensive agent evaluations are? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
+      "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-05T03:33:01.000Z",
-      "summary": "So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes",
+      "date": "2026-11-05T10:44:15.000Z",
+      "summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents tha",
       "score": 40,
-      "titleZh": "Anyone else tired of how expensive agent evaluations are? [D]"
+      "titleZh": "DialFork: a benchmark for procedural hallucination in conversational agents [R]"
+    },
+    {
+      "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-05T06:56:48.000Z",
+      "summary": "From what I’ve read on Reddit so far, I’m getting the impression that around 4 first-author papers at top ML conferences (NeurIPS, ICML, ICLR, etc.) is a fairly standard expectation for graduating fro",
+      "score": 40,
+      "titleZh": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]"
     },
     {
       "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
@@ -126,124 +66,184 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "How to Download an X Space Recording (Free, No Login)",
-      "link": "https://dev.to/chavez_theresa_2723047923/how-to-download-an-x-space-recording-free-no-login-fp5",
+      "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-04T16:17:39.000Z",
+      "summary": "As per the the 2027 CVPR guidelines: \"Maximum number of submissions (continuing from CVPR 2026): Each author may submit at most 25 papers. If an author enrolls more than 25 papers, the Program Chairs ",
+      "score": 40,
+      "titleZh": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]"
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T03:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-10-31T02:30:21.000Z",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "score": 40,
+      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "score": 5,
+      "titleZh": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+    },
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "link": "https://arxiv.org/abs/2611.05390",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decis",
+      "score": 5,
+      "titleZh": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions"
+    },
+    {
+      "title": "Reliable Password Reset Emails Through Bounce Classification and Recipient Suppression",
+      "link": "https://dev.to/langstonhughes2689/reliable-password-reset-emails-through-bounce-classification-and-recipient-suppression-omk",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 17:47:15 +0000",
+      "summary": "System shape Choose it when Invariant to enforce Provider owns suppression One email provider serves the SaaS application Every reset send passes through that provider's suppression policy Application",
+      "score": 5,
+      "titleZh": "Reliable Password Reset Emails Through Bounce Classification and Recipient Suppression"
+    },
+    {
+      "title": "Can ChatGPT Make Videos? A Beginner's Guide to AI Video Creation",
+      "link": "https://dev.to/zprostudio/can-chatgpt-make-videos-a-beginners-guide-to-ai-video-creation-4kp5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:57:44 +0000",
-      "summary": "X Spaces are live audio conversations on X (formerly Twitter). A host opens a room, people join to talk or just listen, and when it's over, it's gone — unless someone saved it. X does keep a replay fo",
+      "date": "Thu, 05 Nov 2026 17:40:10 +0000",
+      "summary": "Artificial intelligence is changing how people create digital content. From writing blog posts to generating images and preparing video scripts, AI tools are becoming useful parts of everyday creative",
       "score": 5,
-      "titleZh": "How to Download an X Space Recording (Free, No Login)"
+      "titleZh": "Can ChatGPT Make Videos? A Beginner's Guide to AI Video Creation"
     },
     {
-      "title": "How I Built a Free Favicon Generator for the Browser",
-      "link": "https://dev.to/usamafarooq/how-i-built-a-free-favicon-generator-for-the-browser-4mm5",
+      "title": "Hello everyone! I'm Gina, an aspiring frontend web developer from Nigeria.\r\nI'm currently learning HTML, CSS and JavaScript, and building practical website projects.\r\nI'm interested in connecting with developers, designers, tech professionals",
+      "link": "https://dev.to/gina25900/hello-everyone-im-gina-an-aspiring-frontend-web-developer-from-nigeria-im-currently-learning-1kn1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:56:22 +0000",
-      "summary": "How I Built a Free Favicon Generator for the Browser Every website needs a favicon — that tiny icon in the browser tab — yet making one properly means producing half a dozen files in different sizes a",
+      "date": "Thu, 05 Nov 2026 17:35:09 +0000",
+      "summary": "",
       "score": 5,
-      "titleZh": "How I Built a Free Favicon Generator for the Browser"
+      "titleZh": "Hello everyone! I'm Gina, an aspiring frontend web developer from Nigeria.\r\nI'm currently learning HTML, CSS and JavaScript, and building practical website projects.\r\nI'm interested in connecting with developers, designers, tech professionals"
     },
     {
-      "title": "Which Hosting Platforms Have an MCP Server So Claude Can Deploy Your App? (I Checked 5)",
-      "link": "https://dev.to/vikasprogrammer/which-hosting-platforms-have-an-mcp-server-so-claude-can-deploy-your-app-i-checked-5-dfk",
+      "title": "Fix duplicate title tags: a before/after worked example for a small site",
+      "link": "https://dev.to/clearrankstudio/fix-duplicate-title-tags-a-beforeafter-worked-example-for-a-small-site-29dd",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:55:23 +0000",
-      "summary": "You built something with Claude. It works on your machine, or it only exists inside the chat as a pile of files. Now you want a URL you can send to someone. The question I kept seeing was: which hosti",
+      "date": "Thu, 05 Nov 2026 17:31:39 +0000",
+      "summary": "Identical or vague title tags make pages hard to tell apart in search results. Here is a worked example of fixing that, using an invented bakery site. The business is made up; the method is the real p",
       "score": 5,
-      "titleZh": "Which Hosting Platforms Have an MCP Server So Claude Can Deploy Your App? (I Checked 5)"
+      "titleZh": "Fix duplicate title tags: a before/after worked example for a small site"
     },
     {
-      "title": "How Can Developers Build Websites That Are Easy for Both Google and AI to Understand?",
-      "link": "https://dev.to/sameer_132f2fd384172fce41/how-can-developers-build-websites-that-are-easy-for-both-google-and-ai-to-understand-8bh",
+      "title": "Video to GIF Without the 10 MB File: 10 Settings Measured on One Clip",
+      "link": "https://dev.to/deepfox/video-to-gif-without-the-10-mb-file-10-settings-measured-on-one-clip-193b",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:53:50 +0000",
-      "summary": "Building a website is no longer just about making it look attractive or adding the right keywords. In 2026, developers also need to think about how search engines and AI-powered search systems underst",
+      "date": "Thu, 05 Nov 2026 17:31:14 +0000",
+      "summary": "A GIF stores every frame as a full picture, so a few seconds of video can easily turn into a 10 MB file that some platforms reject and pages load slowly. I took one 5-second clip, converted it with a ",
       "score": 5,
-      "titleZh": "How Can Developers Build Websites That Are Easy for Both Google and AI to Understand?"
+      "titleZh": "Video to GIF Without the 10 MB File: 10 Settings Measured on One Clip"
     },
     {
-      "title": "How I Built a Custom Anti-Spam Rate Limiter for My PHP Site (No Cloudflare",
-      "link": "https://dev.to/laing_lii_8c1214ffb0b60ec/how-i-built-a-custom-anti-spam-rate-limiter-for-my-php-site-no-cloudflare-5a5d",
+      "title": "Hi dev.to",
+      "link": "https://dev.to/_b20c1e5ba2554d2cc7f2013/hi-devto-3d30",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:51:46 +0000",
-      "summary": "If you run a free directory, the bots will find you. Within 48 hours of launching my free toolbox, I was getting hammered by automated scripts. I decided to ditch heavy WAF rules and build a custom ra",
+      "date": "Thu, 05 Nov 2026 17:27:24 +0000",
+      "summary": "Hey dev.to community! I'm an undergraduate student and solo developer from Japan. I wanted to share a project I've been working on and get some feedback from fellow builders. Right now, I feel like ma",
       "score": 5,
-      "titleZh": "How I Built a Custom Anti-Spam Rate Limiter for My PHP Site (No Cloudflare"
+      "titleZh": "Hi dev.to"
     },
     {
-      "title": "How I Check a Download Is a Real MP4, Not an HTML Error Page Wearing a .mp4 Name",
-      "link": "https://dev.to/mobeenahmedgondal/how-i-check-a-download-is-a-real-mp4-not-an-html-error-page-wearing-a-mp4-name-1m9f",
+      "title": "Node.js Email Webhooks Need an Idempotency Ledger",
+      "link": "https://dev.to/ryanlee91/nodejs-email-webhooks-need-an-idempotency-ledger-3o3i",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 05 Nov 2026 17:23:49 +0000",
+      "summary": "Email verification becomes a different problem once delivery is asynchronous. The browser submits a form, a provider sends a message, and your app receives one or more webhook events later. If the web",
+      "score": 5,
+      "titleZh": "Node.js Email Webhooks Need an Idempotency Ledger"
+    },
+    {
+      "title": "Your model choice is a bet. Build a router that keeps score",
+      "link": "https://dev.to/digitaldias/your-model-choice-is-a-bet-build-a-router-that-keeps-score-1i8a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:49:31 +0000",
-      "summary": "A download link can lie. I learned that the hard way while building ramrom.io, my little video downloader. A provider would return a 200 status, a filename ending in .mp4, and a body that was actually",
+      "date": "Thu, 05 Nov 2026 17:22:36 +0000",
+      "summary": "Most of the time I pick the same Claude model I used last session, out of habit. So I built a small Claude Code mod that scores that habit. It reads your first prompt, asks Haiku which model and effor",
       "score": 5,
-      "titleZh": "How I Check a Download Is a Real MP4, Not an HTML Error Page Wearing a .mp4 Name"
+      "titleZh": "Your model choice is a bet. Build a router that keeps score"
     },
     {
-      "title": "Dev News Digest: 5 Nov 2026, 06:00",
-      "link": "https://dev.to/magnus_ferm/dev-news-digest-5-nov-2026-0600-11e5",
+      "title": "🤷‍♀️ Soul Searching Amid Tech Frustrations",
+      "link": "https://dev.to/annavi11arrea1/soul-searching-amid-tech-frustrations-1jj6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:47:16 +0000",
-      "summary": "A quick roundup of developer news since the last digest. Mobile phones infected via iOS and Android flaws: Attackers chained vulnerabilities in both major mobile platforms to compromise devices, so ma",
+      "date": "Thu, 05 Nov 2026 17:22:25 +0000",
+      "summary": "Alright it’s time to check in. I have wanted to share some findings between now and my last post, but I have been too preoccupied playing catching up with school work and zip-tying my online shop toge",
       "score": 5,
-      "titleZh": "Dev News Digest: 5 Nov 2026, 06:00"
+      "titleZh": "🤷‍♀️ Soul Searching Amid Tech Frustrations"
     },
     {
-      "title": "Can AI Search Replace Traditional SEO for Small Businesses?",
-      "link": "https://dev.to/sameer_132f2fd384172fce41/can-ai-search-replace-traditional-seo-for-small-businesses-1c6m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 05 Nov 2026 04:46:45 +0000",
-      "summary": "The way people search for information online is changing rapidly. Earlier, customers mainly used Google to search for products, services, and nearby businesses. Today, many people are also using AI-po",
-      "score": 5,
-      "titleZh": "Can AI Search Replace Traditional SEO for Small Businesses?"
-    },
-    {
-      "title": "How to Make Your SaaS Docs and Product Pages Readable to AI Crawlers in 2027",
-      "link": "https://dev.to/searchaxe/how-to-make-your-saas-docs-and-product-pages-readable-to-ai-crawlers-in-2027-2bhm",
+      "title": "I measured link rot on 2012 Hacker News and resurrected 84% of it (Kiroween 2026)",
+      "link": "https://dev.to/an_nguynhong_0c0496258/i-measured-link-rot-on-2012-hacker-news-and-resurrected-84-of-it-kiroween-2026-32fg",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 05 Nov 2026 04:42:46 +0000",
-      "summary": "Most AI crawlers read only the HTML your server sends on the first request, so a SaaS docs site or product page is readable to answer engines when its facts are in that HTML. In practice that means fo",
+      "date": "Thu, 05 Nov 2026 17:03:57 +0000",
+      "summary": "This post was written as part of the **Kiroween 2026 hackathon* (Resurrection category).* Open any Hacker News front page from 2012 and start clicking. A lot of it is gone. I wanted a number instead o",
       "score": 5,
-      "titleZh": "How to Make Your SaaS Docs and Product Pages Readable to AI Crawlers in 2027"
-    },
-    {
-      "title": "My AI agent's 34 tests passed. Then I broke the code 31 times.",
-      "link": "https://dev.to/trakshanmishra/my-ai-agents-34-tests-passed-then-i-broke-the-code-31-times-506k",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 05 Nov 2026 04:41:22 +0000",
-      "summary": "\"All tests passing\" is the most common line in an AI agent's final summary. I wanted to know what it is worth. Disclosure first: this week I'm working with the team behind Lemon Code, a free coding ag",
-      "score": 5,
-      "titleZh": "My AI agent's 34 tests passed. Then I broke the code 31 times."
+      "titleZh": "I measured link rot on 2012 Hacker News and resurrected 84% of it (Kiroween 2026)"
     }
   ]
 }
