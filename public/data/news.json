@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T05:09:20.028Z",
+  "updated": "2026-11-06T17:11:04.432Z",
   "date": "2026-11-06",
   "count": 20,
   "aiCount": 10,
@@ -14,32 +14,92 @@
       ],
       "date": "Thu, 05 Nov 2026 22:17:15 +0000",
       "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272",
-      "score": 762,
+      "score": 1472,
       "titleZh": "Claude Code sends your email address to websites"
     },
     {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 05 Nov 2026 23:09:57 +0000",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870",
-      "score": 194,
-      "titleZh": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue"
+      "date": "Fri, 06 Nov 2026 14:13:09 +0000",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499",
+      "score": 82,
+      "titleZh": "University libraries are being swarmed by AI bots, putting public access at risk"
     },
     {
-      "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "link": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 06 Nov 2026 09:13:30 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990",
+      "score": 52,
+      "titleZh": "AI for scientific discovery: How researchers use Claude"
+    },
+    {
+      "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-05T21:40:01.000Z",
-      "summary": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitep",
+      "date": "2026-11-06T15:09:18.000Z",
+      "summary": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv. In this process, I changed the name of the method and title. Now a reviewer, pointed",
       "score": 40,
-      "titleZh": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]"
+      "titleZh": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]"
+    },
+    {
+      "title": "ICLR 2027 Review Scores [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-06T14:37:41.000Z",
+      "summary": "submitted by /u/No-Lab4175 [link] [comments]",
+      "score": 40,
+      "titleZh": "ICLR 2027 Review Scores [N]"
+    },
+    {
+      "title": "ICLR 2027 Reviews are out [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-06T13:03:09.000Z",
+      "summary": "How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
+      "score": 40,
+      "titleZh": "ICLR 2027 Reviews are out [D]"
+    },
+    {
+      "title": "I need some guidance after a six month hiatus [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-06T12:06:42.000Z",
+      "summary": "Short Backstory: I'm a PhD student on my 5th year. I had a major mental breakdown on June 2026 after my second rejection on an IEEE Journal. After a lot of back and forth, I decided to not give up my ",
+      "score": 40,
+      "titleZh": "I need some guidance after a six month hiatus [R]"
+    },
+    {
+      "title": "How do you build visibility through open source contributions?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-06T09:55:15.000Z",
+      "summary": "I’m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community. I’ve been thinking about contributing to established",
+      "score": 40,
+      "titleZh": "How do you build visibility through open source contributions?[D]"
     },
     {
       "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
@@ -54,42 +114,6 @@
       "titleZh": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]"
     },
     {
-      "title": "Looking for Emergency Reviewers [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-05T18:31:03.000Z",
-      "summary": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensi",
-      "score": 40,
-      "titleZh": "Looking for Emergency Reviewers [R]"
-    },
-    {
-      "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-05T06:56:48.000Z",
-      "summary": "From what I’ve read on Reddit so far, I’m getting the impression that around 4 first-author papers at top ML conferences (NeurIPS, ICML, ICLR, etc.) is a fairly standard expectation for graduating fro",
-      "score": 40,
-      "titleZh": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]"
-    },
-    {
-      "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-05T02:55:15.000Z",
-      "summary": "I would assume LLMs have bumped this number, or maybe not. Which is why I am asking. If there are PIs on here, how many papers before you let your students graduate? Is the number different now than i",
-      "score": 40,
-      "titleZh": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -102,148 +126,124 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T03:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-10-31T02:30:21.000Z",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
-      "score": 40,
-      "titleZh": "[D] Monthly Who's Hiring and Who wants to be Hired?"
-    },
-    {
-      "title": "The DreamHost Data Breach Sat in a Web File Manager for Two Months Before Anyone Noticed",
-      "link": "https://dev.to/rbonweb/the-dreamhost-data-breach-sat-in-a-web-file-manager-for-two-months-before-anyone-noticed-2bp3",
+      "title": "I Ran DeepSeek's dsh-superagent End to End: A Hands-On Deep Dive",
+      "link": "https://dev.to/geekcoding101/i-ran-deepseeks-dsh-superagent-end-to-end-a-hands-on-deep-dive-a29",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 05:06:00 +0000",
-      "summary": "The DreamHost Data Breach Sat in a Web File Manager for Two Months Before Anyone Noticed The DreamHost data breach, confirmed in a notification this week, ran from roughly August 2026 to October 23, 2",
+      "date": "Fri, 06 Nov 2026 17:09:03 +0000",
+      "summary": "Originally published at GeekCoding101. On October 31 the DeepSeek Harness team pushed a single commit to deepseek-ai/dsh-superagent-prototype and the repository went past 9,000 stars in under two days",
       "score": 5,
-      "titleZh": "The DreamHost Data Breach Sat in a Web File Manager for Two Months Before Anyone Noticed"
+      "titleZh": "I Ran DeepSeek's dsh-superagent End to End: A Hands-On Deep Dive"
     },
     {
-      "title": "I'm building an open-source messenger for developers: This is what I have learned so far",
-      "link": "https://dev.to/kingenious0/im-building-an-open-source-messenger-for-developers-this-is-what-i-have-learned-so-far-19l7",
+      "title": "robots.txt Redirects: Keep the Rules Attached to the Original Host",
+      "link": "https://dev.to/urielbitton/robotstxt-redirects-keep-the-rules-attached-to-the-original-host-32db",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 05:02:30 +0000",
-      "summary": "Talking code in a regular chat app is frustrating. Snippets turn into walls of text. Pull request links get buried. And worst of all, people paste database URLs and API keys into chat, where they stay",
+      "date": "Fri, 06 Nov 2026 17:07:57 +0000",
+      "summary": "When a robots.txt request redirects to another host, trace the complete HTTP route and evaluate the returned rules in the context of the original request. The location holding the policy file and the ",
       "score": 5,
-      "titleZh": "I'm building an open-source messenger for developers: This is what I have learned so far"
+      "titleZh": "robots.txt Redirects: Keep the Rules Attached to the Original Host"
     },
     {
-      "title": "# Build a JSON-LD Generator for Business Websites Using JavaScript",
-      "link": "https://dev.to/sunny_choudhary_242bad7a8/-build-a-json-ld-generator-for-business-websites-using-javascript-3188",
+      "title": "Ongoing Website Maintenance: A Practical Checklist by Cadence",
+      "link": "https://dev.to/naimur_rahman_1a2ced464c2/ongoing-website-maintenance-a-practical-checklist-by-cadence-3hoo",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 06 Nov 2026 17:06:15 +0000",
+      "summary": "Most sites don't fail on launch day. They fail months later, when updates pile up, backups were never tested, and a contact form quietly stops working. Here's a simple routine: Daily/automated: availa",
+      "score": 5,
+      "titleZh": "Ongoing Website Maintenance: A Practical Checklist by Cadence"
+    },
+    {
+      "title": "We built Moon Calendar: Moon phases, full Moon dates, moonrise and eclipses in UK time",
+      "link": "https://dev.to/pyxl/we-built-moon-calendar-moon-phases-full-moon-dates-moonrise-and-eclipses-in-uk-time-2l4e",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 04:57:15 +0000",
-      "summary": "Structured data is an important part of modern website development. It allows search engines to understand information about a webpage in a more structured format. However, manually writing JSON-LD fo",
+      "date": "Fri, 06 Nov 2026 17:01:58 +0000",
+      "summary": "Ask a search engine when the next full Moon is and you get a date. Whether it is your date is another matter. The full Moon on 24 December 2026 is at 01:28 GMT, which is still the evening of 23 Decemb",
       "score": 5,
-      "titleZh": "# Build a JSON-LD Generator for Business Websites Using JavaScript"
+      "titleZh": "We built Moon Calendar: Moon phases, full Moon dates, moonrise and eclipses in UK time"
     },
     {
-      "title": "Need Help Running a Live Player Auction? How to Reach the TheBidNow Team",
-      "link": "https://dev.to/aylelite_fdb8fce6a0f4ce96/need-help-running-a-live-player-auction-how-to-reach-the-thebidnow-team-5ffp",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 06 Nov 2026 04:56:59 +0000",
-      "summary": "A live player auction has many moving parts: player data, team budgets, base prices, rules and a live audience. When something breaks, you want a fast way to get help. When to Reach Out Use the TheBid",
-      "score": 5,
-      "titleZh": "Need Help Running a Live Player Auction? How to Reach the TheBidNow Team"
-    },
-    {
-      "title": "5 Free Alternatives to Canva",
-      "link": "https://dev.to/usamafarooq/5-free-alternatives-to-canva-4am",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 06 Nov 2026 04:56:31 +0000",
-      "summary": "5 Free Alternatives to Canva Canva is the easiest design tool most people will ever use, and its free plan is genuinely useful. The catch is the Pro plan: Canva Pro costs $18 a month or $144 a year fo",
-      "score": 5,
-      "titleZh": "5 Free Alternatives to Canva"
-    },
-    {
-      "title": "What to Expect When You Contact an Online Auction Software Team",
-      "link": "https://dev.to/aylelite_fdb8fce6a0f4ce96/what-to-expect-when-you-contact-an-online-auction-software-team-l18",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 06 Nov 2026 04:52:55 +0000",
-      "summary": "If you have never evaluated an auction platform, the first contact can feel like a black box. Here is the usual flow. The Typical Process If the team stays vague about support or pricing, keep looking",
-      "score": 5,
-      "titleZh": "What to Expect When You Contact an Online Auction Software Team"
-    },
-    {
-      "title": "[Boost]",
-      "link": "https://dev.to/pjdeveloper896/-hjk",
+      "title": "FORCE_HYPERLINK=false Turned Claude Code's Links On. Inside OSC 8 Terminal Hyperlinks",
+      "link": "https://dev.to/gabrielanhaia/forcehyperlinkfalse-turned-claude-codes-links-on-inside-osc-8-terminal-hyperlinks-2app",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 04:51:56 +0000",
-      "summary": "🌟 Introducing TypeNova — Run TypeScript Directly in the Browser with No Setup! Prasoon Jadon Jun 4 '25 #webdev #beginners #typescript #programming 5 reactions comments 2 min read",
+      "date": "Fri, 06 Nov 2026 17:01:16 +0000",
+      "summary": "Book: AI Agents Pocket Guide Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My project: Hermes IDE | GitHub — an IDE for developers who sh",
       "score": 5,
-      "titleZh": "[Boost]"
+      "titleZh": "FORCE_HYPERLINK=false Turned Claude Code's Links On. Inside OSC 8 Terminal Hyperlinks"
     },
     {
-      "title": "here to Get Support for Cricket Auction Software During a Live Auction",
-      "link": "https://dev.to/aylelite_fdb8fce6a0f4ce96/here-to-get-support-for-cricket-auction-software-during-a-live-auction-125n",
+      "title": "VMAP gives ad break inventory a schedule that engineering and revenue teams can test.",
+      "link": "https://dev.to/aleksuix/vmap-gives-ad-break-inventory-a-schedule-that-engineering-and-revenue-teams-can-test-5c06",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 04:51:29 +0000",
-      "summary": "A live auction is a real-time system with real people watching it. If a login fails or a price is wrong, everyone sees it immediately. That makes support just as important as features. Where to Get He",
+      "date": "Fri, 06 Nov 2026 17:00:00 +0000",
+      "summary": "Originally published on VASTLint. Part 6 of 8 in this series on video standards and business outcomes. A long-form video plan may promise a pre-roll and several mid-roll breaks. The sales forecast can",
       "score": 5,
-      "titleZh": "here to Get Support for Cricket Auction Software During a Live Auction"
+      "titleZh": "VMAP gives ad break inventory a schedule that engineering and revenue teams can test."
     },
     {
-      "title": "Email Signature Generator in Your Browser: HTML, Plain Text and the Gmail Paste Steps",
-      "link": "https://dev.to/onepassapps/email-signature-generator-in-your-browser-html-plain-text-and-the-gmail-paste-steps-2dkm",
+      "title": "Feedback on your landing page arrives after the ad spend, never before.",
+      "link": "https://dev.to/lixingliangsy/feedback-on-your-landing-page-arrives-after-the-ad-spend-never-before-2bc8",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 06 Nov 2026 16:55:14 +0000",
+      "summary": "You have read your own headline so many times it has stopped meaning anything. The first honest reaction usually arrives from a visitor who already left — after the traffic has been paid for. LandingC",
+      "score": 5,
+      "titleZh": "Feedback on your landing page arrives after the ad spend, never before."
+    },
+    {
+      "title": "Building Scalable Web Applications & SaaS Platforms with Laravel 11 — Shahzad Labs",
+      "link": "https://dev.to/a_ss_057302b4fb860543692a/building-scalable-web-applications-saas-platforms-with-laravel-11-shahzad-labs-1d0k",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 04:50:29 +0000",
-      "summary": "Disclosure: I work on OnePassApps. This is our own app, and every line below was read or run in the live build on 6 November 2026. An email signature is one of the few pieces of HTML that has to survi",
+      "date": "Fri, 06 Nov 2026 16:54:49 +0000",
+      "summary": "In the modern software landscape, engineering scalable, high-performance web applications requires more than just writing code — it demands robust architecture, reliable background queues, clean datab",
       "score": 5,
-      "titleZh": "Email Signature Generator in Your Browser: HTML, Plain Text and the Gmail Paste Steps"
+      "titleZh": "Building Scalable Web Applications & SaaS Platforms with Laravel 11 — Shahzad Labs"
     },
     {
-      "title": "building a markdown editor with a live preview",
-      "link": "https://dev.to/nayemalam/building-a-markdown-editor-with-a-live-preview-19d0",
+      "title": "3,000+ stock pages that never call an API at request time",
+      "link": "https://dev.to/shllm/3000-stock-pages-that-never-call-an-api-at-request-time-4hoe",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 06 Nov 2026 16:50:09 +0000",
+      "summary": "I run Stockinsky, a small site that writes paid AI research reports on listed companies. Most companies will never get a paid report, but people still search for them by name. So I added a free page f",
+      "score": 5,
+      "titleZh": "3,000+ stock pages that never call an API at request time"
+    },
+    {
+      "title": "Your AI Can Code. Why Does It Keep Building the Same Landing Page?",
+      "link": "https://dev.to/leoniebuilds/your-ai-can-code-why-does-it-keep-building-the-same-landing-page-nee",
       "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 04:41:54 +0000",
-      "summary": "Back in my early days, I assumed a markdown editor was a serious project. A parser, a preview pane, keeping the two in sync, all of it felt like a weekend at least. Then I built one and the whole thin",
+      "date": "Fri, 06 Nov 2026 16:49:25 +0000",
+      "summary": "Ask an AI coding tool for a “modern SaaS landing page.” You can almost see the result before it finishes generating: A giant centered headline. One word in a purple gradient. Three feature cards. A gl",
       "score": 5,
-      "titleZh": "building a markdown editor with a live preview"
+      "titleZh": "Your AI Can Code. Why Does It Keep Building the Same Landing Page?"
     }
   ]
 }
