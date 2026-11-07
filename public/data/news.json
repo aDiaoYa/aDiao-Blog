@@ -1,57 +1,69 @@
 {
-  "updated": "2026-11-06T17:11:04.432Z",
-  "date": "2026-11-06",
+  "updated": "2026-11-07T04:41:56.254Z",
+  "date": "2026-11-07",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Claude Code sends your email address to websites",
-      "link": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 05 Nov 2026 22:17:15 +0000",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272",
-      "score": 1472,
-      "titleZh": "Claude Code sends your email address to websites"
-    },
-    {
-      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 06 Nov 2026 14:13:09 +0000",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499",
-      "score": 82,
-      "titleZh": "University libraries are being swarmed by AI bots, putting public access at risk"
-    },
-    {
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "link": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 06 Nov 2026 09:13:30 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990",
-      "score": 52,
-      "titleZh": "AI for scientific discovery: How researchers use Claude"
-    },
-    {
-      "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+      "title": "ICLR27 math and stats paper review experience [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-06T15:09:18.000Z",
-      "summary": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv. In this process, I changed the name of the method and title. Now a reviewer, pointed",
+      "date": "2026-11-07T03:02:10.000Z",
+      "summary": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score",
       "score": 40,
-      "titleZh": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]"
+      "titleZh": "ICLR27 math and stats paper review experience [D]"
+    },
+    {
+      "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-07T00:17:47.000Z",
+      "summary": "I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human. When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run ex",
+      "score": 40,
+      "titleZh": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]"
+    },
+    {
+      "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-07T00:03:35.000Z",
+      "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenRe",
+      "score": 40,
+      "titleZh": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]"
+    },
+    {
+      "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-06T21:25:49.000Z",
+      "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in",
+      "score": 40,
+      "titleZh": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]"
+    },
+    {
+      "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-06T20:23:53.000Z",
+      "summary": "Disclosure: I'm at Boson AI and this is our release. Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now. Most voice models are still turn-base",
+      "score": 40,
+      "titleZh": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]"
     },
     {
       "title": "ICLR 2027 Review Scores [N]",
@@ -66,54 +78,6 @@
       "titleZh": "ICLR 2027 Review Scores [N]"
     },
     {
-      "title": "ICLR 2027 Reviews are out [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-06T13:03:09.000Z",
-      "summary": "How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
-      "score": 40,
-      "titleZh": "ICLR 2027 Reviews are out [D]"
-    },
-    {
-      "title": "I need some guidance after a six month hiatus [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-06T12:06:42.000Z",
-      "summary": "Short Backstory: I'm a PhD student on my 5th year. I had a major mental breakdown on June 2026 after my second rejection on an IEEE Journal. After a lot of back and forth, I decided to not give up my ",
-      "score": 40,
-      "titleZh": "I need some guidance after a six month hiatus [R]"
-    },
-    {
-      "title": "How do you build visibility through open source contributions?[D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-06T09:55:15.000Z",
-      "summary": "I’m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community. I’ve been thinking about contributing to established",
-      "score": 40,
-      "titleZh": "How do you build visibility through open source contributions?[D]"
-    },
-    {
-      "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-05T19:13:51.000Z",
-      "summary": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've ",
-      "score": 40,
-      "titleZh": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -126,124 +90,160 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "I Ran DeepSeek's dsh-superagent End to End: A Hands-On Deep Dive",
-      "link": "https://dev.to/geekcoding101/i-ran-deepseeks-dsh-superagent-end-to-end-a-hands-on-deep-dive-a29",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T03:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 06 Nov 2026 14:00:48 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "ToyBlocks: A controlled world for robot learning and evaluation"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "score": 5,
+      "titleZh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
+    },
+    {
+      "title": "How to animate the history of U.S. statehood",
+      "link": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-us-statehood-1p10",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 17:09:03 +0000",
-      "summary": "Originally published at GeekCoding101. On October 31 the DeepSeek Harness team pushed a single commit to deepseek-ai/dsh-superagent-prototype and the repository went past 9,000 stars in under two days",
+      "date": "Sat, 07 Nov 2026 04:41:10 +0000",
+      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of U.S. s",
       "score": 5,
-      "titleZh": "I Ran DeepSeek's dsh-superagent End to End: A Hands-On Deep Dive"
+      "titleZh": "How to animate the history of U.S. statehood"
     },
     {
-      "title": "robots.txt Redirects: Keep the Rules Attached to the Original Host",
-      "link": "https://dev.to/urielbitton/robotstxt-redirects-keep-the-rules-attached-to-the-original-host-32db",
+      "title": "How to animate the history of EU membership",
+      "link": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-eu-membership-1c71",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 17:07:57 +0000",
-      "summary": "When a robots.txt request redirects to another host, trace the complete HTTP route and evaluate the returned rules in the context of the original request. The location holding the policy file and the ",
+      "date": "Sat, 07 Nov 2026 04:39:52 +0000",
+      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of EU mem",
       "score": 5,
-      "titleZh": "robots.txt Redirects: Keep the Rules Attached to the Original Host"
+      "titleZh": "How to animate the history of EU membership"
     },
     {
-      "title": "Ongoing Website Maintenance: A Practical Checklist by Cadence",
-      "link": "https://dev.to/naimur_rahman_1a2ced464c2/ongoing-website-maintenance-a-practical-checklist-by-cadence-3hoo",
+      "title": "Review and export your finished video",
+      "link": "https://dev.to/jonathon_lee_c2f908d54f03/review-and-export-your-finished-video-33a8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 17:06:15 +0000",
-      "summary": "Most sites don't fail on launch day. They fail months later, when updates pile up, backups were never tested, and a contact form quietly stops working. Here's a simple routine: Daily/automated: availa",
+      "date": "Sat, 07 Nov 2026 04:38:39 +0000",
+      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Review and export your finished vide",
       "score": 5,
-      "titleZh": "Ongoing Website Maintenance: A Practical Checklist by Cadence"
+      "titleZh": "Review and export your finished video"
     },
     {
-      "title": "We built Moon Calendar: Moon phases, full Moon dates, moonrise and eclipses in UK time",
-      "link": "https://dev.to/pyxl/we-built-moon-calendar-moon-phases-full-moon-dates-moonrise-and-eclipses-in-uk-time-2l4e",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 06 Nov 2026 17:01:58 +0000",
-      "summary": "Ask a search engine when the next full Moon is and you get a date. Whether it is your date is another matter. The full Moon on 24 December 2026 is at 01:28 GMT, which is still the evening of 23 Decemb",
-      "score": 5,
-      "titleZh": "We built Moon Calendar: Moon phases, full Moon dates, moonrise and eclipses in UK time"
-    },
-    {
-      "title": "FORCE_HYPERLINK=false Turned Claude Code's Links On. Inside OSC 8 Terminal Hyperlinks",
-      "link": "https://dev.to/gabrielanhaia/forcehyperlinkfalse-turned-claude-codes-links-on-inside-osc-8-terminal-hyperlinks-2app",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 06 Nov 2026 17:01:16 +0000",
-      "summary": "Book: AI Agents Pocket Guide Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My project: Hermes IDE | GitHub — an IDE for developers who sh",
-      "score": 5,
-      "titleZh": "FORCE_HYPERLINK=false Turned Claude Code's Links On. Inside OSC 8 Terminal Hyperlinks"
-    },
-    {
-      "title": "VMAP gives ad break inventory a schedule that engineering and revenue teams can test.",
-      "link": "https://dev.to/aleksuix/vmap-gives-ad-break-inventory-a-schedule-that-engineering-and-revenue-teams-can-test-5c06",
+      "title": "Compose 3D terrain and city shots",
+      "link": "https://dev.to/jonathon_lee_c2f908d54f03/compose-3d-terrain-and-city-shots-1aj4",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 17:00:00 +0000",
-      "summary": "Originally published on VASTLint. Part 6 of 8 in this series on video standards and business outcomes. A long-form video plan may promise a pre-roll and several mid-roll breaks. The sales forecast can",
+      "date": "Sat, 07 Nov 2026 04:37:30 +0000",
+      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Compose 3D terrain and city shots En",
       "score": 5,
-      "titleZh": "VMAP gives ad break inventory a schedule that engineering and revenue teams can test."
+      "titleZh": "Compose 3D terrain and city shots"
     },
     {
-      "title": "Feedback on your landing page arrives after the ad spend, never before.",
-      "link": "https://dev.to/lixingliangsy/feedback-on-your-landing-page-arrives-after-the-ad-spend-never-before-2bc8",
+      "title": "SVG vs PNG vs WebP, measured on a real logo and a real photo",
+      "link": "https://dev.to/usman_basheers/svg-vs-png-vs-webp-measured-on-a-real-logo-and-a-real-photo-44i7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 16:55:14 +0000",
-      "summary": "You have read your own headline so many times it has stopped meaning anything. The first honest reaction usually arrives from a visitor who already left — after the traffic has been paid for. LandingC",
+      "date": "Sat, 07 Nov 2026 04:37:02 +0000",
+      "summary": "Every \"which image format\" answer says the same thing: SVG for logos, WebP for photos, PNG for transparency. It is right, but nobody shows the numbers. So I measured two real images. TL;DR: SVG for sh",
       "score": 5,
-      "titleZh": "Feedback on your landing page arrives after the ad spend, never before."
+      "titleZh": "SVG vs PNG vs WebP, measured on a real logo and a real photo"
     },
     {
-      "title": "Building Scalable Web Applications & SaaS Platforms with Laravel 11 — Shahzad Labs",
-      "link": "https://dev.to/a_ss_057302b4fb860543692a/building-scalable-web-applications-saas-platforms-with-laravel-11-shahzad-labs-1d0k",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 06 Nov 2026 16:54:49 +0000",
-      "summary": "In the modern software landscape, engineering scalable, high-performance web applications requires more than just writing code — it demands robust architecture, reliable background queues, clean datab",
-      "score": 5,
-      "titleZh": "Building Scalable Web Applications & SaaS Platforms with Laravel 11 — Shahzad Labs"
-    },
-    {
-      "title": "3,000+ stock pages that never call an API at request time",
-      "link": "https://dev.to/shllm/3000-stock-pages-that-never-call-an-api-at-request-time-4hoe",
+      "title": "Audit 1,000 websites for speed, SEO, AI-crawler access and domain expiry (with plain Python, no scraping)",
+      "link": "https://dev.to/michael1980/audit-1000-websites-for-speed-seo-ai-crawler-access-and-domain-expiry-with-plain-python-no-4k99",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 16:50:09 +0000",
-      "summary": "I run Stockinsky, a small site that writes paid AI research reports on listed companies. Most companies will never get a paid report, but people still search for them by name. So I added a free page f",
+      "date": "Sat, 07 Nov 2026 04:36:36 +0000",
+      "summary": "If you run an agency, manage a portfolio of sites or just inherited 300 client domains, you eventually need answers to four boring but expensive questions: Which domains expire soon? (A lapsed domain ",
       "score": 5,
-      "titleZh": "3,000+ stock pages that never call an API at request time"
+      "titleZh": "Audit 1,000 websites for speed, SEO, AI-crawler access and domain expiry (with plain Python, no scraping)"
     },
     {
-      "title": "Your AI Can Code. Why Does It Keep Building the Same Landing Page?",
-      "link": "https://dev.to/leoniebuilds/your-ai-can-code-why-does-it-keep-building-the-same-landing-page-nee",
+      "title": "Guide attention from a country to a city",
+      "link": "https://dev.to/jonathon_lee_c2f908d54f03/guide-attention-from-a-country-to-a-city-36ke",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 04:36:19 +0000",
+      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Guide attention from a country to a ",
+      "score": 5,
+      "titleZh": "Guide attention from a country to a city"
+    },
+    {
+      "title": "IndiaMart Supplier Negotiation MOQ Contracts in 2026: Factory Sourcing & Escrow Masterclass",
+      "link": "https://dev.to/sellerscope_2682e8a5/indiamart-supplier-negotiation-moq-contracts-in-2026-factory-sourcing-escrow-masterclass-3hni",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 04:36:10 +0000",
+      "summary": "AEO Quick Answer / AI Overview Snapshot: Mastering indiamart supplier negotiation moq contracts in 2026 allows e-commerce brand builders to bypass trading middlemen, secure direct factory pricing, and",
+      "score": 5,
+      "titleZh": "IndiaMart Supplier Negotiation MOQ Contracts in 2026: Factory Sourcing & Escrow Masterclass"
+    },
+    {
+      "title": "A kanban board in React with native drag and drop (and a fallback that works on phones)",
+      "link": "https://dev.to/ngovanbon16/a-kanban-board-in-react-with-native-drag-and-drop-and-a-fallback-that-works-on-phones-5220",
       "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 06 Nov 2026 16:49:25 +0000",
-      "summary": "Ask an AI coding tool for a “modern SaaS landing page.” You can almost see the result before it finishes generating: A giant centered headline. One word in a purple gradient. Three feature cards. A gl",
+      "date": "Sat, 07 Nov 2026 04:30:27 +0000",
+      "summary": "I recently built Tandem, a CRM dashboard template with Next.js 16 and Tailwind CSS 4. The centerpiece is a kanban pipeline: deals move from Lead to Won. I wanted it without a drag-and-drop library, an",
       "score": 5,
-      "titleZh": "Your AI Can Code. Why Does It Keep Building the Same Landing Page?"
+      "titleZh": "A kanban board in React with native drag and drop (and a fallback that works on phones)"
+    },
+    {
+      "title": "TanStack Query did my offline mode, my retries and my cache. I wrote the rules.",
+      "link": "https://dev.to/rakno/tanstack-query-did-my-offline-mode-my-retries-and-my-cache-i-wrote-the-rules-2902",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 04:30:00 +0000",
+      "summary": "ParkEase has two React apps talking to the same API: an Android app (Expo, React Native) for drivers, owners, valets and car washers, and an admin panel (React and Vite). Both get every byte of server",
+      "score": 5,
+      "titleZh": "TanStack Query did my offline mode, my retries and my cache. I wrote the rules."
     }
   ]
 }
