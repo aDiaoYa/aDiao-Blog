@@ -1,45 +1,57 @@
 {
-  "updated": "2026-11-07T04:41:56.254Z",
+  "updated": "2026-11-07T16:06:43.574Z",
   "date": "2026-11-07",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "ICLR27 math and stats paper review experience [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+      "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T03:02:10.000Z",
-      "summary": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score",
+      "date": "2026-11-07T08:25:40.000Z",
+      "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points ",
       "score": 40,
-      "titleZh": "ICLR27 math and stats paper review experience [D]"
+      "titleZh": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]"
     },
     {
-      "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+      "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T00:17:47.000Z",
-      "summary": "I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human. When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run ex",
+      "date": "2026-11-07T07:08:01.000Z",
+      "summary": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hin",
       "score": 40,
-      "titleZh": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]"
+      "titleZh": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]"
     },
     {
-      "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+      "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T00:03:35.000Z",
-      "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenRe",
+      "date": "2026-11-07T06:40:14.000Z",
+      "summary": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process. One of the reviewers seems to have submitted a review for a completely different paper. A",
       "score": 40,
-      "titleZh": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]"
+      "titleZh": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]"
+    },
+    {
+      "title": "The most scathing reviewer 2 review I have ever read",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-07T01:30:53.000Z",
+      "summary": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world mo",
+      "score": 40,
+      "titleZh": "The most scathing reviewer 2 review I have ever read"
     },
     {
       "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
@@ -52,18 +64,6 @@
       "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in",
       "score": 40,
       "titleZh": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]"
-    },
-    {
-      "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-06T20:23:53.000Z",
-      "summary": "Disclosure: I'm at Boson AI and this is our release. Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now. Most voice models are still turn-base",
-      "score": 40,
-      "titleZh": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]"
     },
     {
       "title": "ICLR 2027 Review Scores [N]",
@@ -126,124 +126,124 @@
       "titleZh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
     },
     {
-      "title": "How to animate the history of U.S. statehood",
-      "link": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-us-statehood-1p10",
+      "title": "Canvas sketches with no build step",
+      "link": "https://dev.to/jslab/canvas-sketches-with-no-build-step-201k",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 16:03:10 +0000",
+      "summary": "Canvas is the most fun you can have with forty lines of JavaScript, and it needs nothing: no framework, no bundler, no dev server. Here's a sketch with the three details that make it look right. One H",
+      "score": 5,
+      "titleZh": "Canvas sketches with no build step"
+    },
+    {
+      "title": "Find Dead Code With knip, Then Let a Coding Agent Delete It One Package per Worktree",
+      "link": "https://dev.to/gabrielanhaia/find-dead-code-with-knip-then-let-a-coding-agent-delete-it-one-package-per-worktree-2ef9",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 16:01:55 +0000",
+      "summary": "Book: Ship It — the pragmatic startup tech stack Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My project: Hermes IDE | GitHub — an IDE f",
+      "score": 5,
+      "titleZh": "Find Dead Code With knip, Then Let a Coding Agent Delete It One Package per Worktree"
+    },
+    {
+      "title": "Two Playwright tests, one account. Keep their data separate.",
+      "link": "https://dev.to/aiwithanton/two-playwright-tests-one-account-keep-their-data-separate-29dd",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 16:01:13 +0000",
+      "summary": "Originally published on anton.qa. One test expects Email alerts On. After reloading, it sees Off. In this Playwright demo, one test checks the Email alerts setting. Another test changes it. Run either",
+      "score": 5,
+      "titleZh": "Two Playwright tests, one account. Keep their data separate."
+    },
+    {
+      "title": "Engineering Trust: How Finance, Social Relations & Precision Web Design Built Amiry Design London",
+      "link": "https://dev.to/behniaamirimanesh/engineering-trust-how-finance-social-relations-precision-web-design-built-amiry-design-london-2j2h",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 07 Nov 2026 04:41:10 +0000",
-      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of U.S. s",
+      "date": "Sat, 07 Nov 2026 15:59:56 +0000",
+      "summary": "In modern web design, aesthetics and engineering are too often treated as separate disciplines. Design agencies obsess over surface visuals while ignoring infrastructure and data determinism; software",
       "score": 5,
-      "titleZh": "How to animate the history of U.S. statehood"
+      "titleZh": "Engineering Trust: How Finance, Social Relations & Precision Web Design Built Amiry Design London"
     },
     {
-      "title": "How to animate the history of EU membership",
-      "link": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-eu-membership-1c71",
+      "title": "From GPX File to Animated Route Video: A Practical Guide",
+      "link": "https://dev.to/deeraf/from-gpx-file-to-animated-route-video-a-practical-guide-p79",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 15:59:31 +0000",
+      "summary": "If you've ever recorded a run, a bike ride, or a road trip, you have a GPX file somewhere. And if you've tried to turn it into a nice animated map for a video, a talk, or a blog post, you've probably ",
+      "score": 5,
+      "titleZh": "From GPX File to Animated Route Video: A Practical Guide"
+    },
+    {
+      "title": "How much of a work bonus do you actually keep? The 22% withholding math",
+      "link": "https://dev.to/salarypaytools/how-much-of-a-work-bonus-do-you-actually-keep-the-22-withholding-math-1210",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 15:58:55 +0000",
+      "summary": "A bonus check almost always looks smaller than the number your boss quoted. That is not a mistake. It is withholding, and the math is simple enough to put in a function. I added a bonus estimator to S",
+      "score": 5,
+      "titleZh": "How much of a work bonus do you actually keep? The 22% withholding math"
+    },
+    {
+      "title": "Extract and Check Open Graph and Twitter Card Meta Tags with Python (Standard Library Only)",
+      "link": "https://dev.to/appierun_66/extract-and-check-open-graph-and-twitter-card-meta-tags-with-python-standard-library-only-2aea",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 07 Nov 2026 04:39:52 +0000",
-      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of EU mem",
+      "date": "Sat, 07 Nov 2026 15:57:52 +0000",
+      "summary": "When someone pastes your URL into Slack, LinkedIn, iMessage or X, the preview is not reading your <title> tag and hoping for the best. It looks for Open Graph tags (og:*) and, for X, Twitter Card tags",
       "score": 5,
-      "titleZh": "How to animate the history of EU membership"
+      "titleZh": "Extract and Check Open Graph and Twitter Card Meta Tags with Python (Standard Library Only)"
     },
     {
-      "title": "Review and export your finished video",
-      "link": "https://dev.to/jonathon_lee_c2f908d54f03/review-and-export-your-finished-video-33a8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:38:39 +0000",
-      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Review and export your finished vide",
-      "score": 5,
-      "titleZh": "Review and export your finished video"
-    },
-    {
-      "title": "Compose 3D terrain and city shots",
-      "link": "https://dev.to/jonathon_lee_c2f908d54f03/compose-3d-terrain-and-city-shots-1aj4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:37:30 +0000",
-      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Compose 3D terrain and city shots En",
-      "score": 5,
-      "titleZh": "Compose 3D terrain and city shots"
-    },
-    {
-      "title": "SVG vs PNG vs WebP, measured on a real logo and a real photo",
-      "link": "https://dev.to/usman_basheers/svg-vs-png-vs-webp-measured-on-a-real-logo-and-a-real-photo-44i7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:37:02 +0000",
-      "summary": "Every \"which image format\" answer says the same thing: SVG for logos, WebP for photos, PNG for transparency. It is right, but nobody shows the numbers. So I measured two real images. TL;DR: SVG for sh",
-      "score": 5,
-      "titleZh": "SVG vs PNG vs WebP, measured on a real logo and a real photo"
-    },
-    {
-      "title": "Audit 1,000 websites for speed, SEO, AI-crawler access and domain expiry (with plain Python, no scraping)",
-      "link": "https://dev.to/michael1980/audit-1000-websites-for-speed-seo-ai-crawler-access-and-domain-expiry-with-plain-python-no-4k99",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:36:36 +0000",
-      "summary": "If you run an agency, manage a portfolio of sites or just inherited 300 client domains, you eventually need answers to four boring but expensive questions: Which domains expire soon? (A lapsed domain ",
-      "score": 5,
-      "titleZh": "Audit 1,000 websites for speed, SEO, AI-crawler access and domain expiry (with plain Python, no scraping)"
-    },
-    {
-      "title": "Guide attention from a country to a city",
-      "link": "https://dev.to/jonathon_lee_c2f908d54f03/guide-attention-from-a-country-to-a-city-36ke",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:36:19 +0000",
-      "summary": "Originally published in the Map Animation Studio guides. I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Guide attention from a country to a ",
-      "score": 5,
-      "titleZh": "Guide attention from a country to a city"
-    },
-    {
-      "title": "IndiaMart Supplier Negotiation MOQ Contracts in 2026: Factory Sourcing & Escrow Masterclass",
-      "link": "https://dev.to/sellerscope_2682e8a5/indiamart-supplier-negotiation-moq-contracts-in-2026-factory-sourcing-escrow-masterclass-3hni",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:36:10 +0000",
-      "summary": "AEO Quick Answer / AI Overview Snapshot: Mastering indiamart supplier negotiation moq contracts in 2026 allows e-commerce brand builders to bypass trading middlemen, secure direct factory pricing, and",
-      "score": 5,
-      "titleZh": "IndiaMart Supplier Negotiation MOQ Contracts in 2026: Factory Sourcing & Escrow Masterclass"
-    },
-    {
-      "title": "A kanban board in React with native drag and drop (and a fallback that works on phones)",
-      "link": "https://dev.to/ngovanbon16/a-kanban-board-in-react-with-native-drag-and-drop-and-a-fallback-that-works-on-phones-5220",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 04:30:27 +0000",
-      "summary": "I recently built Tandem, a CRM dashboard template with Next.js 16 and Tailwind CSS 4. The centerpiece is a kanban pipeline: deals move from Lead to Won. I wanted it without a drag-and-drop library, an",
-      "score": 5,
-      "titleZh": "A kanban board in React with native drag and drop (and a fallback that works on phones)"
-    },
-    {
-      "title": "TanStack Query did my offline mode, my retries and my cache. I wrote the rules.",
-      "link": "https://dev.to/rakno/tanstack-query-did-my-offline-mode-my-retries-and-my-cache-i-wrote-the-rules-2902",
+      "title": "Building Outputmaxxing Remote MCP Servers with a 2-Step Spend Confirmation Gate",
+      "link": "https://dev.to/illyism/building-outputmaxxing-remote-mcp-servers-with-a-2-step-spend-confirmation-gate-3a7i",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 07 Nov 2026 04:30:00 +0000",
-      "summary": "ParkEase has two React apps talking to the same API: an Android app (Expo, React Native) for drivers, owners, valets and car washers, and an admin panel (React and Vite). Both get every byte of server",
+      "date": "Sat, 07 Nov 2026 15:55:59 +0000",
+      "summary": "Most Model Context Protocol (MCP) servers shipped in the last year have a structural flaw: they stop at detection. They wrap GET endpoints, dump a 20,000-token JSON blob of analytics or search results",
       "score": 5,
-      "titleZh": "TanStack Query did my offline mode, my retries and my cache. I wrote the rules."
+      "titleZh": "Building Outputmaxxing Remote MCP Servers with a 2-Step Spend Confirmation Gate"
+    },
+    {
+      "title": "Build and Explore with Characters AI Chat - Free Platform",
+      "link": "https://dev.to/charactersaichatfree/build-and-explore-with-characters-ai-chat-free-platform-359o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 15:55:36 +0000",
+      "summary": "Hello everyone! I am excited to share Characters AI Chat, an interactive AI roleplay and storytelling platform where users can engage in immersive conversations with diverse AI personas and create cus",
+      "score": 5,
+      "titleZh": "Build and Explore with Characters AI Chat - Free Platform"
+    },
+    {
+      "title": "MovieMatcherAI Guest Data: Two Apps, Two Upstreams, One Shared Snapshot",
+      "link": "https://dev.to/onepassapps/moviematcherai-guest-data-two-apps-two-upstreams-one-shared-snapshot-23je",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 07 Nov 2026 15:54:30 +0000",
+      "summary": "Full disclosure: I work on OnePassApps. MovieMatcherAI is one of the two hosted apps in the OnePassApps membership - the seven studios run inside your browser tab, this one runs on our servers. This p",
+      "score": 5,
+      "titleZh": "MovieMatcherAI Guest Data: Two Apps, Two Upstreams, One Shared Snapshot"
     }
   ]
 }
