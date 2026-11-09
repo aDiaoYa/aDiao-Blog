@@ -1,249 +1,249 @@
 {
-  "updated": "2026-11-09T04:42:05.979Z",
+  "updated": "2026-11-09T20:24:48.542Z",
   "date": "2026-11-09",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Goodbye Claude, hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 08 Nov 2026 03:11:48 +0000",
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107",
-      "score": 716,
-      "titleZh": "Goodbye Claude, hello Pi"
-    },
-    {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 08 Nov 2026 18:16:07 +0000",
-      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628",
-      "score": 670,
-      "titleZh": "Goldman Sachs is pulling Claude Code from its bankers and traders"
-    },
-    {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "link": "https://github.com/synchopate/llama-modchip",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 08 Nov 2026 10:22:04 +0000",
-      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961",
-      "score": 389,
-      "titleZh": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 08 Nov 2026 19:37:42 +0000",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363",
-      "score": 188,
-      "titleZh": "How I Fight AI Brain Fry"
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 08 Nov 2026 23:44:36 +0000",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975",
-      "score": 93,
-      "titleZh": "I'm not convinced the AI bubble exists"
-    },
-    {
-      "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+      "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-09T00:30:07.000Z",
-      "summary": "I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text form",
+      "date": "2026-11-09T18:52:05.000Z",
+      "summary": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact",
       "score": 40,
-      "titleZh": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]"
+      "titleZh": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]"
     },
     {
-      "title": "Continual retention across 6 streams [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xr9d9y/continual_retention_across_6_streams_r/",
+      "title": "Facing file Extraction problem during Bayesian Optimization[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrzzfu/facing_file_extraction_problem_during_bayesian/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-08T21:16:07.000Z",
-      "summary": "submitted by /u/Horror-Celery4869 [link] [comments]",
+      "date": "2026-11-09T18:45:28.000Z",
+      "summary": "Ok so for context i am an electrical engineer person who is automating software's and workflow for my project now here is the problem i am facing basically i am using an optimization algorithm called ",
       "score": 40,
-      "titleZh": "Continual retention across 6 streams [R]"
+      "titleZh": "Facing file Extraction problem during Bayesian Optimization[P]"
     },
     {
-      "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+      "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-08T17:54:43.000Z",
-      "summary": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous ve",
+      "date": "2026-11-09T17:50:57.000Z",
+      "summary": "PINNs, least squares and Bayesian fits all return a parameter. None of them tell you, with a proof, whether a very different parameter fits your data just as well. Twindex finds those \"twins\" and prov",
       "score": 40,
-      "titleZh": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]"
+      "titleZh": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]"
     },
     {
-      "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+      "title": "EACL 2027 Decisions Thread [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-08T17:43:26.000Z",
-      "summary": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single ",
+      "date": "2026-11-09T15:52:24.000Z",
+      "summary": "(Will be out on thursday) submitted by /u/Dry_Theme_7508 [link] [comments]",
       "score": 40,
-      "titleZh": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]"
+      "titleZh": "EACL 2027 Decisions Thread [R]"
     },
     {
-      "title": "NeurIPS SlidesLive [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+      "title": "Using latent-agent swarms for math discovery and optimization [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-08T11:12:05.000Z",
-      "summary": "Does anyone know what this NeurIPS Slides live is? I got an email saying \"We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your rec",
+      "date": "2026-11-09T15:30:50.000Z",
+      "summary": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iterat",
       "score": 40,
-      "titleZh": "NeurIPS SlidesLive [D]"
+      "titleZh": "Using latent-agent swarms for math discovery and optimization [R]"
     },
     {
-      "title": "Sales Tax and VAT for Vibe-Coded Apps: What You Actually Have to Do",
-      "link": "https://dev.to/supermax33/sales-tax-and-vat-for-vibe-coded-apps-what-you-actually-have-to-do-52o5",
+      "title": "Amazon applied science intern interview next week - EU based [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-09T06:31:34.000Z",
+      "summary": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and ",
+      "score": 40,
+      "titleZh": "Amazon applied science intern interview next week - EU based [D]"
+    },
+    {
+      "title": "ICLR 2027 Reviews Discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-05T02:17:59.000Z",
+      "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these a",
+      "score": 40,
+      "titleZh": "ICLR 2027 Reviews Discussion [D]"
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T03:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 09 Nov 2026 19:00:00 GMT",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "score": 5,
+      "titleZh": "ChatGPT Enterprise now available in AWS Marketplace"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 09 Nov 2026 15:05:57 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+    },
+    {
+      "title": "401(k) Projection Math Every Developer Should Know",
+      "link": "https://dev.to/tanzeel_abbas_1288a9e8d4c/401k-projection-math-every-developer-should-know-360",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 20:24:28 +0000",
+      "summary": "Try it live: plug your own numbers into the free 401(k) calculator on FreeKalc — no sign-up, no backend, just the maths in your browser. Every 401(k) projection you've ever seen — in a finance app, a ",
+      "score": 5,
+      "titleZh": "401(k) Projection Math Every Developer Should Know"
+    },
+    {
+      "title": "Loan Amortization vs Mortgage: What's the Difference in Code",
+      "link": "https://dev.to/tanzeel_abbas_1288a9e8d4c/loan-amortization-vs-mortgage-whats-the-difference-in-code-48k8",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 20:23:27 +0000",
+      "summary": "Try it live: run the numbers yourself with the free loan calculator on FreeKalc — no sign-up, no backend, just the maths in your browser. Ask a developer to model a loan and a mortgage and you'll get ",
+      "score": 5,
+      "titleZh": "Loan Amortization vs Mortgage: What's the Difference in Code"
+    },
+    {
+      "title": "Your AI Stream Arrives All at Once After Deploy: Debugging Buffered SSE Step by Step",
+      "link": "https://dev.to/babycat/your-ai-stream-arrives-all-at-once-after-deploy-debugging-buffered-sse-step-by-step-3157",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 20:22:08 +0000",
+      "summary": "The failure: a stream that only looks streamed The scenario below is illustrative — a composite of the kind of bug this workflow is built to catch, not a report of a specific incident or a measured de",
+      "score": 5,
+      "titleZh": "Your AI Stream Arrives All at Once After Deploy: Debugging Buffered SSE Step by Step"
+    },
+    {
+      "title": "Building Complex SQL Queries in a Type-Safe Way with Java and Querier",
+      "link": "https://dev.to/aissam_assouik/building-complex-sql-queries-in-a-type-safe-way-with-java-and-querier-4b92",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 04:36:19 +0000",
-      "summary": "Your app has its first few paying customers: one in Germany, one in the US, one in India. Then somebody asks for an invoice with their VAT number on it, and you realise you never thought about tax. Di",
+      "date": "Mon, 09 Nov 2026 20:19:07 +0000",
+      "summary": "Building Complex SQL Queries in a Type-Safe Way with Java and Querier Writing SQL queries in Java is relatively easy when dealing with simple SELECT, WHERE, and JOIN statements. But what happens when ",
       "score": 5,
-      "titleZh": "Sales Tax and VAT for Vibe-Coded Apps: What You Actually Have to Do"
+      "titleZh": "Building Complex SQL Queries in a Type-Safe Way with Java and Querier"
     },
     {
-      "title": "Making a favicon from an SVG, measured: what breaks at 16 pixels",
-      "link": "https://dev.to/usman_basheers/making-a-favicon-from-an-svg-measured-what-breaks-at-16-pixels-16om",
+      "title": "Showcase: Building Cudic, a web-based game studio and editor",
+      "link": "https://dev.to/opencodepers/showcase-building-cudic-a-web-based-game-studio-and-editor-15j3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 04:36:16 +0000",
-      "summary": "Every favicon guide gives you the same list of files. I built the set from a real 716-byte logo to see the sizes, and found the one check most guides skip. TL;DR: a square favicon.svg (with dark mode ",
+      "date": "Mon, 09 Nov 2026 20:17:55 +0000",
+      "summary": "Hi everyone! I wanted to share a project I've been working on called Cudic (https://cudic.vercel.app). It’s a full browser-based game studio and development workbench. It's designed to be a lightweigh",
       "score": 5,
-      "titleZh": "Making a favicon from an SVG, measured: what breaks at 16 pixels"
+      "titleZh": "Showcase: Building Cudic, a web-based game studio and editor"
     },
     {
-      "title": "Build a ZIP file in Node.js with zero dependencies (and four bugs I hit downloading files in bulk)",
-      "link": "https://dev.to/rafisiddiq/build-a-zip-file-in-nodejs-with-zero-dependencies-and-four-bugs-i-hit-downloading-files-in-bulk-14dh",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 04:35:03 +0000",
-      "summary": "I recently built a bulk file downloader: a list of URLs in, every file stored, plus one ZIP of everything at the end. The ZIP part turned out to need no library at all on modern Node, and the download",
-      "score": 5,
-      "titleZh": "Build a ZIP file in Node.js with zero dependencies (and four bugs I hit downloading files in bulk)"
-    },
-    {
-      "title": "How to check domain age, expiry and DMARC for thousands of domains with free official APIs",
-      "link": "https://dev.to/rafisiddiq/how-to-check-domain-age-expiry-and-dmarc-for-thousands-of-domains-with-free-official-apis-4pco",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 04:34:14 +0000",
-      "summary": "WHOIS is on its way out. For generic domains like .com, .net and .org, ICANN now requires registries and registrars to answer over RDAP, the Registration Data Access Protocol: plain HTTPS that returns",
-      "score": 5,
-      "titleZh": "How to check domain age, expiry and DMARC for thousands of domains with free official APIs"
-    },
-    {
-      "title": "The same shipping event, twice, in two languages: a dedup rule we measured and did not ship",
-      "link": "https://dev.to/support24htrack/the-same-shipping-event-twice-in-two-languages-a-dedup-rule-we-measured-and-did-not-ship-30io",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 04:33:21 +0000",
-      "summary": "If you store carrier scan events, you will eventually meet a timeline where every row appears twice: once in English, once in another script, with the identical timestamp. Some postal operators publis",
-      "score": 5,
-      "titleZh": "The same shipping event, twice, in two languages: a dedup rule we measured and did not ship"
-    },
-    {
-      "title": "Should you add an AI chatbot to your website?",
-      "link": "https://dev.to/sagarbharvadiya1/should-you-add-an-ai-chatbot-to-your-website-1hm5",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 04:30:00 +0000",
-      "summary": "Adding an artificial intelligence assistant to a business website sounds like a modern upgrade. With a few clicks or a short script, you can deploy a conversational partner that answers customer quest",
-      "score": 5,
-      "titleZh": "Should you add an AI chatbot to your website?"
-    },
-    {
-      "title": "Watermarking 200 photos in the browser, with nothing uploaded",
-      "link": "https://dev.to/ashish_sikka/watermarking-200-photos-in-the-browser-with-nothing-uploaded-3p13",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 04:28:02 +0000",
-      "summary": "I work on sellphotos.online, where this was originally published. A watermark tool that uploads your photos to a server asks photographers to hand over the very thing they're trying to protect. So we ",
-      "score": 5,
-      "titleZh": "Watermarking 200 photos in the browser, with nothing uploaded"
-    },
-    {
-      "title": "How to Build a Returns Auction Marketplace: Architecture, Fraud Controls, and Scaling Costs",
-      "link": "https://dev.to/quokkalabs/how-to-build-a-returns-auction-marketplace-architecture-fraud-controls-and-scaling-costs-141g",
+      "title": "HubSpot’s contact page gets three useful basics right",
+      "link": "https://dev.to/maithoa/hubspots-contact-page-gets-three-useful-basics-right-fmk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 04:27:27 +0000",
-      "summary": "NRF expects $1.013 trillion in 2026 holiday sales, while its latest research says fraud continues shifting across digital channels. The controversial takeaway: a returns auction marketplace is a fraud",
+      "date": "Mon, 09 Nov 2026 20:15:29 +0000",
+      "summary": "I’m building AI Website Check for business owners and marketing teams who want to know whether an AI assistant can use their website. When we inspected HubSpot’s contact-sales page, three things stood",
       "score": 5,
-      "titleZh": "How to Build a Returns Auction Marketplace: Architecture, Fraud Controls, and Scaling Costs"
+      "titleZh": "HubSpot’s contact page gets three useful basics right"
     },
     {
-      "title": "Your Side Project Doesn't Need a Security Team (But It Does Need a Checklist)",
-      "link": "https://dev.to/alexcodebytes/your-side-project-doesnt-need-a-security-team-but-it-does-need-a-checklist-m4a",
+      "title": "Software engineer resume in 2026: how to show the work AI isn't doing",
+      "link": "https://dev.to/hamzahassan/software-engineer-resume-in-2026-how-to-show-the-work-ai-isnt-doing-2fcb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 04:26:56 +0000",
-      "summary": "I used to think that security was something only big enterprises needed to worry about. \"Who's going to hack my little side project?\" I'd tell myself. \"I'm just building a simple SaaS for 10 users.\" T",
+      "date": "Mon, 09 Nov 2026 20:12:08 +0000",
+      "summary": "A strong software engineer resume in 2026 shows more than the code you wrote. Most developers now use AI to help write code, so recruiters see the same \"built features with React and Node\" bullets on ",
       "score": 5,
-      "titleZh": "Your Side Project Doesn't Need a Security Team (But It Does Need a Checklist)"
+      "titleZh": "Software engineer resume in 2026: how to show the work AI isn't doing"
     },
     {
-      "title": "Notes on generating QR codes for print: error correction, logo holes and quiet zones",
-      "link": "https://dev.to/ashish_sikka/notes-on-generating-qr-codes-for-print-error-correction-logo-holes-and-quiet-zones-2cm0",
-      "source": "Dev.to JS",
+      "title": "Your AI built the app. These 3 holes ship with it.",
+      "link": "https://dev.to/counterkit/your-ai-built-the-app-these-3-holes-ship-with-it-6oi",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 04:25:59 +0000",
-      "summary": "I work on sellphotos.online, where this was originally published. Every event on sellphotos.online gets a QR code. Photographers print it on posters, notice boards and table cards, or put it on the la",
+      "date": "Mon, 09 Nov 2026 20:09:36 +0000",
+      "summary": "Your AI builder optimised for one thing: the demo works. It did not optimise for safe. Here are the three holes I find in almost every AI-built Firebase app — what they are, how they're exploited, and",
       "score": 5,
-      "titleZh": "Notes on generating QR codes for print: error correction, logo holes and quiet zones"
+      "titleZh": "Your AI built the app. These 3 holes ship with it."
+    },
+    {
+      "title": "My screenshot was 1080x1350. The page was 1722 pixels tall.",
+      "link": "https://dev.to/jonasfilhodev/my-screenshot-was-1080x1350-the-page-was-1722-pixels-tall-57c2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 20:07:20 +0000",
+      "summary": "A piece of artwork went live last month without the contact line at the bottom. Phone, handle and site were in the HTML, the CSS placed them, the browser laid them out, and the file that got published",
+      "score": 5,
+      "titleZh": "My screenshot was 1080x1350. The page was 1722 pixels tall."
+    },
+    {
+      "title": "The Inline Layer of app.onepassapps.com: 10,574 Tags, One Style Value and Not One Event Handler",
+      "link": "https://dev.to/onepassapps/the-inline-layer-of-apponepassappscom-10574-tags-one-style-value-and-not-one-event-handler-4mjg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 20:06:37 +0000",
+      "summary": "I work on OnePassApps, so this is our own site. Everything below was measured on 9 November 2026 over plain HTTPS: the 56 URLs in our own sitemap, one GET each, no browser, no session, no cookies, no ",
+      "score": 5,
+      "titleZh": "The Inline Layer of app.onepassapps.com: 10,574 Tags, One Style Value and Not One Event Handler"
     }
   ]
 }
