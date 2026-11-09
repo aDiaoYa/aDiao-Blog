@@ -1,249 +1,249 @@
 {
-  "updated": "2026-11-07T16:06:43.574Z",
-  "date": "2026-11-07",
+  "updated": "2026-11-09T04:42:05.979Z",
+  "date": "2026-11-09",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
+      "title": "Goodbye Claude, hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 08 Nov 2026 03:11:48 +0000",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107",
+      "score": 716,
+      "titleZh": "Goodbye Claude, hello Pi"
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 08 Nov 2026 18:16:07 +0000",
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628",
+      "score": 670,
+      "titleZh": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 08 Nov 2026 10:22:04 +0000",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961",
+      "score": 389,
+      "titleZh": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363",
+      "score": 188,
+      "titleZh": "How I Fight AI Brain Fry"
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 08 Nov 2026 23:44:36 +0000",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975",
+      "score": 93,
+      "titleZh": "I'm not convinced the AI bubble exists"
+    },
+    {
+      "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T08:25:40.000Z",
-      "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points ",
+      "date": "2026-11-09T00:30:07.000Z",
+      "summary": "I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text form",
       "score": 40,
-      "titleZh": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]"
+      "titleZh": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]"
     },
     {
-      "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+      "title": "Continual retention across 6 streams [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xr9d9y/continual_retention_across_6_streams_r/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T07:08:01.000Z",
-      "summary": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hin",
+      "date": "2026-11-08T21:16:07.000Z",
+      "summary": "submitted by /u/Horror-Celery4869 [link] [comments]",
       "score": 40,
-      "titleZh": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]"
+      "titleZh": "Continual retention across 6 streams [R]"
     },
     {
-      "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
+      "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T06:40:14.000Z",
-      "summary": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process. One of the reviewers seems to have submitted a review for a completely different paper. A",
+      "date": "2026-11-08T17:54:43.000Z",
+      "summary": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous ve",
       "score": 40,
-      "titleZh": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]"
+      "titleZh": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]"
     },
     {
-      "title": "The most scathing reviewer 2 review I have ever read",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+      "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-07T01:30:53.000Z",
-      "summary": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world mo",
+      "date": "2026-11-08T17:43:26.000Z",
+      "summary": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single ",
       "score": 40,
-      "titleZh": "The most scathing reviewer 2 review I have ever read"
+      "titleZh": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]"
     },
     {
-      "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+      "title": "NeurIPS SlidesLive [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-06T21:25:49.000Z",
-      "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in",
+      "date": "2026-11-08T11:12:05.000Z",
+      "summary": "Does anyone know what this NeurIPS Slides live is? I got an email saying \"We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your rec",
       "score": 40,
-      "titleZh": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]"
+      "titleZh": "NeurIPS SlidesLive [D]"
     },
     {
-      "title": "ICLR 2027 Review Scores [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-06T14:37:41.000Z",
-      "summary": "submitted by /u/No-Lab4175 [link] [comments]",
-      "score": 40,
-      "titleZh": "ICLR 2027 Review Scores [N]"
-    },
-    {
-      "title": "ICLR 2027 Reviews Discussion [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-05T02:17:59.000Z",
-      "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these a",
-      "score": 40,
-      "titleZh": "ICLR 2027 Reviews Discussion [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T03:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "link": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 06 Nov 2026 14:00:48 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "ToyBlocks: A controlled world for robot learning and evaluation"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "score": 5,
-      "titleZh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
-    },
-    {
-      "title": "Canvas sketches with no build step",
-      "link": "https://dev.to/jslab/canvas-sketches-with-no-build-step-201k",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 16:03:10 +0000",
-      "summary": "Canvas is the most fun you can have with forty lines of JavaScript, and it needs nothing: no framework, no bundler, no dev server. Here's a sketch with the three details that make it look right. One H",
-      "score": 5,
-      "titleZh": "Canvas sketches with no build step"
-    },
-    {
-      "title": "Find Dead Code With knip, Then Let a Coding Agent Delete It One Package per Worktree",
-      "link": "https://dev.to/gabrielanhaia/find-dead-code-with-knip-then-let-a-coding-agent-delete-it-one-package-per-worktree-2ef9",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 16:01:55 +0000",
-      "summary": "Book: Ship It — the pragmatic startup tech stack Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My project: Hermes IDE | GitHub — an IDE f",
-      "score": 5,
-      "titleZh": "Find Dead Code With knip, Then Let a Coding Agent Delete It One Package per Worktree"
-    },
-    {
-      "title": "Two Playwright tests, one account. Keep their data separate.",
-      "link": "https://dev.to/aiwithanton/two-playwright-tests-one-account-keep-their-data-separate-29dd",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 16:01:13 +0000",
-      "summary": "Originally published on anton.qa. One test expects Email alerts On. After reloading, it sees Off. In this Playwright demo, one test checks the Email alerts setting. Another test changes it. Run either",
-      "score": 5,
-      "titleZh": "Two Playwright tests, one account. Keep their data separate."
-    },
-    {
-      "title": "Engineering Trust: How Finance, Social Relations & Precision Web Design Built Amiry Design London",
-      "link": "https://dev.to/behniaamirimanesh/engineering-trust-how-finance-social-relations-precision-web-design-built-amiry-design-london-2j2h",
+      "title": "Sales Tax and VAT for Vibe-Coded Apps: What You Actually Have to Do",
+      "link": "https://dev.to/supermax33/sales-tax-and-vat-for-vibe-coded-apps-what-you-actually-have-to-do-52o5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 07 Nov 2026 15:59:56 +0000",
-      "summary": "In modern web design, aesthetics and engineering are too often treated as separate disciplines. Design agencies obsess over surface visuals while ignoring infrastructure and data determinism; software",
+      "date": "Mon, 09 Nov 2026 04:36:19 +0000",
+      "summary": "Your app has its first few paying customers: one in Germany, one in the US, one in India. Then somebody asks for an invoice with their VAT number on it, and you realise you never thought about tax. Di",
       "score": 5,
-      "titleZh": "Engineering Trust: How Finance, Social Relations & Precision Web Design Built Amiry Design London"
+      "titleZh": "Sales Tax and VAT for Vibe-Coded Apps: What You Actually Have to Do"
     },
     {
-      "title": "From GPX File to Animated Route Video: A Practical Guide",
-      "link": "https://dev.to/deeraf/from-gpx-file-to-animated-route-video-a-practical-guide-p79",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 15:59:31 +0000",
-      "summary": "If you've ever recorded a run, a bike ride, or a road trip, you have a GPX file somewhere. And if you've tried to turn it into a nice animated map for a video, a talk, or a blog post, you've probably ",
-      "score": 5,
-      "titleZh": "From GPX File to Animated Route Video: A Practical Guide"
-    },
-    {
-      "title": "How much of a work bonus do you actually keep? The 22% withholding math",
-      "link": "https://dev.to/salarypaytools/how-much-of-a-work-bonus-do-you-actually-keep-the-22-withholding-math-1210",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 15:58:55 +0000",
-      "summary": "A bonus check almost always looks smaller than the number your boss quoted. That is not a mistake. It is withholding, and the math is simple enough to put in a function. I added a bonus estimator to S",
-      "score": 5,
-      "titleZh": "How much of a work bonus do you actually keep? The 22% withholding math"
-    },
-    {
-      "title": "Extract and Check Open Graph and Twitter Card Meta Tags with Python (Standard Library Only)",
-      "link": "https://dev.to/appierun_66/extract-and-check-open-graph-and-twitter-card-meta-tags-with-python-standard-library-only-2aea",
+      "title": "Making a favicon from an SVG, measured: what breaks at 16 pixels",
+      "link": "https://dev.to/usman_basheers/making-a-favicon-from-an-svg-measured-what-breaks-at-16-pixels-16om",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 07 Nov 2026 15:57:52 +0000",
-      "summary": "When someone pastes your URL into Slack, LinkedIn, iMessage or X, the preview is not reading your <title> tag and hoping for the best. It looks for Open Graph tags (og:*) and, for X, Twitter Card tags",
+      "date": "Mon, 09 Nov 2026 04:36:16 +0000",
+      "summary": "Every favicon guide gives you the same list of files. I built the set from a real 716-byte logo to see the sizes, and found the one check most guides skip. TL;DR: a square favicon.svg (with dark mode ",
       "score": 5,
-      "titleZh": "Extract and Check Open Graph and Twitter Card Meta Tags with Python (Standard Library Only)"
+      "titleZh": "Making a favicon from an SVG, measured: what breaks at 16 pixels"
     },
     {
-      "title": "Building Outputmaxxing Remote MCP Servers with a 2-Step Spend Confirmation Gate",
-      "link": "https://dev.to/illyism/building-outputmaxxing-remote-mcp-servers-with-a-2-step-spend-confirmation-gate-3a7i",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 15:55:59 +0000",
-      "summary": "Most Model Context Protocol (MCP) servers shipped in the last year have a structural flaw: they stop at detection. They wrap GET endpoints, dump a 20,000-token JSON blob of analytics or search results",
-      "score": 5,
-      "titleZh": "Building Outputmaxxing Remote MCP Servers with a 2-Step Spend Confirmation Gate"
-    },
-    {
-      "title": "Build and Explore with Characters AI Chat - Free Platform",
-      "link": "https://dev.to/charactersaichatfree/build-and-explore-with-characters-ai-chat-free-platform-359o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 07 Nov 2026 15:55:36 +0000",
-      "summary": "Hello everyone! I am excited to share Characters AI Chat, an interactive AI roleplay and storytelling platform where users can engage in immersive conversations with diverse AI personas and create cus",
-      "score": 5,
-      "titleZh": "Build and Explore with Characters AI Chat - Free Platform"
-    },
-    {
-      "title": "MovieMatcherAI Guest Data: Two Apps, Two Upstreams, One Shared Snapshot",
-      "link": "https://dev.to/onepassapps/moviematcherai-guest-data-two-apps-two-upstreams-one-shared-snapshot-23je",
+      "title": "Build a ZIP file in Node.js with zero dependencies (and four bugs I hit downloading files in bulk)",
+      "link": "https://dev.to/rafisiddiq/build-a-zip-file-in-nodejs-with-zero-dependencies-and-four-bugs-i-hit-downloading-files-in-bulk-14dh",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 07 Nov 2026 15:54:30 +0000",
-      "summary": "Full disclosure: I work on OnePassApps. MovieMatcherAI is one of the two hosted apps in the OnePassApps membership - the seven studios run inside your browser tab, this one runs on our servers. This p",
+      "date": "Mon, 09 Nov 2026 04:35:03 +0000",
+      "summary": "I recently built a bulk file downloader: a list of URLs in, every file stored, plus one ZIP of everything at the end. The ZIP part turned out to need no library at all on modern Node, and the download",
       "score": 5,
-      "titleZh": "MovieMatcherAI Guest Data: Two Apps, Two Upstreams, One Shared Snapshot"
+      "titleZh": "Build a ZIP file in Node.js with zero dependencies (and four bugs I hit downloading files in bulk)"
+    },
+    {
+      "title": "How to check domain age, expiry and DMARC for thousands of domains with free official APIs",
+      "link": "https://dev.to/rafisiddiq/how-to-check-domain-age-expiry-and-dmarc-for-thousands-of-domains-with-free-official-apis-4pco",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:34:14 +0000",
+      "summary": "WHOIS is on its way out. For generic domains like .com, .net and .org, ICANN now requires registries and registrars to answer over RDAP, the Registration Data Access Protocol: plain HTTPS that returns",
+      "score": 5,
+      "titleZh": "How to check domain age, expiry and DMARC for thousands of domains with free official APIs"
+    },
+    {
+      "title": "The same shipping event, twice, in two languages: a dedup rule we measured and did not ship",
+      "link": "https://dev.to/support24htrack/the-same-shipping-event-twice-in-two-languages-a-dedup-rule-we-measured-and-did-not-ship-30io",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:33:21 +0000",
+      "summary": "If you store carrier scan events, you will eventually meet a timeline where every row appears twice: once in English, once in another script, with the identical timestamp. Some postal operators publis",
+      "score": 5,
+      "titleZh": "The same shipping event, twice, in two languages: a dedup rule we measured and did not ship"
+    },
+    {
+      "title": "Should you add an AI chatbot to your website?",
+      "link": "https://dev.to/sagarbharvadiya1/should-you-add-an-ai-chatbot-to-your-website-1hm5",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:30:00 +0000",
+      "summary": "Adding an artificial intelligence assistant to a business website sounds like a modern upgrade. With a few clicks or a short script, you can deploy a conversational partner that answers customer quest",
+      "score": 5,
+      "titleZh": "Should you add an AI chatbot to your website?"
+    },
+    {
+      "title": "Watermarking 200 photos in the browser, with nothing uploaded",
+      "link": "https://dev.to/ashish_sikka/watermarking-200-photos-in-the-browser-with-nothing-uploaded-3p13",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:28:02 +0000",
+      "summary": "I work on sellphotos.online, where this was originally published. A watermark tool that uploads your photos to a server asks photographers to hand over the very thing they're trying to protect. So we ",
+      "score": 5,
+      "titleZh": "Watermarking 200 photos in the browser, with nothing uploaded"
+    },
+    {
+      "title": "How to Build a Returns Auction Marketplace: Architecture, Fraud Controls, and Scaling Costs",
+      "link": "https://dev.to/quokkalabs/how-to-build-a-returns-auction-marketplace-architecture-fraud-controls-and-scaling-costs-141g",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:27:27 +0000",
+      "summary": "NRF expects $1.013 trillion in 2026 holiday sales, while its latest research says fraud continues shifting across digital channels. The controversial takeaway: a returns auction marketplace is a fraud",
+      "score": 5,
+      "titleZh": "How to Build a Returns Auction Marketplace: Architecture, Fraud Controls, and Scaling Costs"
+    },
+    {
+      "title": "Your Side Project Doesn't Need a Security Team (But It Does Need a Checklist)",
+      "link": "https://dev.to/alexcodebytes/your-side-project-doesnt-need-a-security-team-but-it-does-need-a-checklist-m4a",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:26:56 +0000",
+      "summary": "I used to think that security was something only big enterprises needed to worry about. \"Who's going to hack my little side project?\" I'd tell myself. \"I'm just building a simple SaaS for 10 users.\" T",
+      "score": 5,
+      "titleZh": "Your Side Project Doesn't Need a Security Team (But It Does Need a Checklist)"
+    },
+    {
+      "title": "Notes on generating QR codes for print: error correction, logo holes and quiet zones",
+      "link": "https://dev.to/ashish_sikka/notes-on-generating-qr-codes-for-print-error-correction-logo-holes-and-quiet-zones-2cm0",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 09 Nov 2026 04:25:59 +0000",
+      "summary": "I work on sellphotos.online, where this was originally published. Every event on sellphotos.online gets a QR code. Photographers print it on posters, notice boards and table cards, or put it on the la",
+      "score": 5,
+      "titleZh": "Notes on generating QR codes for print: error correction, logo holes and quiet zones"
     }
   ]
 }
