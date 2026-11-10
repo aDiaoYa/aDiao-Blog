@@ -1,10 +1,82 @@
 {
-  "updated": "2026-11-09T20:24:48.542Z",
-  "date": "2026-11-09",
+  "updated": "2026-11-10T05:58:26.712Z",
+  "date": "2026-11-10",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "link": "https://github.com/thisisme6598/gemini_files/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 09 Nov 2026 18:24:38 +0000",
+      "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426",
+      "score": 508,
+      "titleZh": "Google Gemini routes personal Drive files and emails to human annotators"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 09 Nov 2026 18:01:10 +0000",
+      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068",
+      "score": 403,
+      "titleZh": "Claude Fable 5.2 and Mythos 5.2"
+    },
+    {
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 09 Nov 2026 20:04:55 +0000",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144",
+      "score": 324,
+      "titleZh": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far"
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 10 Nov 2026 03:20:06 +0000",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660",
+      "score": 74,
+      "titleZh": "CoreWeave bond yield tops 16% as AI credit stress rises"
+    },
+    {
+      "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-10T02:07:04.000Z",
+      "summary": "It's been a long time since I studied this. Just checking in on an old friend. I also realize it's fallen out of favor for being extremely inconvenient, but why did it ever work? submitted by /u/XTXin",
+      "score": 40,
+      "titleZh": "Did we ever really get to the bottom of why BatchNorm works? [D]"
+    },
+    {
+      "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-09T21:34:38.000Z",
+      "summary": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts,",
+      "score": 40,
+      "titleZh": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]"
+    },
     {
       "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
@@ -16,42 +88,6 @@
       "summary": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact",
       "score": 40,
       "titleZh": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]"
-    },
-    {
-      "title": "Facing file Extraction problem during Bayesian Optimization[P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrzzfu/facing_file_extraction_problem_during_bayesian/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-09T18:45:28.000Z",
-      "summary": "Ok so for context i am an electrical engineer person who is automating software's and workflow for my project now here is the problem i am facing basically i am using an optimization algorithm called ",
-      "score": 40,
-      "titleZh": "Facing file Extraction problem during Bayesian Optimization[P]"
-    },
-    {
-      "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-09T17:50:57.000Z",
-      "summary": "PINNs, least squares and Bayesian fits all return a parameter. None of them tell you, with a proof, whether a very different parameter fits your data just as well. Twindex finds those \"twins\" and prov",
-      "score": 40,
-      "titleZh": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]"
-    },
-    {
-      "title": "EACL 2027 Decisions Thread [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-09T15:52:24.000Z",
-      "summary": "(Will be out on thursday) submitted by /u/Dry_Theme_7508 [link] [comments]",
-      "score": 40,
-      "titleZh": "EACL 2027 Decisions Thread [R]"
     },
     {
       "title": "Using latent-agent swarms for math discovery and optimization [R]",
@@ -66,6 +102,18 @@
       "titleZh": "Using latent-agent swarms for math discovery and optimization [R]"
     },
     {
+      "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-09T09:22:10.000Z",
+      "summary": "Everyone keeps citing lost in the middle so, instead of going by the paper's citations, i wanted to actually check it on my own stuff, without building a labeled set for it. So i did the lazy version.",
+      "score": 40,
+      "titleZh": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]"
+    },
+    {
       "title": "Amazon applied science intern interview next week - EU based [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
       "source": "Reddit ML",
@@ -78,172 +126,124 @@
       "titleZh": "Amazon applied science intern interview next week - EU based [D]"
     },
     {
-      "title": "ICLR 2027 Reviews Discussion [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
-      "source": "Reddit ML",
+      "title": "How Can Developers Make Websites Easier for AI Search Engines to Understand?",
+      "link": "https://dev.to/sameer_132f2fd384172fce41/how-can-developers-make-websites-easier-for-ai-search-engines-to-understand-22l4",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "2026-11-05T02:17:59.000Z",
-      "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these a",
-      "score": 40,
-      "titleZh": "ICLR 2027 Reviews Discussion [D]"
-    },
-    {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T03:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "date": "Tue, 10 Nov 2026 05:58:16 +0000",
+      "summary": "AI-powered search engines are changing how people discover information online. Instead of simply displaying a list of website links, platforms such as Google AI Overviews, ChatGPT, and Perplexity can ",
       "score": 5,
-      "titleZh": "ChatGPT Enterprise now available in AWS Marketplace"
+      "titleZh": "How Can Developers Make Websites Easier for AI Search Engines to Understand?"
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "HuggingFace",
+      "title": "How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything",
+      "link": "https://dev.to/liam_le/how-to-open-odd-file-formats-docx-xlsx-pptx-vsdx-heic-in-a-browser-without-installing-anything-37hn",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Mon, 09 Nov 2026 15:05:57 GMT",
-      "summary": "",
+      "date": "Tue, 10 Nov 2026 05:57:58 +0000",
+      "summary": "Disclosure: I made Pdfle, one of the tools mentioned below. I've tried to list it alongside the other options and be upfront about its limits. Sooner or later someone sends you a file your machine can",
       "score": 5,
-      "titleZh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+      "titleZh": "How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything"
     },
     {
-      "title": "401(k) Projection Math Every Developer Should Know",
-      "link": "https://dev.to/tanzeel_abbas_1288a9e8d4c/401k-projection-math-every-developer-should-know-360",
+      "title": "I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best",
+      "link": "https://dev.to/yanni_goyal_5ddb75eb46482/i-built-the-same-app-with-cursor-copilot-codex-and-antigravity-heres-what-each-did-best-4d78",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 05:56:52 +0000",
+      "summary": "\"Which AI coding tool is the best?\" I get this question a lot, so I tested it. I gave four AI coding assistants the same project and the same instructions, and let each one build it. The project was S",
+      "score": 5,
+      "titleZh": "I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best"
+    },
+    {
+      "title": "How AI Automation for Small Businesses Is Changing the Future of Business in 2026",
+      "link": "https://dev.to/mecahx/how-ai-automation-for-small-businesses-is-changing-the-future-of-business-in-2026-5h6n",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 05:56:22 +0000",
+      "summary": "How AI Automation for Small Businesses Is Changing the Future of Business in 2026 Introduction Technology is changing the way businesses operate. In 2026, artificial intelligence (AI) is becoming an i",
+      "score": 5,
+      "titleZh": "How AI Automation for Small Businesses Is Changing the Future of Business in 2026"
+    },
+    {
+      "title": "Why Most Business Websites Lose Customers on Mobile",
+      "link": "https://dev.to/msdevseo/why-most-business-websites-lose-customers-on-mobile-5bb2",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 05:56:11 +0000",
+      "summary": "Most people will meet your business on a phone. They search on a phone, tap a result on a phone, and decide on a phone — often while standing in a shop, sitting in a car, or waiting in a queue. If the",
+      "score": 5,
+      "titleZh": "Why Most Business Websites Lose Customers on Mobile"
+    },
+    {
+      "title": "Why Do Some Websites Rank on Google but Get Ignored by AI Search?",
+      "link": "https://dev.to/sameer_132f2fd384172fce41/why-do-some-websites-rank-on-google-but-get-ignored-by-ai-search-12k4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 05:55:44 +0000",
+      "summary": "A website can rank well on Google and still receive little or no visibility from AI-powered search experiences. At first, this seems strange. If Google considers a website useful enough to rank in tra",
+      "score": 5,
+      "titleZh": "Why Do Some Websites Rank on Google but Get Ignored by AI Search?"
+    },
+    {
+      "title": "Đổi nền tảng website mà vẫn giữ lượt khách từ Google",
+      "link": "https://dev.to/aitopupio/doi-nen-tang-website-ma-van-giu-luot-khach-tu-google-3e4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 05:55:06 +0000",
+      "summary": "Giả sử một cửa hàng phụ tùng xe máy ở Biên Hoà dùng website code tay từ năm 2018, nay chuyển sang WordPress cho nhân viên tự đăng sản phẩm. Giao diện mới gọn hơn, ai cũng hài lòng. 3 tuần sau, số cuộc",
+      "score": 5,
+      "titleZh": "Đổi nền tảng website mà vẫn giữ lượt khách từ Google"
+    },
+    {
+      "title": "Manual Vs Automation Testing: A Comparative Analysis",
+      "link": "https://dev.to/keploy/manual-vs-automation-testing-a-comparative-analysis-24og",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 05:55:00 +0000",
+      "summary": "Imagine that you're baking a cake. You can do everything the hard way, measuring flour, mixing batter, and preheating the oven just right, or you can use a smart kitchen device that measures, mixes, a",
+      "score": 5,
+      "titleZh": "Manual Vs Automation Testing: A Comparative Analysis"
+    },
+    {
+      "title": "When you can't edit the size in an image URL: signed variants on itch.io and Flickr",
+      "link": "https://dev.to/casper_tran_59c6a8b1e1f3d/when-you-cant-edit-the-size-in-an-image-url-signed-variants-on-itchio-and-flickr-2mi3",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 20:24:28 +0000",
-      "summary": "Try it live: plug your own numbers into the free 401(k) calculator on FreeKalc — no sign-up, no backend, just the maths in your browser. Every 401(k) projection you've ever seen — in a finance app, a ",
+      "date": "Tue, 10 Nov 2026 05:52:34 +0000",
+      "summary": "In my last two posts I rewrote size tokens in image URLs: change feed_thumbnail to feed_fullsize, drop .600x338, and the CDN hands you the bigger file. That trick has a limit. Some CDNs sign each size",
       "score": 5,
-      "titleZh": "401(k) Projection Math Every Developer Should Know"
+      "titleZh": "When you can't edit the size in an image URL: signed variants on itch.io and Flickr"
     },
     {
-      "title": "Loan Amortization vs Mortgage: What's the Difference in Code",
-      "link": "https://dev.to/tanzeel_abbas_1288a9e8d4c/loan-amortization-vs-mortgage-whats-the-difference-in-code-48k8",
+      "title": "Firefox for Focused Writing: A Distraction-Free Browser Setup for Writers",
+      "link": "https://dev.to/weatherclockdash/firefox-for-focused-writing-a-distraction-free-browser-setup-for-writers-20b1",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 09 Nov 2026 20:23:27 +0000",
-      "summary": "Try it live: run the numbers yourself with the free loan calculator on FreeKalc — no sign-up, no backend, just the maths in your browser. Ask a developer to model a loan and a mortgage and you'll get ",
+      "date": "Tue, 10 Nov 2026 05:49:31 +0000",
+      "summary": "Writers working in the browser — in Google Docs, Notion, blogging platforms, or plain-text editors — face a specific challenge: the same browser that hosts their writing also hosts every distraction. ",
       "score": 5,
-      "titleZh": "Loan Amortization vs Mortgage: What's the Difference in Code"
-    },
-    {
-      "title": "Your AI Stream Arrives All at Once After Deploy: Debugging Buffered SSE Step by Step",
-      "link": "https://dev.to/babycat/your-ai-stream-arrives-all-at-once-after-deploy-debugging-buffered-sse-step-by-step-3157",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:22:08 +0000",
-      "summary": "The failure: a stream that only looks streamed The scenario below is illustrative — a composite of the kind of bug this workflow is built to catch, not a report of a specific incident or a measured de",
-      "score": 5,
-      "titleZh": "Your AI Stream Arrives All at Once After Deploy: Debugging Buffered SSE Step by Step"
-    },
-    {
-      "title": "Building Complex SQL Queries in a Type-Safe Way with Java and Querier",
-      "link": "https://dev.to/aissam_assouik/building-complex-sql-queries-in-a-type-safe-way-with-java-and-querier-4b92",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:19:07 +0000",
-      "summary": "Building Complex SQL Queries in a Type-Safe Way with Java and Querier Writing SQL queries in Java is relatively easy when dealing with simple SELECT, WHERE, and JOIN statements. But what happens when ",
-      "score": 5,
-      "titleZh": "Building Complex SQL Queries in a Type-Safe Way with Java and Querier"
-    },
-    {
-      "title": "Showcase: Building Cudic, a web-based game studio and editor",
-      "link": "https://dev.to/opencodepers/showcase-building-cudic-a-web-based-game-studio-and-editor-15j3",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:17:55 +0000",
-      "summary": "Hi everyone! I wanted to share a project I've been working on called Cudic (https://cudic.vercel.app). It’s a full browser-based game studio and development workbench. It's designed to be a lightweigh",
-      "score": 5,
-      "titleZh": "Showcase: Building Cudic, a web-based game studio and editor"
-    },
-    {
-      "title": "HubSpot’s contact page gets three useful basics right",
-      "link": "https://dev.to/maithoa/hubspots-contact-page-gets-three-useful-basics-right-fmk",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:15:29 +0000",
-      "summary": "I’m building AI Website Check for business owners and marketing teams who want to know whether an AI assistant can use their website. When we inspected HubSpot’s contact-sales page, three things stood",
-      "score": 5,
-      "titleZh": "HubSpot’s contact page gets three useful basics right"
-    },
-    {
-      "title": "Software engineer resume in 2026: how to show the work AI isn't doing",
-      "link": "https://dev.to/hamzahassan/software-engineer-resume-in-2026-how-to-show-the-work-ai-isnt-doing-2fcb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:12:08 +0000",
-      "summary": "A strong software engineer resume in 2026 shows more than the code you wrote. Most developers now use AI to help write code, so recruiters see the same \"built features with React and Node\" bullets on ",
-      "score": 5,
-      "titleZh": "Software engineer resume in 2026: how to show the work AI isn't doing"
-    },
-    {
-      "title": "Your AI built the app. These 3 holes ship with it.",
-      "link": "https://dev.to/counterkit/your-ai-built-the-app-these-3-holes-ship-with-it-6oi",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:09:36 +0000",
-      "summary": "Your AI builder optimised for one thing: the demo works. It did not optimise for safe. Here are the three holes I find in almost every AI-built Firebase app — what they are, how they're exploited, and",
-      "score": 5,
-      "titleZh": "Your AI built the app. These 3 holes ship with it."
-    },
-    {
-      "title": "My screenshot was 1080x1350. The page was 1722 pixels tall.",
-      "link": "https://dev.to/jonasfilhodev/my-screenshot-was-1080x1350-the-page-was-1722-pixels-tall-57c2",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:07:20 +0000",
-      "summary": "A piece of artwork went live last month without the contact line at the bottom. Phone, handle and site were in the HTML, the CSS placed them, the browser laid them out, and the file that got published",
-      "score": 5,
-      "titleZh": "My screenshot was 1080x1350. The page was 1722 pixels tall."
-    },
-    {
-      "title": "The Inline Layer of app.onepassapps.com: 10,574 Tags, One Style Value and Not One Event Handler",
-      "link": "https://dev.to/onepassapps/the-inline-layer-of-apponepassappscom-10574-tags-one-style-value-and-not-one-event-handler-4mjg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 09 Nov 2026 20:06:37 +0000",
-      "summary": "I work on OnePassApps, so this is our own site. Everything below was measured on 9 November 2026 over plain HTTPS: the 56 URLs in our own sitemap, one GET each, no browser, no session, no cookies, no ",
-      "score": 5,
-      "titleZh": "The Inline Layer of app.onepassapps.com: 10,574 Tags, One Style Value and Not One Event Handler"
+      "titleZh": "Firefox for Focused Writing: A Distraction-Free Browser Setup for Writers"
     }
   ]
 }
