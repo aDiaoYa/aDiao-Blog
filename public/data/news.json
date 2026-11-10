@@ -1,57 +1,33 @@
 {
-  "updated": "2026-11-10T05:58:26.712Z",
+  "updated": "2026-11-10T17:31:01.072Z",
   "date": "2026-11-10",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "link": "https://github.com/thisisme6598/gemini_files/",
-      "source": "HN·AI",
+      "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 09 Nov 2026 18:24:38 +0000",
-      "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426",
-      "score": 508,
-      "titleZh": "Google Gemini routes personal Drive files and emails to human annotators"
+      "date": "2026-11-10T16:14:16.000Z",
+      "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, ",
+      "score": 40,
+      "titleZh": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]"
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "HN·AI",
+      "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 09 Nov 2026 18:01:10 +0000",
-      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068",
-      "score": 403,
-      "titleZh": "Claude Fable 5.2 and Mythos 5.2"
-    },
-    {
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 09 Nov 2026 20:04:55 +0000",
-      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144",
-      "score": 324,
-      "titleZh": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far"
-    },
-    {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 10 Nov 2026 03:20:06 +0000",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660",
-      "score": 74,
-      "titleZh": "CoreWeave bond yield tops 16% as AI credit stress rises"
+      "date": "2026-11-10T13:15:51.000Z",
+      "summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths,",
+      "score": 40,
+      "titleZh": "Introducing Usul - an easier way to express your NN using maths? [P]"
     },
     {
       "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
@@ -102,148 +78,172 @@
       "titleZh": "Using latent-agent swarms for math discovery and optimization [R]"
     },
     {
-      "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
+      "title": "ICLR 2027 Reviews Discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-09T09:22:10.000Z",
-      "summary": "Everyone keeps citing lost in the middle so, instead of going by the paper's citations, i wanted to actually check it on my own stuff, without building a labeled set for it. So i did the lazy version.",
+      "date": "2026-11-05T02:17:59.000Z",
+      "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these a",
       "score": 40,
-      "titleZh": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]"
+      "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "Amazon applied science intern interview next week - EU based [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-09T06:31:34.000Z",
-      "summary": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and ",
+      "date": "2026-11-02T03:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "score": 40,
-      "titleZh": "Amazon applied science intern interview next week - EU based [D]"
+      "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "How Can Developers Make Websites Easier for AI Search Engines to Understand?",
-      "link": "https://dev.to/sameer_132f2fd384172fce41/how-can-developers-make-websites-easier-for-ai-search-engines-to-understand-22l4",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "score": 5,
+      "titleZh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 10 Nov 2026 13:00:00 +0000",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "score": 5,
+      "titleZh": "Google Cloud launches Gemini for healthcare."
+    },
+    {
+      "title": "Fixing Linux Permission Denied Errors & Decoding Base64 Logs Locally (Without chmod 777 or Third-Party Web Servers)",
+      "link": "https://dev.to/asad_ali/fixing-linux-permission-denied-errors-decoding-base64-logs-locally-without-chmod-777-or-1jko",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:58:16 +0000",
-      "summary": "AI-powered search engines are changing how people discover information online. Instead of simply displaying a list of website links, platforms such as Google AI Overviews, ChatGPT, and Perplexity can ",
+      "date": "Tue, 10 Nov 2026 17:29:48 +0000",
+      "summary": "Two shortcuts show up in almost every infrastructure audit I review. The first is a directory set to 777 because a deploy failed once. The second is an internal log line pasted into a random online de",
       "score": 5,
-      "titleZh": "How Can Developers Make Websites Easier for AI Search Engines to Understand?"
+      "titleZh": "Fixing Linux Permission Denied Errors & Decoding Base64 Logs Locally (Without chmod 777 or Third-Party Web Servers)"
     },
     {
-      "title": "How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything",
-      "link": "https://dev.to/liam_le/how-to-open-odd-file-formats-docx-xlsx-pptx-vsdx-heic-in-a-browser-without-installing-anything-37hn",
+      "title": "Is My Replit App Secure? A Plain-English Checklist Before You Launch (2026)",
+      "link": "https://dev.to/behrouzbk/is-my-replit-app-secure-a-plain-english-checklist-before-you-launch-2026-565i",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:57:58 +0000",
-      "summary": "Disclosure: I made Pdfle, one of the tools mentioned below. I've tried to list it alongside the other options and be upfront about its limits. Sooner or later someone sends you a file your machine can",
+      "date": "Tue, 10 Nov 2026 17:28:28 +0000",
+      "summary": "Originally published on the Axieo blog. Replit Agent can build and publish a full-stack app, with a server, a database and logins, from a conversation. Replit is also unusually clear about who is resp",
       "score": 5,
-      "titleZh": "How to open odd file formats (DOCX, XLSX, PPTX, VSDX, HEIC) in a browser without installing anything"
+      "titleZh": "Is My Replit App Secure? A Plain-English Checklist Before You Launch (2026)"
     },
     {
-      "title": "I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best",
-      "link": "https://dev.to/yanni_goyal_5ddb75eb46482/i-built-the-same-app-with-cursor-copilot-codex-and-antigravity-heres-what-each-did-best-4d78",
+      "title": "Is My Bolt.new App Secure? A Plain-English Security Checklist (2026)",
+      "link": "https://dev.to/behrouzbk/is-my-boltnew-app-secure-a-plain-english-security-checklist-2026-1j4j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:56:52 +0000",
-      "summary": "\"Which AI coding tool is the best?\" I get this question a lot, so I tested it. I gave four AI coding assistants the same project and the same instructions, and let each one build it. The project was S",
+      "date": "Tue, 10 Nov 2026 17:27:19 +0000",
+      "summary": "Originally published on the Axieo blog. Bolt.new can turn a prompt into a working app with a database, logins and hosting in an afternoon. That speed is the point. But an app that works in the demo is",
       "score": 5,
-      "titleZh": "I Built the Same App With Cursor, Copilot, Codex and Antigravity. Here's What Each Did Best"
+      "titleZh": "Is My Bolt.new App Secure? A Plain-English Security Checklist (2026)"
     },
     {
-      "title": "How AI Automation for Small Businesses Is Changing the Future of Business in 2026",
-      "link": "https://dev.to/mecahx/how-ai-automation-for-small-businesses-is-changing-the-future-of-business-in-2026-5h6n",
+      "title": "Social media posting APIs for AI agents: Buffer, Ayrshare, Blotato, Postiz, Zernio, and dropspace compared",
+      "link": "https://dev.to/jclvsh/social-media-posting-apis-for-ai-agents-buffer-ayrshare-blotato-postiz-zernio-and-dropspace-4an8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:56:22 +0000",
-      "summary": "How AI Automation for Small Businesses Is Changing the Future of Business in 2026 Introduction Technology is changing the way businesses operate. In 2026, artificial intelligence (AI) is becoming an i",
+      "date": "Tue, 10 Nov 2026 17:27:18 +0000",
+      "summary": "Disclosure up front: I build dropspace, one of the six tools below. I've tried to keep every claim about the others to what their own docs and pricing pages say, with links, and I've marked what I cou",
       "score": 5,
-      "titleZh": "How AI Automation for Small Businesses Is Changing the Future of Business in 2026"
+      "titleZh": "Social media posting APIs for AI agents: Buffer, Ayrshare, Blotato, Postiz, Zernio, and dropspace compared"
     },
     {
-      "title": "Why Most Business Websites Lose Customers on Mobile",
-      "link": "https://dev.to/msdevseo/why-most-business-websites-lose-customers-on-mobile-5bb2",
+      "title": "Next.js 15 App Router: Best Practices I Learned Building 10+ Projects",
+      "link": "https://dev.to/mtahir27/nextjs-15-app-router-best-practices-i-learned-building-10-projects-1km0",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 17:24:50 +0000",
+      "summary": "After building over ten production projects with the Next.js App Router, I've accumulated a solid set of patterns that work and an equally long list of mistakes I won't repeat. This post is the articl",
+      "score": 5,
+      "titleZh": "Next.js 15 App Router: Best Practices I Learned Building 10+ Projects"
+    },
+    {
+      "title": "Your Next.js Docker Image Is Probably 1GB. Here's How to Fix It.",
+      "link": "https://dev.to/shubham_works/your-nextjs-docker-image-is-probably-1gb-heres-how-to-fix-it-4opm",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 10 Nov 2026 17:24:41 +0000",
+      "summary": "You already know what Docker is. You've written a Dockerfile, run docker build, and shipped something. But if your Next.js Dockerfile looks like this: FROM node:20 WORKDIR /app COPY . . RUN npm instal",
+      "score": 5,
+      "titleZh": "Your Next.js Docker Image Is Probably 1GB. Here's How to Fix It."
+    },
+    {
+      "title": "How Job Listing Websites Can Make It Easier to Find Relevant Opportunities",
+      "link": "https://dev.to/kuwaitcareerguide/how-job-listing-websites-can-make-it-easier-to-find-relevant-opportunities-1h2d",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:56:11 +0000",
-      "summary": "Most people will meet your business on a phone. They search on a phone, tap a result on a phone, and decide on a phone — often while standing in a shop, sitting in a car, or waiting in a queue. If the",
+      "date": "Tue, 10 Nov 2026 17:23:27 +0000",
+      "summary": "Finding relevant job opportunities online can be difficult when listings are spread across different categories and websites. A well-organized job listing website can make the process easier by allowi",
       "score": 5,
-      "titleZh": "Why Most Business Websites Lose Customers on Mobile"
+      "titleZh": "How Job Listing Websites Can Make It Easier to Find Relevant Opportunities"
     },
     {
-      "title": "Why Do Some Websites Rank on Google but Get Ignored by AI Search?",
-      "link": "https://dev.to/sameer_132f2fd384172fce41/why-do-some-websites-rank-on-google-but-get-ignored-by-ai-search-12k4",
-      "source": "Dev.to WebDev",
+      "title": "Why Your Best Wholesale Clients Hate Ordering From You: The Simple Fix That Won’t Cost $300/Month",
+      "link": "https://dev.to/talha_javed/why-your-best-wholesale-clients-hate-ordering-from-you-the-simple-fix-that-wont-cost-300month-1bfd",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:55:44 +0000",
-      "summary": "A website can rank well on Google and still receive little or no visibility from AI-powered search experiences. At first, this seems strange. If Google considers a website useful enough to rank in tra",
+      "date": "Tue, 10 Nov 2026 17:22:04 +0000",
+      "summary": "If you walk into the office of almost any growing wholesale distributor, textile supplier, or regional manufacturer today, you’ll see the exact same setup. A sales rep sits in front of a desktop monit",
       "score": 5,
-      "titleZh": "Why Do Some Websites Rank on Google but Get Ignored by AI Search?"
+      "titleZh": "Why Your Best Wholesale Clients Hate Ordering From You: The Simple Fix That Won’t Cost $300/Month"
     },
     {
-      "title": "Đổi nền tảng website mà vẫn giữ lượt khách từ Google",
-      "link": "https://dev.to/aitopupio/doi-nen-tang-website-ma-van-giu-luot-khach-tu-google-3e4",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 10 Nov 2026 05:55:06 +0000",
-      "summary": "Giả sử một cửa hàng phụ tùng xe máy ở Biên Hoà dùng website code tay từ năm 2018, nay chuyển sang WordPress cho nhân viên tự đăng sản phẩm. Giao diện mới gọn hơn, ai cũng hài lòng. 3 tuần sau, số cuộc",
-      "score": 5,
-      "titleZh": "Đổi nền tảng website mà vẫn giữ lượt khách từ Google"
-    },
-    {
-      "title": "Manual Vs Automation Testing: A Comparative Analysis",
-      "link": "https://dev.to/keploy/manual-vs-automation-testing-a-comparative-analysis-24og",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 10 Nov 2026 05:55:00 +0000",
-      "summary": "Imagine that you're baking a cake. You can do everything the hard way, measuring flour, mixing batter, and preheating the oven just right, or you can use a smart kitchen device that measures, mixes, a",
-      "score": 5,
-      "titleZh": "Manual Vs Automation Testing: A Comparative Analysis"
-    },
-    {
-      "title": "When you can't edit the size in an image URL: signed variants on itch.io and Flickr",
-      "link": "https://dev.to/casper_tran_59c6a8b1e1f3d/when-you-cant-edit-the-size-in-an-image-url-signed-variants-on-itchio-and-flickr-2mi3",
+      "title": "Rendering Nepali festival posters (and story videos) entirely in the browser",
+      "link": "https://dev.to/kaamkotha_uk_6b4368def335/rendering-nepali-festival-posters-and-story-videos-entirely-in-the-browser-3h8o",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:52:34 +0000",
-      "summary": "In my last two posts I rewrote size tokens in image URLs: change feed_thumbnail to feed_fullsize, drop .600x338, and the CDN hands you the bigger file. That trick has a limit. Some CDNs sign each size",
+      "date": "Tue, 10 Nov 2026 17:22:01 +0000",
+      "summary": "Every year, a few days before Dashain, Tihar or Mha Puja, the same thing happens to Nepali shop owners in London, Sydney and Kathmandu. They need a greeting post for Facebook and Instagram, with their",
       "score": 5,
-      "titleZh": "When you can't edit the size in an image URL: signed variants on itch.io and Flickr"
+      "titleZh": "Rendering Nepali festival posters (and story videos) entirely in the browser"
     },
     {
-      "title": "Firefox for Focused Writing: A Distraction-Free Browser Setup for Writers",
-      "link": "https://dev.to/weatherclockdash/firefox-for-focused-writing-a-distraction-free-browser-setup-for-writers-20b1",
+      "title": "How to build a year-by-year 3D city growth Short in Claude Code",
+      "link": "https://dev.to/medevsmaker/how-to-build-a-year-by-year-3d-city-growth-short-in-claude-code-653",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 05:49:31 +0000",
-      "summary": "Writers working in the browser — in Google Docs, Notion, blogging platforms, or plain-text editors — face a specific challenge: the same browser that hosts their writing also hosts every distraction. ",
+      "date": "Tue, 10 Nov 2026 17:15:30 +0000",
+      "summary": "You have seen the Shorts where a familiar skyline grows from dirt to glass while a year counter ticks. Channels in that lane do real numbers. CITY 3D TIMELAPSE sits around 87.4K subs with 19 videos. O",
       "score": 5,
-      "titleZh": "Firefox for Focused Writing: A Distraction-Free Browser Setup for Writers"
+      "titleZh": "How to build a year-by-year 3D city growth Short in Claude Code"
     }
   ]
 }
