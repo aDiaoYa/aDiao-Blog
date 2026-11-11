@@ -1,21 +1,81 @@
 {
-  "updated": "2026-11-11T04:45:05.880Z",
+  "updated": "2026-11-11T17:42:53.935Z",
   "date": "2026-11-11",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "AI usage generates a fragile codebase",
-      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "link": "https://pietromiotti.com/latest/maya-site/?maya",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 10 Nov 2026 10:25:58 +0000",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318",
-      "score": 434,
-      "titleZh": "AI usage generates a fragile codebase"
+      "date": "Wed, 11 Nov 2026 12:05:22 +0000",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455",
+      "score": 734,
+      "titleZh": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 10 Nov 2026 21:25:03 +0000",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520",
+      "score": 460,
+      "titleZh": "Apple has new Mac app coming to make running local AI models easy"
+    },
+    {
+      "title": "Every lab assignment in my course ended the same way: Export your notebook as PDF and upload it. Not self promotion this my first project i made [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtnjhw/every_lab_assignment_in_my_course_ended_the_same/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T17:15:53.000Z",
+      "summary": "​ And every time: - File → Download as → PDF → \"xelatex not found\" - Installed LaTeX (4 GB!) → \"pandoc not found\" - Fixed that → long code lines got cut off at the edge of the page - Tried browser pri",
+      "score": 40,
+      "titleZh": "Every lab assignment in my course ended the same way: Export your notebook as PDF and upload it. Not self promotion this my first project i made [D]"
+    },
+    {
+      "title": "Can we talk about the ML research coming from China? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T11:02:38.000Z",
+      "summary": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pa",
+      "score": 40,
+      "titleZh": "Can we talk about the ML research coming from China? [D]"
+    },
+    {
+      "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T05:25:43.000Z",
+      "summary": "Suppose you’re putting together a team of agents. Picking the strongest model as the coordinator seems reasonable. We wanted to test whether its workflows would actually help other models do the work.",
+      "score": 40,
+      "titleZh": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]"
+    },
+    {
+      "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T02:22:54.000Z",
+      "summary": "submitted by /u/NegotiationOk7535 [link] [comments]",
+      "score": 40,
+      "titleZh": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]"
     },
     {
       "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
@@ -42,54 +102,6 @@
       "titleZh": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]"
     },
     {
-      "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-10T13:15:51.000Z",
-      "summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths,",
-      "score": 40,
-      "titleZh": "Introducing Usul - an easier way to express your NN using maths? [P]"
-    },
-    {
-      "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-10T02:07:04.000Z",
-      "summary": "It's been a long time since I studied this. Just checking in on an old friend. I also realize it's fallen out of favor for being extremely inconvenient, but why did it ever work? submitted by /u/XTXin",
-      "score": 40,
-      "titleZh": "Did we ever really get to the bottom of why BatchNorm works? [D]"
-    },
-    {
-      "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-09T21:34:38.000Z",
-      "summary": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts,",
-      "score": 40,
-      "titleZh": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]"
-    },
-    {
-      "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-09T18:52:05.000Z",
-      "summary": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact",
-      "score": 40,
-      "titleZh": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -114,136 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 11 Nov 2026 00:15:33 +0000",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174",
-      "score": 26,
-      "titleZh": "AI is becoming an information gateway. Audiences still don’t want it making news"
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance",
-      "source": "HN·前端",
+      "title": "How I built, secured, and deployed an Instagram Reels & Audio Downloader PWA entirely on mobile",
+      "link": "https://dev.to/terarahul315/how-i-built-secured-and-deployed-an-instagram-reels-audio-downloader-pwa-entirely-on-mobile-3iic",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 18:01:15 +0000",
-      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal",
-      "score": 308,
-      "titleZh": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives"
+      "date": "Wed, 11 Nov 2026 17:42:35 +0000",
+      "summary": "Building a full-stack, production-ready web application usually happens on a multi-monitor desktop setup with VS Code, Docker, and terminal terminals. However, I wanted to see if I could build, harden",
+      "score": 5,
+      "titleZh": "How I built, secured, and deployed an Instagram Reels & Audio Downloader PWA entirely on mobile"
     },
     {
-      "title": "UECA-React 3.2.2: two bugs that lost state without a word",
-      "link": "https://dev.to/nekutuzov/ueca-react-322-two-bugs-that-lost-state-without-a-word-b87",
+      "title": "Building a Zero-VBA Excel & Single-File Offline HTML Studio for Milestone Trend Analysis (MTA)",
+      "link": "https://dev.to/yang_233/building-a-zero-vba-excel-single-file-offline-html-studio-for-milestone-trend-analysis-mta-4494",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 17:39:23 +0000",
+      "summary": "In construction and enterprise PMO Steering Committees, two constraints constantly collide: To solve both problems simultaneously, I built SlipLine — a dual-core offline schedule analytics suite combi",
+      "score": 5,
+      "titleZh": "Building a Zero-VBA Excel & Single-File Offline HTML Studio for Milestone Trend Analysis (MTA)"
+    },
+    {
+      "title": "Me and My Coding Partner, Agent Claude: Our Journey to Building a Classifieds Web App",
+      "link": "https://dev.to/sunil_makwana_0ddf8129ea6/me-and-my-coding-partner-agent-claude-our-journey-to-building-a-classifieds-web-app-8n0",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 17:35:40 +0000",
+      "summary": "At the end of October I gave my new partner the entire brief in one sentence: create a simple classifieds application, using python and django. The features of classifieds application is that the user",
+      "score": 5,
+      "titleZh": "Me and My Coding Partner, Agent Claude: Our Journey to Building a Classifieds Web App"
+    },
+    {
+      "title": "What hosting actually costs when you are paid in rands",
+      "link": "https://dev.to/justicemanyika/what-hosting-actually-costs-when-you-are-paid-in-rands-4ghg",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 17:35:27 +0000",
+      "summary": "Every hosting review I read for two years was written in a currency that is not mine. \"$2.99 a month\" means nothing when your card is debited in rands and the bank adds a cross-border fee on top. So h",
+      "score": 5,
+      "titleZh": "What hosting actually costs when you are paid in rands"
+    },
+    {
+      "title": "I stumbled upon a CLI that tells you what to learn next — inside your Obsidian vault",
+      "link": "https://dev.to/jarvis_ai_61930a186cc0c6c/i-stumbled-upon-a-cli-that-tells-you-what-to-learn-next-inside-your-obsidian-vault-57ph",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 04:40:38 +0000",
-      "summary": "Part 5. Earlier: converting a vibe-coded MVP, the origin story, an AI agent testing the framework, UECA-React 3.2. UECA-React 3.2.2 is a patch with no new API. It fixes two bugs that lost state withou",
+      "date": "Wed, 11 Nov 2026 17:34:26 +0000",
+      "summary": "I kept running into the same problem while learning: I'd jump into an advanced topic, realise I was missing prerequisites, then forget the basics I'd just learned. Flashcard apps didn't understand dep",
       "score": 5,
-      "titleZh": "UECA-React 3.2.2: two bugs that lost state without a word"
+      "titleZh": "I stumbled upon a CLI that tells you what to learn next — inside your Obsidian vault"
     },
     {
-      "title": "How Cursive Text Generators Work: Unicode, Not Fonts",
-      "link": "https://dev.to/cursive_fontgenerator_98/how-cursive-text-generators-work-unicode-not-fonts-1j6",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 04:40:28 +0000",
-      "summary": "If you have ever pasted fancy script text into a bio and wondered why it works without installing a font, the answer is Unicode. This short explainer covers how a cursive font generator turns normal l",
-      "score": 5,
-      "titleZh": "How Cursive Text Generators Work: Unicode, Not Fonts"
-    },
-    {
-      "title": "How to Add llms.txt, llms-full.txt, and W3C tdmrep.json to a Next.js App Router Site",
-      "link": "https://dev.to/muhammadahmadsandhu01/how-to-add-llmstxt-llms-fulltxt-and-w3c-tdmrepjson-to-a-nextjs-app-router-site-5a9d",
+      "title": "I tested five compression claims. Three didn't hold.",
+      "link": "https://dev.to/compressdog/i-tested-five-compression-claims-three-didnt-hold-4p6g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 04:37:53 +0000",
-      "summary": "If you maintain developer documentation, an API platform, or a SaaS web app in Next.js (App Router), adding machine-readable endpoints for AI coding assistants (Cursor, Windsurf, GitHub Copilot, Claud",
+      "date": "Wed, 11 Nov 2026 17:34:20 +0000",
+      "summary": "Every compressor, including one I built, carries a set of claims in its interface. \"Tuned quantisation tables.\" \"Lossless.\" \"Higher quality.\" I had repeated all five of these without measuring any of ",
       "score": 5,
-      "titleZh": "How to Add llms.txt, llms-full.txt, and W3C tdmrep.json to a Next.js App Router Site"
+      "titleZh": "I tested five compression claims. Three didn't hold."
     },
     {
-      "title": "Fastify: A Fast Node API Without the Ceremony",
-      "link": "https://dev.to/practicaldevblog/fastify-a-fast-node-api-without-the-ceremony-3ab5",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 04:37:41 +0000",
-      "summary": "Picture a small shop that takes orders through a web page. A customer fills in a form, the browser sends the order as JSON, and a Node server has to check the fields, save the order, and answer with t",
-      "score": 5,
-      "titleZh": "Fastify: A Fast Node API Without the Ceremony"
-    },
-    {
-      "title": "Zustand: React State Without the Boilerplate",
-      "link": "https://dev.to/practicaldevblog/zustand-react-state-without-the-boilerplate-4a2g",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 04:36:15 +0000",
-      "summary": "Picture a small shop page with a cart icon in the corner. A visitor adds a tote bag and a mug. Three parts of the page need to know what happened: the cart icon showing the count, the cart drawer list",
-      "score": 5,
-      "titleZh": "Zustand: React State Without the Boilerplate"
-    },
-    {
-      "title": "Phone OTP login without SMS DLT headaches: sending the code over WhatsApp",
-      "link": "https://dev.to/waloops/phone-otp-login-without-sms-dlt-headaches-sending-the-code-over-whatsapp-1h7i",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 04:32:14 +0000",
-      "summary": "Building phone-based authentication for products in India usually involves navigating telecom compliance before writing any backend code. Under the Telecom Regulatory Authority of India (TRAI) regulat",
-      "score": 5,
-      "titleZh": "Phone OTP login without SMS DLT headaches: sending the code over WhatsApp"
-    },
-    {
-      "title": "How Step-by-Step Math Solutions Make Learning Easier",
-      "link": "https://dev.to/mathvelo/how-step-by-step-math-solutions-make-learning-easier-1mj4",
+      "title": "27 posts nobody could reach: auditing internal links on a blog",
+      "link": "https://dev.to/justicemanyika/27-posts-nobody-could-reach-auditing-internal-links-on-a-blog-2hao",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 04:32:11 +0000",
-      "summary": "Learning mathematics takes more than memorizing formulas or finding the correct answer. Students need to understand how a problem works and why each step is important. Sometimes, a student knows which",
+      "date": "Wed, 11 Nov 2026 17:29:46 +0000",
+      "summary": "Twenty-seven of my posts had no inbound link from any page Google already trusts. They were live, they returned 200, they sat in the sitemap, and no crawler had a road to any of them. This is how I fo",
       "score": 5,
-      "titleZh": "How Step-by-Step Math Solutions Make Learning Easier"
+      "titleZh": "27 posts nobody could reach: auditing internal links on a blog"
     },
     {
-      "title": "Figma handoff checklist: what developers need from designers",
-      "link": "https://dev.to/sagarbharvadiya1/figma-handoff-checklist-what-developers-need-from-designers-4795",
+      "title": "Why X/Twitter GIFs Download as MP4 (and How to Save a Real GIF)",
+      "link": "https://dev.to/lumenstudio/why-xtwitter-gifs-download-as-mp4-and-how-to-save-a-real-gif-1i7j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 04:30:00 +0000",
-      "summary": "Moving a design from Figma into code should feel like a smooth transition, but it often turns into a frustrating guessing game. Designers hand over a clean file, developers start building, and immedia",
+      "date": "Wed, 11 Nov 2026 17:27:39 +0000",
+      "summary": "If you save an animated post from X or Twitter and end up with an .mp4 file, nothing is broken. X usually stores the animation as a short looping video instead of serving the original GIF. GIF is an o",
       "score": 5,
-      "titleZh": "Figma handoff checklist: what developers need from designers"
+      "titleZh": "Why X/Twitter GIFs Download as MP4 (and How to Save a Real GIF)"
     },
     {
-      "title": "A carrier can change its name mid-journey, and your tracking model probably can't express that",
-      "link": "https://dev.to/support24htrack/a-carrier-can-change-its-name-mid-journey-and-your-tracking-model-probably-cant-express-that-2m48",
+      "title": "Stop trusting file extensions: validating uploads by content (with ffmpeg)",
+      "link": "https://dev.to/usman_farooqi_f3ef266029b/stop-trusting-file-extensions-validating-uploads-by-content-with-ffmpeg-4m0p",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 04:29:44 +0000",
-      "summary": "Disclosure: I work on 24hTrack, a package tracking site, so this comes from watching the data rather than from theory. Written with AI assistance. Most shipment schemas I have seen store carrier as on",
+      "date": "Wed, 11 Nov 2026 17:24:49 +0000",
+      "summary": "A user of my free tool uploaded a recording named voice.m4a and got \"This doesn't look like a real .m4a file.\" The file was fine. It was a WebM/Opus recording that had been saved with an .m4a extensio",
       "score": 5,
-      "titleZh": "A carrier can change its name mid-journey, and your tracking model probably can't express that"
+      "titleZh": "Stop trusting file extensions: validating uploads by content (with ffmpeg)"
+    },
+    {
+      "title": "What metadata survives a canvas re-encode in Chromium, Firefox and WebKit?",
+      "link": "https://dev.to/lighterpics/canvas-re-encode-in-chromium-firefox-and-webkit-0-of-3586-files-kept-gps-xmp-or-iptc-124f",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 17:23:25 +0000",
+      "summary": "Disclosure: This report on the image-processing tests run by the LighterPics project was written with AI assistance. Drawing a photo to a canvas and exporting it again is a common way to remove EXIF. ",
+      "score": 5,
+      "titleZh": "What metadata survives a canvas re-encode in Chromium, Firefox and WebKit?"
     }
   ]
 }
