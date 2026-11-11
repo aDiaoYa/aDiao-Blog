@@ -1,10 +1,34 @@
 {
-  "updated": "2026-11-10T17:31:01.072Z",
-  "date": "2026-11-10",
+  "updated": "2026-11-11T04:45:05.880Z",
+  "date": "2026-11-11",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "AI usage generates a fragile codebase",
+      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 10 Nov 2026 10:25:58 +0000",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318",
+      "score": 434,
+      "titleZh": "AI usage generates a fragile codebase"
+    },
+    {
+      "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-10T18:35:32.000Z",
+      "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI submitted by /u/0xdeadf1sh [link] [comments]",
+      "score": 40,
+      "titleZh": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]"
+    },
     {
       "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
@@ -66,18 +90,6 @@
       "titleZh": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]"
     },
     {
-      "title": "Using latent-agent swarms for math discovery and optimization [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-09T15:30:50.000Z",
-      "summary": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iterat",
-      "score": 40,
-      "titleZh": "Using latent-agent swarms for math discovery and optimization [R]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -102,148 +114,136 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI",
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "score": 5,
-      "titleZh": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+      "date": "Wed, 11 Nov 2026 00:15:33 +0000",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174",
+      "score": 26,
+      "titleZh": "AI is becoming an information gateway. Audiences still don’t want it making news"
     },
     {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 10 Nov 2026 13:00:00 +0000",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "score": 5,
-      "titleZh": "Google Cloud launches Gemini for healthcare."
-    },
-    {
-      "title": "Fixing Linux Permission Denied Errors & Decoding Base64 Logs Locally (Without chmod 777 or Third-Party Web Servers)",
-      "link": "https://dev.to/asad_ali/fixing-linux-permission-denied-errors-decoding-base64-logs-locally-without-chmod-777-or-1jko",
-      "source": "Dev.to WebDev",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "HN·前端",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 17:29:48 +0000",
-      "summary": "Two shortcuts show up in almost every infrastructure audit I review. The first is a directory set to 777 because a deploy failed once. The second is an internal log line pasted into a random online de",
-      "score": 5,
-      "titleZh": "Fixing Linux Permission Denied Errors & Decoding Base64 Logs Locally (Without chmod 777 or Third-Party Web Servers)"
+      "date": "Tue, 10 Nov 2026 18:01:15 +0000",
+      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal",
+      "score": 308,
+      "titleZh": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives"
     },
     {
-      "title": "Is My Replit App Secure? A Plain-English Checklist Before You Launch (2026)",
-      "link": "https://dev.to/behrouzbk/is-my-replit-app-secure-a-plain-english-checklist-before-you-launch-2026-565i",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 10 Nov 2026 17:28:28 +0000",
-      "summary": "Originally published on the Axieo blog. Replit Agent can build and publish a full-stack app, with a server, a database and logins, from a conversation. Replit is also unusually clear about who is resp",
-      "score": 5,
-      "titleZh": "Is My Replit App Secure? A Plain-English Checklist Before You Launch (2026)"
-    },
-    {
-      "title": "Is My Bolt.new App Secure? A Plain-English Security Checklist (2026)",
-      "link": "https://dev.to/behrouzbk/is-my-boltnew-app-secure-a-plain-english-security-checklist-2026-1j4j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 10 Nov 2026 17:27:19 +0000",
-      "summary": "Originally published on the Axieo blog. Bolt.new can turn a prompt into a working app with a database, logins and hosting in an afternoon. That speed is the point. But an app that works in the demo is",
-      "score": 5,
-      "titleZh": "Is My Bolt.new App Secure? A Plain-English Security Checklist (2026)"
-    },
-    {
-      "title": "Social media posting APIs for AI agents: Buffer, Ayrshare, Blotato, Postiz, Zernio, and dropspace compared",
-      "link": "https://dev.to/jclvsh/social-media-posting-apis-for-ai-agents-buffer-ayrshare-blotato-postiz-zernio-and-dropspace-4an8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 10 Nov 2026 17:27:18 +0000",
-      "summary": "Disclosure up front: I build dropspace, one of the six tools below. I've tried to keep every claim about the others to what their own docs and pricing pages say, with links, and I've marked what I cou",
-      "score": 5,
-      "titleZh": "Social media posting APIs for AI agents: Buffer, Ayrshare, Blotato, Postiz, Zernio, and dropspace compared"
-    },
-    {
-      "title": "Next.js 15 App Router: Best Practices I Learned Building 10+ Projects",
-      "link": "https://dev.to/mtahir27/nextjs-15-app-router-best-practices-i-learned-building-10-projects-1km0",
+      "title": "UECA-React 3.2.2: two bugs that lost state without a word",
+      "link": "https://dev.to/nekutuzov/ueca-react-322-two-bugs-that-lost-state-without-a-word-b87",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 17:24:50 +0000",
-      "summary": "After building over ten production projects with the Next.js App Router, I've accumulated a solid set of patterns that work and an equally long list of mistakes I won't repeat. This post is the articl",
+      "date": "Wed, 11 Nov 2026 04:40:38 +0000",
+      "summary": "Part 5. Earlier: converting a vibe-coded MVP, the origin story, an AI agent testing the framework, UECA-React 3.2. UECA-React 3.2.2 is a patch with no new API. It fixes two bugs that lost state withou",
       "score": 5,
-      "titleZh": "Next.js 15 App Router: Best Practices I Learned Building 10+ Projects"
+      "titleZh": "UECA-React 3.2.2: two bugs that lost state without a word"
     },
     {
-      "title": "Your Next.js Docker Image Is Probably 1GB. Here's How to Fix It.",
-      "link": "https://dev.to/shubham_works/your-nextjs-docker-image-is-probably-1gb-heres-how-to-fix-it-4opm",
-      "source": "Dev.to Next.js",
+      "title": "How Cursive Text Generators Work: Unicode, Not Fonts",
+      "link": "https://dev.to/cursive_fontgenerator_98/how-cursive-text-generators-work-unicode-not-fonts-1j6",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 17:24:41 +0000",
-      "summary": "You already know what Docker is. You've written a Dockerfile, run docker build, and shipped something. But if your Next.js Dockerfile looks like this: FROM node:20 WORKDIR /app COPY . . RUN npm instal",
+      "date": "Wed, 11 Nov 2026 04:40:28 +0000",
+      "summary": "If you have ever pasted fancy script text into a bio and wondered why it works without installing a font, the answer is Unicode. This short explainer covers how a cursive font generator turns normal l",
       "score": 5,
-      "titleZh": "Your Next.js Docker Image Is Probably 1GB. Here's How to Fix It."
+      "titleZh": "How Cursive Text Generators Work: Unicode, Not Fonts"
     },
     {
-      "title": "How Job Listing Websites Can Make It Easier to Find Relevant Opportunities",
-      "link": "https://dev.to/kuwaitcareerguide/how-job-listing-websites-can-make-it-easier-to-find-relevant-opportunities-1h2d",
+      "title": "How to Add llms.txt, llms-full.txt, and W3C tdmrep.json to a Next.js App Router Site",
+      "link": "https://dev.to/muhammadahmadsandhu01/how-to-add-llmstxt-llms-fulltxt-and-w3c-tdmrepjson-to-a-nextjs-app-router-site-5a9d",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 17:23:27 +0000",
-      "summary": "Finding relevant job opportunities online can be difficult when listings are spread across different categories and websites. A well-organized job listing website can make the process easier by allowi",
+      "date": "Wed, 11 Nov 2026 04:37:53 +0000",
+      "summary": "If you maintain developer documentation, an API platform, or a SaaS web app in Next.js (App Router), adding machine-readable endpoints for AI coding assistants (Cursor, Windsurf, GitHub Copilot, Claud",
       "score": 5,
-      "titleZh": "How Job Listing Websites Can Make It Easier to Find Relevant Opportunities"
+      "titleZh": "How to Add llms.txt, llms-full.txt, and W3C tdmrep.json to a Next.js App Router Site"
     },
     {
-      "title": "Why Your Best Wholesale Clients Hate Ordering From You: The Simple Fix That Won’t Cost $300/Month",
-      "link": "https://dev.to/talha_javed/why-your-best-wholesale-clients-hate-ordering-from-you-the-simple-fix-that-wont-cost-300month-1bfd",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 10 Nov 2026 17:22:04 +0000",
-      "summary": "If you walk into the office of almost any growing wholesale distributor, textile supplier, or regional manufacturer today, you’ll see the exact same setup. A sales rep sits in front of a desktop monit",
-      "score": 5,
-      "titleZh": "Why Your Best Wholesale Clients Hate Ordering From You: The Simple Fix That Won’t Cost $300/Month"
-    },
-    {
-      "title": "Rendering Nepali festival posters (and story videos) entirely in the browser",
-      "link": "https://dev.to/kaamkotha_uk_6b4368def335/rendering-nepali-festival-posters-and-story-videos-entirely-in-the-browser-3h8o",
+      "title": "Fastify: A Fast Node API Without the Ceremony",
+      "link": "https://dev.to/practicaldevblog/fastify-a-fast-node-api-without-the-ceremony-3ab5",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 17:22:01 +0000",
-      "summary": "Every year, a few days before Dashain, Tihar or Mha Puja, the same thing happens to Nepali shop owners in London, Sydney and Kathmandu. They need a greeting post for Facebook and Instagram, with their",
+      "date": "Wed, 11 Nov 2026 04:37:41 +0000",
+      "summary": "Picture a small shop that takes orders through a web page. A customer fills in a form, the browser sends the order as JSON, and a Node server has to check the fields, save the order, and answer with t",
       "score": 5,
-      "titleZh": "Rendering Nepali festival posters (and story videos) entirely in the browser"
+      "titleZh": "Fastify: A Fast Node API Without the Ceremony"
     },
     {
-      "title": "How to build a year-by-year 3D city growth Short in Claude Code",
-      "link": "https://dev.to/medevsmaker/how-to-build-a-year-by-year-3d-city-growth-short-in-claude-code-653",
+      "title": "Zustand: React State Without the Boilerplate",
+      "link": "https://dev.to/practicaldevblog/zustand-react-state-without-the-boilerplate-4a2g",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 10 Nov 2026 17:15:30 +0000",
-      "summary": "You have seen the Shorts where a familiar skyline grows from dirt to glass while a year counter ticks. Channels in that lane do real numbers. CITY 3D TIMELAPSE sits around 87.4K subs with 19 videos. O",
+      "date": "Wed, 11 Nov 2026 04:36:15 +0000",
+      "summary": "Picture a small shop page with a cart icon in the corner. A visitor adds a tote bag and a mug. Three parts of the page need to know what happened: the cart icon showing the count, the cart drawer list",
       "score": 5,
-      "titleZh": "How to build a year-by-year 3D city growth Short in Claude Code"
+      "titleZh": "Zustand: React State Without the Boilerplate"
+    },
+    {
+      "title": "Phone OTP login without SMS DLT headaches: sending the code over WhatsApp",
+      "link": "https://dev.to/waloops/phone-otp-login-without-sms-dlt-headaches-sending-the-code-over-whatsapp-1h7i",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 04:32:14 +0000",
+      "summary": "Building phone-based authentication for products in India usually involves navigating telecom compliance before writing any backend code. Under the Telecom Regulatory Authority of India (TRAI) regulat",
+      "score": 5,
+      "titleZh": "Phone OTP login without SMS DLT headaches: sending the code over WhatsApp"
+    },
+    {
+      "title": "How Step-by-Step Math Solutions Make Learning Easier",
+      "link": "https://dev.to/mathvelo/how-step-by-step-math-solutions-make-learning-easier-1mj4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 04:32:11 +0000",
+      "summary": "Learning mathematics takes more than memorizing formulas or finding the correct answer. Students need to understand how a problem works and why each step is important. Sometimes, a student knows which",
+      "score": 5,
+      "titleZh": "How Step-by-Step Math Solutions Make Learning Easier"
+    },
+    {
+      "title": "Figma handoff checklist: what developers need from designers",
+      "link": "https://dev.to/sagarbharvadiya1/figma-handoff-checklist-what-developers-need-from-designers-4795",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 04:30:00 +0000",
+      "summary": "Moving a design from Figma into code should feel like a smooth transition, but it often turns into a frustrating guessing game. Designers hand over a clean file, developers start building, and immedia",
+      "score": 5,
+      "titleZh": "Figma handoff checklist: what developers need from designers"
+    },
+    {
+      "title": "A carrier can change its name mid-journey, and your tracking model probably can't express that",
+      "link": "https://dev.to/support24htrack/a-carrier-can-change-its-name-mid-journey-and-your-tracking-model-probably-cant-express-that-2m48",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 11 Nov 2026 04:29:44 +0000",
+      "summary": "Disclosure: I work on 24hTrack, a package tracking site, so this comes from watching the data rather than from theory. Written with AI assistance. Most shipment schemas I have seen store carrier as on",
+      "score": 5,
+      "titleZh": "A carrier can change its name mid-journey, and your tracking model probably can't express that"
     }
   ]
 }
