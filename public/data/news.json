@@ -1,33 +1,69 @@
 {
-  "updated": "2026-11-12T05:47:58.050Z",
+  "updated": "2026-11-12T17:56:14.024Z",
   "date": "2026-11-12",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "My AI agents found an unmapped Maya site?",
-      "link": "https://pietromiotti.com/latest/maya-site",
-      "source": "HN·AI",
+      "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 11 Nov 2026 12:05:22 +0000",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455",
-      "score": 957,
-      "titleZh": "My AI agents found an unmapped Maya site?"
+      "date": "2026-11-12T17:16:46.000Z",
+      "summary": "TRIBE v2 predicts fMRI from video/audio/text. Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) — and its methods section admits vide",
+      "score": 40,
+      "titleZh": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "HN·AI",
+      "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
+      "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "Wed, 11 Nov 2026 21:24:35 +0000",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900",
-      "score": 493,
-      "titleZh": "United Airlines bans AI agents from booking flights on behalf of travelers"
+      "date": "2026-11-12T16:02:13.000Z",
+      "summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make a",
+      "score": 40,
+      "titleZh": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]"
+    },
+    {
+      "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-12T15:41:18.000Z",
+      "summary": "Does anyone know the exact steps to leave a comment visible only to the Area Chair (not the reviewers) during the ICLR 2027 discussion period? I see the \"Official Comment\" option, but I'm not sure whi",
+      "score": 40,
+      "titleZh": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]"
+    },
+    {
+      "title": "CVPR 2027 Author enrollment form [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-12T14:30:15.000Z",
+      "summary": "I just realized that CVPR 2027 requires a separate author enrollment form to be completed by the abstract deadline, in addition to having a complete OpenReview profile. My OpenReview profile was alrea",
+      "score": 40,
+      "titleZh": "CVPR 2027 Author enrollment form [D]"
+    },
+    {
+      "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-12T13:51:58.000Z",
+      "summary": "UMAP 0.6 is out! A new initialization, new optimizers, and faster nearest neighbour search make UMAP much faster and far better at large scale. On 3 million arXiv papers it finishes in under 5 minutes",
+      "score": 40,
+      "titleZh": "UMAP 0.6: new initialization, new optimizers and faster performance [P]"
     },
     {
       "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
@@ -40,66 +76,6 @@
       "summary": "My ICLR submission received ratings of 3 / 3 / 2 with confidence 1 / 3 / 3. One weak accept comes from a low-confidence reviewer (Though their review seemed knowledgeable and pinpointed a key issue in",
       "score": 40,
       "titleZh": "How much does reviewer confidence matter in ICLR decisions? [D]"
-    },
-    {
-      "title": "Missed Presentation [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-12T03:08:20.000Z",
-      "summary": "Hello everyone, For some reason if you miss paper workshop presentation then what happens? submitted by /u/No_Caterpillar3174 [link] [comments]",
-      "score": 40,
-      "titleZh": "Missed Presentation [D]"
-    },
-    {
-      "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-11T22:20:31.000Z",
-      "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100%",
-      "score": 40,
-      "titleZh": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]"
-    },
-    {
-      "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-11T21:42:54.000Z",
-      "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, tas",
-      "score": 40,
-      "titleZh": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]"
-    },
-    {
-      "title": "Have people given up on ICLR reviews? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-11T20:40:40.000Z",
-      "summary": "Something weird I observed with my batch of papers and my own paper. Authors have not posted a single rebuttal yet, and no reviewer has responded to ours. This is a batch of almost 10-12 papers. Even ",
-      "score": 40,
-      "titleZh": "Have people given up on ICLR reviews? [D]"
-    },
-    {
-      "title": "Can we talk about the ML research coming from China? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-11T11:02:38.000Z",
-      "summary": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pa",
-      "score": 40,
-      "titleZh": "Can we talk about the ML research coming from China? [D]"
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -126,124 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "How to Choose 3 Retry Infrastructure Paths for Failed Jobs — SQS, RabbitMQ, Managed Queue",
-      "link": "https://dev.to/ethanbrooks1486/how-to-choose-3-retry-infrastructure-paths-for-failed-jobs-sqs-rabbitmq-managed-queue-17jk",
-      "source": "Dev.to TS",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 12 Nov 2026 09:30:00 GMT",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "score": 5,
+      "titleZh": "Holiday Extras is rethinking what it can build with Codex"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "score": 5,
+      "titleZh": "Supporting research on AI and children’s safety"
+    },
+    {
+      "title": "Building Barista: Formal Verification and TLA+",
+      "link": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 12 Nov 2026 05:45:50 +0000",
-      "summary": "Short answer: for a small US/EU SaaS retrying failed e-commerce webhooks, start with a managed queue that has delayed retry and a dead-letter queue. It is usually cheaper in total operating effort tha",
-      "score": 5,
-      "titleZh": "How to Choose 3 Retry Infrastructure Paths for Failed Jobs — SQS, RabbitMQ, Managed Queue"
+      "date": "2026-11-12T15:12:25.000Z",
+      "summary": "submitted by /u/teivah [link] [comments]",
+      "score": 40,
+      "titleZh": "Building Barista: Formal Verification and TLA+"
     },
     {
-      "title": "Key Benefits of Hiring Experts for Network Support Services in Charlotte",
-      "link": "https://dev.to/itfirm/key-benefits-of-hiring-experts-for-network-support-services-in-charlotte-4mi6",
-      "source": "Dev.to WebDev",
+      "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
+      "link": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
+      "source": "Reddit Prog",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 12 Nov 2026 05:41:54 +0000",
-      "summary": "Modern businesses depend on reliable network infrastructure to manage daily operations, communicate with customers, share information, and access essential applications. Even a minor network issue can",
-      "score": 5,
-      "titleZh": "Key Benefits of Hiring Experts for Network Support Services in Charlotte"
+      "date": "2026-11-12T13:16:09.000Z",
+      "summary": "submitted by /u/Nuoji [link] [comments]",
+      "score": 40,
+      "titleZh": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules"
     },
     {
-      "title": "Byg et før-og-efter billedværktøj med HTML, CSS og JavaScript",
-      "link": "https://dev.to/dansktraepleje/byg-et-for-og-efter-billedvaerktoj-med-html-css-og-javascript-3m03",
+      "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
+      "link": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-12T08:15:24.000Z",
+      "summary": "This video sheds light on a bug that has been around for a few decades but is still easily missed; specifically due to the letter \"i\" having unique casing rules for Turkish as \"İ/i\" (dotted I) and \"I/",
+      "score": 40,
+      "titleZh": "This Turkish Letter Keeps Breaking the World's Software - YouTube"
+    },
+    {
+      "title": "Lean explained with TypeScript",
+      "link": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-12T07:00:41.000Z",
+      "summary": "submitted by /u/fagnerbrack [link] [comments]",
+      "score": 40,
+      "titleZh": "Lean explained with TypeScript"
+    },
+    {
+      "title": "Rust's Type System is All You Need",
+      "link": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-11T22:22:44.000Z",
+      "summary": "How do you balance performance and readability in Rust? Are there any strategies or any paradigms to guarantee professional code quality? The answer to both is simple: Rust’s type system is all you ne",
+      "score": 40,
+      "titleZh": "Rust's Type System is All You Need"
+    },
+    {
+      "title": "eMudhra's official incident report on how they ended up with private key 4",
+      "link": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-11T19:46:16.000Z",
+      "summary": "submitted by /u/alexeyr [link] [comments]",
+      "score": 40,
+      "titleZh": "eMudhra's official incident report on how they ended up with private key 4"
+    },
+    {
+      "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
+      "link": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-11T16:56:23.000Z",
+      "summary": "submitted by /u/Ok_Stomach6651 [link] [comments]",
+      "score": 40,
+      "titleZh": "Google Search's foundational PageRank patent has expired. What will be the impact of this"
+    },
+    {
+      "title": "Go Turns 17 - The Go Programming Language",
+      "link": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-11T16:25:55.000Z",
+      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
+      "score": 40,
+      "titleZh": "Go Turns 17 - The Go Programming Language"
+    },
+    {
+      "title": "Free OpenAI-compatible LLM APIs in 2026: how to switch `base_url` in Python and JS",
+      "link": "https://dev.to/shiva_prasad_cc614c6ee026/free-openai-compatible-llm-apis-in-2026-how-to-switch-baseurl-in-python-and-js-268p",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 12 Nov 2026 05:39:24 +0000",
-      "summary": "Et billede fortæller ikke altid hele historien. Men to billeder kan gøre en forskel. Forestil dig en have, hvor et stort træ er blevet fældet. Ejeren vil gerne sammenligne området før og efter arbejde",
+      "date": "Thu, 12 Nov 2026 17:52:16 +0000",
+      "summary": "Free OpenAI-compatible LLM APIs in 2026: how to switch base_url in Python and JS You do not need a new SDK for every free LLM API. If a provider documents an OpenAI-compatible endpoint, the official P",
       "score": 5,
-      "titleZh": "Byg et før-og-efter billedværktøj med HTML, CSS og JavaScript"
+      "titleZh": "Free OpenAI-compatible LLM APIs in 2026: how to switch `base_url` in Python and JS"
     },
     {
-      "title": "How a 3D multiplayer stealth game runs in a browser tab: shared sim, Durable Objects, a 5-byte input protocol",
-      "link": "https://dev.to/nightnabbers/how-a-3d-multiplayer-stealth-game-runs-in-a-browser-tab-shared-sim-durable-objects-a-5-byte-1ogh",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 12 Nov 2026 05:39:17 +0000",
-      "summary": "Night Nabbers is a free 3D stealth game that runs in a browser tab: you play a raccoon on a night street, sneak past guard dogs and searchlights, steal eggs and hatch odd little buddies. You can play ",
-      "score": 5,
-      "titleZh": "How a 3D multiplayer stealth game runs in a browser tab: shared sim, Durable Objects, a 5-byte input protocol"
-    },
-    {
-      "title": "UGREEN 3C case study: Shopify bundles, device navigation and on-page comparison",
-      "link": "https://dev.to/weswoodtc/ugreen-3c-case-study-shopify-bundles-device-navigation-and-on-page-comparison-ncm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 12 Nov 2026 05:39:00 +0000",
-      "summary": "Reviewed on 12 November 2026. Prices, promotions, availability and navigation can change. Listed bundle prices are not evidence of the brand's average order value. The full Shopify Section is a teachi",
-      "score": 5,
-      "titleZh": "UGREEN 3C case study: Shopify bundles, device navigation and on-page comparison"
-    },
-    {
-      "title": "Why ERP Implementations Fail Before the First Line of Code",
-      "link": "https://dev.to/faisal_hayat/why-erp-implementations-fail-before-the-first-line-of-code-ja6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 12 Nov 2026 05:37:15 +0000",
-      "summary": "ERP (Enterprise Resource Planning) systems are designed to simplify business operations, connect departments, and provide organizations with better control over their processes. Yet, many ERP implemen",
-      "score": 5,
-      "titleZh": "Why ERP Implementations Fail Before the First Line of Code"
-    },
-    {
-      "title": "How Often to Update a Chrome Extension: 805-Listing Data",
-      "link": "https://dev.to/extensionbooster/how-often-to-update-a-chrome-extension-805-listing-data-5cfb",
+      "title": "I built a tool that films websites being built, commit by commit",
+      "link": "https://dev.to/elnar_zulfugarov_270b8f12/i-built-a-tool-that-films-websites-being-built-commit-by-commit-3c0m",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 12 Nov 2026 05:37:03 +0000",
-      "summary": "Originally published on ExtensionBooster. How often should you update a Chrome extension? Across 805 Chrome Web Store listings, the median one had gone 79 days without an update, and almost a quarter ",
+      "date": "Thu, 12 Nov 2026 17:50:10 +0000",
+      "summary": "I wanted coding videos that people who don't code could enjoy too. Most \"speed coding\" videos are a sped-up screen recording: lots of scrolling, a terminal, then a website appears at the end. Non-deve",
       "score": 5,
-      "titleZh": "How Often to Update a Chrome Extension: 805-Listing Data"
-    },
-    {
-      "title": "Converting Between Bangla and Latin Digits in JavaScript (and Why Your Forms Need It)",
-      "link": "https://dev.to/seo_nttechinnovation_/converting-between-bangla-and-latin-digits-in-javascript-and-why-your-forms-need-it-of3",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 12 Nov 2026 05:36:38 +0000",
-      "summary": "Liquid syntax error: 'raw' tag was never closed",
-      "score": 5,
-      "titleZh": "Converting Between Bangla and Latin Digits in JavaScript (and Why Your Forms Need It)"
-    },
-    {
-      "title": "We checked 1,000 ordinary websites: 79% have no CSP and 58% can be framed",
-      "link": "https://dev.to/alex_simakov_d5176f3977ad/we-checked-1000-ordinary-websites-79-have-no-csp-and-58-can-be-framed-5g76",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 12 Nov 2026 05:30:17 +0000",
-      "summary": "No attacks. We only looked at what every visitor's browser receives, and we list the fixes for the most common gaps. Big sites have security teams. Most of the web does not. We wanted to know what ord",
-      "score": 5,
-      "titleZh": "We checked 1,000 ordinary websites: 79% have no CSP and 58% can be framed"
-    },
-    {
-      "title": "Byg en tilgængelig kontaktformular til træpleje med HTML og JavaScript",
-      "link": "https://dev.to/dansktraepleje/byg-en-tilgaengelig-kontaktformular-til-traepleje-med-html-og-javascript-3lc",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 12 Nov 2026 05:24:36 +0000",
-      "summary": "En god kontaktformular skal være nem at forstå. Det lyder enkelt. Alligevel findes der mange formularer, hvor brugeren ikke ved, hvilke oplysninger der er nødvendige, eller hvorfor en fejl opstår. For",
-      "score": 5,
-      "titleZh": "Byg en tilgængelig kontaktformular til træpleje med HTML og JavaScript"
+      "titleZh": "I built a tool that films websites being built, commit by commit"
     }
   ]
 }
