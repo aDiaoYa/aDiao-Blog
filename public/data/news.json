@@ -1,45 +1,93 @@
 {
-  "updated": "2026-11-11T17:42:53.935Z",
-  "date": "2026-11-11",
+  "updated": "2026-11-12T05:47:58.050Z",
+  "date": "2026-11-12",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "link": "https://pietromiotti.com/latest/maya-site/?maya",
+      "title": "My AI agents found an unmapped Maya site?",
+      "link": "https://pietromiotti.com/latest/maya-site",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
       "date": "Wed, 11 Nov 2026 12:05:22 +0000",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455",
-      "score": 734,
-      "titleZh": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455",
+      "score": 957,
+      "titleZh": "My AI agents found an unmapped Maya site?"
     },
     {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Tue, 10 Nov 2026 21:25:03 +0000",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520",
-      "score": 460,
-      "titleZh": "Apple has new Mac app coming to make running local AI models easy"
+      "date": "Wed, 11 Nov 2026 21:24:35 +0000",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900",
+      "score": 493,
+      "titleZh": "United Airlines bans AI agents from booking flights on behalf of travelers"
     },
     {
-      "title": "Every lab assignment in my course ended the same way: Export your notebook as PDF and upload it. Not self promotion this my first project i made [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtnjhw/every_lab_assignment_in_my_course_ended_the_same/",
+      "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-11T17:15:53.000Z",
-      "summary": "​ And every time: - File → Download as → PDF → \"xelatex not found\" - Installed LaTeX (4 GB!) → \"pandoc not found\" - Fixed that → long code lines got cut off at the edge of the page - Tried browser pri",
+      "date": "2026-11-12T04:42:54.000Z",
+      "summary": "My ICLR submission received ratings of 3 / 3 / 2 with confidence 1 / 3 / 3. One weak accept comes from a low-confidence reviewer (Though their review seemed knowledgeable and pinpointed a key issue in",
       "score": 40,
-      "titleZh": "Every lab assignment in my course ended the same way: Export your notebook as PDF and upload it. Not self promotion this my first project i made [D]"
+      "titleZh": "How much does reviewer confidence matter in ICLR decisions? [D]"
+    },
+    {
+      "title": "Missed Presentation [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-12T03:08:20.000Z",
+      "summary": "Hello everyone, For some reason if you miss paper workshop presentation then what happens? submitted by /u/No_Caterpillar3174 [link] [comments]",
+      "score": 40,
+      "titleZh": "Missed Presentation [D]"
+    },
+    {
+      "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T22:20:31.000Z",
+      "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100%",
+      "score": 40,
+      "titleZh": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]"
+    },
+    {
+      "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T21:42:54.000Z",
+      "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, tas",
+      "score": 40,
+      "titleZh": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]"
+    },
+    {
+      "title": "Have people given up on ICLR reviews? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-11T20:40:40.000Z",
+      "summary": "Something weird I observed with my batch of papers and my own paper. Authors have not posted a single rebuttal yet, and no reviewer has responded to ours. This is a batch of almost 10-12 papers. Even ",
+      "score": 40,
+      "titleZh": "Have people given up on ICLR reviews? [D]"
     },
     {
       "title": "Can we talk about the ML research coming from China? [D]",
@@ -52,54 +100,6 @@
       "summary": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pa",
       "score": 40,
       "titleZh": "Can we talk about the ML research coming from China? [D]"
-    },
-    {
-      "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-11T05:25:43.000Z",
-      "summary": "Suppose you’re putting together a team of agents. Picking the strongest model as the coordinator seems reasonable. We wanted to test whether its workflows would actually help other models do the work.",
-      "score": 40,
-      "titleZh": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]"
-    },
-    {
-      "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-11T02:22:54.000Z",
-      "summary": "submitted by /u/NegotiationOk7535 [link] [comments]",
-      "score": 40,
-      "titleZh": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]"
-    },
-    {
-      "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-10T18:35:32.000Z",
-      "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI submitted by /u/0xdeadf1sh [link] [comments]",
-      "score": 40,
-      "titleZh": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]"
-    },
-    {
-      "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-10T16:14:16.000Z",
-      "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, ",
-      "score": 40,
-      "titleZh": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]"
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -126,124 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "How I built, secured, and deployed an Instagram Reels & Audio Downloader PWA entirely on mobile",
-      "link": "https://dev.to/terarahul315/how-i-built-secured-and-deployed-an-instagram-reels-audio-downloader-pwa-entirely-on-mobile-3iic",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:42:35 +0000",
-      "summary": "Building a full-stack, production-ready web application usually happens on a multi-monitor desktop setup with VS Code, Docker, and terminal terminals. However, I wanted to see if I could build, harden",
-      "score": 5,
-      "titleZh": "How I built, secured, and deployed an Instagram Reels & Audio Downloader PWA entirely on mobile"
-    },
-    {
-      "title": "Building a Zero-VBA Excel & Single-File Offline HTML Studio for Milestone Trend Analysis (MTA)",
-      "link": "https://dev.to/yang_233/building-a-zero-vba-excel-single-file-offline-html-studio-for-milestone-trend-analysis-mta-4494",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:39:23 +0000",
-      "summary": "In construction and enterprise PMO Steering Committees, two constraints constantly collide: To solve both problems simultaneously, I built SlipLine — a dual-core offline schedule analytics suite combi",
-      "score": 5,
-      "titleZh": "Building a Zero-VBA Excel & Single-File Offline HTML Studio for Milestone Trend Analysis (MTA)"
-    },
-    {
-      "title": "Me and My Coding Partner, Agent Claude: Our Journey to Building a Classifieds Web App",
-      "link": "https://dev.to/sunil_makwana_0ddf8129ea6/me-and-my-coding-partner-agent-claude-our-journey-to-building-a-classifieds-web-app-8n0",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:35:40 +0000",
-      "summary": "At the end of October I gave my new partner the entire brief in one sentence: create a simple classifieds application, using python and django. The features of classifieds application is that the user",
-      "score": 5,
-      "titleZh": "Me and My Coding Partner, Agent Claude: Our Journey to Building a Classifieds Web App"
-    },
-    {
-      "title": "What hosting actually costs when you are paid in rands",
-      "link": "https://dev.to/justicemanyika/what-hosting-actually-costs-when-you-are-paid-in-rands-4ghg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:35:27 +0000",
-      "summary": "Every hosting review I read for two years was written in a currency that is not mine. \"$2.99 a month\" means nothing when your card is debited in rands and the bank adds a cross-border fee on top. So h",
-      "score": 5,
-      "titleZh": "What hosting actually costs when you are paid in rands"
-    },
-    {
-      "title": "I stumbled upon a CLI that tells you what to learn next — inside your Obsidian vault",
-      "link": "https://dev.to/jarvis_ai_61930a186cc0c6c/i-stumbled-upon-a-cli-that-tells-you-what-to-learn-next-inside-your-obsidian-vault-57ph",
+      "title": "How to Choose 3 Retry Infrastructure Paths for Failed Jobs — SQS, RabbitMQ, Managed Queue",
+      "link": "https://dev.to/ethanbrooks1486/how-to-choose-3-retry-infrastructure-paths-for-failed-jobs-sqs-rabbitmq-managed-queue-17jk",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 17:34:26 +0000",
-      "summary": "I kept running into the same problem while learning: I'd jump into an advanced topic, realise I was missing prerequisites, then forget the basics I'd just learned. Flashcard apps didn't understand dep",
+      "date": "Thu, 12 Nov 2026 05:45:50 +0000",
+      "summary": "Short answer: for a small US/EU SaaS retrying failed e-commerce webhooks, start with a managed queue that has delayed retry and a dead-letter queue. It is usually cheaper in total operating effort tha",
       "score": 5,
-      "titleZh": "I stumbled upon a CLI that tells you what to learn next — inside your Obsidian vault"
+      "titleZh": "How to Choose 3 Retry Infrastructure Paths for Failed Jobs — SQS, RabbitMQ, Managed Queue"
     },
     {
-      "title": "I tested five compression claims. Three didn't hold.",
-      "link": "https://dev.to/compressdog/i-tested-five-compression-claims-three-didnt-hold-4p6g",
+      "title": "Key Benefits of Hiring Experts for Network Support Services in Charlotte",
+      "link": "https://dev.to/itfirm/key-benefits-of-hiring-experts-for-network-support-services-in-charlotte-4mi6",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 17:34:20 +0000",
-      "summary": "Every compressor, including one I built, carries a set of claims in its interface. \"Tuned quantisation tables.\" \"Lossless.\" \"Higher quality.\" I had repeated all five of these without measuring any of ",
+      "date": "Thu, 12 Nov 2026 05:41:54 +0000",
+      "summary": "Modern businesses depend on reliable network infrastructure to manage daily operations, communicate with customers, share information, and access essential applications. Even a minor network issue can",
       "score": 5,
-      "titleZh": "I tested five compression claims. Three didn't hold."
+      "titleZh": "Key Benefits of Hiring Experts for Network Support Services in Charlotte"
     },
     {
-      "title": "27 posts nobody could reach: auditing internal links on a blog",
-      "link": "https://dev.to/justicemanyika/27-posts-nobody-could-reach-auditing-internal-links-on-a-blog-2hao",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:29:46 +0000",
-      "summary": "Twenty-seven of my posts had no inbound link from any page Google already trusts. They were live, they returned 200, they sat in the sitemap, and no crawler had a road to any of them. This is how I fo",
-      "score": 5,
-      "titleZh": "27 posts nobody could reach: auditing internal links on a blog"
-    },
-    {
-      "title": "Why X/Twitter GIFs Download as MP4 (and How to Save a Real GIF)",
-      "link": "https://dev.to/lumenstudio/why-xtwitter-gifs-download-as-mp4-and-how-to-save-a-real-gif-1i7j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:27:39 +0000",
-      "summary": "If you save an animated post from X or Twitter and end up with an .mp4 file, nothing is broken. X usually stores the animation as a short looping video instead of serving the original GIF. GIF is an o",
-      "score": 5,
-      "titleZh": "Why X/Twitter GIFs Download as MP4 (and How to Save a Real GIF)"
-    },
-    {
-      "title": "Stop trusting file extensions: validating uploads by content (with ffmpeg)",
-      "link": "https://dev.to/usman_farooqi_f3ef266029b/stop-trusting-file-extensions-validating-uploads-by-content-with-ffmpeg-4m0p",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 11 Nov 2026 17:24:49 +0000",
-      "summary": "A user of my free tool uploaded a recording named voice.m4a and got \"This doesn't look like a real .m4a file.\" The file was fine. It was a WebM/Opus recording that had been saved with an .m4a extensio",
-      "score": 5,
-      "titleZh": "Stop trusting file extensions: validating uploads by content (with ffmpeg)"
-    },
-    {
-      "title": "What metadata survives a canvas re-encode in Chromium, Firefox and WebKit?",
-      "link": "https://dev.to/lighterpics/canvas-re-encode-in-chromium-firefox-and-webkit-0-of-3586-files-kept-gps-xmp-or-iptc-124f",
+      "title": "Byg et før-og-efter billedværktøj med HTML, CSS og JavaScript",
+      "link": "https://dev.to/dansktraepleje/byg-et-for-og-efter-billedvaerktoj-med-html-css-og-javascript-3m03",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 11 Nov 2026 17:23:25 +0000",
-      "summary": "Disclosure: This report on the image-processing tests run by the LighterPics project was written with AI assistance. Drawing a photo to a canvas and exporting it again is a common way to remove EXIF. ",
+      "date": "Thu, 12 Nov 2026 05:39:24 +0000",
+      "summary": "Et billede fortæller ikke altid hele historien. Men to billeder kan gøre en forskel. Forestil dig en have, hvor et stort træ er blevet fældet. Ejeren vil gerne sammenligne området før og efter arbejde",
       "score": 5,
-      "titleZh": "What metadata survives a canvas re-encode in Chromium, Firefox and WebKit?"
+      "titleZh": "Byg et før-og-efter billedværktøj med HTML, CSS og JavaScript"
+    },
+    {
+      "title": "How a 3D multiplayer stealth game runs in a browser tab: shared sim, Durable Objects, a 5-byte input protocol",
+      "link": "https://dev.to/nightnabbers/how-a-3d-multiplayer-stealth-game-runs-in-a-browser-tab-shared-sim-durable-objects-a-5-byte-1ogh",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:39:17 +0000",
+      "summary": "Night Nabbers is a free 3D stealth game that runs in a browser tab: you play a raccoon on a night street, sneak past guard dogs and searchlights, steal eggs and hatch odd little buddies. You can play ",
+      "score": 5,
+      "titleZh": "How a 3D multiplayer stealth game runs in a browser tab: shared sim, Durable Objects, a 5-byte input protocol"
+    },
+    {
+      "title": "UGREEN 3C case study: Shopify bundles, device navigation and on-page comparison",
+      "link": "https://dev.to/weswoodtc/ugreen-3c-case-study-shopify-bundles-device-navigation-and-on-page-comparison-ncm",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:39:00 +0000",
+      "summary": "Reviewed on 12 November 2026. Prices, promotions, availability and navigation can change. Listed bundle prices are not evidence of the brand's average order value. The full Shopify Section is a teachi",
+      "score": 5,
+      "titleZh": "UGREEN 3C case study: Shopify bundles, device navigation and on-page comparison"
+    },
+    {
+      "title": "Why ERP Implementations Fail Before the First Line of Code",
+      "link": "https://dev.to/faisal_hayat/why-erp-implementations-fail-before-the-first-line-of-code-ja6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:37:15 +0000",
+      "summary": "ERP (Enterprise Resource Planning) systems are designed to simplify business operations, connect departments, and provide organizations with better control over their processes. Yet, many ERP implemen",
+      "score": 5,
+      "titleZh": "Why ERP Implementations Fail Before the First Line of Code"
+    },
+    {
+      "title": "How Often to Update a Chrome Extension: 805-Listing Data",
+      "link": "https://dev.to/extensionbooster/how-often-to-update-a-chrome-extension-805-listing-data-5cfb",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:37:03 +0000",
+      "summary": "Originally published on ExtensionBooster. How often should you update a Chrome extension? Across 805 Chrome Web Store listings, the median one had gone 79 days without an update, and almost a quarter ",
+      "score": 5,
+      "titleZh": "How Often to Update a Chrome Extension: 805-Listing Data"
+    },
+    {
+      "title": "Converting Between Bangla and Latin Digits in JavaScript (and Why Your Forms Need It)",
+      "link": "https://dev.to/seo_nttechinnovation_/converting-between-bangla-and-latin-digits-in-javascript-and-why-your-forms-need-it-of3",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:36:38 +0000",
+      "summary": "Liquid syntax error: 'raw' tag was never closed",
+      "score": 5,
+      "titleZh": "Converting Between Bangla and Latin Digits in JavaScript (and Why Your Forms Need It)"
+    },
+    {
+      "title": "We checked 1,000 ordinary websites: 79% have no CSP and 58% can be framed",
+      "link": "https://dev.to/alex_simakov_d5176f3977ad/we-checked-1000-ordinary-websites-79-have-no-csp-and-58-can-be-framed-5g76",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:30:17 +0000",
+      "summary": "No attacks. We only looked at what every visitor's browser receives, and we list the fixes for the most common gaps. Big sites have security teams. Most of the web does not. We wanted to know what ord",
+      "score": 5,
+      "titleZh": "We checked 1,000 ordinary websites: 79% have no CSP and 58% can be framed"
+    },
+    {
+      "title": "Byg en tilgængelig kontaktformular til træpleje med HTML og JavaScript",
+      "link": "https://dev.to/dansktraepleje/byg-en-tilgaengelig-kontaktformular-til-traepleje-med-html-og-javascript-3lc",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 12 Nov 2026 05:24:36 +0000",
+      "summary": "En god kontaktformular skal være nem at forstå. Det lyder enkelt. Alligevel findes der mange formularer, hvor brugeren ikke ved, hvilke oplysninger der er nødvendige, eller hvorfor en fejl opstår. For",
+      "score": 5,
+      "titleZh": "Byg en tilgængelig kontaktformular til træpleje med HTML og JavaScript"
     }
   ]
 }
