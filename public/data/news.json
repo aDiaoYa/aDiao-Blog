@@ -1,21 +1,45 @@
 {
-  "updated": "2026-11-12T17:56:14.024Z",
-  "date": "2026-11-12",
+  "updated": "2026-11-13T05:06:30.635Z",
+  "date": "2026-11-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+      "title": "I built a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuyxw5/i_built_a_legorastyle_legal_conflict_detector/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-12T17:16:46.000Z",
-      "summary": "TRIBE v2 predicts fMRI from video/audio/text. Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) — and its methods section admits vide",
+      "date": "2026-11-13T04:57:55.000Z",
+      "summary": "Hey r/MachineLearning! I’m Tabs, a legal engineer at Isaacus. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models a",
       "score": 40,
-      "titleZh": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]"
+      "titleZh": "I built a Legora-style legal conflict detector tool using only NLI and encoder models [P]"
+    },
+    {
+      "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-13T02:23:51.000Z",
+      "summary": "SAM 2-style trackers (SAM 2.1, EdgeTAM) are more accurate and flexible than box trackers: point at anything once and get its exact outline on every frame. But on live cameras they're expensive, and Me",
+      "score": 40,
+      "titleZh": "I built tamserve to make real-time video tracking 2x cheaper [P]"
+    },
+    {
+      "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-12T18:55:13.000Z",
+      "summary": "Over the past two years, conferences have been trying to add different administrative nonsense. Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR has this author enrol",
+      "score": 40,
+      "titleZh": "Creating author burdens to reduce paper submissions is STUPID [D]"
     },
     {
       "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -28,18 +52,6 @@
       "summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make a",
       "score": 40,
       "titleZh": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]"
-    },
-    {
-      "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-12T15:41:18.000Z",
-      "summary": "Does anyone know the exact steps to leave a comment visible only to the Area Chair (not the reviewers) during the ICLR 2027 discussion period? I see the \"Official Comment\" option, but I'm not sure whi",
-      "score": 40,
-      "titleZh": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]"
     },
     {
       "title": "CVPR 2027 Author enrollment form [D]",
@@ -66,18 +78,6 @@
       "titleZh": "UMAP 0.6: new initialization, new optimizers and faster performance [P]"
     },
     {
-      "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-12T04:42:54.000Z",
-      "summary": "My ICLR submission received ratings of 3 / 3 / 2 with confidence 1 / 3 / 3. One weak accept comes from a low-confidence reviewer (Though their review seemed knowledgeable and pinpointed a key issue in",
-      "score": 40,
-      "titleZh": "How much does reviewer confidence matter in ICLR decisions? [D]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 12 Nov 2026 09:30:00 GMT",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "date": "Thu, 12 Nov 2026 20:00:00 GMT",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "score": 5,
-      "titleZh": "Holiday Extras is rethinking what it can build with Codex"
+      "titleZh": "How Amplitude ships product improvements in 1–2 days with OpenAI"
     },
     {
-      "title": "Supporting research on AI and children’s safety",
-      "link": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "date": "Thu, 12 Nov 2026 19:07:35 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "Supporting research on AI and children’s safety"
+      "titleZh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
     },
     {
-      "title": "Building Barista: Formal Verification and TLA+",
-      "link": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
-      "source": "Reddit Prog",
+      "title": "AI Coding Agents Can Write the Code. Who Verifies the Work?",
+      "link": "https://dev.to/headronlayer/ai-coding-agents-can-write-the-code-who-verifies-the-work-46n",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-12T15:12:25.000Z",
-      "summary": "submitted by /u/teivah [link] [comments]",
-      "score": 40,
-      "titleZh": "Building Barista: Formal Verification and TLA+"
+      "date": "Fri, 13 Nov 2026 05:04:02 +0000",
+      "summary": "How Headron brings change-aware verification, deterministic execution boundaries, and auditable evidence to autonomous software development. AI coding agents are becoming part of everyday software dev",
+      "score": 5,
+      "titleZh": "AI Coding Agents Can Write the Code. Who Verifies the Work?"
     },
     {
-      "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
-      "link": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
-      "source": "Reddit Prog",
+      "title": "Why commits in a git worktree ran no husky hooks",
+      "link": "https://dev.to/omerbinsaleem/why-commits-in-a-git-worktree-ran-no-husky-hooks-4cdm",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-12T13:16:09.000Z",
-      "summary": "submitted by /u/Nuoji [link] [comments]",
-      "score": 40,
-      "titleZh": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules"
+      "date": "Fri, 13 Nov 2026 05:02:46 +0000",
+      "summary": "Originally published at omerbinsaleem.com by Omer Bin Saleem (Omer Saleem). In a linked worktree, husky's runner folder was missing, so commits ran no hooks at all. Copying it in exposed a second trap",
+      "score": 5,
+      "titleZh": "Why commits in a git worktree ran no husky hooks"
     },
     {
-      "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
-      "link": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
-      "source": "Reddit Prog",
+      "title": "Keeping a Text GIF Light: Canvas, Loop Length and Effect Choices",
+      "link": "https://dev.to/textgifmaker/keeping-a-text-gif-light-canvas-loop-length-and-effect-choices-5a34",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-12T08:15:24.000Z",
-      "summary": "This video sheds light on a bug that has been around for a few decades but is still easily missed; specifically due to the letter \"i\" having unique casing rules for Turkish as \"İ/i\" (dotted I) and \"I/",
-      "score": 40,
-      "titleZh": "This Turkish Letter Keeps Breaking the World's Software - YouTube"
+      "date": "Fri, 13 Nov 2026 05:00:53 +0000",
+      "summary": "A text GIF is only useful if it loads quickly where people see it. Chats, email headers and shop pages all prefer files that arrive fast, and a few choices made before you export have more effect on w",
+      "score": 5,
+      "titleZh": "Keeping a Text GIF Light: Canvas, Loop Length and Effect Choices"
     },
     {
-      "title": "Lean explained with TypeScript",
-      "link": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
-      "source": "Reddit Prog",
+      "title": "XML to JSON: Free Online XML to JSON Converter — How-To Guide",
+      "link": "https://dev.to/layoffatlas/xml-to-json-free-online-xml-to-json-converter-how-to-guide-3kg",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-12T07:00:41.000Z",
-      "summary": "submitted by /u/fagnerbrack [link] [comments]",
-      "score": 40,
-      "titleZh": "Lean explained with TypeScript"
+      "date": "Fri, 13 Nov 2026 05:00:05 +0000",
+      "summary": "If you work with APIs, data migration, or config files, you will run into XML sooner or later — and most modern tools want JSON instead. ToolsFam's XML to JSON converter turns XML markup into clean JS",
+      "score": 5,
+      "titleZh": "XML to JSON: Free Online XML to JSON Converter — How-To Guide"
     },
     {
-      "title": "Rust's Type System is All You Need",
-      "link": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
-      "source": "Reddit Prog",
+      "title": "Should you proxy through Server Actions or call APIs directly?",
+      "link": "https://dev.to/sxchintha/should-you-proxy-through-server-actions-or-call-apis-directly-pkm",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-11T22:22:44.000Z",
-      "summary": "How do you balance performance and readability in Rust? Are there any strategies or any paradigms to guarantee professional code quality? The answer to both is simple: Rust’s type system is all you ne",
-      "score": 40,
-      "titleZh": "Rust's Type System is All You Need"
+      "date": "Fri, 13 Nov 2026 05:00:00 +0000",
+      "summary": "You've got a Next.js app, and it needs to talk to a backend that isn't Next.js, maybe a Python service, a Rails app, or plain Express. The first architectural decision you'll make, often without reali",
+      "score": 5,
+      "titleZh": "Should you proxy through Server Actions or call APIs directly?"
     },
     {
-      "title": "eMudhra's official incident report on how they ended up with private key 4",
-      "link": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-11T19:46:16.000Z",
-      "summary": "submitted by /u/alexeyr [link] [comments]",
-      "score": 40,
-      "titleZh": "eMudhra's official incident report on how they ended up with private key 4"
-    },
-    {
-      "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
-      "link": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-11T16:56:23.000Z",
-      "summary": "submitted by /u/Ok_Stomach6651 [link] [comments]",
-      "score": 40,
-      "titleZh": "Google Search's foundational PageRank patent has expired. What will be the impact of this"
-    },
-    {
-      "title": "Go Turns 17 - The Go Programming Language",
-      "link": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-11T16:25:55.000Z",
-      "summary": "submitted by /u/BrewedDoritos [link] [comments]",
-      "score": 40,
-      "titleZh": "Go Turns 17 - The Go Programming Language"
-    },
-    {
-      "title": "Free OpenAI-compatible LLM APIs in 2026: how to switch `base_url` in Python and JS",
-      "link": "https://dev.to/shiva_prasad_cc614c6ee026/free-openai-compatible-llm-apis-in-2026-how-to-switch-baseurl-in-python-and-js-268p",
+      "title": "Building a Countdown That Doesn't Lie: Background Tabs, Timer Drift and Web Audio Alerts",
+      "link": "https://dev.to/md_shohan_102187760726951/building-a-countdown-that-doesnt-lie-background-tabs-timer-drift-and-web-audio-alerts-452f",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 12 Nov 2026 17:52:16 +0000",
-      "summary": "Free OpenAI-compatible LLM APIs in 2026: how to switch base_url in Python and JS You do not need a new SDK for every free LLM API. If a provider documents an OpenAI-compatible endpoint, the official P",
+      "date": "Fri, 13 Nov 2026 04:59:34 +0000",
+      "summary": "A countdown timer sounds like a ten-minute exercise: subtract one from a number every second and show it. Then you switch to another window for an hour of deep work, come back, and the timer says 12 m",
       "score": 5,
-      "titleZh": "Free OpenAI-compatible LLM APIs in 2026: how to switch `base_url` in Python and JS"
+      "titleZh": "Building a Countdown That Doesn't Lie: Background Tabs, Timer Drift and Web Audio Alerts"
     },
     {
-      "title": "I built a tool that films websites being built, commit by commit",
-      "link": "https://dev.to/elnar_zulfugarov_270b8f12/i-built-a-tool-that-films-websites-being-built-commit-by-commit-3c0m",
+      "title": "JWT Time Claims Explained: exp, iat and nbf in Plain Dates (Plus Clock Skew)",
+      "link": "https://dev.to/mind_vsdrive_30e41cb9738/jwt-time-claims-explained-exp-iat-and-nbf-in-plain-dates-plus-clock-skew-2p68",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 12 Nov 2026 17:50:10 +0000",
-      "summary": "I wanted coding videos that people who don't code could enjoy too. Most \"speed coding\" videos are a sped-up screen recording: lots of scrolling, a terminal, then a website appears at the end. Non-deve",
+      "date": "Fri, 13 Nov 2026 04:59:29 +0000",
+      "summary": "Disclosure: I'm Nagesh, and I built the free JWT Decoder at base64decodetool.com used in this post. The token below is synthetic and illustrative. It uses made-up claims and a made-up demo secret, so ",
       "score": 5,
-      "titleZh": "I built a tool that films websites being built, commit by commit"
+      "titleZh": "JWT Time Claims Explained: exp, iat and nbf in Plain Dates (Plus Clock Skew)"
+    },
+    {
+      "title": "How I Built a Free QR Code Generator for the Browser",
+      "link": "https://dev.to/usamafarooq/how-i-built-a-free-qr-code-generator-for-the-browser-4mc5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 04:57:28 +0000",
+      "summary": "How I Built a Free QR Code Generator for the Browser Primary keyword: free QR code generator Slug: how-i-built-free-qr-code-generator Meta description (160 chars): How I built a free QR code generator",
+      "score": 5,
+      "titleZh": "How I Built a Free QR Code Generator for the Browser"
+    },
+    {
+      "title": "A2UI 1.0 in Next.js: The Deep Dive and Your First Agent Screen",
+      "link": "https://dev.to/zforzain2000/a2ui-10-in-nextjs-the-deep-dive-and-your-first-agent-screen-43kk",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 04:54:02 +0000",
+      "summary": "Your agent's worst answers are not wrong. They are shaped wrong. Ask it to compare three flights, approve a deploy, or collect six fields, and it hands you a paragraph - then three rounds of \"which on",
+      "score": 5,
+      "titleZh": "A2UI 1.0 in Next.js: The Deep Dive and Your First Agent Screen"
+    },
+    {
+      "title": "pnpm: One Copy of Every Package, Shared Across Projects",
+      "link": "https://dev.to/practicaldevblog/pnpm-one-copy-of-every-package-shared-across-projects-5ho",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 04:51:02 +0000",
+      "summary": "Picture a laptop that has hosted a dozen JavaScript projects. The same version of Express sits in a dozen node_modules folders. It works, and on a fast connection nobody notices, until the disk fills ",
+      "score": 5,
+      "titleZh": "pnpm: One Copy of Every Package, Shared Across Projects"
     }
   ]
 }
