@@ -1,33 +1,57 @@
 {
-  "updated": "2026-11-13T05:06:30.635Z",
+  "updated": "2026-11-13T17:30:44.064Z",
   "date": "2026-11-13",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "I built a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuyxw5/i_built_a_legorastyle_legal_conflict_detector/",
+      "title": "Scaling to 1T MoE on TorchTitan [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-13T04:57:55.000Z",
-      "summary": "Hey r/MachineLearning! I’m Tabs, a legal engineer at Isaacus. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models a",
+      "date": "2026-11-13T16:28:36.000Z",
+      "summary": "Hi everyone! Over the last few months we've been in the trenches with the TorchTitan and PyTorch maintainers, trying to find out how far GH200 (the GPUs inside the JUPITER supercomputer) can be pushed",
       "score": 40,
-      "titleZh": "I built a Legora-style legal conflict detector tool using only NLI and encoder models [P]"
+      "titleZh": "Scaling to 1T MoE on TorchTitan [P]"
     },
     {
-      "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
+      "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-13T02:23:51.000Z",
-      "summary": "SAM 2-style trackers (SAM 2.1, EdgeTAM) are more accurate and flexible than box trackers: point at anything once and get its exact outline on every frame. But on live cameras they're expensive, and Me",
+      "date": "2026-11-13T10:50:10.000Z",
+      "summary": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be releva",
       "score": 40,
-      "titleZh": "I built tamserve to make real-time video tracking 2x cheaper [P]"
+      "titleZh": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]"
+    },
+    {
+      "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-13T10:39:43.000Z",
+      "summary": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) - Ettin-1B encoder (ModernBERT architecture), 512-token windows - Fine-tuned on RAID's training split, then a hard-",
+      "score": 40,
+      "titleZh": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]"
+    },
+    {
+      "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-13T05:48:17.000Z",
+      "summary": "Hey r/learnmachinelearning! I’m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations ",
+      "score": 40,
+      "titleZh": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]"
     },
     {
       "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
@@ -40,30 +64,6 @@
       "summary": "Over the past two years, conferences have been trying to add different administrative nonsense. Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR has this author enrol",
       "score": 40,
       "titleZh": "Creating author burdens to reduce paper submissions is STUPID [D]"
-    },
-    {
-      "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-12T16:02:13.000Z",
-      "summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make a",
-      "score": 40,
-      "titleZh": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]"
-    },
-    {
-      "title": "CVPR 2027 Author enrollment form [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-12T14:30:15.000Z",
-      "summary": "I just realized that CVPR 2027 requires a separate author enrollment form to be completed by the abstract deadline, in addition to having a complete OpenReview profile. My OpenReview profile was alrea",
-      "score": 40,
-      "titleZh": "CVPR 2027 Author enrollment form [D]"
     },
     {
       "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
@@ -102,148 +102,148 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 12 Nov 2026 20:00:00 GMT",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "score": 5,
-      "titleZh": "How Amplitude ships product improvements in 1–2 days with OpenAI"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
       "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 12 Nov 2026 19:07:35 GMT",
+      "date": "Fri, 13 Nov 2026 17:02:35 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+      "titleZh": "XYBench: Helping with the problem behind the question"
     },
     {
-      "title": "AI Coding Agents Can Write the Code. Who Verifies the Work?",
-      "link": "https://dev.to/headronlayer/ai-coding-agents-can-write-the-code-who-verifies-the-work-46n",
-      "source": "Dev.to WebDev",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Fri, 13 Nov 2026 05:04:02 +0000",
-      "summary": "How Headron brings change-aware verification, deterministic execution boundaries, and auditable evidence to autonomous software development. AI coding agents are becoming part of everyday software dev",
+      "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "score": 5,
-      "titleZh": "AI Coding Agents Can Write the Code. Who Verifies the Work?"
+      "titleZh": "Introducing ChatGPT Wallet"
     },
     {
-      "title": "Why commits in a git worktree ran no husky hooks",
-      "link": "https://dev.to/omerbinsaleem/why-commits-in-a-git-worktree-ran-no-husky-hooks-4cdm",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 05:02:46 +0000",
-      "summary": "Originally published at omerbinsaleem.com by Omer Bin Saleem (Omer Saleem). In a linked worktree, husky's runner folder was missing, so commits ran no hooks at all. Copying it in exposed a second trap",
-      "score": 5,
-      "titleZh": "Why commits in a git worktree ran no husky hooks"
-    },
-    {
-      "title": "Keeping a Text GIF Light: Canvas, Loop Length and Effect Choices",
-      "link": "https://dev.to/textgifmaker/keeping-a-text-gif-light-canvas-loop-length-and-effect-choices-5a34",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 05:00:53 +0000",
-      "summary": "A text GIF is only useful if it loads quickly where people see it. Chats, email headers and shop pages all prefer files that arrive fast, and a few choices made before you export have more effect on w",
-      "score": 5,
-      "titleZh": "Keeping a Text GIF Light: Canvas, Loop Length and Effect Choices"
-    },
-    {
-      "title": "XML to JSON: Free Online XML to JSON Converter — How-To Guide",
-      "link": "https://dev.to/layoffatlas/xml-to-json-free-online-xml-to-json-converter-how-to-guide-3kg",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 05:00:05 +0000",
-      "summary": "If you work with APIs, data migration, or config files, you will run into XML sooner or later — and most modern tools want JSON instead. ToolsFam's XML to JSON converter turns XML markup into clean JS",
-      "score": 5,
-      "titleZh": "XML to JSON: Free Online XML to JSON Converter — How-To Guide"
-    },
-    {
-      "title": "Should you proxy through Server Actions or call APIs directly?",
-      "link": "https://dev.to/sxchintha/should-you-proxy-through-server-actions-or-call-apis-directly-pkm",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 05:00:00 +0000",
-      "summary": "You've got a Next.js app, and it needs to talk to a backend that isn't Next.js, maybe a Python service, a Rails app, or plain Express. The first architectural decision you'll make, often without reali",
-      "score": 5,
-      "titleZh": "Should you proxy through Server Actions or call APIs directly?"
-    },
-    {
-      "title": "Building a Countdown That Doesn't Lie: Background Tabs, Timer Drift and Web Audio Alerts",
-      "link": "https://dev.to/md_shohan_102187760726951/building-a-countdown-that-doesnt-lie-background-tabs-timer-drift-and-web-audio-alerts-452f",
+      "title": "No floats near money: how our free estimate template matches the app to the cent",
+      "link": "https://dev.to/closequotely/no-floats-near-money-how-our-free-estimate-template-matches-the-app-to-the-cent-1jg",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 04:59:34 +0000",
-      "summary": "A countdown timer sounds like a ten-minute exercise: subtract one from a number every second and show it. Then you switch to another window for an hour of deep work, come back, and the timer says 12 m",
+      "date": "Fri, 13 Nov 2026 17:28:26 +0000",
+      "summary": "CloseQuotely has a free estimate template: a page where a contractor types lines, quantities and prices, sees a total and prints it. No account, nothing saved on our side. It's a marketing page, and i",
       "score": 5,
-      "titleZh": "Building a Countdown That Doesn't Lie: Background Tabs, Timer Drift and Web Audio Alerts"
+      "titleZh": "No floats near money: how our free estimate template matches the app to the cent"
     },
     {
-      "title": "JWT Time Claims Explained: exp, iat and nbf in Plain Dates (Plus Clock Skew)",
-      "link": "https://dev.to/mind_vsdrive_30e41cb9738/jwt-time-claims-explained-exp-iat-and-nbf-in-plain-dates-plus-clock-skew-2p68",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 04:59:29 +0000",
-      "summary": "Disclosure: I'm Nagesh, and I built the free JWT Decoder at base64decodetool.com used in this post. The token below is synthetic and illustrative. It uses made-up claims and a made-up demo secret, so ",
-      "score": 5,
-      "titleZh": "JWT Time Claims Explained: exp, iat and nbf in Plain Dates (Plus Clock Skew)"
-    },
-    {
-      "title": "How I Built a Free QR Code Generator for the Browser",
-      "link": "https://dev.to/usamafarooq/how-i-built-a-free-qr-code-generator-for-the-browser-4mc5",
+      "title": "I Just Wanted to Make a GIF Sticker. Somehow, I Ended Up Building an Entire Creative Toolkit.",
+      "link": "https://dev.to/andrewdynamite/i-just-wanted-to-make-a-gif-sticker-somehow-i-ended-up-building-an-entire-creative-toolkit-4g3a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 04:57:28 +0000",
-      "summary": "How I Built a Free QR Code Generator for the Browser Primary keyword: free QR code generator Slug: how-i-built-free-qr-code-generator Meta description (160 chars): How I built a free QR code generator",
+      "date": "Fri, 13 Nov 2026 17:28:25 +0000",
+      "summary": "I Just Wanted to Make a GIF Sticker. Somehow, I Ended Up Building an Entire Creative Toolkit. How a simple frustration turned into GifNoBg — a free AI-powered GIF background remover that grew into som",
       "score": 5,
-      "titleZh": "How I Built a Free QR Code Generator for the Browser"
+      "titleZh": "I Just Wanted to Make a GIF Sticker. Somehow, I Ended Up Building an Entire Creative Toolkit."
     },
     {
-      "title": "A2UI 1.0 in Next.js: The Deep Dive and Your First Agent Screen",
-      "link": "https://dev.to/zforzain2000/a2ui-10-in-nextjs-the-deep-dive-and-your-first-agent-screen-43kk",
+      "title": "Mastering Monorepos: Streamlining Full-Stack Development with Next.js and Nx",
+      "link": "https://dev.to/mtahir27/mastering-monorepos-streamlining-full-stack-development-with-nextjs-and-nx-1b35",
       "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 04:54:02 +0000",
-      "summary": "Your agent's worst answers are not wrong. They are shaped wrong. Ask it to compare three flights, approve a deploy, or collect six fields, and it hands you a paragraph - then three rounds of \"which on",
+      "date": "Fri, 13 Nov 2026 17:27:46 +0000",
+      "summary": "Introduction: The Monorepo Revolution in Full-Stack Development In the evolving landscape of software engineering, managing complex projects with multiple applications, APIs, and shared utilities ofte",
       "score": 5,
-      "titleZh": "A2UI 1.0 in Next.js: The Deep Dive and Your First Agent Screen"
+      "titleZh": "Mastering Monorepos: Streamlining Full-Stack Development with Next.js and Nx"
     },
     {
-      "title": "pnpm: One Copy of Every Package, Shared Across Projects",
-      "link": "https://dev.to/practicaldevblog/pnpm-one-copy-of-every-package-shared-across-projects-5ho",
+      "title": "Why Does Your Code Work Locally but Fail in Production?",
+      "link": "https://dev.to/arthur_luca/why-does-your-code-work-locally-but-fail-in-production-1b9l",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 04:51:02 +0000",
-      "summary": "Picture a laptop that has hosted a dozen JavaScript projects. The same version of Express sits in a dozen node_modules folders. It works, and on a fast connection nobody notices, until the disk fills ",
+      "date": "Fri, 13 Nov 2026 17:26:43 +0000",
+      "summary": "Hello, I'm Arthur. You've written your code, tested it on your computer, and everything works perfectly. Your application runs smoothly, your database connects, and all the features behave as expected",
       "score": 5,
-      "titleZh": "pnpm: One Copy of Every Package, Shared Across Projects"
+      "titleZh": "Why Does Your Code Work Locally but Fail in Production?"
+    },
+    {
+      "title": "Letting strangers ping any Minecraft server without turning our backend into an SSRF tool",
+      "link": "https://dev.to/mineops/letting-strangers-ping-any-minecraft-server-without-turning-our-backend-into-an-ssrf-tool-1pf7",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 17:26:37 +0000",
+      "summary": "We added a free page to MineOps where anyone can type a Minecraft server address and see what the multiplayer list would show: online or not, version, players and response time. No account. The featur",
+      "score": 5,
+      "titleZh": "Letting strangers ping any Minecraft server without turning our backend into an SSRF tool"
+    },
+    {
+      "title": "How to Host an App Built with Claude Code (2026)",
+      "link": "https://dev.to/kaden_huang_af7de3a1ed44f/how-to-host-an-app-built-with-claude-code-2026-2pbb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 17:26:24 +0000",
+      "summary": "To host an app built with Claude Code, you put the code Claude Code wrote onto a host, because Claude Code itself does not host anything. If the app saves nothing, a free static host like Vercel is en",
+      "score": 5,
+      "titleZh": "How to Host an App Built with Claude Code (2026)"
+    },
+    {
+      "title": "The anti-flicker tax: what hiding your page does to LCP",
+      "link": "https://dev.to/evolveab_admin_6e1b20c89f/the-anti-flicker-tax-what-hiding-your-page-does-to-lcp-10ge",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 17:25:09 +0000",
+      "summary": "If you've run a test from a visual editor, you've probably seen it: the page loads with the old headline, and a beat later the new one snaps into place. That's flicker. Client-side testing tools all h",
+      "score": 5,
+      "titleZh": "The anti-flicker tax: what hiding your page does to LCP"
+    },
+    {
+      "title": "React Email Verification Needs Typed States",
+      "link": "https://dev.to/ryanlee91/react-email-verification-needs-typed-states-4obb",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 17:23:37 +0000",
+      "summary": "Email verification looks like a small feature until a user clicks “send again” while a request is still running, opens an old link, or returns to the tab after the token expired. Then a simple isVerif",
+      "score": 5,
+      "titleZh": "React Email Verification Needs Typed States"
+    },
+    {
+      "title": "What I learned building a hosted Garmin MCP server",
+      "link": "https://dev.to/svassaux/what-i-learned-building-a-hosted-garmin-mcp-server-efa",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 17:23:03 +0000",
+      "summary": "I run garmlink.ai, a free service that lets an AI assistant read your Garmin Connect data. It is a hosted MCP server: you paste one address into your assistant, sign in, and ask questions about your s",
+      "score": 5,
+      "titleZh": "What I learned building a hosted Garmin MCP server"
+    },
+    {
+      "title": "Shopify Theme Audit Skill for Claude Code: audit any theme in 90 seconds",
+      "link": "https://dev.to/tanuj_rajput/shopify-theme-audit-skill-for-claude-code-audit-any-theme-in-90-seconds-43d6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 13 Nov 2026 17:21:43 +0000",
+      "summary": "A Shopify theme audit skill is a Claude Code skill — a small set of markdown instruction files — that teaches Claude Code to audit any Shopify theme the way a senior Shopify developer would. It runs l",
+      "score": 5,
+      "titleZh": "Shopify Theme Audit Skill for Claude Code: audit any theme in 90 seconds"
     }
   ]
 }
