@@ -1,81 +1,117 @@
 {
-  "updated": "2026-11-13T17:30:44.064Z",
-  "date": "2026-11-13",
+  "updated": "2026-11-14T16:22:40.162Z",
+  "date": "2026-11-14",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Scaling to 1T MoE on TorchTitan [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
-      "source": "Reddit ML",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-13T16:28:36.000Z",
-      "summary": "Hi everyone! Over the last few months we've been in the trenches with the TorchTitan and PyTorch maintainers, trying to find out how far GH200 (the GPUs inside the JUPITER supercomputer) can be pushed",
-      "score": 40,
-      "titleZh": "Scaling to 1T MoE on TorchTitan [P]"
+      "date": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251",
+      "score": 892,
+      "titleZh": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs"
     },
     {
-      "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
-      "source": "Reddit ML",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-13T10:50:10.000Z",
-      "summary": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be releva",
-      "score": 40,
-      "titleZh": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]"
+      "date": "Fri, 13 Nov 2026 15:08:44 +0000",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658",
+      "score": 414,
+      "titleZh": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]"
     },
     {
-      "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
-      "source": "Reddit ML",
+      "title": "Generative AI uses more energy on non-English text",
+      "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-13T10:39:43.000Z",
-      "summary": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) - Ettin-1B encoder (ModernBERT architecture), 512-token windows - Fine-tuned on RAID's training split, then a hard-",
-      "score": 40,
-      "titleZh": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]"
+      "date": "Tue, 10 Nov 2026 15:07:28 +0000",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444",
+      "score": 74,
+      "titleZh": "Generative AI uses more energy on non-English text"
     },
     {
-      "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+      "title": "Ethical Alternatives to Kaggle [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-13T05:48:17.000Z",
-      "summary": "Hey r/learnmachinelearning! I’m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations ",
+      "date": "2026-11-14T16:20:55.000Z",
+      "summary": "I personally find it unconscionable to mandate biometric verification - with a controversial vendor on the top of that - to access a competition. Not to cash a prize, just to submit a solution. What a",
       "score": 40,
-      "titleZh": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]"
+      "titleZh": "Ethical Alternatives to Kaggle [D]"
     },
     {
-      "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+      "title": "ICLR 2027 Rebuttal [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-12T18:55:13.000Z",
-      "summary": "Over the past two years, conferences have been trying to add different administrative nonsense. Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR has this author enrol",
+      "date": "2026-11-14T16:00:01.000Z",
+      "summary": "For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can’t seem to see any ",
       "score": 40,
-      "titleZh": "Creating author burdens to reduce paper submissions is STUPID [D]"
+      "titleZh": "ICLR 2027 Rebuttal [D]"
     },
     {
-      "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
+      "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-12T13:51:58.000Z",
-      "summary": "UMAP 0.6 is out! A new initialization, new optimizers, and faster nearest neighbour search make UMAP much faster and far better at large scale. On 3 million arXiv papers it finishes in under 5 minutes",
+      "date": "2026-11-14T14:31:29.000Z",
+      "summary": "is there any chance those models are going to be deployed for real? submitted by /u/rottoneuro [link] [comments]",
       "score": 40,
-      "titleZh": "UMAP 0.6: new initialization, new optimizers and faster performance [P]"
+      "titleZh": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]"
+    },
+    {
+      "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-14T14:28:42.000Z",
+      "summary": "I received this mail which said \"Please upload your poster and thumbnail by clicking on the poster upload page link on the paper metadata page.\" The mail contains 15th November as a date, do we really",
+      "score": 40,
+      "titleZh": "Is it compulsory to upload neurips poster by 15th Nov? [D]"
+    },
+    {
+      "title": "ICLR rebuttal [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-14T12:29:37.000Z",
+      "summary": "I'm about to submit my iclr rebuttal, and I was wondering if it's okay to highlight the changes I've made to my manuscript using a different text color to make them easier for the reviewers to identif",
+      "score": 40,
+      "titleZh": "ICLR rebuttal [R]"
+    },
+    {
+      "title": "ICML 2027 Changes [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-13T21:53:39.000Z",
+      "summary": "Just read the ICML 2027 CFP and it looks like they’re trying to tackle the submission explosion in a reasonable way. Under the new two-stage process, the area chair decides whether a paper goes to ful",
+      "score": 40,
+      "titleZh": "ICML 2027 Changes [D]"
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -90,160 +126,124 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-02T03:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
-      "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
-    },
-    {
-      "title": "XYBench: Helping with the problem behind the question",
-      "link": "https://huggingface.co/blog/allenai/xybench",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 13 Nov 2026 17:02:35 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "XYBench: Helping with the problem behind the question"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "score": 5,
-      "titleZh": "Introducing ChatGPT Wallet"
-    },
-    {
-      "title": "No floats near money: how our free estimate template matches the app to the cent",
-      "link": "https://dev.to/closequotely/no-floats-near-money-how-our-free-estimate-template-matches-the-app-to-the-cent-1jg",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:28:26 +0000",
-      "summary": "CloseQuotely has a free estimate template: a page where a contractor types lines, quantities and prices, sees a total and prints it. No account, nothing saved on our side. It's a marketing page, and i",
-      "score": 5,
-      "titleZh": "No floats near money: how our free estimate template matches the app to the cent"
-    },
-    {
-      "title": "I Just Wanted to Make a GIF Sticker. Somehow, I Ended Up Building an Entire Creative Toolkit.",
-      "link": "https://dev.to/andrewdynamite/i-just-wanted-to-make-a-gif-sticker-somehow-i-ended-up-building-an-entire-creative-toolkit-4g3a",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:28:25 +0000",
-      "summary": "I Just Wanted to Make a GIF Sticker. Somehow, I Ended Up Building an Entire Creative Toolkit. How a simple frustration turned into GifNoBg — a free AI-powered GIF background remover that grew into som",
-      "score": 5,
-      "titleZh": "I Just Wanted to Make a GIF Sticker. Somehow, I Ended Up Building an Entire Creative Toolkit."
-    },
-    {
-      "title": "Mastering Monorepos: Streamlining Full-Stack Development with Next.js and Nx",
-      "link": "https://dev.to/mtahir27/mastering-monorepos-streamlining-full-stack-development-with-nextjs-and-nx-1b35",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:27:46 +0000",
-      "summary": "Introduction: The Monorepo Revolution in Full-Stack Development In the evolving landscape of software engineering, managing complex projects with multiple applications, APIs, and shared utilities ofte",
-      "score": 5,
-      "titleZh": "Mastering Monorepos: Streamlining Full-Stack Development with Next.js and Nx"
-    },
-    {
-      "title": "Why Does Your Code Work Locally but Fail in Production?",
-      "link": "https://dev.to/arthur_luca/why-does-your-code-work-locally-but-fail-in-production-1b9l",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:26:43 +0000",
-      "summary": "Hello, I'm Arthur. You've written your code, tested it on your computer, and everything works perfectly. Your application runs smoothly, your database connects, and all the features behave as expected",
-      "score": 5,
-      "titleZh": "Why Does Your Code Work Locally but Fail in Production?"
-    },
-    {
-      "title": "Letting strangers ping any Minecraft server without turning our backend into an SSRF tool",
-      "link": "https://dev.to/mineops/letting-strangers-ping-any-minecraft-server-without-turning-our-backend-into-an-ssrf-tool-1pf7",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:26:37 +0000",
-      "summary": "We added a free page to MineOps where anyone can type a Minecraft server address and see what the multiplayer list would show: online or not, version, players and response time. No account. The featur",
-      "score": 5,
-      "titleZh": "Letting strangers ping any Minecraft server without turning our backend into an SSRF tool"
-    },
-    {
-      "title": "How to Host an App Built with Claude Code (2026)",
-      "link": "https://dev.to/kaden_huang_af7de3a1ed44f/how-to-host-an-app-built-with-claude-code-2026-2pbb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:26:24 +0000",
-      "summary": "To host an app built with Claude Code, you put the code Claude Code wrote onto a host, because Claude Code itself does not host anything. If the app saves nothing, a free static host like Vercel is en",
-      "score": 5,
-      "titleZh": "How to Host an App Built with Claude Code (2026)"
-    },
-    {
-      "title": "The anti-flicker tax: what hiding your page does to LCP",
-      "link": "https://dev.to/evolveab_admin_6e1b20c89f/the-anti-flicker-tax-what-hiding-your-page-does-to-lcp-10ge",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 13 Nov 2026 17:25:09 +0000",
-      "summary": "If you've run a test from a visual editor, you've probably seen it: the page loads with the old headline, and a beat later the new one snaps into place. That's flicker. Client-side testing tools all h",
-      "score": 5,
-      "titleZh": "The anti-flicker tax: what hiding your page does to LCP"
-    },
-    {
-      "title": "React Email Verification Needs Typed States",
-      "link": "https://dev.to/ryanlee91/react-email-verification-needs-typed-states-4obb",
+      "title": "Prepare a WebMCP Review Without Submitting the Request",
+      "link": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 17:23:37 +0000",
-      "summary": "Email verification looks like a small feature until a user clicks “send again” while a request is still running, opens an old link, or returns to the tab after the token expired. Then a simple isVerif",
+      "date": "Sat, 14 Nov 2026 16:18:00 +0000",
+      "summary": "A business-class trip in my demo produced four facts at the same time: the saved fields were valid; the request could be submitted; the cabin required review; nothing had been submitted. An assistant ",
       "score": 5,
-      "titleZh": "React Email Verification Needs Typed States"
+      "titleZh": "Prepare a WebMCP Review Without Submitting the Request"
     },
     {
-      "title": "What I learned building a hosted Garmin MCP server",
-      "link": "https://dev.to/svassaux/what-i-learned-building-a-hosted-garmin-mcp-server-efa",
+      "title": "Show DEV: I built GitHub Multiverse — a Decentraland-style 3D virtual world where devs walk as 3D mouse cursors",
+      "link": "https://dev.to/favoritedevx/show-dev-i-built-github-multiverse-a-decentraland-style-3d-virtual-world-where-devs-walk-as-3d-4l3c",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:16:16 +0000",
+      "summary": "Hey devs! 👋 🌐 Try it Live & Explore the Code • Live Multiplayer Server: COLE AQUI O SEU LINK DO RENDER 🚀 What can you do inside? • Explore Genesis City: Spawn at Genesis Plaza, ride the Multiverse ",
+      "score": 5,
+      "titleZh": "Show DEV: I built GitHub Multiverse — a Decentraland-style 3D virtual world where devs walk as 3D mouse cursors"
+    },
+    {
+      "title": "AI-Assisted Laravel Development: CLAUDE.md + Laravel Boost",
+      "link": "https://dev.to/itxshakil/ai-assisted-laravel-development-claudemd-laravel-boost-2c6j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 17:23:03 +0000",
-      "summary": "I run garmlink.ai, a free service that lets an AI assistant read your Garmin Connect data. It is a hosted MCP server: you paste one address into your assistant, sign in, and ask questions about your s",
+      "date": "Sat, 14 Nov 2026 16:14:27 +0000",
+      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 26 of 35 Level: Intermediate Prerequisites: None How to structure your codebase so AI coding tools actually help What CLAUDE.md / ",
       "score": 5,
-      "titleZh": "What I learned building a hosted Garmin MCP server"
+      "titleZh": "AI-Assisted Laravel Development: CLAUDE.md + Laravel Boost"
     },
     {
-      "title": "Shopify Theme Audit Skill for Claude Code: audit any theme in 90 seconds",
-      "link": "https://dev.to/tanuj_rajput/shopify-theme-audit-skill-for-claude-code-audit-any-theme-in-90-seconds-43d6",
+      "title": "Laravel CI/CD with GitHub Actions: Test & Deploy (Guide)",
+      "link": "https://dev.to/itxshakil/laravel-cicd-with-github-actions-test-deploy-guide-4hhb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 13 Nov 2026 17:21:43 +0000",
-      "summary": "A Shopify theme audit skill is a Claude Code skill — a small set of markdown instruction files — that teaches Claude Code to audit any Shopify theme the way a senior Shopify developer would. It runs l",
+      "date": "Sat, 14 Nov 2026 16:11:44 +0000",
+      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 24 of 35 Level: Intermediate Prerequisites: None The two-pipeline structure: ci.yml and quality.yml Why separating fast feedback f",
       "score": 5,
-      "titleZh": "Shopify Theme Audit Skill for Claude Code: audit any theme in 90 seconds"
+      "titleZh": "Laravel CI/CD with GitHub Actions: Test & Deploy (Guide)"
+    },
+    {
+      "title": "Laravel Notifications vs Mailables: Which to Use (+ Audit)",
+      "link": "https://dev.to/itxshakil/laravel-notifications-vs-mailables-which-to-use-audit-3i5b",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:10:22 +0000",
+      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 23 of 35 Level: Intermediate Prerequisites: Events and Listeners Notification vs. Mailable – when to use each Building multi-chann",
+      "score": 5,
+      "titleZh": "Laravel Notifications vs Mailables: Which to Use (+ Audit)"
+    },
+    {
+      "title": "AI-Powered Web Development in 2026: How Artificial Intelligence Is Changing the Future of Websites",
+      "link": "https://dev.to/created_byshifa_cccf5e30/ai-powered-web-development-in-2026-how-artificial-intelligence-is-changing-the-future-of-websites-595c",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:09:47 +0000",
+      "summary": "Introduction For businesses looking to grow online, having a modern website is no longer just an option. Choosing the Best Web Developer in Malappuram can help create a professional website that combi",
+      "score": 5,
+      "titleZh": "AI-Powered Web Development in 2026: How Artificial Intelligence Is Changing the Future of Websites"
+    },
+    {
+      "title": "From curl to Python requests: A Flag-by-Flag Conversion Guide",
+      "link": "https://dev.to/leftzzzz/from-curl-to-python-requests-a-flag-by-flag-conversion-guide-389e",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:09:21 +0000",
+      "summary": "Originally published on iLoveDevTool. Right-click a request in browser DevTools, choose \"Copy as cURL\", and you get a complete command: URL, headers, body, cookies — everything. The next step is usual",
+      "score": 5,
+      "titleZh": "From curl to Python requests: A Flag-by-Flag Conversion Guide"
+    },
+    {
+      "title": "Laravel Excel Exports: The BaseExport Pattern (Reusable)",
+      "link": "https://dev.to/itxshakil/laravel-excel-exports-the-baseexport-pattern-reusable-1co1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:09:14 +0000",
+      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 22 of 35 Level: Intermediate Prerequisites: Jobs and Queues The BaseExport abstract class pattern Collection exports for small dat",
+      "score": 5,
+      "titleZh": "Laravel Excel Exports: The BaseExport Pattern (Reusable)"
+    },
+    {
+      "title": "Gravity Forge — a browser game in one folder",
+      "link": "https://dev.to/playgamalabs/gravity-forge-a-browser-game-in-one-folder-52e5",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:08:43 +0000",
+      "summary": "Small, self-contained browser game: You don't move objects — you bend space Star cores fall from the sky and you never touch them — you bend the space around them. Place gravity nodes that curve the f",
+      "score": 5,
+      "titleZh": "Gravity Forge — a browser game in one folder"
+    },
+    {
+      "title": "CSRF in 2026: SameSite, Fetch Metadata & Origin Checks",
+      "link": "https://dev.to/muhammadalimughal/csrf-in-2026-samesite-fetch-metadata-origin-checks-1nm1",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 14 Nov 2026 16:08:16 +0000",
+      "summary": "Earlier this year I reviewed a Node admin panel whose team told me, confidently, that CSRF was \"solved by SameSite\". They were half right. Their session cookie was SameSite=Lax, which blocks most cros",
+      "score": 5,
+      "titleZh": "CSRF in 2026: SameSite, Fetch Metadata & Origin Checks"
     }
   ]
 }
