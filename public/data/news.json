@@ -1,57 +1,45 @@
 {
-  "updated": "2026-11-14T16:22:40.162Z",
-  "date": "2026-11-14",
+  "updated": "2026-11-15T04:51:15.404Z",
+  "date": "2026-11-15",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sat, 14 Nov 2026 02:52:59 +0000",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251",
-      "score": 892,
-      "titleZh": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs"
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 13 Nov 2026 15:08:44 +0000",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658",
-      "score": 414,
-      "titleZh": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]"
-    },
-    {
-      "title": "Generative AI uses more energy on non-English text",
-      "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 10 Nov 2026 15:07:28 +0000",
-      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444",
-      "score": 74,
-      "titleZh": "Generative AI uses more energy on non-English text"
-    },
-    {
-      "title": "Ethical Alternatives to Kaggle [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
+      "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-14T16:20:55.000Z",
-      "summary": "I personally find it unconscionable to mandate biometric verification - with a controversial vendor on the top of that - to access a competition. Not to cash a prize, just to submit a solution. What a",
+      "date": "2026-11-14T23:59:28.000Z",
+      "summary": "Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotating music on a beat-",
       "score": 40,
-      "titleZh": "Ethical Alternatives to Kaggle [D]"
+      "titleZh": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]"
+    },
+    {
+      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-14T20:33:14.000Z",
+      "summary": "Crawled from OpenReview, titles matched to arXiv, then affiliated with OpenAlex submitted by /u/No-Lab4175 [link] [comments]",
+      "score": 40,
+      "titleZh": "ICLR 2027 Initial Review Scores ranked by University [N]"
+    },
+    {
+      "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-14T16:23:34.000Z",
+      "summary": "been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and ",
+      "score": 40,
+      "titleZh": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]"
     },
     {
       "title": "ICLR 2027 Rebuttal [D]",
@@ -64,18 +52,6 @@
       "summary": "For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can’t seem to see any ",
       "score": 40,
       "titleZh": "ICLR 2027 Rebuttal [D]"
-    },
-    {
-      "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-14T14:31:29.000Z",
-      "summary": "is there any chance those models are going to be deployed for real? submitted by /u/rottoneuro [link] [comments]",
-      "score": 40,
-      "titleZh": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]"
     },
     {
       "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
@@ -102,18 +78,6 @@
       "titleZh": "ICLR rebuttal [R]"
     },
     {
-      "title": "ICML 2027 Changes [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-13T21:53:39.000Z",
-      "summary": "Just read the ICML 2027 CFP and it looks like they’re trying to tackle the submission explosion in a reasonable way. Under the new two-stage process, the area chair decides whether a paper goes to ful",
-      "score": 40,
-      "titleZh": "ICML 2027 Changes [D]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -126,124 +90,160 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "Prepare a WebMCP Review Without Submitting the Request",
-      "link": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n",
-      "source": "Dev.to TS",
+      "title": "[D] Self-Promotion Thread",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-02T03:15:07.000Z",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "score": 40,
+      "titleZh": "[D] Self-Promotion Thread"
+    },
+    {
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "link": "https://arxiv.org/abs/2611.14544",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. Th",
+      "score": 5,
+      "titleZh": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets"
+    },
+    {
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "link": "https://arxiv.org/abs/2611.14654",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides wha",
+      "score": 5,
+      "titleZh": "Cleaning an Agent's History Hurts When the World Still Holds the Error"
+    },
+    {
+      "title": "Dark mode support on IE5.5",
+      "link": "https://www.reddit.com/r/webdev/comments/1xwbwnh/dark_mode_support_on_ie55/",
+      "source": "Reddit WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 14 Nov 2026 16:18:00 +0000",
-      "summary": "A business-class trip in my demo produced four facts at the same time: the saved fields were valid; the request could be submitted; the cabin required review; nothing had been submitted. An assistant ",
-      "score": 5,
-      "titleZh": "Prepare a WebMCP Review Without Submitting the Request"
+      "date": "2026-11-14T20:05:31.000Z",
+      "summary": "submitted by /u/kinsleythedev [link] [comments]",
+      "score": 40,
+      "titleZh": "Dark mode support on IE5.5"
     },
     {
-      "title": "Show DEV: I built GitHub Multiverse — a Decentraland-style 3D virtual world where devs walk as 3D mouse cursors",
-      "link": "https://dev.to/favoritedevx/show-dev-i-built-github-multiverse-a-decentraland-style-3d-virtual-world-where-devs-walk-as-3d-4l3c",
+      "title": "Minium: A CSS library for semantic HTML, with layouts and components when you need them",
+      "link": "https://www.reddit.com/r/webdev/comments/1xwbocv/minium_a_css_library_for_semantic_html_with/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-14T19:56:01.000Z",
+      "summary": "I've built a personal CSS framework for around 3 years. Minium is the cleaned-up, public version, and I finally feel it's finished enough to share. Plain HTML looks good without classes, and one class",
+      "score": 40,
+      "titleZh": "Minium: A CSS library for semantic HTML, with layouts and components when you need them"
+    },
+    {
+      "title": "[Showoff Saturday] My team at Chrome worked with Edge, Firefox, and MDN on a skill to teach coding agents modern web best practices",
+      "link": "https://www.reddit.com/r/webdev/comments/1xw9yw4/showoff_saturday_my_team_at_chrome_worked_with/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-14T18:45:32.000Z",
+      "summary": "Coding agents know modern HTML and CSS exist, but they keep writing outdated code. So on Tuesday we released the first stable version of Modern Web Guidance, a free and open source skill you install i",
+      "score": 40,
+      "titleZh": "[Showoff Saturday] My team at Chrome worked with Edge, Firefox, and MDN on a skill to teach coding agents modern web best practices"
+    },
+    {
+      "title": "how do you know if you need redis?",
+      "link": "https://www.reddit.com/r/webdev/comments/1xw8owi/how_do_you_know_if_you_need_redis/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-14T17:54:29.000Z",
+      "summary": "i'm speaking as someone who has never touched it before. i understand i might not need it at the moment because any site i build could probably handle repeated queries simply because the traffic would",
+      "score": 40,
+      "titleZh": "how do you know if you need redis?"
+    },
+    {
+      "title": "modest-ui: classless CSS that styles plain HTML",
+      "link": "https://www.reddit.com/r/webdev/comments/1xw5p0j/modestui_classless_css_that_styles_plain_html/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-14T15:53:02.000Z",
+      "summary": "I’ve been building websites for over a decade, and have always tried to do things as vanilla as possible (where applicable). More recently whilst building components and looking at the libraries out t",
+      "score": 40,
+      "titleZh": "modest-ui: classless CSS that styles plain HTML"
+    },
+    {
+      "title": "Open-source web analytics with session replay, error tracking, Web Vitals, uptime monitoring and status pages",
+      "link": "https://www.reddit.com/r/webdev/comments/1xw4v0x/opensource_web_analytics_with_session_replay/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-14T15:17:50.000Z",
+      "summary": "Hey r/webdev! We're a small team of 3 building Betterlytics, an open-source web analytics tool. Over the past year and a half, we've also had contributions from 10 other people, which has been really ",
+      "score": 40,
+      "titleZh": "Open-source web analytics with session replay, error tracking, Web Vitals, uptime monitoring and status pages"
+    },
+    {
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "link": "https://www.reddit.com/r/webdev/comments/1w49w0r/monthly_getting_started_web_dev_career_thread/",
+      "source": "Reddit WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-09-01T12:00:19.000Z",
+      "summary": "Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will",
+      "score": 40,
+      "titleZh": "Monthly Getting Started / Web Dev Career Thread"
+    },
+    {
+      "title": "How async/await Really Works: From Syntax Sugar to State Machines",
+      "link": "https://dev.to/alysaa_lissy/how-asyncawait-really-works-from-syntax-sugar-to-state-machines-3mkp",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 14 Nov 2026 16:16:16 +0000",
-      "summary": "Hey devs! 👋 🌐 Try it Live & Explore the Code • Live Multiplayer Server: COLE AQUI O SEU LINK DO RENDER 🚀 What can you do inside? • Explore Genesis City: Spawn at Genesis Plaza, ride the Multiverse ",
+      "date": "Sun, 15 Nov 2026 04:48:17 +0000",
+      "summary": "TL;DR An async function runs synchronously until its first await, then hands back a Promise. await pauses the function and schedules \"the rest of the function\" to run as a microtask once the awaited p",
       "score": 5,
-      "titleZh": "Show DEV: I built GitHub Multiverse — a Decentraland-style 3D virtual world where devs walk as 3D mouse cursors"
+      "titleZh": "How async/await Really Works: From Syntax Sugar to State Machines"
     },
     {
-      "title": "AI-Assisted Laravel Development: CLAUDE.md + Laravel Boost",
-      "link": "https://dev.to/itxshakil/ai-assisted-laravel-development-claudemd-laravel-boost-2c6j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 14 Nov 2026 16:14:27 +0000",
-      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 26 of 35 Level: Intermediate Prerequisites: None How to structure your codebase so AI coding tools actually help What CLAUDE.md / ",
-      "score": 5,
-      "titleZh": "AI-Assisted Laravel Development: CLAUDE.md + Laravel Boost"
-    },
-    {
-      "title": "Laravel CI/CD with GitHub Actions: Test & Deploy (Guide)",
-      "link": "https://dev.to/itxshakil/laravel-cicd-with-github-actions-test-deploy-guide-4hhb",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 14 Nov 2026 16:11:44 +0000",
-      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 24 of 35 Level: Intermediate Prerequisites: None The two-pipeline structure: ci.yml and quality.yml Why separating fast feedback f",
-      "score": 5,
-      "titleZh": "Laravel CI/CD with GitHub Actions: Test & Deploy (Guide)"
-    },
-    {
-      "title": "Laravel Notifications vs Mailables: Which to Use (+ Audit)",
-      "link": "https://dev.to/itxshakil/laravel-notifications-vs-mailables-which-to-use-audit-3i5b",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 14 Nov 2026 16:10:22 +0000",
-      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 23 of 35 Level: Intermediate Prerequisites: Events and Listeners Notification vs. Mailable – when to use each Building multi-chann",
-      "score": 5,
-      "titleZh": "Laravel Notifications vs Mailables: Which to Use (+ Audit)"
-    },
-    {
-      "title": "AI-Powered Web Development in 2026: How Artificial Intelligence Is Changing the Future of Websites",
-      "link": "https://dev.to/created_byshifa_cccf5e30/ai-powered-web-development-in-2026-how-artificial-intelligence-is-changing-the-future-of-websites-595c",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 14 Nov 2026 16:09:47 +0000",
-      "summary": "Introduction For businesses looking to grow online, having a modern website is no longer just an option. Choosing the Best Web Developer in Malappuram can help create a professional website that combi",
-      "score": 5,
-      "titleZh": "AI-Powered Web Development in 2026: How Artificial Intelligence Is Changing the Future of Websites"
-    },
-    {
-      "title": "From curl to Python requests: A Flag-by-Flag Conversion Guide",
-      "link": "https://dev.to/leftzzzz/from-curl-to-python-requests-a-flag-by-flag-conversion-guide-389e",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 14 Nov 2026 16:09:21 +0000",
-      "summary": "Originally published on iLoveDevTool. Right-click a request in browser DevTools, choose \"Copy as cURL\", and you get a complete command: URL, headers, body, cookies — everything. The next step is usual",
-      "score": 5,
-      "titleZh": "From curl to Python requests: A Flag-by-Flag Conversion Guide"
-    },
-    {
-      "title": "Laravel Excel Exports: The BaseExport Pattern (Reusable)",
-      "link": "https://dev.to/itxshakil/laravel-excel-exports-the-baseexport-pattern-reusable-1co1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 14 Nov 2026 16:09:14 +0000",
-      "summary": "Series: Every Laravel Project Should Have These Building Blocks Part: 22 of 35 Level: Intermediate Prerequisites: Jobs and Queues The BaseExport abstract class pattern Collection exports for small dat",
-      "score": 5,
-      "titleZh": "Laravel Excel Exports: The BaseExport Pattern (Reusable)"
-    },
-    {
-      "title": "Gravity Forge — a browser game in one folder",
-      "link": "https://dev.to/playgamalabs/gravity-forge-a-browser-game-in-one-folder-52e5",
+      "title": "How a JavaScript Bundler Works",
+      "link": "https://dev.to/alysaa_lissy/how-a-javascript-bundler-works-4jln",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 14 Nov 2026 16:08:43 +0000",
-      "summary": "Small, self-contained browser game: You don't move objects — you bend space Star cores fall from the sky and you never touch them — you bend the space around them. Place gravity nodes that curve the f",
+      "date": "Sun, 15 Nov 2026 04:47:09 +0000",
+      "summary": "TL;DR A bundler starts at an entry file, follows every import to build a dependency graph, then packs the modules into one or a few files. The output is mostly an object of module functions plus a ten",
       "score": 5,
-      "titleZh": "Gravity Forge — a browser game in one folder"
+      "titleZh": "How a JavaScript Bundler Works"
     },
     {
-      "title": "CSRF in 2026: SameSite, Fetch Metadata & Origin Checks",
-      "link": "https://dev.to/muhammadalimughal/csrf-in-2026-samesite-fetch-metadata-origin-checks-1nm1",
+      "title": "Modern TypeScript: ?., ?? and satisfies without formatting errors",
+      "link": "https://dev.to/jwsolutions/modern-typescript-and-satisfies-without-formatting-errors-4925",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 14 Nov 2026 16:08:16 +0000",
-      "summary": "Earlier this year I reviewed a Node admin panel whose team told me, confidently, that CSRF was \"solved by SameSite\". They were half right. Their session cookie was SameSite=Lax, which blocks most cros",
+      "date": "Sun, 15 Nov 2026 04:41:58 +0000",
+      "summary": "Tip of the week Three operators cut defensive code: optional chaining ?., nullish coalescing ?? and TypeScript 4.9+'s satisfies operator, which checks the type without widening the value. const config",
       "score": 5,
-      "titleZh": "CSRF in 2026: SameSite, Fetch Metadata & Origin Checks"
+      "titleZh": "Modern TypeScript: ?., ?? and satisfies without formatting errors"
     }
   ]
 }
