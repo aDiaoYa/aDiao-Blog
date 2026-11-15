@@ -1,21 +1,93 @@
 {
-  "updated": "2026-11-15T04:51:15.404Z",
+  "updated": "2026-11-15T16:48:52.459Z",
   "date": "2026-11-15",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
+      "title": "All AI-generated code should be Open Source",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 15 Nov 2026 14:46:58 +0000",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303",
+      "score": 302,
+      "titleZh": "All AI-generated code should be Open Source"
+    },
+    {
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 12 Nov 2026 05:29:24 +0000",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399",
+      "score": 47,
+      "titleZh": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]"
+    },
+    {
+      "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-14T23:59:28.000Z",
-      "summary": "Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotating music on a beat-",
+      "date": "2026-11-15T16:45:14.000Z",
+      "summary": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence submitted by /u/harrydong [link] [comments]",
       "score": 40,
-      "titleZh": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]"
+      "titleZh": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]"
+    },
+    {
+      "title": "Marimba: a System One model for speech [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-15T16:30:09.000Z",
+      "summary": "Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and langua",
+      "score": 40,
+      "titleZh": "Marimba: a System One model for speech [R]"
+    },
+    {
+      "title": "I don't think double-blind review systems work [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-15T13:00:15.000Z",
+      "summary": "Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewer",
+      "score": 40,
+      "titleZh": "I don't think double-blind review systems work [D]"
+    },
+    {
+      "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-15T12:03:27.000Z",
+      "summary": "Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statement by statement. Fo",
+      "score": 40,
+      "titleZh": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]"
+    },
+    {
+      "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-15T09:05:22.000Z",
+      "summary": "Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted pa",
+      "score": 40,
+      "titleZh": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]"
     },
     {
       "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
@@ -28,54 +100,6 @@
       "summary": "Crawled from OpenReview, titles matched to arXiv, then affiliated with OpenAlex submitted by /u/No-Lab4175 [link] [comments]",
       "score": 40,
       "titleZh": "ICLR 2027 Initial Review Scores ranked by University [N]"
-    },
-    {
-      "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-14T16:23:34.000Z",
-      "summary": "been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and ",
-      "score": 40,
-      "titleZh": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]"
-    },
-    {
-      "title": "ICLR 2027 Rebuttal [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-14T16:00:01.000Z",
-      "summary": "For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can’t seem to see any ",
-      "score": 40,
-      "titleZh": "ICLR 2027 Rebuttal [D]"
-    },
-    {
-      "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-14T14:28:42.000Z",
-      "summary": "I received this mail which said \"Please upload your poster and thumbnail by clicking on the poster upload page link on the paper metadata page.\" The mail contains 15th November as a date, do we really",
-      "score": 40,
-      "titleZh": "Is it compulsory to upload neurips poster by 15th Nov? [D]"
-    },
-    {
-      "title": "ICLR rebuttal [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-14T12:29:37.000Z",
-      "summary": "I'm about to submit my iclr rebuttal, and I was wondering if it's okay to highlight the changes I've made to my manuscript using a different text color to make them easier for the reviewers to identif",
-      "score": 40,
-      "titleZh": "ICLR rebuttal [R]"
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -102,148 +126,124 @@
       "titleZh": "[D] Self-Promotion Thread"
     },
     {
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "link": "https://arxiv.org/abs/2611.14544",
-      "source": "ArXiv AI",
+      "title": "Access Control and Secrets Hygiene for Small Teams",
+      "link": "https://dev.to/palmatesolutions/access-control-and-secrets-hygiene-for-small-teams-3lcb",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. Th",
+      "date": "Sun, 15 Nov 2026 16:48:16 +0000",
+      "summary": "Most small-company security incidents are not cinematic zero-day exploits orchestrated by foreign state actors. They are mundane, preventable operational oversights: a departed contractor who still ho",
       "score": 5,
-      "titleZh": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets"
+      "titleZh": "Access Control and Secrets Hygiene for Small Teams"
     },
     {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "link": "https://arxiv.org/abs/2611.14654",
-      "source": "ArXiv AI",
+      "title": "A Practical Guide to Choosing Between a VPS and Cloud Hosting",
+      "link": "https://dev.to/palmatesolutions/a-practical-guide-to-choosing-between-a-vps-and-cloud-hosting-5cfi",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides wha",
+      "date": "Sun, 15 Nov 2026 16:48:15 +0000",
+      "summary": "“Cloud” and “VPS” are sold as identities. In practice they are different ways to rent a computer and a network, with different bills, failure modes, and homework. The wrong choice is not usually “we p",
       "score": 5,
-      "titleZh": "Cleaning an Agent's History Hurts When the World Still Holds the Error"
+      "titleZh": "A Practical Guide to Choosing Between a VPS and Cloud Hosting"
     },
     {
-      "title": "Dark mode support on IE5.5",
-      "link": "https://www.reddit.com/r/webdev/comments/1xwbwnh/dark_mode_support_on_ie55/",
-      "source": "Reddit WebDev",
+      "title": "Dev News Digest: 15 Nov 2026, 18:00",
+      "link": "https://dev.to/magnus_ferm/dev-news-digest-15-nov-2026-1800-55el",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-14T20:05:31.000Z",
-      "summary": "submitted by /u/kinsleythedev [link] [comments]",
-      "score": 40,
-      "titleZh": "Dark mode support on IE5.5"
+      "date": "Sun, 15 Nov 2026 16:47:31 +0000",
+      "summary": "A quick roundup of developer news since the last digest. Fable 5.2 vs. Opus 5.5 in hands-on tests: Anthropic's own benchmarks put Claude Fable 5.2 ahead of Opus 5.5, yet it still recommends Opus as th",
+      "score": 5,
+      "titleZh": "Dev News Digest: 15 Nov 2026, 18:00"
     },
     {
-      "title": "Minium: A CSS library for semantic HTML, with layouts and components when you need them",
-      "link": "https://www.reddit.com/r/webdev/comments/1xwbocv/minium_a_css_library_for_semantic_html_with/",
-      "source": "Reddit WebDev",
+      "title": "How I built a 1.8-second B2B Lead Scraper & 18-Signal Telemetry Auditor (Zero Headless Chrome)",
+      "link": "https://dev.to/buisness/how-i-built-a-18-second-b2b-lead-scraper-18-signal-telemetry-auditor-zero-headless-chrome-12h1",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-14T19:56:01.000Z",
-      "summary": "I've built a personal CSS framework for around 3 years. Minium is the cleaned-up, public version, and I finally feel it's finished enough to share. Plain HTML looks good without classes, and one class",
-      "score": 40,
-      "titleZh": "Minium: A CSS library for semantic HTML, with layouts and components when you need them"
+      "date": "Sun, 15 Nov 2026 16:46:00 +0000",
+      "summary": "Most website audit and B2B lead enrichment tools rely on heavy Headless Chrome queues that take 30–45 seconds per domain and cost hundreds of dollars a month in server overhead. I wanted to build an i",
+      "score": 5,
+      "titleZh": "How I built a 1.8-second B2B Lead Scraper & 18-Signal Telemetry Auditor (Zero Headless Chrome)"
     },
     {
-      "title": "[Showoff Saturday] My team at Chrome worked with Edge, Firefox, and MDN on a skill to teach coding agents modern web best practices",
-      "link": "https://www.reddit.com/r/webdev/comments/1xw9yw4/showoff_saturday_my_team_at_chrome_worked_with/",
-      "source": "Reddit WebDev",
+      "title": "Building Secure Node.js APIs: Best Practices for Robust Application Protection",
+      "link": "https://dev.to/mtahir27/building-secure-nodejs-apis-best-practices-for-robust-application-protection-c8",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-14T18:45:32.000Z",
-      "summary": "Coding agents know modern HTML and CSS exist, but they keep writing outdated code. So on Tuesday we released the first stable version of Modern Web Guidance, a free and open source skill you install i",
-      "score": 40,
-      "titleZh": "[Showoff Saturday] My team at Chrome worked with Edge, Firefox, and MDN on a skill to teach coding agents modern web best practices"
+      "date": "Sun, 15 Nov 2026 16:44:29 +0000",
+      "summary": "Introduction: The Imperative of API Security In the rapidly evolving landscape of web development, APIs serve as the backbone of modern applications, facilitating seamless communication between divers",
+      "score": 5,
+      "titleZh": "Building Secure Node.js APIs: Best Practices for Robust Application Protection"
     },
     {
-      "title": "how do you know if you need redis?",
-      "link": "https://www.reddit.com/r/webdev/comments/1xw8owi/how_do_you_know_if_you_need_redis/",
-      "source": "Reddit WebDev",
+      "title": "You built a website with Claude. What is still missing?",
+      "link": "https://dev.to/cleverpage/you-built-a-website-with-claude-what-is-still-missing-2aa1",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-14T17:54:29.000Z",
-      "summary": "i'm speaking as someone who has never touched it before. i understand i might not need it at the moment because any site i build could probably handle repeated queries simply because the traffic would",
-      "score": 40,
-      "titleZh": "how do you know if you need redis?"
+      "date": "Sun, 15 Nov 2026 16:43:14 +0000",
+      "summary": "Claude built you a website in an hour. It looks good, it runs on your machine, and the client loves it. Then comes the question the draft has no answer for: how does this become a website that is onli",
+      "score": 5,
+      "titleZh": "You built a website with Claude. What is still missing?"
     },
     {
-      "title": "modest-ui: classless CSS that styles plain HTML",
-      "link": "https://www.reddit.com/r/webdev/comments/1xw5p0j/modestui_classless_css_that_styles_plain_html/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-14T15:53:02.000Z",
-      "summary": "I’ve been building websites for over a decade, and have always tried to do things as vanilla as possible (where applicable). More recently whilst building components and looking at the libraries out t",
-      "score": 40,
-      "titleZh": "modest-ui: classless CSS that styles plain HTML"
-    },
-    {
-      "title": "Open-source web analytics with session replay, error tracking, Web Vitals, uptime monitoring and status pages",
-      "link": "https://www.reddit.com/r/webdev/comments/1xw4v0x/opensource_web_analytics_with_session_replay/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-14T15:17:50.000Z",
-      "summary": "Hey r/webdev! We're a small team of 3 building Betterlytics, an open-source web analytics tool. Over the past year and a half, we've also had contributions from 10 other people, which has been really ",
-      "score": 40,
-      "titleZh": "Open-source web analytics with session replay, error tracking, Web Vitals, uptime monitoring and status pages"
-    },
-    {
-      "title": "Monthly Getting Started / Web Dev Career Thread",
-      "link": "https://www.reddit.com/r/webdev/comments/1w49w0r/monthly_getting_started_web_dev_career_thread/",
-      "source": "Reddit WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-09-01T12:00:19.000Z",
-      "summary": "Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will",
-      "score": 40,
-      "titleZh": "Monthly Getting Started / Web Dev Career Thread"
-    },
-    {
-      "title": "How async/await Really Works: From Syntax Sugar to State Machines",
-      "link": "https://dev.to/alysaa_lissy/how-asyncawait-really-works-from-syntax-sugar-to-state-machines-3mkp",
+      "title": "How to calculate print PPI after a Canvas crop",
+      "link": "https://dev.to/voltwake/how-to-calculate-print-ppi-after-a-canvas-crop-1lii",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 15 Nov 2026 04:48:17 +0000",
-      "summary": "TL;DR An async function runs synchronously until its first await, then hands back a Promise. await pauses the function and schedules \"the rest of the function\" to run as a microtask once the awaited p",
+      "date": "Sun, 15 Nov 2026 16:40:42 +0000",
+      "summary": "A 6,000 × 4,000 px landscape photo has 600 source pixels per inch at 10 inches wide. But if you want it to fill a 10 × 8-inch print, the photo's 3:2 rectangle is wider than the 5:4 print. A full-bleed",
       "score": 5,
-      "titleZh": "How async/await Really Works: From Syntax Sugar to State Machines"
+      "titleZh": "How to calculate print PPI after a Canvas crop"
     },
     {
-      "title": "How a JavaScript Bundler Works",
-      "link": "https://dev.to/alysaa_lissy/how-a-javascript-bundler-works-4jln",
+      "title": "I Built a 3D Chord Progression Generator That Visualizes Music Theory in Your Browser",
+      "link": "https://dev.to/julianneagu/i-built-a-3d-chord-progression-generator-that-visualizes-music-theory-in-your-browser-112i",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 15 Nov 2026 04:47:09 +0000",
-      "summary": "TL;DR A bundler starts at an entry file, follows every import to build a dependency graph, then packs the modules into one or a few files. The output is mostly an object of module functions plus a ten",
+      "date": "Sun, 15 Nov 2026 16:36:51 +0000",
+      "summary": "TL;DR: Music theory is hard to visualize. The 3D Chord Progression Generator makes chords visible on a 3D keyboard, generates progressions by mood, and shows wave harmonics alongside traditional theor",
       "score": 5,
-      "titleZh": "How a JavaScript Bundler Works"
+      "titleZh": "I Built a 3D Chord Progression Generator That Visualizes Music Theory in Your Browser"
     },
     {
-      "title": "Modern TypeScript: ?., ?? and satisfies without formatting errors",
-      "link": "https://dev.to/jwsolutions/modern-typescript-and-satisfies-without-formatting-errors-4925",
+      "title": "Moving a browser game's controls into the arena",
+      "link": "https://dev.to/alwaysaladdin/moving-a-browser-games-controls-into-the-arena-2p1m",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 15 Nov 2026 04:41:58 +0000",
-      "summary": "Tip of the week Three operators cut defensive code: optional chaining ?., nullish coalescing ?? and TypeScript 4.9+'s satisfies operator, which checks the type without widening the value. const config",
+      "date": "Sun, 15 Nov 2026 16:36:37 +0000",
+      "summary": "A timing game can have simple rules and still make the player look in too many places. That was the problem I worked through while building SlapLoop, a free cartoon browser game against the CPU. The e",
       "score": 5,
-      "titleZh": "Modern TypeScript: ?., ?? and satisfies without formatting errors"
+      "titleZh": "Moving a browser game's controls into the arena"
+    },
+    {
+      "title": "Want to build a browser extension? If you know JavaScript, you’re already most of the way there.",
+      "link": "https://dev.to/hridoy_dev/want-to-build-a-browser-extension-if-you-know-javascript-youre-already-most-of-the-way-there-1lml",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 15 Nov 2026 16:34:31 +0000",
+      "summary": "Browser extensions are one of the most underrated things a web developer can build. They’re small, useful, and you can ship one fast. Here’s what helped me understand them. What an extension is made o",
+      "score": 5,
+      "titleZh": "Want to build a browser extension? If you know JavaScript, you’re already most of the way there."
     }
   ]
 }
