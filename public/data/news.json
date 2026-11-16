@@ -1,57 +1,81 @@
 {
-  "updated": "2026-11-15T16:48:52.459Z",
-  "date": "2026-11-15",
+  "updated": "2026-11-16T20:00:25.676Z",
+  "date": "2026-11-16",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "All AI-generated code should be Open Source",
-      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 15 Nov 2026 14:46:58 +0000",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303",
-      "score": 302,
-      "titleZh": "All AI-generated code should be Open Source"
-    },
-    {
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 12 Nov 2026 05:29:24 +0000",
-      "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399",
-      "score": 47,
-      "titleZh": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]"
-    },
-    {
-      "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/",
+      "title": "Layer-hot decoding: an approach to check a guessed token while each layer's weights are already loaded on an Apple M4. It ran slow. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxw87p/layerhot_decoding_an_approach_to_check_a_guessed/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-15T16:45:14.000Z",
-      "summary": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence submitted by /u/harrydong [link] [comments]",
+      "date": "2026-11-16T17:57:52.000Z",
+      "summary": "Language models read all their weights from memory once for every word they write. I tested whether a second, guessed word could ride along in the same read for almost no extra cost. The full model ch",
       "score": 40,
-      "titleZh": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]"
+      "titleZh": "Layer-hot decoding: an approach to check a guessed token while each layer's weights are already loaded on an Apple M4. It ran slow. [R]"
     },
     {
-      "title": "Marimba: a System One model for speech [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
+      "title": "Serious spaces? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-15T16:30:09.000Z",
-      "summary": "Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and langua",
+      "date": "2026-11-16T17:23:56.000Z",
+      "summary": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more",
       "score": 40,
-      "titleZh": "Marimba: a System One model for speech [R]"
+      "titleZh": "Serious spaces? [D]"
+    },
+    {
+      "title": "Marimba: A System One Model for Speech. [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-16T15:47:18.000Z",
+      "summary": "Paper: https://arxiv.org/abs/2611.18330 Follow-up to last week's post, now with the paper. You ask a typed question about an audio window (yes/no, a choice, or a score) and get a calibrated probabilit",
+      "score": 40,
+      "titleZh": "Marimba: A System One Model for Speech. [R]"
+    },
+    {
+      "title": "AISTATS 2027 paper discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-16T14:09:31.000Z",
+      "summary": "Creating this post since the reviews are supposed to go live today. What do you guys think? submitted by /u/LongjumpingAd4741 [link] [comments]",
+      "score": 40,
+      "titleZh": "AISTATS 2027 paper discussion [D]"
+    },
+    {
+      "title": "ICLR did you post reminder of rebuttal response? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-16T00:42:45.000Z",
+      "summary": "Well, I know they are busy due to the CVPR(So am I). But it's only about few days left and none of the reviewers replied my response. Do you think this is a good time to post a reminder to reviewers? ",
+      "score": 40,
+      "titleZh": "ICLR did you post reminder of rebuttal response? [D]"
+    },
+    {
+      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-15T17:38:16.000Z",
+      "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://u",
+      "score": 40,
+      "titleZh": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]"
     },
     {
       "title": "I don't think double-blind review systems work [D]",
@@ -66,42 +90,6 @@
       "titleZh": "I don't think double-blind review systems work [D]"
     },
     {
-      "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-15T12:03:27.000Z",
-      "summary": "Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statement by statement. Fo",
-      "score": 40,
-      "titleZh": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]"
-    },
-    {
-      "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-15T09:05:22.000Z",
-      "summary": "Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted pa",
-      "score": 40,
-      "titleZh": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]"
-    },
-    {
-      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-14T20:33:14.000Z",
-      "summary": "Crawled from OpenReview, titles matched to arXiv, then affiliated with OpenAlex submitted by /u/No-Lab4175 [link] [comments]",
-      "score": 40,
-      "titleZh": "ICLR 2027 Initial Review Scores ranked by University [N]"
-    },
-    {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "source": "Reddit ML",
@@ -114,136 +102,148 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-      "source": "Reddit ML",
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-02T03:15:07.000Z",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "score": 5,
+      "titleZh": "Broadening access to AI for scientists"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "score": 5,
+      "titleZh": "Strengthening the fight against online child sexual abuse with new tools and support"
+    },
+    {
+      "title": "What Happens to Work After a Timeout?",
+      "link": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T19:51:23.000Z",
+      "summary": "submitted by /u/Cool-Click1253 [link] [comments]",
       "score": 40,
-      "titleZh": "[D] Self-Promotion Thread"
+      "titleZh": "What Happens to Work After a Timeout?"
     },
     {
-      "title": "Access Control and Secrets Hygiene for Small Teams",
-      "link": "https://dev.to/palmatesolutions/access-control-and-secrets-hygiene-for-small-teams-3lcb",
+      "title": "“…and the proof is checked in Lean”",
+      "link": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T19:34:22.000Z",
+      "summary": "submitted by /u/mttd [link] [comments]",
+      "score": 40,
+      "titleZh": "“…and the proof is checked in Lean”"
+    },
+    {
+      "title": "Introducing the World's Strongest Sokoban Solver",
+      "link": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T17:56:30.000Z",
+      "summary": "submitted by /u/candurz [link] [comments]",
+      "score": 40,
+      "titleZh": "Introducing the World's Strongest Sokoban Solver"
+    },
+    {
+      "title": "Learning to Code in 2026: The Data",
+      "link": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T16:43:47.000Z",
+      "summary": "submitted by /u/wagslane [link] [comments]",
+      "score": 40,
+      "titleZh": "Learning to Code in 2026: The Data"
+    },
+    {
+      "title": "Microsoft Outage Preliminary Postmortem",
+      "link": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T13:19:47.000Z",
+      "summary": "submitted by /u/ROFLLOLSTER [link] [comments]",
+      "score": 40,
+      "titleZh": "Microsoft Outage Preliminary Postmortem"
+    },
+    {
+      "title": "Ring programming language version 1.28 is released!",
+      "link": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T11:05:11.000Z",
+      "summary": "Hello I have already released Ring 1.28 Ring is a dynamic language with lightweight implementation like Lua but with more features like Python/Ruby. I created it because I was looking for a Visual Fox",
+      "score": 40,
+      "titleZh": "Ring programming language version 1.28 is released!"
+    },
+    {
+      "title": "When Good Practices Become Empty Rituals",
+      "link": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-16T10:36:48.000Z",
+      "summary": "submitted by /u/wordbit12 [link] [comments]",
+      "score": 40,
+      "titleZh": "When Good Practices Become Empty Rituals"
+    },
+    {
+      "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
+      "link": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
+      "source": "Reddit Prog",
+      "tags": [
+        "前端"
+      ],
+      "date": "2026-11-15T15:37:40.000Z",
+      "summary": "Python 3.12 and 3.13 dropped 25 stdlib modules (distutils, imp, cgi, pipes, telnetlib...). This scan of PyPI found 1,623 projects that still import one of them outside a try/except. 852 of those are i",
+      "score": 40,
+      "titleZh": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month"
+    },
+    {
+      "title": "**Choosing a** pay after website is built plan for solo consultants",
+      "link": "https://dev.to/naveed_ahmed_datics/choosing-a-pay-after-website-is-built-plan-for-solo-consultants-3a7g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 15 Nov 2026 16:48:16 +0000",
-      "summary": "Most small-company security incidents are not cinematic zero-day exploits orchestrated by foreign state actors. They are mundane, preventable operational oversights: a departed contractor who still ho",
+      "date": "Mon, 16 Nov 2026 19:58:20 +0000",
+      "summary": "Choosing a pay after website is built plan for solo consultants You Need a Website — But You Can’t Afford a Large Up‑Front Bill You run a solo‑consulting practice. Prospects expect a professional site",
       "score": 5,
-      "titleZh": "Access Control and Secrets Hygiene for Small Teams"
+      "titleZh": "**Choosing a** pay after website is built plan for solo consultants"
     },
     {
-      "title": "A Practical Guide to Choosing Between a VPS and Cloud Hosting",
-      "link": "https://dev.to/palmatesolutions/a-practical-guide-to-choosing-between-a-vps-and-cloud-hosting-5cfi",
-      "source": "Dev.to WebDev",
+      "title": "Unleashing the Edge: Supercharging Next.js Apps with Edge Functions",
+      "link": "https://dev.to/mtahir27/unleashing-the-edge-supercharging-nextjs-apps-with-edge-functions-4f7h",
+      "source": "Dev.to Next.js",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 15 Nov 2026 16:48:15 +0000",
-      "summary": "“Cloud” and “VPS” are sold as identities. In practice they are different ways to rent a computer and a network, with different bills, failure modes, and homework. The wrong choice is not usually “we p",
+      "date": "Mon, 16 Nov 2026 19:57:34 +0000",
+      "summary": "Introduction: The Quest for Zero Latency In today's hyper-connected digital landscape, user expectations for web application speed and responsiveness are at an all-time high. Every millisecond shaved ",
       "score": 5,
-      "titleZh": "A Practical Guide to Choosing Between a VPS and Cloud Hosting"
-    },
-    {
-      "title": "Dev News Digest: 15 Nov 2026, 18:00",
-      "link": "https://dev.to/magnus_ferm/dev-news-digest-15-nov-2026-1800-55el",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:47:31 +0000",
-      "summary": "A quick roundup of developer news since the last digest. Fable 5.2 vs. Opus 5.5 in hands-on tests: Anthropic's own benchmarks put Claude Fable 5.2 ahead of Opus 5.5, yet it still recommends Opus as th",
-      "score": 5,
-      "titleZh": "Dev News Digest: 15 Nov 2026, 18:00"
-    },
-    {
-      "title": "How I built a 1.8-second B2B Lead Scraper & 18-Signal Telemetry Auditor (Zero Headless Chrome)",
-      "link": "https://dev.to/buisness/how-i-built-a-18-second-b2b-lead-scraper-18-signal-telemetry-auditor-zero-headless-chrome-12h1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:46:00 +0000",
-      "summary": "Most website audit and B2B lead enrichment tools rely on heavy Headless Chrome queues that take 30–45 seconds per domain and cost hundreds of dollars a month in server overhead. I wanted to build an i",
-      "score": 5,
-      "titleZh": "How I built a 1.8-second B2B Lead Scraper & 18-Signal Telemetry Auditor (Zero Headless Chrome)"
-    },
-    {
-      "title": "Building Secure Node.js APIs: Best Practices for Robust Application Protection",
-      "link": "https://dev.to/mtahir27/building-secure-nodejs-apis-best-practices-for-robust-application-protection-c8",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:44:29 +0000",
-      "summary": "Introduction: The Imperative of API Security In the rapidly evolving landscape of web development, APIs serve as the backbone of modern applications, facilitating seamless communication between divers",
-      "score": 5,
-      "titleZh": "Building Secure Node.js APIs: Best Practices for Robust Application Protection"
-    },
-    {
-      "title": "You built a website with Claude. What is still missing?",
-      "link": "https://dev.to/cleverpage/you-built-a-website-with-claude-what-is-still-missing-2aa1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:43:14 +0000",
-      "summary": "Claude built you a website in an hour. It looks good, it runs on your machine, and the client loves it. Then comes the question the draft has no answer for: how does this become a website that is onli",
-      "score": 5,
-      "titleZh": "You built a website with Claude. What is still missing?"
-    },
-    {
-      "title": "How to calculate print PPI after a Canvas crop",
-      "link": "https://dev.to/voltwake/how-to-calculate-print-ppi-after-a-canvas-crop-1lii",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:40:42 +0000",
-      "summary": "A 6,000 × 4,000 px landscape photo has 600 source pixels per inch at 10 inches wide. But if you want it to fill a 10 × 8-inch print, the photo's 3:2 rectangle is wider than the 5:4 print. A full-bleed",
-      "score": 5,
-      "titleZh": "How to calculate print PPI after a Canvas crop"
-    },
-    {
-      "title": "I Built a 3D Chord Progression Generator That Visualizes Music Theory in Your Browser",
-      "link": "https://dev.to/julianneagu/i-built-a-3d-chord-progression-generator-that-visualizes-music-theory-in-your-browser-112i",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:36:51 +0000",
-      "summary": "TL;DR: Music theory is hard to visualize. The 3D Chord Progression Generator makes chords visible on a 3D keyboard, generates progressions by mood, and shows wave harmonics alongside traditional theor",
-      "score": 5,
-      "titleZh": "I Built a 3D Chord Progression Generator That Visualizes Music Theory in Your Browser"
-    },
-    {
-      "title": "Moving a browser game's controls into the arena",
-      "link": "https://dev.to/alwaysaladdin/moving-a-browser-games-controls-into-the-arena-2p1m",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:36:37 +0000",
-      "summary": "A timing game can have simple rules and still make the player look in too many places. That was the problem I worked through while building SlapLoop, a free cartoon browser game against the CPU. The e",
-      "score": 5,
-      "titleZh": "Moving a browser game's controls into the arena"
-    },
-    {
-      "title": "Want to build a browser extension? If you know JavaScript, you’re already most of the way there.",
-      "link": "https://dev.to/hridoy_dev/want-to-build-a-browser-extension-if-you-know-javascript-youre-already-most-of-the-way-there-1lml",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 15 Nov 2026 16:34:31 +0000",
-      "summary": "Browser extensions are one of the most underrated things a web developer can build. They’re small, useful, and you can ship one fast. Here’s what helped me understand them. What an extension is made o",
-      "score": 5,
-      "titleZh": "Want to build a browser extension? If you know JavaScript, you’re already most of the way there."
+      "titleZh": "Unleashing the Edge: Supercharging Next.js Apps with Edge Functions"
     }
   ]
 }
