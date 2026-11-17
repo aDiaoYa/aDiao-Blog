@@ -1,21 +1,45 @@
 {
-  "updated": "2026-11-16T20:00:25.676Z",
-  "date": "2026-11-16",
+  "updated": "2026-11-17T06:35:04.718Z",
+  "date": "2026-11-17",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Layer-hot decoding: an approach to check a guessed token while each layer's weights are already loaded on an Apple M4. It ran slow. [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxw87p/layerhot_decoding_an_approach_to_check_a_guessed/",
+      "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
       "source": "Reddit ML",
       "tags": [
         "AI"
       ],
-      "date": "2026-11-16T17:57:52.000Z",
-      "summary": "Language models read all their weights from memory once for every word they write. I tested whether a second, guessed word could ride along in the same read for almost no extra cost. The full model ch",
+      "date": "2026-11-17T05:11:48.000Z",
+      "summary": "Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016–2026) and extracted every change a pape",
       "score": 40,
-      "titleZh": "Layer-hot decoding: an approach to check a guessed token while each layer's weights are already loaded on an Apple M4. It ran slow. [R]"
+      "titleZh": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]"
+    },
+    {
+      "title": "Why are ViTs so popular? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-17T04:37:17.000Z",
+      "summary": "I deploy CNN + Attention stack models on edge devices, to great effect. Taking advantage of convs and reducing the spatial dimensionality makes all the sense in the world to me. Having vanilla ViTs le",
+      "score": 40,
+      "titleZh": "Why are ViTs so popular? [D]"
+    },
+    {
+      "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
+      "source": "Reddit ML",
+      "tags": [
+        "AI"
+      ],
+      "date": "2026-11-17T02:48:06.000Z",
+      "summary": "Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly. The interview covered a mix of basic programmin",
+      "score": 40,
+      "titleZh": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]"
     },
     {
       "title": "Serious spaces? [D]",
@@ -54,18 +78,6 @@
       "titleZh": "AISTATS 2027 paper discussion [D]"
     },
     {
-      "title": "ICLR did you post reminder of rebuttal response? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-16T00:42:45.000Z",
-      "summary": "Well, I know they are busy due to the CVPR(So am I). But it's only about few days left and none of the reviewers replied my response. Do you think this is a good time to post a reminder to reviewers? ",
-      "score": 40,
-      "titleZh": "ICLR did you post reminder of rebuttal response? [D]"
-    },
-    {
       "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
       "source": "Reddit ML",
@@ -76,18 +88,6 @@
       "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://u",
       "score": 40,
       "titleZh": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]"
-    },
-    {
-      "title": "I don't think double-blind review systems work [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
-      "source": "Reddit ML",
-      "tags": [
-        "AI"
-      ],
-      "date": "2026-11-15T13:00:15.000Z",
-      "summary": "Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewer",
-      "score": 40,
-      "titleZh": "I don't think double-blind review systems work [D]"
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -102,6 +102,18 @@
       "titleZh": "ICLR 2027 Reviews Discussion [D]"
     },
     {
+      "title": "Tokendoctor – the same Claude Code for up to 38% less",
+      "link": "https://github.com/localixai/tokendoctor",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 17 Nov 2026 02:19:50 +0000",
+      "summary": "Article URL: https://github.com/localixai/tokendoctor Comments URL: https://news.ycombinator.com/item?id=50526584",
+      "score": 15,
+      "titleZh": "Tokendoctor – the same Claude Code for up to 38% less"
+    },
+    {
       "title": "Broadening access to AI for scientists",
       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI",
@@ -114,136 +126,124 @@
       "titleZh": "Broadening access to AI for scientists"
     },
     {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
+      "title": "PM2 Tutorial: Keep Your Node.js App Running for Good",
+      "link": "https://dev.to/practicaldevblog/pm2-tutorial-keep-your-nodejs-app-running-for-good-49ii",
+      "source": "Dev.to JS",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "date": "Tue, 17 Nov 2026 06:33:47 +0000",
+      "summary": "Quick answer PM2 is a process manager for Node.js: it starts your app in the background, restarts it when it crashes, and keeps it running after you log out. This post runs a small order-status API un",
       "score": 5,
-      "titleZh": "Strengthening the fight against online child sexual abuse with new tools and support"
+      "titleZh": "PM2 Tutorial: Keep Your Node.js App Running for Good"
     },
     {
-      "title": "What Happens to Work After a Timeout?",
-      "link": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
-      "source": "Reddit Prog",
+      "title": "How we built an image compressor that keeps files in the browser",
+      "link": "https://dev.to/digambar_patil_62486f6b40/how-we-built-an-image-compressor-that-keeps-files-in-the-browser-2g1o",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-16T19:51:23.000Z",
-      "summary": "submitted by /u/Cool-Click1253 [link] [comments]",
-      "score": 40,
-      "titleZh": "What Happens to Work After a Timeout?"
+      "date": "Tue, 17 Nov 2026 06:32:04 +0000",
+      "summary": "An image compressor doesn't need a server to receive the original file. On Wezual Tools, we use browser APIs to decode the image, resize it when requested, and encode a new file. The original image st",
+      "score": 5,
+      "titleZh": "How we built an image compressor that keeps files in the browser"
     },
     {
-      "title": "“…and the proof is checked in Lean”",
-      "link": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
-      "source": "Reddit Prog",
+      "title": "Why Designers Need Finite State Machines: Eliminating Impossible UI States",
+      "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-designers-need-finite-state-machines-eliminating-impossible-ui-states-34k4",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-16T19:34:22.000Z",
-      "summary": "submitted by /u/mttd [link] [comments]",
-      "score": 40,
-      "titleZh": "“…and the proof is checked in Lean”"
+      "date": "Tue, 17 Nov 2026 06:30:36 +0000",
+      "summary": "In traditional Figma mockups, states are drawn as disjointed screens. In frontend code, states are managed with boolean flags: const [isLoading, setIsLoading] = useState(false); const [isError, setIsE",
+      "score": 5,
+      "titleZh": "Why Designers Need Finite State Machines: Eliminating Impossible UI States"
     },
     {
-      "title": "Introducing the World's Strongest Sokoban Solver",
-      "link": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
-      "source": "Reddit Prog",
+      "title": "One Canvas, 5 Frameworks: Exporting Native React, Svelte & Vue from ExodeUI",
+      "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/one-canvas-5-frameworks-exporting-native-react-svelte-vue-from-exodeui-3nc9",
+      "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "2026-11-16T17:56:30.000Z",
-      "summary": "submitted by /u/candurz [link] [comments]",
-      "score": 40,
-      "titleZh": "Introducing the World's Strongest Sokoban Solver"
+      "date": "Tue, 17 Nov 2026 06:30:04 +0000",
+      "summary": "Frontend teams in 2026 are increasingly multi-framework: React for marketing apps, Svelte for high-performance dashboards, and Vue for internal portals. Maintaining separate Figma components and code ",
+      "score": 5,
+      "titleZh": "One Canvas, 5 Frameworks: Exporting Native React, Svelte & Vue from ExodeUI"
     },
     {
-      "title": "Learning to Code in 2026: The Data",
-      "link": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-16T16:43:47.000Z",
-      "summary": "submitted by /u/wagslane [link] [comments]",
-      "score": 40,
-      "titleZh": "Learning to Code in 2026: The Data"
-    },
-    {
-      "title": "Microsoft Outage Preliminary Postmortem",
-      "link": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-16T13:19:47.000Z",
-      "summary": "submitted by /u/ROFLLOLSTER [link] [comments]",
-      "score": 40,
-      "titleZh": "Microsoft Outage Preliminary Postmortem"
-    },
-    {
-      "title": "Ring programming language version 1.28 is released!",
-      "link": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-16T11:05:11.000Z",
-      "summary": "Hello I have already released Ring 1.28 Ring is a dynamic language with lightweight implementation like Lua but with more features like Python/Ruby. I created it because I was looking for a Visual Fox",
-      "score": 40,
-      "titleZh": "Ring programming language version 1.28 is released!"
-    },
-    {
-      "title": "When Good Practices Become Empty Rituals",
-      "link": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-16T10:36:48.000Z",
-      "summary": "submitted by /u/wordbit12 [link] [comments]",
-      "score": 40,
-      "titleZh": "When Good Practices Become Empty Rituals"
-    },
-    {
-      "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
-      "link": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
-      "source": "Reddit Prog",
-      "tags": [
-        "前端"
-      ],
-      "date": "2026-11-15T15:37:40.000Z",
-      "summary": "Python 3.12 and 3.13 dropped 25 stdlib modules (distutils, imp, cgi, pipes, telnetlib...). This scan of PyPI found 1,623 projects that still import one of them outside a try/except. 852 of those are i",
-      "score": 40,
-      "titleZh": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month"
-    },
-    {
-      "title": "**Choosing a** pay after website is built plan for solo consultants",
-      "link": "https://dev.to/naveed_ahmed_datics/choosing-a-pay-after-website-is-built-plan-for-solo-consultants-3a7g",
+      "title": "Instagram Video Download Problems: Common Causes and Practical Solutions",
+      "link": "https://dev.to/ahtasham_hashim1214/instagram-video-download-problems-common-causes-and-practical-solutions-96d",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 16 Nov 2026 19:58:20 +0000",
-      "summary": "Choosing a pay after website is built plan for solo consultants You Need a Website — But You Can’t Afford a Large Up‑Front Bill You run a solo‑consulting practice. Prospects expect a professional site",
+      "date": "Tue, 17 Nov 2026 06:26:50 +0000",
+      "summary": "Instagram Video Download Problems: Common Causes and Practical Solutions Having trouble downloading Instagram videos or Reels? Learn why Instagram links sometimes fail, how to fix common download prob",
       "score": 5,
-      "titleZh": "**Choosing a** pay after website is built plan for solo consultants"
+      "titleZh": "Instagram Video Download Problems: Common Causes and Practical Solutions"
     },
     {
-      "title": "Unleashing the Edge: Supercharging Next.js Apps with Edge Functions",
-      "link": "https://dev.to/mtahir27/unleashing-the-edge-supercharging-nextjs-apps-with-edge-functions-4f7h",
-      "source": "Dev.to Next.js",
+      "title": "Tactile Web Audio & Haptics on Canvas: Why Figma Prototypes Feel Emotionless",
+      "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/tactile-web-audio-haptics-on-canvas-why-figma-prototypes-feel-emotionless-1a80",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 16 Nov 2026 19:57:34 +0000",
-      "summary": "Introduction: The Quest for Zero Latency In today's hyper-connected digital landscape, user expectations for web application speed and responsiveness are at an all-time high. Every millisecond shaved ",
+      "date": "Tue, 17 Nov 2026 06:26:47 +0000",
+      "summary": "Physical hardware feels satisfying because visual state transitions are paired with subtle tactile clicks: think of the Nintendo Switch Joy-Con or the Apple Watch digital crown. Figma prototypes are c",
       "score": 5,
-      "titleZh": "Unleashing the Edge: Supercharging Next.js Apps with Edge Functions"
+      "titleZh": "Tactile Web Audio & Haptics on Canvas: Why Figma Prototypes Feel Emotionless"
+    },
+    {
+      "title": "I'm Building Pixel2Vector: Turning Raster Images into Scalable Vector Graphics",
+      "link": "https://dev.to/ouahdou_bilal_b78fff15b84/im-building-pixel2vector-turning-raster-images-into-scalable-vector-graphics-41h4",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 17 Nov 2026 06:26:37 +0000",
+      "summary": "I'm Building Pixel2Vector: Turning Raster Images into Scalable Vector Graphics Hey DEV community! 👋 I'm Bilal, a software developer and the founder of \"Pixel2Vector\" (https://www.pixel2vector.com/). ",
+      "score": 5,
+      "titleZh": "I'm Building Pixel2Vector: Turning Raster Images into Scalable Vector Graphics"
+    },
+    {
+      "title": "Handling Real API Responses in Prototypes: Where Figma Dies and ExodeUI Thrives",
+      "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/handling-real-api-responses-in-prototypes-where-figma-dies-and-exodeui-thrives-3ge4",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 17 Nov 2026 06:26:13 +0000",
+      "summary": "Designers love designing for the \"happy path\": perfectly formatted 3-line product titles, flawless 400x400 square avatars, and instant 0ms responses. Then the app ships, and reality hits: A user's nam",
+      "score": 5,
+      "titleZh": "Handling Real API Responses in Prototypes: Where Figma Dies and ExodeUI Thrives"
+    },
+    {
+      "title": "Meta App Review Rejected Your App? A 6-Step Fix and the Most Common Reasons",
+      "link": "https://dev.to/revamp_space/meta-app-review-rejected-your-app-a-6-step-fix-and-the-most-common-reasons-2eil",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 17 Nov 2026 06:26:13 +0000",
+      "summary": "Your app works perfectly in Development mode. You submit it for App Review. A few days later every permission comes back rejected, with a one-line note. I've been through this on real submissions – on",
+      "score": 5,
+      "titleZh": "Meta App Review Rejected Your App? A 6-Step Fix and the Most Common Reasons"
+    },
+    {
+      "title": "Why Figma Can’t Simulate 60fps Micro-Interactions (And How ExodeUI Solves It)",
+      "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-figma-cant-simulate-60fps-micro-interactions-and-how-exodeui-solves-it-1dgc",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 17 Nov 2026 06:25:40 +0000",
+      "summary": "Micro-interactions define the feel of premium software: the subtle resistance on swipe, the tactile bounce on pull-to-refresh, the organic snap of a slider. Figma cannot simulate these because it rend",
+      "score": 5,
+      "titleZh": "Why Figma Can’t Simulate 60fps Micro-Interactions (And How ExodeUI Solves It)"
     }
   ]
 }
