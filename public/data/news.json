@@ -1,10 +1,106 @@
 {
-  "updated": "2026-11-17T18:57:02.996Z",
-  "date": "2026-11-17",
+  "updated": "2026-11-18T05:56:33.494Z",
+  "date": "2026-11-18",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "link": "https://arxiv.org/abs/2611.21682",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, e",
+      "score": 5,
+      "titleZh": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models"
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "link": "https://arxiv.org/abs/2611.21799",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that m",
+      "score": 5,
+      "titleZh": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability"
+    },
+    {
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "link": "https://arxiv.org/abs/2611.21827",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores",
+      "score": 5,
+      "titleZh": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "link": "https://arxiv.org/abs/2611.21832",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To st",
+      "score": 5,
+      "titleZh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at ",
+      "score": 5,
+      "titleZh": "Language Models Can Rewrite Their Own Weights"
+    },
+    {
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "link": "https://arxiv.org/abs/2611.21925",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verificat",
+      "score": 5,
+      "titleZh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
+    },
+    {
+      "title": "SLED: Sensor SLicing from Edge to Datacenter",
+      "link": "https://arxiv.org/abs/2611.21937",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for comp",
+      "score": 5,
+      "titleZh": "SLED: Sensor SLicing from Edge to Datacenter"
+    },
+    {
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "link": "https://arxiv.org/abs/2611.21946",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at th",
+      "score": 5,
+      "titleZh": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking"
+    },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -30,220 +126,124 @@
       "titleZh": "Put Gemini to work for you"
     },
     {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "score": 5,
-      "titleZh": "Strengthening NATO and allied cyber defenses with AI"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "score": 5,
-      "titleZh": "Introducing OpenAI for Chile"
-    },
-    {
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "score": 5,
-      "titleZh": "Astra for Law leads in legal intelligence"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "score": 5,
-      "titleZh": "Broadening access to AI for scientists"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "score": 5,
-      "titleZh": "Strengthening the fight against online child sexual abuse with new tools and support"
-    },
-    {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "score": 5,
-      "titleZh": "New Ask Maps features to help with holiday travel and prep"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 16 Nov 2026 12:00:00 GMT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "score": 5,
-      "titleZh": "Science at the Frontier: How scientists use ChatGPT"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 16 Nov 2026 09:30:00 GMT",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "score": 5,
-      "titleZh": "How Revolut raises ambition without lowering the bar"
-    },
-    {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "link": "https://alloyhtml.com/example.html",
+      "title": "Web Browser Engineering (2021)",
+      "link": "https://browser.engineering/",
       "source": "HN·前端",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 15:07:09 +0000",
-      "summary": "Article URL: https://alloyhtml.com/example.html Comments URL: https://news.ycombinator.com/item?id=50532385",
-      "score": 123,
-      "titleZh": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off"
+      "date": "Tue, 17 Nov 2026 20:01:35 +0000",
+      "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290",
+      "score": 148,
+      "titleZh": "Web Browser Engineering (2021)"
     },
     {
-      "title": "How to Build 60 FPS 2D Particle Explosions in 10 Lines of Vanilla JS (With AI Prompt)",
-      "link": "https://dev.to/goutam_lambu_0a07d682a4ee/how-to-build-60-fps-2d-particle-explosions-in-10-lines-of-vanilla-js-with-ai-prompt-2bih",
+      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+      "source": "HN·前端",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 03:35:47 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538",
+      "score": 20,
+      "titleZh": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer"
+    },
+    {
+      "title": "Six production bugs in a WebRTC app, with the tests that keep them fixed",
+      "link": "https://dev.to/chatter3_lab/six-production-bugs-in-a-webrtc-app-with-the-tests-that-keep-them-fixed-25oj",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 18:54:27 +0000",
-      "summary": "Most indie devs prompting AI for particle effects end up with bloated classes that trigger garbage collection lag every time an enemy explodes. Instead, tell your AI coding assistant to use a flat arr",
+      "date": "Wed, 18 Nov 2026 05:54:48 +0000",
+      "summary": "Chatter3 is a free 1-on-1 English conversation app (https://app.chatter3.com) — two learners, five minutes, one video call. This is the engineering log of six bugs that reached production, and every o",
       "score": 5,
-      "titleZh": "How to Build 60 FPS 2D Particle Explosions in 10 Lines of Vanilla JS (With AI Prompt)"
+      "titleZh": "Six production bugs in a WebRTC app, with the tests that keep them fixed"
     },
     {
-      "title": "How to Trim Audio for a Wine Tasting Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-wine-tasting-video-free-in-your-browser-2fjp",
+      "title": "Why a Business Website Needs a Clear Story, Not Just Pages",
+      "link": "https://dev.to/msdevseo/why-a-business-website-needs-a-clear-story-not-just-pages-3l2f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 18:51:00 +0000",
-      "summary": "A wine tasting video lives or dies on atmosphere: the pour, the swirl, the quiet moment before the first sip. Background music that starts too loud or runs too long ruins that mood fast. Here is how t",
+      "date": "Wed, 18 Nov 2026 05:54:22 +0000",
+      "summary": "Most small business websites are a pile of pages with no story running through them. A homepage that says \"welcome\", a services page that lists everything, an about page that says \"we are passionate\".",
       "score": 5,
-      "titleZh": "How to Trim Audio for a Wine Tasting Video — Free, in Your Browser"
+      "titleZh": "Why a Business Website Needs a Clear Story, Not Just Pages"
     },
     {
-      "title": "Building Sites That Both Humans and AI Agents Can Read: A Practical Intro to AIO",
-      "link": "https://dev.to/koheip/building-sites-that-both-humans-and-ai-agents-can-read-a-practical-intro-to-aio-2kp5",
+      "title": "What is an MVP, and what goes in the first version?",
+      "link": "https://dev.to/eloradigital/what-is-an-mvp-and-what-goes-in-the-first-version-46pf",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 18:49:36 +0000",
-      "summary": "This article was originally published in Japanese on Zenn. Hi, I'm Kohei Matsunobe, a second-year student at ZEN University studying Intelligent Informatics (online). I build AI agents and apps as per",
+      "date": "Wed, 18 Nov 2026 05:53:21 +0000",
+      "summary": "Key takeaways An MVP, a minimum viable product, is the first version of a product: one core workflow, built well enough for real users to rely on and pay for. It is not a prototype. It has sign-in, re",
       "score": 5,
-      "titleZh": "Building Sites That Both Humans and AI Agents Can Read: A Practical Intro to AIO"
+      "titleZh": "What is an MVP, and what goes in the first version?"
     },
     {
-      "title": "Why web accessibility matters in 2026",
-      "link": "https://dev.to/pablo_difilippo/why-web-accessibility-matters-in-2026-3l5k",
+      "title": "5 Reasons Your Website Is Losing Customers (And How to Fix It in 2026)",
+      "link": "https://dev.to/tania_imtiaz_22626051cdc9/5-reasons-your-website-is-losing-customers-and-how-to-fix-it-in-2026-3fhi",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 18:47:04 +0000",
-      "summary": "In February 2026, 95.9% of the home pages of the top one million websites had at least one accessibility failure of the kind an automated tool can detect. A year earlier it was 94.8%. The figure comes",
+      "date": "Wed, 18 Nov 2026 05:53:15 +0000",
+      "summary": "Your website has only 3 seconds to impress a visitor. If it is slow, confusing, or looks old, the visitor will leave and never come back. It does not matter how good your product is. Here are 5 common",
       "score": 5,
-      "titleZh": "Why web accessibility matters in 2026"
+      "titleZh": "5 Reasons Your Website Is Losing Customers (And How to Fix It in 2026)"
     },
     {
-      "title": "Three extensions in Edge review for 2+ days, one shipped in 2 hours: what the dashboard actually shows",
-      "link": "https://dev.to/alapha888/three-extensions-in-edge-review-for-2-days-one-shipped-in-2-hours-what-the-dashboard-actually-4o0a",
+      "title": "Building Zero-Mismatch Game Metadata, Structured JSON-LD & Edge SVG Badges Across 7,385+ PC Titles",
+      "link": "https://dev.to/jenishkumar/building-zero-mismatch-game-metadata-structured-json-ld-edge-svg-badges-across-7385-pc-titles-5f8a",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 05:47:55 +0000",
+      "summary": "When scaling a programmatic gaming encyclopedia to 7,385+ PC games, naive string matching breaks fast: a startsWith(\"call-of-duty-modern-warfare\") lookup silently collides Modern Warfare (2019) with M",
+      "score": 5,
+      "titleZh": "Building Zero-Mismatch Game Metadata, Structured JSON-LD & Edge SVG Badges Across 7,385+ PC Titles"
+    },
+    {
+      "title": "How We Hit 100/100 Mobile PageSpeed & 90% SEO Across 332,000+ Next.js 16 Game Pages on $0/Month",
+      "link": "https://dev.to/jenishkumar/how-we-hit-100100-mobile-pagespeed-90-seo-across-332000-nextjs-16-game-pages-on-0month-164i",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 05:47:01 +0000",
+      "summary": "Modern PC game releases routinely exceed 140 GB, making fast compression indexing and zero-bloat mobile web performance critical for global gamers. While building RepackDeck — indexing 7,385+ lossless",
+      "score": 5,
+      "titleZh": "How We Hit 100/100 Mobile PageSpeed & 90% SEO Across 332,000+ Next.js 16 Game Pages on $0/Month"
+    },
+    {
+      "title": "How we split a 5,000-line Express server.js with zero behavioral diffs",
+      "link": "https://dev.to/vineetparikhpharmd/how-we-split-a-5000-line-express-serverjs-with-zero-behavioral-diffs-4g48",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 18:45:34 +0000",
-      "summary": "I submitted four small Edge extensions last weekend. One of them, FocusBlock, was published about 2 hours after submission on Nov 16. The other three are still 'In review' as of Nov 18, 02:44 CST. Her",
+      "date": "Wed, 18 Nov 2026 05:46:38 +0000",
+      "summary": "Our Express server.js went from 5,121 lines to 1,402 across incremental PRs. The result we cared about was zero behavioral differences in the checks we ran after each move. The useful part of that sto",
       "score": 5,
-      "titleZh": "Three extensions in Edge review for 2+ days, one shipped in 2 hours: what the dashboard actually shows"
+      "titleZh": "How we split a 5,000-line Express server.js with zero behavioral diffs"
     },
     {
-      "title": "We Tested AI Agents With and Without Headron. The Results Reveal a Different Way to Build Reliable AI.",
-      "link": "https://dev.to/headronlayer/we-tested-ai-agents-with-and-without-headron-the-results-reveal-a-different-way-to-build-reliable-4cbh",
+      "title": "A Practical Workflow for Turning Handwriting into a TTF Font",
+      "link": "https://dev.to/inkown/a-practical-workflow-for-turning-handwriting-into-a-ttf-font-26a2",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 17 Nov 2026 18:41:18 +0000",
-      "summary": "137 of 138 tasks answered correctly. 89% less routing context. 17,397 verification outcomes. Inside Headron's latest benchmarks for AI agents, context engineering, and proof-carrying software. AI deve",
+      "date": "Wed, 18 Nov 2026 05:46:16 +0000",
+      "summary": "Inkown converts a handwriting image into a downloadable TTF font through a browser-based workflow. Upload a JPG, PNG, or WebP image containing handwriting. Review the generated typeface preview. Downl",
       "score": 5,
-      "titleZh": "We Tested AI Agents With and Without Headron. The Results Reveal a Different Way to Build Reliable AI."
-    },
-    {
-      "title": "The Making of an AI-Native Design Portfolio",
-      "link": "https://dev.to/perex/the-making-of-an-ai-native-design-portfolio-m2o",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 17 Nov 2026 18:40:53 +0000",
-      "summary": "How I used Claude Code, agentic workflows, and AI-assisted design to build a production portfolio in real time — without a single engineer, without a build system, and without losing creative control.",
-      "score": 5,
-      "titleZh": "The Making of an AI-Native Design Portfolio"
-    },
-    {
-      "title": "I Built a 3D Animal Anatomy Simulator You Can Explore in Your Browser",
-      "link": "https://dev.to/julianneagu/i-built-a-3d-animal-anatomy-simulator-you-can-explore-in-your-browser-2gaj",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 17 Nov 2026 18:40:11 +0000",
-      "summary": "TL;DR: The VisionVix 3D Animal Anatomy simulator lets you spin, zoom, and open up ten animals in your browser. See the heart, lungs, and bones inside a dog, elephant, shark, or octopus without needing",
-      "score": 5,
-      "titleZh": "I Built a 3D Animal Anatomy Simulator You Can Explore in Your Browser"
-    },
-    {
-      "title": "HTTP Caching Headers That Actually Work",
-      "link": "https://dev.to/_abf9d4bd1d1649ac33e5c/http-caching-headers-that-actually-work-55j6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 17 Nov 2026 18:36:57 +0000",
-      "summary": "This article is also maintained as a reference guide at JsonMind. A cache bets that a stored response will still be acceptable when the next request arrives. HTTP splits that bet into freshness (reuse",
-      "score": 5,
-      "titleZh": "HTTP Caching Headers That Actually Work"
+      "titleZh": "A Practical Workflow for Turning Handwriting into a TTF Font"
     }
   ]
 }
