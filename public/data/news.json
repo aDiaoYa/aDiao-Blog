@@ -1,10 +1,46 @@
 {
-  "updated": "2026-11-18T05:56:33.494Z",
+  "updated": "2026-11-18T18:39:27.294Z",
   "date": "2026-11-18",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 17:00:00 +0000",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "score": 5,
+      "titleZh": "The Gemini app is now available on lower-memory Android devices."
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 15:00:23 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "score": 5,
+      "titleZh": "Inside the Codex sandbox"
+    },
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
       "link": "https://arxiv.org/abs/2611.21682",
@@ -90,160 +126,124 @@
       "titleZh": "SLED: Sensor SLicing from Edge to Datacenter"
     },
     {
-      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-      "link": "https://arxiv.org/abs/2611.21946",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at th",
-      "score": 5,
-      "titleZh": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking"
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 17 Nov 2026 17:45:00 GMT",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "score": 5,
-      "titleZh": "Introducing GPT-6.2 Astra and Sol"
-    },
-    {
-      "title": "Put Gemini to work for you",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 17 Nov 2026 17:00:00 +0000",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "score": 5,
-      "titleZh": "Put Gemini to work for you"
-    },
-    {
-      "title": "Web Browser Engineering (2021)",
-      "link": "https://browser.engineering/",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 17 Nov 2026 20:01:35 +0000",
-      "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290",
-      "score": 148,
-      "titleZh": "Web Browser Engineering (2021)"
-    },
-    {
-      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
-      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
-      "source": "HN·前端",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 18 Nov 2026 03:35:47 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538",
-      "score": 20,
-      "titleZh": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer"
-    },
-    {
-      "title": "Six production bugs in a WebRTC app, with the tests that keep them fixed",
-      "link": "https://dev.to/chatter3_lab/six-production-bugs-in-a-webrtc-app-with-the-tests-that-keep-them-fixed-25oj",
+      "title": "Netlify Rebuilt Itself Around AI Agents. What Changes for Developers",
+      "link": "https://dev.to/paullovelace/netlify-rebuilt-itself-around-ai-agents-what-changes-for-developers-a87",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 18 Nov 2026 05:54:48 +0000",
-      "summary": "Chatter3 is a free 1-on-1 English conversation app (https://app.chatter3.com) — two learners, five minutes, one video call. This is the engineering log of six bugs that reached production, and every o",
+      "date": "Wed, 18 Nov 2026 18:36:46 +0000",
+      "summary": "Netlify announced a rebuilt platform on November 18, and this one isn't a feature drop. It's the company saying the old workflow — write code, push to Git, get a deploy preview — is now one half of th",
       "score": 5,
-      "titleZh": "Six production bugs in a WebRTC app, with the tests that keep them fixed"
+      "titleZh": "Netlify Rebuilt Itself Around AI Agents. What Changes for Developers"
     },
     {
-      "title": "Why a Business Website Needs a Clear Story, Not Just Pages",
-      "link": "https://dev.to/msdevseo/why-a-business-website-needs-a-clear-story-not-just-pages-3l2f",
+      "title": "5 things to check before you share your vibe-coded app with real users",
+      "link": "https://dev.to/fuadpoladov/5-things-to-check-before-you-share-your-vibe-coded-app-with-real-users-2kip",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 18 Nov 2026 05:54:22 +0000",
-      "summary": "Most small business websites are a pile of pages with no story running through them. A homepage that says \"welcome\", a services page that lists everything, an about page that says \"we are passionate\".",
+      "date": "Wed, 18 Nov 2026 18:32:32 +0000",
+      "summary": "I read a lot of apps generated with Lovable, Bolt, v0 and Replit - usually after something broke. The same five problems show up in most of them, and none of them need a security background to check. ",
       "score": 5,
-      "titleZh": "Why a Business Website Needs a Clear Story, Not Just Pages"
+      "titleZh": "5 things to check before you share your vibe-coded app with real users"
     },
     {
-      "title": "What is an MVP, and what goes in the first version?",
-      "link": "https://dev.to/eloradigital/what-is-an-mvp-and-what-goes-in-the-first-version-46pf",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 18 Nov 2026 05:53:21 +0000",
-      "summary": "Key takeaways An MVP, a minimum viable product, is the first version of a product: one core workflow, built well enough for real users to rely on and pay for. It is not a prototype. It has sign-in, re",
-      "score": 5,
-      "titleZh": "What is an MVP, and what goes in the first version?"
-    },
-    {
-      "title": "5 Reasons Your Website Is Losing Customers (And How to Fix It in 2026)",
-      "link": "https://dev.to/tania_imtiaz_22626051cdc9/5-reasons-your-website-is-losing-customers-and-how-to-fix-it-in-2026-3fhi",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 18 Nov 2026 05:53:15 +0000",
-      "summary": "Your website has only 3 seconds to impress a visitor. If it is slow, confusing, or looks old, the visitor will leave and never come back. It does not matter how good your product is. Here are 5 common",
-      "score": 5,
-      "titleZh": "5 Reasons Your Website Is Losing Customers (And How to Fix It in 2026)"
-    },
-    {
-      "title": "Building Zero-Mismatch Game Metadata, Structured JSON-LD & Edge SVG Badges Across 7,385+ PC Titles",
-      "link": "https://dev.to/jenishkumar/building-zero-mismatch-game-metadata-structured-json-ld-edge-svg-badges-across-7385-pc-titles-5f8a",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 18 Nov 2026 05:47:55 +0000",
-      "summary": "When scaling a programmatic gaming encyclopedia to 7,385+ PC games, naive string matching breaks fast: a startsWith(\"call-of-duty-modern-warfare\") lookup silently collides Modern Warfare (2019) with M",
-      "score": 5,
-      "titleZh": "Building Zero-Mismatch Game Metadata, Structured JSON-LD & Edge SVG Badges Across 7,385+ PC Titles"
-    },
-    {
-      "title": "How We Hit 100/100 Mobile PageSpeed & 90% SEO Across 332,000+ Next.js 16 Game Pages on $0/Month",
-      "link": "https://dev.to/jenishkumar/how-we-hit-100100-mobile-pagespeed-90-seo-across-332000-nextjs-16-game-pages-on-0month-164i",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Wed, 18 Nov 2026 05:47:01 +0000",
-      "summary": "Modern PC game releases routinely exceed 140 GB, making fast compression indexing and zero-bloat mobile web performance critical for global gamers. While building RepackDeck — indexing 7,385+ lossless",
-      "score": 5,
-      "titleZh": "How We Hit 100/100 Mobile PageSpeed & 90% SEO Across 332,000+ Next.js 16 Game Pages on $0/Month"
-    },
-    {
-      "title": "How we split a 5,000-line Express server.js with zero behavioral diffs",
-      "link": "https://dev.to/vineetparikhpharmd/how-we-split-a-5000-line-express-serverjs-with-zero-behavioral-diffs-4g48",
+      "title": "Why Math.random() Is Unsafe for Password Generation (And What to Use Instead)",
+      "link": "https://dev.to/ian_bishop_98bf15c6a498d4/why-mathrandom-is-unsafe-for-password-generation-and-what-to-use-instead-4a3",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 18 Nov 2026 05:46:38 +0000",
-      "summary": "Our Express server.js went from 5,121 lines to 1,402 across incremental PRs. The result we cared about was zero behavioral differences in the checks we ran after each move. The useful part of that sto",
+      "date": "Wed, 18 Nov 2026 18:29:52 +0000",
+      "summary": "JavaScript makes it remarkably easy to generate random-looking strings. But when those strings are intended to protect accounts, API credentials, or sensitive systems, the source of randomness matters",
       "score": 5,
-      "titleZh": "How we split a 5,000-line Express server.js with zero behavioral diffs"
+      "titleZh": "Why Math.random() Is Unsafe for Password Generation (And What to Use Instead)"
     },
     {
-      "title": "A Practical Workflow for Turning Handwriting into a TTF Font",
-      "link": "https://dev.to/inkown/a-practical-workflow-for-turning-handwriting-into-a-ttf-font-26a2",
+      "title": "I Built a Study Planner That Refuses to Lie to Students",
+      "link": "https://dev.to/image19imagecode/i-built-a-study-planner-that-refuses-to-lie-to-students-4j2b",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 18:29:30 +0000",
+      "summary": "Have you ever created a perfect study schedule, followed it for two days, and then watched everything fall apart? You planned 10 hours of studying, but you only had 8 hours available. A traditional pl",
+      "score": 5,
+      "titleZh": "I Built a Study Planner That Refuses to Lie to Students"
+    },
+    {
+      "title": "Como Ler Códigos de Barras e QR Code Direto no Navegador (Client-side e sem app)",
+      "link": "https://dev.to/craftrex/como-ler-codigos-de-barras-e-qr-code-direto-no-navegador-client-side-e-sem-app-4916",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 18:29:27 +0000",
+      "summary": "Quem costuma usar o smartphone no dia a dia certamente já se deparou com a necessidade de escanear códigos: seja para ler o código de barras de um boleto/gift card, ou decodificar um QR Code promocion",
+      "score": 5,
+      "titleZh": "Como Ler Códigos de Barras e QR Code Direto no Navegador (Client-side e sem app)"
+    },
+    {
+      "title": "Domains",
+      "link": "https://dev.to/syuuedyuedy/domains-2g62",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Wed, 18 Nov 2026 05:46:16 +0000",
-      "summary": "Inkown converts a handwriting image into a downloadable TTF font through a browser-based workflow. Upload a JPG, PNG, or WebP image containing handwriting. Review the generated typeface preview. Downl",
+      "date": "Wed, 18 Nov 2026 18:29:10 +0000",
+      "summary": "https://freshtools.space/ https://freshtools.store/ https://freshtools.top/ https://freshtools.world/",
       "score": 5,
-      "titleZh": "A Practical Workflow for Turning Handwriting into a TTF Font"
+      "titleZh": "Domains"
+    },
+    {
+      "title": "Pay-as-you-go scraping API pricing, explained",
+      "link": "https://dev.to/cryptomoneymakr/pay-as-you-go-scraping-api-pricing-explained-dmb",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 18:25:47 +0000",
+      "summary": "This article was written by an AI agent on November 18, 2026. The prices and tables below are taken from Pay-as-you-go scraping API pricing, which says they were checked on November 16, 2026 on each v",
+      "score": 5,
+      "titleZh": "Pay-as-you-go scraping API pricing, explained"
+    },
+    {
+      "title": "How to Trim Audio for a Lavender Field Video — Free, in Your Browser",
+      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-lavender-field-video-free-in-your-browser-1e6m",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 18:24:18 +0000",
+      "summary": "A lavender field video is all about mood: slow pans, purple rows, and a gentle soundtrack. When the audio track runs longer than the footage, the ending feels awkward. Trimming it down takes about a m",
+      "score": 5,
+      "titleZh": "How to Trim Audio for a Lavender Field Video — Free, in Your Browser"
+    },
+    {
+      "title": "AI couldn't see the bug. Working examples from Clay UI changed that",
+      "link": "https://dev.to/behavio_ui_screen/ai-couldnt-see-the-bug-working-examples-from-clay-ui-changed-that-3o0m",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 18:22:20 +0000",
+      "summary": "Originally published on LinkedIn. I wanted readers to turn the pages of The Art of AI like a real book. On my laptop the animation looked right. On my phone, parts of the page flashed black. Several a",
+      "score": 5,
+      "titleZh": "AI couldn't see the bug. Working examples from Clay UI changed that"
+    },
+    {
+      "title": "How I Built a Sub-Second Next.js 14 Web App with Turnkey Local SEO on Cloudflare Workers",
+      "link": "https://dev.to/vinay_kumar_56c5b5ebb69d5/how-i-built-a-sub-second-nextjs-14-web-app-with-turnkey-local-seo-on-cloudflare-workers-1dl4",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 18 Nov 2026 18:15:48 +0000",
+      "summary": "When building websites for local businesses, traditional platforms like WordPress often suffer from bloated plugins, 4-second load times, and poormobile PageSpeed scores. For my recent project—**Sravy",
+      "score": 5,
+      "titleZh": "How I Built a Sub-Second Next.js 14 Web App with Turnkey Local SEO on Cloudflare Workers"
     }
   ]
 }
