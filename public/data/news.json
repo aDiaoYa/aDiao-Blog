@@ -1,10 +1,94 @@
 {
-  "updated": "2026-11-19T05:56:58.515Z",
+  "updated": "2026-11-19T18:52:43.440Z",
   "date": "2026-11-19",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Fuck Your AI Safeguards",
+      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 16:30:18 +0000",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262",
+      "score": 150,
+      "titleZh": "Fuck Your AI Safeguards"
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "link": "https://thedataexchange.media/pete-warden-moonshine/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 15:38:12 +0000",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508",
+      "score": 147,
+      "titleZh": "Pete warden on local AI, open models, voice interfaces, the future of hardware"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 17:30:44 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148",
+      "score": 119,
+      "titleZh": "Claude solves two open problems in the physics of black holes"
+    },
+    {
+      "title": "Chrome AI features wasting much bandwidth",
+      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 16:54:25 +0000",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636",
+      "score": 67,
+      "titleZh": "Chrome AI features wasting much bandwidth"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 18:00:00 +0000",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "score": 5,
+      "titleZh": "Introducing Tool Retrieval in the Gemini API"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "score": 5,
+      "titleZh": "Walter Isaacson on curiosity and creativity in the AI age."
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "score": 5,
+      "titleZh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+    },
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
       "link": "https://arxiv.org/abs/2611.21682",
@@ -42,208 +126,124 @@
       "titleZh": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
     },
     {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "link": "https://arxiv.org/abs/2611.21832",
-      "source": "ArXiv AI",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "link": "https://kapteko.com/15-million-webservers/",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To st",
-      "score": 5,
-      "titleZh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research"
+      "date": "Thu, 19 Nov 2026 05:56:36 +0000",
+      "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533",
+      "score": 318,
+      "titleZh": "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
     },
     {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "link": "https://arxiv.org/abs/2611.21885",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that ",
-      "score": 5,
-      "titleZh": "Language Models Can Rewrite Their Own Weights"
-    },
-    {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "link": "https://arxiv.org/abs/2611.21925",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verificat",
-      "score": 5,
-      "titleZh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
-    },
-    {
-      "title": "SLED: Sensor SLicing from Edge to Datacenter",
-      "link": "https://arxiv.org/abs/2611.21937",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for comp",
-      "score": 5,
-      "titleZh": "SLED: Sensor SLicing from Edge to Datacenter"
-    },
-    {
-      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-      "link": "https://arxiv.org/abs/2611.21946",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at th",
-      "score": 5,
-      "titleZh": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking"
-    },
-    {
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 18 Nov 2026 19:54:56 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
-    },
-    {
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 18 Nov 2026 18:53:43 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Why your fine-tuning job takes longer than the FLOPs say"
-    },
-    {
-      "title": "Migrating a Monolith to Module Federation Without Downtime",
-      "link": "https://dev.to/desgh_white_7e4c654897816/migrating-a-monolith-to-module-federation-without-downtime-j16",
+      "title": "Mock an e-commerce backend for your React app in 5 minutes",
+      "link": "https://dev.to/indika_gayashan_u/mock-an-e-commerce-backend-for-your-react-app-in-5-minutes-1e8c",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 05:55:38 +0000",
-      "summary": "Module Federation lets you split a monolithic frontend into independently deployed micro-frontends. The pitch is compelling; the migration is not. Here is a path that avoids the big-bang rewrite. The ",
+      "date": "Thu, 19 Nov 2026 18:52:26 +0000",
+      "summary": "You're building the frontend for a store. The design is ready, but the backend isn't, and you're tired of hardcoding const products = [...] in a file. In this tutorial we'll build a small React produc",
       "score": 5,
-      "titleZh": "Migrating a Monolith to Module Federation Without Downtime"
+      "titleZh": "Mock an e-commerce backend for your React app in 5 minutes"
     },
     {
-      "title": "Why useReducer? Why do we need multiple functions to update a single state?",
-      "link": "https://dev.to/megalraja/why-usereducer-why-do-we-need-multiple-functions-to-update-a-single-state-18g9",
+      "title": "Taming Claude Code: A Practical Guide to CLAUDE.md and Hooks",
+      "link": "https://dev.to/mkare/taming-claude-code-a-practical-guide-to-claudemd-and-hooks-dkn",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 19 Nov 2026 18:51:02 +0000",
+      "summary": "Originally published on Medium (JavaScript in Plain English). Read on Medium for free via Friend Link. ⚡ Get the Claude Code Production Starter Kit Quick Takeaways CLAUDE.md is advisory, not a hard lo",
+      "score": 5,
+      "titleZh": "Taming Claude Code: A Practical Guide to CLAUDE.md and Hooks"
+    },
+    {
+      "title": "Why Do Startups Fail Before Launch?",
+      "link": "https://dev.to/priya_sajja_c336921bbda87/why-do-startups-fail-before-launch-2b3g",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 19 Nov 2026 18:46:52 +0000",
+      "summary": "When people think about starting a business, they often imagine building a website, designing a logo, developing an application, or launching a marketing campaign. But there is something important tha",
+      "score": 5,
+      "titleZh": "Why Do Startups Fail Before Launch?"
+    },
+    {
+      "title": "HyperFrames vs Remotion for agent-written video: check the license first",
+      "link": "https://dev.to/skillselion/hyperframes-vs-remotion-for-agent-written-video-check-the-license-first-2p11",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 19 Nov 2026 18:45:01 +0000",
+      "summary": "Disclosure: I work on Skillselion, an independent directory of Claude Code, Codex and Cursor extensions. We are not affiliated with HeyGen, Remotion or Anthropic. This post was drafted with AI help, a",
+      "score": 5,
+      "titleZh": "HyperFrames vs Remotion for agent-written video: check the license first"
+    },
+    {
+      "title": "Vercel AI Gateway Virtual Models: Swap Providers Safely",
+      "link": "https://dev.to/mudassirworks/vercel-ai-gateway-virtual-models-swap-providers-safely-33e9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 19 Nov 2026 18:41:30 +0000",
+      "summary": "Vercel just shipped virtual model IDs on AI Gateway, so you can change the provider, the fallback chain and the model behind a request centrally, without deploying a single line of application code. T",
+      "score": 5,
+      "titleZh": "Vercel AI Gateway Virtual Models: Swap Providers Safely"
+    },
+    {
+      "title": "Get Found in Search and AI with Webpulls",
+      "link": "https://dev.to/senar_games_8c9dc79740209/get-found-in-search-and-ai-with-webpulls-14n6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 19 Nov 2026 18:37:29 +0000",
+      "summary": "Webpulls is an AI-powered SEO audit and reporting tool for the foundation both jobs share: a crawlable, well-optimized site, plus guided submission to major search engines and, on a higher plan, direc",
+      "score": 5,
+      "titleZh": "Get Found in Search and AI with Webpulls"
+    },
+    {
+      "title": "Why a Remote Image Renders but Canvas Pixel Access Fails",
+      "link": "https://dev.to/mediatourl/why-a-remote-image-renders-but-canvas-pixel-access-fails-42bo",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 05:55:24 +0000",
-      "summary": "When working with React, we usually use useState() to manage state. For example, imagine building a counter application with three operations: Increment Decrement Reset Using useState(), we might writ",
+      "date": "Thu, 19 Nov 2026 18:36:40 +0000",
+      "summary": "An image can look correct in a page and still fail when an editor tries to read its pixels. You may see a remote photo on screen, draw it onto a canvas, and then get a SecurityError from getImageData(",
       "score": 5,
-      "titleZh": "Why useReducer? Why do we need multiple functions to update a single state?"
+      "titleZh": "Why a Remote Image Renders but Canvas Pixel Access Fails"
     },
     {
-      "title": "Implementing a Fair Shuffle Algorithm for a Card Game UI",
-      "link": "https://dev.to/desgh_white_7e4c654897816/implementing-a-fair-shuffle-algorithm-for-a-card-game-ui-3j77",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 05:55:03 +0000",
-      "summary": "The Fisher-Yates shuffle is the standard fair shuffle. The mistake most developers make is not in the algorithm — it is in the random number generator they feed it. function shuffle(arr) { const a = [",
-      "score": 5,
-      "titleZh": "Implementing a Fair Shuffle Algorithm for a Card Game UI"
-    },
-    {
-      "title": "Building a Multi-Step Form That Survives Page Refreshes",
-      "link": "https://dev.to/desgh_white_7e4c654897816/building-a-multi-step-form-that-survives-page-refreshes-jkf",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 05:54:28 +0000",
-      "summary": "A three-step registration form where the user loses all input on a browser refresh is a conversion killer. The standard SPA approach — hold state in a React/Vue store — evaporates on reload. You need ",
-      "score": 5,
-      "titleZh": "Building a Multi-Step Form That Survives Page Refreshes"
-    },
-    {
-      "title": "What Small Business Websites Get Wrong About Google Search",
-      "link": "https://dev.to/msdevseo/what-small-business-websites-get-wrong-about-google-search-1c63",
+      "title": "The parts list should not live in the truck cab",
+      "link": "https://dev.to/ashleybuilds/the-parts-list-should-not-live-in-the-truck-cab-3knb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 05:53:57 +0000",
-      "summary": "Most small business websites treat Google as a trick to beat, not a reader to serve. They stuff keywords into every heading, hide text in footers, and wonder why nothing ranks. Google is not fooled by",
+      "date": "Thu, 19 Nov 2026 18:35:38 +0000",
+      "summary": "Wes here. I sell Electrician OS, a Notion setup for electricians who run the office side from the truck. A parts list kept in the cab helps the person in that truck. It does not help the person orderi",
       "score": 5,
-      "titleZh": "What Small Business Websites Get Wrong About Google Search"
+      "titleZh": "The parts list should not live in the truck cab"
     },
     {
-      "title": "Content Security Policy for Sites That Embed Third-Party Widgets",
-      "link": "https://dev.to/desgh_white_7e4c654897816/content-security-policy-for-sites-that-embed-third-party-widgets-n5i",
+      "title": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video",
+      "link": "https://dev.to/amananandrai/i-built-a-ghibli-style-mughal-tudor-palace-with-world-labs-atlas-chisel-heres-what-it-can-do-l21",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 05:53:52 +0000",
-      "summary": "A strict Content Security Policy breaks most third-party widgets on first deploy. Chat widgets, analytics, A/B testing scripts — they all inject inline styles, eval code, or load from domains you have",
+      "date": "Thu, 19 Nov 2026 18:33:22 +0000",
+      "summary": "Last week World Labs opened Atlas, its world model, to everyone. I wanted to see what it could actually do, so I gave it a hard brief: an architectural mash-up that doesn't exist anywhere in its train",
       "score": 5,
-      "titleZh": "Content Security Policy for Sites That Embed Third-Party Widgets"
-    },
-    {
-      "title": "Deep Linking from a Web Catalogue to Native App Screens",
-      "link": "https://dev.to/desgh_white_7e4c654897816/deep-linking-from-a-web-catalogue-to-native-app-screens-i55",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 05:53:16 +0000",
-      "summary": "When a web page links to an app screen and the app is not installed, the user sees a blank page or an error. Universal Links (iOS) and App Links (Android) solve the installed case but leave the uninst",
-      "score": 5,
-      "titleZh": "Deep Linking from a Web Catalogue to Native App Screens"
-    },
-    {
-      "title": "How to Trim Audio for a Mountain Trail Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-mountain-trail-video-free-in-your-browser-3148",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 05:53:13 +0000",
-      "summary": "A mountain trail video usually comes back with great footage and messy audio: wind noise at the summit, long silent stretches on the climb, and a song that outlasts the clip by two minutes. Trimming t",
-      "score": 5,
-      "titleZh": "How to Trim Audio for a Mountain Trail Video — Free, in Your Browser"
-    },
-    {
-      "title": "Progressive Image Loading for Content-Heavy Landing Pages",
-      "link": "https://dev.to/desgh_white_7e4c654897816/progressive-image-loading-for-content-heavy-landing-pages-5724",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 05:52:40 +0000",
-      "summary": "A landing page with twenty high-resolution images above the fold loads in 8 seconds on a 4G connection. Users leave after 3. The fix is not fewer images — it is smarter loading. Inline placeholder — a",
-      "score": 5,
-      "titleZh": "Progressive Image Loading for Content-Heavy Landing Pages"
-    },
-    {
-      "title": "Handling Time Zones in a Global Event Scheduler",
-      "link": "https://dev.to/desgh_white_7e4c654897816/handling-time-zones-in-a-global-event-scheduler-4hic",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 05:52:04 +0000",
-      "summary": "A scheduler that works in UTC and converts only at display time is the standard advice. It is also wrong for a subset of cases: recurring events that the user intends to happen at a local time regardl",
-      "score": 5,
-      "titleZh": "Handling Time Zones in a Global Event Scheduler"
+      "titleZh": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video"
     }
   ]
 }
