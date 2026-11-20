@@ -1,34 +1,10 @@
 {
-  "updated": "2026-11-19T18:52:43.440Z",
-  "date": "2026-11-19",
+  "updated": "2026-11-20T05:45:04.397Z",
+  "date": "2026-11-20",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
-    {
-      "title": "Fuck Your AI Safeguards",
-      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 16:30:18 +0000",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262",
-      "score": 150,
-      "titleZh": "Fuck Your AI Safeguards"
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "link": "https://thedataexchange.media/pete-warden-moonshine/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 15:38:12 +0000",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508",
-      "score": 147,
-      "titleZh": "Pete warden on local AI, open models, voice interfaces, the future of hardware"
-    },
     {
       "title": "Claude solves two open problems in the physics of black holes",
       "link": "https://www.anthropic.com/research/claude-black-hole-physics",
@@ -38,212 +14,236 @@
       ],
       "date": "Thu, 19 Nov 2026 17:30:44 +0000",
       "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148",
-      "score": 119,
+      "score": 445,
       "titleZh": "Claude solves two open problems in the physics of black holes"
     },
     {
-      "title": "Chrome AI features wasting much bandwidth",
-      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 19 Nov 2026 16:54:25 +0000",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636",
-      "score": 67,
-      "titleZh": "Chrome AI features wasting much bandwidth"
+      "date": "Thu, 19 Nov 2026 18:47:16 +0000",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366",
+      "score": 92,
+      "titleZh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 18:00:00 +0000",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "score": 5,
-      "titleZh": "Introducing Tool Retrieval in the Gemini API"
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "score": 5,
-      "titleZh": "Walter Isaacson on curiosity and creativity in the AI age."
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "score": 5,
-      "titleZh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
-    },
-    {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.21682",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "link": "https://arxiv.org/abs/2611.23322",
       "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, e",
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay go",
       "score": 5,
-      "titleZh": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models"
+      "titleZh": "Human-AI Mutualism Is Unstable under Capability Asymmetry"
     },
     {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "link": "https://arxiv.org/abs/2611.21799",
+      "title": "Training Language Models for Introspective Oversight",
+      "link": "https://arxiv.org/abs/2611.23365",
       "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that m",
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking th",
       "score": 5,
-      "titleZh": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability"
+      "titleZh": "Training Language Models for Introspective Oversight"
     },
     {
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "link": "https://arxiv.org/abs/2611.21827",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "link": "https://arxiv.org/abs/2611.23375",
       "source": "ArXiv AI",
       "tags": [
         "AI"
       ],
-      "date": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores",
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software th",
       "score": 5,
-      "titleZh": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
+      "titleZh": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding"
     },
     {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "source": "HN·前端",
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "link": "https://arxiv.org/abs/2611.23398",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-sc",
+      "score": 5,
+      "titleZh": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs"
+    },
+    {
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "link": "https://arxiv.org/abs/2611.23410",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design i",
+      "score": 5,
+      "titleZh": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding"
+    },
+    {
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "link": "https://arxiv.org/abs/2611.23445",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequentl",
+      "score": 5,
+      "titleZh": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops"
+    },
+    {
+      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+      "link": "https://arxiv.org/abs/2611.23454",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient",
+      "score": 5,
+      "titleZh": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese"
+    },
+    {
+      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "link": "https://arxiv.org/abs/2611.23456",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challeng",
+      "score": 5,
+      "titleZh": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items"
+    },
+    {
+      "title": "Why Hiring Dedicated Microsoft Developers Is Cost Effective for Growing Businesses",
+      "link": "https://dev.to/techguru01/why-hiring-dedicated-microsoft-developers-is-cost-effective-for-growing-businesses-8l0",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 05:56:36 +0000",
-      "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533",
-      "score": 318,
-      "titleZh": "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
+      "date": "Fri, 20 Nov 2026 05:44:45 +0000",
+      "summary": "Growth creates a particular kind of technology problem. The business needs more software, more automation, and better data, and it needs them now. But the budget is not unlimited, the hiring market is",
+      "score": 5,
+      "titleZh": "Why Hiring Dedicated Microsoft Developers Is Cost Effective for Growing Businesses"
     },
     {
-      "title": "Mock an e-commerce backend for your React app in 5 minutes",
-      "link": "https://dev.to/indika_gayashan_u/mock-an-e-commerce-backend-for-your-react-app-in-5-minutes-1e8c",
+      "title": "How to Embed a Booking System Into Your Website or App (2026)",
+      "link": "https://dev.to/stangineer/how-to-embed-a-booking-system-into-your-website-or-app-2026-5fkp",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:52:26 +0000",
-      "summary": "You're building the frontend for a store. The design is ready, but the backend isn't, and you're tired of hardcoding const products = [...] in a file. In this tutorial we'll build a small React produc",
+      "date": "Fri, 20 Nov 2026 05:42:48 +0000",
+      "summary": "\"Can we add booking to the site?\" is one of those requests that sounds like a script tag and turns into a sprint. Sometimes it genuinely is a script tag. Sometimes the script tag is the thing that mak",
       "score": 5,
-      "titleZh": "Mock an e-commerce backend for your React app in 5 minutes"
+      "titleZh": "How to Embed a Booking System Into Your Website or App (2026)"
     },
     {
-      "title": "Taming Claude Code: A Practical Guide to CLAUDE.md and Hooks",
-      "link": "https://dev.to/mkare/taming-claude-code-a-practical-guide-to-claudemd-and-hooks-dkn",
+      "title": "The Importance of Website Speed Optimization for Better Business Performance",
+      "link": "https://dev.to/brandstory_56756/the-importance-of-website-speed-optimization-for-better-business-performance-1gjn",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:51:02 +0000",
-      "summary": "Originally published on Medium (JavaScript in Plain English). Read on Medium for free via Friend Link. ⚡ Get the Claude Code Production Starter Kit Quick Takeaways CLAUDE.md is advisory, not a hard lo",
+      "date": "Fri, 20 Nov 2026 05:42:37 +0000",
+      "summary": "Website speed plays an important role in creating a positive online experience. Visitors expect websites to load quickly and provide information without delays. A slow website can affect user engageme",
       "score": 5,
-      "titleZh": "Taming Claude Code: A Practical Guide to CLAUDE.md and Hooks"
+      "titleZh": "The Importance of Website Speed Optimization for Better Business Performance"
     },
     {
-      "title": "Why Do Startups Fail Before Launch?",
-      "link": "https://dev.to/priya_sajja_c336921bbda87/why-do-startups-fail-before-launch-2b3g",
+      "title": "A Short Field Guide to the Four Wingdings Fonts",
+      "link": "https://dev.to/songlessanswers/a-short-field-guide-to-the-four-wingdings-fonts-1kf0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:46:52 +0000",
-      "summary": "When people think about starting a business, they often imagine building a website, designing a logo, developing an application, or launching a marketing campaign. But there is something important tha",
+      "date": "Fri, 20 Nov 2026 05:42:34 +0000",
+      "summary": "The name \"Wingdings\" covers four fonts with four different mappings, and that is the source of most decoding mistakes. Wingdings 1 is the original 1992 font: faces, hands, mail, weather, stars. Wingdi",
       "score": 5,
-      "titleZh": "Why Do Startups Fail Before Launch?"
+      "titleZh": "A Short Field Guide to the Four Wingdings Fonts"
     },
     {
-      "title": "HyperFrames vs Remotion for agent-written video: check the license first",
-      "link": "https://dev.to/skillselion/hyperframes-vs-remotion-for-agent-written-video-check-the-license-first-2p11",
+      "title": "WordPress vs Shopify vs React/Next.js in 2026: Total Cost of Ownership, Core Web Vitals & Engineering ROI",
+      "link": "https://dev.to/uchitchakma/wordpress-vs-shopify-vs-reactnextjs-in-2026-total-cost-of-ownership-core-web-vitals--ni5",
       "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:45:01 +0000",
-      "summary": "Disclosure: I work on Skillselion, an independent directory of Claude Code, Codex and Cursor extensions. We are not affiliated with HeyGen, Remotion or Anthropic. This post was drafted with AI help, a",
+      "date": "Fri, 20 Nov 2026 05:40:21 +0000",
+      "summary": "WordPress vs Shopify vs React/Next.js in 2026: Total Cost of Ownership, Core Web Vitals & Engineering ROI Every week at UCDREAMS TECHNOLOGIES LLP, founders and product leaders come to us after spendin",
       "score": 5,
-      "titleZh": "HyperFrames vs Remotion for agent-written video: check the license first"
+      "titleZh": "WordPress vs Shopify vs React/Next.js in 2026: Total Cost of Ownership, Core Web Vitals & Engineering ROI"
     },
     {
-      "title": "Vercel AI Gateway Virtual Models: Swap Providers Safely",
-      "link": "https://dev.to/mudassirworks/vercel-ai-gateway-virtual-models-swap-providers-safely-33e9",
+      "title": "The Local Constraints Are the Spec",
+      "link": "https://dev.to/usman_khan_b21d205871d062/the-local-constraints-are-the-spec-4mbk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:41:30 +0000",
-      "summary": "Vercel just shipped virtual model IDs on AI Gateway, so you can change the provider, the fallback chain and the model behind a request centrally, without deploying a single line of application code. T",
+      "date": "Fri, 20 Nov 2026 05:39:12 +0000",
+      "summary": "Most software gets designed in a quiet room with a fast connection, in one language, on a normal working week. Then it ships into a market that has none of those things. In the Gulf, that gap is where",
       "score": 5,
-      "titleZh": "Vercel AI Gateway Virtual Models: Swap Providers Safely"
+      "titleZh": "The Local Constraints Are the Spec"
     },
     {
-      "title": "Get Found in Search and AI with Webpulls",
-      "link": "https://dev.to/senar_games_8c9dc79740209/get-found-in-search-and-ai-with-webpulls-14n6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 19 Nov 2026 18:37:29 +0000",
-      "summary": "Webpulls is an AI-powered SEO audit and reporting tool for the foundation both jobs share: a crawlable, well-optimized site, plus guided submission to major search engines and, on a higher plan, direc",
-      "score": 5,
-      "titleZh": "Get Found in Search and AI with Webpulls"
-    },
-    {
-      "title": "Why a Remote Image Renders but Canvas Pixel Access Fails",
-      "link": "https://dev.to/mediatourl/why-a-remote-image-renders-but-canvas-pixel-access-fails-42bo",
+      "title": "4 Subtle Engineering Traps When Building Multi-Language Financial & Utility Web Tools",
+      "link": "https://dev.to/minitooldesk/4-subtle-engineering-traps-when-building-multi-language-financial-utility-web-tools-153m",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:36:40 +0000",
-      "summary": "An image can look correct in a page and still fail when an editor tries to read its pixels. You may see a remote photo on screen, draw it onto a canvas, and then get a SecurityError from getImageData(",
+      "date": "Fri, 20 Nov 2026 05:36:39 +0000",
+      "summary": "Translating button labels is the easy part of internationalization (i18n). When I started scaling MiniToolDesk—a suite of 100% browser-local developer utilities and financial calculators across Englis",
       "score": 5,
-      "titleZh": "Why a Remote Image Renders but Canvas Pixel Access Fails"
+      "titleZh": "4 Subtle Engineering Traps When Building Multi-Language Financial & Utility Web Tools"
     },
     {
-      "title": "The parts list should not live in the truck cab",
-      "link": "https://dev.to/ashleybuilds/the-parts-list-should-not-live-in-the-truck-cab-3knb",
+      "title": "Git Push Rejected: Fix 'Failed to Push Some Refs' (Every Cause)",
+      "link": "https://dev.to/kausarraza/git-push-rejected-fix-failed-to-push-some-refs-every-cause-36f",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:35:38 +0000",
-      "summary": "Wes here. I sell Electrician OS, a Notion setup for electricians who run the office side from the truck. A parts list kept in the cab helps the person in that truck. It does not help the person orderi",
+      "date": "Fri, 20 Nov 2026 05:34:25 +0000",
+      "summary": "\"error: failed to push some refs to\" is Git's catch-all line for \"the server didn't accept your push\". It tells you nothing on its own. The useful part is the label in brackets one line above it: (fet",
       "score": 5,
-      "titleZh": "The parts list should not live in the truck cab"
+      "titleZh": "Git Push Rejected: Fix 'Failed to Push Some Refs' (Every Cause)"
     },
     {
-      "title": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video",
-      "link": "https://dev.to/amananandrai/i-built-a-ghibli-style-mughal-tudor-palace-with-world-labs-atlas-chisel-heres-what-it-can-do-l21",
-      "source": "Dev.to WebDev",
+      "title": "4 Repetitive Frontend & API Tasks You Can Automate in Seconds Without Installing Anything",
+      "link": "https://dev.to/minitooldesk/4-repetitive-frontend-api-tasks-you-can-automate-in-seconds-without-installing-anything-1pig",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 19 Nov 2026 18:33:22 +0000",
-      "summary": "Last week World Labs opened Atlas, its world model, to everyone. I wanted to see what it could actually do, so I gave it a hard brief: an architectural mash-up that doesn't exist anywhere in its train",
+      "date": "Fri, 20 Nov 2026 05:34:14 +0000",
+      "summary": "A lot of frontend engineering time gets eaten up by small, repetitive glue tasks: mocking a loading spinner without pulling in a 50KB icon library, translating an updated GraphQL schema into TypeScrip",
       "score": 5,
-      "titleZh": "I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video"
+      "titleZh": "4 Repetitive Frontend & API Tasks You Can Automate in Seconds Without Installing Anything"
+    },
+    {
+      "title": "How I Built a Multi-Language Static Utility Suite with Zero Backend & Near-Zero Hosting Cost",
+      "link": "https://dev.to/minitooldesk/how-i-built-a-multi-language-static-utility-suite-with-zero-backend-near-zero-hosting-cost-4d08",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 20 Nov 2026 05:32:44 +0000",
+      "summary": "When building side-project web utilities—formatters, code generators, image compressors, or financial calculators—most developers reach for a full-stack framework, an API layer, and a database out of ",
+      "score": 5,
+      "titleZh": "How I Built a Multi-Language Static Utility Suite with Zero Backend & Near-Zero Hosting Cost"
     }
   ]
 }
