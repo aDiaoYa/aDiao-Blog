@@ -1,105 +1,69 @@
 {
-  "updated": "2026-11-20T18:18:58.241Z",
-  "date": "2026-11-20",
+  "updated": "2026-11-21T05:40:27.203Z",
+  "date": "2026-11-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-      "link": "https://arxiv.org/abs/2611.23322",
-      "source": "ArXiv AI",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "HN·AI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay go",
-      "score": 5,
-      "titleZh": "Human-AI Mutualism Is Unstable under Capability Asymmetry"
+      "date": "Fri, 20 Nov 2026 13:29:59 +0000",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383",
+      "score": 201,
+      "titleZh": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day"
     },
     {
-      "title": "Training Language Models for Introspective Oversight",
-      "link": "https://arxiv.org/abs/2611.23365",
-      "source": "ArXiv AI",
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking th",
+      "date": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "score": 5,
-      "titleZh": "Training Language Models for Introspective Oversight"
+      "titleZh": "Combatting adversarial distillation"
     },
     {
-      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-      "link": "https://arxiv.org/abs/2611.23375",
-      "source": "ArXiv AI",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software th",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "score": 5,
-      "titleZh": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding"
+      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra"
     },
     {
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "link": "https://arxiv.org/abs/2611.23398",
-      "source": "ArXiv AI",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-sc",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
       "score": 5,
-      "titleZh": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs"
+      "titleZh": "Can AI help scientists identify promising drug candidates?"
     },
     {
-      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-      "link": "https://arxiv.org/abs/2611.23410",
-      "source": "ArXiv AI",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design i",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding"
-    },
-    {
-      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-      "link": "https://arxiv.org/abs/2611.23445",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequentl",
-      "score": 5,
-      "titleZh": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops"
-    },
-    {
-      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-      "link": "https://arxiv.org/abs/2611.23454",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient",
-      "score": 5,
-      "titleZh": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese"
-    },
-    {
-      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-      "link": "https://arxiv.org/abs/2611.23456",
-      "source": "ArXiv AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challeng",
-      "score": 5,
-      "titleZh": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items"
+      "titleZh": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -126,124 +90,160 @@
       "titleZh": "Introducing Tool Retrieval in the Gemini API"
     },
     {
-      "title": "How Much Does It Cost to Build an MVP in 2026?",
-      "link": "https://dev.to/ai_dev_planner/how-much-does-it-cost-to-build-an-mvp-in-2026-ge5",
-      "source": "Dev.to WebDev",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Fri, 20 Nov 2026 18:18:15 +0000",
-      "summary": "The short answer A professionally built MVP in 2026 usually costs $10,000 to $150,000, with most focused software MVPs landing between $25,000 and $65,000 over 8 to 12 weeks. The cheapest honest way t",
+      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
       "score": 5,
-      "titleZh": "How Much Does It Cost to Build an MVP in 2026?"
+      "titleZh": "Walter Isaacson on curiosity and creativity in the AI age."
     },
     {
-      "title": "Batch background removal rarely fails because it's slow",
-      "link": "https://dev.to/removebgstudio/batch-background-removal-rarely-fails-because-its-slow-2j85",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "score": 5,
+      "titleZh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "score": 5,
+      "titleZh": "Explore the Codex Security Plugin"
+    },
+    {
+      "title": "npm install -g @zintrust/core\r\nzin new my-app\r\ncd my-app\r\nzin add db:sqlite\r\nzin start",
+      "link": "https://dev.to/diadal/npm-install-g-zintrustcorezin-new-my-appcd-my-appzin-add-dbsqlitezin-start-51k4",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 20 Nov 2026 18:16:11 +0000",
-      "summary": "our ways a batch goes to waste, and what a batch you can actually ship looks like. A 30-image batch dies at image 22. Or you get to image 6, the tab refreshes, and the first five results are gone. Acc",
+      "date": "Sat, 21 Nov 2026 05:39:46 +0000",
+      "summary": "From Zero to a Running API in Minutes zintrust Zin Nov 20 #typescript #node #productivity #webdev 1 reaction Add Comment 1 min read",
       "score": 5,
-      "titleZh": "Batch background removal rarely fails because it's slow"
+      "titleZh": "npm install -g @zintrust/core\r\nzin new my-app\r\ncd my-app\r\nzin add db:sqlite\r\nzin start"
     },
     {
-      "title": "Videos as Code: Making Your First Clip with Claude Fable 5.2",
-      "link": "https://dev.to/abdul_hannan_988ba9fed43c/videos-as-code-making-your-first-clip-with-claude-fable-52-287b",
+      "title": "Your First Project Doesn't Need to Be Impressive. It Needs to Teach You Something.",
+      "link": "https://dev.to/work_kodetocareer_577c77a/your-first-project-doesnt-need-to-be-impressive-it-needs-to-teach-you-something-3gh9",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 20 Nov 2026 18:14:25 +0000",
-      "summary": "On 9 November, my feed filled up with videos credited to Claude Fable 5.2. 3D scenes, short films, product ads, explainers — thirty of them by thirty different creators in a single day, median length ",
+      "date": "Sat, 21 Nov 2026 05:38:43 +0000",
+      "summary": "We have noticed something interesting about beginners learning web development. Many people spend weeks planning a big project. They want to build the next big platform, a complete e-commerce website,",
       "score": 5,
-      "titleZh": "Videos as Code: Making Your First Clip with Claude Fable 5.2"
+      "titleZh": "Your First Project Doesn't Need to Be Impressive. It Needs to Teach You Something."
     },
     {
-      "title": "Schengen 90/180-Day Rule Explained: How Digital Nomads Track Rolling Stays Accurately",
-      "link": "https://dev.to/b2_brands_e749bb8ab3ddac6/schengen-90180-day-rule-explained-how-digital-nomads-track-rolling-stays-accurately-1fp9",
+      "title": "I Built 23 Free Browser File Tools with Zero Backend Servers (Astro 6 + WASM)",
+      "link": "https://dev.to/nakaniship/i-built-23-free-browser-file-tools-with-zero-backend-servers-astro-6-wasm-2kc8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 20 Nov 2026 18:13:05 +0000",
-      "summary": "Key Takeaways The 90/180 rule limits non-EU nationals to 90 days of presence in the Schengen Area within any rolling 180-day window. Calculation is backward-looking: On any given day, count the days s",
+      "date": "Sat, 21 Nov 2026 05:38:42 +0000",
+      "summary": "Every time I needed to merge two PDFs, convert an iPhone HEIC photo, check video loudness (LUFS) before uploading to YouTube, or inspect C2PA metadata, I felt uneasy uploading personal or work files t",
       "score": 5,
-      "titleZh": "Schengen 90/180-Day Rule Explained: How Digital Nomads Track Rolling Stays Accurately"
+      "titleZh": "I Built 23 Free Browser File Tools with Zero Backend Servers (Astro 6 + WASM)"
     },
     {
-      "title": "Next.js App Router and OpenAI Chat Guide",
-      "link": "https://dev.to/gateofai/nextjs-app-router-and-openai-chat-guide-4h9m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 20 Nov 2026 18:11:54 +0000",
-      "summary": "🚀 Technical Briefing: This tutorial is part of our deep-dive series on Agentic Workflows at Gate of AI. For the full technical breakdown, interactive code sandbox, and the native Arabic translation, ",
-      "score": 5,
-      "titleZh": "Next.js App Router and OpenAI Chat Guide"
-    },
-    {
-      "title": "Qwen LoRA Fine-Tuning with Hugging Face PEFT",
-      "link": "https://dev.to/gateofai/qwen-lora-fine-tuning-with-hugging-face-peft-5fd1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 20 Nov 2026 18:11:34 +0000",
-      "summary": "🚀 Technical Briefing: This tutorial is part of our deep-dive series on Agentic Workflows at Gate of AI. For the full technical breakdown, interactive code sandbox, and the native Arabic translation, ",
-      "score": 5,
-      "titleZh": "Qwen LoRA Fine-Tuning with Hugging Face PEFT"
-    },
-    {
-      "title": "Hackers' AI Found a Hole Nobody Knew About and Broke In Within 11 Minutes. What on Your Server Is Open to the Internet?",
-      "link": "https://dev.to/hackerme/hackers-ai-found-a-hole-nobody-knew-about-and-broke-in-within-11-minutes-what-on-your-server-is-4fl",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 20 Nov 2026 18:11:27 +0000",
-      "summary": "If you run a website, an admin page, or any tool on a server that can be reached from the internet, this is a check worth doing this week. Amazon Threat Intelligence reported on 20 November 2026 that ",
-      "score": 5,
-      "titleZh": "Hackers' AI Found a Hole Nobody Knew About and Broke In Within 11 Minutes. What on Your Server Is Open to the Internet?"
-    },
-    {
-      "title": "Compressing a PDF to an exact file size (like 200 KB) in the browser with WebAssembly",
-      "link": "https://dev.to/zulkar_nainkhan_71c18d18/compressing-a-pdf-to-an-exact-file-size-like-200-kb-in-the-browser-with-webassembly-1gb2",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 20 Nov 2026 18:10:28 +0000",
-      "summary": "Every government portal, job site and university application seems to have the same rule: \"Upload a PDF, max 200 KB.\" Then you scan a two-page form on your phone and get a 4 MB file. I built KaiPDF, a",
-      "score": 5,
-      "titleZh": "Compressing a PDF to an exact file size (like 200 KB) in the browser with WebAssembly"
-    },
-    {
-      "title": "AI Rate Limiting for LLM Calls in TypeScript",
-      "link": "https://dev.to/lakbud/ai-rate-limiting-for-llm-calls-in-typescript-3mfo",
+      "title": "Browser Direct Upload Storage: Signed Game Art Without Proxy Server Relays",
+      "link": "https://dev.to/malachinilsson7591/browser-direct-upload-storage-signed-game-art-without-proxy-server-relays-180h",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 20 Nov 2026 18:10:06 +0000",
-      "summary": "You fire 50 LLM calls at once. A batch job, a fan out over documents, a busy hour. The provider only lets 10 through at a time, so the rest come back as 429 Too Many Requests. The usual fix is to retr",
+      "date": "Sat, 21 Nov 2026 05:37:46 +0000",
+      "summary": "TL;DR: For a gaming catalog that accepts large product images, send browser bytes straight to private object storage with a short-lived signed upload URL. Keep only tenant ownership and object state i",
       "score": 5,
-      "titleZh": "AI Rate Limiting for LLM Calls in TypeScript"
+      "titleZh": "Browser Direct Upload Storage: Signed Game Art Without Proxy Server Relays"
     },
     {
-      "title": "I Tested the Entire Prisma Platform on My Project: The Good, What Broke, and the Cloud Bill",
-      "link": "https://dev.to/amanbind898/i-tested-the-entire-prisma-platform-on-my-project-the-good-what-broke-and-the-cloud-bill-4gje",
-      "source": "Dev.to Next.js",
+      "title": "Cursor IDE Review 2026: Is It the Best AI Code Editor Right Now?",
+      "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/cursor-ide-review-2026-is-it-the-best-ai-code-editor-right-now-436j",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 20 Nov 2026 18:09:19 +0000",
-      "summary": "A few months ago, I wrote an article titled “I Reduced Prisma Database Operations by 60% Without Upgrading My Database”. In that post, I shared how profiling slow queries with EXPLAIN ANALYZE helped u",
+      "date": "Sat, 21 Nov 2026 05:36:14 +0000",
+      "summary": "The landscape of software development tools has been transformed by artificial intelligence, and at the forefront of this revolution sits Cursor IDE. Built on top of Visual Studio Code, Cursor has gar",
       "score": 5,
-      "titleZh": "I Tested the Entire Prisma Platform on My Project: The Good, What Broke, and the Cloud Bill"
+      "titleZh": "Cursor IDE Review 2026: Is It the Best AI Code Editor Right Now?"
+    },
+    {
+      "title": "Buy LinkedIn Accounts — Rent Verified Profiles From $110 …",
+      "link": "https://dev.to/pvasmmmarket8/buy-linkedin-accounts-rent-verified-profiles-from-110--48f9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 05:35:58 +0000",
+      "summary": "Buy LinkedIn Accounts — Rent Verified Profiles From $110 … ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com me an important part of modern life. Whether someone is searching for empl",
+      "score": 5,
+      "titleZh": "Buy LinkedIn Accounts — Rent Verified Profiles From $110 …"
+    },
+    {
+      "title": "Top 10 Sites To Buy Old Github Accounts In 2025-26.pdf",
+      "link": "https://dev.to/pvasmmmarket8/top-10-sites-to-buy-old-github-accounts-in-2025-26pdf-bd1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 05:35:31 +0000",
+      "summary": "Top 10 Sites To Buy Old Github Accounts In 2025-26.pdf ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Understanding digital platforms Learners become familiar with online repositor",
+      "score": 5,
+      "titleZh": "Top 10 Sites To Buy Old Github Accounts In 2025-26.pdf"
+    },
+    {
+      "title": "Digital Transformation Keynote Speaker Lessons for Human Centered Growth",
+      "link": "https://dev.to/osvaldorusso/digital-transformation-keynote-speaker-lessons-for-human-centered-growth-ph1",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 05:34:42 +0000",
+      "summary": "Transformation is often described in terms of systems, platforms, and data. Those elements matter, but they are only half the story. The other half is people, who must learn, adapt, and trust the dire",
+      "score": 5,
+      "titleZh": "Digital Transformation Keynote Speaker Lessons for Human Centered Growth"
+    },
+    {
+      "title": "Shopify Products Not Showing on Google? How to Fix It",
+      "link": "https://dev.to/nextgenfusion/shopify-products-not-showing-on-google-how-to-fix-it-242i",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 05:34:30 +0000",
+      "summary": "If your Shopify products are not showing on Google, the cause is usually one of three things: the products never reached Google Merchant Center, Merchant Center has flagged them, or Google can't crawl",
+      "score": 5,
+      "titleZh": "Shopify Products Not Showing on Google? How to Fix It"
+    },
+    {
+      "title": "Next.js Hosting Compared: Vercel, Netlify and Cloudflare",
+      "link": "https://dev.to/nextgenfusion/nextjs-hosting-compared-vercel-netlify-and-cloudflare-1l2e",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 05:34:19 +0000",
+      "summary": "For most business websites, Next.js hosting comes down to three good options. Vercel is the simplest because it maintains Next.js and supports it with zero configuration. Netlify runs Next.js through ",
+      "score": 5,
+      "titleZh": "Next.js Hosting Compared: Vercel, Netlify and Cloudflare"
     }
   ]
 }
