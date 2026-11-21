@@ -1,22 +1,10 @@
 {
-  "updated": "2026-11-21T05:40:27.203Z",
+  "updated": "2026-11-21T17:06:12.123Z",
   "date": "2026-11-21",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 13:29:59 +0000",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383",
-      "score": 201,
-      "titleZh": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day"
-    },
     {
       "title": "Combatting adversarial distillation",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -126,124 +114,136 @@
       "titleZh": "Explore the Codex Security Plugin"
     },
     {
-      "title": "npm install -g @zintrust/core\r\nzin new my-app\r\ncd my-app\r\nzin add db:sqlite\r\nzin start",
-      "link": "https://dev.to/diadal/npm-install-g-zintrustcorezin-new-my-appcd-my-appzin-add-dbsqlitezin-start-51k4",
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "score": 5,
+      "titleZh": "See PR scans in action"
+    },
+    {
+      "title": "I Tested My Agency’s AI Visibility Across 49 Answers. Here’s How I Measured It",
+      "link": "https://dev.to/bams-digital/i-tested-my-agencys-ai-visibility-across-49-answers-heres-how-i-measured-it-42b5",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 17:01:56 +0000",
+      "summary": "I run BAMS Digital, a digital marketing agency, and I wanted to answer a question about our own site: when someone asks AI for help with a service we offer, does our agency come up? On 17 November 202",
+      "score": 5,
+      "titleZh": "I Tested My Agency’s AI Visibility Across 49 Answers. Here’s How I Measured It"
+    },
+    {
+      "title": "Your Side Project Doesn't Need More Compliments. It Needs Better Feedback. Imagine this.",
+      "link": "https://dev.to/dineshbista/your-side-project-doesnt-need-more-compliments-it-needs-better-feedbackimagine-this-24gc",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 16:58:16 +0000",
+      "summary": "You've spent three months building a side project. You finally share it with friends. Their response? \"Looks amazing!\" \"Great work!\" \"Keep going!\" You feel good for a moment. But then you realize some",
+      "score": 5,
+      "titleZh": "Your Side Project Doesn't Need More Compliments. It Needs Better Feedback. Imagine this."
+    },
+    {
+      "title": "I built a 3D open-world mythology game in the browser with just Three.js",
+      "link": "https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 05:39:46 +0000",
-      "summary": "From Zero to a Running API in Minutes zintrust Zin Nov 20 #typescript #node #productivity #webdev 1 reaction Add Comment 1 min read",
+      "date": "Sat, 21 Nov 2026 16:57:12 +0000",
+      "summary": "I'm a software developer, and for a while I'd been curious how far a browser could go with nothing but Three.js and the Web Audio API. So I built a game to find out. Devayan: The Ten Drops of Amrita i",
       "score": 5,
-      "titleZh": "npm install -g @zintrust/core\r\nzin new my-app\r\ncd my-app\r\nzin add db:sqlite\r\nzin start"
+      "titleZh": "I built a 3D open-world mythology game in the browser with just Three.js"
     },
     {
-      "title": "Your First Project Doesn't Need to Be Impressive. It Needs to Teach You Something.",
-      "link": "https://dev.to/work_kodetocareer_577c77a/your-first-project-doesnt-need-to-be-impressive-it-needs-to-teach-you-something-3gh9",
+      "title": "My Show HN died in 4 minutes — the trycloudflare URL was the killer",
+      "link": "https://dev.to/nexusfoundry/my-show-hn-died-in-4-minutes-the-trycloudflare-url-was-the-killer-382g",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 05:38:43 +0000",
-      "summary": "We have noticed something interesting about beginners learning web development. Many people spend weeks planning a big project. They want to build the next big platform, a complete e-commerce website,",
+      "date": "Sat, 21 Nov 2026 16:54:28 +0000",
+      "summary": "I spent last night preparing a Show HN for a little project: a simulated economy where LLM agents buy and sell digital products, plus the BTC store the \"winners\" end up in. Draft ready, copy honed, cl",
       "score": 5,
-      "titleZh": "Your First Project Doesn't Need to Be Impressive. It Needs to Teach You Something."
+      "titleZh": "My Show HN died in 4 minutes — the trycloudflare URL was the killer"
     },
     {
-      "title": "I Built 23 Free Browser File Tools with Zero Backend Servers (Astro 6 + WASM)",
-      "link": "https://dev.to/nakaniship/i-built-23-free-browser-file-tools-with-zero-backend-servers-astro-6-wasm-2kc8",
+      "title": "Multilingual websites in 2027: how to reach customers beyond your home market",
+      "link": "https://dev.to/dmytro_cian/multilingual-websites-in-2027-how-to-reach-customers-beyond-your-home-market-15j5",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 05:38:42 +0000",
-      "summary": "Every time I needed to merge two PDFs, convert an iPhone HEIC photo, check video loudness (LUFS) before uploading to YouTube, or inspect C2PA metadata, I felt uneasy uploading personal or work files t",
+      "date": "Sat, 21 Nov 2026 16:53:02 +0000",
+      "summary": "Let us imagine a fairly ordinary situation. You run a small business in Ukraine. You make furniture, sell clothes, design jewellery or offer services that do not require meeting clients in person. You",
       "score": 5,
-      "titleZh": "I Built 23 Free Browser File Tools with Zero Backend Servers (Astro 6 + WASM)"
+      "titleZh": "Multilingual websites in 2027: how to reach customers beyond your home market"
     },
     {
-      "title": "Browser Direct Upload Storage: Signed Game Art Without Proxy Server Relays",
-      "link": "https://dev.to/malachinilsson7591/browser-direct-upload-storage-signed-game-art-without-proxy-server-relays-180h",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 05:37:46 +0000",
-      "summary": "TL;DR: For a gaming catalog that accepts large product images, send browser bytes straight to private object storage with a short-lived signed upload URL. Keep only tenant ownership and object state i",
-      "score": 5,
-      "titleZh": "Browser Direct Upload Storage: Signed Game Art Without Proxy Server Relays"
-    },
-    {
-      "title": "Cursor IDE Review 2026: Is It the Best AI Code Editor Right Now?",
-      "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/cursor-ide-review-2026-is-it-the-best-ai-code-editor-right-now-436j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 05:36:14 +0000",
-      "summary": "The landscape of software development tools has been transformed by artificial intelligence, and at the forefront of this revolution sits Cursor IDE. Built on top of Visual Studio Code, Cursor has gar",
-      "score": 5,
-      "titleZh": "Cursor IDE Review 2026: Is It the Best AI Code Editor Right Now?"
-    },
-    {
-      "title": "Buy LinkedIn Accounts — Rent Verified Profiles From $110 …",
-      "link": "https://dev.to/pvasmmmarket8/buy-linkedin-accounts-rent-verified-profiles-from-110--48f9",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 05:35:58 +0000",
-      "summary": "Buy LinkedIn Accounts — Rent Verified Profiles From $110 … ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com me an important part of modern life. Whether someone is searching for empl",
-      "score": 5,
-      "titleZh": "Buy LinkedIn Accounts — Rent Verified Profiles From $110 …"
-    },
-    {
-      "title": "Top 10 Sites To Buy Old Github Accounts In 2025-26.pdf",
-      "link": "https://dev.to/pvasmmmarket8/top-10-sites-to-buy-old-github-accounts-in-2025-26pdf-bd1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 05:35:31 +0000",
-      "summary": "Top 10 Sites To Buy Old Github Accounts In 2025-26.pdf ➤ WhatsApp: +1 (262) 452-2139 @pvasmmmarket pvasmmmarket@gmail.com Understanding digital platforms Learners become familiar with online repositor",
-      "score": 5,
-      "titleZh": "Top 10 Sites To Buy Old Github Accounts In 2025-26.pdf"
-    },
-    {
-      "title": "Digital Transformation Keynote Speaker Lessons for Human Centered Growth",
-      "link": "https://dev.to/osvaldorusso/digital-transformation-keynote-speaker-lessons-for-human-centered-growth-ph1",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 05:34:42 +0000",
-      "summary": "Transformation is often described in terms of systems, platforms, and data. Those elements matter, but they are only half the story. The other half is people, who must learn, adapt, and trust the dire",
-      "score": 5,
-      "titleZh": "Digital Transformation Keynote Speaker Lessons for Human Centered Growth"
-    },
-    {
-      "title": "Shopify Products Not Showing on Google? How to Fix It",
-      "link": "https://dev.to/nextgenfusion/shopify-products-not-showing-on-google-how-to-fix-it-242i",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 05:34:30 +0000",
-      "summary": "If your Shopify products are not showing on Google, the cause is usually one of three things: the products never reached Google Merchant Center, Merchant Center has flagged them, or Google can't crawl",
-      "score": 5,
-      "titleZh": "Shopify Products Not Showing on Google? How to Fix It"
-    },
-    {
-      "title": "Next.js Hosting Compared: Vercel, Netlify and Cloudflare",
-      "link": "https://dev.to/nextgenfusion/nextjs-hosting-compared-vercel-netlify-and-cloudflare-1l2e",
+      "title": "React Hooks: useEffect vs useCallback vs useMemo",
+      "link": "https://dev.to/megalraja/react-hooks-useeffect-vs-usecallback-vs-usememo-57l3",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 05:34:19 +0000",
-      "summary": "For most business websites, Next.js hosting comes down to three good options. Vercel is the simplest because it maintains Next.js and supports it with zero configuration. Netlify runs Next.js through ",
+      "date": "Sat, 21 Nov 2026 16:52:48 +0000",
+      "summary": "When learning React, I came across three important hooks: useEffect, useCallback, and useMemo. At first, I found them confusing because they all use dependency arrays. But after understanding their pu",
       "score": 5,
-      "titleZh": "Next.js Hosting Compared: Vercel, Netlify and Cloudflare"
+      "titleZh": "React Hooks: useEffect vs useCallback vs useMemo"
+    },
+    {
+      "title": "Landing page or multi-page website in 2027: which format should a business choose?",
+      "link": "https://dev.to/dmytro_cian/landing-page-or-multi-page-website-in-2027-which-format-should-a-business-choose-20hh",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 16:52:44 +0000",
+      "summary": "A home renovation company receives two website proposals: a fairly inexpensive landing page and a more substantial corporate website. Both seem to promise a professional online presence and more custo",
+      "score": 5,
+      "titleZh": "Landing page or multi-page website in 2027: which format should a business choose?"
+    },
+    {
+      "title": "B2B e-commerce in 2027: automating wholesale sales, individual pricing and dealer accounts",
+      "link": "https://dev.to/dmytro_cian/b2b-e-commerce-in-2027-automating-wholesale-sales-individual-pricing-and-dealer-accounts-76d",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 16:51:53 +0000",
+      "summary": "Imagine a wholesaler working with several dozen retailers, installation companies or regional dealers. Each partner has its own price list. Some place orders weekly, while others buy once a month. A s",
+      "score": 5,
+      "titleZh": "B2B e-commerce in 2027: automating wholesale sales, individual pricing and dealer accounts"
+    },
+    {
+      "title": "What Runs First in a Next.js Page: Server Components, Render, Effects",
+      "link": "https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 16:51:33 +0000",
+      "summary": "A child component's useEffect reads something its parent's effect was supposed to set up. It's undefined. You add a console.log to both and find the child's effect ran first, even though the parent re",
+      "score": 5,
+      "titleZh": "What Runs First in a Next.js Page: Server Components, Render, Effects"
+    },
+    {
+      "title": "Base64 Encoding Is Not Encryption: What Every Developer Should Know",
+      "link": "https://dev.to/hoxtools/base64-encoding-is-not-encryption-what-every-developer-should-know-2o14",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sat, 21 Nov 2026 16:50:39 +0000",
+      "summary": "Base64 is a common encoding method used in web development, APIs, email systems, and data exchange. Developers often use it to convert text or binary data into a format that can be safely transmitted ",
+      "score": 5,
+      "titleZh": "Base64 Encoding Is Not Encryption: What Every Developer Should Know"
     }
   ]
 }
