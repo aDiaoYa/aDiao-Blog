@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T17:06:12.123Z",
-  "date": "2026-11-21",
+  "updated": "2026-11-22T05:07:05.481Z",
+  "date": "2026-11-22",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
@@ -27,7 +27,7 @@
       "date": "Fri, 20 Nov 2026 00:00:00 GMT",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "score": 5,
-      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra"
+      "titleZh": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步"
     },
     {
       "title": "Can AI help scientists identify promising drug candidates?",
@@ -51,7 +51,7 @@
       "date": "Fri, 20 Nov 2026 00:00:00 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
+      "titleZh": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -75,7 +75,7 @@
       "date": "Thu, 19 Nov 2026 18:00:00 +0000",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "score": 5,
-      "titleZh": "Introducing Tool Retrieval in the Gemini API"
+      "titleZh": "在 Gemini API 中引入工具检索"
     },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
@@ -99,7 +99,7 @@
       "date": "Thu, 19 Nov 2026 08:00:00 GMT",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "score": 5,
-      "titleZh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+      "titleZh": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速"
     },
     {
       "title": "Explore the Codex Security Plugin",
@@ -123,127 +123,127 @@
       "date": "Thu, 19 Nov 2026 00:00:00 GMT",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
       "score": 5,
-      "titleZh": "See PR scans in action"
+      "titleZh": "查看 PR 扫描的实际应用"
     },
     {
-      "title": "I Tested My Agency’s AI Visibility Across 49 Answers. Here’s How I Measured It",
-      "link": "https://dev.to/bams-digital/i-tested-my-agencys-ai-visibility-across-49-answers-heres-how-i-measured-it-42b5",
+      "title": "You Built the Project. Why Is the Resume Bullet So Hard?",
+      "link": "https://dev.to/hazel_12125/you-built-the-project-why-is-the-resume-bullet-so-hard-4nk8",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 17:01:56 +0000",
-      "summary": "I run BAMS Digital, a digital marketing agency, and I wanted to answer a question about our own site: when someone asks AI for help with a service we offer, does our agency come up? On 17 November 202",
+      "date": "Sun, 22 Nov 2026 05:01:54 +0000",
+      "summary": "How to describe your coding projects clearly, even when you’re applying for your first developer role. You finally got the app working. You remember the broken request, the state update that made no s",
       "score": 5,
-      "titleZh": "I Tested My Agency’s AI Visibility Across 49 Answers. Here’s How I Measured It"
+      "titleZh": "You Built the Project. Why Is the Resume Bullet So Hard?"
     },
     {
-      "title": "Your Side Project Doesn't Need More Compliments. It Needs Better Feedback. Imagine this.",
-      "link": "https://dev.to/dineshbista/your-side-project-doesnt-need-more-compliments-it-needs-better-feedbackimagine-this-24gc",
+      "title": "Static site contact form: Netlify, Vercel, Cloudflare Pages",
+      "link": "https://dev.to/harsimran_jeetsingh_83e2/static-site-contact-form-netlify-vercel-cloudflare-pages-43bi",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 16:58:16 +0000",
-      "summary": "You've spent three months building a side project. You finally share it with friends. Their response? \"Looks amazing!\" \"Great work!\" \"Keep going!\" You feel good for a moment. But then you realize some",
+      "date": "Sun, 22 Nov 2026 05:00:18 +0000",
+      "summary": "A static site has no server of its own to receive a form. On Netlify, Vercel and Cloudflare Pages you have three ways to handle one: Option Trade-off Your host's form feature Netlify has one (Netlify ",
       "score": 5,
-      "titleZh": "Your Side Project Doesn't Need More Compliments. It Needs Better Feedback. Imagine this."
+      "titleZh": "静态站点联系表：Netlify、Vercel、Cloudflare Pages"
     },
     {
-      "title": "I built a 3D open-world mythology game in the browser with just Three.js",
-      "link": "https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic",
+      "title": "KSeF i KOD I: dlaczego skrót faktury w linku QR to SHA-256 w Base64URL, a nie hex ani „zwykłe” Base64",
+      "link": "https://dev.to/mind_vsdrive_30e41cb9738/ksef-i-kod-i-dlaczego-skrot-faktury-w-linku-qr-to-sha-256-w-base64url-a-nie-hex-ani-zwykle-4o4e",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 04:57:58 +0000",
+      "summary": "Link pod kodem QR na wizualizacji faktury z KSeF wygląda niewinnie: adres, NIP, data i ciąg znaków na końcu. Ten ostatni element psuje najwięcej integracji. Ktoś wkleja wynik sha256sum (hex), ktoś inn",
+      "score": 5,
+      "titleZh": "KSeF i KOD I: dlaczego skrót faktury w linku QR to SHA-256 w Base64URL, a nie hex ani „zwykłe” Base64"
+    },
+    {
+      "title": "How to Build a Real-Time Chat Application Using JavaScript and WebSockets",
+      "link": "https://dev.to/arthur_luca/how-to-build-a-real-time-chat-application-using-javascript-and-websockets-32ok",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 16:57:12 +0000",
-      "summary": "I'm a software developer, and for a while I'd been curious how far a browser could go with nothing but Three.js and the Web Audio API. So I built a game to find out. Devayan: The Ten Drops of Amrita i",
+      "date": "Sun, 22 Nov 2026 04:57:39 +0000",
+      "summary": "Hello, I'm Arthur! I enjoy exploring web development, programming, and practical technologies that help developers build better applications. One interesting feature in modern web applications is real",
       "score": 5,
-      "titleZh": "I built a 3D open-world mythology game in the browser with just Three.js"
+      "titleZh": "如何使用 JavaScript 和 WebSocket 构建实时聊天应用程序"
     },
     {
-      "title": "My Show HN died in 4 minutes — the trycloudflare URL was the killer",
-      "link": "https://dev.to/nexusfoundry/my-show-hn-died-in-4-minutes-the-trycloudflare-url-was-the-killer-382g",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 16:54:28 +0000",
-      "summary": "I spent last night preparing a Show HN for a little project: a simulated economy where LLM agents buy and sell digital products, plus the BTC store the \"winners\" end up in. Draft ready, copy honed, cl",
-      "score": 5,
-      "titleZh": "My Show HN died in 4 minutes — the trycloudflare URL was the killer"
-    },
-    {
-      "title": "Multilingual websites in 2027: how to reach customers beyond your home market",
-      "link": "https://dev.to/dmytro_cian/multilingual-websites-in-2027-how-to-reach-customers-beyond-your-home-market-15j5",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 16:53:02 +0000",
-      "summary": "Let us imagine a fairly ordinary situation. You run a small business in Ukraine. You make furniture, sell clothes, design jewellery or offer services that do not require meeting clients in person. You",
-      "score": 5,
-      "titleZh": "Multilingual websites in 2027: how to reach customers beyond your home market"
-    },
-    {
-      "title": "React Hooks: useEffect vs useCallback vs useMemo",
-      "link": "https://dev.to/megalraja/react-hooks-useeffect-vs-usecallback-vs-usememo-57l3",
+      "title": "How we built a no-signup calculator that runs entirely in the browser",
+      "link": "https://dev.to/truenextglobal/how-we-built-a-no-signup-calculator-that-runs-entirely-in-the-browser-1m5p",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 16:52:48 +0000",
-      "summary": "When learning React, I came across three important hooks: useEffect, useCallback, and useMemo. At first, I found them confusing because they all use dependency arrays. But after understanding their pu",
+      "date": "Sun, 22 Nov 2026 04:57:11 +0000",
+      "summary": "We publish two small calculators for home care agencies: one estimates what claim denials and slow collections cost in a year, the other estimates what electronic visit verification (EVV) exceptions c",
       "score": 5,
-      "titleZh": "React Hooks: useEffect vs useCallback vs useMemo"
+      "titleZh": "How we built a no-signup calculator that runs entirely in the browser"
     },
     {
-      "title": "Landing page or multi-page website in 2027: which format should a business choose?",
-      "link": "https://dev.to/dmytro_cian/landing-page-or-multi-page-website-in-2027-which-format-should-a-business-choose-20hh",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 16:52:44 +0000",
-      "summary": "A home renovation company receives two website proposals: a fairly inexpensive landing page and a more substantial corporate website. Both seem to promise a professional online presence and more custo",
-      "score": 5,
-      "titleZh": "Landing page or multi-page website in 2027: which format should a business choose?"
-    },
-    {
-      "title": "B2B e-commerce in 2027: automating wholesale sales, individual pricing and dealer accounts",
-      "link": "https://dev.to/dmytro_cian/b2b-e-commerce-in-2027-automating-wholesale-sales-individual-pricing-and-dealer-accounts-76d",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sat, 21 Nov 2026 16:51:53 +0000",
-      "summary": "Imagine a wholesaler working with several dozen retailers, installation companies or regional dealers. Each partner has its own price list. Some place orders weekly, while others buy once a month. A s",
-      "score": 5,
-      "titleZh": "B2B e-commerce in 2027: automating wholesale sales, individual pricing and dealer accounts"
-    },
-    {
-      "title": "What Runs First in a Next.js Page: Server Components, Render, Effects",
-      "link": "https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2",
+      "title": "What is useMemo in React?",
+      "link": "https://dev.to/sathishkumar_0506/what-is-usememo-in-react-56ef",
       "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 16:51:33 +0000",
-      "summary": "A child component's useEffect reads something its parent's effect was supposed to set up. It's undefined. You add a console.log to both and find the child's effect ran first, even though the parent re",
+      "date": "Sun, 22 Nov 2026 04:55:00 +0000",
+      "summary": "useMemo is a React Hook used to memorize a calculated value. It helps avoid unnecessary recalculations when a component re-renders. Syntax: Simple example: import React, { useMemo, useState } from 're",
       "score": 5,
-      "titleZh": "What Runs First in a Next.js Page: Server Components, Render, Effects"
+      "titleZh": "React 中的 useMemo 是什么？"
     },
     {
-      "title": "Base64 Encoding Is Not Encryption: What Every Developer Should Know",
-      "link": "https://dev.to/hoxtools/base64-encoding-is-not-encryption-what-every-developer-should-know-2o14",
+      "title": "Why Most Cookie Banners Still Leak GTM & Meta Pixel Before Consent (And a 12KB Open-Source Fix)",
+      "link": "https://dev.to/rabig3015ai/why-most-cookie-banners-still-leak-gtm-meta-pixel-before-consent-and-a-12kb-open-source-fix-2835",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sat, 21 Nov 2026 16:50:39 +0000",
-      "summary": "Base64 is a common encoding method used in web development, APIs, email systems, and data exchange. Developers often use it to convert text or binary data into a format that can be safely transmitted ",
+      "date": "Sun, 22 Nov 2026 04:53:52 +0000",
+      "summary": "If you open Chrome DevTools → Network tab on most e-commerce stores before clicking \"Accept All\" on their cookie banner, you will probably still see requests firing to google-analytics.com, connect.fa",
       "score": 5,
-      "titleZh": "Base64 Encoding Is Not Encryption: What Every Developer Should Know"
+      "titleZh": "Why Most Cookie Banners Still Leak GTM & Meta Pixel Before Consent (And a 12KB Open-Source Fix)"
+    },
+    {
+      "title": "Designing Hints as Progressive Disclosure, and Why Order Beats Quantity",
+      "link": "https://dev.to/songlessanswers/designing-hints-as-progressive-disclosure-and-why-order-beats-quantity-4654",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 04:53:26 +0000",
+      "summary": "Hints are usually treated as a quantity problem: give the user three hints, or five, or unlimited. The more useful design question is order. A set of hints in the wrong order can make a task harder th",
+      "score": 5,
+      "titleZh": "将提示设计为渐进式披露，以及为什么顺序胜过数量"
+    },
+    {
+      "title": "What is useCallback in React?",
+      "link": "https://dev.to/sathishkumar_0506/what-is-usecallback-in-react-40c6",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 04:52:58 +0000",
+      "summary": "useCallback is a React Hook used to memorize a function reference. It prevents unnecessary function recreation between renders when its dependencies haven't changed. Syntax: const memoizedFunction = u",
+      "score": 5,
+      "titleZh": "What is useCallback in React?"
+    },
+    {
+      "title": "How to Trim Audio for a Sycamore Falls Video — Free, in Your Browser",
+      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-sycamore-falls-video-free-in-your-browser-55i6",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 04:52:42 +0000",
+      "summary": "Sycamore Falls is the kind of place where a short video practically films itself — but the sound you bring home is rarely as clean as the picture. A gust of wind, boots on gravel, a long quiet stretch",
+      "score": 5,
+      "titleZh": "如何在浏览器中免费修剪 Sycamore Falls 视频的音频"
     }
   ]
 }
