@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:07:05.481Z",
+  "updated": "2026-11-22T17:38:10.249Z",
   "date": "2026-11-22",
   "count": 20,
   "aiCount": 10,
@@ -27,7 +27,7 @@
       "date": "Fri, 20 Nov 2026 00:00:00 GMT",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "score": 5,
-      "titleZh": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步"
+      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra"
     },
     {
       "title": "Can AI help scientists identify promising drug candidates?",
@@ -51,7 +51,7 @@
       "date": "Fri, 20 Nov 2026 00:00:00 GMT",
       "summary": "",
       "score": 5,
-      "titleZh": "欢迎使用 Inkling 2 Mini，为您的本地设置提供尖端性能"
+      "titleZh": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -75,7 +75,7 @@
       "date": "Thu, 19 Nov 2026 18:00:00 +0000",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "score": 5,
-      "titleZh": "在 Gemini API 中引入工具检索"
+      "titleZh": "Introducing Tool Retrieval in the Gemini API"
     },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
@@ -99,7 +99,7 @@
       "date": "Thu, 19 Nov 2026 08:00:00 GMT",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "score": 5,
-      "titleZh": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速"
+      "titleZh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
     },
     {
       "title": "Explore the Codex Security Plugin",
@@ -123,127 +123,127 @@
       "date": "Thu, 19 Nov 2026 00:00:00 GMT",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
       "score": 5,
-      "titleZh": "查看 PR 扫描的实际应用"
+      "titleZh": "See PR scans in action"
     },
     {
-      "title": "You Built the Project. Why Is the Resume Bullet So Hard?",
-      "link": "https://dev.to/hazel_12125/you-built-the-project-why-is-the-resume-bullet-so-hard-4nk8",
+      "title": "Architecting a Zero-Server WebAssembly Suite in Next.js: The SamToolbox Engineering Blueprint",
+      "link": "https://dev.to/imsuleman-10/architecting-a-zero-server-webassembly-suite-in-nextjs-the-samtoolbox-engineering-blueprint-55j6",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 17:36:57 +0000",
+      "summary": "Architecting a Zero-Server WebAssembly Suite in Next.js: The SamToolbox Engineering Blueprint By Suleman Zaheer — Software Engineer & Founder of SAMStack Studio When developers need to compress an ima",
+      "score": 5,
+      "titleZh": "Architecting a Zero-Server WebAssembly Suite in Next.js: The SamToolbox Engineering Blueprint"
+    },
+    {
+      "title": "We don't let the LLM touch the crossword grid: AI clues, a 25,000-node search, and a validator that trusts nobody",
+      "link": "https://dev.to/echobuilds/we-dont-let-the-llm-touch-the-crossword-grid-ai-clues-a-25000-node-search-and-a-validator-that-39l9",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 17:29:35 +0000",
+      "summary": "CrosswordMaker.app is a browser-based crossword generator for teachers. You give it a topic, or paste your own word list, and get a printable puzzle with a separate answer key. Early on we made one ru",
+      "score": 5,
+      "titleZh": "We don't let the LLM touch the crossword grid: AI clues, a 25,000-node search, and a validator that trusts nobody"
+    },
+    {
+      "title": "My Journey into HTML: Understanding the Foundation of Web Development",
+      "link": "https://dev.to/ehtisham_ahmed_d30b74ddf1/my-journey-into-html-understanding-the-foundation-of-web-development-1b98",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 05:01:54 +0000",
-      "summary": "How to describe your coding projects clearly, even when you’re applying for your first developer role. You finally got the app working. You remember the broken request, the state update that made no s",
+      "date": "Sun, 22 Nov 2026 17:28:18 +0000",
+      "summary": "Web development begins with understanding how the web works and how websites are structured. One of the most important technologies behind every website is HTML (HyperText Markup Language). As part of",
       "score": 5,
-      "titleZh": "You Built the Project. Why Is the Resume Bullet So Hard?"
+      "titleZh": "My Journey into HTML: Understanding the Foundation of Web Development"
     },
     {
-      "title": "Static site contact form: Netlify, Vercel, Cloudflare Pages",
-      "link": "https://dev.to/harsimran_jeetsingh_83e2/static-site-contact-form-netlify-vercel-cloudflare-pages-43bi",
+      "title": "ChessPulse: review the player, not only the moves",
+      "link": "https://dev.to/kernelkain/chesspulse-review-the-player-not-only-the-moves-4pmn",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 17:21:44 +0000",
+      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge Draft notes for the author. Every TODO must be filled from a real captured session or removed before publishing. Delete this block and t",
+      "score": 5,
+      "titleZh": "ChessPulse: review the player, not only the moves"
+    },
+    {
+      "title": "Claude Broke Your Site? Our Plugin Undoes It in One Click",
+      "link": "https://dev.to/imran_khan_a9333529f806fa/claude-broke-your-site-our-plugin-undoes-it-in-one-click-55i",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 05:00:18 +0000",
-      "summary": "A static site has no server of its own to receive a form. On Netlify, Vercel and Cloudflare Pages you have three ways to handle one: Option Trade-off Your host's form feature Netlify has one (Netlify ",
+      "date": "Sun, 22 Nov 2026 17:20:43 +0000",
+      "summary": "Claude Broke Your Site? Our Plugin Undoes It in One Click You know the feeling. You ask Claude to fix one small thing on your WordPress site. A heading. A button. Five minutes later half your page is ",
       "score": 5,
-      "titleZh": "静态站点联系表：Netlify、Vercel、Cloudflare Pages"
+      "titleZh": "Claude Broke Your Site? Our Plugin Undoes It in One Click"
     },
     {
-      "title": "KSeF i KOD I: dlaczego skrót faktury w linku QR to SHA-256 w Base64URL, a nie hex ani „zwykłe” Base64",
-      "link": "https://dev.to/mind_vsdrive_30e41cb9738/ksef-i-kod-i-dlaczego-skrot-faktury-w-linku-qr-to-sha-256-w-base64url-a-nie-hex-ani-zwykle-4o4e",
-      "source": "Dev.to WebDev",
+      "title": "AFTERIMAGE: a five-scene memory essay you cut by blinking, framed by where you look and how evenly you breathe",
+      "link": "https://dev.to/emarc99/afterimage-a-five-scene-memory-essay-you-cut-by-blinking-framed-by-where-you-look-and-how-evenly-5bjl",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 04:57:58 +0000",
-      "summary": "Link pod kodem QR na wizualizacji faktury z KSeF wygląda niewinnie: adres, NIP, data i ciąg znaków na końcu. Ten ostatni element psuje najwięcej integracji. Ktoś wkleja wynik sha256sum (hex), ktoś inn",
+      "date": "Sun, 22 Nov 2026 17:18:57 +0000",
+      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge In In the Blink of an Eye, film editor Walter Murch asks why humans blink thousands of times a day when our eyes only need moisture a fr",
       "score": 5,
-      "titleZh": "KSeF i KOD I: dlaczego skrót faktury w linku QR to SHA-256 w Base64URL, a nie hex ani „zwykłe” Base64"
+      "titleZh": "AFTERIMAGE: a five-scene memory essay you cut by blinking, framed by where you look and how evenly you breathe"
     },
     {
-      "title": "How to Build a Real-Time Chat Application Using JavaScript and WebSockets",
-      "link": "https://dev.to/arthur_luca/how-to-build-a-real-time-chat-application-using-javascript-and-websockets-32ok",
+      "title": "Why & How I Built a 100% Browser-Local Bank Statement PDF Reconciler in TypeScript (Zero Backend, $0 Hosting)",
+      "link": "https://dev.to/codexsms/why-how-i-built-a-100-browser-local-bank-statement-pdf-reconciler-in-typescript-zero-backend-2efo",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 17:15:55 +0000",
+      "summary": "Every tax season, bookkeepers and small business owners hit the same wall: banks lock 12–36 months of historical statements inside PDFs, while existing PDF-to-CSV tools either charge $29/mo+ recurring",
+      "score": 5,
+      "titleZh": "Why & How I Built a 100% Browser-Local Bank Statement PDF Reconciler in TypeScript (Zero Backend, $0 Hosting)"
+    },
+    {
+      "title": "Designing a Scalable Game Catalogue: Organising Thousands of Games in a Next.js Application",
+      "link": "https://dev.to/hoko_games_02c7ae7ddd3db3/designing-a-scalable-game-catalogue-organising-thousands-of-games-in-a-nextjs-application-4no8",
+      "source": "Dev.to Next.js",
+      "tags": [
+        "前端"
+      ],
+      "date": "Sun, 22 Nov 2026 17:12:35 +0000",
+      "summary": "When building a browser gaming platform, displaying games is only one part of the challenge. As the catalogue grows, organising game information, managing categories, supporting discovery and keeping ",
+      "score": 5,
+      "titleZh": "Designing a Scalable Game Catalogue: Organising Thousands of Games in a Next.js Application"
+    },
+    {
+      "title": "Build a Next.js Prayer Times Widget with a Live \"Next Prayer\" Countdown (App Router, No CORS Issues)",
+      "link": "https://dev.to/sunnahsource/build-a-nextjs-prayer-times-widget-with-a-live-next-prayer-countdown-app-router-no-cors-issues-48ho",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 04:57:39 +0000",
-      "summary": "Hello, I'm Arthur! I enjoy exploring web development, programming, and practical technologies that help developers build better applications. One interesting feature in modern web applications is real",
+      "date": "Sun, 22 Nov 2026 17:09:59 +0000",
+      "summary": "Prayer times are the first feature almost every Muslim app needs. In this tutorial we build a small Next.js 15 (App Router) widget that: fetches prayer times JSON on the server (so browser CORS rules ",
       "score": 5,
-      "titleZh": "如何使用 JavaScript 和 WebSocket 构建实时聊天应用程序"
+      "titleZh": "Build a Next.js Prayer Times Widget with a Live \"Next Prayer\" Countdown (App Router, No CORS Issues)"
     },
     {
-      "title": "How we built a no-signup calculator that runs entirely in the browser",
-      "link": "https://dev.to/truenextglobal/how-we-built-a-no-signup-calculator-that-runs-entirely-in-the-browser-1m5p",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 04:57:11 +0000",
-      "summary": "We publish two small calculators for home care agencies: one estimates what claim denials and slow collections cost in a year, the other estimates what electronic visit verification (EVV) exceptions c",
-      "score": 5,
-      "titleZh": "How we built a no-signup calculator that runs entirely in the browser"
-    },
-    {
-      "title": "What is useMemo in React?",
-      "link": "https://dev.to/sathishkumar_0506/what-is-usememo-in-react-56ef",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 04:55:00 +0000",
-      "summary": "useMemo is a React Hook used to memorize a calculated value. It helps avoid unnecessary recalculations when a component re-renders. Syntax: Simple example: import React, { useMemo, useState } from 're",
-      "score": 5,
-      "titleZh": "React 中的 useMemo 是什么？"
-    },
-    {
-      "title": "Why Most Cookie Banners Still Leak GTM & Meta Pixel Before Consent (And a 12KB Open-Source Fix)",
-      "link": "https://dev.to/rabig3015ai/why-most-cookie-banners-still-leak-gtm-meta-pixel-before-consent-and-a-12kb-open-source-fix-2835",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 04:53:52 +0000",
-      "summary": "If you open Chrome DevTools → Network tab on most e-commerce stores before clicking \"Accept All\" on their cookie banner, you will probably still see requests firing to google-analytics.com, connect.fa",
-      "score": 5,
-      "titleZh": "Why Most Cookie Banners Still Leak GTM & Meta Pixel Before Consent (And a 12KB Open-Source Fix)"
-    },
-    {
-      "title": "Designing Hints as Progressive Disclosure, and Why Order Beats Quantity",
-      "link": "https://dev.to/songlessanswers/designing-hints-as-progressive-disclosure-and-why-order-beats-quantity-4654",
+      "title": "How a song language gets added to an AI music product: probe, listen, ship",
+      "link": "https://dev.to/rakim777/how-a-song-language-gets-added-to-an-ai-music-product-probe-listen-ship-1ced",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 04:53:26 +0000",
-      "summary": "Hints are usually treated as a quantity problem: give the user three hints, or five, or unlimited. The more useful design question is order. A set of hints in the wrong order can make a task harder th",
+      "date": "Sun, 22 Nov 2026 17:09:01 +0000",
+      "summary": "When we say SongUp AI sings in 76 languages, the number hides the most useful part of the story: a language is not \"supported\" because a model accepts the text. It is supported when someone has listen",
       "score": 5,
-      "titleZh": "将提示设计为渐进式披露，以及为什么顺序胜过数量"
-    },
-    {
-      "title": "What is useCallback in React?",
-      "link": "https://dev.to/sathishkumar_0506/what-is-usecallback-in-react-40c6",
-      "source": "Dev.to React",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 04:52:58 +0000",
-      "summary": "useCallback is a React Hook used to memorize a function reference. It prevents unnecessary function recreation between renders when its dependencies haven't changed. Syntax: const memoizedFunction = u",
-      "score": 5,
-      "titleZh": "What is useCallback in React?"
-    },
-    {
-      "title": "How to Trim Audio for a Sycamore Falls Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-sycamore-falls-video-free-in-your-browser-55i6",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 04:52:42 +0000",
-      "summary": "Sycamore Falls is the kind of place where a short video practically films itself — but the sound you bring home is rarely as clean as the picture. A gust of wind, boots on gravel, a long quiet stretch",
-      "score": 5,
-      "titleZh": "如何在浏览器中免费修剪 Sycamore Falls 视频的音频"
+      "titleZh": "How a song language gets added to an AI music product: probe, listen, ship"
     }
   ]
 }
