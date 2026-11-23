@@ -1,10 +1,118 @@
 {
-  "updated": "2026-11-22T17:38:10.249Z",
-  "date": "2026-11-22",
+  "updated": "2026-11-23T05:48:28.296Z",
+  "date": "2026-11-23",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "link": "https://arxiv.org/abs/2611.26663",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership",
+      "score": 5,
+      "titleZh": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams"
+    },
+    {
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "link": "https://arxiv.org/abs/2611.26717",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps",
+      "score": 5,
+      "titleZh": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation"
+    },
+    {
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "link": "https://arxiv.org/abs/2611.26722",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fund",
+      "score": 5,
+      "titleZh": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator"
+    },
+    {
+      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+      "link": "https://arxiv.org/abs/2611.26782",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it ",
+      "score": 5,
+      "titleZh": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization"
+    },
+    {
+      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+      "link": "https://arxiv.org/abs/2611.26794",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue arch",
+      "score": 5,
+      "titleZh": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF"
+    },
+    {
+      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+      "link": "https://arxiv.org/abs/2611.26797",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evad",
+      "score": 5,
+      "titleZh": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory"
+    },
+    {
+      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+      "link": "https://arxiv.org/abs/2611.26870",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what",
+      "score": 5,
+      "titleZh": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs"
+    },
+    {
+      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+      "link": "https://arxiv.org/abs/2611.26903",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results,",
+      "score": 5,
+      "titleZh": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "score": 5,
+      "titleZh": "Perplexity and Intelligence"
+    },
     {
       "title": "Combatting adversarial distillation",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -18,232 +126,124 @@
       "titleZh": "Combatting adversarial distillation"
     },
     {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "score": 5,
-      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "score": 5,
-      "titleZh": "Can AI help scientists identify promising drug candidates?"
-    },
-    {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "link": "https://huggingface.co/blog/inkling2mini",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 18:00:00 +0000",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "score": 5,
-      "titleZh": "Introducing Tool Retrieval in the Gemini API"
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "score": 5,
-      "titleZh": "Walter Isaacson on curiosity and creativity in the AI age."
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "score": 5,
-      "titleZh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "score": 5,
-      "titleZh": "Explore the Codex Security Plugin"
-    },
-    {
-      "title": "See PR scans in action",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "score": 5,
-      "titleZh": "See PR scans in action"
-    },
-    {
-      "title": "Architecting a Zero-Server WebAssembly Suite in Next.js: The SamToolbox Engineering Blueprint",
-      "link": "https://dev.to/imsuleman-10/architecting-a-zero-server-webassembly-suite-in-nextjs-the-samtoolbox-engineering-blueprint-55j6",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 17:36:57 +0000",
-      "summary": "Architecting a Zero-Server WebAssembly Suite in Next.js: The SamToolbox Engineering Blueprint By Suleman Zaheer — Software Engineer & Founder of SAMStack Studio When developers need to compress an ima",
-      "score": 5,
-      "titleZh": "Architecting a Zero-Server WebAssembly Suite in Next.js: The SamToolbox Engineering Blueprint"
-    },
-    {
-      "title": "We don't let the LLM touch the crossword grid: AI clues, a 25,000-node search, and a validator that trusts nobody",
-      "link": "https://dev.to/echobuilds/we-dont-let-the-llm-touch-the-crossword-grid-ai-clues-a-25000-node-search-and-a-validator-that-39l9",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 17:29:35 +0000",
-      "summary": "CrosswordMaker.app is a browser-based crossword generator for teachers. You give it a topic, or paste your own word list, and get a printable puzzle with a separate answer key. Early on we made one ru",
-      "score": 5,
-      "titleZh": "We don't let the LLM touch the crossword grid: AI clues, a 25,000-node search, and a validator that trusts nobody"
-    },
-    {
-      "title": "My Journey into HTML: Understanding the Foundation of Web Development",
-      "link": "https://dev.to/ehtisham_ahmed_d30b74ddf1/my-journey-into-html-understanding-the-foundation-of-web-development-1b98",
+      "title": "Encoding UHF RFID Badges & Wristbands at the Edge: A Developer’s Guide for Mega-Events",
+      "link": "https://dev.to/stampiq/encoding-uhf-rfid-badges-wristbands-at-the-edge-a-developers-guide-for-mega-events-17o7",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 17:28:18 +0000",
-      "summary": "Web development begins with understanding how the web works and how websites are structured. One of the most important technologies behind every website is HTML (HyperText Markup Language). As part of",
+      "date": "Mon, 23 Nov 2026 05:47:23 +0000",
+      "summary": "Printing a name on a conference badge is trivial. Printing a bilingual Arabic/English layout while simultaneously encoding a UHF RFID chip—and syncing that tag ID to 40 venue access gates over congest",
       "score": 5,
-      "titleZh": "My Journey into HTML: Understanding the Foundation of Web Development"
+      "titleZh": "Encoding UHF RFID Badges & Wristbands at the Edge: A Developer’s Guide for Mega-Events"
     },
     {
-      "title": "ChessPulse: review the player, not only the moves",
-      "link": "https://dev.to/kernelkain/chesspulse-review-the-player-not-only-the-moves-4pmn",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 17:21:44 +0000",
-      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge Draft notes for the author. Every TODO must be filled from a real captured session or removed before publishing. Delete this block and t",
-      "score": 5,
-      "titleZh": "ChessPulse: review the player, not only the moves"
-    },
-    {
-      "title": "Claude Broke Your Site? Our Plugin Undoes It in One Click",
-      "link": "https://dev.to/imran_khan_a9333529f806fa/claude-broke-your-site-our-plugin-undoes-it-in-one-click-55i",
+      "title": "What to Check Before Choosing an Affordable SMM Panel",
+      "link": "https://dev.to/tauntsublet/what-to-check-before-choosing-an-affordable-smm-panel-234a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 17:20:43 +0000",
-      "summary": "Claude Broke Your Site? Our Plugin Undoes It in One Click You know the feeling. You ask Claude to fix one small thing on your WordPress site. A heading. A button. Five minutes later half your page is ",
+      "date": "Mon, 23 Nov 2026 05:46:32 +0000",
+      "summary": "Social media promotion can become expensive when you're managing several accounts, running campaigns regularly, or handling work for multiple clients. That's one reason people look for affordable SMM ",
       "score": 5,
-      "titleZh": "Claude Broke Your Site? Our Plugin Undoes It in One Click"
+      "titleZh": "What to Check Before Choosing an Affordable SMM Panel"
     },
     {
-      "title": "AFTERIMAGE: a five-scene memory essay you cut by blinking, framed by where you look and how evenly you breathe",
-      "link": "https://dev.to/emarc99/afterimage-a-five-scene-memory-essay-you-cut-by-blinking-framed-by-where-you-look-and-how-evenly-5bjl",
+      "title": "Private clarinet lessons with Konstantine Karatenislis in Sydney",
+      "link": "https://dev.to/konstantinekaratenislis/private-clarinet-lessons-with-konstantine-karatenislis-in-sydney-4k87",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 23 Nov 2026 05:46:10 +0000",
+      "summary": "Learning a musical instrument is a rewarding experience that develops creativity, confidence, discipline and a lifelong appreciation for music. Whether you are a beginner discovering the clarinet for ",
+      "score": 5,
+      "titleZh": "Private clarinet lessons with Konstantine Karatenislis in Sydney"
+    },
+    {
+      "title": "Synthwave Radio for Late-Night Side Projects: The Free Live Streams I Code To After Midnight",
+      "link": "https://dev.to/angrybeat/synthwave-radio-for-late-night-side-projects-the-free-live-streams-i-code-to-after-midnight-2ja9",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 23 Nov 2026 05:43:04 +0000",
+      "summary": "Every November I pick one side project to finish before the year ends, and every November I learn the same lesson: the code is not the hard part, staying awake and in flow after 10 PM is. This year my",
+      "score": 5,
+      "titleZh": "Synthwave Radio for Late-Night Side Projects: The Free Live Streams I Code To After Midnight"
+    },
+    {
+      "title": "Storage Object API Diagnostics: Validating Malformed Replies After Resizing Images",
+      "link": "https://dev.to/urbandonovan1576/storage-object-api-diagnostics-validating-malformed-replies-after-resizing-images-4jla",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 17:18:57 +0000",
-      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge In In the Blink of an Eye, film editor Walter Murch asks why humans blink thousands of times a day when our eyes only need moisture a fr",
+      "date": "Mon, 23 Nov 2026 05:39:15 +0000",
+      "summary": "Short answer: validate the status and response shape after every resized-image upload; use a two-stage worker for large files, or a shared REST boundary when one key must issue realtime room tokens an",
       "score": 5,
-      "titleZh": "AFTERIMAGE: a five-scene memory essay you cut by blinking, framed by where you look and how evenly you breathe"
+      "titleZh": "Storage Object API Diagnostics: Validating Malformed Replies After Resizing Images"
     },
     {
-      "title": "Why & How I Built a 100% Browser-Local Bank Statement PDF Reconciler in TypeScript (Zero Backend, $0 Hosting)",
-      "link": "https://dev.to/codexsms/why-how-i-built-a-100-browser-local-bank-statement-pdf-reconciler-in-typescript-zero-backend-2efo",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 17:15:55 +0000",
-      "summary": "Every tax season, bookkeepers and small business owners hit the same wall: banks lock 12–36 months of historical statements inside PDFs, while existing PDF-to-CSV tools either charge $29/mo+ recurring",
-      "score": 5,
-      "titleZh": "Why & How I Built a 100% Browser-Local Bank Statement PDF Reconciler in TypeScript (Zero Backend, $0 Hosting)"
-    },
-    {
-      "title": "Designing a Scalable Game Catalogue: Organising Thousands of Games in a Next.js Application",
-      "link": "https://dev.to/hoko_games_02c7ae7ddd3db3/designing-a-scalable-game-catalogue-organising-thousands-of-games-in-a-nextjs-application-4no8",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Sun, 22 Nov 2026 17:12:35 +0000",
-      "summary": "When building a browser gaming platform, displaying games is only one part of the challenge. As the catalogue grows, organising game information, managing categories, supporting discovery and keeping ",
-      "score": 5,
-      "titleZh": "Designing a Scalable Game Catalogue: Organising Thousands of Games in a Next.js Application"
-    },
-    {
-      "title": "Build a Next.js Prayer Times Widget with a Live \"Next Prayer\" Countdown (App Router, No CORS Issues)",
-      "link": "https://dev.to/sunnahsource/build-a-nextjs-prayer-times-widget-with-a-live-next-prayer-countdown-app-router-no-cors-issues-48ho",
+      "title": "OAuth 2.0 in Chrome Extensions: Setup, Tokens, Pitfalls",
+      "link": "https://dev.to/extensionbooster/oauth-20-in-chrome-extensions-setup-tokens-pitfalls-41gf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 17:09:59 +0000",
-      "summary": "Prayer times are the first feature almost every Muslim app needs. In this tutorial we build a small Next.js 15 (App Router) widget that: fetches prayer times JSON on the server (so browser CORS rules ",
+      "date": "Mon, 23 Nov 2026 05:38:19 +0000",
+      "summary": "Originally published on ExtensionBooster. Adding OAuth 2.0 to a Chrome extension trips up a lot of developers because the usual web redirect flow simply does not fit. This walkthrough covers the four ",
       "score": 5,
-      "titleZh": "Build a Next.js Prayer Times Widget with a Live \"Next Prayer\" Countdown (App Router, No CORS Issues)"
+      "titleZh": "OAuth 2.0 in Chrome Extensions: Setup, Tokens, Pitfalls"
     },
     {
-      "title": "How a song language gets added to an AI music product: probe, listen, ship",
-      "link": "https://dev.to/rakim777/how-a-song-language-gets-added-to-an-ai-music-product-probe-listen-ship-1ced",
+      "title": "Architecting Enterprise WordPress: How to Achieve Sub-300ms TTFB and 99 PageSpeed Without Page Builder Bloat",
+      "link": "https://dev.to/uchitchakma/architecting-enterprise-wordpress-how-to-achieve-sub-300ms-ttfb-and-99-pagespeed-without-page-4nbn",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Sun, 22 Nov 2026 17:09:01 +0000",
-      "summary": "When we say SongUp AI sings in 76 languages, the number hides the most useful part of the story: a language is not \"supported\" because a model accepts the text. It is supported when someone has listen",
+      "date": "Mon, 23 Nov 2026 05:36:49 +0000",
+      "summary": "A slow business website is not just an aesthetic flaw; it is an active revenue leak. Studies consistently prove that a 1-second delay in mobile load time slashes conversion rates by up to 20%, and Goo",
       "score": 5,
-      "titleZh": "How a song language gets added to an AI music product: probe, listen, ship"
+      "titleZh": "Architecting Enterprise WordPress: How to Achieve Sub-300ms TTFB and 99 PageSpeed Without Page Builder Bloat"
+    },
+    {
+      "title": "Eight new browser calculators and converters, with the math shown",
+      "link": "https://dev.to/theomnikit/eight-new-browser-calculators-and-converters-with-the-math-shown-off",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 23 Nov 2026 05:36:33 +0000",
+      "summary": "On 22 November I added eight tools to theomnikit.com, my site of small tools that run in the browser: four maths calculators (area, probability, triangle and z-score) and four file tools (EPUB to PDF,",
+      "score": 5,
+      "titleZh": "Eight new browser calculators and converters, with the math shown"
+    },
+    {
+      "title": "Multi-Currency Online Stores in 2027: How to Sell Across International Markets",
+      "link": "https://dev.to/dmytro_cian/multi-currency-online-stores-in-2027-how-to-sell-across-international-markets-1dae",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 23 Nov 2026 05:34:46 +0000",
+      "summary": "An online store serving several countries needs more than translated product descriptions. Customers generally want to understand the cost in a familiar currency, choose a suitable payment method and ",
+      "score": 5,
+      "titleZh": "Multi-Currency Online Stores in 2027: How to Sell Across International Markets"
+    },
+    {
+      "title": "Why your Airbnb 1099-K doesn't match your payouts (and a browser-only tool to find the gap)",
+      "link": "https://dev.to/ig0tu/why-your-airbnb-1099-k-doesnt-match-your-payouts-and-a-browser-only-tool-to-find-the-gap-3c8l",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Mon, 23 Nov 2026 05:30:15 +0000",
+      "summary": "Your Airbnb 1099-K says one number. Your listings earned another. StayLedger reads your Airbnb transaction-history CSV and explains the gap (host fees, occupancy taxes, pass-through taxes, co-host pay",
+      "score": 5,
+      "titleZh": "Why your Airbnb 1099-K doesn't match your payouts (and a browser-only tool to find the gap)"
     }
   ]
 }
