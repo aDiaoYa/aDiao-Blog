@@ -1,10 +1,22 @@
 {
-  "updated": "2026-11-23T21:53:58.801Z",
-  "date": "2026-11-23",
+  "updated": "2026-11-24T08:26:39.602Z",
+  "date": "2026-11-24",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "score": 5,
+      "titleZh": "OpenAI and Cisco introduce Shirudo"
+    },
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "link": "https://huggingface.co/blog/allenai/robotrack",
@@ -54,196 +66,184 @@
       "titleZh": "Richpanel helps companies automate 50% of support in 30 days"
     },
     {
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "link": "https://arxiv.org/abs/2611.26663",
-      "source": "ArXiv AI",
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership",
+      "date": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "summary": "",
       "score": 5,
-      "titleZh": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams"
+      "titleZh": "How to build and maintain an agentic evaluation"
     },
     {
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "link": "https://arxiv.org/abs/2611.26717",
-      "source": "ArXiv AI",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps",
+      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "score": 5,
-      "titleZh": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation"
+      "titleZh": "Perplexity and Intelligence"
     },
     {
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "link": "https://arxiv.org/abs/2611.26722",
-      "source": "ArXiv AI",
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fund",
+      "date": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "score": 5,
-      "titleZh": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator"
+      "titleZh": "Combatting adversarial distillation"
     },
     {
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "link": "https://arxiv.org/abs/2611.26782",
-      "source": "ArXiv AI",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it ",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "score": 5,
-      "titleZh": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization"
+      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra"
     },
     {
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "link": "https://arxiv.org/abs/2611.26794",
-      "source": "ArXiv AI",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
       "tags": [
         "AI"
       ],
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue arch",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
       "score": 5,
-      "titleZh": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF"
+      "titleZh": "Can AI help scientists identify promising drug candidates?"
     },
     {
-      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-      "link": "https://arxiv.org/abs/2611.26797",
-      "source": "ArXiv AI",
+      "title": "Web AR Checklist: 8 Browser Numbers I Measure Before Launch",
+      "link": "https://dev.to/dave_gordon/web-ar-checklist-8-browser-numbers-i-measure-before-launch-35dn",
+      "source": "Dev.to JS",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evad",
+      "date": "Tue, 24 Nov 2026 08:24:37 +0000",
+      "summary": "TL;DR WebGL 2.0 and a secure context are hard stops. Check them against your own analytics browser list, not a support badge. Constraints are requests. Read track.getSettings() back instead of trustin",
       "score": 5,
-      "titleZh": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory"
+      "titleZh": "Web AR Checklist: 8 Browser Numbers I Measure Before Launch"
     },
     {
-      "title": "How to Trim Audio for an Oak Falls Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-an-oak-falls-video-free-in-your-browser-368a",
+      "title": "Sitecomb: check your website's quality in about a minute",
+      "link": "https://dev.to/sitecomb/sitecomb-check-your-websites-quality-in-about-a-minute-4npb",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:52:57 +0000",
-      "summary": "A video of Oak Falls deserves a soundtrack that starts and ends exactly where you want it. If the song runs long, the intro drags, or the ending lingers past the last shot, a quick trim fixes it. The ",
+      "date": "Tue, 24 Nov 2026 08:22:43 +0000",
+      "summary": "Live on Uneed today. The six things it checks, and what you get. Sitecomb checks the quality of any website in about a minute. Name a website and it looks at six areas: Security, Privacy & legal, Page",
       "score": 5,
-      "titleZh": "How to Trim Audio for an Oak Falls Video — Free, in Your Browser"
+      "titleZh": "Sitecomb: check your website's quality in about a minute"
     },
     {
-      "title": "Mastering Client-Side Performance: Hydration and Bundle Optimization in Next.js App Router",
-      "link": "https://dev.to/mtahir27/mastering-client-side-performance-hydration-and-bundle-optimization-in-nextjs-app-router-2bo9",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 23 Nov 2026 21:51:16 +0000",
-      "summary": "Introduction: Beyond Server Components – The Client-Side Imperative In the world of Next.js, Server Components have revolutionized how we think about rendering, pushing data fetching and HTML compilat",
-      "score": 5,
-      "titleZh": "Mastering Client-Side Performance: Hydration and Bundle Optimization in Next.js App Router"
-    },
-    {
-      "title": "B2b Digital Marketing Agency Miami: How Analytix9 Engineers Profitable Revenue Scale",
-      "link": "https://dev.to/a9leads_1f0037dca685ef4af/b2b-digital-marketing-agency-miami-how-analytix9-engineers-profitable-revenue-scale-17do",
+      "title": "How to Trim Audio for a Sycamore Lagoon Video — Free, in Your Browser",
+      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-sycamore-lagoon-video-free-in-your-browser-2ehp",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:50:23 +0000",
-      "summary": "B2b Digital Marketing Agency Miami: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for b2b digital marketing agency miami is one of the highest-use growth decisions a ",
+      "date": "Tue, 24 Nov 2026 08:22:29 +0000",
+      "summary": "Planning a video about Sycamore Lagoon? The right soundtrack makes the scenery shine — but a song that runs too long or starts with dead air will drag the whole edit down. You can fix that in under a ",
       "score": 5,
-      "titleZh": "B2b Digital Marketing Agency Miami: How Analytix9 Engineers Profitable Revenue Scale"
+      "titleZh": "How to Trim Audio for a Sycamore Lagoon Video — Free, in Your Browser"
     },
     {
-      "title": "Project setup — Fastify with TypeScript (part 3/18)",
-      "link": "https://dev.to/tony133/project-setup-fastify-with-typescript-part-318-2156",
+      "title": "How to Stay Updated With Technology News Without Falling for Hype",
+      "link": "https://dev.to/lsmblog/how-to-stay-updated-with-technology-news-without-falling-for-hype-18fl",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 24 Nov 2026 08:20:38 +0000",
+      "summary": "Building a Smart Restaurant in Dubai: Technology, Planning, and Digital Operations The restaurant industry is changing rapidly. Today, opening a restaurant involves much more than selecting a location",
+      "score": 5,
+      "titleZh": "How to Stay Updated With Technology News Without Falling for Hype"
+    },
+    {
+      "title": "Three AI Models Built the Same Website: The SMB Buyer's Reality Check",
+      "link": "https://dev.to/tm_gunderson_9cff63a7ba/three-ai-models-built-the-same-website-the-smb-buyers-reality-check-3f7n",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 24 Nov 2026 08:20:04 +0000",
+      "summary": "Last week, three major AI models were handed the same website brief and told to build. The results were public, visible, and — for anyone thinking about letting AI build their business site — quietly ",
+      "score": 5,
+      "titleZh": "Three AI Models Built the Same Website: The SMB Buyer's Reality Check"
+    },
+    {
+      "title": "Why we split a character's original portrait from its 3-view sheet in our AI video pipeline",
+      "link": "https://dev.to/_19ec095744cd8d9cce9ae/why-we-split-a-characters-original-portrait-from-its-3-view-sheet-in-our-ai-video-pipeline-1o82",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:47:00 +0000",
-      "summary": "Project setup Third chapter of the \"Fastify with TypeScript\" series. Before writing a single line of business logic, you need a properly configured project: a package.json, two tsconfig files (one for",
+      "date": "Tue, 24 Nov 2026 08:20:01 +0000",
+      "summary": "When building a multi-shot vertical drama studio (disclosure: I work on AlphaDrama, a web studio that orchestrates third-party video models rather than training its own), two recurring bugs kept showi",
       "score": 5,
-      "titleZh": "Project setup — Fastify with TypeScript (part 3/18)"
+      "titleZh": "Why we split a character's original portrait from its 3-view sheet in our AI video pipeline"
     },
     {
-      "title": "How to Check Whether an IP Is a VPN or Proxy with a Simple API",
-      "link": "https://dev.to/iplogs/how-to-check-whether-an-ip-is-a-vpn-or-proxy-with-a-simple-api-43b6",
+      "title": "Took my time to read this and I didn’t regret it",
+      "link": "https://dev.to/pandora_jason/took-my-time-to-read-this-and-i-didnt-regret-it-3i21",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:45:34 +0000",
-      "summary": "When a user signs up or logs in, their IP address can tell you something about the network they are coming from. It can also be misleading. A hosting IP is not automatically a VPN. A company gateway m",
+      "date": "Tue, 24 Nov 2026 08:18:17 +0000",
+      "summary": "Roomtone: a link that lets a host feel their room (live Presage readings, never one person) presagechallenge Presage SmartSpectra SDK Challenge Submission Bigmanmarsh Nov 23 #devchallenge #presagechal",
       "score": 5,
-      "titleZh": "How to Check Whether an IP Is a VPN or Proxy with a Simple API"
+      "titleZh": "Took my time to read this and I didn’t regret it"
     },
     {
-      "title": "A VPS responsibility checklist for small development teams",
-      "link": "https://dev.to/webiost/a-vps-responsibility-checklist-for-small-development-teams-2a4k",
+      "title": "The Code Worked Perfectly. So Why Was I Afraid to Touch It?",
+      "link": "https://dev.to/alexcodebytes/the-code-worked-perfectly-so-why-was-i-afraid-to-touch-it-5dan",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:43:05 +0000",
-      "summary": "A VPS gives your application somewhere to run. Before putting it into production, agree who will keep it running. For a small development team, a simple responsibility table can help identify gaps bet",
+      "date": "Tue, 24 Nov 2026 08:17:39 +0000",
+      "summary": "There's a strange moment in software development when you open a piece of code you've written yourself and think: \"Who on earth wrote this?\" And then you remember. It was you. Three months ago. 😅 The",
       "score": 5,
-      "titleZh": "A VPS responsibility checklist for small development teams"
+      "titleZh": "The Code Worked Perfectly. So Why Was I Afraid to Touch It?"
     },
     {
-      "title": "Guide Sur Les Variables En JavaScript Pour Les Nuls",
-      "link": "https://dev.to/kycode21/guide-sur-les-variables-en-javascript-pour-les-nuls-3261",
-      "source": "Dev.to JS",
+      "title": "We open-sourced our e-signature app: one sealed PDF anyone can verify, with Aadhaar eSign",
+      "link": "https://dev.to/codevibe-technology/we-open-sourced-our-e-signature-app-one-sealed-pdf-anyone-can-verify-with-aadhaar-esign-m64",
+      "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:41:34 +0000",
-      "summary": "** ** Lorsqu'on commence à apprendre la programmation, on découvre rapidement un élément essentiel : les variables. Imagine que tu développes une application qui demande le prénom et l'âge d'un utilis",
+      "date": "Tue, 24 Nov 2026 08:16:45 +0000",
+      "summary": "Short answer: Codevibe Sign is an open-source e-signature app. You upload a PDF, place the boxes and send it. People sign in the browser on any phone or laptop, with no account. You get back one seale",
       "score": 5,
-      "titleZh": "Guide Sur Les Variables En JavaScript Pour Les Nuls"
+      "titleZh": "We open-sourced our e-signature app: one sealed PDF anyone can verify, with Aadhaar eSign"
     },
     {
-      "title": "npx -p playwright node script.mjs still threw ERR_MODULE_NOT_FOUND. The fix was to stop trusting npx.",
-      "link": "https://dev.to/phi_blankslate/npx-p-playwright-node-scriptmjs-still-threw-errmodulenotfound-the-fix-was-to-stop-trusting-1l17",
-      "source": "Dev.to JS",
+      "title": "The Bug Wasn't in the Code. It Was in My Assumption.",
+      "link": "https://dev.to/alexcodebytes/the-bug-wasnt-in-the-code-it-was-in-my-assumption-3o5m",
+      "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Mon, 23 Nov 2026 21:41:15 +0000",
-      "summary": "I was taking screenshots of a website with a small Playwright script, written as an ES module, and ran it through npx. One of the commands I tried was this: npx -p playwright node script.mjs It ended ",
+      "date": "Tue, 24 Nov 2026 08:16:19 +0000",
+      "summary": "Have you ever spent an hour debugging something, only to discover that the code was doing exactly what you told it to do? I had a thought recently: some of the hardest bugs aren't really coding mistak",
       "score": 5,
-      "titleZh": "npx -p playwright node script.mjs still threw ERR_MODULE_NOT_FOUND. The fix was to stop trusting npx."
-    },
-    {
-      "title": "A logout that lasted 120 milliseconds",
-      "link": "https://dev.to/zerox80/a-logout-that-lasted-120-milliseconds-3fo2",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 23 Nov 2026 21:40:16 +0000",
-      "summary": "A logout that lasts 120 milliseconds is still a logout, technically. It returns 200, it puts the token on a blacklist, and for about the time it takes to blink, the token really is rejected. Then it w",
-      "score": 5,
-      "titleZh": "A logout that lasted 120 milliseconds"
-    },
-    {
-      "title": "We built our own \"Sign in with Google\" and opened it to every developer",
-      "link": "https://dev.to/zenoinnovations/we-built-our-own-sign-in-with-google-and-opened-it-to-every-developer-1ba3",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Mon, 23 Nov 2026 21:40:14 +0000",
-      "summary": "We run Zeno Innovations: hosting for websites and servers, Discord bots (JARVIS), an AI app, a Chrome extension and a webshop. Every one of them needed accounts, so we built Zeno ID: one account for a",
-      "score": 5,
-      "titleZh": "We built our own \"Sign in with Google\" and opened it to every developer"
+      "titleZh": "The Bug Wasn't in the Code. It Was in My Assumption."
     }
   ]
 }
