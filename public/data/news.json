@@ -1,10 +1,106 @@
 {
-  "updated": "2026-11-24T08:26:39.602Z",
+  "updated": "2026-11-24T20:29:50.416Z",
   "date": "2026-11-24",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 12:40:15 +0000",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340",
+      "score": 773,
+      "titleZh": "LLM agents work for their parent companies, not for you"
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "link": "https://jobs.ashbyhq.com/weave-os",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 17:00:55 +0000",
+      "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041",
+      "score": 20,
+      "titleZh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
+    },
+    {
+      "title": "Compiling Web Applications into Verified Operations for AI Agents",
+      "link": "https://protocolis.co/paper/",
+      "source": "HN·AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 19:12:02 +0000",
+      "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998",
+      "score": 15,
+      "titleZh": "Compiling Web Applications into Verified Operations for AI Agents"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 16:34:13 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "score": 5,
+      "titleZh": "How Gemini is changing the game for Golden State's organization and fans."
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "score": 5,
+      "titleZh": "Searching for distant planets with Astra"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "score": 5,
+      "titleZh": "How Intentful uses dots to make more time for growth"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "How iFood scales coding agents across 15,000 repositories"
+    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "link": "https://openai.com/index/introducing-shirudo",
@@ -30,220 +126,124 @@
       "titleZh": "RoboTrack: Point tracking for real-world robotic manipulation"
     },
     {
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "source": "Google AI",
+      "title": "Compiling Web Applications into Verified Operations for AI Agents",
+      "link": "https://protocolis.co/paper/",
+      "source": "HN·前端",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Mon, 23 Nov 2026 17:00:00 +0000",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "score": 5,
-      "titleZh": "A more tailored Google Search that’s uniquely yours"
+      "date": "Tue, 24 Nov 2026 19:12:02 +0000",
+      "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998",
+      "score": 15,
+      "titleZh": "Compiling Web Applications into Verified Operations for AI Agents"
     },
     {
-      "title": "Connected intelligence for in-house legal",
-      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI",
+      "title": "Minha Primeira Página Web: curso gratuito de HTML, CSS e JavaScript",
+      "link": "https://dev.to/guiadeti/minha-primeira-pagina-web-curso-gratuito-de-html-css-e-javascript-1eca",
+      "source": "Dev.to WebDev",
       "tags": [
-        "AI"
+        "前端"
       ],
-      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ",
+      "date": "Tue, 24 Nov 2026 20:29:23 +0000",
+      "summary": "Comece pela estrutura da página Criar uma página web começa por organizar o que ela precisa mostrar. Com HTML, você monta essa estrutura usando elementos como cabeçalhos, parágrafos, menus, imagens e ",
       "score": 5,
-      "titleZh": "Connected intelligence for in-house legal"
+      "titleZh": "Minha Primeira Página Web: curso gratuito de HTML, CSS e JavaScript"
     },
     {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "score": 5,
-      "titleZh": "Richpanel helps companies automate 50% of support in 30 days"
-    },
-    {
-      "title": "How to build and maintain an agentic evaluation",
-      "link": "https://huggingface.co/blog/agentic-evals",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "How to build and maintain an agentic evaluation"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "score": 5,
-      "titleZh": "Perplexity and Intelligence"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "score": 5,
-      "titleZh": "Combatting adversarial distillation"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "score": 5,
-      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "score": 5,
-      "titleZh": "Can AI help scientists identify promising drug candidates?"
-    },
-    {
-      "title": "Web AR Checklist: 8 Browser Numbers I Measure Before Launch",
-      "link": "https://dev.to/dave_gordon/web-ar-checklist-8-browser-numbers-i-measure-before-launch-35dn",
+      "title": "Meet Wishly: Turning Personal Moments into Beautiful Websites",
+      "link": "https://dev.to/wishly/meet-wishly-turning-personal-moments-into-beautiful-websites-1nmf",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 08:24:37 +0000",
-      "summary": "TL;DR WebGL 2.0 and a secure context are hard stops. Check them against your own analytics browser list, not a support badge. Constraints are requests. Read track.getSettings() back instead of trustin",
+      "date": "Tue, 24 Nov 2026 20:28:17 +0000",
+      "summary": "We all have moments when a simple message doesn't quite feel enough. A birthday, an anniversary, a proposal, or just a small reminder to someone that they matter. Sometimes, we want to do something a ",
       "score": 5,
-      "titleZh": "Web AR Checklist: 8 Browser Numbers I Measure Before Launch"
+      "titleZh": "Meet Wishly: Turning Personal Moments into Beautiful Websites"
     },
     {
-      "title": "Sitecomb: check your website's quality in about a minute",
-      "link": "https://dev.to/sitecomb/sitecomb-check-your-websites-quality-in-about-a-minute-4npb",
+      "title": "B2b Digital Marketing Agency Minneapolis: How Analytix9 Engineers Profitable Revenue Scale",
+      "link": "https://dev.to/a9leads_1f0037dca685ef4af/b2b-digital-marketing-agency-minneapolis-how-analytix9-engineers-profitable-revenue-scale-55fa",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 08:22:43 +0000",
-      "summary": "Live on Uneed today. The six things it checks, and what you get. Sitecomb checks the quality of any website in about a minute. Name a website and it looks at six areas: Security, Privacy & legal, Page",
+      "date": "Tue, 24 Nov 2026 20:27:50 +0000",
+      "summary": "B2b Digital Marketing Agency Minneapolis: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for b2b digital marketing agency minneapolis is one of the highest-use growth ",
       "score": 5,
-      "titleZh": "Sitecomb: check your website's quality in about a minute"
+      "titleZh": "B2b Digital Marketing Agency Minneapolis: How Analytix9 Engineers Profitable Revenue Scale"
     },
     {
-      "title": "How to Trim Audio for a Sycamore Lagoon Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-sycamore-lagoon-video-free-in-your-browser-2ehp",
+      "title": "Third-Party Scripts Security: What the Optimizely Incident Teaches Every Website Owner",
+      "link": "https://dev.to/vijay_mishra_14dd027a16ee/third-party-scripts-security-what-the-optimizely-incident-teaches-every-website-owner-25ak",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 24 Nov 2026 20:25:30 +0000",
+      "summary": "On November 16, 2026, visitors to some very well-known websites were served malicious JavaScript. The sites themselves had not been hacked. The code arrived through Optimizely, a service many companie",
+      "score": 5,
+      "titleZh": "Third-Party Scripts Security: What the Optimizely Incident Teaches Every Website Owner"
+    },
+    {
+      "title": "How to get a YouTube transcript as plain text with a few lines of code (real run: 2 talks in 4 seconds)",
+      "link": "https://dev.to/mohammed_samaan_b256ef3f5/how-to-get-a-youtube-transcript-as-plain-text-with-a-few-lines-of-code-real-run-2-talks-in-4-3b24",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 24 Nov 2026 20:24:43 +0000",
+      "summary": "I needed the text of a few YouTube talks for a search index. Copying from the transcript panel by hand does not scale past three videos, so I used an Apify actor I built for this. Below is one real ru",
+      "score": 5,
+      "titleZh": "How to get a YouTube transcript as plain text with a few lines of code (real run: 2 talks in 4 seconds)"
+    },
+    {
+      "title": "7 Small Habits That Make Every Developer More Productive",
+      "link": "https://dev.to/starglowus/7-small-habits-that-make-every-developer-more-productive-6mn",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 08:22:29 +0000",
-      "summary": "Planning a video about Sycamore Lagoon? The right soundtrack makes the scenery shine — but a song that runs too long or starts with dead air will drag the whole edit down. You can fix that in under a ",
+      "date": "Tue, 24 Nov 2026 20:24:27 +0000",
+      "summary": "Being a developer is not just about writing code. A big part of becoming a better developer comes from the small habits we build every day. The way we organize our projects, approach problems, manage ",
       "score": 5,
-      "titleZh": "How to Trim Audio for a Sycamore Lagoon Video — Free, in Your Browser"
+      "titleZh": "7 Small Habits That Make Every Developer More Productive"
     },
     {
-      "title": "How to Stay Updated With Technology News Without Falling for Hype",
-      "link": "https://dev.to/lsmblog/how-to-stay-updated-with-technology-news-without-falling-for-hype-18fl",
+      "title": "Vesper | Cinematic concept website",
+      "link": "https://dev.to/aporka/vesper-cinematic-concept-website-2j8k",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Tue, 24 Nov 2026 20:23:51 +0000",
+      "summary": "My project Vesper originally started from a motion design I found on Dribbble for a smart home integration company. I really liked the animation and started thinking about how I could turn it into a f",
+      "score": 5,
+      "titleZh": "Vesper | Cinematic concept website"
+    },
+    {
+      "title": "How to Trim Audio for a Juniper Summit Video — Free, in Your Browser",
+      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-juniper-summit-video-free-in-your-browser-3d7j",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 08:20:38 +0000",
-      "summary": "Building a Smart Restaurant in Dubai: Technology, Planning, and Digital Operations The restaurant industry is changing rapidly. Today, opening a restaurant involves much more than selecting a location",
+      "date": "Tue, 24 Nov 2026 20:23:22 +0000",
+      "summary": "A hike to a juniper summit leaves you with a long recording — wind on the ridge, footsteps on the trail, and one clear stretch worth keeping. Trim it to the best part with AudioCutter, a free audio cu",
       "score": 5,
-      "titleZh": "How to Stay Updated With Technology News Without Falling for Hype"
+      "titleZh": "How to Trim Audio for a Juniper Summit Video — Free, in Your Browser"
     },
     {
-      "title": "Three AI Models Built the Same Website: The SMB Buyer's Reality Check",
-      "link": "https://dev.to/tm_gunderson_9cff63a7ba/three-ai-models-built-the-same-website-the-smb-buyers-reality-check-3f7n",
+      "title": "Best Website Redesign Services: Agency vs. DIY 2026 Guide",
+      "link": "https://dev.to/mohammad_jisan_af3d1eecd3/best-website-redesign-services-agency-vs-diy-2026-guide-523k",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 08:20:04 +0000",
-      "summary": "Last week, three major AI models were handed the same website brief and told to build. The results were public, visible, and — for anyone thinking about letting AI build their business site — quietly ",
+      "date": "Tue, 24 Nov 2026 20:22:55 +0000",
+      "summary": "Website redesign services are professional solutions that modernize a site's visual design, code, and user experience. These services boost conversions, improve mobile performance, and protect your se",
       "score": 5,
-      "titleZh": "Three AI Models Built the Same Website: The SMB Buyer's Reality Check"
-    },
-    {
-      "title": "Why we split a character's original portrait from its 3-view sheet in our AI video pipeline",
-      "link": "https://dev.to/_19ec095744cd8d9cce9ae/why-we-split-a-characters-original-portrait-from-its-3-view-sheet-in-our-ai-video-pipeline-1o82",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 08:20:01 +0000",
-      "summary": "When building a multi-shot vertical drama studio (disclosure: I work on AlphaDrama, a web studio that orchestrates third-party video models rather than training its own), two recurring bugs kept showi",
-      "score": 5,
-      "titleZh": "Why we split a character's original portrait from its 3-view sheet in our AI video pipeline"
-    },
-    {
-      "title": "Took my time to read this and I didn’t regret it",
-      "link": "https://dev.to/pandora_jason/took-my-time-to-read-this-and-i-didnt-regret-it-3i21",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 08:18:17 +0000",
-      "summary": "Roomtone: a link that lets a host feel their room (live Presage readings, never one person) presagechallenge Presage SmartSpectra SDK Challenge Submission Bigmanmarsh Nov 23 #devchallenge #presagechal",
-      "score": 5,
-      "titleZh": "Took my time to read this and I didn’t regret it"
-    },
-    {
-      "title": "The Code Worked Perfectly. So Why Was I Afraid to Touch It?",
-      "link": "https://dev.to/alexcodebytes/the-code-worked-perfectly-so-why-was-i-afraid-to-touch-it-5dan",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 08:17:39 +0000",
-      "summary": "There's a strange moment in software development when you open a piece of code you've written yourself and think: \"Who on earth wrote this?\" And then you remember. It was you. Three months ago. 😅 The",
-      "score": 5,
-      "titleZh": "The Code Worked Perfectly. So Why Was I Afraid to Touch It?"
-    },
-    {
-      "title": "We open-sourced our e-signature app: one sealed PDF anyone can verify, with Aadhaar eSign",
-      "link": "https://dev.to/codevibe-technology/we-open-sourced-our-e-signature-app-one-sealed-pdf-anyone-can-verify-with-aadhaar-esign-m64",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 08:16:45 +0000",
-      "summary": "Short answer: Codevibe Sign is an open-source e-signature app. You upload a PDF, place the boxes and send it. People sign in the browser on any phone or laptop, with no account. You get back one seale",
-      "score": 5,
-      "titleZh": "We open-sourced our e-signature app: one sealed PDF anyone can verify, with Aadhaar eSign"
-    },
-    {
-      "title": "The Bug Wasn't in the Code. It Was in My Assumption.",
-      "link": "https://dev.to/alexcodebytes/the-bug-wasnt-in-the-code-it-was-in-my-assumption-3o5m",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 08:16:19 +0000",
-      "summary": "Have you ever spent an hour debugging something, only to discover that the code was doing exactly what you told it to do? I had a thought recently: some of the hardest bugs aren't really coding mistak",
-      "score": 5,
-      "titleZh": "The Bug Wasn't in the Code. It Was in My Assumption."
+      "titleZh": "Best Website Redesign Services: Agency vs. DIY 2026 Guide"
     }
   ]
 }
