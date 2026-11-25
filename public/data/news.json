@@ -1,46 +1,10 @@
 {
-  "updated": "2026-11-24T20:29:50.416Z",
-  "date": "2026-11-24",
+  "updated": "2026-11-25T07:01:14.804Z",
+  "date": "2026-11-25",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
-    {
-      "title": "LLM agents work for their parent companies, not for you",
-      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 24 Nov 2026 12:40:15 +0000",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340",
-      "score": 773,
-      "titleZh": "LLM agents work for their parent companies, not for you"
-    },
-    {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/weave-os",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 24 Nov 2026 17:00:55 +0000",
-      "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041",
-      "score": 20,
-      "titleZh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
-    },
-    {
-      "title": "Compiling Web Applications into Verified Operations for AI Agents",
-      "link": "https://protocolis.co/paper/",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Tue, 24 Nov 2026 19:12:02 +0000",
-      "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998",
-      "score": 15,
-      "titleZh": "Compiling Web Applications into Verified Operations for AI Agents"
-    },
     {
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -64,6 +28,18 @@
       "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
       "score": 5,
       "titleZh": "How Gemini is changing the game for Golden State's organization and fans."
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "score": 5,
+      "titleZh": "GPT-6 models demonstrate intrinsic protein-design capabilities"
     },
     {
       "title": "Searching for distant planets with Astra",
@@ -102,6 +78,18 @@
       "titleZh": "How iFood scales coding agents across 15,000 repositories"
     },
     {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "score": 5,
+      "titleZh": "Clay helps sales teams win with Codex and ChatGPT"
+    },
+    {
       "title": "OpenAI and Cisco introduce Shirudo",
       "link": "https://openai.com/index/introducing-shirudo",
       "source": "OpenAI",
@@ -126,124 +114,136 @@
       "titleZh": "RoboTrack: Point tracking for real-world robotic manipulation"
     },
     {
-      "title": "Compiling Web Applications into Verified Operations for AI Agents",
-      "link": "https://protocolis.co/paper/",
-      "source": "HN·前端",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
       "tags": [
-        "前端"
+        "AI"
       ],
-      "date": "Tue, 24 Nov 2026 19:12:02 +0000",
-      "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998",
-      "score": 15,
-      "titleZh": "Compiling Web Applications into Verified Operations for AI Agents"
+      "date": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "score": 5,
+      "titleZh": "A more tailored Google Search that’s uniquely yours"
     },
     {
-      "title": "Minha Primeira Página Web: curso gratuito de HTML, CSS e JavaScript",
-      "link": "https://dev.to/guiadeti/minha-primeira-pagina-web-curso-gratuito-de-html-css-e-javascript-1eca",
+      "title": "What AI Crawlers Actually Fetch From a Store, and Why llms.txt Drifts",
+      "link": "https://dev.to/visen_7809cf1871d161956b0/what-ai-crawlers-actually-fetch-from-a-store-and-why-llmstxt-drifts-4fm0",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:29:23 +0000",
-      "summary": "Comece pela estrutura da página Criar uma página web começa por organizar o que ela precisa mostrar. Com HTML, você monta essa estrutura usando elementos como cabeçalhos, parágrafos, menus, imagens e ",
+      "date": "Wed, 25 Nov 2026 07:00:39 +0000",
+      "summary": "We wrote an llms.txt because everyone said to. Six weeks later, the file said customers could return items within 7 days, while the returns page, the shipping page, and the product structured data all",
       "score": 5,
-      "titleZh": "Minha Primeira Página Web: curso gratuito de HTML, CSS e JavaScript"
+      "titleZh": "What AI Crawlers Actually Fetch From a Store, and Why llms.txt Drifts"
     },
     {
-      "title": "Meet Wishly: Turning Personal Moments into Beautiful Websites",
-      "link": "https://dev.to/wishly/meet-wishly-turning-personal-moments-into-beautiful-websites-1nmf",
+      "title": "Angular 22: why your screen stops updating after the upgrade, and how to fix it",
+      "link": "https://dev.to/mohammad_khalifeh/angular-22-why-your-screen-stops-updating-after-the-upgrade-and-how-to-fix-it-5h8",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 25 Nov 2026 07:00:31 +0000",
+      "summary": "You upgrade to Angular 22. The build passes and the tests are green. Then someone tells you the list doesn't refresh after saving. The console is quiet, the data is correct, and the screen is simply o",
+      "score": 5,
+      "titleZh": "Angular 22: why your screen stops updating after the upgrade, and how to fix it"
+    },
+    {
+      "title": "How we plan a platform before writing the first line of code",
+      "link": "https://dev.to/ahmedspurs/how-we-plan-a-platform-before-writing-the-first-line-of-code-5g9h",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:28:17 +0000",
-      "summary": "We all have moments when a simple message doesn't quite feel enough. A birthday, an anniversary, a proposal, or just a small reminder to someone that they matter. Sometimes, we want to do something a ",
+      "date": "Wed, 25 Nov 2026 07:00:04 +0000",
+      "summary": "Most projects that go wrong do not fail in the code. They fail in a meeting months earlier, when everyone nodded at a sentence that meant something different to each person. So before any code, every ",
       "score": 5,
-      "titleZh": "Meet Wishly: Turning Personal Moments into Beautiful Websites"
+      "titleZh": "How we plan a platform before writing the first line of code"
     },
     {
-      "title": "B2b Digital Marketing Agency Minneapolis: How Analytix9 Engineers Profitable Revenue Scale",
-      "link": "https://dev.to/a9leads_1f0037dca685ef4af/b2b-digital-marketing-agency-minneapolis-how-analytix9-engineers-profitable-revenue-scale-55fa",
+      "title": "`pnpm dev` échoue à cause de `sharp` : l'avertissement qui bloque tout",
+      "link": "https://dev.to/amineaffif/pnpm-dev-echoue-a-cause-de-sharp-lavertissement-qui-bloque-tout-16g1",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 25 Nov 2026 07:00:00 +0000",
+      "summary": "Je lance pnpm dev et rien ne démarre. Pas d'erreur dans mon code. Juste ça : [ERR_PNPM_IGNORED_BUILDS] Ignored build scripts: sharp@0.34.5 Run \"pnpm approve-builds\" to pick which dependencies should b",
+      "score": 5,
+      "titleZh": "`pnpm dev` échoue à cause de `sharp` : l'avertissement qui bloque tout"
+    },
+    {
+      "title": "Drupal Commerce: When It Beats Shopify",
+      "link": "https://dev.to/mecanik-dev/drupal-commerce-when-it-beats-shopify-3neg",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:27:50 +0000",
-      "summary": "B2b Digital Marketing Agency Minneapolis: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for b2b digital marketing agency minneapolis is one of the highest-use growth ",
+      "date": "Wed, 25 Nov 2026 07:00:00 +0000",
+      "summary": "Drupal Commerce is the wrong answer for most online shops. That is not a criticism of the project, which is well engineered and has been for fifteen years. It is a statement about what most shops are:",
       "score": 5,
-      "titleZh": "B2b Digital Marketing Agency Minneapolis: How Analytix9 Engineers Profitable Revenue Scale"
+      "titleZh": "Drupal Commerce: When It Beats Shopify"
     },
     {
-      "title": "Third-Party Scripts Security: What the Optimizely Incident Teaches Every Website Owner",
-      "link": "https://dev.to/vijay_mishra_14dd027a16ee/third-party-scripts-security-what-the-optimizely-incident-teaches-every-website-owner-25ak",
+      "title": "Building fast, zero-dependency homeowner sizing calculators from public engineering tables",
+      "link": "https://dev.to/septicwellguide/building-fast-zero-dependency-homeowner-sizing-calculators-from-public-engineering-tables-3hn1",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:25:30 +0000",
-      "summary": "On November 16, 2026, visitors to some very well-known websites were served malicious JavaScript. The sites themselves had not been hacked. The code arrived through Optimizely, a service many companie",
+      "date": "Wed, 25 Nov 2026 06:59:54 +0000",
+      "summary": "Turning public engineering tables into small, client-side web calculators is one of the highest-utility things you can build with plain HTML and JavaScript. Instead of burying a homeowner under a 40-p",
       "score": 5,
-      "titleZh": "Third-Party Scripts Security: What the Optimizely Incident Teaches Every Website Owner"
+      "titleZh": "Building fast, zero-dependency homeowner sizing calculators from public engineering tables"
     },
     {
-      "title": "How to get a YouTube transcript as plain text with a few lines of code (real run: 2 talks in 4 seconds)",
-      "link": "https://dev.to/mohammed_samaan_b256ef3f5/how-to-get-a-youtube-transcript-as-plain-text-with-a-few-lines-of-code-real-run-2-talks-in-4-3b24",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 20:24:43 +0000",
-      "summary": "I needed the text of a few YouTube talks for a search index. Copying from the transcript panel by hand does not scale past three videos, so I used an Apify actor I built for this. Below is one real ru",
-      "score": 5,
-      "titleZh": "How to get a YouTube transcript as plain text with a few lines of code (real run: 2 talks in 4 seconds)"
-    },
-    {
-      "title": "7 Small Habits That Make Every Developer More Productive",
-      "link": "https://dev.to/starglowus/7-small-habits-that-make-every-developer-more-productive-6mn",
+      "title": "An Audit-Trail Checklist for Features That Change Business Records",
+      "link": "https://dev.to/entropiacity/an-audit-trail-checklist-for-features-that-change-business-records-284l",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:24:27 +0000",
-      "summary": "Being a developer is not just about writing code. A big part of becoming a better developer comes from the small habits we build every day. The way we organize our projects, approach problems, manage ",
+      "date": "Wed, 25 Nov 2026 06:56:36 +0000",
+      "summary": "When software changes business records on someone's behalf, the first bug report is usually \"who changed this, and why?\" If you cannot answer in under a minute, the system is hard to trust. This post ",
       "score": 5,
-      "titleZh": "7 Small Habits That Make Every Developer More Productive"
+      "titleZh": "An Audit-Trail Checklist for Features That Change Business Records"
     },
     {
-      "title": "Vesper | Cinematic concept website",
-      "link": "https://dev.to/aporka/vesper-cinematic-concept-website-2j8k",
+      "title": "Boot Shaft Height Is the Measurement Boot Listings Skip",
+      "link": "https://dev.to/visen_7809cf1871d161956b0/boot-shaft-height-is-the-measurement-boot-listings-skip-27eo",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Wed, 25 Nov 2026 06:55:40 +0000",
+      "summary": "Ask a boot listing how tall the boot is and you will usually get one of two answers: nothing, or \"mid-calf\". Neither helps. \"Mid-calf\" on a 160cm person lands below the knee; on a 180cm person it land",
+      "score": 5,
+      "titleZh": "Boot Shaft Height Is the Measurement Boot Listings Skip"
+    },
+    {
+      "title": "Building a Spam Resistant Lead Form in Next.js with Server Actions",
+      "link": "https://dev.to/codehunterz/building-a-spam-resistant-lead-form-in-nextjs-with-server-actions-4fc7",
       "source": "Dev.to React",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:23:51 +0000",
-      "summary": "My project Vesper originally started from a motion design I found on Dribbble for a smart home integration company. I really liked the animation and started thinking about how I could turn it into a f",
+      "date": "Wed, 25 Nov 2026 06:55:39 +0000",
+      "summary": "For a local service business, the contact form is often the most valuable component on the whole website. It is where a homeowner asks for an HVAC quote, where someone with a legal problem asks for a ",
       "score": 5,
-      "titleZh": "Vesper | Cinematic concept website"
+      "titleZh": "Building a Spam Resistant Lead Form in Next.js with Server Actions"
     },
     {
-      "title": "How to Trim Audio for a Juniper Summit Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-juniper-summit-video-free-in-your-browser-3d7j",
-      "source": "Dev.to WebDev",
+      "title": "'Another next dev server is already running': How to Fix It (Next.js 16)",
+      "link": "https://dev.to/kausarraza/another-next-dev-server-is-already-running-how-to-fix-it-nextjs-16-50i1",
+      "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Tue, 24 Nov 2026 20:23:22 +0000",
-      "summary": "A hike to a juniper summit leaves you with a long recording — wind on the ridge, footsteps on the trail, and one clear stretch worth keeping. Trim it to the best part with AudioCutter, a free audio cu",
+      "date": "Wed, 25 Nov 2026 06:46:03 +0000",
+      "summary": "I ran npm run dev on a Next.js 16 project and got this instead of a working server: > next dev ⚠ Port 3000 is in use by process 968, using available port 3001 instead. ▲ Next.js 16.3.3 (Turbopack) - L",
       "score": 5,
-      "titleZh": "How to Trim Audio for a Juniper Summit Video — Free, in Your Browser"
-    },
-    {
-      "title": "Best Website Redesign Services: Agency vs. DIY 2026 Guide",
-      "link": "https://dev.to/mohammad_jisan_af3d1eecd3/best-website-redesign-services-agency-vs-diy-2026-guide-523k",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Tue, 24 Nov 2026 20:22:55 +0000",
-      "summary": "Website redesign services are professional solutions that modernize a site's visual design, code, and user experience. These services boost conversions, improve mobile performance, and protect your se",
-      "score": 5,
-      "titleZh": "Best Website Redesign Services: Agency vs. DIY 2026 Guide"
+      "titleZh": "'Another next dev server is already running': How to Fix It (Next.js 16)"
     }
   ]
 }
