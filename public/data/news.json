@@ -1,45 +1,21 @@
 {
-  "updated": "2026-11-26T06:54:08.426Z",
+  "updated": "2026-11-26T19:25:39.037Z",
   "date": "2026-11-26",
   "count": 20,
   "aiCount": 10,
   "feCount": 10,
   "items": [
     {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "source": "HN·AI",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "HuggingFace",
       "tags": [
         "AI"
       ],
-      "date": "Sun, 22 Nov 2026 16:44:48 +0000",
-      "summary": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how h",
-      "score": 344,
-      "titleZh": "GPT-6.2 Astra is the first model to beat Googlers' code golf records"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Wed, 25 Nov 2026 21:18:02 +0000",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673",
-      "score": 309,
-      "titleZh": "The New York Times warns photographers not to update Photoshop over AI features"
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "source": "HN·AI",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 26 Nov 2026 03:36:58 +0000",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117",
-      "score": 140,
-      "titleZh": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster"
+      "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
     },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -126,124 +102,148 @@
       "titleZh": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations"
     },
     {
-      "title": "Porting an embroidery file library from Python to TypeScript, byte for byte",
-      "link": "https://dev.to/mehmettagil/porting-an-embroidery-file-library-from-python-to-typescript-byte-for-byte-1dm2",
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "link": "https://arxiv.org/abs/2611.31424",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations co",
+      "score": 5,
+      "titleZh": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection"
+    },
+    {
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "link": "https://arxiv.org/abs/2611.31427",
+      "source": "ArXiv AI",
+      "tags": [
+        "AI"
+      ],
+      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowl",
+      "score": 5,
+      "titleZh": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training"
+    },
+    {
+      "title": "Compressing images in the browser: the memory trap nobody mentions",
+      "link": "https://dev.to/pdfclicks_6e9b840b23f7271/compressing-images-in-the-browser-the-memory-trap-nobody-mentions-pe5",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 26 Nov 2026 06:53:40 +0000",
-      "summary": "Machine embroidery has a file format problem. A Brother machine wants PES, a Janome wants JEF, a commercial Tajima head wants DST, a Pfaff wants VP3, and a Bernina often wants EXP. People buy a design",
+      "date": "Thu, 26 Nov 2026 19:22:42 +0000",
+      "summary": "Converting an image to WebP in the browser is twelve lines of code. Doing it without crashing a phone is a different problem, and the crash is not where you expect it. const bitmap = await createImage",
       "score": 5,
-      "titleZh": "Porting an embroidery file library from Python to TypeScript, byte for byte"
+      "titleZh": "Compressing images in the browser: the memory trap nobody mentions"
     },
     {
-      "title": "What a local business website has to do in the first five seconds",
-      "link": "https://dev.to/elina_clothing_554e0b6dda/what-a-local-business-website-has-to-do-in-the-first-five-seconds-5dl4",
+      "title": "Designing for AI: How Generative UI is Changing the Landscape of Modern Web Experiences",
+      "link": "https://dev.to/mtahir27/designing-for-ai-how-generative-ui-is-changing-the-landscape-of-modern-web-experiences-2e41",
+      "source": "Dev.to React",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 26 Nov 2026 19:22:41 +0000",
+      "summary": "For decades, web design has operated under a single, fundamental constraint: anticipation. As designers and developers, we spend months mapping user flows, wireframing edge cases, and building respons",
+      "score": 5,
+      "titleZh": "Designing for AI: How Generative UI is Changing the Landscape of Modern Web Experiences"
+    },
+    {
+      "title": "Firebase rules \"if true\": how to find open Firestore and Storage rules and fix them",
+      "link": "https://dev.to/proofforge_live/firebase-rules-if-true-how-to-find-open-firestore-and-storage-rules-and-fix-them-17k3",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 26 Nov 2026 06:52:46 +0000",
-      "summary": "If you build websites for local businesses, you already know the uncomfortable truth: most of your client's visitors will never see the beautiful homepage you designed. They will see the first screen,",
+      "date": "Thu, 26 Nov 2026 19:21:51 +0000",
+      "summary": "Firebase and Firebase Studio apps often ship with Firestore or Realtime Database rules that let anyone read and write. It happens because the quick-start rules work, so nobody changes them. The rule t",
       "score": 5,
-      "titleZh": "What a local business website has to do in the first five seconds"
+      "titleZh": "Firebase rules \"if true\": how to find open Firestore and Storage rules and fix them"
     },
     {
-      "title": "How to Trim Audio for a Hackberry Fjord Video — Free, in Your Browser",
-      "link": "https://dev.to/zjch022/how-to-trim-audio-for-a-hackberry-fjord-video-free-in-your-browser-8hp",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 26 Nov 2026 06:52:41 +0000",
-      "summary": "A hackberry fjord video deserves clean audio — a tight intro, no dead air at the start, and an ending that stops right on the final shot. You can trim it in your browser for free with AudioCutter — no",
-      "score": 5,
-      "titleZh": "How to Trim Audio for a Hackberry Fjord Video — Free, in Your Browser"
-    },
-    {
-      "title": "The agents on my message board asked what makes a meeting place different from a broadcast feed.",
-      "link": "https://dev.to/jo-do/the-agents-on-my-message-board-asked-what-makes-a-meeting-place-different-from-a-broadcast-feed-5c9j",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 26 Nov 2026 06:50:30 +0000",
-      "summary": "Yesterday's post was about finding a message again after the sender forgets. A new exchange on my board asks what makes the message worth coming back to in the first place. It starts as a list of plac",
-      "score": 5,
-      "titleZh": "The agents on my message board asked what makes a meeting place different from a broadcast feed."
-    },
-    {
-      "title": "I have a delulu.",
-      "link": "https://dev.to/neel-vekariya/i-have-a-delulu-lbc",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 26 Nov 2026 06:50:26 +0000",
-      "summary": "I have a delulu. Because when I learn a topic, I have a delulu that I've learned it perfectly. Then the real test comes or a question comes up, and I go blank. I need to see my notes. And I dart my ey",
-      "score": 5,
-      "titleZh": "I have a delulu."
-    },
-    {
-      "title": "Cara Membangun Website Katalog Produk Industri yang SEO-Friendly",
-      "link": "https://dev.to/dimasadityaa/cara-membangun-website-katalog-produk-industri-yang-seo-friendly-4a84",
-      "source": "Dev.to WebDev",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 26 Nov 2026 06:50:21 +0000",
-      "summary": "Website katalog produk industri memiliki kebutuhan yang berbeda dari website e-commerce pada umumnya. Dalam bisnis B2B, calon pelanggan membutuhkan informasi mengenai spesifikasi teknis, kompatibilita",
-      "score": 5,
-      "titleZh": "Cara Membangun Website Katalog Produk Industri yang SEO-Friendly"
-    },
-    {
-      "title": "2027 İçin En İyi OpenAPI TypeScript İstemci Oluşturucuları",
-      "link": "https://dev.to/tobiass_hoffmann/2027-icin-en-iyi-openapi-typescript-istemci-olusturuculari-c8o",
+      "title": "Detecting Fake FLAC Files in the Browser: Raw STREAMINFO Parsing and 80-Slice 2048-Point FFT Forensics",
+      "link": "https://dev.to/aiacstudio/detecting-fake-flac-files-in-the-browser-raw-streaminfo-parsing-and-80-slice-2048-point-fft-1o9i",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 26 Nov 2026 06:48:54 +0000",
-      "summary": "En İyi OpenAPI TypeScript İstemci Üreticileri: Kubb, Hey API, Orval ve openapi-typescript En iyi OpenAPI TypeScript istemci üreticisi, neyin sahibi olmak istediğinize bağlı. 2,8 KB çalışma zamanı boyu",
+      "date": "Thu, 26 Nov 2026 19:20:18 +0000",
+      "summary": "If you inspect a FLAC file with ffprobe or a media player and see 16-bit / 44.1 kHz / 942 kbps, you still do not know whether the audio is lossless. Transcoding a 128 kbps MP3 into FLAC does not resto",
       "score": 5,
-      "titleZh": "2027 İçin En İyi OpenAPI TypeScript İstemci Oluşturucuları"
+      "titleZh": "Detecting Fake FLAC Files in the Browser: Raw STREAMINFO Parsing and 80-Slice 2048-Point FFT Forensics"
     },
     {
-      "title": "Meilleurs générateurs de clients TypeScript OpenAPI en 2027",
-      "link": "https://dev.to/antoine_laurentt/meilleurs-generateurs-de-clients-typescript-openapi-en-2027-42cj",
-      "source": "Dev.to TS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Thu, 26 Nov 2026 06:48:17 +0000",
-      "summary": "Meilleur générateur de clients TypeScript OpenAPI : comparatif pratique Le meilleur générateur de clients TypeScript OpenAPI dépend de ce que vous souhaitez posséder. Choisissez openapi-typescript + o",
-      "score": 5,
-      "titleZh": "Meilleurs générateurs de clients TypeScript OpenAPI en 2027"
-    },
-    {
-      "title": "Shipping a Zero-Login Daily Trivia Arcade on Cloudflare Workers: HTML-First, 420-Prompt Bank & 15-Page Health Checks",
-      "link": "https://dev.to/thunderlake_d4ba1388ff53/shipping-a-zero-login-daily-trivia-arcade-on-cloudflare-workers-html-first-420-prompt-bank--30co",
+      "title": "Why Most Browser Puzzle Generators Force Blind Guesses — And How We Proved Unique Solutions in Vanilla JS",
+      "link": "https://dev.to/aiacstudio/why-most-browser-puzzle-generators-force-blind-guesses-and-how-we-proved-unique-solutions-in-162p",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 26 Nov 2026 06:48:10 +0000",
-      "summary": "When you build a browser-based daily trivia arcade, the hardest part is rarely the game loop itself. The real friction shows up in three places: First-paint speed and crawlability when every page embe",
+      "date": "Thu, 26 Nov 2026 19:20:05 +0000",
+      "summary": "Most browser puzzle generators fail at the exact moment a logic game is supposed to be satisfying. You spend four minutes carefully narrowing down a 15x15 Nonogram or clearing a Minesweeper board down",
       "score": 5,
-      "titleZh": "Shipping a Zero-Login Daily Trivia Arcade on Cloudflare Workers: HTML-First, 420-Prompt Bank & 15-Page Health Checks"
+      "titleZh": "Why Most Browser Puzzle Generators Force Blind Guesses — And How We Proved Unique Solutions in Vanilla JS"
     },
     {
-      "title": "How I built a local-first handwriting notebook with an AI tutor (and why I made privacy the core feature)",
-      "link": "https://dev.to/jonas_shen_eb7a7b2ededa95/how-i-built-a-local-first-handwriting-notebook-with-an-ai-tutor-and-why-i-made-privacy-the-core-1346",
+      "title": "Entity Engineering: Building Machine-Readable Websites with JSON-LD and LLM-First Architecture",
+      "link": "https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 26 Nov 2026 19:19:59 +0000",
+      "summary": "The way information is discovered on the web is changing. Search engines, AI-powered search interfaces and large language models increasingly operate alongside traditional methods of information disco",
+      "score": 5,
+      "titleZh": "Entity Engineering: Building Machine-Readable Websites with JSON-LD and LLM-First Architecture"
+    },
+    {
+      "title": "WordPress 403 Forbidden (Erişim Engellendi) Hatası ve Onarımı",
+      "link": "https://dev.to/wordpressuzmani/wordpress-403-forbidden-erisim-engellendi-hatasi-ve-onarimi-1h6a",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Thu, 26 Nov 2026 06:46:17 +0000",
-      "summary": "I'm building Inkling — a free, local-first handwriting and Markdown notebook with an integrated opt-in AI tutor, built for STEM students. Here's what I've learned so far. Every time I wanted AI help o",
+      "date": "Thu, 26 Nov 2026 19:18:49 +0000",
+      "summary": "WordPress 403 Forbidden (Erişim Engellendi) Hatası ve Onarımı konusunda kurumsal bir WordPress web sitesine sahipseniz, yaşanan teknik aksaklıklar doğrudan müşteri kaybına, Google arama sıralamalarını",
       "score": 5,
-      "titleZh": "How I built a local-first handwriting notebook with an AI tutor (and why I made privacy the core feature)"
+      "titleZh": "WordPress 403 Forbidden (Erişim Engellendi) Hatası ve Onarımı"
+    },
+    {
+      "title": "Cache by who's asking: Magento 2 page and block cache vs Laravel cache keys",
+      "link": "https://dev.to/qweik/cache-by-whos-asking-magento-2-page-and-block-cache-vs-laravel-cache-keys-15nj",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 26 Nov 2026 19:17:00 +0000",
+      "summary": "On 7 April, testing a new ERP pricing add-on for a Swiss B2B store, I found one customer's personal price shown to another customer. A customer with personal prices saw the guest price until the cache",
+      "score": 5,
+      "titleZh": "Cache by who's asking: Magento 2 page and block cache vs Laravel cache keys"
+    },
+    {
+      "title": "Pay-per-call security checks for AI agents: how an x402 endpoint works",
+      "link": "https://dev.to/proofforge_live/pay-per-call-security-checks-for-ai-agents-how-an-x402-endpoint-works-200o",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 26 Nov 2026 19:16:12 +0000",
+      "summary": "AI coding agents can now check a deployed app before they call it done. Here is a small pattern that needs no account and no API key: one HTTP call, paid per request with x402. What x402 is The call G",
+      "score": 5,
+      "titleZh": "Pay-per-call security checks for AI agents: how an x402 endpoint works"
+    },
+    {
+      "title": "Generating True 300 DPI Print-Ready PDFs in Pure Browser JavaScript (MediaBox, PrintScaling /None, and US Letter vs DIN A4)",
+      "link": "https://dev.to/aiacstudio/generating-true-300-dpi-print-ready-pdfs-in-pure-browser-javascript-mediabox-printscaling-none-4a21",
+      "source": "Dev.to JS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Thu, 26 Nov 2026 19:12:53 +0000",
+      "summary": "Every frontend engineer who tries to print a structured document from the browser eventually runs into the same wall: window.print() is designed for reflowing web articles, not precision physical layo",
+      "score": 5,
+      "titleZh": "Generating True 300 DPI Print-Ready PDFs in Pure Browser JavaScript (MediaBox, PrintScaling /None, and US Letter vs DIN A4)"
     }
   ]
 }
