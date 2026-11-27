@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:46:30.171Z",
+  "updated": "2026-11-27T19:21:26.064Z",
   "date": "2026-11-27",
   "count": 20,
   "aiCount": 10,
@@ -102,6 +102,18 @@
       "titleZh": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands"
     },
     {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "source": "HuggingFace",
+      "tags": [
+        "AI"
+      ],
+      "date": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "summary": "",
+      "score": 5,
+      "titleZh": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5"
+    },
+    {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "HuggingFace",
@@ -114,136 +126,124 @@
       "titleZh": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
     },
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "HuggingFace",
-      "tags": [
-        "AI"
-      ],
-      "date": "Thu, 26 Nov 2026 05:05:36 GMT",
-      "summary": "",
-      "score": 5,
-      "titleZh": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
-    },
-    {
-      "title": "Performance Marketing Agency Maine: How Analytix9 Engineers Profitable Revenue Scale",
-      "link": "https://dev.to/a9leads_1f0037dca685ef4af/performance-marketing-agency-maine-how-analytix9-engineers-profitable-revenue-scale-1gc6",
+      "title": "How I burn word-by-word captions and a face-following vertical crop in the browser (ffmpeg.wasm)",
+      "link": "https://dev.to/freeclipmaker/how-i-burn-word-by-word-captions-and-a-face-following-vertical-crop-in-the-browser-ffmpegwasm-21kk",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:37:41 +0000",
-      "summary": "Performance Marketing Agency Maine: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for performance marketing agency maine is one of the highest-use growth decisions a ",
+      "date": "Fri, 27 Nov 2026 19:19:29 +0000",
+      "summary": "Disclosure: I build ClipTool (https://freeclipmaker.com), the free clip maker used in the examples. The techniques below work in any web app. Turning a landscape video into a captioned vertical clip s",
       "score": 5,
-      "titleZh": "Performance Marketing Agency Maine: How Analytix9 Engineers Profitable Revenue Scale"
+      "titleZh": "How I burn word-by-word captions and a face-following vertical crop in the browser (ffmpeg.wasm)"
     },
     {
-      "title": "Why We Built a Git-Native .http Studio in VS Code (With Zero Login and Pure Node 20+)",
-      "link": "https://dev.to/imgolamrabbani/why-we-built-a-git-native-http-studio-in-vs-code-with-zero-login-and-pure-node-20-267m",
+      "title": "Node.js PDF Assistant Build Log — Why Vector Search Cannot Answer Questions",
+      "link": "https://dev.to/finneganblake3578/nodejs-pdf-assistant-build-log-why-vector-search-cannot-answer-questions-11p7",
       "source": "Dev.to TS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:37:22 +0000",
-      "summary": "Most developers using VS Code for API work eventually run into the same fork in the road: GUI API clients that feel great on day one, then gradually lock local collections behind mandatory sign-in, cl",
+      "date": "Fri, 27 Nov 2026 19:18:47 +0000",
+      "summary": "A one-person developer-tools business cannot afford to treat every plausible PDF passage as an answer. Vector search cannot answer questions on its own: the operational constraint is grounding, becaus",
       "score": 5,
-      "titleZh": "Why We Built a Git-Native .http Studio in VS Code (With Zero Login and Pure Node 20+)"
+      "titleZh": "Node.js PDF Assistant Build Log — Why Vector Search Cannot Answer Questions"
     },
     {
-      "title": "Black Friday 2026: stolen sessions and card testing hit small storefronts",
-      "link": "https://dev.to/eric_culus/black-friday-2026-stolen-sessions-and-card-testing-hit-small-storefronts-5bhh",
+      "title": "TypeScript in 2026: A Practical Field Guide",
+      "link": "https://dev.to/krlz/typescript-in-2026-a-practical-field-guide-pfi",
+      "source": "Dev.to TS",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 27 Nov 2026 19:17:27 +0000",
+      "summary": "TypeScript is not Java with different syntax. It is JavaScript with a static, structural type system. The runtime, data boundaries and failure modes still matter. This is a reference for building and ",
+      "score": 5,
+      "titleZh": "TypeScript in 2026: A Practical Field Guide"
+    },
+    {
+      "title": "Website Migration Checklist: How to Test 301 Redirects in Bulk Before You Lose Your Rankings",
+      "link": "https://dev.to/bellal_hossain_057bfd620a/website-migration-checklist-how-to-test-301-redirects-in-bulk-before-you-lose-your-rankings-11g1",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:32:59 +0000",
-      "summary": "On 24 November 2026, Fortinet's FortiGuard Labs published its holiday season threat report. It counted more than 24,000 newly registered holiday shopping domains and classified more than 4,400 of them",
+      "date": "Fri, 27 Nov 2026 19:15:12 +0000",
+      "summary": "Every few months I see the same story: a team redesigns their website, launches on a Friday, and by the following Friday organic traffic has dropped by 30 to 60%. The cause is rarely Google. It's almo",
       "score": 5,
-      "titleZh": "Black Friday 2026: stolen sessions and card testing hit small storefronts"
+      "titleZh": "Website Migration Checklist: How to Test 301 Redirects in Bulk Before You Lose Your Rankings"
     },
     {
-      "title": "Performance Marketing Agency New Hampshire: How Analytix9 Engineers Profitable Revenue Scale",
-      "link": "https://dev.to/a9leads_1f0037dca685ef4af/performance-marketing-agency-new-hampshire-how-analytix9-engineers-profitable-revenue-scale-234",
+      "title": "I Built a Free SEO Task Manager That Turns Audit Findings Into Work That Actually Gets Done",
+      "link": "https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-seo-task-manager-that-turns-audit-findings-into-work-that-actually-gets-done-4kaa",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:31:08 +0000",
-      "summary": "Performance Marketing Agency New Hampshire: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for performance marketing agency new hampshire is one of the highest-use gro",
+      "date": "Fri, 27 Nov 2026 19:13:39 +0000",
+      "summary": "The problem nobody talks about in SEO Running an audit is the easy part. Every crawler, every Lighthouse run and every Search Console export will happily hand you a list of 40, 80 or 400 issues. The h",
       "score": 5,
-      "titleZh": "Performance Marketing Agency New Hampshire: How Analytix9 Engineers Profitable Revenue Scale"
+      "titleZh": "I Built a Free SEO Task Manager That Turns Audit Findings Into Work That Actually Gets Done"
     },
     {
-      "title": "A Snap-Scrolling Vertical Video Feed with CSS and IntersectionObserver",
-      "link": "https://dev.to/tiktokviewer/a-snap-scrolling-vertical-video-feed-with-css-and-intersectionobserver-4dkb",
+      "title": "Switching an English–French form after a validation error: a local test",
+      "link": "https://dev.to/reluniva-team/switching-an-english-french-form-after-a-validation-error-a-local-test-4fac",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:28:29 +0000",
-      "summary": "Short-video apps all share one interaction: a full-screen vertical feed where each swipe snaps to the next video and only the visible one plays. You can build that feel on the web with CSS scroll snap",
+      "date": "Fri, 27 Nov 2026 19:12:38 +0000",
+      "summary": "AI disclosure: Fully Autonomous. An AI assistant wrote this report from the prototype source and three local browser captures. In an English–French enquiry form, what happens if someone changes the in",
       "score": 5,
-      "titleZh": "A Snap-Scrolling Vertical Video Feed with CSS and IntersectionObserver"
+      "titleZh": "Switching an English–French form after a validation error: a local test"
     },
     {
-      "title": "How AI Video Analytics Can Help With Temple Crowd Monitoring and Stampede Prevention",
-      "link": "https://dev.to/aienalytix/how-ai-video-analytics-can-help-with-temple-crowd-monitoring-and-stampede-prevention-3l67",
+      "title": "Free Backlink Analyzer: Referring Domains, Anchors, New & Lost Links and Competitor Gaps (No Signup, Runs in Your Browser)",
+      "link": "https://dev.to/bellal_hossain_057bfd620a/free-backlink-analyzer-referring-domains-anchors-new-lost-links-and-competitor-gaps-no-o35",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:28:24 +0000",
-      "summary": "Large religious gatherings present a unique operational challenge. Thousands of visitors may arrive at the same location within a limited time, moving through entrances, waiting areas, narrow corridor",
+      "date": "Fri, 27 Nov 2026 19:12:31 +0000",
+      "summary": "Backlink tools are expensive for a reason. Building a web-scale backlink index costs millions, so most tools put the useful features behind a paywall. But if you own a website, you probably already ha",
       "score": 5,
-      "titleZh": "How AI Video Analytics Can Help With Temple Crowd Monitoring and Stampede Prevention"
+      "titleZh": "Free Backlink Analyzer: Referring Domains, Anchors, New & Lost Links and Competitor Gaps (No Signup, Runs in Your Browser)"
     },
     {
-      "title": "Building a Fast, Zero-Paywall HTML5 Canvas Map & GeoGuessr for GTA 6 Leonida",
-      "link": "https://dev.to/muxin4/building-a-fast-zero-paywall-html5-canvas-map-geoguessr-for-gta-6-leonida-p3i",
-      "source": "Dev.to JS",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 27 Nov 2026 06:27:46 +0000",
-      "summary": "Most companion interactive maps for open-world games suffer from two frustrations: heavy DOM marker bloat that drops frame rates once 1,500+ pins render on mobile, and arbitrary 100-pin paywalls that ",
-      "score": 5,
-      "titleZh": "Building a Fast, Zero-Paywall HTML5 Canvas Map & GeoGuessr for GTA 6 Leonida"
-    },
-    {
-      "title": "Ngrok Is Not the Only Tunnel: 15 Alternatives Worth Testing in 2026",
-      "link": "https://dev.to/devandrew/ngrok-is-not-the-only-tunnel-15-alternatives-worth-testing-in-2026-3gcf",
+      "title": "I Built a Free Keyword Research Tool That Uses Real Autocomplete Data in 50+ Countries (No Fake Search Volume)",
+      "link": "https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-keyword-research-tool-that-uses-real-autocomplete-data-in-50-countries-no-fake-2ohl",
       "source": "Dev.to WebDev",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:26:04 +0000",
-      "summary": "Sooner or later, something running on localhost needs a public URL. It might be a Stripe webhook, a client demo, a game server for friends, or a coding agent that needs a real endpoint to validate its",
+      "date": "Fri, 27 Nov 2026 19:11:20 +0000",
+      "summary": "Most free keyword tools have the same problem: they show you search volume and difficulty numbers that are guesses. Those numbers only exist inside paid databases like Google Ads, Ahrefs, Semrush and ",
       "score": 5,
-      "titleZh": "Ngrok Is Not the Only Tunnel: 15 Alternatives Worth Testing in 2026"
+      "titleZh": "I Built a Free Keyword Research Tool That Uses Real Autocomplete Data in 50+ Countries (No Fake Search Volume)"
     },
     {
-      "title": "Three more tools, three more everyday questions: a Myanmar calendar, Sri Lanka land deeds and a Philippines senior discount",
-      "link": "https://dev.to/zaidi617796/three-more-tools-three-more-everyday-questions-a-myanmar-calendar-sri-lanka-land-deeds-and-a-8k5",
+      "title": "I Built a Free Google Search Console Analytics Tool That Runs in Your Browser (No Signup)",
+      "link": "https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-google-search-console-analytics-tool-that-runs-in-your-browser-no-signup-4blo",
+      "source": "Dev.to WebDev",
+      "tags": [
+        "前端"
+      ],
+      "date": "Fri, 27 Nov 2026 19:10:01 +0000",
+      "summary": "Google Search Console is the most honest SEO data source you have. It shows how Google actually displayed your pages: impressions, clicks, CTR and average position. But the default dashboard is awkwar",
+      "score": 5,
+      "titleZh": "I Built a Free Google Search Console Analytics Tool That Runs in Your Browser (No Signup)"
+    },
+    {
+      "title": "I built TableMint — a zero-dependency Chrome Side Panel that exports web tables & div card lists to native Excel (.xlsx)",
+      "link": "https://dev.to/huyvv533/i-built-tablemint-a-zero-dependency-chrome-side-panel-that-exports-web-tables-div-card-lists-to-2ii0",
       "source": "Dev.to JS",
       "tags": [
         "前端"
       ],
-      "date": "Fri, 27 Nov 2026 06:22:03 +0000",
-      "summary": "Today's batch takes RozKaTool — free, no sign-up, everything runs in your browser — from 105 to 108 free tools. Three tools, three countries, and three questions people actually ask in daily life: wha",
+      "date": "Fri, 27 Nov 2026 19:08:30 +0000",
+      "summary": "Every week I need to pull HTML tables, SaaS directories, or repeating e-commerce product cards into Excel, Google Sheets, or Notion. Most existing browser scrapers either choke on modern <div>-based c",
       "score": 5,
-      "titleZh": "Three more tools, three more everyday questions: a Myanmar calendar, Sri Lanka land deeds and a Philippines senior discount"
-    },
-    {
-      "title": "Building an AI Music Generator with Next.js: Async Tasks",
-      "link": "https://dev.to/magiccreator/building-an-ai-music-generator-with-nextjs-async-tasks-2oeo",
-      "source": "Dev.to Next.js",
-      "tags": [
-        "前端"
-      ],
-      "date": "Fri, 27 Nov 2026 06:20:31 +0000",
-      "summary": "A music generator makes an interesting web application problem: the form submission is quick, but the work behind it takes minutes. I'm building Melumi, an AI music generator that turns lyrics or idea",
-      "score": 5,
-      "titleZh": "Building an AI Music Generator with Next.js: Async Tasks"
+      "titleZh": "I built TableMint — a zero-dependency Chrome Side Panel that exports web tables & div card lists to native Excel (.xlsx)"
     }
   ]
 }
